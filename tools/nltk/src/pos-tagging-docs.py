@@ -28,11 +28,11 @@ tagged = tagger.tag(newdata)
 
 to_file = ""
 for (word,tag) in tagged:
-	if not "test.txt" in fileout:
-		to_file += word + '\t' + tag + '\n'
-	else:
-		if not (word == '--SENTENCE--' or word == '--DOCSTART--'):
-			to_file += word + '\t' + tag + '\n'
+	#if not "test.txt" in fileout:
+	to_file += word + '\t' + tag + '\n'
+	#else:
+	#	if not (word == '--SENTENCE--' or word == '--DOCSTART--'):
+	#		to_file += word + '\t' + tag + '\n'
 
 # output to file
 f = open(fileout, 'w')
