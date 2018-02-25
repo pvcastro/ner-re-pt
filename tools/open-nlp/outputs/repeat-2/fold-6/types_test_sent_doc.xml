@@ -1,663 +1,1433 @@
 --DOCSTART--
- <START:PESSOA_INDIVIDUAL> José Sócrates <END> apresentou balanço <START:TEMPO_TEMPO_CALEND> dos últimos seis meses <END>        
- <START:ORGANIZACAO_ADMINISTRACAO> UE <END> : <START:PESSOA_INDIVIDUAL> Durão Barroso <END> elogia prestação da presidência portuguesa        
- O <START:PESSOA_CARGO> presidente da Comissão Europeia <END>  elogiou <START:TEMPO_TEMPO_CALEND> hoje <END> a prestação da presidência portuguesa da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> e a «competente liderança» do primeiro-ministro, <START:PESSOA_INDIVIDUAL> José Sócrates <END> , na condução dos destinos europeus <START:TEMPO_TEMPO_CALEND> no segundo semestre deste ano <END> .
-<START:PESSOA_INDIVIDUAL> Durão Barroso <END> discursava na sessão plenária extraordinária do <START:ORGANIZACAO_ADMINISTRACAO> Parlamento Europeu <END> , durante a qual <START:PESSOA_INDIVIDUAL> José Sócrates <END> apresentou os resultados da presidência portuguesa da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> .
-<START:TEMPO_GENERICO> O ano de "2007 <END> mostrou que a <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> está à altura dos seus compromissos", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu.
-<START:PESSOA_INDIVIDUAL> Durão Barroso <END> lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os <START:ORGANIZACAO_ADMINISTRACAO> Estados-membros <END> , o que foi já <START:TEMPO_TEMPO_CALEND> hoje <END> feito pela <START:ORGANIZACAO_ADMINISTRACAO> Hungria <END> , o primeiro dos <START:VALOR_QUANTIDADE> 27 <END> países a cumprir esta etapa.
-No seu discurso, o dirigente europeu disse concordar com a apreciação feita <START:TEMPO_TEMPO_CALEND> minutos antes <END> por <START:PESSOA_INDIVIDUAL> José Sócrates <END> sobre os seis meses da presidência portuguesa, principalmente a assinatura do <START:OBRA_PLANO> Tratado de Lisboa <END> , novo relacionamento com o <START:ORGANIZACAO_ADMINISTRACAO> Brasil <END> e a cimeira com <START:ORGANIZACAO_ADMINISTRACAO> África <END> .
-<START:PESSOA_INDIVIDUAL> Durão Barroso <END> acrescentou à longa lista de sucessos enunciados por <START:PESSOA_INDIVIDUAL> Sócrates <END> outros que considerou "também importantes", como a decisão de criar o <START:ORGANIZACAO_INSTITUICAO> Instituto Europeu de Tecnologia <END> e o lançamento de uma <START:OBRA_PLANO> Política Marítima Europeia <END> .
-Entre os desafios que esperam a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> nos próximos meses <END> , o <START:PESSOA_CARGO> presidente da Comissão Europeia <END>  destacou a necessidade de os <START:ORGANIZACAO_ADMINISTRACAO> 27 <END> ajudarem a encontrar uma solução para resolver a questão do <START:LOCAL_HUMANO> Kosovo <END> .
-"Isto é um teste para a <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> onde não podemos falhar", sublinhou.
+
+      <START:ORGANIZACAO_INSTITUICAO>AdC<END>
+      dá aprovação à compra da
+      <START:ORGANIZACAO_EMPRESA>Carrefour Portugal<END>
+      pela
+      <START:ORGANIZACAO_EMPRESA>Sonae<END>
+    
+    
+
+      A
+      <START:ORGANIZACAO_INSTITUICAO>Autoridade da Concorrência<END>
+      formalizou
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      a decisão de não oposição à compra da
+      <START:ORGANIZACAO_EMPRESA>Carrefour Portugal<END>
+      pela
+      <START:ORGANIZACAO_EMPRESA>Sonae Distribuição<END>
+      , que fica obrigada à alienação, de pelo menos, dois supermercados
+      <START:COISA_CLASSE>Modelo<END>
+      .
+Além da alienação das lojas
+      <START:COISA_CLASSE>Modelo<END>
+      de
+      <START:LOCAL_HUMANO>Eiras<END>
+      , no distrito de
+      <START:LOCAL_HUMANO>Coimbra<END>
+      e de
+      <START:LOCAL_HUMANO>Lagoa<END>
+      , no concelho de
+      <START:LOCAL_HUMANO>Portimão<END>
+      , a
+      <START:ORGANIZACAO_EMPRESA>Sonae Distribuição<END>
+      comprometeu-se à desafectação de áreas de vendas do retalho alimentar em
+      <START:LOCAL_HUMANO>Paços de Ferreira<END>
+      ,
+      <START:LOCAL_HUMANO>Penafiel<END>
+      e de
+      <START:LOCAL_HUMANO>Valongo<END>
+      ,
+      <START:LOCAL_HUMANO>Porto<END>
+      , de acordo com o comunicado
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      divulgado no site da
+      <START:ORGANIZACAO_INSTITUICAO>Autoridade da Concorrência<END>
+      .
+A entidade liderada por
+      <START:PESSOA_INDIVIDUAL>Abel Mateus<END>
+      tinha já comunicado,
+      <START:TEMPO_TEMPO_CALEND>a 10 de Dezembro<END>
+      , à
+      <START:ORGANIZACAO_EMPRESA>Sonae Distribuição<END>
+      , a «decisão provável de não oposição», que se tornou agora efectiva.
+A
+      <START:ORGANIZACAO_EMPRESA>Sonae Distribuição<END>
+      comprometeu-se a cumprir algumas condições para manter uma concorrência efectiva em todos os mercados relevantes analisados pela
+      <START:ORGANIZACAO_INSTITUICAO>Autoridade da Concorrência<END>
+      , nomeadamente,
+      <START:LOCAL_HUMANO>Montijo<END>
+      ,
+      <START:LOCAL_HUMANO>Seixal<END>
+      ,
+      <START:LOCAL_HUMANO>Barreiro<END>
+      ,
+      <START:LOCAL_HUMANO>Paços de Ferreira<END>
+      ,
+      <START:LOCAL_HUMANO>Penafiel<END>
+      ,
+      <START:LOCAL_HUMANO>Grande Porto<END>
+      ,
+      <START:LOCAL_HUMANO>Viana do Castelo<END>
+      ,
+      <START:LOCAL_HUMANO>Coimbra<END>
+      e
+      <START:LOCAL_HUMANO>Portimão<END>
+      .
+Entre os compromissos assumidos pela
+      <START:ORGANIZACAO_EMPRESA>Sonae Distribuição<END>
+      , conta-se ainda o de não apresentar pedidos de novas licenças para retalho de base alimentar nos mercados relevantes
+      <START:LOCAL_HUMANO>Montijo<END>
+      ,
+      <START:LOCAL_HUMANO>Seixal<END>
+      ,
+      <START:LOCAL_HUMANO>Barreiro<END>
+      ,
+      <START:LOCAL_HUMANO>Paços de Ferreira<END>
+      ,
+      <START:LOCAL_HUMANO>Penafiel<END>
+      ,
+      <START:LOCAL_HUMANO>Viana do Castelo<END>
+      , coimbra e
+      <START:LOCAL_HUMANO>Portimão<END>
+      .
+No mercado relevante de
+      <START:LOCAL_HUMANO>Viana do Castelo<END>
+      , a
+      <START:ORGANIZACAO_EMPRESA>Sonae<END>
+      terá que alienar o projecto da loja
+      <START:COISA_CLASSE>Carrefour<END>
+      e, se não existir comprador para o projecto, não poderá utilizar a licença num prazo <START:TEMPO_DURACAO>de
+      cinco anos<END>
+      a contar da decisão da
+      <START:ORGANIZACAO_INSTITUICAO>Autoridade<END>
+      , salvo se, entretanto, tiver aberto ao público algum hipermercado concorrente na região, segundo o comunicado da
+      <START:ORGANIZACAO_INSTITUICAO>AdC<END>
+      .
+No
+      <START:LOCAL_HUMANO>Grande Porto<END>
+      , a
+      <START:ORGANIZACAO_EMPRESA>Sonae<END>
+      terá que converter o projecto
+      <START:OBRA_PLANO>Carrefour<END>
+      para o
+      <START:LOCAL_HUMANO>Campo 24 de Agosto<END>
+      em supermercado
+      <START:COISA_CLASSE>Modelo<END>
+      , o que equivale a uma redução da área afecta à actividade de base alimentar em, pelo menos,
+      <START:VALOR_QUANTIDADE>1.500 metros quadrados<END>
+      .
 --DOCSTART--
 
-Tabaco: <START:ORGANIZACAO_INSTITUICAO> Associação <END> lamenta exemplo de <START:PESSOA_CARGO> presidente da ASAE <END> 
-O <START:PESSOA_CARGO> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END>  ( <START:ORGANIZACAO_INSTITUICAO> CPPT <END> ) considerou <START:TEMPO_TEMPO_CALEND> hoje <END> «um exemplo lamentável» o facto de o <START:PESSOA_CARGO> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END>  ter sido fotografado a fumar num casino depois da entrada em vigor da lei do <START:OBRA_PLANO> Tabaco <END> .
-<START:PESSOA_INDIVIDUAL> António Nunes <END> , <START:PESSOA_CARGO> presidente da Autoridade de Segurança Alimentar e Económica <END>  ( <START:ORGANIZACAO_INSTITUICAO> ASAE <END> ), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo <START:PESSOA_GRUPOMEMBRO> Diário de Notícias <END> ( <START:PESSOA_GRUPOMEMBRO> DN <END> ) a fumar uma cigarrilha no  <START:LOCAL_HUMANO> Casino <END> do <START:LOCAL_HUMANO> Estoril <END> <START:TEMPO_TEMPO_CALEND> às 02.30 da manhã <END> <START:TEMPO_TEMPO_CALEND> do dia 01 de Janeiro <END> .
-Em explicações ao <START:ORGANIZACAO_EMPRESA> DN <END> , <START:PESSOA_INDIVIDUAL> António Nunes <END> considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
-No entanto, um parecer da <START:ORGANIZACAO_INSTITUICAO> Direcção Geral de Saúde <END> a que a <START:ORGANIZACAO_EMPRESA> Lusa <END> teve acesso <START:TEMPO_TEMPO_CALEND> sexta-feira <END> indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
-«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à <START:ORGANIZACAO_EMPRESA> Lusa <END> o <START:PESSOA_CARGO> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END> , <START:PESSOA_INDIVIDUAL> Luís Rebelo <END> .
-<START:PESSOA_INDIVIDUAL> Luís Rebelo <END> desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de <START:PESSOA_INDIVIDUAL> António Nunes <END> a «um automatismo» inconsciente.
-Sobre as dúvidas manifestadas pelo máximo responsável da <START:ORGANIZACAO_INSTITUICAO> ASAE <END> relativamente ao âmbito de aplicação da nova lei, <START:PESSOA_INDIVIDUAL> Luís Rebelo <END> considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
-«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
-Sobre <START:TEMPO_GENERICO> os primeiros dias <END> da vigência da proibição de fumar em espaços de uso colectivo fechados, <START:PESSOA_INDIVIDUAL> Luís Rebelo <END> considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
-A lei do <START:OBRA_PLANO> Tabaco <END> , que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO_TEMPO_CALEND> às 00:00 <END> <START:TEMPO_TEMPO_CALEND> do dia 01 de Janeiro <END> .
-A <START:ORGANIZACAO_EMPRESA> Lusa <END> tentou contactar o <START:PESSOA_CARGO> porta-voz da ASAE <END>  para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO_TEMPO_CALEND> até ao momento <END> .
+
+Escola lança quadrinhos em prol do meio ambiente
+
+
+Fonte: Press Release  (<START:TEMPO_TEMPO_CALEND>28/10/2003<END>)
+
+
+A <START:ACONTECIMENTO_ORGANIZADO>Expotec 2003<END>,  <START:ACONTECIMENTO_ORGANIZADO>Feira de Ciências e Cultura<END> da <START:ORGANIZACAO_INSTITUICAO>Escola Fortec<END>, reuniu <START:VALOR_QUANTIDADE>mais de 2000<END> pessoas na unidade 4, em <START:LOCAL_HUMANO>São Vicente<END> - Feira de Ciências e Cultura da Escola Fortec.
+Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina <START:ABSTRACCAO_DISCIPLINA>Noções básicas de Histórias em Quadrinhos<END>, da <START:ORGANIZACAO_INSTITUICAO>Associação dos Artistas - Música e Arte<END>.
+O evento contou com o lançamento do <START:OBRA_REPRODUZIDA>Zine Expotec 2003 - Meio Ambiente<END>, ilustrações e mascotes criados pelos alunos.
+Além da exposição, cada aluno criou sua mascote que virou camiseta.
+A oficina foi coordenada por <START:PESSOA_INDIVIDUAL>Fábio Tatsubô<END> com a monitoria de <START:PESSOA_INDIVIDUAL>André Prata<END>.
+Links Relacionados: <START:LOCAL_VIRTUAL>HQ Nacional<END>
+
+
+<START:ORGANIZACAO_EMPRESA>Editora Rocco<END> lança <START:OBRA_REPRODUZIDA>Mulheres Alteradas 5<END> (<START:TEMPO_TEMPO_CALEND>09/06/05<END>)
+
+
+Lançamento do mangá <START:OBRA_REPRODUZIDA>Fruits Basket<END> no <START:ACONTECIMENTO_ORGANIZADO>Anima Weekend<END> (<START:TEMPO_TEMPO_CALEND>07/04/05<END>)
+
+
+<START:PESSOA_GRUPOMEMBRO>Turma da Mônica<END> será estrela de campanha internacional de vacinação (<START:TEMPO_TEMPO_CALEND>30/03/05<END>)
+
+
+<START:COISA_CLASSE>HQs<END> de <START:PESSOA_INDIVIDUAL>Velta<END> disponíveis em CD-Rom (<START:TEMPO_TEMPO_CALEND>22/03/05<END>)
+
+
+Folclore brasileiro em estilo mangá (<START:TEMPO_TEMPO_CALEND>03/03/05<END>)
+
+
 --DOCSTART--
 
-Distribuição de jornais gratuitos quase duplicou <START:TEMPO_TEMPO_CALEND> este ano <END>
-O número de jornais gratuitos nacionais distribuídos <START:TEMPO_TEMPO_CALEND> nos nove primeiros meses deste ano <END> quase duplicou em relação <START:TEMPO_TEMPO_CALEND> ao mesmo período de 2006 <END> , ultrapassando os <START:VALOR_QUANTIDADE> 600 mil <END> exemplares, de acordo com dados <START:TEMPO_TEMPO_CALEND> hoje <END> divulgados pela <START:ORGANIZACAO_INSTITUICAO> APCT <END> .
-A subida deveu-se sobretudo ao lançamento de dois novos títulos - o <START:COISA_CLASSE> Global Notícias <END> e o <START:COISA_CLASSE> Meia-Hora <END> que, em conjunto, representam <START:VALOR_QUANTIDADE> mais de 235 mil <END> exemplares - mas também a um crescimento das tiragens dos principais jornais gratuitos que já existiam.
-Entre os mais antigos, o maior crescimento foi registado pelo <START:COISA_CLASSE> Metro <END> que passou a distribuir <START:VALOR_QUANTIDADE> mais 22.600 <END> exemplares do que fazia <START:TEMPO_TEMPO_CALEND> no ano passado <END> , atingindo <START:TEMPO_TEMPO_CALEND> este ano <END> os <START:VALOR_QUANTIDADE> 180 mil <END> .
-Com este aumento, o <START:COISA_CLASSE> Metro <END> passou a ser o maior jornal gratuito, à frente do <START:COISA_CLASSE> Destak <END> que registou, <START:TEMPO_TEMPO_CALEND> este ano <END> , uma circulação de <START:VALOR_QUANTIDADE> 173 mil <END> exemplares (melhorando <START:VALOR_QUANTIDADE> 5,3 por cento <END> ).
-A maior subida em termos relativos foi, no entanto, protagonizada pelo económico gratuito <START:COISA_CLASSE> Oje <END> que aumentou a sua circulação em <START:VALOR_QUANTIDADE> quase 56 por cento <END> , passando para os <START:VALOR_QUANTIDADE> 22 mil <END> exemplares.
-Refira-se que os dados <START:TEMPO_TEMPO_CALEND> hoje <END> divulgados pela <START:ORGANIZACAO_INSTITUICAO> APCT <END> não contabilizam ainda o jornal lançado pelo <START:ORGANIZACAO_EMPRESA> Público <END> e <START:ORGANIZACAO_EMPRESA> A Bola <END> , o <START:COISA_CLASSE> Sexta-feira <END> .
---DOCSTART--
 
-O  <START:ACONTECIMENTO_ORGANIZADO> Tour <END> de <START:LOCAL_HUMANO> França <END> <START:TEMPO_TEMPO_CALEND> de 2009 <END>  vai começar no <START:LOCAL_HUMANO> Mónaco <END> com um contra-relógio de <START:VALOR_QUANTIDADE> 15 quilómetros <END> , numa etapa que também terminará no principado monegasco.
-O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de <START:ABSTRACCAO_DISCIPLINA> Fórmula 1 <END> .
-"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <START:PESSOA_INDIVIDUAL> Christian Prudhomme <END> como justificação para a decisão.
-O  <START:ACONTECIMENTO_ORGANIZADO> Tour <END> de <START:LOCAL_HUMANO> França <END> voltará assim ao <START:LOCAL_HUMANO> Mónaco <END> , <START:TEMPO_DURACAO> depois de 45 anos <END>  ausente.
+A fama do <START:COISA_CLASSE>Prius<END>
+
+
+<START:TEMPO_DURACAO>Durante o ano passado<END> o nome <START:ABSTRACCAO_NOME>Toyota Prius<END> esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
+Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome <START:ABSTRACCAO_NOME>Prius<END> tornou-se um sinónimo de híbrido Nos <START:LOCAL_HUMANO>Estados Unidos da America<END> foram vendidos <START:TEMPO_TEMPO_CALEND>em 2004<END> <START:VALOR_QUANTIDADE>mais de 50 mil<END> unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de <START:COISA_CLASSE>Prius<END> a serem vendidos em segunda mão ao mesmo preço que um novo.
+Um habitáculo simples, confortável e espaçoso.
+Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de <START:LOCAL_HUMANO>Hollywood<END>.
+<START:PESSOA_INDIVIDUAL>Cameron Diaz<END>, <START:PESSOA_INDIVIDUAL>Leonardo DiCaprio<END> ou <START:PESSOA_INDIVIDUAL>Will Ferrell<END> são três dos muitos nomes famosos que possuem um <START:COISA_CLASSE>Toyota Prius<END>.
+Economia e performance
+
+
+Em cidade o <START:COISA_CLASSE>Prius<END> consome apenas <START:VALOR_QUANTIDADE>4,3 litros<END> a cada <START:VALOR_QUANTIDADE>100km<END>, tornando-o num dos automóveis mais económicos do mercado.
+Estamos claro a falar dum motor <START:COISA_CLASSE>1.5 VVT-i <END> com apenas <START:VALOR_QUANTIDADE>78cv<END>, que aliado ao sistema <START:COISA_CLASSE>HSD<END> (<START:COISA_CLASSE>Hybrid Synergy Drive<END>) aumenta a sua potência para <START:VALOR_QUANTIDADE>110cv<END>.
+<START:VALOR_QUANTIDADE>Dos 0 aos 100km/h<END> o <START:COISA_CLASSE>Prius<END> demora <START:TEMPO_DURACAO>cerca de 11 segundos<END>.
+A <START:ORGANIZACAO_EMPRESA>Toyota<END> afirma que, apesar destas prestações conseguiram reduzir em <START:VALOR_QUANTIDADE>89%<END> as emissões libertadas, comparando a um veículo novo a gasolina.
 --DOCSTART--
     
-De bicicleta também pelo Ambiente    
-Durante a <START:ACONTECIMENTO_ORGANIZADO> Conferência das Nações Unidas sobre as Alterações Climáticas <END> , em <START:LOCAL_HUMANO> Bali <END> , o <START:COISA_CLASSE> Público <END> teve uma secção designada " <START:ABSTRACCAO_NOME> Eu contribuo <END> ", onde os leitores eram convidados a dizerem aquilo que fazem pelo <START:ABSTRACCAO_DISCIPLINA> Ambiente <END> .
-Não parece ter havido muitos participantes, mas houve quem divulgasse a sua opção pela bicicleta como meio de transporte principal ou secundário.
-<START:PESSOA_INDIVIDUAL> Joana Marinho <END> , uma estudante universitária de <START:VALOR_QUANTIDADE> 25 anos <END> , de <START:LOCAL_HUMANO> Vila do Conde <END> : «Tudo começou quando os meus pais acoplaram às bicicletas cestinhos de verga para nos levarem, a mim e aos meus irmãos, nas deslocações ao supermercado e à praia.
-A partir dos seis anos, eu e o meu irmão mais velho íamos para a escola de bicicleta.
-Este hábito perdura <START:TEMPO_TEMPO_CALEND> até hoje <END> , ao qual se acrescentaram muitas outras medidas.»    
-Também <START:PESSOA_INDIVIDUAL> Vítor Pereira <END> , um recém-licenciado em <START:ABSTRACCAO_DISCIPLINA> Medicina <END> , <START:VALOR_QUANTIDADE> 28 anos <END> , de <START:LOCAL_HUMANO> Matosinhos <END> , usa a bicicleta como opção de transporte: «(...) a ida para o trabalho, sempre que possível uso a bicicleta ou o transporte público.»    
-Obrigada ao <START:PESSOA_INDIVIDUAL> Hugo Jorge <END> pela dica.
+P: Então tu passaste uma infância muito sozinha?
+Bem, na província, <START:TEMPO_FREQUENCIA>às vezes<END> brincava com outros meninos filhos do ... ou doutras pessoas do tribunal, ou da rua, até.
+Brincava... Ali, em
+      <START:LOCAL_HUMANO>Alenquer<END>
+      .
+Porque <START:TEMPO_TEMPO_CALEND>depois<END> viemos, voltámos para
+      <START:LOCAL_HUMANO>Lisboa<END>
+      , o meu pai esteve então, se não me engano, como ... chefe de gabinete do 
+      <START:PESSOA_CARGO>Ministro da Justiça<END>
+      , por isso, voltámos, que era o
+      <START:PESSOA_INDIVIDUAL>dr.
+Catanho de Meneses<END>
+      .
+Voltámos para
+      <START:LOCAL_HUMANO>Lisboa<END>
+      e foi quando saímos de
+      <START:LOCAL_HUMANO>Santa Quitéria<END>
+      para a
+      <START:LOCAL_HUMANO>Rua Sampaio Pina<END>
+      .
+E na
+      <START:LOCAL_HUMANO>Rua Sampaio Pina<END>
+      , que era ao lado do
+      <START:LOCAL_HUMANO>Rádio Clube Português<END>
+      , a casa que ainda existe <START:TEMPO_GENERICO>hoje<END> e faz esquina para a rua <START:LOCAL_HUMANO>Castilho<END>
+      , no primeiro andar, então alugámos essa casa, e aí então é que eu comecei foi a aprender o alemão com uma preceptora alemã, que era... que vinha <START:TEMPO_FREQUENCIA>três vezes por semana<END>, dar-me lição de alemão.
+Não estava lá em casa, havia preceptoras internas, que estavam dentro, que eram internas, estavam lá, nas casas dos respectivos alunos, mas aquela senhora, a
+      <START:PESSOA_INDIVIDUAL>Kaethe Goethe<END>
+      , não.
+Vinha
+      <START:TEMPO_FREQUENCIA>três vezes por semana<END>
+      dar-me a lição de alemão.
+D: E tu gostavas?
+Gostava!
+Tinha uns livros assim muito engraçados, que ainda
+      <START:TEMPO_GENERICO>hoje<END>
+      conheces, que conservo.
+D: E ela era professora?
+Ela era professora mesmo, ou?
+Era professora, quero dizer ela veio para
+      <START:LOCAL_HUMANO>Portugal<END>
+      dar aulas.
+Não sei se veio interna para uma casa e <START:TEMPO_TEMPO_CALEND>depois<END> deixou, estava...
+    
+    
+D: Mas enfim, não é uma senhora alemã que dava umas aulinhas para ... para
+    
+
+      Não, ela era uma senhora que tinha vindo da
+      <START:LOCAL_HUMANO>Alemanha<END>
+      só para ser professora, e tinha... tinha-se instalado numa casa que era o lar das... das professoras de alemão, que havia
+      <START:TEMPO_TEMPO_CALEND>nessa altura<END>
+      , na
+      <START:LOCAL_HUMANO>Avenida<END>
+      , perto da
+      <START:LOCAL_HUMANO>Praça da Alegria<END>
+      .
+Lembro-me de ela lá me ter levado e tenho aí até fotografias de um cão, desse dito lar, a querer abraçar-me, coisa que eu não gostei nada, como continuo a não gostar de abraços de cão.
+D: Mas já tinhas o
+      <START:COISA_OBJECTO>Sirius<END>
+      ...
+Não, o
+      <START:COISA_OBJECTO>Sirius<END>
+      veio
+      <START:TEMPO_TEMPO_CALEND>muitíssimo mais tarde<END>
+      .
+Não, na
+      <START:LOCAL_HUMANO>Sampaio Pina<END>
+      não tinha o
+      <START:COISA_OBJECTO>Sirius<END>
+      , não tinha cão nenhum.
+D: Então tinhas a tua mãe, como professora de tudo o resto e a senhora
+    
+
+      Pois, o resto, tinha grandes amigas sempre.
+Constante, até era, mais até que as minhas primas... tinha as minhas primas, e tinha a
+      <START:PESSOA_INDIVIDUAL>Joaninha Sampaio e Melo<END>
+      , que era filha da maior amiga da minha mãe, da
+      <START:LOCAL_HUMANO>Lourinhã<END>
+      .
 --DOCSTART--
     
- Terá ainda que se esperar para ver outros resultados do <START:OBRA_PLANO> Plano Tecnológico <END> , mas este perdeu dinâmica <START:TEMPO_TEMPO_CALEND> no último ano <END> .
+
+      O jardim de caminhos que se encontram (algumas palavras sobre o conto de
+      <START:PESSOA_INDIVIDUAL>Borges<END>
+      e o filme de
+      <START:PESSOA_INDIVIDUAL>Tom Tykwer<END>
+      )
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Roberto Azoubel<END>
+    
+    
+
+      (Este texto é dedicado ao professor e poeta
+      <START:PESSOA_INDIVIDUAL>Jorge Wanderley<END>
+      (em memória) que me "incomodava" com
+      <START:ABSTRACCAO_DISCIPLINA>Borges<END>
+      e com a literatura.)
+Uma das tarefas mais importantes da arte foi sempre a de gerar uma demanda cujo atendimento integral só poderia produzir-se
+      <START:TEMPO_TEMPO_CALEND>mais tarde<END>
+      ."
+<START:PESSOA_INDIVIDUAL>Walter Benjamim<END>
+    
+    
+I1.
+Com o desenvolvimento da imprensa
+      <START:TEMPO_TEMPO_CALEND>no começo do século XX<END>
+      , o romance - forma literária intrinsecamente ligada ao objeto livro - emerge em sintonia com toda a evolução das forças produtivas da sociedade, tornando-se um gênero de grande difusão no mundo.
+Tal difusão levou o filósofo alemão
+      <START:PESSOA_INDIVIDUAL>Walter Benjamim<END>
+      a se preocupar com a morte do narrador - aquele do discurso vivo - como podemos observar no texto
+      <START:OBRA_REPRODUZIDA>O Narrador<END>
+      , escrito
+      <START:TEMPO_TEMPO_CALEND>em 1936<END>
+      .
+O texto de
+      <START:PESSOA_INDIVIDUAL>Benjamim<END>
+      nos remete a uma recente discussão que seria a factível morte da literatura diante do crescimento da produção cinematográfica que se espalha pelo planeta.
+Proponho-me neste texto analisar justamente esta contenda, assumindo posições que ficarão nítidas no decorrer do seu corpo.
+Para tal empreitada, tomo como referências o conto 
+      O Jardim dos Caminhos que se Bifurcam  
+      , escrito
+      <START:TEMPO_TEMPO_CALEND>em 1941<END>
+      pelo argentino
+      <START:PESSOA_INDIVIDUAL>Jorge Luis Borges<END>
+      , e o fresquíssimo
+      <START:OBRA_REPRODUZIDA>Corra Lola, Corra<END>
+      (
+      <START:OBRA_REPRODUZIDA>Lola Rennt<END>
+      ), filme alemão realizado pelo diretor e roteirista
+      <START:PESSOA_INDIVIDUAL>Tom Tykwer<END>
+      .
+II
+    
+
+      Para chegarmos ao conto de
+      <START:PESSOA_INDIVIDUAL>Borges<END>
+      , passemos antes por
+      <START:PESSOA_INDIVIDUAL>Italo Calvino<END>
+      .
+No capítulo chamado "
+      <START:ABSTRACCAO_NOME>Multiplicidade<END>
+      " do seu livro
+      <START:OBRA_REPRODUZIDA>Seis Propostas para o Próximo Milênio<END> 
+      ,
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      destaca como uma das (boas) características da literatura contemporânea essa capacidade de estabelecer redes de conexões entre os acontecimentos, entre as pessoas, entre as coisas do mundo, em outras palavras, essa capacidade atual de a escritura poder ser múltipla.
+No decorrer do capítulo, o autor italiano mostra várias formas de multiplicidades que ocorrem na literatura.
+No entanto, para não sairmos do foco da discussão do texto, fiquemos inicialmente com o exemplo do romancista italiano
+      <START:PESSOA_INDIVIDUAL>Carlo Emilio Gadda<END>
+      , de quem, entre outros autores,
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      se serve como ilustração.
+Segundo
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      (
+        <START:TEMPO_TEMPO_CALEND>1990<END>
+        : 121), "
+      <START:PESSOA_INDIVIDUAL>Gadda<END>
+      durante toda a sua vida buscou representar o mundo como um rolo, uma embrulhada, um aranzel, sem jamais atenuar-lhe a complexidade inextricável - ou, melhor dizendo, a presença simultânea dos elementos mais heterogêneos que concorrem para a determinação de cada evento".
+E mais adiante, apoiado no ensaio 
+      La disarmonia prestabilita   do crítico <START:PESSOA_INDIVIDUAL>Gian Carlo Roscioni<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      ainda coloca que "esse conhecimento das coisas enquanto 'relações infinitas, passadas e futuras, reais e possíveis, que para elas convergem?, exige que tudo seja exatamente denominado, descrito e localizado no espaço e no tempo"(
+        CALVINO, 1990 :123).
+Outros romancistas como
+      <START:PESSOA_INDIVIDUAL>Proust<END>
+      e
+      <START:PESSOA_INDIVIDUAL>George Perec<END>
+      , com o seu
+      <START:OBRA_REPRODUZIDA>A Vida Modos de Usar<END>
+      , são citados no capítulo como exemplos de uma escritura que conduz à multiplicidade (de caminhos, de níveis, de pensamentos, de vozes etc.).
+Mas, de acordo com
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      , esse modelo de redes possíveis pode ser construído tanto em romances extensos, como pode ser concentrado nas poucas páginas de um conto de
+      <START:PESSOA_INDIVIDUAL>Borges<END>
+      .
+Chegamos assim a' 
+      O Jardim dos Caminhos que se Bifurcam
+      .
+O conto, classificado pelo autor como policial, narra o percurso do personagem principal da cama até o jardim em que comete um assassinato como estratégia de sua missão de espionagem.
+No entanto, no seu enredo (e aqui também me apoio na leitura que
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      faz dele)
+      <START:PESSOA_INDIVIDUAL>Borges<END>
+      desenvolve várias noções acerca do tempo.
+No início, enquanto o protagonista está no seu quarto se preparando para realizar sua incumbência, o autor expõe um tempo preciso e no presente: "refleti que tudo aquilo que acontece com alguém, acontece agora, precisamente agora.
+Séculos de séculos e apenas no presente ocorrem fatos; inumeráveis homens no ar, na terra e no mar e tudo o que realmente sucede, sucede a mim..." (
+        BORGES,1995 : 94
+      ).
+Em seguida,
+      <START:PESSOA_INDIVIDUAL>Calvino<END>
+      , ainda no seu
+      <START:OBRA_REPRODUZIDA>Seis Propostas<END>
+      ..., relata que
+      <START:PESSOA_INDIVIDUAL>Borges<END>
+      mostra "uma idéia de tempo determinado pela vontade, no qual o futuro se apresenta tão irrevogável quanto o  passado"(
+        CALVINO, 1990 : N).
+Por último, a idéia de um tempo múltiplo, que é a idéia central do conto e, afinal, o que nos interessa aqui.
+Veremos abaixo como essa idéia de um tempo múltiplo se apresenta no conto.
+Ao chegar numa casa de portão alto, o protagonista é recebido por sua futura vítima,
+      <START:PESSOA_INDIVIDUAL>Stephen Albert<END>
+      , sujeito que fora encarregado de decifrar um enigma do livro escrito por
+      <START:PESSOA_INDIVIDUAL>Ts'ui Pen<END>
+      .
+Este, que era um antepassado do próprio personagem principal, tinha abandonado sua próspera vida (era governador de sua província, doutor em astronomia, em astrologia, enxadrista, calígrafo e famoso poeta) para compor um labirinto e um livro.
+No entanto, o enigma revelado por
+      <START:PESSOA_INDIVIDUAL>Albert<END>
+      é justamente que o livro e o labirinto são o mesmo objeto.
+A chave para a descoberta estava num fragmento de uma carta deixada por
+      <START:PESSOA_INDIVIDUAL>Ts'ui Pen<END>
+      , no qual estava escrito: "Deixo aos vários futuros (não a todos) meu jardim de caminhos que se bifurcam" (BORGES, 1995: 94 94 | BORGES, 1995: 94).
+--DOCSTART--
+    
+
+      Preço do barril de crude chegou ao nível histórico de
+      <START:VALOR_MOEDA>100 dólares<END>
+    
+    
+
+      <START:TEMPO_TEMPO_CALEND>03.01.2008<END>
+      -
+      <START:TEMPO_TEMPO_CALEND>08h46<END>
+    
+    
+
+      Por
+      <START:PESSOA_INDIVIDUAL>Lurdes Ferreira<END>
+    
+    
+
+      <START:TEMPO_TEMPO_CALEND>Às 17h30<END>
+      <START:TEMPO_TEMPO_CALEND>de ontem<END>
+      em
+      <START:LOCAL_HUMANO>Lisboa<END>
+      , a vaga especulativa do mercado do petróleo convergiu com as previsões
+      <START:TEMPO_TEMPO_CALEND>dos últimos meses<END>
+      que davam como certa a chegada do preço do crude aos
+      <START:VALOR_MOEDA>100 dólares<END>
+      .
+As projecções tornaram-se realidade,
+      <START:TEMPO_TEMPO_CALEND>ao fim de um ano<END>
+      em que o preço desta matéria subiu
+      <START:VALOR_QUANTIDADE>58 por cento<END>
+      e que foi também o maior aumento anual
+      <START:TEMPO_TEMPO_CALEND>da última década<END>
+      .
+O recorde histórico verificou-se na bolsa mercantil de
+      <START:LOCAL_HUMANO>Nova Iorque<END>
+      , com a transacção do crude de tipo leve, de referência para o mercado dos
+      <START:LOCAL_HUMANO>EUA<END>
+      , com entrega
+      <START:TEMPO_TEMPO_CALEND>para Fevereiro<END>
+      , a pular mais de três dólares numa só sessão e a bater na marca histórica dos
+      <START:VALOR_MOEDA>100 dólares<END>
+      .
+Baixou pouco depois para os
+      <START:VALOR_MOEDA>99,17 dólares<END>
+      .
+Em
+      <START:LOCAL_HUMANO>Londres<END>
+      , o
+      
+        <START:COISA_CLASSE>Brent do Mar do Norte<END>
+        
+      , também com entrega
+      <START:TEMPO_TEMPO_CALEND>para Fevereiro<END>
+      , subiu igualmente
+      mais de três dólares
+      e passou pela primeira vez o patamar dos
+      <START:VALOR_MOEDA>97 dólares<END>
+      .
+O novo máximo histórico ficou em
+      <START:VALOR_MOEDA>97,74 dólares<END>
+      .
+A onda de violência na
+      <START:LOCAL_HUMANO>Nigéria<END>
+      e a instabilidade no
+      <START:LOCAL_HUMANO>Paquistão<END>
+      são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude
+      <START:TEMPO_TEMPO_CALEND>nos últimos anos<END>
+      .
+Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista (
+      <START:PESSOA_POVO>China<END>
+      , que já é o segundo maior consumidor do mundo, e a
+      <START:PESSOA_POVO>Índia<END>
+      ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a
+      <START:ORGANIZACAO_ADMINISTRACAO>OPEP<END>
+      , em aumentar significativamente a sua produção.
+Outras são conjunturais: temperaturas frias do pico
+      <START:TEMPO_GENERICO>do Inverno<END>
+      ; e a descida das reservas dos
+      <START:LOCAL_HUMANO>EUA<END>
+      , o maior mercado consumidor do mundo.
+Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.
+"Vamos aqui ficar [no patamar dos
+      <START:VALOR_MOEDA>100 dólares<END>
+      ], enquanto houver um desequilíbrio entre a oferta e a procura", afirmou à
+      <START:PESSOA_GRUPOMEMBRO>France Presse<END>
+      o analista do mercado de capitais da
+      <START:ORGANIZACAO_EMPRESA>BMO<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Bart Melek<END>
+      .
+Para este desequilíbrio contribui agora a nova vaga de violência da
+      <START:LOCAL_HUMANO>Nigéria<END>
+      , país que
+      <START:TEMPO_TEMPO_CALEND>nos últimos anos<END>
+      já perdeu
+      <START:VALOR_QUANTIDADE>25 por cento<END>
+      da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos
+      <START:LOCAL_HUMANO>EUA<END>
+      .
+Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de
+      <START:VALOR_QUANTIDADE>12<END>
+      pessoas <START:TEMPO_TEMPO_CALEND>na passagem de ano<END>, é agora superior ao que foi
+      <START:TEMPO_TEMPO_CALEND>nos últimos meses<END>
+      .
+E contribui também a situação geopolítica no
+      <START:LOCAL_HUMANO>Paquistão<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>uma semana depois<END>
+      do assassinado de
+      <START:PESSOA_INDIVIDUAL>Benazir Bhuto<END>
+      - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.
+A situação destes dois países "provocou o regresso de muito capital especulativo ao mercado", segundo o
+      <START:PESSOA_CARGO>presidente da Ritterbusch &amp; Associates<END> 
+      ,
+      <START:PESSOA_INDIVIDUAL>Jim Ritterbusch<END>
+      , citado pela
+      <START:LOCAL_VIRTUAL>Reuters<END>
+      .
+Mas estes não são os únicos dois países em turbulência geopolítica.
+É também o
+      <START:LOCAL_HUMANO>Quénia<END>
+      , "ao lado da
+      <START:LOCAL_HUMANO>Nigéria<END>
+      , que se incendeia", diz
+      <START:PESSOA_INDIVIDUAL>Moncef Kaabi<END>
+      , da
+      <START:ORGANIZACAO_EMPRESA>Natixis<END>
+      , é também a
+      <START:LOCAL_HUMANO>Turquia<END>
+      , com as operações contra os separatistas curdos no
+      <START:LOCAL_HUMANO>Norte<END>
+      , justificando que mercados como o do petróleo "traduzem a inquietação e a incerteza dos investidores".
+Por outro lado, os
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      deverão anunciar ainda
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, <START:TEMPO_FREQUENCIA>pela sétima semana consecutiva<END>, desta vez em
+      <START:VALOR_QUANTIDADE>1,8 milhões<END>
+      de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da 
+      Reuters 
+      .
+O preço actual do petróleo ficou agora mais próximo do pico de
+      <START:VALOR_MOEDA>100 dólares<END>
+      <START:TEMPO_TEMPO_CALEND>de 1980<END>
+      provocado pela guerra entre o
+      <START:ORGANIZACAO_ADMINISTRACAO>Irão<END>
+      e o
+      <START:ORGANIZACAO_ADMINISTRACAO>Iraque<END>
+      , dois países-membros da
+      <START:ORGANIZACAO_INSTITUICAO>OPEP<END>
+      .
+O preço de então ajustado à inflação representa
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      <START:VALOR_MOEDA>101,7 dólares<END>
+      .
+A convicção dominante no mercado, a avaliar pelos analistas contactados pela
+      <START:PESSOA_MEMBRO>Reuters<END>
+      , é a de que o preço desta matéria-prima continuará provavelmente a subir
+      <START:TEMPO_TEMPO_CALEND>nos próximos cinco anos<END>
+      , a não ser que o crescimento económico abrande e abrande também a procura de combustível.
+A pressão para a subida de preços que se verifica
+      <START:TEMPO_TEMPO_CALEND>desde 2002<END>
+      continua a ter condições para manter o ritmo: algumas regiões fora da
+      <START:ORGANIZACAO_INSTITUICAO>OPEP<END>
+      , nomeadamente o mar do 
+      <START:LOCAL_FISICO>Norte<END>
+      , têm a sua produção em declínio, a
+      <START:ORGANIZACAO_ADMINISTRACAO>China<END>
+      mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.
+Para analistas como
+      <START:PESSOA_INDIVIDUAL>Kris Voorspools<END>
+      , da
+      <START:ORGANIZACAO_EMPRESA>Fortis<END>
+      , em
+      <START:LOCAL_HUMANO>Bruxelas<END>
+      , o "preço do petróleo pode continuar a subir", por se estar perante o "simples fundamento da oferta e da procura".
+Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por
+      <START:PESSOA_INDIVIDUAL>Nauman Barakat<END>
+      ,
+      
+        <START:PESSOA_CARGO>vice-presidente da Macquarie Futures<END>
+         dos <START:LOCAL_HUMANO>EUA<END>
+      .
+--DOCSTART--
+    
+Prioridades
+    
+1.
+Revisão do mecanismo comunitário de protecção civil
+    
+
+      <START:TEMPO_TEMPO_CALEND>Desde 2005<END>
+      , na sequência de uma proposta da
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão Europeia<END>
+      , o
+      <START:OBRA_PLANO>Mecanismo Comunitário de Protecção Civil<END>
+      foi alvo de uma profunda revisão, a qual decorre também do enquadramento motivado pelo novo
+      <START:OBRA_PLANO>Instrumento Financeiro para a Protecção Civil<END>
+      recentemente aprovado.
+O acordo político quanto à revisão foi obtido durante a <START:ACONTECIMENTO_ORGANIZADO>Presidência Alemã<END>
+      , tendo cabido a
+      <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END>
+      concluir o processo de revisão.
+Com a adopção da revisão do
+      <START:OBRA_PLANO>Mecanismo<END>
+      no
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho de Justiça e Assuntos Internos<END>
+      <START:TEMPO_TEMPO_CALEND>de 8 de Novembro<END>
+      , este processo ficou concluído, passando a
+      <START:ORGANIZACAO_ADMINISTRACAO>União<END>
+      a ficar dotado de um
+      <START:OBRA_PLANO>Mecanismo<END>
+      mais expedito para resposta a emergências graves.
+As principais novidades do
+      <START:OBRA_PLANO>Mecanismo<END>
+      são a clarificação de competências entre a
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END>
+      e a
+      <START:ORGANIZACAO_ADMINISTRACAO>Presidência<END>
+      no quadro de intervenções em países terceiros, a existência de competências comunitárias ao nível do transporte e a criação, numa base voluntária, de módulos de protecção civil.
+2.
+<START:OBRA_PLANO>Sistemas de Alerta Precoce<END>
+    
+    
+
+      A necessidade de melhorar os actuais ou de estabelecer novos
+      <START:OBRA_PLANO>Sistemas de Alerta Precoce<END>
+      na
+      <START:LOCAL_HUMANO>União Europeia<END>
+      foi reconhecida pelo
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+      em diversas ocasiões
+      .
+Em particular, o
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+      adoptou,
+      <START:TEMPO_TEMPO_CALEND>em 2005<END>
+      , o
+      <START:OBRA_PLANO>Programa de Acção para Tsunamis<END>
+      e afirmou que «A
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END>
+      é convidada a fazer propostas [envolvendo] a criação de um sistema de detecção e alerta precoce (...) para o
+      <START:LOCAL_FISICO>Mediterrâneo<END>
+      e o
+      <START:LOCAL_FISICO>Atlântico<END>
+      ».
+Mais recentemente, o
+      <START:OBRA_PLANO>Instrumento Financeiro para a Protecção Civil<END>
+      definiu que a criação de um sistema de detecção e alerta precoce é elegível para assistência financeira através de acções como estudos, avaliações e estabelecimento de interligações.
+Para contribuir para este debate, a
+      <START:ORGANIZACAO_INSTITUICAO>ANPC<END>
+      realizou,
+      <START:TEMPO_TEMPO_CALEND>de 15 a 18 de Julho<END>
+      , em
+      <START:LOCAL_HUMANO>Albufeira<END>
+      , um seminário sobre
+      <START:ABSTRACCAO_IDEIA>Sistemas de Alerta Precoce<END>
+      , o qual reuniu
+      <START:VALOR_QUANTIDADE>cerca de 120<END>
+      especialistas da maior parte dos
+      <START:LOCAL_HUMANO>Estados-Membros<END>
+      e no qual se procurou:
+    
+    
+-	discutir o estado da arte quanto a sistemas de alerta;
+    
+
+      -	identificar lacunas existentes no espaço da
+      <START:LOCAL_HUMANO>União Europeia<END>
+      (ex: sistema de alerta precoce para tsunamis) e delinear as bases para um
+      <START:OBRA_PLANO>Plano de Acção<END>
+      destinado a suprir as lacunas identificadas;
+    
+    
+-	debater assuntos transversais, tais como o desenvolvimento de directrizes para o estabelecimento de sinais comuns de alerta a nível europeu.
+Com base nas conclusões do seminário e nos resultados dos trabalhos desenvolvidos pela
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END>
+      , ao nível de grupo de peritos, foi possível obter acordo sobre dois documentos de
+       <START:OBRA_PLANO>Conclusões<END> do <START:PESSOA_GRUPOIND>Conselho<END>
+      adoptados no
+      <START:ACONTECIMENTO_EVENTO>Conselho JAI<END>
+      <START:TEMPO_TEMPO_CALEND>de 5/6 de Dezembro<END>
+      .
+Um desses documentos (
+      <START:OBRA_PLANO>Conclusões do Conselho sobre o desenvolvimento e estabelecimento de sistemas de alerta precoce na UE<END> 
+      ) segue uma abordagem global multi-riscos, enquanto o outro (
+      <START:OBRA_PLANO>Conclusões do Conselho sobre o desenvolvimento de um sistema de alerta precoce para tsunamis no Atlântico Nordeste e no Mediterrâneo<END>
+      ) direcciona as atenções para o risco de tsunamis.
+Ambos os documentos contêm diversas propostas de actuação futura por parte da
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END>
+      e dos
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados-Membros<END>
+      .
+3.
+Cooperação com
+      
+        <START:ORGANIZACAO_ADMINISTRACAO>Países<END>
+        do
+        <START:LOCAL_FISICO>Mediterrâneo Sul<END>
+      
+    
+    
+
+      No campo da
+      <START:ABSTRACCAO_DISCIPLINA>Protecção Civil<END>
+      ,
+      <START:ORGANIZACAO_ADMINISTRACAO>UE<END>
+      e
+      <START:ORGANIZACAO_ADMINISTRACAO>África<END>
+      partilham uma série de preocupações e riscos comuns, maioritariamente na região
+      <START:LOCAL_FISICO>Euro-Mediterrânica<END> 
+      .
+Estes riscos estão particularmente relacionados com os incêndios florestais, sismos e tsunamis, acidentes químicos e, também, ameaças terroristas.
+Por outro lado, é também importante sublinhar o facto de que o
+      <START:OBRA_PLANO>Mecanismo Comunitário de Protecção Civil<END>
+      já interveio
+      <START:TEMPO_FREQUENCIA>por diversas vezes<END>
+      nesta região (ex: sismos da
+      <START:LOCAL_HUMANO>Argélia<END>
+      e de
+      <START:LOCAL_HUMANO>Marrocos<END>
+      ) e diversos
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados-Membros<END>
+      mantêm acordos bilaterais de cooperação com os
+       <START:ORGANIZACAO_ADMINISTRACAO>Países<END> do <START:LOCAL_HUMANO>Mediterrâneo Sul<END>
+      , que conduziram a missões de assistência mútua durante emergências passadas.
+Existe, pois, espaço mais do que suficiente e vontade comum para uma cooperação mais profunda e forte entre a
+      <START:ORGANIZACAO_ADMINISTRACAO>UE<END>
+      e
+      <START:ORGANIZACAO_ADMINISTRACAO>África<END>
+      no campo da protecção civil, nomeadamente com os parceiros do
+      <START:LOCAL_HUMANO>Mediterrâneo<END>
+      .
+Assim, pretendeu-se reforçar a cooperação com os países do
+      <START:LOCAL_HUMANO>Mediterrâneo Sul<END>
+      , através de acções tais como a partilha de boas práticas e informação sobre riscos comuns, cooperação nos sistemas de alerta precoce ou exercícios conjuntos.
+De forma a permitir uma mais abrangente troca de pontos de vista neste campo, realizou-se
+      <START:TEMPO_TEMPO_CALEND>no dia 24 de Outubro<END>
+      , no
+      <START:LOCAL_HUMANO>Porto<END>
+      , uma reunião informal entre os
+       <START:PESSOA_GRUPOCARGO>Directores-Gerais de Protecção Civil<END> dos <START:ORGANIZACAO_ADMINISTRACAO>Países<END> do <START:LOCAL_HUMANO>Mediterrâneo<END>
+      e os
+      
+        <START:PESSOA_GRUPOCARGO>Directores-Gerais de Protecção Civil<END>
+        da
+        <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END>
+      
+      .
+Essa reunião permitiu concluir da existência de abertura para um trabalho comum futuro, o qual, numa primeira fase, deverá estar integrado do
+      <START:OBRA_PLANO>Programa para a Prevenção e Redução de Desastres<END>
+      do
+      <START:OBRA_PLANO>Projecto Euromed<END>
+      e, numa segunda fase, deverá visar a inclusão de países do
+      <START:LOCAL_FISICO>Mediterrâneo<END>
+      no
+      <START:OBRA_PLANO>Mecanismo Comunitário de Protecção Civil<END>
+      .
+4.
+Consenso Europeu sobre Ajuda Humanitária
+    
+
+      Na sequência de uma
+      <START:OBRA_PLANO>Comunicação<END> 
+      da
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END>
+      , o
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+      discutiu, no seu grupo de Trabalho de
+      <START:ABSTRACCAO_DISCIPLINA>Cooperação e Desenvolvimento<END>
+      (
+      <START:ORGANIZACAO_INSTITUICAO>CODEV<END>
+      ) uma proposta de
+      <START:OBRA_PLANO>Consenso Europeu sobre Ajuda Humanitária<END>
+      .
+Tal documento contém referências à actuação da protecção civil nos contextos de crises humanitárias, pelo que foi também discutido no
+
+        <START:ORGANIZACAO_INSTITUICAO>Grupo de Trabalho PROCIV<END>
+      , tendo sido produzido um aconselhamento
+      <START:TEMPO_TEMPO_CALEND>em Julho<END>
+      .
+Após intensas negociações, o
+      <START:OBRA_PLANO>Consenso Europeu<END>
+      foi adoptado pelo
+      <START:ORGANIZACAO_ADMINISTRACAO>CAGRE<END>
+      <START:TEMPO_TEMPO_CALEND>em 20 de Novembro<END>
+      , tendo-se conseguido que, na sua versão final, o
+      <START:OBRA_PLANO>Consenso<END>
+      não imponha limitações ao uso de recursos de protecção civil nos cenários de desastres naturais, tecnológicos e ambientais <START:TEMPO_GENERICO>em tempo<END> de paz.
+No entanto, para situações de emergências complexas (conflitos ou situações de fragilidade) o uso de meios de protecção civil acabou por ser considerado como excepcional.
+5.
+Revisão das
+      <START:OBRA_PLANO>Directrizes de Oslo<END>
+    
+    
+
+      As
+      <START:OBRA_PLANO>Directrizes de Oslo<END>
+      são um documento das
+      <START:ORGANIZACAO_ADMINISTRACAO>Nações Unidas<END>
+      , destinado a orientar o uso de meios militares e da defesa civil nos cenários de emergências naturais, tecnológicas ou ambientais <START:TEMPO_GENERICO>em tempo<END> de paz.
+Aquando da última revisão destas directrizes,
+      <START:TEMPO_TEMPO_CALEND>em 2006<END>
+      , os recursos de protecção civil foram englobados no mesmo grupo dos recursos militares, implicando que apenas poderiam ser utilizados como «último recurso», após esgotamento de outras alternativas civis.
+Conscientes de que tal regra contradiria o princípio básico de actuação da protecção civil (resposta rápida e imediata após uma emergência), os
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados-Membros<END>
+      e a
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão Europeia<END>
+      desenvolveram diversas diligências procurando obter uma clarificação/revisão de tais
+      <START:OBRA_PLANO>Directrizes<END>
+      junto da
+      <START:ORGANIZACAO_ADMINISTRACAO>UN/OCHA<END>
+      .
+Em particular, foi obtido acordo no
+
+        <START:PESSOA_GRUPOMEMBRO>Grupo de Trabalho PROCIV<END>
+      quanto a uma abordagem global dos
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados-Membros<END>
+      sobre esta matéria.
+Nesta sequência, foi realizada uma reunião com a
+      <START:ORGANIZACAO_ADMINISTRACAO>UN/OCHA<END>
+      <START:TEMPO_TEMPO_CALEND>a 28<END> e <START:TEMPO_TEMPO_CALEND>29 de Novembro<END>
+      , a qual permitiu adoptar uma revisão das
+      <START:OBRA_PLANO>Directrizes<END>
+      que clarifica o princípio do último recurso, garantindo um tratamento diferenciado para os recursos de
+      <START:ABSTRACCAO_DISCIPLINA>Protecção Civil<END>
+      .
 6.
-Quanto às « <START:OBRA_PLANO> Novas Oportunidades <END> » foram <START:TEMPO_TEMPO_CALEND> no seu início <END> um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade.
-Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado.
-Esta é a parte difícil, mas a que justifica o projecto.
-E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo.
-Vamos ver.
-7.
-No <START:ORGANIZACAO_INSTITUICAO> PSD <END> deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do <START:ORGANIZACAO_INSTITUICAO> PS <END> .
-Ora, para fazer a mesma política, os eleitores preferem o <START:ORGANIZACAO_INSTITUICAO> PS <END> como mais eficaz e mais credível.
-Com <START:PESSOA_INDIVIDUAL> Marques Mendes <END> , o <START:ORGANIZACAO_INSTITUICAO> PSD <END> esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia <START:PESSOA_INDIVIDUAL> Saint Just <END> ), perdeu-se o pouco que se tinha adquirido voltando o partido <START:TEMPO_TEMPO_CALEND> ao dia anterior <END> da derrota <START:TEMPO_TEMPO_CALEND> de 2005 <END> .
-<START:PESSOA_INDIVIDUAL> Mendes <END> não conseguiu impor-se, mas os seus esforços foram no sentido certo.
-<START:PESSOA_INDIVIDUAL> Menezes <END> também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado.
-O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve <START:TEMPO_TEMPO_CALEND> desde 2005 <END> .
-8.
-O <START:ORGANIZACAO_INSTITUICAO> PP <END> já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece.
-E no entanto, a retirada do <START:ORGANIZACAO_INSTITUICAO> PSD <END> da oposição poderia ser uma oportunidade e o <START:ORGANIZACAO_INSTITUICAO> PP <END> tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco.
-Mas não chega.
-<START:PESSOA_INDIVIDUAL> Portas <END> reduziu o partido a si próprio, e dar atenção ao <START:ORGANIZACAO_INSTITUICAO> PP <END> é dar atenção a <START:PESSOA_INDIVIDUAL> Portas <END> e cada vez menos pessoas o fazem.
-9.
-O <START:ORGANIZACAO_INSTITUICAO> PCP <END> teve um bom ano, o problema do <START:ORGANIZACAO_INSTITUICAO> PCP <END> é que ninguém dá por ela disso.
-O <START:ORGANIZACAO_INSTITUICAO> PCP <END> é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na <START:ORGANIZACAO_INSTITUICAO> UGT <END> do que na <START:ORGANIZACAO_INSTITUICAO> CGTP <END> .
-Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas.
-O problema do <START:ORGANIZACAO_INSTITUICAO> PCP <END> é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.
-10.
-O <START:ORGANIZACAO_INSTITUICAO> BE <END> está em crise.
-Deixou-se enredar com o <START:ORGANIZACAO_INSTITUICAO> PS <END> em <START:LOCAL_HUMANO> Lisboa <END> , o pior sítio para alguém se enredar com o <START:ORGANIZACAO_INSTITUICAO> PS <END> .
-Deixou-se reduzir a <START:PESSOA_INDIVIDUAL> Louçã <END> e <START:PESSOA_INDIVIDUAL> Louçã <END> fixou-se num discurso cujo esgotamento irrita mais do que cansa.
-Para a contestação social o <START:PESSOA_GRUPOMEMBRO> PCP <END> é mais eficaz, e as causas "fracturantes" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.
+Infra-estruturas críticas
+    
+
+      As conclusões do
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+      em matéria «de prevenção, de preparação para intervir e de resposta a atentados terroristas» e o «programa de solidariedade da
+      <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END>
+      respeitante às consequências das ameaças e dos atentados terroristas", adoptado pelo
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+      <START:TEMPO_TEMPO_CALEND>em Dezembro de 2004<END>
+      , apoiaram a elaboração de um
+      <START:OBRA_PLANO>Programa Europeu para a Protecção das Infra-Estruturas Críticas<END>
+      e a criação de uma
+      <START:OBRA_PLANO>Rede de Alerta para as Infra-estruturas Críticas<END>
+      .
+Neste sentido,
+      <START:TEMPO_TEMPO_CALEND>em Dezembro de 2006<END>
+      , a
+      <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END>
+      apresentou uma proposta de
+      <START:OBRA_PLANO>Directiva do Conselho<END>
+      , na qual se propõem medidas para a identificação e designação das infra estruturas críticas europeias e para a avaliação da necessidade de melhorar a sua protecção, sendo que são abrangidas aquelas cuja perturbação ou destruição afectaria dois ou mais
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados-Membros<END>
+      , ou um único
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado-Membro<END>
+      se a infra-estrutura crítica estiver localizada em outro
+      <START:LOCAL_HUMANO>Estado-Membro<END>
+      .
+Na sequência dos trabalhos desenvolvidos pela
+      <START:ORGANIZACAO_ADMINISTRACAO>Presidência Alemã<END>
+      neste âmbito, foi dada continuidade à negociação da proposta de
+      <START:OBRA_PLANO>Directiva<END>
+      , tendo-se analisado o parecer do
+      <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END>
+      e discutido as reservas introduzidas pelas diversas delegações.
+O balanço final é positivo, uma vez que se conseguiu eliminar a maior parte das reservas existentes.
+Embora exista consenso em relação a
+      <START:VALOR_QUANTIDADE>cerca de 70%<END>
+      da proposta de
+      <START:OBRA_PLANO>Directiva<END>
+      , subsistem reservas de fundo de diversos
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados-Membros<END>
+      que se relacionam, por exemplo, com a natureza legal do instrumento a adoptar, a inclusão do sector do «nuclear» no âmbito da
+      <START:OBRA_PLANO>Directiva<END>
+      , a definição de
+      <START:ABSTRACCAO_IDEIA>Infra-estrutura Crítica Europeia<END>
+      e a obrigatoriedade de estabelecimento de
+      <START:OBRA_PLANO>Planos de Segurança<END>
+      e
+      <START:OBRA_PLANO>Oficiais de Ligação<END>
+      .
+Neste contexto foi obtido acordo sobre um
+      <START:OBRA_PLANO>Relatório de Progresso<END>
+      adoptado no
+      <START:ACONTECIMENTO_EVENTO>Conselho JAI<END>
+      <START:TEMPO_TEMPO_CALEND>de 5/6 Dezembro<END>
+      .
 --DOCSTART--
     
- <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> MANTÉM EM SEGREDO ARMAS NÃO-LETAIS        
- <START:PESSOA_INDIVIDUAL> Debora MacKenzie <END> , da <START:ORGANIZACAO_EMPRESA> New Scientist <END> (www.newscientist.com)        
- Bactérias que comem estradas e edifícios.
+
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      MANTÉM EM SEGREDO ARMAS NÃO-LETAIS
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Debora MacKenzie<END>
+      , da
+      <START:ORGANIZACAO_EMPRESA>New Scientist<END>
+      (www.newscientist.com)
+    
+    
+
+      Bactérias que comem estradas e edifícios.
 Biocatalizadores que decompõem combustíveis e plásticos.
 Dispositivos que corroem secretamente o alumínio e outros metais.
-Estes são apenas uns poucos exemplos de armas não letais que os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> tentaram, ou estão a tentar, desenvolver.
+Estes são apenas uns poucos exemplos de armas não letais que os
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      tentaram, ou estão a tentar, desenvolver.
 Mas quão próximas estas armas estarão da realidade nunca poderemos saber.
-A <START:ORGANIZACAO_INSTITUICAO> US National Academy of Sciences <END> ( <START:ORGANIZACAO_INSTITUICAO> NAS <END> ) recusa-se a liberar dúzias de relatórios que propõem ou descrevem seu desenvolvimento, embora os documentos devam estar nos registRos públicos.
-A academia justifica sua reticência sem precedentes mencionando preocupações com segurança <START:TEMPO_TEMPO_CALEND> após o 11 de Setembro <END> .
-Mas pessoas experientes pensam que a razão real é que as investigações violam tanto a lei dos <START:LOCAL_HUMANO> EUA <END> como tratados internacionais sobre armas químicas e bacteriológicas.
-Os documentos em causa foram colecionados <START:TEMPO_TEMPO_CALEND> no ano passado <END> por um painel de cientistas acadêmicos e industriais organizado pela <START:ORGANIZACAO_INSTITUICAO> NAS <END> para avaliar recentes investigações de armas não letais para o <START:ORGANIZACAO_INSTITUICAO> Joint Non-Lethal Weapons Program <END> ( <START:ORGANIZACAO_INSTITUICAO> JNLWP <END> ), do <START:ORGANIZACAO_ADMINISTRACAO> Pentágono <END> .
-Os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> ganharam um interesse acrescido pelas armas não letais após a sua desastrosa missão pacificadora na <START:LOCAL_HUMANO> Somália <END> , <START:TEMPO_TEMPO_CALEND> em 1993 <END> , quando civis amotinados mataram soldados americanos.
-O painel, cujo relatório deve sair <START:TEMPO_TEMPO_CALEND> até ao fim deste ano <END> , colecionou <START:VALOR_QUANTIDADE> 147 <END> relatórios e propostas de investigadores, muitos deles financiados pelo <START:ORGANIZACAO_INSTITUICAO> JNLWP <END> .
-Um grupo no <START:LOCAL_HUMANO> Oak Ridge National Laboratory <END> , no <START:LOCAL_HUMANO> Tennessee <END> , por exemplo, propõe utilizar campos eletromagnéticos intensos a fim de produzir efeitos que vão "desde a interrupção da memória de curto prazo à total perda de controlo voluntário das funções corporais".
+A
+      <START:ORGANIZACAO_INSTITUICAO>US National Academy of Sciences<END>
+      (
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      ) recusa-se a liberar dúzias de relatórios que propõem ou descrevem seu desenvolvimento, embora os documentos devam estar nos registRos públicos.
+A academia justifica sua reticência sem precedentes mencionando preocupações com segurança <START:TEMPO_TEMPO_CALEND>após o 11 de Setembro<END> .
+Mas pessoas experientes pensam que a razão real é que as investigações violam tanto a lei dos <START:LOCAL_HUMANO>EUA<END> como tratados internacionais sobre armas químicas e bacteriológicas.
+Os documentos em causa foram colecionados <START:TEMPO_TEMPO_CALEND>no ano passado<END> por um painel de cientistas acadêmicos e industriais organizado pela <START:ORGANIZACAO_INSTITUICAO>NAS<END> para avaliar recentes investigações de armas não letais para o <START:ORGANIZACAO_INSTITUICAO>Joint Non-Lethal Weapons Program<END> (<START:ORGANIZACAO_INSTITUICAO>JNLWP<END>), do <START:ORGANIZACAO_ADMINISTRACAO>Pentágono<END>.
+Os <START:ORGANIZACAO_ADMINISTRACAO>EUA<END> ganharam um interesse acrescido pelas armas não letais após a sua desastrosa missão pacificadora na <START:LOCAL_HUMANO>Somália<END>, <START:TEMPO_TEMPO_CALEND>em 1993<END>, quando civis amotinados mataram soldados americanos.
+O painel, cujo relatório deve sair
+      <START:TEMPO_TEMPO_CALEND>até ao fim deste ano<END>
+      , colecionou
+      <START:VALOR_QUANTIDADE>147<END>
+      relatórios e propostas de investigadores, muitos deles financiados pelo
+      <START:ORGANIZACAO_INSTITUICAO>JNLWP<END>
+      .
+Um grupo no
+      <START:LOCAL_HUMANO>Oak Ridge National Laboratory<END>
+      , no
+      <START:LOCAL_HUMANO>Tennessee<END>
+      , por exemplo, propõe utilizar campos eletromagnéticos intensos a fim de produzir efeitos que vão "desde a interrupção da memória de curto prazo à total perda de controlo voluntário das funções corporais".
 Outros propõem armas de energia dirigida.
-<START:TEMPO_TEMPO_CALEND> Em Março <END> , como é habitual com estudos não-classificados da <START:ORGANIZACAO_INSTITUICAO> NAS <END> , eles foram depositados no <START:LOCAL_VIRTUAL> Public Access Records Office <END> da academia, e os seus títulos foram divulgados (ver abaixo).
-"Estes documentos são supostos serem públicos", afirma <START:PESSOA_INDIVIDUAL> Ed Hammond <END> do <START:PESSOA_GRUPOMEMBRO> Sunshine Project <END> , um grupo que faz campanha contra armas biológicas.
-Quando ele pediu ao serviço de registros para ver <START:VALOR_QUANTIDADE> 77 <END> dos documentos, este concordou em cedê-los.
-"Mas <START:TEMPO_TEMPO_CALEND> dois dias depois <END> a <START:ORGANIZACAO_INSTITUICAO> NAS <END> retirou os documentos", conta <START:PESSOA_INDIVIDUAL> Hammond <END> . "
-<START:PESSOA_INDIVIDUAL> Kevin Hale <END> , o responsável de segurança da <START:ORGANIZACAO_INSTITUICAO> NAS <END> , disse-me que era porque alguém havia exprimido preocupação".
+<START:TEMPO_TEMPO_CALEND>Em Março<END>
+      , como é habitual com estudos não-classificados da
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      , eles foram depositados no
+      <START:LOCAL_VIRTUAL>Public Access Records Office<END>
+      da academia, e os seus títulos foram divulgados (ver abaixo).
+"Estes documentos são supostos serem públicos", afirma
+      <START:PESSOA_INDIVIDUAL>Ed Hammond<END>
+      do
+      <START:PESSOA_GRUPOMEMBRO>Sunshine Project<END>
+      , um grupo que faz campanha contra armas biológicas.
+Quando ele pediu ao serviço de registros para ver
+      <START:VALOR_QUANTIDADE>77<END>
+      dos documentos, este concordou em cedê-los.
+"Mas
+      <START:TEMPO_TEMPO_CALEND>dois dias depois<END>
+      a
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      retirou os documentos", conta
+      <START:PESSOA_INDIVIDUAL>Hammond<END>
+      . "
+<START:PESSOA_INDIVIDUAL>Kevin Hale<END>
+      , o responsável de segurança da
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      , disse-me que era porque alguém havia exprimido preocupação".
 Quem o fez não é claro.
-A pressão restritiva não parece ter vindo da própria <START:ORGANIZACAO_INSTITUICAO> JNLWP <END> , porque <START:TEMPO_TEMPO_CALEND> na semana passada <END> esta enviou a <START:PESSOA_INDIVIDUAL> Hammond <END> oito documentos que ele havia requerido, incluindo três que estavam na lista da <START:ORGANIZACAO_INSTITUICAO> NAS <END> .
-<START:ORGANIZACAO_EMPRESA> New Scientist <END> não pode contatar <START:PESSOA_INDIVIDUAL> Hale <END> .
-"Ainda estamos a formular a nossa resposta às pessoas da <START:PESSOA_GRUPOMEMBRO> Sunshine <END> ", foi tudo que um assistente disse.
-Mas os poucos relatórios que <START:PESSOA_INDIVIDUAL> Hammond <END> obteve constituem uma leitura interessante.
-<START:TEMPO_TEMPO_CALEND> Mais de um ano atrás <END> ,  New Scientist  revelou que responsáveis superiores da <START:ORGANIZACAO_INSTITUICAO> JNLWP <END> pretendiam reescrever os tratados de armas químicas e biológicas a fim de terem mais liberdade para desenvolverem armas não letais ( <START:TEMPO_TEMPO_CALEND> 16 Dezembro 2000 <END> , pg.
+A pressão restritiva não parece ter vindo da própria
+      <START:ORGANIZACAO_INSTITUICAO>JNLWP<END>
+      , porque
+      <START:TEMPO_TEMPO_CALEND>na semana passada<END>
+      esta enviou a
+      <START:PESSOA_INDIVIDUAL>Hammond<END>
+      oito documentos que ele havia requerido, incluindo três que estavam na lista da
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      .
+<START:ORGANIZACAO_EMPRESA>New Scientist<END>
+      não pode contatar
+      <START:PESSOA_INDIVIDUAL>Hale<END>
+      .
+"Ainda estamos a formular a nossa resposta às pessoas da
+      <START:PESSOA_GRUPOMEMBRO>Sunshine<END>
+      ", foi tudo que um assistente disse.
+Mas os poucos relatórios que
+      <START:PESSOA_INDIVIDUAL>Hammond<END>
+      obteve constituem uma leitura interessante.
+<START:TEMPO_TEMPO_CALEND>Mais de um ano atrás<END>
+      , 
+      New Scientist 
+      revelou que responsáveis superiores da
+      <START:ORGANIZACAO_INSTITUICAO>JNLWP<END>
+      pretendiam reescrever os tratados de armas químicas e biológicas a fim de terem mais liberdade para desenvolverem armas não letais (
+      <START:TEMPO_TEMPO_CALEND>16 Dezembro 2000<END>
+      , pg.
 4).
-Os relatórios tornavam claro que investigações que violam os tratados foram efetuadas <START:TEMPO_TEMPO_CALEND> desde os anos 1990 <END> .
-Um pedido de financiamento feito <START:TEMPO_TEMPO_CALEND> em 1998 <END> pelo <START:ORGANIZACAO_INSTITUICAO> Office of Naval Research <END> propõe a criação de micro-organismos geneticamente projetados que corroeriam estradas e pistas de decolagem, e produziriam "deterioração de partes metálicas, revestimentos e lubrificantes de armas, veículos e equipamento de apoio, bem como combustíveis.
-O plano era isolar genes para enzimas que atacam materiais como <START:COISA_CLASSE> Kevlar <END> , asfalto, cimentos, pinturas ou lubrificantes, e colocá-los dentro de micróbios que os expulsariam em grandes quantidades.
+Os relatórios tornavam claro que investigações que violam os tratados foram efetuadas
+      <START:TEMPO_TEMPO_CALEND>desde os anos 1990<END>
+      .
+Um pedido de financiamento feito
+      <START:TEMPO_TEMPO_CALEND>em 1998<END>
+      pelo
+      <START:ORGANIZACAO_INSTITUICAO>Office of Naval Research<END>
+      propõe a criação de micro-organismos geneticamente projetados que corroeriam estradas e pistas de decolagem, e produziriam "deterioração de partes metálicas, revestimentos e lubrificantes de armas, veículos e equipamento de apoio, bem como combustíveis.
+O plano era isolar genes para enzimas que atacam materiais como
+      <START:COISA_CLASSE>Kevlar<END>
+      , asfalto, cimentos, pinturas ou lubrificantes, e colocá-los dentro de micróbios que os expulsariam em grandes quantidades.
 As bactérias deveriam ser projetadas para se auto-destruírem depois de despejarem a sua carga de destruição.
 Não é claro quantas destas idéias foram realmente realizadas.
 Mas o grupo já patenteou um microorganismo que decomporia poliuretano, "um componente vulgar das tintas de navios e aviões", incluindo revestimentos anti-radar secretos.
-Outra proposta <START:TEMPO_TEMPO_CALEND> de 1998 <END> , de um laboratório de biotecnologia da base de <START:LOCAL_HUMANO> Brooks <END> da <START:ORGANIZACAO_INSTITUICAO> Força Aérea <END> , próxima de <START:LOCAL_HUMANO> San Antonio <END> no <START:LOCAL_HUMANO> Texas <END> , era refinar "biocatalizadores anti-material" já em desenvolvimento.
+Outra proposta
+      <START:TEMPO_TEMPO_CALEND>de 1998<END>
+      , de um laboratório de biotecnologia da base de
+      <START:LOCAL_HUMANO>Brooks<END>
+      da
+      <START:ORGANIZACAO_INSTITUICAO>Força Aérea<END>
+      , próxima de
+      <START:LOCAL_HUMANO>San Antonio<END>
+      no
+      <START:LOCAL_HUMANO>Texas<END>
+      , era refinar "biocatalizadores anti-material" já em desenvolvimento.
 Um deles envolvia uma bactéria derivada que decompunha moléculas orgânicas como combustíveis e plásticos.
 As propostas afirmam que tais substâncias estão isentas das restrições relativas à guerra biológica.
-Mas isso não é verdade, argumenta <START:PESSOA_INDIVIDUAL> Mark Wheelis <END> da  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> da <START:LOCAL_HUMANO> California <END> , <START:LOCAL_HUMANO> Davis <END> .
-A  <START:OBRA_PLANO> Convenção das Armas Biológicas e Tóxicas <END> <START:TEMPO_TEMPO_CALEND> de 1972 <END> proíbe o "desenvolvimento, produção, armazenagem ou aquisição de agentes biológicos ou toxinas" se não forem para finalidades pacíficas.
-Além disso, <START:TEMPO_TEMPO_CALEND> no ano passado <END> os próprios <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> introduziram uma lei banindo a posse de bio-armas, inclusive micróbios concebidos para atacarem materiais.
-Os documentos retidos também incluem propostas para usar bombas fétidas, sedativos e derivados do ópio como armas, os quais <START:PESSOA_INDIVIDUAL> Wheelis <END> considera que transgrediriam a  <START:OBRA_PLANO> Convenção das Armas Químicas <END> <START:TEMPO_TEMPO_CALEND> de 1992 <END> .
+Mas isso não é verdade, argumenta
+      <START:PESSOA_INDIVIDUAL>Mark Wheelis<END>
+      da
+       <START:ORGANIZACAO_INSTITUICAO>Universidade<END> da <START:LOCAL_HUMANO>California<END>
+      ,
+      <START:LOCAL_HUMANO>Davis<END>
+      .
+A
+       <START:OBRA_PLANO>Convenção das Armas Biológicas e Tóxicas<END> <START:TEMPO_TEMPO_CALEND>de 1972<END>
+      proíbe o "desenvolvimento, produção, armazenagem ou aquisição de agentes biológicos ou toxinas" se não forem para finalidades pacíficas.
+Além disso,
+      <START:TEMPO_TEMPO_CALEND>no ano passado<END>
+      os próprios
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      introduziram uma lei banindo a posse de bio-armas, inclusive micróbios concebidos para atacarem materiais.
+Os documentos retidos também incluem propostas para usar bombas fétidas, sedativos e derivados do ópio como armas, os quais
+      <START:PESSOA_INDIVIDUAL>Wheelis<END>
+      considera que transgrediriam a  <START:OBRA_PLANO>Convenção das Armas Químicas<END> <START:TEMPO_TEMPO_CALEND>de 1992<END>
+      .
 Esta convenção proíbe "qualquer produto químico... que possa causar morte, incapacidade temporária ou dano permanente".
-_______________    
- Copyright © New Scientist 2002 .
+_______________
+    
+
+
+      Copyright ©
+      New Scientist 2002
+      .
 For fair use only.
 A URL deste artigo é: www.globalresearch.ca/ .
-Texto extraído do site português <START:LOCAL_VIRTUAL> Resistir <END> (www.resistir.info).
---DOCSTART--
-
-Como se chama o vocalista do grupo <START:PESSOA_GRUPOMEMBRO> U2 <END> ?
-Com que idade morreu <START:PESSOA_INDIVIDUAL> Elvis Presley <END> ?
-Onde está a <START:OBRA_ARTE> Estátua da Liberdade <END> ?
-Em que cidade italiana fica o <START:OBRA_ARTE> Coliseu <END> ?
-Em que cidade fica a <START:LOCAL_HUMANO> Praça Navona <END> ?
-Onde é que foi construída em <START:LOCAL_HUMANO> Itália <END> a <START:OBRA_ARTE> Villa Medici <END> ?
-Que companhia britânica foi absorvida pela <START:ORGANIZACAO_EMPRESA> BMW <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quantos milhões de libras pagou a <START:ORGANIZACAO_EMPRESA> BMW <END> pela <START:ORGANIZACAO_EMPRESA> Rover <END> ?
-Em que país foi construída a primeira fábrica da <START:ORGANIZACAO_EMPRESA> BMW <END> no estrangeiro?
-Quem foi eleito como primeiro presidente negro da <START:LOCAL_HUMANO> África do Sul <END> ?
-Como se chamava o vocalista dos <START:PESSOA_GRUPOMEMBRO> Nirvana <END> ?
-Que <START:PESSOA_CARGO> presidente dos Estados Unidos <END>  é que <START:PESSOA_INDIVIDUAL> Francisco Durán <END> tentou matar?
-Que filho de um <START:PESSOA_CARGO> ex-presidente dos EUA <END>  foi eleito <START:PESSOA_CARGO> governador do Texas <END>  <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Para quantos Óscares foi nomeado " <START:OBRA_REPRODUZIDA> A Lista de Schindler <END> "?
-Quem recebeu o Óscar de Melhor Actor por « <START:OBRA_REPRODUZIDA> Forrest Gump <END> »?
-Como se chamava o autor de « <START:OBRA_REPRODUZIDA> Romeu e Julieta <END> "?
-Quantos pisos tem o <START:LOCAL_HUMANO> Empire State Building <END> ?
-Como se chama o <START:PESSOA_CARGO> patrão da Microsoft <END> ?
-Em que ano foi assassinado <START:PESSOA_INDIVIDUAL> John F. Kennedy <END> ?
-Com que actriz era casado <START:PESSOA_INDIVIDUAL> Arthur Miller <END> ?
-Que político era <START:PESSOA_CARGO> chanceler da Alemanha <END>  antes de  <START:PESSOA_INDIVIDUAL> Helmut Kohl <END> ?
-Em que ano caiu o  <START:LOCAL_HUMANO> Muro <END> de <START:LOCAL_HUMANO> Berlim <END>  ?
-Qual a altura do <START:LOCAL_FISICO> Evereste <END> ?
-Em que cidade francesa fica o <START:LOCAL_HUMANO> Moulin Rouge <END> ?
-Quando é que nasceu <START:PESSOA_INDIVIDUAL> Franz Kafka <END> ?
-Quando é que foi construída a <START:OBRA_ARTE> Esfinge <END> ?
-Quem escreveu o romance não-publicado " <START:OBRA_REPRODUZIDA> Cruz sem Amor <END> "?
-Em que cidade bávara fica a sede da <START:ORGANIZACAO_EMPRESA> Adidas AG <END> ?
-O que é o Titanic?
-Quem é o desenhador de <START:OBRA_REPRODUZIDA> Astérix e Obélix <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Albert Einstein <END> ?
-Quem é o <START:PESSOA_INDIVIDUAL> Godfather of Soul <END> ?
-Quem é o marido da <START:PESSOA_INDIVIDUAL> rainha Isabel II <END> ?
-Quem é o chefe de estado da <START:LOCAL_HUMANO> Austrália <END> ?
-Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL> Romy Schneider <END> ?
-Quando é que nasceu <START:PESSOA_INDIVIDUAL> Aldous Huxley <END> ?
-Como se chama o pai de <START:PESSOA_INDIVIDUAL> Steffi Graf <END> ?
-Contra quem é que ela não jogou nas meias-finais de <START:ACONTECIMENTO_ORGANIZADO> Roland Garros <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quando é que <START:PESSOA_INDIVIDUAL> Goethe <END> fundou a <START:ORGANIZACAO_INSTITUICAO> Sociedade das Sextas <END> ?
-Em que ano assistiu ele à coroação do <START:PESSOA_INDIVIDUAL> Imperador José II <END> ?
-Em que ano nasceu ele?
-Em que cidade é que ele morreu?
-Quando foi criado o Prémio Schiller?
-Que filme ganhou o Óscar <START:TEMPO_TEMPO_CALEND> em 1992 <END> na categoria de Melhor Filme?
-Quem foi o realizador de « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
-Em que ano recebeu ele o Óscar por « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
-Como se chamava a autora de " <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> "?
-O que significa a sigla <START:ABSTRACCAO_NOME> IRA <END> ?
-Qual o significado da sigla <START:ABSTRACCAO_NOME> NSUK <END> ?
-De que grupo era vocalista <START:PESSOA_INDIVIDUAL> Freddy Mercury <END> ?
-Em que ano morreu ele?
-Quem foi o inventor da <START:COISA_CLASSE> Coca Cola <END> ?
-Quando foi criada a <START:COISA_CLASSE> Coca Cola <END> ?
-Quem abriu o  <START:ACONTECIMENTO_EVENTO> Baile <END> da <START:PESSOA_GRUPOMEMBRO> Opera de Viena <END> ?
-Quantos estados membros tinha a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Em que cidade teve lugar a cimeira da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> que começou <START:TEMPO_TEMPO_CALEND> a 26 de Junho de 1995 <END> ?
-Quantos estados membros tinha a <START:LOCAL_HUMANO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Que estados europeus aderiram à <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-<START:PESSOA_INDIVIDUAL> Rudy Giuliani <END> era o presidente da câmara de que cidade americana?
-Quando é que terá lugar a estreia de « <START:OBRA_REPRODUZIDA> O Fantasma da Ópera <END> » de <START:PESSOA_INDIVIDUAL> Andrew Lloyd Webber <END> em <START:LOCAL_HUMANO> Basileia <END> ?
-Que musical dele foi interpretado pelo coro ecuménico juvenil de <START:LOCAL_HUMANO> Friedrichsdorf <END> <START:TEMPO_TEMPO_CALEND> de 1994 <END> ?
-Quanto dinheiro pagou ele por uma pintura de <START:PESSOA_INDIVIDUAL> Picasso <END> num leilão?
-Que musical de <START:PESSOA_INDIVIDUAL> Andrew Llyod Webber <END> foi interpretado em <START:LOCAL_HUMANO> Essen <END> <START:TEMPO_TEMPO_CALEND> em 1996 <END> ?
-Em que ano nasceu <START:PESSOA_INDIVIDUAL> Christian von Holst <END> em <START:LOCAL_HUMANO> Gdansk <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Werner Herzog <END> ?
-Em que cidade fica o <START:LOCAL_HUMANO> Passeio da Fama <END> ?
-Em quantos países foram transmitidas as  <START:ACONTECIMENTO_ORGANIZADO> Olimpíadas <END> de <START:LOCAL_HUMANO> Albertville <END> ?
-Qual era a alcunha de <START:PESSOA_INDIVIDUAL> Al Capone <END> ?
-Quem era ele?
-Quando é que ele foi alvejado?
-Que idade tinha ele quando levou a sua família para <START:LOCAL_HUMANO> Chicago <END> ?
-Desde quando é que a <START:LOCAL_HUMANO> Suíça <END> é membro da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> ?
-Quem era a presidente do comité suíço da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Quantos estados-membros tinha a organização <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-O prémio UNESCO da <START:ABSTRACCAO_DISCIPLINA> Paz <END> é de quantos dólares?
-Quem era o presidente do júri do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival Cinematográfico <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Que filme recebeu a Palma de Ouro no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quantos filmes competiam pela Palma de Ouro do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quem recebeu o prémio de melhor actriz no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quantos golos é que o <START:PESSOA_INDIVIDUAL> Pelé <END> marcou na sua carreira?
-Em que três categorias é que <START:PESSOA_INDIVIDUAL> Whitney Houston <END> ganhou o prémio Single por " <START:OBRA_REPRODUZIDA> I will always love you <END> "?
-O que é o Grammy?
-Que autor foi o primeiro árabe galardoado com o Nobel da Literatura?
-O que são os " <START:ACONTECIMENTO_EVENTO> Estudos sobre a Histeria <END> "?
-Quem foi o fundador da psicoanálise?
-De que cidade é <START:PESSOA_INDIVIDUAL> Friedensreich Hundertwasser <END> ?
-Quando é que acabou a <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
-Quantos soldados é que os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> tinham estacionados no <START:LOCAL_HUMANO> Vietname <END> durante a <START:ACONTECIMENTO_EFEMERIDE> Guerra <END> <START:TEMPO_TEMPO_CALEND> nos anos 60 <END> ?
-Quantas pessoas morreram na <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
-Quem era <START:PESSOA_CARGO> presidente dos EUA <END>  quando a guerra chegou ao fim?
-O que era Napola?
-O que é Madame Tussaud?
-O que é a Mona Lisa?
-Quanto dinheiro ganhou « <START:OBRA_REPRODUZIDA> Parque Jurássico <END> » de <START:PESSOA_INDIVIDUAL> Steven Spielberg <END> ?
-Quem escreveu " <START:OBRA_REPRODUZIDA> Mein Kampf <END> "?
-Quem é <START:PESSOA_INDIVIDUAL> Helmut Newton <END> ?
-Quando é que os japoneses atacaram <START:LOCAL_HUMANO> Pearl Harbor <END> ?
-Quantos americanos morreram no ataque a <START:LOCAL_HUMANO> Pearl Harbor <END> <START:TEMPO_TEMPO_CALEND> a 7 de dezembro de 1941 <END> ?
-Que grupo ganhou o <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> em <START:LOCAL_HUMANO> Brighton <END> <START:TEMPO_TEMPO_CALEND> em 1974 <END> ?
-Quando é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
-Onde é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
-Qual o significado da sigla <START:ABSTRACCAO_NOME> UNICEF <END> ?
-Quando é que foi criada a <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
-Onde é que é a sede da <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
-De que banda rock é vocalista <START:PESSOA_INDIVIDUAL> Anthony Kiedis <END> ?
-O que é <START:ABSTRACCAO_DISCIPLINA> Stadium Arcadium <END> ?
-Diga três albuns da banda.
-Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Love Parade <END> ?
-Quando é que <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> e <START:PESSOA_INDIVIDUAL> Mel Ferrer <END> se casaram?
-Onde é que mora <START:TEMPO_GENERICO> hoje <END> o filho de <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> ?
-De que organização é que ela foi nomeada embaixadora extraordinária?
-Quem é que falou <START:TEMPO_TEMPO_CALEND> em Setembro de 1939 <END> no <START:ACONTECIMENTO_ORGANIZADO> 17º Congresso Internacional do PEN-clube <END> sobre o problema da liberdade?
-Diga três filmes de <START:PESSOA_INDIVIDUAL> Martin Scorsese <END> .
-Em que universidade é que ele estudou <START:ABSTRACCAO_DISCIPLINA> Cinematografia <END> <START:TEMPO_TEMPO_CALEND> em 1960 <END> ?
-Para quantos Óscares é que ele já foi nomeado?
-Quem é o autor da obra « <START:OBRA_REPRODUZIDA> A Última Tentação de Cristo <END> »?
-Quando é que foi fundada a  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Santiago de Compostela <END> ?
-De que região espanhola é que <START:LOCAL_HUMANO> Santiago <END> é capital?
-Que organização nomeou <START:LOCAL_HUMANO> Santiago de Compsotela <END> Património Mundial <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-O que é a «Rota da Prata»?
-Onde fica <START:LOCAL_HUMANO> Hiroxima <END> ?
-Diga os oito bairros de <START:LOCAL_HUMANO> Hiroxima <END> .
-Qual a área total de <START:LOCAL_HUMANO> Hiroxima <END> ?
-O que é a <START:ACONTECIMENTO_EVENTO> CeBIT <END> ?
-Quantos exibidores tinha a <START:LOCAL_HUMANO> CeBIT <END> <START:TEMPO_TEMPO_CALEND> em 2005 <END> ?
-Quem realizou o filme « <START:OBRA_REPRODUZIDA> Morte em Veneza <END> »?
-Onde é que tem lugar a <START:ACONTECIMENTO_ORGANIZADO> Semana Verde <END> ?
-Quem era <START:PESSOA_INDIVIDUAL> Herbert Erhardt <END> ?
-Quando foi construído o estádio do <START:LOCAL_HUMANO> Malmö <END> ?
-Onde é que teve lugar o  <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo de Futebol <END> <START:TEMPO_TEMPO_CALEND> de 1970 <END> ?
-Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
-Quantas pessoas morreram no atentado na <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Henning Mankell <END> ?
-Como se chama o inspector da polícia no seu livro « <START:OBRA_REPRODUZIDA> Assassino sem rosto <END> »?
-Diga duas afiliadas da <START:ORGANIZACAO_EMPRESA> Volvo <END> .
-Quando foi criada a <START:ORGANIZACAO_EMPRESA> Volvo Car Corporation <END> ?
-Quem foram os fundadores da <START:ORGANIZACAO_EMPRESA> Volvo <END> ?
-Qual é a área do <START:LOCAL_HUMANO> Pentâgono <END> ?
-Quantos lados têm o <START:LOCAL_HUMANO> Pentâgono <END> ?
-Que significa a sigla <START:ABSTRACCAO_NOME> RAF <END> ?
-Quem era <START:PESSOA_INDIVIDUAL> Rolf Heissler <END> ?
-Diga três membros da RAF.
-Onde fica a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
-O que é a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
-Qual é a altura do <START:LOCAL_FISICO> Monte Branco <END> ?
-Quando é que o <START:LOCAL_FISICO> Monte Branco <END> foi escalado pela primeira vez?
-De que consiste o <START:COISA_OBJECTO> Monte Branco <END> ?
-Qual o comprimento da alameda principal do <START:LOCAL_HUMANO> Prater <END> ?
-O que e o "Wurstelprater"?
-Onde fica o <START:LOCAL_HUMANO> Calafati <END> ?
-Quando foi publicada a <START:OBRA_PLANO> API Web <END> do <START:ORGANIZACAO_EMPRESA> Google <END>  
-Qual é o objectivo do <START:OBRA_PLANO> Protocolo de Quioto <END> ?
-Diga três estados signatários do <START:OBRA_PLANO> Protocolo <END> .
-Quantos estados aderiram ao <START:OBRA_PLANO> Protocolo de Quioto <END> ?
-Quem é o líder da organização <START:ORGANIZACAO_INSTITUICAO> Pro Familia <END> ?
-Quantos membros têm a organização?
-Qual é o pico mais alto de <START:LOCAL_FISICO> África <END> ?
-Quando é que foi criado o <START:LOCAL_OUTRO> Parque Nacional do Kilimanjaro <END> ?
-De que material é feito o <START:COISA_OBJECTO> Kilimanjaro <END> ?
-A que partido pertence <START:PESSOA_INDIVIDUAL> Angela Merkel <END> ?
-Como se chama o irmão dela?
-Quem disse  "Die multikulturelle Gegelllschaft ist gescheitert" ?
-.
-O que é uma Okiya?
-O que são hanamachi?
-Em que cidades japonesas ainda existem?
-Quanto custou a construção da <START:OBRA_ARTE> Torre Eiffel <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Samuel Hahnemann <END> ?
-Em homeopatia, como se que chama o processo de diluição?
-Em quantos livros está dividido « <START:OBRA_REPRODUZIDA> O Senhor dos Anéis <END> »?
-Onde fica o <START:OBRA_ARTE> Alhambra <END> ?
-Onde fica a sede da <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> ?
-Com que companhia se fundiu a <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> <START:TEMPO_TEMPO_CALEND> em 2000 <END> ?
-Que profissão praticou <START:PESSOA_INDIVIDUAL> Gerhard Schröder <END> e 1978 a 1990?
-Em que encontro ele foi representado por <START:PESSOA_INDIVIDUAL> Chirac <END> ?
-Como se chama a quarta mulher dele?
-Qual a profundidade do <START:LOCAL_FISICO> Grand Canyon <END> ?
-Como se chamam as três cataratas do <START:LOCAL_FISICO> Canyon <END> ?
-Que marca fez <START:PESSOA_INDIVIDUAL> Benetton <END> famoso?
-Onde fica o Carlton Center?
-O que é Putuo?
-Quando foi fundada a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
-A que companhia alemã pertence <START:TEMPO_GENERICO> hoje <END> a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
-Em que concerto participaram os <START:PESSOA_GRUPOMEMBRO> Coldplay <END> <START:TEMPO_TEMPO_CALEND> a 2 de Julho de 2005 <END> ?
-Que idade tinha <START:PESSOA_INDIVIDUAL> Cate Blanchett <END> quando lhe morreu o pai?
-Qual foi o primeiro filme dela?
-De que país é <START:PESSOA_INDIVIDUAL> Peter Jackson <END> ?
-O que significa viquingue?
-O que é o Santo Ofício?
-Até quando existiu a <START:ORGANIZACAO_INSTITUICAO> Inquisição <END> em <START:LOCAL_HUMANO> França <END> ?
-Como se chamava a mãe de <START:PESSOA_INDIVIDUAL> Nero <END> ?
-<START:PESSOA_INDIVIDUAL> Isabel Allende <END> é parente de que antigo <START:PESSOA_CARGO> presidente do Chile <END> ?
-Onde ficam as universidades de <START:ORGANIZACAO_INSTITUICAO> Yale <END> e <START:ORGANIZACAO_INSTITUICAO> Harvard <END> ?
-Qual é o maior estado da <START:LOCAL_HUMANO> Nova Inglaterra <END> ?
-Porque é que foi construída a <START:OBRA_ARTE> Coluna da Vitória <END> em <START:LOCAL_HUMANO> Berlim <END> ?
-Como se chama a escultura de bronze que existe na <START:LOCAL_HUMANO> Coluna da Vitória <END> ?
-Quando é que morreu <START:PESSOA_INDIVIDUAL> Alfred Hitchcock <END> ?
-Para onde é que ele emigrou <START:TEMPO_TEMPO_CALEND> em 1939 <END> ?
-Como é que se chamava o seu primeiro filme americano?
-Quem organiza o  <START:ACONTECIMENTO_ORGANIZADO> Carnaval <END> do <START:LOCAL_HUMANO> Rio <END> ?
-Qual é o comprimento da arena do <START:LOCAL_HUMANO> Sambódromo <END> ?
+Texto extraído do site português
+      <START:LOCAL_VIRTUAL>Resistir<END>
+      (www.resistir.info).
 --DOCSTART--
     
- O <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> e nós.
-Teria mesmo algo a ver?
-<START:ABSTRACCAO_NOME> Ku <END> , palavra e não palavrão, parece vir do mais puro vernáculo do <START:ABSTRACCAO_NOME> Kimbundo <END> ( <START:ABSTRACCAO_NOME> MataKu <END> =nádegas, assento plural de ritaku), principal língua falada em <START:LOCAL_HUMANO> Luanda <END> , <START:LOCAL_HUMANO> Angola <END> (da qual falamos centenas de vocábulos, sem saber - inclusive <START:ABSTRACCAO_NOME> Ku <END> , certo?)
-O sentido figurado da palavra é, exatamente, o mesmo que usamos no <START:LOCAL_HUMANO> Brasil <END> : <START:ABSTRACCAO_NOME> Bunda <END> (palavra aliás, oriunda também do mesmo <START:ABSTRACCAO_NOME> Kimbundo <END> ), literalmente traduzida para o portugês também como nádegas.
-O sentido da expressão <START:ABSTRACCAO_NOME> Kuduro <END> poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece: <START:ABSTRACCAO_NOME> Kuduro <END> = <START:ABSTRACCAO_NOME> Bunda <END> imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo.
-Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.
-Contudo, dança livre que é, no <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> também se pode rebolar, é claro, basta querer.
-Dito isto, o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> , inserido no âmbito da cultura <START:ABSTRACCAO_DISCIPLINA> Hip Hop <END> , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o <START:ABSTRACCAO_DISCIPLINA> Funk <END> carioca e o <START:ABSTRACCAO_DISCIPLINA> Kwaito <END> (da <START:LOCAL_HUMANO> África do Sul <END> ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na <START:LOCAL_HUMANO> América do Norte <END> .
-Mas o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> também é um símbolo dos mais fortes, <START:TEMPO_TEMPO_CALEND> neste momento <END> , da enorme capacidade da resistência cultural das populações não-brancas, do <START:TEMPO_GENERICO> outrora <END> chamado <START:ABSTRACCAO_NOME> Terceiro Mundo <END> , diante da pressão globalizante, sinônimo evidente de aculturação.
-Kuduro Checkup    
- No <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> angolano - e vejam vocês mesmos que coisa curiosa!
-- os passos do mix, da fusão com o break, são o mais puro e carioca dos <START:ABSTRACCAO_DISCIPLINA> Sambas <END> .
-Incrível!
-Acreditem, mas, os <START:PESSOA_GRUPOMEMBRO> Pupilos do Kuduro <END> , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa <START:PESSOA_GRUPOMEMBRO> Ala dos Malandrinhos <END> dançava lá <START:TEMPO_TEMPO_CALEND> naqueles bem passados anos 60 <END> .
-Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos <START:ABSTRACCAO_DISCIPLINA> Sambas <END> .
-Pode?
-Teria sido aquela minha saudosa rapaziada de <START:LOCAL_HUMANO> Padre Miguel <END> a inventora do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> ?
-Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais.
-Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho <START:COISA_CLASSE> Sampler <END> , por exemplo).
-Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do Mocinho poderia ser atribuído a sociedade neoliberal globalizada, ao <START:ABSTRACCAO_DISCIPLINA> Capitalismo <END> em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.
-Besteira.
-Baita injustiça, sobretudo.
-Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.
-O <START:COISA_CLASSE> Sampler <END> e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes.
-Se disponíveis estiverem, ferramentas de cultura serão.
-Se não estiverem, outras ferramentas se inventarão.
-Aliás, o que um <START:COISA_CLASSE> Sampler <END> faz mesmo?
-Não muda nada.
-Copia.
-E haja periferia e miséria para samplear.
-A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.
-Vírus no sistema.
-O Mocinho verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.
-----------------------    
-Inside the Kuduro    
-(em português não ficaria melhor não)    
- Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo.
-É esta a célula rítmica base, a matriz, o <START:COISA_SUBSTANCIA> DNA <END> , sobre o qual se criará os sons que bem entendermos.
-Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.
-No caso do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava <START:TEMPO_TEMPO_CALEND> nos anos 70 <END> , <START:TEMPO_TEMPO_CALEND> 80 <END> de <START:ABSTRACCAO_DISCIPLINA> Kabetula <END> , um ritmo muito popular em <START:LOCAL_HUMANO> Luanda <END> , semelhante ao <START:ABSTRACCAO_DISCIPLINA> Semba <END> , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> é uma variação do <START:ABSTRACCAO_DISCIPLINA> Kuzukuta <END> , ritmo popular do carnaval angolano).
-Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do <START:LOCAL_HUMANO> Brasil <END> ,  <START:TEMPO_TEMPO_CALEND> desde, pelo menos, o século 19 <END> ), tipicamente urbanos que são, vieram, provavelmente, do <START:ABSTRACCAO_DISCIPLINA> Kaduke <END> , espécie de <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> surgido na cidade de <START:LOCAL_HUMANO> Ambaça <END> ( <START:LOCAL_HUMANO> Mbaka <END> ), grande centro urbano e comercial (!)
-lá <START:TEMPO_TEMPO_CALEND> pelos idos de 1880 <END> (veja <START:OBRA_REPRODUZIDA> Capello e Ivens <END> ), <START:TEMPO_TEMPO_CALEND> no tempo <END> da colonização portuguesa em <START:LOCAL_HUMANO> Angola <END>        
- Este <START:ABSTRACCAO_DISCIPLINA> Kaduke <END> , talvez tenha gerado, a partir do mesmo processo, no <START:LOCAL_HUMANO> Brasil <END> colonial, o <START:ABSTRACCAO_DISCIPLINA> Kalundu <END> que, mesclado à danças européias como a <START:ABSTRACCAO_DISCIPLINA> Polka <END> e a <START:ABSTRACCAO_DISCIPLINA> Mazurka <END> (espécies de danças de periferia brancas, populares na <START:LOCAL_HUMANO> Europa <END>   central), deram numa dança popularíssima na <START:LOCAL_HUMANO> Corte <END> brasileira (um <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> colonial) chamada de <START:ABSTRACCAO_NOME> Lundu <END> .
-Pois não é que o <START:ABSTRACCAO_DISCIPLINA> Kaduke <END> , o <START:ABSTRACCAO_DISCIPLINA> Kalundu <END> e talvez até mesmo o <START:ABSTRACCAO_DISCIPLINA> Jongo <END> formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente <START:TEMPO_GENERICO> hoje <END> no <START:LOCAL_HUMANO> Brasil <END> como <START:ABSTRACCAO_DISCIPLINA> Samba <END> ?
-Viram só?
-<START:ABSTRACCAO_DISCIPLINA> Kuduro <END> e <START:ABSTRACCAO_DISCIPLINA> Samba <END> : Tudo a ver.
-Fenômeno recorrente, efetivamente, existem manifestações como o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> em todas as periferias do mundo.
-Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de <START:ABSTRACCAO_DISCIPLINA> Break Dance <END> , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.
-Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do <START:LOCAL_HUMANO> Rio <END> , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros, <START:PESSOA_INDIVIDUAL> James Brown <END> e <START:PESSOA_INDIVIDUAL> Michael Jackson <END> ?
-Há break sim, mas, um pouquinho só.
-Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?
-Ora, é evidente que, olhando detidamente os movimentos de dança deste <START:ABSTRACCAO_DISCIPLINA> Funk Carioca <END> , iremos encontrar a mesma filosofia coreográfica do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás, <START:TEMPO_GENERICO> hoje <END> banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).
-Assim como na <START:LOCAL_HUMANO> África <END> e no <START:LOCAL_HUMANO> Brasil <END> , na <START:LOCAL_HUMANO> Índia <END> , no <START:LOCAL_HUMANO> Afeganistão <END> , na <START:LOCAL_HUMANO> Indonésia <END> , a fórmula beat futurista somado à tradição, se repetirá.
-Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá.
-Para nós brasileiros, por exemplo, o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante <START:ABSTRACCAO_IDEIA> Periferia <END> .
-Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê.
-Somos do <START:LOCAL_VIRTUAL> Overmundo <END> , o pá!
-O Bicho, o vírus da maçã.
-Y love you <START:LOCAL_HUMANO> Angola <END> !
-(Em tempo: Em terra de cego, quem tem um olho, infelizmente é...
-caolho.)
---DOCSTART--
+A hora da verdade
     
- Novidades na     <START:ACONTECIMENTO_ORGANIZADO> Macworld 2007 <END>         
- <START:ORGANIZACAO_EMPRESA> Apple <END> lançou o <START:COISA_CLASSE> iPhone <END> , o telemóvel mais esperado <START:TEMPO_GENERICO> dos últimos tempos <END>        
- Sempre é o <START:COISA_CLASSE> iPhone <END> , dirão os que acompanharam as especulações e palpites <START:TEMPO_TEMPO_CALEND> dos últimos meses <END> .
-A <START:ORGANIZACAO_EMPRESA> Apple <END> , empresa de tecnologias que tem nos leitores multimédia <START:COISA_CLASSE> iPod <END> e nos computadores <START:COISA_CLASSE> Macintosh <END> a sua bandeira, acaba de entrar na área das telecomunicações.
-O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil.
-Funciona com o sistema operativo <START:COISA_CLASSE> MacOS X <END> , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
-O anúncio foi feito <START:TEMPO_TEMPO_CALEND> ontem <END> , em <START:LOCAL_HUMANO> São Francisco <END> , nos <START:LOCAL_HUMANO> EUA <END> , onde decorre a <START:ACONTECIMENTO_ORGANIZADO> Macworld <END> , feira que a <START:ORGANIZACAO_EMPRESA> Apple <END> organiza <START:TEMPO_FREQUENCIA> todos os anos <END> para apresentar as suas novidades.
-Como de costume, a conferência de <START:PESSOA_INDIVIDUAL> Steve Jobs <END> , o director-geral da empresa, foi o ponto alto para os fãs da <START:COISA_CLASSE> Apple <END> .        
- "
-<START:TEMPO_FREQUENCIA> De vez em quando <END> chega um produto revolucionário que muda tudo.
-É sorte se pudermos trabalhar num ao longo da carreira... e a <START:ORGANIZACAO_EMPRESA> Apple <END> é sortuda por já ter lançado vários", disse <START:PESSOA_INDIVIDUAL> Steve Jobs <END> .
-O novo telefone vai estar disponível <START:TEMPO_TEMPO_CALEND> em Junho <END> , nos <START:LOCAL_HUMANO> EUA <END> , em duas versões: uma com <START:VALOR_QUANTIDADE> 8 gigabytes (GB) <END> de capacidade de armazenamento, que custará <START:VALOR_MOEDA> 600 dólares <END> , e outra com <START:VALOR_QUANTIDADE> 4 GB <END> , a <START:VALOR_MOEDA> cerca de 500 dólares <END> .
-À <START:LOCAL_FISICO> Europa <END> chegará <START:TEMPO_TEMPO_CALEND> no final do ano <END> , e na <START:LOCAL_FISICO> Ásia <END> só <START:TEMPO_TEMPO_CALEND> em 2008 <END> .
-Tem uma câmara fotográfica com <START:VALOR_QUANTIDADE> 2 megapixels <END> de resolução e um ecrã táctil com <START:VALOR_QUANTIDADE> 8,8 centímetros <END> de diagonal.
-Nos <START:LOCAL_HUMANO> EUA <END> , o telemóvel da <START:ORGANIZACAO_EMPRESA> Apple <END> funcionará na rede <START:COISA_CLASSE> Cingular Wireless <END> .
-O seu desenvolvimento levou ao registo de <START:VALOR_QUANTIDADE> mais de 200 <END> patentes, o que o torna numa das maiores inovações da empresa.
-O facto de ter o sistema operativo <START:COISA_CLASSE> OS X <END> - usado nos computadores da <START:COISA_CLASSE> Apple <END> - significa que o <START:COISA_CLASSE> iPhone <END> terá muitas das funções habituais naquelas máquinas.
-Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do <START:ORGANIZACAO_EMPRESA> Google <END> .
---DOCSTART--
+
+      1.
+<START:TEMPO_TEMPO_CALEND>Hoje à noite<END>
+      o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      tem um teste elucidativo sobre o seu verdadeiro valor.
+Teve-o também <START:TEMPO_TEMPO_CALEND>antes<END> contra o
+      <START:PESSOA_GRUPOMEMBRO>Manchester United<END>
+      , onde passou com distinção, é facto, mas o
+      <START:PESSOA_GRUPOMEMBRO>Manchester<END>
+      <START:TEMPO_TEMPO_CALEND>desta época<END>
+      e, sobretudo, o
+      <START:TEMPO_TEMPO_CALEND>de Dezembro passado<END>
+      , é uma pálida imitação dos «red devils»
+      de um passado recente
+      , que tudo atemorizavam.
+O
+      <START:PESSOA_GRUPOMEMBRO>Liverpool<END>
+      , para além de campeão europeu em título, é melhor equipa e mais calculista.
+Contra ele, o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu.
+Ao iniciar com uma derrota inapelável este terrível ciclo
+      <START:TEMPO_DURACAO>de nove dias<END>
+      em que tudo se pode sonhar e tudo se pode perder, o  <START:PESSOA_GRUPOMEMBRO>Benfica<END> de
+        <START:PESSOA_INDIVIDUAL>Ronald Koeman<END>
+      parece ter lançado a descrença entre os seus --- adeptos e jornalistas.
+De repente, a tão louvada equipa
+      <START:TEMPO_TEMPO_CALEND>de há três semanas atrás<END>
+      parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações.
+Acusa-se
+      <START:PESSOA_INDIVIDUAL>Koeman<END>
+      de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços
+      <START:TEMPO_TEMPO_CALEND>em Dezembro<END>
+      , anunciados pela
+      <START:ORGANIZACAO_INSTITUICAO>Direcção<END>
+      como o suplemento que faltava para a conquista da
+      Liga dos Campeões
+      e que ele, logicamente, tinha de experimentar e utilizar.
+E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o
+      <START:PESSOA_GRUPOMEMBRO>Manchester<END>
+      .
+Até se acusa
+      <START:PESSOA_INDIVIDUAL>Koeman<END>
+      de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de
+      <START:PESSOA_INDIVIDUAL>Quim<END>
+      e de
+      <START:PESSOA_INDIVIDUAL>Moreira<END>
+      , pela manifesta impreparação de
+      <START:PESSOA_INDIVIDUAL>Nereu<END>
+      , ou pela «épica» contratação de
+      <START:PESSOA_INDIVIDUAL>Moretto<END>
+      , delirantemente saudada pela massa associativa e afins.
+Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no
+      <START:ORGANIZACAO_INSTITUICAO>Benfica<END>
+      tem sobretudo a ver com a ilusão criada sobre o valor real da equipa.
+Tudo começou na época passada, com um
+      <START:ACONTECIMENTO_ORGANIZADO>Campeonato<END>
+      e uma
+      <START:ACONTECIMENTO_ORGANIZADO>Taça<END>
+      ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar.
+Por isso, quando
+      <START:PESSOA_INDIVIDUAL>Luís Filipe Vieira<END>
+      disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a
+      <START:ACONTECIMENTO_ORGANIZADO>Champions<END>
+      , continuaram todos a fingir que acreditavam.
+Depois, houve a vitória sobre o
+      <START:PESSOA_GRUPOMEMBRO>Manchester<END>
+      e a série de sete triunfos consecutivos na
+      <START:ACONTECIMENTO_ORGANIZADO>Liga<END>  portuguesa e foi ver o
+      <START:PESSOA_INDIVIDUAL>José Veiga<END>
+      , de peito feito, a anunciar a inevitável revalidação do título e a
+      <START:ACONTECIMENTO_ORGANIZADO>Europa<END>
+      ao virar da esquina.
+Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas.
+E assim se criou a verdade oficial de que estava aí um grande
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      , que nada nem ninguém conseguiriam parar.
+Agora, três súbitas derrotas depois, cai-se no extremo oposto.
+E na pior altura, quando a equipa mais precisava da confiança dos seus.
+Mas, se
+      <START:TEMPO_TEMPO_CALEND>entre hoje e domingo<END>
+      , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão.
+Isso está guardado para um bode expiatório mais conveniente.
+2.
+O
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      jogava em
+      <START:LOCAL_HUMANO>Guimarães<END>
+      sob o peso de ter três jogadores ameaçados de não poderem defrontar o
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      caso vissem um cartão amarelo.
+<START:PESSOA_INDIVIDUAL>Lucílio Baptista<END>
+      foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo).
+Mas, no resto,
+      <START:PESSOA_INDIVIDUAL>Lucílio<END>
+      não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas,
+      <START:PESSOA_INDIVIDUAL>Lucílio Batista<END>
+      conseguiu marcar o dobro de faltas ao
+      <START:PESSOA_GRUPOMEMBRO>Vitória<END>
+      , deixando inúmeras por assinalar contra o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      , e mostrar sete cartões amarelos a jogadores do
+      <START:ORGANIZACAO_INSTITUICAO>Guimarães<END>
+      contra apenas um aos benfiquistas.
+3.
+E, a propósito do «
+      <START:OBRA_PLANO>Apito Dourado<END>
+      », essa mega investigação judicial, que parece ter o condão de vir a arrastar-se
+      <START:TEMPO_DURACAO>durante anos<END>
+      , tornando alguns eternamente suspeitos (ou até mesmo já condenados, a quem isso convém) e outros estranhamente imunes às suspeitas, aguardei com alguma curiosidade o despacho de pronúncia, no que se refere ao
+      <START:PESSOA_CARGO>presidente do FC Porto<END> 
+      .
+Mas, afinal e como aqui antecipei desde o início, a montanha pariu um rato, ou pior ainda, pariu a insustentável continuação das suspeitas por confirmar.
+<START:TEMPO_DURACAO>Mais de um ano<END> de investigações decorrido, depois daquele imenso aparato policial-mediático para ouvir o «suspeitíssimo»
+      <START:PESSOA_INDIVIDUAL>Pinto da Costa<END>
+      , depois de dezenas ou centenas de milhares de contos gastos aos contribuintes, depois de não sei quantas prorrogações de prazo a favor do
+      <START:ORGANIZACAO_ADMINISTRACAO>Ministério Público<END>
+      , depois do reforço extraordinário dos meios de investigação, a «task force » judicial de
+      <START:LOCAL_HUMANO>Gondomar<END>
+      conclui apenas em extrair certidões do processo para que outros continuem a investigar
+      <START:PESSOA_INDIVIDUAL>Pinto da Costa<END>
+      .
+E, quanto a factos novos, indícios novos, provas recolhidas, nada.
+A suspeita «gravíssima» mantém-se rigorosamente a mesma
+      <START:TEMPO_TEMPO_CALEND>de há um ano atrás<END>
+      :
+      <START:TEMPO_TEMPO_CALEND>em 2004<END>
+      , o
+      
+        <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+        de
+        <START:PESSOA_INDIVIDUAL>José Mourinho<END>
+      
+      , já virtual campeão nacional, com alguns onze pontos de avanço sobre o segundo classificado, o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      , <START:TEMPO_DURACAO>a semanas<END> de se tornar campeão europeu, terá subornado, com recurso a «meninas» o árbitro do encontro no
+      <START:LOCAL_HUMANO>Dragão<END>
+      contra o
+      <START:PESSOA_GRUPOMEMBRO>E.
+Amadora<END>
+      , em vias de despromoção, como forma de garantir a vitória no jogo --- parece que, de outra maneira, não conseguiriam ganhar.
+E é nisto que se gasta o tempo e o dinheiro dos contribuintes: não fazendo justiça, mas mantendo eternas as suspeitas que a tantos convém.
+Mas também a verdade é que, à luz do que está em causa---e é apenas isto--- só acredita, ou finge acreditar, quem quer.
+4.
+E, pé ante pé, o
+      <START:PESSOA_GRUPOMEMBRO>Sporting<END>
+      está a cinco pontos do
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      e poderá ficar a dois se,
+      <START:TEMPO_TEMPO_CALEND>domingo<END>
+      na
+      <START:LOCAL_HUMANO>Luz<END>
+      , a equipa de
+      <START:PESSOA_INDIVIDUAL>Adriaanse<END>
+      falhar mais uma vez num jogo decisivo.
+Dou-me conta, já
+      <START:TEMPO_TEMPO_CALEND>há um tempo<END>
+      , que muito pouco ou quase nada tenho escrito sobre o
+      <START:PESSOA_GRUPOMEMBRO>Sporting<END>
+      esta época.
+A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o
+      <START:PESSOA_GRUPOMEMBRO>Sporting<END>
+      tenha futebol para ser campeão nacional, esta época.
+Estão em segundo lugar, já só a cinco pontos e ainda vão receber o
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      em
+      <START:LOCAL_HUMANO>Alvalade<END>
+      ?
+Pois, é facto.
+Mas, mesmo assim, não me convencem.
+Ainda
+      <START:TEMPO_TEMPO_CALEND>esta semana<END>
+      o que vi, contra o
+      <START:PESSOA_GRUPOMEMBRO>Paços de Ferreira<END>
+      e em
+      <START:LOCAL_HUMANO>Alvalade<END>
+      , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro <START:TEMPO_TEMPO_CALEND>depois da hora<END>.
+Um
+      <START:VALOR_CLASSIFICACAO>3-0<END>
+      absolutamente enganador, num jogo que não mereceu sequer ganhar.
+Como disse, é possível que ainda tenha de engolir esta opinião.
+Mas, se isso acontecer, é porque o
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      entregou o ouro ao bandido.
+©
+      Miguel Sousa Tavares
+      -
+      
+        Jornal "A Bola"
+        
+      -
+      21.02.2006
     
-  <START:OBRA_ARTE> Palácio Nacional <END> de <START:LOCAL_HUMANO> Mafra <END>        
-Convento    
- <START:TEMPO_TEMPO_CALEND> Em 1715 <END> , foi fundado o  <START:ORGANIZACAO_INSTITUICAO> Convento de Nossa Senhora e Santo António <END> de <START:LOCAL_HUMANO> Mafra <END> , que pertencia à província eclesiástica da <START:LOCAL_HUMANO> Arrábida <END> .
-Teve origem numa comunidade do <START:ORGANIZACAO_INSTITUICAO> Hospício do Espírito Santo <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1730 <END> , sagrada a <START:OBRA_ARTE> Igreja de Nossa Senhora e Santo António <END> , junto de <START:LOCAL_HUMANO> Mafra <END> , foi para lá transferida a sobredita comunidade.
-<START:TEMPO_TEMPO_CALEND> Entre 1771 e 1791 <END> , por breve de <START:PESSOA_INDIVIDUAL> Clemente XIV <END> , <START:TEMPO_TEMPO_CALEND> de 4 de julho de 1770 <END> , a requerimento do <START:PESSOA_CARGO> Marquês de Pombal <END> , foi ocupado pelos   <START:PESSOA_GRUPOMEMBRO> Cónegos Regulares de Santo Agostinho <END>   da    <START:ORGANIZACAO_INSTITUICAO> Congregação <END> de <START:LOCAL_HUMANO> Santa Cruz <END> de <START:LOCAL_HUMANO> Coimbra <END>  ; os    <START:PESSOA_GRUPOMEMBRO> Franciscanos <END>   da   <START:ORGANIZACAO_INSTITUICAO> Província da Arrábida <END> saíram do  <START:LOCAL_HUMANO> Convento <END> de <START:LOCAL_HUMANO> Mafra <END> , <START:TEMPO_TEMPO_CALEND> em Maio de 1771 <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1791 <END> , os <START:PESSOA_GRUPOMEMBRO> Cónegos Regulares de Santo Agostinho <END> saíram do edifício de <START:LOCAL_HUMANO> Mafra <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1834 <END> , no âmbito da " <START:OBRA_PLANO> Reforma geral eclesiástica <END> " empreendida pelo ministro e <START:PESSOA_CARGO> secretário de Estado <END> , <START:PESSOA_INDIVIDUAL> Joaquim António de Aguiar <END> , executada pela <START:ORGANIZACAO_INSTITUICAO> Comissão da Reforma Geral do Clero <END> ( <START:TEMPO_TEMPO_CALEND> 1833-1837 <END> ), pelo   <START:OBRA_PLANO> Decreto de 28 de Maio <END> , promulgado <START:TEMPO_TEMPO_CALEND> a 30 desse mês <END> , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.
---DOCSTART--
-
-Autor Mensagem
-joseep
-<START:LOCAL_VIRTUAL> Site Admin <END> 
-Registo: <START:TEMPO_TEMPO_CALEND> 12 Apr 2005 <END>
-Mensagens: <START:VALOR_QUANTIDADE> 4 <END>
-Local/Origem: <START:LOCAL_HUMANO> Lisboa <END> ( <START:LOCAL_HUMANO> Portugal <END> )
-Colocada: <START:TEMPO_TEMPO_CALEND> Quarta-feira Maio 04, 2005 <END> <START:TEMPO_TEMPO_CALEND> 23:36 <END> Assunto: Como efectuar um Registo (tem vantagens)
-Gostaria muito, que os <START:PESSOA_GRUPOMEMBRO> Acólitos <END> , se registassem no forum, de modo a ser algo organizado, principalmente os da <START:ORGANIZACAO_INSTITUICAO> AAPSE <END> e é muito simples, querem ver.
-1º-Vão ao cabeçalho, onde estão várias teclas, uma delas REGISTAR-SE, e seleccionam.
-2º- Aceitam o contrato,
-3º Preenchem o que acharem necessário e SUBMETEM (NAO ESQUECER USERNAME, PASS e vosso e-mail).
-4º Vão ao vosso e-mail, que colocaram no registo, e vão ver que receberam um novo mail, abrem e carregam no link para concluir o registo (PASSO MUITO IMPORTANTE, dúvidas contactem-me)
-5º - Quando acederem ao forum da próxima vez vão a ENTRAR (em cima) e digitam o vosso USERNAME e PASS.
-Qualquer dúvida contactem!
-_________________
-Um abraço,
-<START:PESSOA_INDIVIDUAL> José Eduardo Pires <END>
- <START:ORGANIZACAO_INSTITUICAO> Ass. de Acólitos <END> da <START:ORGANIZACAO_INSTITUICAO> Paróquia de Santo Eugénio <END> 
-
---DOCSTART--
-
-<START:ACONTECIMENTO_ORGANIZADO> GP Brasil <END> : <START:PESSOA_INDIVIDUAL> Raikkonen <END> campeão do <START:LOCAL_HUMANO> Mundo <END> 
-FINLANDÊS DA <START:PESSOA_GRUPOMEMBRO> FERRARI <END> ARREBATOU TÍTULO CONTRA FAVORITISMO DA <START:PESSOA_GRUPOMEMBRO> MCLAREN <END> 
-O finlandês <START:PESSOA_INDIVIDUAL> Kimi Raikkonen <END> sagrou-se campeão do <START:LOCAL_HUMANO> Mundo <END>  de <START:ABSTRACCAO_DISCIPLINA> F1 <END> vencendo o  <START:ACONTECIMENTO_ORGANIZADO> GP <END> do <START:LOCAL_HUMANO> Brasil <END> , à frente do companheiro de equipa na <START:PESSOA_GRUPOMEMBRO> Ferrari <END> <START:PESSOA_INDIVIDUAL> Filipe Massa <END> e do espanhol <START:PESSOA_INDIVIDUAL> Fernando Alonso <END> .
-<START:PESSOA_INDIVIDUAL> Lewis Hamilton <END> , colega de <START:PESSOA_INDIVIDUAL> Alonso <END> na <START:PESSOA_GRUPOMEMBRO> McLaren <END> , não passou da <START:VALOR_CLASSIFICACAO> 7.ª <END> posição, depois de partir em vantagem pontual no <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo <END> , e teve de contentar-se com o segundo lugar, com <START:VALOR_QUANTIDADE> 109 <END> pontos, a apenas um do novo campeão, mas os mesmos que <START:PESSOA_INDIVIDUAL> Alonso <END> , embora com mais vitórias.
-Emoção
-Não faltou emoção em <START:LOCAL_HUMANO> Interlagos <END> no <START:LOCAL_HUMANO> Circuito José Carlos Pace <END> desde a primeira volta da corrida decisiva do <START:ACONTECIMENTO_ORGANIZADO> Mundial <END> , incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
-O <START:COISA_MEMBROCLASSE> Ferrari <END> de <START:PESSOA_INDIVIDUAL> Raikkonnen <END> partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando <START:PESSOA_INDIVIDUAL> Alonso <END> , que por sua vez ganhara uma posição colega <START:PESSOA_INDIVIDUAL> Lewis Hamilton <END> .
-O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a <START:VALOR_CLASSIFICACAO> 8.ª <END> posição, atrás dos <START:PESSOA_GRUPOMEMBRO> Toyota <END> .
-Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na <START:VALOR_CLASSIFICACAO> 18.ª <END> posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
-A <START:VALOR_QUANTIDADE> 8 <END> voltas do fim, <START:PESSOA_INDIVIDUAL> Raikkonen <END> liderava e já era campeão virtual, atrás de <START:PESSOA_INDIVIDUAL> Alonso <END> ( <START:VALOR_CLASSIFICACAO> 3.º <END> na prova) e <START:PESSOA_INDIVIDUAL> Hamilton <END> ( <START:VALOR_CLASSIFICACAO> 8.º <END> ) : o domínio da <START:PESSOA_GRUPOMEMBRO> Ferrari <END> era total na corrida, e só destinatário do título era incerto...
-Mas a <START:VALOR_QUANTIDADE> 5 <END> voltas do fim o finlandês fez a melhor volta do dia, enquanto <START:PESSOA_INDIVIDUAL> Hamilton <END> era apenas <START:VALOR_CLASSIFICACAO> 7.º <END> ... <START:TEMPO_DURACAO> a 15 segundos <END>  de <START:PESSOA_INDIVIDUAL> Heidfeld <END> , e muito longe do <START:VALOR_CLASSIFICACAO> 5.º <END> lugar que lhe daria o título.
-Festa à brasileira para <START:PESSOA_INDIVIDUAL> Raikkonen <END> com dobradinha de <START:PESSOA_INDIVIDUAL> Massa <END> bem saborosa para a <START:PESSOA_GRUPOMEMBRO> Ferrari <END> :  <START:ACONTECIMENTO_EVENTO> GP <END> do <START:LOCAL_HUMANO> Brasil <END> e <START:ACONTECIMENTO_ORGANIZADO> Mundiais <END> de pilotos e construtores... 
+  
 
   --DOCSTART--
+    
 
-Onde ficam as <START:LOCAL_FISICO> Ilhas Marquesas <END> ?
-De que organização é que <START:PESSOA_INDIVIDUAL> Javier Solana <END> era secretário-geral?
-O que é a <START:ORGANIZACAO_INSTITUICAO> EFTA <END> ?
-Quando é que foi criada?
-Que cinco países da <START:ORGANIZACAO_INSTITUICAO> EFTA <END> se juntaram ao <START:OBRA_PLANO> EEE"EEE <END> quando este entrou em vigor?
-Qual é o maior banco do <START:LOCAL_HUMANO> Japão <END> ?
-A que companhia pertencia o <START:COISA_OBJECTO> Airbus <END> atacado pelo <START:PESSOA_GRUPOMEMBRO> GIA <END> <START:TEMPO_TEMPO_CALEND> em Dezembro de 1994 <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Michael Jackson <END> ?
-Diga um dos grandes sucessos de <START:PESSOA_INDIVIDUAL> Michael Jackson <END> ?
-Com quem é que ele se casou <START:TEMPO_TEMPO_CALEND> em Maio de 1994 <END> ?
-Qual era a nacionalidade de <START:PESSOA_INDIVIDUAL> Ayrton Senna <END> ?
-Quantas vezes é que ele foi campeão do mundo?
-Quando é que ele morreu?
-Em que circuito de <START:ABSTRACCAO_DISCIPLINA> F1 <END> é que ele morreu?
-Quando é que caiu o regime comunista do <START:LOCAL_HUMANO> Afeganistão <END> ?
-Quem era o presidente do regime comunista do <START:LOCAL_HUMANO> Afeganistão <END> antes dessa queda?
-Quantos casamentos ocurreram na <START:LOCAL_HUMANO> Grã-Bretanha <END> <START:TEMPO_TEMPO_CALEND> em 1993 <END> ?
-O que é o <START:ORGANIZACAO_INSTITUICAO> IRA <END> ?
-Contra que aeroporto londrino o <START:ORGANIZACAO_INSTITUICAO> IRA <END> lançou um ataque de morteiro <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quando é que foi inaugurada a  <START:LOCAL_HUMANO> Ponte <END> da <START:LOCAL_HUMANO> Normandia <END> ?
-Quando ocorreu o tremor de terra em <START:LOCAL_HUMANO> Los Angeles <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Paul Touvier <END> ?
-Quando é que começou o julgamento de <START:PESSOA_INDIVIDUAL> Paul Touvier <END> ?
-Quando é que foi criado o  <START:ORGANIZACAO_INSTITUICAO> Tribunal Internacional Penal <END> para o <START:LOCAL_HUMANO> Ruanda <END> ?
-Quando é que <START:PESSOA_INDIVIDUAL> Liamine Zéroul <END> foi eleito para a presidência da <START:LOCAL_HUMANO> Argélia <END> ?
-Quando é que a <START:OBRA_PLANO> Organização Mundial do Comércio <END> entrou em vigor?
-Em que ano nasceu <START:PESSOA_INDIVIDUAL> Richard Nixon <END> ?
-Quando é que o antigo  <START:LOCAL_HUMANO> Parlamento <END> da <START:LOCAL_HUMANO> Bretanha <END> foi destruído por um incêndio?
-Onde fica Lillehammer?
-Quando é que <START:PESSOA_INDIVIDUAL> Eduardo Frei <END> se tornou <START:PESSOA_CARGO> presidente do Chile <END> ?
-Em que ano é que <START:PESSOA_INDIVIDUAL> Eugène Ionesco <END> entrou na <START:ORGANIZACAO_INSTITUICAO> Academia Francesa <END> ?
-Que bispo foi suspenso pelo <START:ORGANIZACAO_INSTITUICAO> Vaticano <END> <START:TEMPO_TEMPO_CALEND> a 13 de Fevereiro de 1995 <END> ?
-Em <START:LOCAL_HUMANO> França <END> , quem foi nomeado <START:PESSOA_CARGO> Primeiro Ministro <END> <START:TEMPO_TEMPO_CALEND> a 17 de Maio de 1995 <END> ?
-Onde fica Balcarce?
-Que famoso condutor argentino se retirou <START:TEMPO_TEMPO_CALEND> em 1958 <END> ?
-Quem ganhou o <START:ACONTECIMENTO_ORGANIZADO> Torneio das Cinco Nações <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quem ganhou o Óscar de melhor filme por " <START:OBRA_REPRODUZIDA> Forrest Gump <END> "?
-Quem ganhou o Prémio Goncourt <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Quem ganhou o Óscar de melhor actor <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quem se suicidou <START:TEMPO_TEMPO_CALEND> a 8 de Abril de 1994 <END> ?
-Que duas personalidades famosas presidiram ao júri do  <START:ACONTECIMENTO_ORGANIZADO> Festival <END> de <START:LOCAL_HUMANO> Cannes <END> <START:TEMPO_TEMPO_CALEND> de 1994 <END> ?
-Quantos habitantes tem <START:LOCAL_HUMANO> Catmandu <END> ?
-A que partido político pertence <START:PESSOA_INDIVIDUAL> Thérèse Aillaud <END> ?
-Ela é deputada por que região?
-Quem foi eleito <START:PESSOA_CARGO> presidente da África do Sul <END>  <START:TEMPO_TEMPO_CALEND> a 9 de Maio de 1994 <END> ?
-Quem se tornou <START:PESSOA_CARGO> líder do Partido Trabalhista <END>  britânico <START:TEMPO_TEMPO_CALEND> a 21 de Julho de 1994 <END> ?
-Quais as cinco praias do desembarque das quais um industrial comprou <START:VALOR_QUANTIDADE> 200 toneladas <END>  de areia para comemorar o <START:VALOR_QUANTIDADE> 50º <END> aniversário do <START:ACONTECIMENTO_EFEMERIDE> Dia-D <END> ?
-Quem era <START:PESSOA_CARGO> presidente da Comissão Europeia <END>  <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Onde é que  <START:PESSOA_INDIVIDUAL> Stephanie <END> do <START:LOCAL_HUMANO> Mónaco <END> e <START:PESSOA_INDIVIDUAL> Daniel Ducruet <END> se casaram?
-Quantas pessoas estavam presentes na cerimónia em memória do escritor <START:PESSOA_INDIVIDUAL> Elias Canetti <END> ?
-Qual o endereço da  <START:LOCAL_HUMANO> Delegação de Turismo <END> do <START:LOCAL_HUMANO> Sri Lanka <END> ?
-Que aconteceu na <START:LOCAL_HUMANO> Argélia <END> <START:TEMPO_TEMPO_CALEND> na noite de 17 para 18 de Agosto de 1994 <END> ?
-Quantas pessoas morreram no terramoto?
-Quantos quilómetros são de <START:LOCAL_HUMANO> Orão <END> a <START:LOCAL_HUMANO> Macara <END> ?
-Um míssil <START:COISA_CLASSE> ASMP <END> é quantas vezes mais rápido do que a velocidade do som?
-O que é a <START:ORGANIZACAO_INSTITUICAO> FPLP <END> ?
-Quem era considerado chefe do grupo?
-Em que país fica Beit Liqya?
-A que cidade chinesa foi <START:PESSOA_INDIVIDUAL> Warren Christopher <END> enviado por <START:PESSOA_INDIVIDUAL> Bill Clinton <END> para apreciar os eventuais progressos relativos aos direitos humanos?
-Quem é <START:PESSOA_INDIVIDUAL> Sir Winston Churchill <END> ?
-Que prémio ganhou o filme " <START:OBRA_REPRODUZIDA> Pulp Fiction <END> " no  <START:ACONTECIMENTO_ORGANIZADO> Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quem realizou esse filme?
-Quem é o actor principal?
-Quantos habitantes tem a <START:LOCAL_HUMANO> União Soviética <END> ?
-Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na <START:LOCAL_HUMANO> Sibéria <END> ?
-Onde é que fica o aeroporto de <START:LOCAL_HUMANO> Irkutsk <END> ?
-Que dois bancos se fundiram para formar o banco <START:ORGANIZACAO_EMPRESA> Tokyo-Mitsubishi <END> ?
-Quantos quilómetros separam <START:LOCAL_HUMANO> Kikwit <END> de <START:LOCAL_HUMANO> Kinshasa <END> ?
-Em que filme de <START:PESSOA_INDIVIDUAL> André Cayatte <END> participou <START:PESSOA_INDIVIDUAL> Annie Girardot <END> <START:TEMPO_TEMPO_CALEND> em 1971 <END> ?
-De que doença é que ela sofre <START:TEMPO_TEMPO_CALEND> desde 2006 <END> ?
-Onde é que ela nasceu?
-O que é a aceleração centrífuga?
-O que significa a sigla <START:ABSTRACCAO_NOME> WIA <END> ?
-Em que ano foi realizado o filme " <START:OBRA_REPRODUZIDA> Ace Ventura em África <END> "?
-Que vírus atingiu o <START:LOCAL_HUMANO> Zaire <END> ?
-O que é Geographos?
-Que avião civil efectuou o voo mais longo sem escalas?
-Onde é que o <START:COISA_CLASSE> A340 <END> levou a cabo o voo mais longo sem escalas por um avião civil?
-Quando é que este feito foi levado a cabo?
-Que nome se dá a uma inflamação dos gânglios?
-Quais são os outros três nomes do <START:ORGANIZACAO_INSTITUICAO> Arsenal Football Club <END> ?
-Quando é que este clube foi fundado?
-Em que estádio é que os jogadores do <START:PESSOA_GRUPOMEMBRO> Arsenal <END> têm estado a treinar <START:TEMPO_TEMPO_CALEND> desde Agosto de 2006 <END> ?
-Quantos lugares tem o estádio?
-Com que Prémio Nobel é que <START:PESSOA_INDIVIDUAL> Seamus Heaney <END> foi galardoado?
-Quantos estados ratificaram a convenção adoptada pela  <START:ORGANIZACAO_ADMINISTRACAO> Assembleia Geral <END> da <START:ORGANIZACAO_ADMINISTRACAO> ONU <END> <START:TEMPO_TEMPO_CALEND> em 20 de Novembro de 1989 <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Arsène Wenger <END> ?
-De que equipa é que ele se tornou treinador <START:TEMPO_TEMPO_CALEND> em 1987 <END> ?
-Em que ano foi fundada a firma <START:ORGANIZACAO_EMPRESA> Adidas Group AG <END> ?
-Qual é a sua área de trabalho?
-Qual é a altitude do <START:LOCAL_FISICO> Monte Rosa <END> ?
-Quantos litros de azeite são comercializados <START:TEMPO_FREQUENCIA> por ano <END> pela <START:ORGANIZACAO_EMPRESA> EBS <END> ?
-De que país é <START:PESSOA_INDIVIDUAL> Kim Il Sung <END> presidente?
-As amêndoas são o fruto de que árvore?
-De onde é que ela é originária?
-Quem é <START:PESSOA_INDIVIDUAL> Charles-Ange Ginésy <END> ?
-De que município é que ele também é presidente?
-Em que grupo político é que ele tem assento?
-O que é a febre-amarela?
-Que ferry-boat famoso naufragou no <START:LOCAL_FISICO> Mar Báltico <END> ?
-Em que país teve lugar a cimeira dos <START:ORGANIZACAO_ADMINISTRACAO> G7 <END> <START:TEMPO_TEMPO_CALEND> em Julho de 1994 <END> ?
-A que horas ocorreu o acidente no metro de <START:LOCAL_HUMANO> Valência <END> <START:TEMPO_TEMPO_CALEND> a 3 de Julho de 2006 <END> ?
-Quantos mortos causou esse acidente?
-A que velocidade circulava o metro?
-Quando é que a <START:LOCAL_HUMANO> Tanzânia <END> fechou as fronteiras aos refugiados do <START:LOCAL_HUMANO> Ruanda <END> ?
-Que slalom é que <START:PESSOA_INDIVIDUAL> Alberto Tomba <END> ganhou <START:TEMPO_TEMPO_CALEND> a 6 de Fevereiro de 1994 <END> ?
-O que é " <START:PESSOA_GRUPOMEMBRO> Ace of Base <END> "?
-De que cidade é este grupo?
-Quem são os quatro membros que compõem o grupo?
-Qual é o arranha-céus mais alto do mundo?
-O que é <START:PESSOA_INDIVIDUAL> Asandros <END> ?
-Quem é o irmão dele?
-Onde é que <START:PESSOA_INDIVIDUAL> Danny Barker <END> morreu?
-Quem foi nomeado <START:PESSOA_CARGO> presidente da SNCF <END>  <START:TEMPO_TEMPO_CALEND> em 20 de Dezembro de 1995 <END> ?
-Que quatro planetas do sistema solar são compostos principalmente de gás?
-Diga um corpo celeste.
-De que é que é composta a atmosfera da <START:COISA_OBJECTO> Lua <END> ?
-Em informática, o que é <START:COISA_CLASSE> Alien <END> ?
-Qual é a principal companhia de aviação em <START:LOCAL_HUMANO> França <END> ?
-Que cinco companhias de aviação que se fundiram <START:TEMPO_TEMPO_CALEND> em 1933 <END> para criar a <START:ORGANIZACAO_EMPRESA> Air France <END> ?
-Em quantos países os aviões da <START:ORGANIZACAO_EMPRESA> Air France <END> fazem os seus <START:VALOR_QUANTIDADE> 1800 <END> voos diários?
-Que companhia detém <START:VALOR_QUANTIDADE> 100% <END> do capital da <START:ORGANIZACAO_EMPRESA> Air France <END> ?
-Que conto célebre de <START:PESSOA_INDIVIDUAL> Hans Christian Andersen <END> é a adaptação do conto " <START:OBRA_REPRODUZIDA> Aladino e a Lâmpada Mágica <END> "?
-O que é a <START:ORGANIZACAO_INSTITUICAO> AIEA <END> ?
-Que prémio é recebeu <START:TEMPO_TEMPO_CALEND> em 2005 <END> ?
-Em que cidade podemos encontrar essa agência?
-Qual foi o seu orçamento <START:TEMPO_TEMPO_CALEND> para o ano de 2004 <END> ?
-Quando é que <START:PESSOA_INDIVIDUAL> Thierry Henry <END> ganhou o campeonato do mundo de râguebi?
-O que é a <START:ORGANIZACAO_INSTITUICAO> MNEF <END> ?
-Quando é que chegou ao fim o último julgamento sobre o escândalo da <START:ORGANIZACAO_INSTITUICAO> MNEF <END> ?
-Segundo <START:PESSOA_INDIVIDUAL> Jean Michel Grosz <END> , que organização foi criada no seu escritório?
-Qual era a altura de <START:PESSOA_INDIVIDUAL> Marylin Monroe <END> ?
-Que vaivém pôs a sonda espacial <START:COISA_OBJECTO> Ulisses <END> em órbita?
-Que idade tinha <START:PESSOA_INDIVIDUAL> Grégory Villemin <END> quando o seu corpo foi encontrado?
-Quem era <START:PESSOA_INDIVIDUAL> Bernard Laroche <END> ?
-Que juiz acusou <START:PESSOA_INDIVIDUAL> Christine Villemin <END> ?
-O que é <START:ORGANIZACAO_EMPRESA> Alcatel <END> ?
-Que companhia foi criada por <START:PESSOA_INDIVIDUAL> Pierre Azaria <END> <START:TEMPO_TEMPO_CALEND> em 1898 <END> ?
-Com que grupo a <START:ORGANIZACAO_EMPRESA> Alcatel <END> anunciou a fusão <START:TEMPO_TEMPO_CALEND> em Março de 2006 <END> ?
-Quem era o <START:PESSOA_CARGO> director-geral da Alcatel <END>  <START:TEMPO_TEMPO_CALEND> de 1986 a 1995 <END> ?
-O que é Assédic?
-Quando é que saiu o rimeiro <START:COISA_CLASSE> Álbum <END>  da cantora americana <START:PESSOA_INDIVIDUAL> Anastacia <END> ?
-Desde a saída do seu primeiro álbum, quantos discos é que <START:PESSOA_INDIVIDUAL> Anastacia <END> vendeu?
-Quando é que <START:PESSOA_INDIVIDUAL> Jacques Chirac <END> foi assassinado?
-Que jogador espanhol ganhou <START:ACONTECIMENTO_ORGANIZADO> Roland Garros <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quantos habitantes tem a <START:LOCAL_HUMANO> Alemanha <END> ?
-Quantos quilómetros de ferrovia tinha a <START:LOCAL_HUMANO> Alemanha <END> <START:TEMPO_TEMPO_CALEND> em 1998 <END> ?
-<START:TEMPO_TEMPO_CALEND> Em Novembro de 2005 <END> , qual a taxa de desemprego na <START:LOCAL_HUMANO> Alemanha <END> ?
-Qual era a moeda da <START:LOCAL_HUMANO> Alemanha <END> antes do euro?
-Num relógio, qual o ponteiro que aponta para as horas?
-O que é o amianto?
-Qual a primeira causa de morte das pessoas expostas ao amianto?
-O que é um administrador de rede?
-Quem é <START:PESSOA_INDIVIDUAL> Allan Frederick Jacobsen <END> ?
-Por que clube joga?
-Quanto é que ele pesa?
-Em que árvore crescem os morangos?
-Quem é <START:PESSOA_INDIVIDUAL> Amira Casar <END> ?
-Onde é que ela nasceu?
-Em que filme é que ela entrou com <START:PESSOA_INDIVIDUAL> Richard Anconina <END> ?
-Como se chama o <START:PESSOA_CARGO> presidente das Filipinas <END> ?
-Que barragem seria a maior do mundo se tivesse sido construída?
-Qual era o custo estimado do projecto?
-Quantos meses tem <START:TEMPO_GENERICO> numa semana <END> ?
-Que agência está encarregada de centralizar as ofertas e pedidos de emprego em <START:LOCAL_HUMANO> França <END> ?
-Quantos colaboradores tem a <START:ORGANIZACAO_INSTITUICAO> ANPE <END> ?
-Quem é que dirige essa agência <START:TEMPO_TEMPO_CALEND> desde 2005 <END> ?
-O que é um afixo?
-Quem foi assassinado <START:TEMPO_TEMPO_CALEND> a 4 de Novembro de 1995 <END> , aos <START:VALOR_QUANTIDADE> 73 anos <END> ?
-Qual é a primeira região francesa em população?
-Quantos habitantes tem essa região?
-O que é o Filival?
-Em quantas províncias está dividido o <START:LOCAL_HUMANO> Afeganistão <END> ?
-Que língua é falada pela maioria da população afegã?
-Quantas escolas havia no <START:LOCAL_HUMANO> Afeganistão <END> <START:TEMPO_TEMPO_CALEND> em 2003 <END> ?
-O que é o ácido desoxirribonucleico?
-Que sigla se usa para designar essa molécula?
-Qual é o antigo nome do <START:LOCAL_HUMANO> Alabama <END> ?
-Quantos condados tem o <START:LOCAL_HUMANO> Alabama <END> ?
-Que estado fica a norte do <START:LOCAL_HUMANO> Alabama <END> ?
-Que organismo gere os subsídios de desemprego em <START:LOCAL_HUMANO> França <END> ?
-Que organização se dedica especificamente à sobrevivência dos patos?
-Quem é que derrotou <START:PESSOA_INDIVIDUAL> Michael Moorer <END> no <START:VALOR_CLASSIFICACAO> 10º <END> round em <START:LOCAL_HUMANO> Las Vegas <END> ?
-O que é uma árvore coral?
-Que altura pode esta árvore atingir?
-Quanto é que pesa uma maçã?
-O que á <START:ORGANIZACAO_INSTITUICAO> AFNOR <END> ?
-Qual é o equivalente da <START:ORGANIZACAO_INSTITUICAO> AFNOR <END> nos <START:LOCAL_HUMANO> Estados Unidos <END> ?
-O que é uma alergia?
-Que outro nome se dá a uma alergia?
-<START:TEMPO_TEMPO_CALEND> Em 1980 <END> , que percentagem da população tinha sido atingida por elas?
-Que alergia afecta <START:VALOR_QUANTIDADE> cerca de 8% <END> das crianças?
-Qual é a altura do <START:LOCAL_FISICO> Monte Claro <END> ?
-Quais eram os primeiros nomes dos dois irmãos <START:PESSOA_GRUPOIND> Piccard <END> ?
-Qual deles descobriu o urânio 235?
-Que duas profissões teve este último?
-Que personagem é que <START:PESSOA_INDIVIDUAL> César Romero <END> representava na famosa série televisiva " <START:OBRA_REPRODUZIDA> Batman <END> "?
-Onde é que ele morreu?
-Que idade tinha ele?
-A que movimento político pertence a <START:PESSOA_INDIVIDUAL> Arlette Laguiller <END> ?
+      <START:PESSOA_INDIVIDUAL>HEIDEGGER<END>
+      e o 4-4-2: Foi,
+      <START:TEMPO_TEMPO_CALEND>ontem<END>
+      , apresentado o livro «
+      <START:OBRA_REPRODUZIDA>Liderança - As Lições de José Mourinho<END>
+      » de
+      <START:PESSOA_INDIVIDUAL>Luís Lourenço<END>
+      , baseado na sua tese de mestrado.
+Segundo o autor,
+      <START:PESSOA_INDIVIDUAL>José Mourinho<END>
+      "é diferente por partir de um novo paradigma de pensamento, preconizado por
+      <START:PESSOA_INDIVIDUAL>Heidegger<END>
+      ou
+      <START:PESSOA_INDIVIDUAL>Morin<END>
+      , por exemplo, e o operacionalizar.
+Trata-se de um novo olhar para o
+      <START:ABSTRACCAO_IDEIA>Todo<END>
+      , que põe de parte a divisão e análise das partes e o pensamento cartesiano
+      <START:TEMPO_TEMPO_CALEND>de há quatro séculos<END>
+      ".
+Cada vez que leio isto (e faço-o
+      <START:TEMPO_FREQUENCIA>várias vezes ao dia<END>
+      , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de
+      <START:LOCAL_HUMANO>Stanford Bridge<END>
+      :
+    
+    
+
+      - Eh pá, o
+      <START:PESSOA_GRUPOMEMBRO>Chelsea<END>
+      não merecia ter empatado este jogo.
+- Pois não.
+Mas a primeira parte foi tão má que parecia que o
+      <START:PESSOA_INDIVIDUAL>Mourinho<END>
+      não tinha lido «
+      <START:OBRA_REPRODUZIDA>O Ser e o Tempo<END>
+      ».
+- Quantas vezes é que o
+      <START:PESSOA_INDIVIDUAL>Heidegger<END>
+      avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?
+- Exacto.
+Meu amigo, se é para ver a nossa equipa voltar ao pensamento cartesiano, não contes mais comigo para vir ao estádio.
+- Calma.
+Também tens que perceber que estava nevoeiro.
+Se calhar, por isso é que, durante a primeira parte, o
+      <START:PESSOA_INDIVIDUAL>Mourinho<END>
+      não conseguiu ver o
+      <START:ABSTRACCAO_IDEIA>Todo<END>
+      .
+--DOCSTART--
+    
+<START:TEMPO_GENERICO>Fim de ano<END> com uísque barato no <START:LOCAL_HUMANO>Rio<END>
+    
+Caro leitor:
+    
+Por favor, não entenda, por uísque barato, uísque vagabundo.
+É uísque bom, sem batismo, só que de preço baixo mesmo.
+Venho notando isso <START:TEMPO_TEMPO_CALEND>nos últimos meses<END>.
+Deve ser por conta da queda do dólar: os donos de bares, finalmente, estão entendendo que uísque escocês não tem, necessariamente, que sair caro no balcão.
+Aquele "ouro" líquido, que o balconista costumava servir a conta-gotas e com um chorinho miserável e sem vela, está deixando de existir.
+Com a garrafa de um bom scotch sendo vendida a <START:VALOR_MOEDA>menos de R$ 60<END> em qualquer supermercado, já é possível encontrar, com facilidade, bares e botequins que assumiram o serviço regado do puro scotch.
+O <START:LOCAL_HUMANO>Belmonte<END> da <START:LOCAL_HUMANO>Rua do Lavradio<END>, por exemplo, é um desses.
+Por <START:VALOR_MOEDA>R$ 8,50<END>, toma-se uma dose boca larga de <START:COISA_CLASSE>Johnny Walker Red Label<END>.
+E a régua é só de vinte doses, contra as absurdas <START:VALOR_QUANTIDADE>24<END> doses de alguns bares por aí.
+Nada mal, não?
+Para você, leitor que não toma uísque, ter uma idéia do que isso significa, basta dizer que a <START:VALOR_QUANTIDADE>menos de 150 metros<END> dali, no <START:LOCAL_HUMANO>Carlitos<END> da <START:LOCAL_HUMANO>Rua Mem de Sá<END>, uma dose do mesmo <START:COISA_CLASSE>Red Label<END>, servido em dedal de moça, custa <START:VALOR_MOEDA>R$ 12,50<END>.
+Uma diferença exorbitante de preço e quantidade.
+E por que isso?, você há de perguntar.
+Puro preconceito, amigo.
+Os donos do <START:ORGANIZACAO_EMPRESA>Carlitos<END> ainda acham que uísque é coisa de rico, coitados.
+Mas, para nossa sorte, essa ignorância aos poucos vai sendo riscada do mapa.
+Até quando o dólar deixar, claro...
+    
+Outros exemplos de bom uísque barato e regado na cidade do <START:LOCAL_HUMANO>Rio<END>:
+    
+- <START:LOCAL_HUMANO>Aboim<END>, na <START:LOCAL_HUMANO>Rua Souza Lima<END>, em <START:LOCAL_HUMANO>Copacabana<END>: o Pé-Sujo mais especializado em uísque da cidade serve mais de dez marcas diferentes de scotch.
+As mais baratas (<START:COISA_CLASSE>White Horse<END> e <START:COISA_CLASSE>Grants 8 anos<END>) saem a <START:VALOR_MOEDA>R$ 7,00<END>, sempre na tala larga.
+- <START:LOCAL_HUMANO>Azeitona &amp; Cia<END>, na <START:LOCAL_HUMANO>Rua Dias Ferreira<END>, no<START:LOCAL_HUMANO> Leblon<END>: O  melhor custo-benefício do scotch na  <START:LOCAL_HUMANO>Zona Sul<END> do <START:LOCAL_HUMANO>Rio<END>.
+Uma dose caprichadíssima de <START:COISA_CLASSE>Red Label<END> no copo longo sai por meros <START:VALOR_MOEDA>R$ 7<END>.
+E ainda vem com a boa conversa do <START:PESSOA_INDIVIDUAL>Azeitona<END>, o dono.
+- <START:LOCAL_HUMANO>Bar do Adão<END> da <START:LOCAL_HUMANO>Rua Dona Mariana<END>, em <START:LOCAL_HUMANO>Botafogo<END>: Não é muito boteco, mas ali o <START:COISA_CLASSE>Ballantines 12 anos<END>  sai por <START:VALOR_MOEDA>R$ 9<END> a dose.
+Espetáculo que melhora ainda mais <START:TEMPO_FREQUENCIA>às terças-feiras<END>, quando a casa especializada em pastel serve tudo dobrado.
+E o mesmo uísque sai, então, pela bagatela de <START:VALOR_MOEDA>R$ 4,50<END>.
+- <START:LOCAL_HUMANO>Bar Barata Ribeiro<END>, na esquina das <START:LOCAL_HUMANO>Ruas Barata Ribeiro<END> e <START:LOCAL_HUMANO>Barão de Ipanema<END>, em <START:LOCAL_HUMANO>Copacabana<END>: Botequinho escondido no meio do caos copacabanense, mas que tem um coração de ouro e uma blea prateleira de uísques.
+- <START:LOCAL_HUMANO>Bar Vieira Souto<END>, na <START:LOCAL_HUMANO>Praça da Cruz Vermelha<END>, <START:LOCAL_HUMANO>Centro<END> da cidade: Um restaurante popular dos bons, que serve um filé com fritas espetacular e uísque de excelente procedência a <START:VALOR_MOEDA>R$ 8<END>, no capricho.
+- <START:LOCAL_HUMANO>BotecoTaco<END>, no <START:LOCAL_HUMANO>Humaitá<END>: <START:TEMPO_GENERICO>As madrugadas<END> varam e o uísque não pára de sair no templo carioca dos notívagos.
+Doses cavalares de uísque oito anos, a <START:VALOR_MOEDA>menos de R$ 10<END>.
+Conhece outros?
+Indique aqui, caro leitor.
+--DOCSTART--
+    
+
+      COISAS DA SÁBADO 
+      : A DIFERENÇA ENTRE O
+      <START:COISA_CLASSE>JORNAL DE NOTÍCIAS<END>
+      E O
+      <START:COISA_CLASSE>DIÁRIO DE NOTÍCIAS<END>
+    
+    
+
+      <START:TEMPO_TEMPO_CALEND>No dia<END> em que a operação «
+      <START:ACONTECIMENTO_EVENTO>Noite Branca<END>
+      » começou a prender suspeitos de serem responsáveis pelo clima de violência no
+      <START:LOCAL_HUMANO>Porto<END>
+      , a comparação entre um jornal de
+      <START:LOCAL_HUMANO>Lisboa<END>
+      , o
+      <START:OBRA_REPRODUZIDA>Diário de Notícias<END>
+      , e um do
+      <START:LOCAL_HUMANO>Porto<END>
+      , o
+      <START:OBRA_REPRODUZIDA>Jornal de Notícias<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>no mesmo dia 17 de Dezembro<END>
+      , não podia ser mais significativa.
+O 
+      Diário de Notícias 
+      falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do
+      <START:ORGANIZACAO_INSTITUICAO>FCP<END>
+      , os
+      <START:PESSOA_GRUPOMEMBRO>Super Dragões<END>
+      .
+Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
+Onde eles apareciam era à frente da claque em filmes (a
+      <START:ORGANIZACAO_EMPRESA>SIC<END>
+      mostrou-os) e em fotos de segurança aos dirigentes do clube.
+No
+      <START:LOCAL_VIRTUAL>Jornal de Notícias<END>
+      tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
+De facto, o
+      <START:OBRA_REPRODUZIDA>Jornal de Notícias<END>
+      parece ser um jornal do
+      <START:LOCAL_HUMANO>Casaquistão<END>
+      tal é a ignorância do que se passa à sua volta.
+Mas não é, é mesmo do
+      <START:LOCAL_HUMANO>Porto<END>
+      e esse é que é o problema: é do
+      <START:LOCAL_HUMANO>Porto<END>
+      e cala.
+--DOCSTART--
+
+
+<START:ACONTECIMENTO_ORGANIZADO>Lisboa-Dakar'2008<END> começa <START:TEMPO_TEMPO_CALEND>a 5 de Janeiro<END>
+
+
+PROVA TERÁ <START:VALOR_QUANTIDADE>PERTO DE 6.000 QUILÓMETROS<END>
+
+
+A  <START:VALOR_CLASSIFICACAO>30.ª<END>  edição do <START:ACONTECIMENTO_ORGANIZADO>Dakar<END> vai partir de <START:LOCAL_HUMANO>Lisboa<END> <START:TEMPO_TEMPO_CALEND>no dia 5 de Janeiro<END> com a chegada ao <START:LOCAL_HUMANO>Senegal<END> marcada <START:TEMPO_TEMPO_CALEND>para 20<END>, numa competição que terá <START:TEMPO_TEMPO_CALEND>no próximo ano<END> <START:VALOR_QUANTIDADE>perto de 6.000 quilómetros<END> de provas especiais.
+"Os itinerários provisórios indiciam uma quilometragem de especiais significante mais importante que <START:TEMPO_TEMPO_CALEND>nos anos anteriores<END>.
+<START:TEMPO_TEMPO_CALEND>Em 2006<END> e <START:TEMPO_TEMPO_CALEND>2007<END> ficámos nos <START:VALOR_QUANTIDADE>4.000 , 5.000 quilómetros <END>.
+<START:TEMPO_TEMPO_CALEND>Em 2008<END>, queremos mais especiais e menos ligações", afirmou o director do <START:ACONTECIMENTO_ORGANIZADO>Lisboa-Dakar<END> , <START:PESSOA_INDIVIDUAL>Etienne Lavigne<END>, durante a apresentação da prova.
+A partida da edição <START:TEMPO_TEMPO_CALEND>de 2008<END> está marcada para a <START:LOCAL_HUMANO>Praça do Império<END>, em <START:LOCAL_HUMANO>Lisboa<END>.
+O  <START:LOCAL_HUMANO>Centro Cultural<END> de <START:LOCAL_HUMANO>Belém<END> será o quartel-general para os carros, motos e camiões.
+De fora do percurso ficou o <START:LOCAL_HUMANO>Mali<END>, depois dos problemas de segurança ocorridos na prova <START:TEMPO_TEMPO_CALEND>deste ano<END>, o que levou ao cancelamento de uma etapa.
+"Existe muita instabilidade <START:TEMPO_TEMPO_CALEND>neste momento<END> em alguns países africanos.
+São zonas de risco onde não poderíamos a 100 por cento garantir a segurança, não só dos pilotos, mas de todo o staff que está envolvido na prova", justificou <START:PESSOA_INDIVIDUAL>Etienne Lavigne<END>, revelando que o <START:OBRA_PLANO>Plano de Segurança Rodoviária<END> que tinha sido criado para a última edição foi reformulado.
+<START:LOCAL_HUMANO>Lisboa<END> e <START:LOCAL_HUMANO>Portimão<END> deverão receber as primeiras especiais, estando ainda em estudo os percursos exactos para as duas etapas iniciais.
+"Estamos muito perto dos desenhos finais dos percursos.
+Não podemos tornar público, mas temos trabalhado intensamente nesse sentido.
+Não há muito para mud ar.
+Os padrões estão de tal maneira elevados que é difícil fazer melhor", afirmou <START:PESSOA_INDIVIDUAL>João Lagos<END>, empresário responsável pela parte portuguesa do <START:ACONTECIMENTO_ORGANIZADO>Lisboa-Dakar<END>.
+De acordo com os números revelados <START:TEMPO_TEMPO_CALEND>hoje<END> pela organização, na edição <START:TEMPO_TEMPO_CALEND>2007<END> do rali mais de um milhão de pessoas assistiram à passagem por <START:LOCAL_HUMANO>Portugal<END>.
+"<START:TEMPO_TEMPO_CALEND>Nestes últimos dois anos<END>, <START:LOCAL_HUMANO>Portugal<END>, <START:LOCAL_HUMANO>Lisboa<END> e <START:LOCAL_HUMANO>Portimão<END> deixaram uma marca muito forte no <START:ACONTECIMENTO_ORGANIZADO>Dakar<END>.
+Foram <START:TEMPO_GENERICO>anos<END> fantásticos, com uma adesão fantástica e um ambiente extraordinário", sublinhou <START:PESSOA_INDIVIDUAL>João Lagos<END>.
+--DOCSTART--
+    
+O vírus na maçã.
+A chamada <START:ABSTRACCAO_NOME>Cultura Pop<END> sempre foi gerada no caldeirão fervente das periferias.
+Obvio ululante.
+Mesmo a cultura <START:ABSTRACCAO_DISCIPLINA>HipHop<END>, este emaranhado de atitudes sócio culturais atribuído à juventude desvalida das grandes metrópoles norte americanas, pode ser descrita, coerentemente, como o ôvo do futuro, gerado no mais remoto e desprezado dos passados.
+Pura relatividade, portanto.
+Sejamos francos: Não há 'modernidade', 'novidade' possível (pelo menos em se tratando de música e dança populares) fora do contexto efervescente das periferias.
+Fora dos guetos e favelas nada se cria.
+Tudo se copia.
+Sempre foi assim e, talvez, sempre será.
+O eixo irradiador de toda esta fervura é o mesmo eixo de um centro econômico de cada época, cada ocasião, no caso, <START:TEMPO_TEMPO_CALEND>em nossos dias<END>, <START:LOCAL_HUMANO>Nova York<END>, onde vicejaram o <START:ABSTRACCAO_DISCIPLINA>Rap<END>, o <START:ABSTRACCAO_DISCIPLINA>Street Dance<END>, o <START:ABSTRACCAO_DISCIPLINA>Grafitti<END>, manifestações criadas nas periferias da grande maçã podre, a <START:LOCAL_HUMANO>Big Apple<END> sem <START:PESSOA_GRUPOMEMBRO>Beatles<END>, sem <START:COISA_CLASSE>MacIntosh<END>, sem nada.
+Cultura popular orgânica, com potência de vírus (benigno?
+), estas manifestações são, em ultima análise, o antídoto humanizador para o veneno intrínseco a um sistema arcaico e carcomido (pelo menos do ponto de vista cultural), totalmente 'out' e 'nada a ver'.
+Se duvidam, experimentem traçar uma linha de tempo e enxerguem (em preto &amp; branco, é claro), lá longe, <START:TEMPO_TEMPO_CALEND>nos idos dos anos 50<END>, um grupo de negros marcando o tempo com o estalar dos dedos, criando vocais em contraponto, nas esquinas de conjuntos habitacionais infectos ou cantos de quadras de basqueteball suburbanas.
+<START:ABSTRACCAO_DISCIPLINA>Soul<END> e <START:ABSTRACCAO_DISCIPLINA>Funk<END> básicos (e ainda o velho <START:ABSTRACCAO_DISCIPLINA>Rock and Roll<END>), rolando já ali naquelas manifestações atávicas, quase ancestrais.
+Firmem a vista e vejam o que se dança nestas esquinas.
+Andem para trás, um pouco mais, e vejam o som das plaquetas metálicas do sapateado ecoando no paralelepípedos das ruas.
+Isto mesmo!
+É aquele mesmo sapateado do <START:PESSOA_INDIVIDUAL>Gregory Heynes<END>, do <START:PESSOA_INDIVIDUAL>Sammy Davis Junior<END>, <START:TEMPO_TEMPO_CALEND>antes<END> mal assimilado pelos Fred Astaires de ocasião, usufruidores dos lucros do mainstream, este ambiente insípido, onde tudo que uns criam os outros copiam.
+Saiam da <START:LOCAL_HUMANO>Broadway<END>, rápido, e vejam mais longe ainda o som vibrante do bate-enxadas e do baticum ritmado das botas dos trabalhadores das estradas de ferro que cruzaram os <START:LOCAL_HUMANO>States<END> de leste á oeste, unificando as distancias, <START:TEMPO_TEMPO_CALEND>antes<END>, sofridamente, percorridas à cavalo ou pelas empoeiradas diligências que conhecemos nos filmes de <START:ABSTRACCAO_DISCIPLINA>Far West<END> (e bota Far nisto).
+Escutem o que eles cantam.
+Há work songs, <START:ABSTRACCAO_DISCIPLINA>Gospels<END>, <START:ABSTRACCAO_DISCIPLINA>Spirituals<END>, <START:ABSTRACCAO_DISCIPLINA>Rhytm'n' Blues<END>, <START:ABSTRACCAO_DISCIPLINA>Soul<END> e <START:ABSTRACCAO_DISCIPLINA>Funk<END> ainda rolando por ali.
+Querem regredir um pouco mais?
+Não?
+Ok.
+Já sabemos muito bem onde isto vai dar.
+Mas, vejam bem, são cruzamentos entre vias as mais diversas, os mais inusitados caminhos.
+Não importa muito se são negros ou brancos os criadores dos elementos básicos desta cultura urbanopop, que nos apaixona a todos.
+Afinal, são meros seres humanos os criadores desta força emocional que nos mantém, a todos, unidos, vivos e felizes.
+Os criadores são o que são - ocorre que, no caso deste nosso estranho mundo 'moderno', eles têm sido negros (ou não brancos, tanto faz) <START:TEMPO_TEMPO_CALEND>desde há muito tempo<END> - É que o universo capitalista é mesmo este insano criador de periferias, pústulas urbanas, lixo debaixo do tapete, encruzilhadas e guerras.
+Mundo extremista, cruel, que ainda morre disto <START:TEMPO_GENERICO>um dia<END>.
+Mas, e o <START:ABSTRACCAO_DISCIPLINA>Kuduro<END>?
+Brasileiros que somos, se focarmos mais ainda a nossa lente, vamos encontrar no <START:ABSTRACCAO_DISCIPLINA>Kuduro<END>, a mais pura essência (os tonalistas também odeiam este conceito) de nossa tão ambígua e fugidia brasilidade.
+Duvidam?

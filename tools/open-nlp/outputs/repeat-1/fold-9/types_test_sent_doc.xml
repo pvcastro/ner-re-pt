@@ -1,235 +1,271 @@
 --DOCSTART--
-Como se chama o vocalista do grupo <START:PESSOA_GRUPOMEMBRO> U2 <END> ?
-Com que idade morreu <START:PESSOA_INDIVIDUAL> Elvis Presley <END> ?
-Onde está a <START:OBRA_ARTE> Estátua da Liberdade <END> ?
-Em que cidade italiana fica o <START:OBRA_ARTE> Coliseu <END> ?
-Em que cidade fica a <START:LOCAL_HUMANO> Praça Navona <END> ?
-Onde é que foi construída em <START:LOCAL_HUMANO> Itália <END> a <START:OBRA_ARTE> Villa Medici <END> ?
-Que companhia britânica foi absorvida pela <START:ORGANIZACAO_EMPRESA> BMW <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quantos milhões de libras pagou a <START:ORGANIZACAO_EMPRESA> BMW <END> pela <START:ORGANIZACAO_EMPRESA> Rover <END> ?
-Em que país foi construída a primeira fábrica da <START:ORGANIZACAO_EMPRESA> BMW <END> no estrangeiro?
-Quem foi eleito como primeiro presidente negro da <START:LOCAL_HUMANO> África do Sul <END> ?
-Como se chamava o vocalista dos <START:PESSOA_GRUPOMEMBRO> Nirvana <END> ?
-Que <START:PESSOA_CARGO> presidente dos Estados Unidos <END>  é que <START:PESSOA_INDIVIDUAL> Francisco Durán <END> tentou matar?
-Que filho de um <START:PESSOA_CARGO> ex-presidente dos EUA <END>  foi eleito <START:PESSOA_CARGO> governador do Texas <END>  <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Para quantos Óscares foi nomeado " <START:OBRA_REPRODUZIDA> A Lista de Schindler <END> "?
-Quem recebeu o Óscar de Melhor Actor por « <START:OBRA_REPRODUZIDA> Forrest Gump <END> »?
-Como se chamava o autor de « <START:OBRA_REPRODUZIDA> Romeu e Julieta <END> "?
-Quantos pisos tem o <START:LOCAL_HUMANO> Empire State Building <END> ?
-Como se chama o <START:PESSOA_CARGO> patrão da Microsoft <END> ?
-Em que ano foi assassinado <START:PESSOA_INDIVIDUAL> John F. Kennedy <END> ?
-Com que actriz era casado <START:PESSOA_INDIVIDUAL> Arthur Miller <END> ?
-Que político era <START:PESSOA_CARGO> chanceler da Alemanha <END>  antes de  <START:PESSOA_INDIVIDUAL> Helmut Kohl <END> ?
-Em que ano caiu o  <START:LOCAL_HUMANO> Muro <END> de <START:LOCAL_HUMANO> Berlim <END>  ?
-Qual a altura do <START:LOCAL_FISICO> Evereste <END> ?
-Em que cidade francesa fica o <START:LOCAL_HUMANO> Moulin Rouge <END> ?
-Quando é que nasceu <START:PESSOA_INDIVIDUAL> Franz Kafka <END> ?
-Quando é que foi construída a <START:OBRA_ARTE> Esfinge <END> ?
-Quem escreveu o romance não-publicado " <START:OBRA_REPRODUZIDA> Cruz sem Amor <END> "?
-Em que cidade bávara fica a sede da <START:ORGANIZACAO_EMPRESA> Adidas AG <END> ?
-O que é o Titanic?
-Quem é o desenhador de <START:OBRA_REPRODUZIDA> Astérix e Obélix <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Albert Einstein <END> ?
-Quem é o <START:PESSOA_INDIVIDUAL> Godfather of Soul <END> ?
-Quem é o marido da <START:PESSOA_INDIVIDUAL> rainha Isabel II <END> ?
-Quem é o chefe de estado da <START:LOCAL_HUMANO> Austrália <END> ?
-Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL> Romy Schneider <END> ?
-Quando é que nasceu <START:PESSOA_INDIVIDUAL> Aldous Huxley <END> ?
-Como se chama o pai de <START:PESSOA_INDIVIDUAL> Steffi Graf <END> ?
-Contra quem é que ela não jogou nas meias-finais de <START:ACONTECIMENTO_ORGANIZADO> Roland Garros <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Quando é que <START:PESSOA_INDIVIDUAL> Goethe <END> fundou a <START:ORGANIZACAO_INSTITUICAO> Sociedade das Sextas <END> ?
-Em que ano assistiu ele à coroação do <START:PESSOA_INDIVIDUAL> Imperador José II <END> ?
-Em que ano nasceu ele?
-Em que cidade é que ele morreu?
-Quando foi criado o Prémio Schiller?
-Que filme ganhou o Óscar <START:TEMPO_TEMPO_CALEND> em 1992 <END> na categoria de Melhor Filme?
-Quem foi o realizador de « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
-Em que ano recebeu ele o Óscar por « <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> »?
-Como se chamava a autora de " <START:OBRA_REPRODUZIDA> E tudo o vento levou <END> "?
-O que significa a sigla <START:ABSTRACCAO_NOME> IRA <END> ?
-Qual o significado da sigla <START:ABSTRACCAO_NOME> NSUK <END> ?
-De que grupo era vocalista <START:PESSOA_INDIVIDUAL> Freddy Mercury <END> ?
-Em que ano morreu ele?
-Quem foi o inventor da <START:COISA_CLASSE> Coca Cola <END> ?
-Quando foi criada a <START:COISA_CLASSE> Coca Cola <END> ?
-Quem abriu o  <START:ACONTECIMENTO_EVENTO> Baile <END> da <START:PESSOA_GRUPOMEMBRO> Opera de Viena <END> ?
-Quantos estados membros tinha a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Em que cidade teve lugar a cimeira da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> que começou <START:TEMPO_TEMPO_CALEND> a 26 de Junho de 1995 <END> ?
-Quantos estados membros tinha a <START:LOCAL_HUMANO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Que estados europeus aderiram à <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-<START:PESSOA_INDIVIDUAL> Rudy Giuliani <END> era o presidente da câmara de que cidade americana?
-Quando é que terá lugar a estreia de « <START:OBRA_REPRODUZIDA> O Fantasma da Ópera <END> » de <START:PESSOA_INDIVIDUAL> Andrew Lloyd Webber <END> em <START:LOCAL_HUMANO> Basileia <END> ?
-Que musical dele foi interpretado pelo coro ecuménico juvenil de <START:LOCAL_HUMANO> Friedrichsdorf <END> <START:TEMPO_TEMPO_CALEND> de 1994 <END> ?
-Quanto dinheiro pagou ele por uma pintura de <START:PESSOA_INDIVIDUAL> Picasso <END> num leilão?
-Que musical de <START:PESSOA_INDIVIDUAL> Andrew Llyod Webber <END> foi interpretado em <START:LOCAL_HUMANO> Essen <END> <START:TEMPO_TEMPO_CALEND> em 1996 <END> ?
-Em que ano nasceu <START:PESSOA_INDIVIDUAL> Christian von Holst <END> em <START:LOCAL_HUMANO> Gdansk <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Werner Herzog <END> ?
-Em que cidade fica o <START:LOCAL_HUMANO> Passeio da Fama <END> ?
-Em quantos países foram transmitidas as  <START:ACONTECIMENTO_ORGANIZADO> Olimpíadas <END> de <START:LOCAL_HUMANO> Albertville <END> ?
-Qual era a alcunha de <START:PESSOA_INDIVIDUAL> Al Capone <END> ?
-Quem era ele?
-Quando é que ele foi alvejado?
-Que idade tinha ele quando levou a sua família para <START:LOCAL_HUMANO> Chicago <END> ?
-Desde quando é que a <START:LOCAL_HUMANO> Suíça <END> é membro da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> ?
-Quem era a presidente do comité suíço da <START:ORGANIZACAO_ADMINISTRACAO> UNESCO <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Quantos estados-membros tinha a organização <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-O prémio UNESCO da <START:ABSTRACCAO_DISCIPLINA> Paz <END> é de quantos dólares?
-Quem era o presidente do júri do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival Cinematográfico <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Que filme recebeu a Palma de Ouro no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quantos filmes competiam pela Palma de Ouro do  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quem recebeu o prémio de melhor actriz no  <START:ACONTECIMENTO_ORGANIZADO> 47º Festival <END> de <START:LOCAL_HUMANO> Cannes <END> ?
-Quantos golos é que o <START:PESSOA_INDIVIDUAL> Pelé <END> marcou na sua carreira?
-Em que três categorias é que <START:PESSOA_INDIVIDUAL> Whitney Houston <END> ganhou o prémio Single por " <START:OBRA_REPRODUZIDA> I will always love you <END> "?
-O que é o Grammy?
-Que autor foi o primeiro árabe galardoado com o Nobel da Literatura?
-O que são os " <START:ACONTECIMENTO_EVENTO> Estudos sobre a Histeria <END> "?
-Quem foi o fundador da psicoanálise?
-De que cidade é <START:PESSOA_INDIVIDUAL> Friedensreich Hundertwasser <END> ?
-Quando é que acabou a <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
-Quantos soldados é que os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> tinham estacionados no <START:LOCAL_HUMANO> Vietname <END> durante a <START:ACONTECIMENTO_EFEMERIDE> Guerra <END> <START:TEMPO_TEMPO_CALEND> nos anos 60 <END> ?
-Quantas pessoas morreram na <START:ACONTECIMENTO_EFEMERIDE> Guerra do Vietname <END> ?
-Quem era <START:PESSOA_CARGO> presidente dos EUA <END>  quando a guerra chegou ao fim?
-O que era Napola?
-O que é Madame Tussaud?
-O que é a Mona Lisa?
-Quanto dinheiro ganhou « <START:OBRA_REPRODUZIDA> Parque Jurássico <END> » de <START:PESSOA_INDIVIDUAL> Steven Spielberg <END> ?
-Quem escreveu " <START:OBRA_REPRODUZIDA> Mein Kampf <END> "?
-Quem é <START:PESSOA_INDIVIDUAL> Helmut Newton <END> ?
-Quando é que os japoneses atacaram <START:LOCAL_HUMANO> Pearl Harbor <END> ?
-Quantos americanos morreram no ataque a <START:LOCAL_HUMANO> Pearl Harbor <END> <START:TEMPO_TEMPO_CALEND> a 7 de dezembro de 1941 <END> ?
-Que grupo ganhou o <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> em <START:LOCAL_HUMANO> Brighton <END> <START:TEMPO_TEMPO_CALEND> em 1974 <END> ?
-Quando é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
-Onde é que teve lugar o primeiro <START:ACONTECIMENTO_ORGANIZADO> Festival da Eurovisão <END> ?
-Qual o significado da sigla <START:ABSTRACCAO_NOME> UNICEF <END> ?
-Quando é que foi criada a <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
-Onde é que é a sede da <START:ORGANIZACAO_ADMINISTRACAO> UNICEF <END> ?
-De que banda rock é vocalista <START:PESSOA_INDIVIDUAL> Anthony Kiedis <END> ?
-O que é <START:ABSTRACCAO_DISCIPLINA> Stadium Arcadium <END> ?
-Diga três albuns da banda.
-Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Love Parade <END> ?
-Quando é que <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> e <START:PESSOA_INDIVIDUAL> Mel Ferrer <END> se casaram?
-Onde é que mora <START:TEMPO_GENERICO> hoje <END> o filho de <START:PESSOA_INDIVIDUAL> Audrey Hepburn <END> ?
-De que organização é que ela foi nomeada embaixadora extraordinária?
-Quem é que falou <START:TEMPO_TEMPO_CALEND> em Setembro de 1939 <END> no <START:ACONTECIMENTO_ORGANIZADO> 17º Congresso Internacional do PEN-clube <END> sobre o problema da liberdade?
-Diga três filmes de <START:PESSOA_INDIVIDUAL> Martin Scorsese <END> .
-Em que universidade é que ele estudou <START:ABSTRACCAO_DISCIPLINA> Cinematografia <END> <START:TEMPO_TEMPO_CALEND> em 1960 <END> ?
-Para quantos Óscares é que ele já foi nomeado?
-Quem é o autor da obra « <START:OBRA_REPRODUZIDA> A Última Tentação de Cristo <END> »?
-Quando é que foi fundada a  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Santiago de Compostela <END> ?
-De que região espanhola é que <START:LOCAL_HUMANO> Santiago <END> é capital?
-Que organização nomeou <START:LOCAL_HUMANO> Santiago de Compsotela <END> Património Mundial <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-O que é a «Rota da Prata»?
-Onde fica <START:LOCAL_HUMANO> Hiroxima <END> ?
-Diga os oito bairros de <START:LOCAL_HUMANO> Hiroxima <END> .
-Qual a área total de <START:LOCAL_HUMANO> Hiroxima <END> ?
-O que é a <START:ACONTECIMENTO_EVENTO> CeBIT <END> ?
-Quantos exibidores tinha a <START:LOCAL_HUMANO> CeBIT <END> <START:TEMPO_TEMPO_CALEND> em 2005 <END> ?
-Quem realizou o filme « <START:OBRA_REPRODUZIDA> Morte em Veneza <END> »?
-Onde é que tem lugar a <START:ACONTECIMENTO_ORGANIZADO> Semana Verde <END> ?
-Quem era <START:PESSOA_INDIVIDUAL> Herbert Erhardt <END> ?
-Quando foi construído o estádio do <START:LOCAL_HUMANO> Malmö <END> ?
-Onde é que teve lugar o  <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo de Futebol <END> <START:TEMPO_TEMPO_CALEND> de 1970 <END> ?
-Quando é que teve lugar a primeira <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
-Quantas pessoas morreram no atentado na <START:ACONTECIMENTO_ORGANIZADO> Oktoberfest <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Henning Mankell <END> ?
-Como se chama o inspector da polícia no seu livro « <START:OBRA_REPRODUZIDA> Assassino sem rosto <END> »?
-Diga duas afiliadas da <START:ORGANIZACAO_EMPRESA> Volvo <END> .
-Quando foi criada a <START:ORGANIZACAO_EMPRESA> Volvo Car Corporation <END> ?
-Quem foram os fundadores da <START:ORGANIZACAO_EMPRESA> Volvo <END> ?
-Qual é a área do <START:LOCAL_HUMANO> Pentâgono <END> ?
-Quantos lados têm o <START:LOCAL_HUMANO> Pentâgono <END> ?
-Que significa a sigla <START:ABSTRACCAO_NOME> RAF <END> ?
-Quem era <START:PESSOA_INDIVIDUAL> Rolf Heissler <END> ?
-Diga três membros da RAF.
-Onde fica a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
-O que é a <START:LOCAL_HUMANO> Galeria dos Ofícios <END> ?
-Qual é a altura do <START:LOCAL_FISICO> Monte Branco <END> ?
-Quando é que o <START:LOCAL_FISICO> Monte Branco <END> foi escalado pela primeira vez?
-De que consiste o <START:COISA_OBJECTO> Monte Branco <END> ?
-Qual o comprimento da alameda principal do <START:LOCAL_HUMANO> Prater <END> ?
-O que e o "Wurstelprater"?
-Onde fica o <START:LOCAL_HUMANO> Calafati <END> ?
-Quando foi publicada a <START:OBRA_PLANO> API Web <END> do <START:ORGANIZACAO_EMPRESA> Google <END>  
-Qual é o objectivo do <START:OBRA_PLANO> Protocolo de Quioto <END> ?
-Diga três estados signatários do <START:OBRA_PLANO> Protocolo <END> .
-Quantos estados aderiram ao <START:OBRA_PLANO> Protocolo de Quioto <END> ?
-Quem é o líder da organização <START:ORGANIZACAO_INSTITUICAO> Pro Familia <END> ?
-Quantos membros têm a organização?
-Qual é o pico mais alto de <START:LOCAL_FISICO> África <END> ?
-Quando é que foi criado o <START:LOCAL_OUTRO> Parque Nacional do Kilimanjaro <END> ?
-De que material é feito o <START:COISA_OBJECTO> Kilimanjaro <END> ?
-A que partido pertence <START:PESSOA_INDIVIDUAL> Angela Merkel <END> ?
-Como se chama o irmão dela?
-Quem disse  "Die multikulturelle Gegelllschaft ist gescheitert" ?
-.
-O que é uma Okiya?
-O que são hanamachi?
-Em que cidades japonesas ainda existem?
-Quanto custou a construção da <START:OBRA_ARTE> Torre Eiffel <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Samuel Hahnemann <END> ?
-Em homeopatia, como se que chama o processo de diluição?
-Em quantos livros está dividido « <START:OBRA_REPRODUZIDA> O Senhor dos Anéis <END> »?
-Onde fica o <START:OBRA_ARTE> Alhambra <END> ?
-Onde fica a sede da <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> ?
-Com que companhia se fundiu a <START:ORGANIZACAO_EMPRESA> Warner Bros. <END> <START:TEMPO_TEMPO_CALEND> em 2000 <END> ?
-Que profissão praticou <START:PESSOA_INDIVIDUAL> Gerhard Schröder <END> e 1978 a 1990?
-Em que encontro ele foi representado por <START:PESSOA_INDIVIDUAL> Chirac <END> ?
-Como se chama a quarta mulher dele?
-Qual a profundidade do <START:LOCAL_FISICO> Grand Canyon <END> ?
-Como se chamam as três cataratas do <START:LOCAL_FISICO> Canyon <END> ?
-Que marca fez <START:PESSOA_INDIVIDUAL> Benetton <END> famoso?
-Onde fica o Carlton Center?
-O que é Putuo?
-Quando foi fundada a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
-A que companhia alemã pertence <START:TEMPO_GENERICO> hoje <END> a <START:ORGANIZACAO_EMPRESA> SEAT <END> ?
-Em que concerto participaram os <START:PESSOA_GRUPOMEMBRO> Coldplay <END> <START:TEMPO_TEMPO_CALEND> a 2 de Julho de 2005 <END> ?
-Que idade tinha <START:PESSOA_INDIVIDUAL> Cate Blanchett <END> quando lhe morreu o pai?
-Qual foi o primeiro filme dela?
-De que país é <START:PESSOA_INDIVIDUAL> Peter Jackson <END> ?
-O que significa viquingue?
-O que é o Santo Ofício?
-Até quando existiu a <START:ORGANIZACAO_INSTITUICAO> Inquisição <END> em <START:LOCAL_HUMANO> França <END> ?
-Como se chamava a mãe de <START:PESSOA_INDIVIDUAL> Nero <END> ?
-<START:PESSOA_INDIVIDUAL> Isabel Allende <END> é parente de que antigo <START:PESSOA_CARGO> presidente do Chile <END> ?
-Onde ficam as universidades de <START:ORGANIZACAO_INSTITUICAO> Yale <END> e <START:ORGANIZACAO_INSTITUICAO> Harvard <END> ?
-Qual é o maior estado da <START:LOCAL_HUMANO> Nova Inglaterra <END> ?
-Porque é que foi construída a <START:OBRA_ARTE> Coluna da Vitória <END> em <START:LOCAL_HUMANO> Berlim <END> ?
-Como se chama a escultura de bronze que existe na <START:LOCAL_HUMANO> Coluna da Vitória <END> ?
-Quando é que morreu <START:PESSOA_INDIVIDUAL> Alfred Hitchcock <END> ?
-Para onde é que ele emigrou <START:TEMPO_TEMPO_CALEND> em 1939 <END> ?
-Como é que se chamava o seu primeiro filme americano?
-Quem organiza o  <START:ACONTECIMENTO_ORGANIZADO> Carnaval <END> do <START:LOCAL_HUMANO> Rio <END> ?
-Qual é o comprimento da arena do <START:LOCAL_HUMANO> Sambódromo <END> ?
---DOCSTART--
 
-<START:PESSOA_INDIVIDUAL> Amadeo de Souza-Cardoso <END>
-Vida
-A sua familia era rica e influenciou-o a ingressar no curso de <START:ABSTRACCAO_DISCIPLINA> Direito <END> na  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Coimbra <END> .
-Depressa desistiu do curso e mudou-se para o curso de <START:ABSTRACCAO_DISCIPLINA> Arquitectura <END> na  <START:ORGANIZACAO_INSTITUICAO> Academia de Belas Artes <END> de <START:LOCAL_HUMANO> Lisboa <END> <START:TEMPO_TEMPO_CALEND> em 1905 <END> .
-O curso nao satisfaz o seu genio criativo, por isso parte para <START:LOCAL_HUMANO> Paris <END> <START:TEMPO_TEMPO_CALEND> em 1906 <END> instalando-se em <START:LOCAL_HUMANO> Montparnasse <END> com a intençao de continuar a estudar.
-As suas primeiras experiências artisticas conhecidas foram desenhos e caricaturas, <START:TEMPO_TEMPO_CALEND> depois <END> dedicou-se à pintura.
-Poder-se-á dizer que foi um pintor impressionista, expressionista, cubista, futurista mas sempre recusou qualquer rotulo.
-Apesar das multiplas influencias procurava a originalidade e a criatividade na sua obra.
-<START:TEMPO_TEMPO_CALEND> Em 1908 <END> instala-se no número catorze da <START:LOCAL_HUMANO> Cité de Falguière <END> .
-Frequentou ateliers preparatórios para <START:ORGANIZACAO_INSTITUICAO> Academia de Beaux-Arts <END> e a <START:ORGANIZACAO_INSTITUICAO> Academia Viti <END> do pintor catalão <START:PESSOA_INDIVIDUAL> Anglada Camarasa <END> mas, apesar disso, nao chega a ser admitido.
-<START:TEMPO_TEMPO_CALEND> Em 1910 <END> esteve <START:TEMPO_DURACAO> alguns meses <END> em <START:LOCAL_HUMANO> Bruxelas <END> e <START:TEMPO_TEMPO_CALEND> em 1911 <END> expôs trabalhos no <START:LOCAL_HUMANO> Salon des Indépendants <END> , em <START:LOCAL_HUMANO> Paris <END> , aproximando-se progressivamente das vanguardas e de artistas como <START:PESSOA_INDIVIDUAL> Amedeo Modigliani <END> , <START:PESSOA_INDIVIDUAL> Constantin Brancusi <END> , <START:PESSOA_INDIVIDUAL> Alexander Archipenko <END> , <START:PESSOA_INDIVIDUAL> Juan Gris <END> e <START:PESSOA_INDIVIDUAL> Robert Delaunay <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1912 <END> publicou um álbum com vinte desenhos e, em seguida, copiou o conto de <START:PESSOA_INDIVIDUAL> Gustave Flaubert <END> , " <START:OBRA_REPRODUZIDA> La Légende de Saint Julien l'Hospitalier <END> ", trabalhos ignorados pelos apreciadores de arte.
-Depois de participar <START:TEMPO_TEMPO_CALEND> em 1913 <END> numa exposição com oito trabalhos nos <START:LOCAL_HUMANO> Estados Unidos da América <END> , no <START:ACONTECIMENTO_EVENTO> Armory Show <END> , voltou a <START:LOCAL_HUMANO> Portugal <END> , onde teve a ousadia de realizar duas exposições, respectivamente em <START:LOCAL_HUMANO> Porto <END> e em <START:LOCAL_HUMANO> Lisboa <END> .
-<START:TEMPO_TEMPO_CALEND> Nesse ano <END> participou ainda no <START:ACONTECIMENTO_ORGANIZADO> Herbstsalon <END> da <START:LOCAL_HUMANO> Galeria Der Sturm <END> , em <START:LOCAL_HUMANO> Berlim <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1914 <END> encontrou-se em <START:LOCAL_HUMANO> Barcelona <END> com <START:PESSOA_INDIVIDUAL> Antoni Gaudí <END> , e parte para <START:LOCAL_HUMANO> Madrid <END> onde é surpreendido pelo início da <START:ACONTECIMENTO_EFEMERIDE> I Guerra Mundial <END> .
-Regressou então a <START:LOCAL_HUMANO> Portugal <END> , onde iniciou meteórica carreira na experimentação de novas formas de expressão, tendo pintado com grande constância ao ponto de, <START:TEMPO_TEMPO_CALEND> em 1916 <END> , expor no <START:LOCAL_HUMANO> Porto <END> <START:VALOR_QUANTIDADE> 114 <END> obras com o título " <START:ABSTRACCAO_NOME> Abstraccionismo <END> ", que serão também expostas em <START:LOCAL_HUMANO> Lisboa <END> , num e noutro caso com novidade e algum escândalo.
-O cubismo em expansão por toda a <START:LOCAL_HUMANO> Europa <END> foram influências marcantes no seu cubismo analítico.
-<START:PESSOA_INDIVIDUAL> Amadeo de Souza-Cardoso <END> explora o expressionismo e nos seus últimos trabalhos experimenta novas formas e técnicas, como as colagens e outras formas de expressão plástica.
-<START:TEMPO_TEMPO_CALEND> Em 25 de Outubro de 1918 <END> , aos <START:VALOR_QUANTIDADE> 31 anos <END> de idade, morre prematuramente em <START:LOCAL_HUMANO> Espinho <END> , vítima da "pneumónica" que grassava em <START:LOCAL_HUMANO> Portugal <END> .
+     <START:ORGANIZACAO_ADMINISTRACAO>MINISTÉRIOS DO AMBIENTE, DO ORDENAMENTO DO TERRITÓRIO E DO DESENVOLVIMENTO REGIONAL<END>
+      E
+      <START:ORGANIZACAO_ADMINISTRACAO>DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS<END>
+      .
+Portaria n.º 1/2008
+      <START:TEMPO_TEMPO_CALEND>de 2 de Janeiro<END>
+    
+    
+
+      Com fundamento no disposto na
+       alínea a) do artigo 40.º
+      e no
+      n.º 1 do artigo 118.º
+      do
+      Decreto-Lei n.º 202/2004
+      ,
+      <START:TEMPO_TEMPO_CALEND>de 18 de Agosto<END>
+      , com as alterações introduzidas pelo
+      Decreto-Lei n.º 201/2005
+      ,
+      <START:TEMPO_TEMPO_CALEND>de 24 de Novembro<END>
+      ;
+    
+    
+
+      Ouvido o
+      
+        <START:ORGANIZACAO_ADMINISTRACAO>Conselho Cinegético Municipal<END>
+        de
+        <START:LOCAL_HUMANO>Montemor-o-Novo<END>
+      
+      :
+    
+    
+
+      Manda o
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      , pelos
+      <START:PESSOA_CARGO>Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional<END>
+      e
+      <START:PESSOA_CARGO>da Agricultura, do Desenvolvimento Rural e das Pescas<END>
+      , o seguinte:
+    
+    
+
+      1.º Pela presente portaria é concessionada,
+      <START:TEMPO_DURACAO>pelo período de 12 anos<END> 
+      , à
+       <START:ORGANIZACAO_INSTITUICAO>Associação de Caçadores<END> da <START:LOCAL_HUMANO>Ajuda<END>
+      , com o número de identificação fiscal 502302569 e sede na
+      <START:LOCAL_HUMANO>Rua de D. Vasco<END>
+      , 7, 7050
+      <START:LOCAL_HUMANO>Montemor-o-Novo<END>
+      , a zona de caça associativa da
+      <START:LOCAL_HUMANO>Herdade da Casa Branca<END>
+      e outras (
+      processo n.º 4799-DGRF
+      ), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de
+      <START:LOCAL_HUMANO>Cabrela<END>
+      , município de
+      <START:LOCAL_HUMANO>Montemor-o-Novo<END>
+      , com a área de
+      <START:VALOR_QUANTIDADE>545 ha<END>
+      .
+2.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de
+      <START:VALOR_QUANTIDADE>10 %<END>
+      da área total da zona de caça.
+3.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
+Pelo
+      <START:PESSOA_CARGO>Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Humberto Delgado Ubach Chaves Rosa<END>
+      ,
+      <START:PESSOA_CARGO>Secretário de Estado do Ambiente<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>em 23 de Novembro de 2007<END>
+      .
+--- O
+      <START:PESSOA_CARGO>Ministro da Agricultura, do Desenvolvimento Rural e das Pescas<END> 
+      ,
+      <START:PESSOA_INDIVIDUAL>Jaime de Jesus Lopes Silva<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>em 30 de Novembro de 2007<END>
+      .
 --DOCSTART--
     
-Multibanco    
- <START:COISA_CLASSE> Multibanco <END> é uma marca registada propriedade da empresa <START:ORGANIZACAO_EMPRESA> SIBS <END> .
-O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela <START:ORGANIZACAO_EMPRESA> SIBS <END> .
-Neste contexto, também se utiliza o termo <START:ABSTRACCAO_NOME> ATM <END> , do inglês <START:ABSTRACCAO_NOME> Automatic Teller Machine <END> .
-Enquanto <START:LOCAL_HUMANO> Portugal <END> foi um dos últimos países da <START:LOCAL_HUMANO> Europa <END> ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas.
-O número de caixas  <START:COISA_CLASSE> Multibanco <END> mais do que triplicou em <START:LOCAL_HUMANO> Portugal <END> <START:TEMPO_TEMPO_CALEND> na última década <END> , revela um estudo da <START:ORGANIZACAO_EMPRESA> Marktest <END> .
-<START:TEMPO_TEMPO_CALEND> Desde 1995 <END> , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela <START:ORGANIZACAO_EMPRESA> SIBS <END> e incluídos na pesquisa « <START:OBRA_PLANO> Os Concelhos Portugueses -- 1995/2005 <END>  ».
-Em <START:LOCAL_HUMANO> Portugal <END> , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.
-<START:TEMPO_TEMPO_CALEND> Neste momento <END> a <START:COISA_CLASSE> Rede Multibanco <END> é uma das mais sofisticadas redes interbancárias do mundo.
-Também é o nome de um cartão de débito.
+
+      "
+      <START:PESSOA_INDIVIDUAL>Pequena Notável<END>
+      " ou a "
+      <START:PESSOA_INDIVIDUAL>Brazilian Bombshell<END>
+      "
+    
+    
+
+      Depois de ser exibida no
+      <START:LOCAL_HUMANO>Rio<END>
+      , chega a
+      <START:LOCAL_HUMANO>São Paulo<END>
+      a mostra 
+      Carmen Miranda para sempre 
+      , que será inaugurada
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      para convidados e
+      <START:TEMPO_TEMPO_CALEND>amanhã<END>
+      para o público no
+       <START:LOCAL_HUMANO>Memorial<END> da <START:LOCAL_HUMANO>América Latina<END>
+      .
+Fotos, roupas (algumas são releituras contemporâneas de seu estilo), objetos, são 
+      <START:VALOR_QUANTIDADE>mais de 700<END>
+      peças reunidas (além de filmes e músicas) para contar a história da "
+      <START:PESSOA_INDIVIDUAL>Pequena Notável<END>
+      " ou a "
+      <START:PESSOA_INDIVIDUAL>Brazilian Bombshell<END>
+      " - não há no mundo quem não conheça essa genial estrela que conquistou o
+      <START:PESSOA_POVO>Brasil<END>
+      , a
+      <START:PESSOA_POVO>Broadway<END>
+      e
+      <START:PESSOA_POVO>Hollywood<END>
+      .
+A imagem recorrente que vem à cabeça é a da baiana com badulaques na cabeça sempre sorridente - ela se apresentava com nada menos que
+      <START:VALOR_QUANTIDADE>20 quilos<END>
+      sobre o corpo, entre roupas e acessórios, e uma plataforma de
+      <START:VALOR_QUANTIDADE>15 cm<END>
+      de altura.
+<START:PESSOA_INDIVIDUAL>Carmen Miranda<END>
+      (
+      <START:TEMPO_TEMPO_CALEND>1909-1955<END>
+      ) "nasceu personagem, era uma artista" , como diz o jornalista e escritor
+      <START:PESSOA_INDIVIDUAL>Ruy Castro<END>
+      , que há pouco lançou uma biografia sobre a estrela.
+Apesar do enorme sucesso conquistado
+      <START:TEMPO_TEMPO_CALEND>a partir do fim da década de 1930<END>
+      nos
+      <START:LOCAL_HUMANO>EUA<END>
+      , para
+      <START:PESSOA_INDIVIDUAL>Ruy Castro<END>
+      a fase da artista no
+      <START:LOCAL_HUMANO>Brasil<END>
+      é a que precisa ser "urgentemente conhecida pelo público brasileiro".
+Ele, que fez consultoria dos textos presentes na mostra, vai realizar uma palestra gratuita
+      <START:TEMPO_TEMPO_CALEND>na sexta-feira<END>, ,
+<START:TEMPO_TEMPO_CALEND>às 19h30<END>
+      , sobre a vida e a obra da artista na
+      <START:LOCAL_HUMANO>Biblioteca Victor Civita<END>
+      , no
+      <START:LOCAL_HUMANO>Memorial<END>
+      .
+Carmen Miranda para sempre 
+      é um projeto que vem sendo realizado
+      <START:TEMPO_DURACAO>há mais de dois anos<END>
+      .
+Com curadoria de
+      <START:PESSOA_INDIVIDUAL>Fabiano Canosa<END>
+      , a mostra feita com peças da própria coleção de
+      <START:PESSOA_INDIVIDUAL>Canosa<END>
+      , do
+      <START:ORGANIZACAO_INSTITUICAO>Museu Carmen Miranda<END>
+      (inaugurado
+      <START:TEMPO_TEMPO_CALEND>em 1976<END>
+      ) e da família da artista, tem percurso cronológico e está dividida em núcleos.
+Inicia com o nascimento em
+      <START:LOCAL_HUMANO>Portugal<END>
+      e inclui imagens de sua família.
+Depois, vem a fase brasileira, "quando ela era a rainha do disco, do rádio, do cineteatro e fez filmes que estão quase todos destruídos, uma tragédia".
+Um dos únicos que restaram é
+      <START:OBRA_REPRODUZIDA>Alô, Alô Carnaval<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>de 1936<END>
+      , que
+      <START:PESSOA_INDIVIDUAL>Carmen<END>
+      fez ao lado de sua irmã
+      <START:PESSOA_INDIVIDUAL>Aurora<END>
+      , morta
+      <START:TEMPO_TEMPO_CALEND>em dezembro<END>
+      - como conta o curador.
+Não era ainda a
+      <START:PESSOA_INDIVIDUAL>Carmen Miranda<END>
+      dos badulaques.
+Era uma "mulher art déco
+      <START:TEMPO_TEMPO_CALEND>dos anos 30<END>
+      ", como diz
+      <START:PESSOA_INDIVIDUAL>Canosa<END>
+      , que usava calças, ternos e vestidos belos - em particular, há uma sala especial com retratos da artista feitos
+      <START:TEMPO_TEMPO_CALEND>em 1931<END>
+      , em
+      <START:LOCAL_HUMANO>Buenos Aires<END>
+      , pela alemã
+      <START:PESSOA_INDIVIDUAL>Annemarie Heinrich<END>
+      .
+E foi durante uma de suas apresentações no
+       <START:LOCAL_HUMANO>Cassino<END> da <START:LOCAL_HUMANO>Urca<END>
+
+      , no
+      <START:LOCAL_HUMANO>Rio<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>em 1939<END>
+      , que o produtor americano
+      <START:PESSOA_INDIVIDUAL>Lee Shubert<END>
+      viu
+      <START:PESSOA_INDIVIDUAL>Carmen<END>
+      e se encantou.
+Levou-a para a
+      <START:ORGANIZACAO_EMPRESA>Broadway<END>
+      e o sucesso foi inevitável.
+Ela, com o
+      <START:PESSOA_GRUPOMEMBRO>Bando da Lua<END>
+      , ficou consagrada já no início com o espetáculo
+      <START:OBRA_REPRODUZIDA>The Streets of Paris<END>
+      .
+Daí em diante, tornou-se uma das maiores celebridades que o mundo já conheceu.
+Serviço
+    
+
+      Carmen Miranda para sempre 
+      .
+<START:LOCAL_HUMANO>Galeria Marta Traba<END>
+      .
+<START:LOCAL_HUMANO>Memorial<END> da <START:LOCAL_HUMANO>América Latina<END>
+      .
+<START:LOCAL_HUMANO>Av.
+Auro Soares de Moura Andrade<END>
+      , 664, 3823-4741.
+<START:TEMPO_TEMPO_CALEND>9h/18h<END>
+      (fecha
+      <START:TEMPO_TEMPO_CALEND>2.ª<END>
+      ).
+Grátis.
+<START:TEMPO_TEMPO_CALEND>Até 16/4<END>
+      .
+Abertura
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>19h30<END>
+      , para convidados.
+<START:TEMPO_FREQUENCIA>Diariamente<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>às 10h30<END>
+      e
+      <START:TEMPO_TEMPO_CALEND>às 15h<END>
+      , exibição do documentário
+      <START:OBRA_REPRODUZIDA>Bananas Is My Business<END>
+    
+  
+
+  --DOCSTART--
+
+
+ <START:PESSOA_INDIVIDUAL>Sebastião<END> de <START:LOCAL_HUMANO>Portugal<END>
+
+
+Desaparecimento e lenda
+
+
+Na subsequente batalha de <START:ACONTECIMENTO_EFEMERIDE>Alcácer-Quibir<END>, o campo dos três reis, os portugueses sofreram uma derrota humilhante às mãos do  <START:PESSOA_INDIVIDUAL>sultão Ahmed Mohammed<END> de <START:LOCAL_HUMANO>Fez<END> e perderam uma boa parte do seu exército.
+Quanto a <START:PESSOA_INDIVIDUAL>Sebastião<END>, provavelmente morreu na batalha ou foi morto depois desta terminar.
+Mas para o povo português de então o rei havia apenas desaparecido.
+Este desastre teria as piores consequências para o país, colocando em perigo a sua independência.
+O resgate dos sobreviventes ainda mais agravou as dificuldades financeiras do país.
+<START:TEMPO_TEMPO_CALEND>Em 1581<END>,  <START:PESSOA_INDIVIDUAL>Filipe I<END> de <START:LOCAL_HUMANO>Portugal<END>, mandou transladar para o <START:LOCAL_HUMANO>Mosteiro dos Jerónimos<END> em <START:LOCAL_HUMANO>Lisboa<END> um corpo que alegava ser o do rei desaparecido, na esperança de acabar com o sebastianismo, o que não resultou, nem se pôde comprovar ser o corpo realmente o de <START:PESSOA_INDIVIDUAL>Sebastião I<END>.
+O <START:OBRA_ARTE>Túmulo de Mármore<END> que repousa sobre dois elefantes, pode ainda <START:TEMPO_TEMPO_CALEND>hoje<END> ser observado em <START:LOCAL_HUMANO>Lisboa<END>.
+A dúvida que persiste <START:TEMPO_DURACAO>há mais de 425 anos<END>  poderia provavelmente <START:TEMPO_TEMPO_CALEND>hoje<END> ser resolvida com um simples teste de <START:COISA_SUBSTANCIA>ADN<END> (<START:COISA_SUBSTANCIA>DNA<END>).
+Tornou-se então numa lenda do grande patriota português - o "rei dormente" (ou um <START:PESSOA_INDIVIDUAL>Messias<END>) que iria regressar para ajudar <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END> nas suas horas mais sombrias, uma imagem semelhante à que o <START:PESSOA_INDIVIDUAL>Rei Artur<END> tem em <START:PESSOA_POVO>Inglaterra<END> ou <START:PESSOA_INDIVIDUAL>Frederico Barbarossa<END> na <START:PESSOA_POVO>Alemanha<END>.
+Durante o subsequente domínio espanhol (<START:TEMPO_TEMPO_CALEND>1580-1640<END>) da coroa portuguesa, três pretendentes afirmaram ser o <START:PESSOA_INDIVIDUAL>rei D. Sebastião<END>, tendo o último deles - um italiano - sido enforcado <START:TEMPO_TEMPO_CALEND>em 1619<END>.
+Mesmo <START:TEMPO_TEMPO_CALEND>no século XIX<END>, lavradores <START:PESSOA_GRUPOMEMBRO>Sebastianistas<END> no sertão brasileiro acreditavam que o rei iria regressar para ajuda-los na luta contra a República ateia Brasileira " (Ver <START:OBRA_REPRODUZIDA>Revolta dos Canudos<END>).
+Em conclusão, a <START:PESSOA_GRUPOMEMBRO>Dinastia de Avis<END>, popular entre o povo após ter guiado <START:PESSOA_POVO>Portugal<END> <START:TEMPO_GENERICO>à sua época<END> de ouro, acabou por submergir na busca de um sonho: a <START:OBRA_PLANO>União Peninsular<END>.
+As mesmas complicações causadas pela procriação consanguínea causou as mortes das crianças de <START:PESSOA_INDIVIDUAL>D.
+João III<END> e  <START:PESSOA_INDIVIDUAL>Catarina<END> de <START:LOCAL_HUMANO>Áustria<END> e a loucura e desespero dos seus netos (<START:PESSOA_INDIVIDUAL>Sebastião<END> e <START:PESSOA_INDIVIDUAL>Carlos<END>), os últimos príncipes de <START:ORGANIZACAO_ADMINISTRACAO>Avis-Habsburgo<END> .

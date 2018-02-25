@@ -1,679 +1,2313 @@
 --DOCSTART--
-Em que escola estuda o <START:PESSOA> Harry Potter <END> ?
-Qual a divisa da escola?
-Em quantas casas está dividida?
-Quem é o director da escola?
-Como são os peixes-espada?
-Qual é o recorde da <START:ORGANIZACAO> IGFA <END> para este tipo de peixe?
-Quando nasceu <START:PESSOA> Amintore Fanfani <END> ?
-E aonde nasceu?
-Quem foi <START:PESSOA> Le Corbusier <END> ?
-Qual era o seu verdadeiro nome?
-Quem era <START:PESSOA> Flaubert <END> ?
-Em que ano publicou «Bouvard e Pécuchet»?
-Lista todas as suas obras.
-O que foi a Revolução de Veludo?
-O que foi a Revolução dos Cravos?
-Quem foi <START:PESSOA> António de Oliveira Salazar <END> ?
-Quem compôs a canção "Grândola, Vila Morena"?
-Onde foi fabricado Bender Bending Rodriguez?
-Quem é <START:PESSOA> Philip J. Fry <END> ?
-Quem foi <START:PESSOA> Hermann Emil Fischer <END> ?
-Quem prémio é que ele recebeu <START:TEMPO> em 1902 <END> ?
-Quem recebeu o Prémio Nobel da Literatura <START:TEMPO> nesse ano <END> ?
-Quem era <START:PESSOA> Bertha von Suttner <END> ?
-Quem foi <START:PESSOA> Marco Pantani <END> ?
-Qual era a sua alcunha?
-Quem foi <START:PESSOA> Juan Manuel Fangio <END> ?
-O que é a obsidiana?
-O que é uma "macana"?
-O que é um buraco negro?
-O que é a realidade virtual?
-O que é o pasodoble?
-O que é a tarantela?
-O que á a Arca de Noé?
-O que é um tacógrafo?
-O que é um odómetro?
-O que é um kinnor?
-O que é o <START:ORGANIZACAO> INTASAT <END> 
-O que é que era o Rainbow Warrior?
-Quem é que o afundou <START:TEMPO> em 1985 <END> ?
-Para que serve um draga-minas?
-O que é a <START:ORGANIZACAO> INTELSAT <END> ?
-O que é uma Organização Não-Governamental?
-O que era a <START:ORGANIZACAO> Gestapo <END> ?
-Quantos membros tinha durante a Segunda Grande Guerra?
-O que é a <START:ORGANIZACAO> Organização Internacional da Normalização <END> ?
-O que era a Mão Negra?
-Qual a função da <START:ORGANIZACAO> Organização Meteorológica Mundial <END> ?
-Qual é a responsabilidade da <START:ORGANIZACAO> ONUDI <END> ?
-A que se dedica a <START:ORGANIZACAO> Industrial Light and Magic <END> ?
-Em que país fica <START:LOCAL> Çatal Hüyük <END> ?
-Em que mar desagua o rio Orentes?
-Em que país fica a <START:LOCAL> Muralha de Adriano <END> ?
-Onde é que trabalha o <START:PESSOA> Homer Simpson <END> ?
-Em que país fica <START:LOCAL> Minas Gerais <END> ?
-De onde é típica a ensaimada?
-Em que cidade nasceu <START:PESSOA> Natalie Hershlag <END> ?
-Quem é o prefeito dessa cidade?
-Quem desenhou o processador Zilog Z80?
-De quantos bits era este processador?
-Como se chamam os pais de <START:PESSOA> Luke Skywalker <END> ?
-Que paises entraram na <START:ORGANIZACAO> União Europeia <END> <START:TEMPO> a 1 de Janeiro de 1995 <END> ?
-Quem é a  rainha da <START:LOCAL> Austrália <END> ?
-Quem era o papa quando se realizou o Concílio de Clermont?
-Que actor faz de <START:PESSOA> Chewbacca <END> ?
-Como se chama o deus grego da Medicina?
-Quem foi o realizador de Nosferatu?
-E quem era o actor principal?
-Quem é o secretário-geral da <START:ORGANIZACAO> UGT <END> ?
-Quando é que foi o atentado terrorista contra a <START:ORGANIZACAO> AMIA <END> ?
-Quantas pessoas morreram nesse ataque?
-Quando é que morreu <START:PESSOA> Federica Montseny <END> ?
-Em que dia se realizou o assalto ao rancho do davidianos em <START:LOCAL> Waco <END> ?
-Em que ano é que o Real Zaragoza ganhou a <START:ACONTECIMENTO> Taça das Taças <END> ?
-Em que ano foi inaugurado o AVE Madrid-Sevilha?
-Em que data é que o <START:ORGANIZACAO> Corte Inglês <END> comprou as <START:ORGANIZACAO> Galerias Preciados <END> ?
-Em que dia foi assassinado <START:PESSOA> Rajiv Gandhi <END> ?
-Que quatro deuses podem ser representados num vaso canopo?
-Quem produz o Windows 95?
-<START:PESSOA> Steve Jobs <END> é o presidente de que empresa?
-Como se chamava o serviço secreto da <START:LOCAL> RDA <END> ?
-<START:PESSOA> David Stern <END> é o comissário de que organização?
-Que rádio emite o programa de <START:PESSOA> Howard Stern <END> ?
-Que escola foi fundada por <START:PESSOA> Walter Groupis <END> ?
-A que ordem pertencia <START:PESSOA> São Tomás de Aquino <END> ?
-Que ordem foi fundada por <START:PESSOA> São Francisco de Assis <END> ?
-Que exército era comandado por <START:PESSOA> Rommel <END> ?
-O Bibendum é a mascote de que empresa?
-Como se chamava o barco de <START:PESSOA> Costeau <END> ?
-Que tipo de leite se usa para fazer mozzarella?
-Como se chamava a espada do <START:PESSOA> Rei Artur <END> ?
-As bolotas são o fruto de que árvore?
-De que planta se obtêm a juncinha?
-De que material é feito um Moai?
-Que come um quebra-ossos?
-Como se chamava a bomba atómica largada em <START:LOCAL> Nagasaqui <END> ?
-Qual foi o primeiro libro impresso por <START:PESSOA> Gutenberg <END> ?
-Que forma tem a entrada do <START:LOCAL> Museu do Louvre <END> ?
-Que animais puxam o carro de <START:PESSOA> Cíbele <END> ?
-O que é que mede a escala de Mohs ?
-Que licor se faz com abrunheiro?
-Em que museu estão «As Meninas» de <START:PESSOA> Velasques <END> ?
-Que escândalo provocou a demissão de <START:PESSOA> Nixon <END> ?
-Que fabrica a <START:ORGANIZACAO> Leica <END> ?
-Que lado de um barco é bombordo?
-Como se chamam as bolas usadas no Quidditch?
-Quantas pessoas morreram no afundamento do USS Maine?
-Quantos atletas participaram nos  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
-Quantos habitantes tem a <START:LOCAL> Lituânia <END> ?
-Quantos lugares o parlamento da <START:LOCAL> Islândia <END> ?
-Quantos anos durarão as reservas mundiais de petróleo?
-Quantas vezes é que <START:PESSOA> Alain Prost <END> foi campeão do  Mundo ?
-Quantos cavalos tem as turbinas do USS Nimitz?
-Quantos golos se marcaram ao todo no  <START:ACONTECIMENTO> Mundial <END> de <START:TEMPO> 1982 <END> ?
-Quantas caves tem a Torre Picasso?
-Quantos prémios Goya ganhou "Torrente: El brazo tonto de la ley"?
-Que idade tem o Sol?
-Qual a duração do filme «A Nona Porta»?
-Com que idade morreu <START:PESSOA> Alfred Hitchcock <END> ?
-Qual a envergadura do Airbus 380?
-Quantos passageiros transportou <START:TEMPO> no dia 4 de Setembro de 2006 <END> ?
-Quanto custa cada unidade?
-Qual a capacidade de carga do Antonov An-124?
-Quais são os membros fundadores da <START:ORGANIZACAO> Star Alliance <END> ?
-Em que país se fala náhuatl?
-Quantas curvas tem o  <START:LOCAL> Circuito <END> do <START:LOCAL> Mónaco <END> ?
-Quem foi a primeira mulher a viajar no espaço?
-Quem realizou «O Dia da Besta»?
-Quem inaugurou o Templo de Debod em <START:LOCAL> Madrid <END> ?
-Em que ano é que <START:PESSOA> Torquemada <END> foi nomeado Inquisidor Geral?
-Em que ano foi publicada a  Gramática de <START:PESSOA> Nebrija <END> ?
-Onde é que <START:PESSOA> Rachel Weisz <END> estudou literatura?
-Em que cidade fica a  Sagrada Família de <START:PESSOA> Gaudí <END> ?
-Qual a altura do Vesúvio?
-A quantos quilómetros de <START:LOCAL> Huesca <END> fica o  <START:LOCAL> Castelo <END> de <START:LOCAL> Loarre <END> ?
-Qual a massa molécular do metanol?
-Qual a altura da  Pirámede do Sol de <START:LOCAL> Teotihuacan <END> ?
-Quantos saltos formam as Cataratas do Iguaçú?
-Quantos degraus tem a  <START:LOCAL> Torre <END> de <START:LOCAL> Pisa <END> ?
-Quais são os ingredientes da sangria?
-Quem é responsável pela segurança da <START:LOCAL> Cidade do Vaticano <END> ?
-Quem atribui a Medalha Fields?
-Para quem trabalha <START:PESSOA> Jack Bauer <END> ?
-O que é que foi usado como desfolhante na Guerra do Vietname?
-Qual foi o nome de código do Desembarque da Normândia?
-De que fungo se obtêm a penicilina?
-De que molusco é que os fenícios extraíam a tinta púrpura?
-O que é que <START:PESSOA> Manuel Campello Esclápez <END> descobriu?
-De que é que <START:PESSOA> Jasão <END> e os Argonautas andavam à procura?
-Quem era  presidente dos <START:LOCAL> Estados Unidos <END> durante o ataque a <START:LOCAL> Pearl Harbour <END> ?
-O que é que a <START:ORGANIZACAO> Norsk Hydro <END> produzia durante a Segunda Guerra Mundial?
-Qual o tíulo da obra que ganhou o Prémio Nadal <START:TEMPO> em 1994 <END> ?
-Quantos reservistas tinha a <START:ORGANIZACAO> Haganah <END> <START:TEMPO> em 1936 <END> ?
-Que idade tinha <START:PESSOA> Miguel Induraín <END> durante a  <START:ACONTECIMENTO> Volta a Espanha <END> <START:TEMPO> de 1985 <END> ?
-Em que ano é que ele ganhou a <START:ACONTECIMENTO> Volta à Espanha <END> ?
-Quantas etapas da  <START:ACONTECIMENTO> Volta à França do Futuro <END> <START:TEMPO> de 1986 <END> é que ele ganhou?
-Que prémio é que ele recebeu <START:TEMPO> em 1992 <END> ?
-Que actores são os protagonistas de «O Bom, o Mau e o Vilão"?
-Quantas pessoas morreram na <START:LOCAL> Europa <END> durante a epidemia de peste <START:TEMPO> do século XIV <END> ?
-Em que país teve origem a epidemia de gripe <START:TEMPO> de 1918 <END> ?
-Como se chamavam os Reis Católicos?
-Como se chamava o  presidente do <START:LOCAL> Burundi <END> que morreu <START:TEMPO> em 1994 <END> ?
-Em que dia foi promulgada a constituição espanhola <START:TEMPO> de 1812 <END> ?
-Quem foi o capitão do Real Sociedad <START:TEMPO> entre 1974 e 1989 <END> ?
-Em que cidade se disputou a final da  <START:ACONTECIMENTO> Taça da Europa de Basquete <END> <START:TEMPO> de 1996 <END> ?
-Que grupo terrorista cometeu um atentado durante os  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Munique <END> ?
-Que partido político governou a <START:LOCAL> Espanha <END> <START:TEMPO> de 28 de Outubro de 1982 a 3 de Março de 1996 <END> ?
-Que farda tinha vestida o Rei quando apareceu na televisão após o golpe de estado de <START:PESSOA> Tejero <END> ?
-O que é que <START:PESSOA> Leonardo da Vinci <END> desenhou <START:TEMPO> em 1492 <END> ?
-O que é que <START:PESSOA> Antonio Rebollo <END> usou para acender a Chama Olímpica nos  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
-Que programa de televisão apresentou <START:PESSOA> Takeshi Kitano <END> <START:TEMPO> de 1986 a 1989 <END> ?
-Que presente é que <START:LOCAL> Nova Iorque <END> recebeu para comemorar o centenário da indepêndencia dos <START:LOCAL> Estados Unidos <END> ?
-Qual foi a distribuidora do filme «O Planeta dos Macacos» que estreou <START:TEMPO> em 1968 <END> ?
-Que velocidade atingiu <START:PESSOA> Louis Blériot <END> <START:TEMPO> a 25 de Julho de 1909 <END> ?
-Quantos quilos de anchova apanhou a frota do Cantábrico <START:TEMPO> em 1994 <END> ?
-Quais são as ilhas cuja posse a <START:ORGANIZACAO> Argentina <END> disputou ao <START:ORGANIZACAO> Reino Unido <END> <START:TEMPO> de 2 de Abril a 14 de Junho de 1982 <END> ?
-Onde se disputaram os  <START:ACONTECIMENTO> Jogos Mediterrânicos <END> <START:TEMPO> de 1997 <END> ?
-Que navio é que <START:PESSOA> James Cook <END> comandou <START:TEMPO> de 1768 a 1769 <END> ?
-Quem é o actor principal do filme «Tarzan, o Homem-Macaco»?
-Quanto recordes mundiais é que ele bateu?
-Quem ganhou o Óscar Honorário <START:TEMPO> em 2007 <END> ?
-Quem roubou as jóias de <START:PESSOA> Bianca Castafiore <END> ?
-Em que país fica o Lago dos Cisnes?
-Em que ano morreu o <START:PESSOA> Capitão América <END> ?
-Qual é a capital da <START:LOCAL> Terra do Nunca <END> ?
-Como se chama a mulher de <START:PESSOA> Bill Gates <END> ?
-Em que universidade é que ele estudava quando criou a <START:ORGANIZACAO> Microsoft <END> ?
-Qual o orçamento dessa universidade <START:TEMPO> para 2005 <END> ?
-Em que ano foi fundada?
-Que avião supersónico teve os seus últimos voos comerciais <START:TEMPO> em Maio de 2003 <END> ?
-Quantos passageiros conseguia transportar esse modelo de avião?
-Qual a capacidade do <START:LOCAL> Estádio Santiago Bernabéu <END> <START:TEMPO> nos anos 80 <END> ?
-Quem é o dono do estádio?
-Quanto dinheiro foi gasto na sua ampliação <START:TEMPO> entre 2001 e 2006 <END> ?
-Quantas bombas foram lançadas sobre <START:LOCAL> Dresda <END> <START:TEMPO> a 14 de Fevereiro de 1945 <END> ?
-Quanto pesavam as bombas largadas sobre esta cidade <START:TEMPO> a 7 de Outubro de 1944 <END> ?
-Que organismo dirigiu <START:PESSOA> Alan Turing <END> durante a Segunda Guerra Mundial?
-Quem era o czar da Rússia   durante a Segunda Grande Guerra?
-Quantos pontos marcou a Jugoslávia na final do  <START:ACONTECIMENTO> Mundial de Basquetebol <END> <START:TEMPO> de 1990 <END> ?
-Contra que país é que a Espanha jogou a final de basquete das  <START:ACONTECIMENTO> Olímpiadas <END> <START:TEMPO> de 1984 <END> ?
-Em que ano é que Espanha ganhou o <START:ACONTECIMENTO> Mundial de Futebol <END> ?
+
+      <START:PESSOA>Ronaldo<END>
+      volta a treinar com bola no
+      Milan
+    
+    
+
+      <START:PESSOA>Fenômeno<END>
+      não participava de um coletivo
+      <START:TEMPO>desde novembro<END>
+      .
+Jogador se recupera de lesão
+    
+    
+
+      Das agências de notícias
+      <START:LOCAL>Dubai<END>
+      ,
+      <START:LOCAL>Emirados Árabes<END>
+    
+    
+
+      Depois de ser cotado para vestir a camisa do
+      <START:ORGANIZACAO>Flamengo<END>
+      , o
+      <START:PESSOA>Fenômeno<END>
+      parece, se não satisfeito, pelo menos conformado em retornar ao grupo do
+      <START:ORGANIZACAO>Milan<END>
+      .
+Após longo período
+      se recuperando de uma lesão,
+      <START:PESSOA>Ronaldo<END>
+      calçou as chuteiras e voltou a treinar com bola, o que não fazia
+      <START:TEMPO>desde novembro<END>
+      .
+O atacante segue em recuperação.
+<START:TEMPO>Nesta sexta-feira<END>
+      , participou da maior parte das atividades, em
+      <START:LOCAL>Dubai<END>
+      , nos
+      <START:LOCAL>Emirados Árabes<END>
+      .
+O técnico dividiu o elenco em dois times com
+      <START:VALOR>11<END>
+      jogadores atuando na metade do gramado do estádio
+      <START:LOCAL>Al Maktoum<END>
+      .
+Em seguida, quando começou a movimentação com bola,
+      <START:PESSOA>Ronaldo<END>
+      seguiu correndo.
+Aí quem se destacou - negativamente, de acordo com o jornal italiano "
+      La Gazzetta dello Sport 
+      " - foi o goleiro
+      <START:PESSOA>Dida<END>
+      .
+O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por
+      <START:VALOR>6 a 0<END>
+      .
+Três dos gols que levou eram defensáveis, segundo o jornal italiano.
+<START:PESSOA>Alessandro Nesta<END>
+      saiu em defesa do companheiro.
+- Poderíamos ter vencido o
+      Inter
+      (
+      <START:VALOR>2 a 1<END>
+      , o segundo gol em falha de
+      <START:PESSOA>Dida<END>
+      ).
+Não podemos ficar pressionando o
+      <START:PESSOA>Dida<END>
+      .
+Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.
 --DOCSTART--
     
- CONGRESSOS DO <START:ORGANIZACAO> PSD <END> , VOLTEM QUE ESTÃO PERDOADOS        
- Há poucas coisas que me entristecem tanto como esta história das directas do <START:ORGANIZACAO> PSD <END> .
-É que eu sempre fui um aficcionado dos congressos do <START:ORGANIZACAO> PSD <END> .
-Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: «  PSD: Responsabilidade e sentido de Estado .»        
- Habituei-me, <START:TEMPO> ao longo dos anos <END> , a assistir às transmissões televisivas dos congressos social-democratas, <START:TEMPO> madrugada adentro <END> , enquanto comia pipocas.
-Menos quando <START:PESSOA> Santana Lopes <END> fazia aqueles discursos improvisados, que me provocavam um nó na garganta.
-Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o <START:ORGANIZACAO> Conselho Nacional <END> lhe fez... Cafagestes!»        
- É certo que, agora que já não há intervenções pungentes de <START:PESSOA> Santana Lopes <END> , os congressos do <START:ORGANIZACAO> PSD <END> ficariam demasiado dependentes das gaffes de <START:PESSOA> Luís Filipe Menezes <END> .
-Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem.
-Costuma-se dizer -- e com razão - que o <START:ORGANIZACAO> PSD <END> é o <START:ORGANIZACAO> Sport Lisboa e Benfica <END> da política, uma vez que se trata do partido com a maior diversidade de classes sociais.
-O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão.
-Segundo <START:PESSOA> Pacheco Pereira <END> , é esta diversidade social que começa a estar seriamente ameaçada.
-<START:TEMPO> Há uns tempos <END> , escreveu no PÚBLICO que «o problema do <START:ORGANIZACAO> PSD <END> é começar a ter só um Portugal ou dois dentro de si».
-Não podia estar mais em desacordo com esta afirmação.
-Para mim, é precisamente esse o problema do partido.
-Se, em vez de « Portugais », o <START:ORGANIZACAO> PSD <END> tivesse uma Finlândia ou duas Dinamarcas dentro dele, aí sim podia ser que o partido fosse a algum lado.
-De resto, fico já satisfeito por ter conseguido escrever um post sobre o <START:ORGANIZACAO> PSD <END> , sem uma única referência à baixa estatura de <START:PESSOA> Marques Mendes <END> .
-(O quê?
-Isto conta como referência?)
---DOCSTART--
 
-A fama do Prius
-<START:TEMPO> Durante o ano passado <END> o nome Toyota Prius esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
-Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome Prius tornou-se um sinónimo de híbrido Nos <START:LOCAL> Estados Unidos da America <END> foram vendidos <START:TEMPO> em 2004 <END> <START:VALOR> mais de 50 mil <END> unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de Prius a serem vendidos em segunda mão ao mesmo preço que um novo.
-Um habitáculo simples, confortável e espaçoso.
-Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de <START:LOCAL> Hollywood <END> .
-<START:PESSOA> Cameron Diaz <END> , <START:PESSOA> Leonardo DiCaprio <END> ou <START:PESSOA> Will Ferrell <END> são três dos muitos nomes famosos que possuem um Toyota Prius.
-Economia e performance
-Em cidade o Prius consome apenas <START:VALOR> 4,3 litros <END> a cada <START:VALOR> 100km <END> , tornando-o num dos automóveis mais económicos do mercado.
-Estamos claro a falar dum motor 1.5 VVT-i  com apenas <START:VALOR> 78cv <END> , que aliado ao sistema HSD (Hybrid Synergy Drive) aumenta a sua potência para <START:VALOR> 110cv <END> .
-<START:VALOR> Dos 0 aos 100km/h <END> o Prius demora <START:TEMPO> cerca de 11 segundos <END> .
-A <START:ORGANIZACAO> Toyota <END> afirma que, apesar destas prestações conseguiram reduzir em <START:VALOR> 89% <END> as emissões libertadas, comparando a um veículo novo a gasolina.
---DOCSTART--
+      Da
+      Bauhaus
+      para ... a
+      House
+      :
+    
+    
 
-<START:TEMPO> Em Dezembro <END> em <START:LOCAL> Lisboa <END>
-<START:PESSOA> Sócrates <END> : cimeira " <START:ORGANIZACAO> União Europeia <END> - <START:ORGANIZACAO> África <END> não deve ser uma cimeira «sobre <START:PESSOA> Mugabe <END> » 
-A cimeira  <START:ORGANIZACAO> União Europeia <END> - <START:ORGANIZACAO> África <END> , prevista <START:TEMPO> para 8 <END> e <START:TEMPO> 9 de Dezembro <END> em <START:LOCAL> Lisboa <END> , não deve ser uma cimeira sobre o  Presidente do <START:LOCAL> Zimbabwe <END> , <START:PESSOA> Robert Mugabe <END> , defendeu <START:TEMPO> hoje <END> <START:PESSOA> José Sócrates <END> , primeiro-ministro português e presidente em exercício da <START:LOCAL> União Europeia <END> ( <START:LOCAL> UE <END> ).
-«O que queremos é que esta cimeira entre a <START:ORGANIZACAO> União Europeia <END> e <START:ORGANIZACAO> África <END> , uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o <START:PESSOA> Presidente Robert Mugabe <END> », declarou <START:PESSOA> Sócrates <END> em <START:LOCAL> Singapura <END> , à margem da cimeira entre a <START:ORGANIZACAO> UE <END> e os países do Sudeste asiático, segundo a   Lusa .
-O <START:ORGANIZACAO> Zimbabwe <END> foi convidado para participar na cimeira, apesar da oposição do <START:ORGANIZACAO> Reino Unido <END> que ameaçou boicotar a reunião se <START:PESSOA> Mugabe <END> estiver presente.
-«Esta é uma cimeira que não se realiza <START:TEMPO> há sete anos <END> , uma cimeira sobre os direitos do Homem, sobre as alterações climáticas, sobre as migrações, sobre os problemas da <START:LOCAL> União Europeia <END> e da <START:LOCAL> União Africana <END> », salientou <START:PESSOA> Sócrates <END> .
-«O objectivo é restaurar o diálogo político alargado com a <START:ORGANIZACAO> África <END> e fazer não apenas uma estratégia da <START:ORGANIZACAO> Europa <END> para a <START:ORGANIZACAO> África <END> mas uma estratégia conjunta, pela primeira vez na história», lembrou.
-«Gostaria que esta cimeira não fosse apenas sobre um país ou sobre um dirigente», insistiu.
+      "Eu estou tentando mostrar minha idéia de como será a vida
+      <START:TEMPO>no século vinte e um<END>
+      .
+A tecnologia vai moldar a maneira como pensamos.
+Por exemplo, à medida que as coisas ficam mais caras, o espaço se torna uma coisa rarefeita.
+Posso ver isso já acontecendo em
+      <START:LOCAL>Londres<END>
+      .
+Logo, a tecnologia vai criar espaços de outras formas.
+Espaços virtuais.
+Espaços sonoros."
+O tecno de
+      <START:LOCAL>Detroit<END>
+      é arquitetura.
+É por isso que não há progressão narrativa, mudanças de acordes, desdobramentos temáticos, nem contraponto.
+Espaços sonoros, não som viajando através do tempo.
+"Tão poucas pessoas entendem isso", diz
+      <START:PESSOA>Mills<END>
+      , falando em minimalismo, "Como só deixar a coisa tocar..."
+    
+    
+
+      Os carros e edifícios se desmaterializaram em resposta à tração do futuro.
+"Nós estamos quase fora da fase do territorial", diz
+      <START:PESSOA>Mills<END>
+      .
+<START:LOCAL>Detroit<END>
+      , a primeira cidade portátil.
+Seus habitantes a virtualizaram
+      <START:TEMPO>muito tempo atrás<END>
+      .
+"Isto é o que muitas pessoas costumavam fazer em
+      <START:LOCAL>Detroit<END>
+      .
+Nós poderíamos criar uma canção só para a ambiência, só para o local onde você mora, e deixá-la rolar
+      <START:TEMPO>por todo o dia<END>
+      .
+Esta não é a música que você vai eventualmente colocar num
+      DAT
+      e vender.
+É música habitável."
+Evolução da Máquina:
+    
+
+      É perceptível, quando se escuta
+      <START:PESSOA>Mills<END>
+      , que apesar dele pensar sua música em termos concretos (cordas "se liquefazem no corpo" como "ao ligar um aquecedor"), o som <START:TEMPO>frequentemente<END> parece ser só sinal para ele, só um veículo para a mensagem.
+Então tem essa mensagem um conteúdo?
+O inovador selo de
+      <START:LOCAL>Detroit<END>
+      Underground Resistance
+      (
+      UR
+      ), que
+      <START:PESSOA>Mills<END>
+      fundou com
+      <START:PESSOA>Mike Banks<END>
+      , costumava emplastrar suas capas com linguagem tipo-manifesto, preparando seu público para alguma indefinida revolução sônica.
+Logo eu quis saber se "a mensagem" é política.
+"Oh, não", diz
+      <START:PESSOA>Mills<END>
+      .
+"É abstrata.
+É o que você está tentando dizer."
+Bem, isso me esclareceu.
+<START:PESSOA>Mills<END>
+      é totalmente inacessível sobre conteúdo ou inspiração para os sons de seus álbuns.
+Não parece haver uma clara agenda estética ou social.
+Mas ele tem alguns princípios organizativos pouco usuais.
+"Eu penso num conceito e provavelmente o ponho em algum tipo de escala de cor," ele me conta em certo momento.
+"Preciso de uma sensação muito clara com algum tanto de drama, então talvez eu pegue verde.
+Em minha mente tenho esta idéia de como soa o verde.
+Verde é as frequências que são mais baixas, não subsônicas, mas de médio alcance."
+Então ele confusamente glosa isso dizendo "é como se você pegasse um teclado e começasse do branco e fosse por todo o caminho até o negro."
+<START:TEMPO>A maior parte das vezes<END>
+      <START:PESSOA>Mills<END>
+      fala de si mesmo como o originador da mensagem, usando o usual e romântico vocabulário do artista, do criador.
+Mas ele é um criador com uma relação peculiar com seus instrumentos.
+"Geralmente eu dou início numa sequência e então deixo ela tocar.
+Eu saio e deixo-a tocando
+      <START:TEMPO>por cerca de vinte e quatro horas<END>
+      .
+As máquinas flutuam.
+Com o passar do tempo
+      a sequência muda ligeiramente.
+As máquinas moldam a si mesmas, dando seu próprio caráter a uma faixa.
+Nós fizemos muito disso com o
+      UR
+      .
+<START:TEMPO>Algumas vezes<END>
+      nós deixamos o som rolar
+      <START:TEMPO>por vários dias<END>
+      .
+Ele evoluia para um estado muito fixo.
+"O tecno, obviamente, é música da e sobre a tecnologia."
+Os produtores estão familiarizados com seu kit de estúdio e o imaginário de cabine de vôos, painéis de controle e instrumentação ("e agora...Eu aperto esse switch"), que tem desde sempre temperado samplers e títulos de canções, sinalizando sua afinidade com tecnicistas de outros tipos.
+<START:LOCAL>Detroit<END>
+      , como o lugar imaginário onde uma velha geração de máquinas industriais está dando lugar a máquinas de informação, fluxos se acelerando e desmaterializando, é onde relações humanas com a tecnologia estão sendo reconfiguradas.
+<START:PESSOA>Jeff Mills<END>
+      sai para o cinema e deixa as máquinas evoluirem sua sequência no estúdio, e ao fazê-lo assim faz o comentário talvez mais eloquente que nós temos de uma mudança cultural em todos os tipos de produção, artística e de outro tipo.
+É uma tensão que tem sido
+      <START:TEMPO>há muito tempo<END>
+      sentida na música pop, bem expressa no slogan mal intensionado de camiseta de garotada indie
+      <START:TEMPO>de alguns anos atrás<END>
+      : 'os escrotos sem cara do tecno.'
+(Por todo lugar outras camisetas respondiam "foda-se o
+      Britpop
+      ").
+<START:TEMPO>Nestes dias<END>
+      o ídolo de rock,
+      <START:PESSOA>Liam Oásis da Vida<END>
+      , em cada polegada o artista tradicional, solitário e romanticamente sofrendo no palco, está em combate mortal com alguma coisa distribuída, cambiante (
+      <START:PESSOA>Mills<END>
+      é
+      x102
+      ,
+      UR
+      ,
+      Axis
+      ...) e não de todo humana.
+<START:TEMPO>Algumas vezes<END>
+      <START:PESSOA>Mills<END>
+      se auto denomina '
+      Criador
+      de propósitos' e o ouvinte encontra a seguinte afirmação (não-assinada) numa capa: "só a consciência de um propósito que é maior que qualquer homem pode semear e fortificar as almas dos homens."
+É muito fácil identificar o criador de propósitos como o artista e o poder como
+      <START:PESSOA>Deus<END>
+      .
+Em
+      <START:LOCAL>Detroit<END>
+      o poder que é maior que o homem, que está semeando e fertilizando sua alma, é inorgânico, sem nome, baseado em silício.
+Medo
+    
+
+      "
+      <START:TEMPO>Algumas vezes<END>
+      quando eu penso em um ritmo", diz
+      <START:PESSOA>Mills<END>
+      , "eu penso numa máquina que está - caminhando em algum lugar, algum tipo de movimento, e eu tento vividamente criar esse tipo de progressão melódica."
+Tanques robôs, linhas de montagem, colonizando a imaginação, articuladas como vias permanentes de batidas pesadas bombando os corpos do público dançante.
+Quem origina esse ritmo?
+Nós ou eles?
+Reconstitua o processo de volta.
+Quem veio primeiro?
+Artista ou máquina?
+A idéia da máquina na mente do artista?
+O que pôs a idéia ali?
+Eterno retorno...
+O tecno de
+      <START:LOCAL>Detroit<END>
+      é também música assustadora, assustadora precisamente por que sua implacável repetição nos lembra de nossa imersão em sistemas mecanizados, computadorizados.
+<START:LOCAL>Detroit<END>
+      fetichiza esta relação: tome drogas, conecte seu corpo ao ritmo das máquinas - não é nada diferente do que você faz no escritório
+      <START:TEMPO>todo dia<END>
+      .
+Talvez você se sinta como um rato de laboratório pressionando uma alavanca por doses de endorfinas.
+Ao menos
+      <START:TEMPO>às três da manhã<END>
+      num galpão (warehouse, pra raves) quando embarca numa outra pastilha, você sabe que é um honesto rato de laboratório.
 --DOCSTART--
     
- <START:PESSOA> Salgado <END> , o fotógrafo da África perdida        
- " África " do fotojornalista <START:PESSOA> Sebastião Salgado <END> é um murro na alma, um livro que consegue ainda surpreender os nossos olhos tão viciados que estão na catadupa de imagens que invadem o nosso quotidiano.
-É também o carimbo que autentica a vitalidade do fotojornalismo de referência, <START:TEMPO> no tempo <END> em que num ápice <START:TEMPO> de 5 anos <END>  a fotografia digital e toda ferramenta que permite uma nova linguagem multimédia, pareciam condenar o preto-e-branco como a última sessão fotográfica.
-Conheci o <START:PESSOA> Sebastião Salgado <END> em <START:LOCAL> Fátima <END> <START:TEMPO> no ano de 1979 <END> .
-Ao meu lado apareceu um fotógrafo estrangeiro, de ar cansado e que começou a comentar como era louco um velhote com as pernas entrapadas que teimava em iniciar de joelhos mais uma dolorosa promessa.
-O <START:PESSOA> António Pedro Ferreira <END> , outro fotógrafo peregrino, reconheceu-o logo como sendo o <START:PESSOA> Sebastião Salgado <END> .
-Na época ele ainda não era muito conhecido, tinha iniciado a carreira de fotógrafo <START:TEMPO> em 1975 <END> , em <START:LOCAL> Angola <END> , fotografando a aventura portuguesa <START:TEMPO> na hora <END> da descolonização.
-Mandara às urtigas uma profissão respeitável de economista e descobrira que a fotografia era o meio ideal para mostrar ao Mundo a saga do sofrimento humano.
-As suas fotos tinham sido publicadas na Photo e no Paris-Match , que eu me lembre, e tinham-me marcado pela capacidade de testemunharem momentos únicos, aliando o olhar jornalístico, ao apuro técnico, a sensibilidade social ao rigor estético.
-Sempre me intrigou, e <START:TEMPO> hoje <END> de novo ao ver o " África " onde estão também essas fotos, como é que um fotógrafo sem experiência já conseguia enquadrar de uma forma tão rigorosa e com um carácter tão forte.
-Só os mestres o conseguem com muita maturidade mas ele já alinhava na grelha de partida em primeiro para aquela que acabaria por ser uma carreira fulgurante.
-Em <START:LOCAL> Fátima <END> , <START:TEMPO> no dia seguinte pela manhã <END> voltei a encontrá-lo, sempre com o <START:PESSOA> António Pedro Ferreira <END> ao lado, e ele acabou por confessar (o lugar prestava-se a isso!)
-que tinha adormecido na véspera no quarto do hotel, depois de um jantar reconfortante falhando assim as fotografias da <START:ACONTECIMENTO> Procissão das Velas <END> .
-Eu já contei esta história mas gosto de a repetir porque ela desmistifica a ideia de que os grandes repórteres são infalíveis.
-Não são.
-Falar das fotografias do <START:PESSOA> Sebastião Salgado <END> é redundante.
-Elas falam, dizem, explicam, sugerem, escondem, denunciam, por si, a visão grandiosa do fotojornalista-autor.
-Interessante é o método de <START:PESSOA> Salgado <END> para concretizar as suas reportagens.
-Trabalha com uma equipa reduzida.
-A mulher, arquitecta, dá-lhe apoio na produção, no design que transporta as fotografias.
-Depois conta com mais duas ou três pessoas num pequeno apartamento em <START:LOCAL> Paris <END> .
-Por detrás das suas imagens uma ideia, um projecto, uma produção, um fim.
-<START:PESSOA> Salgado <END> não fotografa à solta, não dispara sem objectivo.
-Por isso as suas fotografias demoram <START:TEMPO> anos <END> a fazer, editar, imprimir, mostrar.
-<START:TEMPO> Durante muitos anos <END> o fotógrafo trabalhou nas agências <START:ORGANIZACAO> Sygma <END> e <START:ORGANIZACAO> Gamma <END> e <START:TEMPO> mais tarde <END> foi membro da     <START:ORGANIZACAO> Magnum <END> .
-Para ter fundo de maneio para poder realizar muitas das fotografias que agora aparecem no " África ", trabalhava <START:TEMPO> nove meses <END> em <START:LOCAL> Paris <END> a fazer conselhos de ministros, política, faits-divers, para poder financiar os seus projectos especiais a preto-e-branco com cariz de autor, <START:TEMPO> durante os restantes três meses do ano <END> .
-O trabalho mais bem pago como fotojornalista foram as fotografias que fez por mero acaso do atentado a <START:PESSOA> Ronald Reagen <END> .
-A revista Time tinha-lhe pedido para seguir o Presidente <START:TEMPO> durante um mês <END> , ele fê-lo com alguma contrariedade e acabou por estar no sítio certo, à hora exacta, no instante decisivo.
-Havia mais dois fotógrafos a seu lado, um deles da <START:ORGANIZACAO> Associated Press <END> que fez fotos muito melhores, mais nítidas e mais perto, do que as dele, mas <START:PESSOA> Salgado <END> conseguiu mesmo assim com a venda dessas imagens, um pouco tremidas, comprar um pequeno apartamento em <START:LOCAL> Paris <END> .
-A obra de <START:PESSOA> Salgado <END> supera muito do que tem sido em geral <START:TEMPO> nos últimos 30 anos <END>  a fotografia documental.
-Não há outro fotógrafo na arte de testemunhar com uma tão extensa foto-galeria.
-Mas se o público enche aos milhares as suas exposições e corre a comprar os seus foto-álbuns, há uma elite da fotografia que questiona o sucesso comercial assente no testemunho da tragédia alheia, mesmo que haja no seu discurso visual e falado uma obsessão de esquerda pelo estado das coisas e pelos desígnios da Humanidade .
-É um fotógrafo que ainda atravessa  da película para o digital, que permanece um artesão, e que está angustiado porque duvida conseguir no mercado a tempo película a preto e branco para poder acabar o seu novo projecto.
-Com " África " regressamos ao tempo perdido e com <START:PESSOA> Salgado <END> revivemos o melhor que há na essência do fotojornalismo documental.
-<START:PESSOA> Luiz Carvalho <END> , fotojornalista do <START:ORGANIZACAO> Expresso <END>      
+
+<START:ACONTECIMENTO>CCB 15 ANOS<END>
+      | UM PRESENTE AOS ESPECTADORES
+    
+    
+
+      Com um grande concerto realizado ao ar livre, na
+      <START:LOCAL>Praça do Museu<END>
+      ,
+      <START:TEMPO>no dia 21 de Março de 1993<END>
+      , o
+      <START:ORGANIZACAO>CCB<END>
+      iniciava,
+      <START:TEMPO>há quinze anos<END>
+      , a sua actividade como centro de produção e apresentação de espectáculos e exposições  o maior de
+      <START:LOCAL>Portugal<END>
+      .
+O
+      <START:LOCAL>Grande Auditório<END>
+      viria a ser inaugurado
+      <START:TEMPO>seis meses depois<END>
+      ,
+      <START:TEMPO>a 22 de Setembro<END>
+      , com um recital da soprano catalã
+      <START:PESSOA>Montserrat Caballé<END>
+      , enquanto o
+      <START:LOCAL>Pequeno Auditório<END>
+      abrira as suas portas
+      <START:TEMPO>em Junho<END>
+      com um espectáculo do violoncelista
+      <START:PESSOA>Anner Bylsma<END>
+      .
+Neste arco temporal  <START:TEMPO>de 15 anos<END> 
+      , o
+      <START:ORGANIZACAO>CCB<END>
+      apresentou ao público de
+      <START:LOCAL>Lisboa<END>
+      artistas tão diversos como
+      <START:PESSOA>Sviatoslav Richter<END>
+      e
+      <START:PESSOA>Cecilia Bartoli<END>
+      ,
+      <START:PESSOA>Pina Bausch<END>
+      et
+      <START:PESSOA>Pippo Delbono<END>
+      ,
+      <START:PESSOA>Peter Brook<END>
+      e
+      <START:PESSOA>Jordi Savall<END>
+      ,
+      <START:PESSOA>Philip Glass<END>
+      et
+      <START:PESSOA>Keith Jarrett<END>
+      , a
+      Royal Shakespeare Company
+      e o
+      Piccolo Teatro di Milano
+      ,
+      <START:PESSOA>Robert Lepage<END>
+      e a companhia
+      Cheek by Jowl
+      , a companhia de ópera do
+      <START:ORGANIZACAO>Teatro Mariinski<END>
+      de
+      <START:LOCAL>S.
+Petersburgo<END>
+      e
+      The Wooster Group
+      .
+Aqui se estrearam os
+      The Gift
+      , aqui actuaram
+      <START:PESSOA>Maria João Pires<END>
+      e
+      <START:PESSOA>Bernardo Sassetti<END>
+      , aqui se apresentaram os
+      Madredeus
+      e
+      GNR
+      ,
+      <START:PESSOA>Sérgio Godinho<END>
+      e
+      <START:PESSOA>Luís Represas<END>
+      ,
+      <START:PESSOA>Jorge Palma<END>
+      e
+      <START:PESSOA>Mariza<END>
+      .
+Os visitantes do
+      <START:LOCAL>CCB<END>
+      puderam ver <START:TEMPO>nestes anos<END> exposições de
+      <START:PESSOA>Roy Lichtenstein<END>
+      e
+      <START:PESSOA>Frida Kahlo<END>
+      , de
+      <START:PESSOA>Robert Rauschenberg<END>
+      e de
+      <START:PESSOA>Paula Rêgo<END>
+      , de
+      <START:PESSOA>Antoni Tàpies<END>
+      e de
+      <START:PESSOA>Helena Almeida<END>
+      , de
+      <START:PESSOA>Júlio Pomar<END>
+      e de
+      <START:PESSOA>Sabine Hornig<END>
+      , de
+      <START:PESSOA>Candida Höfer<END>
+      e de
+      <START:PESSOA>Sebastião Salgado<END>
+      , de
+      <START:PESSOA>Aleksander Rodchenko<END>
+      e de
+      <START:PESSOA>Louise Bourgeois<END>
+      .
+<START:TEMPO>Durante estes anos<END> de viragem <START:TEMPO>do século<END>, o
+      <START:LOCAL>CCB<END>
+      acolheu alguns dos maiores espectáculos apresentados em
+      <START:LOCAL>Lisboa<END>
+      , tornando-se um dos equipamentos culturais de referência do país e um parceiro crescentemente procurado por insituições culturais internacionais.
+O balanço <START:TEMPO>desta década e meia<END> de actividade praticamente ininterrupta (o
+      <START:LOCAL>Centro<END>
+      só fecha
+      <START:TEMPO>no Dia de Natal<END>
+      ) mede-se pela frequência diária de centenas de pessoas, que habitam os espaços de estudo e lazer do
+      <START:LOCAL>CCB<END>
+      , além dos muitos milhares que ferquentam as suas actividades.
+<START:TEMPO>Em 2006<END>
+      ,
+      <START:VALOR>150.000<END>
+      pessoas assistiram a espectáculos,
+      <START:VALOR>200.000<END>
+      visitaram as exposições,
+      <START:VALOR>90.000<END>
+      frequentaram reuniões e congressos,
+      <START:VALOR>20.000<END>
+      crianças participaram em actividades de pedagogia e animação.
+É por isso que as comemorações dos <START:VALOR>15 anos<END>
+      de actividade do
+      <START:ORGANIZACAO>CCB<END>
+      , que decorrerão
+      <START:TEMPO>ao longo do ano de 2008<END>
+      , vão ser especialmente orientadas para o público que fez do
+      <START:LOCAL>CCB<END>
+      um equipamento indipensável na vida cultural da cidade.
+Não editaremos álbuns auto-congratulatórios nem promoveremos grandes jantares de celebração; não lançaremos fogo de artifício nem nos envolveremos em extravagâncias de programação que estariam para lá da nossa dimensão e recursos.
+Investiremos tudo o que está ao nosso alcance para tornar a programação de espectáculos
+      <START:TEMPO>de 2008<END>
+      mais acessível aos frequentadores do
+      <START:ORGANIZACAO>CCB<END>
+      .
+Assim, um conjunto de espectáculos programados para o
+      <START:LOCAL>Grande Auditório<END>
+      foi escolhido para integrar a série
+   <START:ACONTECIMENTO>CCB 15 Anos<END>, em que o leque de preços se situa em média
+      <START:VALOR>30%<END>
+      abaixo dos preços normalmente praticados para espectáculos semelhantes, mantendo-se além disso os descontos habituais.
+Mais: nos casos em que isso seja tecnicamente possível, os lugares de
+      Galeria
+      (em pé, <START:TEMPO>por vezes<END> com visibilidade reduzida) serão postos à venda ao preço único de
+      <START:VALOR>5 EUR<END>
+      (estes naturalmente sem desconto), permitindo que toda a gente tenha acesso aos espectáculos de maior atractividade para o público.
+As comemorações terão assim início já
+      <START:TEMPO>em Dezembro<END>
+      , com a apresentação da
+      
+        Oratória de Natal
+        de
+        <START:PESSOA>J.
+S. Bach<END>
+        
+      pela
+      Akademie für Alte Musik
+      e o
+      RIAS Kammerchor
+      de
+      <START:LOCAL>Berlim<END>
+      , para a qual o preço dos bilhetes varia entre os
+      <START:VALOR>5<END>
+      (
+      Galerias
+      ) e os
+      <START:VALOR>25 EUR<END>
+      (
+      1ª Plateia
+      );
+      <START:TEMPO>em Janeiro<END>
+      , a ópera visual Operação Orfeu, apresentada pela companhia dinamarquesa
+      Hotel ProForma
+      , será também um espectáculo
+      <START:ACONTECIMENTO>CCB 15 Anos<END>
+      (bilhetes
+      <START:VALOR>entre 15 e 20 EUR<END>
+      ):
+     <START:ACONTECIMENTO>CCB 15 Anos<END>
+      será também o ciclo de piano
+      <START:ACONTECIMENTO>Beethoven 2008<END>
+      (cinco recitais com o preço único de
+      <START:VALOR>15 EUR<END>
+      por concerto).
+E
+      <START:TEMPO>em Fevereiro<END>
+      haverá três espectáculos integrados nas comemorações : o concerto do quinteto de
+      <START:PESSOA>Enrico Rava<END>
+      , um dos maiores trompetistas de jazz da actualidade, oferecerá preços
+      <START:VALOR>entre os 5 e os 20 EUR<END>
+      ; as duas récitas da coreografia de
+      <START:PESSOA>William Forsythe<END>
+      Impressing the Czar, pelo
+      Ballet Real da Flandres
+      , terão bilhetes
+      <START:VALOR>entre 5 e 30 EUR<END>
+      ; e a
+      <START:ACONTECIMENTO>Carta Branca a Jorge Palma<END>,
+      <START:TEMPO>no último dia do mês<END>
+      , propõe entradas
+      <START:VALOR>entre 5 e 20 EUR<END>
+      .
+Mas a festa vai continuar
+      <START:TEMPO>ao longo do ano de 2008<END>
+      .
+Cada edição do
+      Programa de Actividades
+      assinalará com o selo
+      <START:ACONTECIMENTO>CCB 15 Anos<END>
+      os espectáculos integrados nesta oferta especial.
+E contamos com todos, nesta comemoração de uma data que deve ser pretexto para uma renovação da nossa ligação com o público que connosco habita, <START:TEMPO>todos os dias<END>,
+      <START:TEMPO>de há 15 anos para cá<END> 
+      , o
+       <START:LOCAL>Centro Cultural<END> de <START:LOCAL>Belém<END>
+      .
+--DOCSTART--
+    
+
+      ONDE ESTÁ O
+      PSD
+      ?
+É só uma questão de tempo até os jornais começarem a perguntar onde está o
+      <START:ORGANIZACAO>PSD<END>
+      , onde está
+      <START:PESSOA>Menezes<END>
+      , onde está a oposição vinda do partido que é suposto "liderá-la", que não se vê em parte nenhuma.
+O
+      <START:ORGANIZACAO>PP<END>
+      , o
+      <START:ORGANIZACAO>PCP<END>
+      e o
+      <START:ORGANIZACAO>BE<END>
+      , nalguns casos mesmo alguns raros dissidentes do
+      PS
+      socrático, têm criticado o
+      <START:ORGANIZACAO>Governo<END>
+      , enquanto o
+      <START:ORGANIZACAO>PSD<END>
+      passa entre as sombras, ou ficando pura e simplesmente silencioso, ou murmurando umas críticas de circunstância que ninguém ouve, ou, em muitos casos, concordando com o
+      <START:ORGANIZACAO>Governo<END>
+      e o
+      <START:ORGANIZACAO>PS<END>
+      .
+O único "não" sonoro que se ouviu foi a recusa do empréstimo à
+       <START:ORGANIZACAO>Câmara<END> de <START:LOCAL>Lisboa<END>
+      , acompanhado por uma condução política que primou pela completa inépcia.
+Esse é daqueles que mais valia não se ter ouvido, sem com isso dizer que
+      <START:PESSOA>Costa<END>
+      tinha razão, que não a tinha.
+A pergunta do "onde está" é tradicional na comunicação social e nalguns casos foi feita com estragos consideráveis, como aconteceu com
+      <START:PESSOA>Vítor Constâncio<END>
+      à frente do
+      <START:ORGANIZACAO>PS<END>
+      .
+A pergunta em si é pouco relevante, porque o que a comunicação social quer é festa e, quando acha que não a tem, clama por actores no palco.
+Admito que os tempos agora não estarão como estavam <START:TEMPO>no tempo<END> de <START:PESSOA>Constâncio<END>
+      , nem a dedicação carinhosa da comunicação social ao
+      <START:ORGANIZACAO>PSD<END>
+      é idêntica à que
+      na época 
+      prodigalizava ao
+      <START:ORGANIZACAO>PS<END>
+      , cujo estado a preocupava.
+Mas, quando vier a pergunta, será mais para a coreografia do que para a substância, porque esta está há muito respondida:
+      <START:TEMPO>de há uns tempos a esta parte<END>
+      , o
+      PSD
+      está onde está o
+      PS
+      .
+A razão pela qual o
+      PSD
+      se ausentou para parte incerta foi explicada na pouco noticiada conferência de imprensa "oferecedora de pactos", antecedendo o debate parlamentar de "primeira oportunidade" entre
+      <START:PESSOA>Sócrates<END>
+      e
+      <START:PESSOA>Santana Lopes<END>
+      .
+Desde aí que se conhecem as razões de substância para este já longo silêncio: o
+      <START:ORGANIZACAO>PSD<END>
+      aproximou-se politicamente do
+      <START:ORGANIZACAO>PS<END>
+      como nunca esteve <START:TEMPO>antes<END>, ao ponto de se oferecer para co-governar em praticamente todas as áreas.
+Na conferência e em declarações avulsas - da política externa à política europeia, passando pela defesa, segurança interna e legislação eleitoral, e acabando no célebre "pacto das obras públicas", a que se soma o "pacto da justiça" vindo <START:TEMPO>do tempo<END> de <START:PESSOA>Marques Mendes<END>
+      -, o
+      <START:ORGANIZACAO>PSD<END>
+      faz uma abdicação da diferença, da alteridade, da oposição.
+O que nos é dito é que
+      <START:TEMPO>em Janeiro<END>
+      tudo vai mudar, aparecerão propostas e tomadas de posição, vai começar a oposição "a sério", quando estiverem gabinetes e assessores a funcionar.
+É um pouco bizarro que se anuncie um tempo de adiamento da oposição, uma paragem para uma retoma anunciada, quando
+      <START:TEMPO>antes<END>
+      tudo era tempo urgente.
+<START:PESSOA>Menezes<END>
+      criticava
+      <START:PESSOA>Marques Mendes<END>
+      por não fazer oposição
+      <START:TEMPO>dia a dia<END>
+      ,
+      <START:TEMPO>minuto a minuto<END>
+      , fogosa, ardente, caso a caso, para o que, dizia, não faltavam temas nem razões e que "com ele" isso iria mudar radicalmente.
+Já não me refiro às idas às fábricas que encerraram - entretanto já encerraram várias -, mas a um estilo prometido de pathos oposicionista, comunhão com o povo e de entusiasmo militante, que, de todo, não se vê.
+Não é que o estilo prometido fosse bom, mas foi o que foi prometido, antes deste enorme esforço de respeitabilidade fabricado por agências de comunicação.
+Estas flutuações matam o flutuante, mas, infelizmente, são o que é normal, quando se actua para uma sociedade do espectáculo.
+Permitam-me por isso que duvide da ofensiva putativa
+      <START:TEMPO>de Janeiro<END>
+      , porque a diferença não se faz com mais ou menos "estudos", "porta-vozes" ou "governos-sombra".
+Faz-se em primeiro lugar com políticas e não faltaram ocasiões
+      <START:TEMPO>nos últimos meses<END>
+      para se ser firme e duro com a política de um governo que está a empobrecer-nos a todos em nome de um modelo "social" que não tem futuro.
+Isto, na hipótese de o
+      <START:ORGANIZACAO>PSD<END>
+      ter um modelo diferente, que só pode ser mais liberal, mesmo que só moderadamente liberal, o que já não era mau.
+Quando dois partidos se colam tanto que pouco se diferenciam, o que sobra para a luta política tende a ser incidental, conjuntural: esta nomeação, aquela opção por
+      <START:LOCAL>Ferreira de Cima<END>
+      em vez de ser por
+      <START:LOCAL>Ferreira de Baixo<END>
+      e várias variantes de questões "fracturantes", que em muitos casos são distracções dos problemas centrais de poder político e remetem para agendas em que nem sequer é líquido que o
+      <START:ORGANIZACAO>Estado<END>
+      e o poder político devam entrar.
+Este "bloco central" político esteve sempre dentro do
+      <START:ORGANIZACAO>PSD<END>
+      , como esteve e está no
+      <START:ORGANIZACAO>PS<END>
+      e é uma sobrevivência de laços de interesses profundos representados nos dois partidos e que, depois, encontra expressão no rastro salazarista antidemocrático dos consensos.
+<START:TEMPO>Nos primeiros anos<END>
+      da democracia, este "bloco central" concentrava-se em exercer o poder através da economia nacionalizada
+      <START:TEMPO>pós-1975<END>
+      , daí poder ser representado simbolicamente na cena real de responsáveis dos dois partidos reunidos a distribuir os lugares de gestores públicos nas empresas: estes dois são para mim, este fica para ti, este vai para a
+      <START:ORGANIZACAO>TAP<END>
+      e dou-te dois na
+      <START:ORGANIZACAO>CP<END>
+      , mas este da
+      <START:ORGANIZACAO>EDP<END>
+      não pode ser comparado como este na
+      <START:ORGANIZACAO>Imprensa Nacional<END>
+      , etc., etc.
+Este tipo de partilhas que durou
+      <START:TEMPO>até há muito pouco tempo<END>
+      e em muitas áreas, a começar nas autarquias e nas empresas municipalizadas, ainda está longe de ter acabado.
+Mas o "bloco central de interesses" evoluiu com a economia, e adaptou-se às privatizações, deslocou-se para fora do
+      <START:ORGANIZACAO>Estado<END>
+      e foi para os grupos económicos, para os bancos, as seguradoras, as empresas de construção civil, etc., etc.
+Quase que se pode formular uma regra simples: quanto mais depender um grupo económico de decisões do governo para conduzir a sua actividade empresarial, tanto maior é a presença deste "bloco central de interesses" no seu seio.
+A deslocação do
+      <START:ORGANIZACAO>Estado<END>
+      para o privado significa que os mecanismos de influência tendem a deslocar-se de fora para dentro, a centrar-se na mediação de negócios, assentes em empresas de consultadoria e em grandes escritórios de advogados, que todos sabem serem as portas certas para chegar ao governo, este e os anteriores.
+Quando um partido político, ainda por cima na oposição, se demarca deste jogo de interesses instalado, as suas lideranças são sujeitas a um processo que começa pela descredibilização e acaba na tentativa de expulsar os incontroláveis.
+<START:PESSOA>Marcelo Rebelo de Sousa<END>
+      , <START:TEMPO>num momento<END> da sua liderança, quando contestou alguns grandes negócios, foi sujeito a essa campanha.
+É verdade que no
+      <START:ORGANIZACAO>PSD<END>
+      há a presença deste "bloco central", mas há também uma tradição de ruptura que,
+      no passado, tornou o partido na principal força reformista em
+      <START:LOCAL>Portugal<END>
+      .
+O
+      <START:ORGANIZACAO>PS<END>
+      foi crucial na defesa da democracia política
+      <START:TEMPO>em 1975<END>
+      , o
+      <START:ORGANIZACAO>PSD<END>
+      foi crucial na normalização democrática.
+Sem o
+      <START:ORGANIZACAO>PSD<END>
+      , na fórmula da
+      <START:ORGANIZACAO>AD<END>
+      de
+      <START:PESSOA>Sá Carneiro<END>
+      , não se iria tão longe e tão cedo no fim da presença militar na tutela da democracia.
+Sem
+      <START:PESSOA>Cavaco Silva<END>
+      não haveria uma cultura de "bom governo", o fim da
+      Constituição
+      socializante na economia, o retorno à economia de mercado, o boom de infra-estruturas, a democratização do ensino, uma modernização imperfeita mas real do país.
+Ambos associaram um programa de reformas à alteração das condições políticas dominantes em momentos desejados e sentidos como de ruptura:
+      <START:PESSOA>Sá Carneiro<END>
+      e
+      <START:PESSOA>Freitas do Amaral<END>
+      mostraram que outros partidos podiam governar
+      <START:LOCAL>Portugal<END>
+      que não apenas o
+      <START:ORGANIZACAO>PS<END>
+      , e
+      <START:PESSOA>Cavaco<END>
+      abriu caminho para as maiorias absolutas como condição de governabilidade.
+Se estamos no caminho do bonnet blanc, blanc bonnet, como dizem os franceses, esta é a melhor receita para matar o lado reformista do
+      <START:ORGANIZACAO>PSD<END>
+      , o de
+      <START:PESSOA>Sá Carneiro<END>
+      e
+      <START:PESSOA>Cavaco Silva<END>
+      .
+Sem esse lado reformista, o
+      PSD
+      ficará tão próximo do
+      <START:ORGANIZACAO>Governo<END>
+      e do
+      <START:ORGANIZACAO>PS<END>
+      que, à luz de um, não se vê a sombra do outro.
+E nem de holofote a laser, banhado no mais forte néon,
+      <START:PESSOA>Diógenes<END>
+      encontrará qualquer homem na cidade.
+--DOCSTART--
+    
+
+      Os fragmentos do satélite italiano
+      Bepposax
+      mergulharam
+      <START:TEMPO>na noite de ontem<END>
+      no oceano
+      Pacífico
+      , deixando aliviados os
+      <START:VALOR>mais de 30<END>
+      países _inclusive o
+      <START:LOCAL>Brasil<END>
+      _ que estavam sob risco de serem atingidos pelos destroços.
+Segundo informou a
+      <START:ORGANIZACAO>ASI<END>
+      (agência espacial italiana) <START:TEMPO>no fim da noite de ontem<END> por telefone, o impacto dos destroços teria ocorrido
+      <START:TEMPO>às 18h06<END>
+      (horário de
+        <START:LOCAL>Brasília<END>
+      ), numa área remota do oceano.
+Os italianos não devem conduzir operação para resgatar os detritos.
+Estimativas da agência davam conta de que
+      <START:VALOR>mais de 40<END>
+      pedaços, com
+      <START:VALOR>até 120 kg<END>
+      , poderiam resistir ao atrito com o ar e chegar ao solo.
+A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a
+      <START:ORGANIZACAO>Agência Espacial Brasileira<END>
+      , estavam prontas para qualquer contingência.
+O satélite, com massa total de
+      <START:VALOR>aproximadamente 1,4 tonelada<END>
+      , foi construído pelos italianos, em colaboração com a
+      <START:ORGANIZACAO>Holanda<END>
+      , para o estudo dos raios X vindos do espaço cósmico.
+O equipamento foi lançado ao espaço
+      <START:TEMPO>em 1996<END>
+      , numa órbita baixa (
+      <START:VALOR>cerca de 600 km<END>
+      de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a
+      linha do Equador
+      .
+A missão científica da nave foi concluída
+      <START:TEMPO>em 30 de abril de 2002<END>
+      .
+Depois disso, o satélite deixou de ter sua órbita corrigida.
+O atrito com as camadas mais altas da atmosfera gradativamente diminuiu a altitude, o que culminou com a reentrada,
+      <START:TEMPO>ontem<END>
+      .
+Como a volta à
+      Terra
+      não foi realizada de forma controlada (como aconteceu com as
+      <START:VALOR>135 toneladas<END>
+      da estação espacial
+      Mir
+      ,
+      <START:TEMPO>em 2001<END>
+      ), era impossível prever exatamente onde os destroços iriam cair.
+(SN)
+  
 
   --DOCSTART--
     
- <START:PESSOA> José Sócrates <END> apresentou balanço <START:TEMPO> dos últimos seis meses <END>        
- <START:ORGANIZACAO> UE <END> : <START:PESSOA> Durão Barroso <END> elogia prestação da presidência portuguesa        
- O  presidente da <START:ORGANIZACAO> Comissão Europeia <END> elogiou <START:TEMPO> hoje <END> a prestação da presidência portuguesa da <START:ORGANIZACAO> UE <END> e a «competente liderança» do primeiro-ministro, <START:PESSOA> José Sócrates <END> , na condução dos destinos europeus <START:TEMPO> no segundo semestre deste ano <END> .
-<START:PESSOA> Durão Barroso <END> discursava na sessão plenária extraordinária do <START:ORGANIZACAO> Parlamento Europeu <END> , durante a qual <START:PESSOA> José Sócrates <END> apresentou os resultados da presidência portuguesa da <START:ORGANIZACAO> UE <END> .
-<START:TEMPO> O ano de "2007 <END> mostrou que a <START:ORGANIZACAO> Europa <END> está à altura dos seus compromissos", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu.
-<START:PESSOA> Durão Barroso <END> lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os <START:ORGANIZACAO> Estados-membros <END> , o que foi já <START:TEMPO> hoje <END> feito pela <START:ORGANIZACAO> Hungria <END> , o primeiro dos <START:VALOR> 27 <END> países a cumprir esta etapa.
-No seu discurso, o dirigente europeu disse concordar com a apreciação feita <START:TEMPO> minutos antes <END> por <START:PESSOA> José Sócrates <END> sobre os seis meses da presidência portuguesa, principalmente a assinatura do Tratado de Lisboa , novo relacionamento com o <START:ORGANIZACAO> Brasil <END> e a cimeira com <START:ORGANIZACAO> África <END> .
-<START:PESSOA> Durão Barroso <END> acrescentou à longa lista de sucessos enunciados por <START:PESSOA> Sócrates <END> outros que considerou "também importantes", como a decisão de criar o <START:ORGANIZACAO> Instituto Europeu de Tecnologia <END> e o lançamento de uma Política Marítima Europeia .
-Entre os desafios que esperam a <START:ORGANIZACAO> UE <END> <START:TEMPO> nos próximos meses <END> , o  presidente da <START:ORGANIZACAO> Comissão Europeia <END> destacou a necessidade de os <START:ORGANIZACAO> 27 <END> ajudarem a encontrar uma solução para resolver a questão do <START:LOCAL> Kosovo <END> .
-"Isto é um teste para a <START:ORGANIZACAO> Europa <END> onde não podemos falhar", sublinhou.
---DOCSTART--
+
+      O
+      Kuduro
+      e nós.
+Teria mesmo algo a ver?
+Ku
+      , palavra e não palavrão, parece vir do mais puro vernáculo do
+      Kimbundo
+      (
+      MataKu
+      =nádegas, assento plural de ritaku), principal língua falada em
+      <START:LOCAL>Luanda<END>
+      ,
+      <START:LOCAL>Angola<END>
+      (da qual falamos centenas de vocábulos, sem saber - inclusive
+      Ku
+      , certo?)
+O sentido figurado da palavra é, exatamente, o mesmo que usamos no
+      <START:LOCAL>Brasil<END>
+      :
+      Bunda
+      (palavra aliás, oriunda também do mesmo
+      Kimbundo
+      ), literalmente traduzida para o portugês também como nádegas.
+O sentido da expressão
+      Kuduro
+      poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece:
+      Kuduro
+      =
+      Bunda
+      imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo.
+Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.
+Contudo, dança livre que é, no
+      Kuduro
+      também se pode rebolar, é claro, basta querer.
+Dito isto, o
+      Kuduro
+      , inserido no âmbito da cultura
+      Hip Hop
+      , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o
+      Funk
+      carioca e o
+      Kwaito
+      (da
+      <START:LOCAL>África do Sul<END>
+      ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na
+      América do Norte
+      .
+Mas o
+      Kuduro
+      também é um símbolo dos mais fortes,
+      <START:TEMPO>neste momento<END>
+      , da enorme capacidade da resistência cultural das populações não-brancas, do <START:TEMPO>outrora<END> chamado
+      Terceiro Mundo
+      , diante da pressão globalizante, sinônimo evidente de aculturação.
+Kuduro Checkup
     
- Por que não lançar foguetões de água e aprender a fazer relógios de Sol  ?
-:: <START:TEMPO> 2007-12-13 <END>        
- Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar, <START:TEMPO> entre sexta-feira e domingo <END> , em <START:LOCAL> Cascais <END> , à disposição dos visitantes da <START:ACONTECIMENTO> FASCINIO - Feira de Astronomia e Ciência <END> .
-Organizada pelo <START:ORGANIZACAO> Núcleo Interactivo de Astronomia <END> ( <START:ORGANIZACAO> NUCLIO <END> ) no  <START:LOCAL> Centro de Interpretação Ambiental <END> da <START:LOCAL> Ponta do Sal <END> , em <START:LOCAL> São Pedro do Estoril <END> , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma "procura de asteróides", actividade que a instituição promove <START:TEMPO> regularmente <END> nas escolas do concelho.
-"A feira destina-se ao público em geral, embora o programa <START:TEMPO> de sexta-feira <END> esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e <START:TEMPO> sábado <END> tenha actividades para os professores, com uma pequena mostra das actividades do <START:ORGANIZACAO> NUCLIO <END> ", disse à Agência Lusa a astrónoma <START:PESSOA> Rosa Doran <END> .        
- "
-<START:TEMPO> Sexta-feira <END> estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do Sol com Telescópios  e construir enfeites  <START:TEMPO> de Natal <END>  com motivos de astronomia", acrescentou.
-<START:TEMPO> No sábado <END> o programa prevê observação de supernovas e do Sol e apresentação a professores do projecto ' Hands-On Universe ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito.
-Sol para Todos    
- Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do  <START:ORGANIZACAO> Observatório Astronómico <END> da <START:ORGANIZACAO> Universidade <END> de <START:LOCAL> Coimbra <END>  " Sol para Todos ".
-"O    <START:ORGANIZACAO> Observatório <END>   de   <START:LOCAL> Coimbra <END>  tem um grande acervo de imagens do Sol , que registam <START:TEMPO> diariamente <END> <START:TEMPO> desde os anos vinte do século passado <END> , e estão a digitalizar essas imagens para que possam estar à disposição das escolas", explica <START:PESSOA> Rosa Doran <END> , realçando que desta forma "os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol <START:TEMPO> nas últimas décadas <END> e comparar essa evolução, por exemplo, com as mudanças do clima".
-Segundo a responsável, um dos principais objectivos da <START:ACONTECIMENTO> FASCINIO <END> é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, "muito ligados" à investigação de vanguarda e pouco reconhecidos pelo grande público.
-[...]    
-A Nossa Galáxia    
- O <START:ORGANIZACAO> NUCLIO <END> vai por isso assinar <START:TEMPO> sábado <END> um protocolo com a  <START:ORGANIZACAO> Câmara Municipal <END> de <START:LOCAL> Cascais <END> para que o <START:LOCAL> Centro de Interpretação Ambiental <END> seja disponibilizado para as suas actividades junto da comunidade escolar.
-De acordo com o documento, a autarquia irá ainda apoiar a formação agendada <START:TEMPO> para o presente ano lectivo <END> com vinte mil euros .
-Durante a feira será também apresentado o livro de divulgação científica " Passeio Aleatório pela ciência do dia-a-dia ", com a presença do autor <START:PESSOA> Nuno Crespo <END> .
-Ainda <START:TEMPO> no sábado <END> , a investigadora do  <START:ORGANIZACAO> Centro de Astronomia <END>   da   <START:ORGANIZACAO> Universidade <END> do <START:LOCAL> Porto <END> <START:PESSOA> Catarina Lobo <END> , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra " <START:ACONTECIMENTO> A nossa Galáxia e as outras: Ilhas no Universo <END> ".
-<START:TEMPO> No domingo <END> está previsto que o público em geral possa participar no lançamento de foguetões de água e em <START:ACONTECIMENTO> Oficinas de Astronomia <END> , com a construção de Relógios de Sol  , Espectroscópios  , Astrolábios  , Planisférios  e outros materiais de observação.
-A iniciativa termina com uma palestra por <START:PESSOA> João Fernandes <END> , o coordenador nacional <START:TEMPO> do ano internacional <END> da astronomia, que se assinala <START:TEMPO> em 2009 <END> .
---DOCSTART--
+
+      No
+      Kuduro
+      angolano - e vejam vocês mesmos que coisa curiosa!
+- os passos do mix, da fusão com o break, são o mais puro e carioca dos
+      Sambas
+      .
+Incrível!
+Acreditem, mas, os
+      Pupilos do Kuduro
+      , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa
+      Ala dos Malandrinhos
+      dançava lá
+      <START:TEMPO>naqueles bem passados anos 60<END>
+      .
+Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos
+      Sambas
+      .
+Pode?
+Teria sido aquela minha saudosa rapaziada de
+      <START:LOCAL>Padre Miguel<END>
+      a inventora do
+      Kuduro
+      ?
+Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do
+      Kuduro
+      por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais.
+Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho
+      Sampler
+      , por exemplo).
+Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do
+      Mocinho
+      poderia ser atribuído a sociedade neoliberal globalizada, ao
+      Capitalismo
+      em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.
+Besteira.
+Baita injustiça, sobretudo.
+Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.
+O
+      Sampler
+      e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes.
+Se disponíveis estiverem, ferramentas de cultura serão.
+Se não estiverem, outras ferramentas se inventarão.
+Aliás, o que um
+      Sampler
+      faz mesmo?
+Não muda nada.
+Copia.
+E haja periferia e miséria para samplear.
+A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.
+Vírus no sistema.
+O
+      Mocinho
+      verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.
+----------------------
     
-TROPA DE ELITE, OSSO DURO DE ROER, PEGA UM PEGA GERAL, TAMBÉM VAI PEGAR VOCÊ!
-<START:TEMPO> Ontem <END> , na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas.
-Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas.
-Continuei rumo à sessão <START:TEMPO> das 19h <END> no <START:LOCAL> Espaço de Cinema <END> em <START:LOCAL> Botafogo <END> .
-Trinta passos adiante parei e lembrei do recente caso " <START:ACONTECIMENTO> Tropa de Elite <END> : o filme tinha vazado no pirata, e <START:TEMPO> desde o início da semana <END> estava sendo vendido nas ruas do <START:LOCAL> Rio <END> .
-Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia.
-Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso.
-Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata.
-Logo encontrei dois títulos nacionais:Xuxa Gêmeas e Ó paí ó .
-Perguntei se ele tinha Tropa de Elite, o rapaz branquelo, com cara de rapper zona sul, boné e bermudão Billabong respondeu:    
-- Com certeza!
-Tem sim.
-Quis saber mais sobre o filme, como se só tivesse ouvido falar através do burburinho das ruas:    
-- Ah, esse não é o filme que teve os armamentos roubados no "Chapéu Mangueira"?
-- É esse mesmo.
-É com o <START:PESSOA> Olavo <END> da novela.
-- Que <START:PESSOA> Olavo <END> ?
-- O <START:PESSOA> Wagner <END> , <START:PESSOA> Wagner Moura <END> .
-- Ah legal, então é esse mesmo.
-Quanto é?
-- É cinco.
-- E a qualidade é boa?
-- É sim, é DVD mesmo, não é VCD não.
-Mídia roxinha!
-- Tá completo ne?
-Não falta cena não!?
-- Completo!
-- Beleza então, se a qualidade não for boa eu volto aqui <START:TEMPO> amanhã <END> e troco.
-- Tranqüilo, tá garantido.
-E tava mesmo.
-A qualidade realmente era perfeita, som e imagem de primeira, cartelas e intertítulos em inglês!
-Só faltaram os créditos finais.
-Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de PM  à paisana.
-Ficou ali, meio de esguelha, prestando atenção, e eu, ao lado, esperando o produto.
-Parecia que a conversa alheia fechava alguma combinação.
-Cutuquei:    
-- E aê, tem o Tropa de Elite ou não?
-- perguntei de novo, querendo sair logo pro cinema.
-- Tem sim.
-Sai um Tropa aí - disse o branquelo pro chapa.
-O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia Tropa de Elite escrito com uma fonte meio "Linha Direta" e umas fotos não identificáveis que deviam reproduzir cenas do filme.
-Dentro vinha o DVD da "mídia roxinha", abri pra constatar.
-Me entregou logo dizendo:    
-- Também tem aquele ali, com o <START:PESSOA> Lázaro Ramos <END> , "Ó pái ó".
-- Ó Paí ó , to ligado, esse eu já vi - o que não era verdade, só para não estender mais a transação.
-- Também tem o Caixa Dois, sabe qual é?
-- Sei sim, mas <START:TEMPO> hoje <END> só quero o Tropa mesmo - já quase íntimo do filme do <START:PESSOA> Padilha <END> .
-Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por <START:VALOR> 5 pratas <END> , menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os Bopes, roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como <START:PESSOA> Tulé Peak <END> (diretor de arte), <START:PESSOA> Braulio Mantovani <END> (roteirista) e <START:PESSOA> Daniel Rezende <END> (montador) - não por acaso, o mesmo trio ternura por trás de Cidade de Deus -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc.
-Uma trabalheira danada.
-E depois de tudo isso, ver um pedaço mutilado do seu "filho" de <START:VALOR> 3 anos <END> parar na mão de geral por <START:VALOR> 5 real <END> (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na <START:VALOR> 16ª <END> versão da montagem).
-É um caso inédito para o cinema brasileiro, e talvez para a <START:ORGANIZACAO> Polícia <END> também.
-Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora "não-ação" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história.
-O vazamento da cópia já está sendo investigado pela própria <START:ORGANIZACAO> Polícia <END> .
-Haja metalinguagem cinematográfica!
-Resta saber como isso vai repercutir daqui pra frente.
-Vai ser bom ou não?
-Quem pode ter certeza sobre o que o <START:PESSOA> diretor José Padilha <END> diz à Folha de S. Paulo: "que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro."
-Ou será que o boca a boca vai fazer o filme estourar?
-Vai virar reportagem do Fantástico?
-Ganhar as páginas policiais dos jornais mais uma vez?
-Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda.
-O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador.
-Um thriller que combina a crueza esquemática de Notícias de uma guerra particular  e a cinematografia exuberante de Cidade de Deus.
-Esse é só o começo de uma grande História que vem por aí.
-Em breve, num cinema perto de você.
+Inside the Kuduro
+    
+(em português não ficaria melhor não)
+    
+
+      Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo.
+É esta a célula rítmica base, a matriz, o
+      DNA
+      , sobre o qual se criará os sons que bem entendermos.
+Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.
+No caso do
+      Kuduro
+      clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava
+      <START:TEMPO>nos anos 70<END>
+      ,
+      <START:TEMPO>80<END>
+      de
+      Kabetula
+      , um ritmo muito popular em
+      <START:LOCAL>Luanda<END>
+      , semelhante ao
+      Semba
+      , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o
+      Kuduro
+      é uma variação do
+      Kuzukuta
+      , ritmo popular do carnaval angolano).
+Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do
+      <START:LOCAL>Brasil<END>
+      , 
+      <START:TEMPO>desde, pelo menos, o século 19<END>
+      ), tipicamente urbanos que são, vieram, provavelmente, do
+      Kaduke
+      , espécie de
+      Kuduro
+      surgido na cidade de
+      <START:LOCAL>Ambaça<END>
+      (
+      <START:LOCAL>Mbaka<END>
+      ), grande centro urbano e comercial (!)
+lá
+      <START:TEMPO>pelos idos de 1880<END>
+      (veja
+      Capello e Ivens
+      ), <START:TEMPO>no tempo<END> da colonização portuguesa em
+      <START:LOCAL>Angola<END>
+    
+    
+
+      Este
+      Kaduke
+      , talvez tenha gerado, a partir do mesmo processo, no
+      <START:LOCAL>Brasil<END>
+      colonial, o
+      Kalundu
+      que, mesclado à danças européias como a
+      Polka
+      e a
+      Mazurka
+      (espécies de danças de periferia brancas, populares na
+      Europa
+        central), deram numa dança popularíssima na
+      Corte
+      brasileira (um
+      Kuduro
+      colonial) chamada de
+      Lundu
+      .
+Pois não é que o
+      Kaduke
+      , o
+      Kalundu
+      e talvez até mesmo o
+      Jongo
+      formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente
+      <START:TEMPO>hoje<END>
+      no
+      <START:LOCAL>Brasil<END>
+      como
+      Samba
+      ?
+Viram só?
+Kuduro
+      e
+      Samba
+      : Tudo a ver.
+Fenômeno recorrente, efetivamente, existem manifestações como o
+      Kuduro
+      em todas as periferias do mundo.
+Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de
+      Break Dance
+      , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.
+Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do
+      <START:LOCAL>Rio<END>
+      , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros,
+      <START:PESSOA>James Brown<END>
+      e
+      <START:PESSOA>Michael Jackson<END>
+      ?
+Há break sim, mas, um pouquinho só.
+Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?
+Ora, é evidente que, olhando detidamente os movimentos de dança deste
+      Funk Carioca
+      , iremos encontrar a mesma filosofia coreográfica do
+      Kuduro
+      , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás,
+      <START:TEMPO>hoje<END>
+      banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).
+Assim como na
+      <START:LOCAL>África<END>
+      e no
+      <START:LOCAL>Brasil<END>
+      , na
+      <START:LOCAL>Índia<END>
+      , no
+      <START:LOCAL>Afeganistão<END>
+      , na
+      <START:LOCAL>Indonésia<END>
+      , a fórmula beat futurista somado à tradição, se repetirá.
+Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá.
+Para nós brasileiros, por exemplo, o
+      Kuduro
+      pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante
+      Periferia
+      .
+Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê.
+Somos do
+      Overmundo
+      , o pá!
+O Bicho, o vírus da maçã.
+Y love you
+      <START:LOCAL>Angola<END>
+      !
+(Em tempo: Em terra de cego, quem tem um olho, infelizmente é...
+caolho.)
 --DOCSTART--
 
-Protocolo de Quioto 
-Decreto 7/2002, <START:TEMPO> de 25 de Março <END> que aprova o Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas 
-Documentos relacionados com o PNALE
-Decisão da <START:ORGANIZACAO> Comissão Europeia <END> sobre o PNALE português
-Comunicado de imprensa da <START:ORGANIZACAO> COMISSÃO <END> - "Comércio de Emissões: a <START:ORGANIZACAO> Comissão <END> deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista" (IP/04/1250)
-Plano Nacional de Atribuição de Licenças de Emissão - PNALE 2005-2007  (versão notificada à <START:ORGANIZACAO> Comissão Europeia <END> )
-PNALE 2005-2007 - Relatório da Consulta Pública  
-Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007  
-Documentos relacionados com o Comércio Europeu de Licenças de Emissão
- Directiva 2003/87/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Concelho <END> , <START:TEMPO> de 13 de Outubro de 2003 <END> , relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL> Comunidade <END> e que altera a Directiva 96/61/CE do <START:ORGANIZACAO> Conselho <END> 
-Decreto-Lei n.º 233/2004, <START:TEMPO> de 14 de Dezembro <END> , alterado pelo Decreto-Lei n.º 243-A/2004, <START:TEMPO> de 31 de Dezembro <END> , que estabelece o regime de comércio de licenças de gases com efeito de estufa na <START:LOCAL> União Europeia <END>
-Decisão da Comissão n.º 156/2004, <START:TEMPO> de 29 de Janeiro de 2004 <END> , que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
-Regulamento (CE) n.º 2216/2004 da <START:ORGANIZACAO> Comissão <END> <START:TEMPO> de 21 de Dezembro de 2004 <END> , relativo a um sistema de registos normalizado e protegido em conformidade com a Directiva 2003/87/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Conselho <END> e a Decisão n.º 280/2004/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Conselho <END>
-International Emissions Trading Association, "Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme" (em inglês)
- Directiva 2004/101/CE do <START:ORGANIZACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO> Conselho <END> , <START:TEMPO> de 27 de Outubro de 2004 <END> , que altera a Directiva 2003/87/CE relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL> Comunidade <END> , no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto
 
+<START:ACONTECIMENTO>GP Brasil<END>: <START:PESSOA>Raikkonen<END> campeão do Mundo 
+
+
+FINLANDÊS DA FERRARI ARREBATOU TÍTULO CONTRA FAVORITISMO DA MCLAREN 
+
+
+O finlandês <START:PESSOA>Kimi Raikkonen<END> sagrou-se campeão do Mundo  de F1 vencendo o  <START:ACONTECIMENTO>GP<END> do <START:LOCAL>Brasil<END>, à frente do companheiro de equipa na Ferrari <START:PESSOA>Filipe Massa<END> e do espanhol <START:PESSOA>Fernando Alonso<END>.
+<START:PESSOA>Lewis Hamilton<END>, colega de <START:PESSOA>Alonso<END> na McLaren, não passou da <START:VALOR>7.ª<END> posição, depois de partir em vantagem pontual no <START:ACONTECIMENTO>Campeonato do Mundo<END>, e teve de contentar-se com o segundo lugar, com <START:VALOR>109<END> pontos, a apenas um do novo campeão, mas os mesmos que <START:PESSOA>Alonso<END>, embora com mais vitórias.
+Emoção
+
+
+Não faltou emoção em <START:LOCAL>Interlagos<END> no <START:LOCAL>Circuito José Carlos Pace<END> desde a primeira volta da corrida decisiva do <START:ACONTECIMENTO>Mundial<END>, incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
+O Ferrari de <START:PESSOA>Raikkonnen<END> partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando <START:PESSOA>Alonso<END>, que por sua vez ganhara uma posição colega <START:PESSOA>Lewis Hamilton<END>.
+O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a <START:VALOR>8.ª<END> posição, atrás dos Toyota.
+Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na <START:VALOR>18.ª<END> posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
+A <START:VALOR>8<END> voltas do fim, <START:PESSOA>Raikkonen<END> liderava e já era campeão virtual, atrás de <START:PESSOA>Alonso<END> (<START:VALOR>3.º<END> na prova) e <START:PESSOA>Hamilton<END> (<START:VALOR>8.º<END>) : o domínio da Ferrari era total na corrida, e só destinatário do título era incerto...
+Mas a <START:VALOR>5<END> voltas do fim o finlandês fez a melhor volta do dia, enquanto <START:PESSOA>Hamilton<END> era apenas <START:VALOR>7.º<END>... <START:TEMPO>a 15 segundos<END>  de <START:PESSOA>Heidfeld<END>, e muito longe do <START:VALOR>5.º<END> lugar que lhe daria o título.
+Festa à brasileira para <START:PESSOA>Raikkonen<END> com dobradinha de <START:PESSOA>Massa<END> bem saborosa para a Ferrari:  <START:ACONTECIMENTO>GP<END> do <START:LOCAL>Brasil<END> e <START:ACONTECIMENTO>Mundiais<END> de pilotos e construtores... 
+
+
+  --DOCSTART--
+
+Onde ficam as <START:LOCAL>Ilhas Marquesas<END>?
+De que organização é que <START:PESSOA>Javier Solana<END> era secretário-geral?
+O que é a <START:ORGANIZACAO>EFTA<END>?
+Quando é que foi criada?
+Que cinco países da <START:ORGANIZACAO>EFTA<END> se juntaram ao EEE"EEE quando este entrou em vigor?
+Qual é o maior banco do <START:LOCAL>Japão<END>?
+A que companhia pertencia o Airbus atacado pelo GIA <START:TEMPO>em Dezembro de 1994<END>?
+Quem é <START:PESSOA>Michael Jackson<END>?
+Diga um dos grandes sucessos de <START:PESSOA>Michael Jackson<END>?
+Com quem é que ele se casou <START:TEMPO>em Maio de 1994<END>?
+Qual era a nacionalidade de <START:PESSOA>Ayrton Senna<END>?
+Quantas vezes é que ele foi campeão do mundo?
+Quando é que ele morreu?
+Em que circuito de F1 é que ele morreu?
+Quando é que caiu o regime comunista do <START:LOCAL>Afeganistão<END>?
+Quem era o presidente do regime comunista do <START:LOCAL>Afeganistão<END> antes dessa queda?
+Quantos casamentos ocurreram na <START:LOCAL>Grã-Bretanha<END> <START:TEMPO>em 1993<END>?
+O que é o <START:ORGANIZACAO>IRA<END>?
+Contra que aeroporto londrino o <START:ORGANIZACAO>IRA<END> lançou um ataque de morteiro <START:TEMPO>em 1994<END>?
+Quando é que foi inaugurada a <START:LOCAL>Ponte da Normandia<END> ?
+Quando ocorreu o tremor de terra em <START:LOCAL>Los Angeles<END>?
+Quem é <START:PESSOA>Paul Touvier<END>?
+Quando é que começou o julgamento de <START:PESSOA>Paul Touvier<END>?
+Quando é que foi criado o  <START:ORGANIZACAO>Tribunal Internacional Penal<END> para o <START:LOCAL>Ruanda<END> ?
+Quando é que <START:PESSOA>Liamine Zéroul<END> foi eleito para a presidência da <START:LOCAL>Argélia<END>?
+Quando é que a Organização Mundial do Comércio entrou em vigor?
+Em que ano nasceu <START:PESSOA>Richard Nixon<END>?
+Quando é que o antigo  <START:LOCAL>Parlamento<END> da <START:LOCAL>Bretanha<END> foi destruído por um incêndio?
+Onde fica <START:LOCAL>Lillehammer<END>?
+Quando é que <START:PESSOA>Eduardo Frei<END> se tornou  presidente do <START:LOCAL>Chile<END>?
+Em que ano é que <START:PESSOA>Eugène Ionesco<END> entrou na <START:ORGANIZACAO>Academia Francesa<END>?
+Que bispo foi suspenso pelo <START:ORGANIZACAO>Vaticano<END> <START:TEMPO>a 13 de Fevereiro de 1995<END>?
+Em <START:LOCAL>França<END>, quem foi nomeado Primeiro Ministro <START:TEMPO>a 17 de Maio de 1995<END>?
+Onde fica <START:LOCAL>Balcarce<END>?
+Que famoso condutor argentino se retirou <START:TEMPO>em 1958<END>?
+Quem ganhou o <START:ACONTECIMENTO>Torneio das Cinco Nações<END> <START:TEMPO>em 1994<END>?
+Quem ganhou o Óscar de melhor filme por "Forrest Gump"?
+Quem ganhou o Prémio Goncourt <START:TEMPO>em 1995<END>?
+Quem ganhou o Óscar de melhor actor <START:TEMPO>em 1994<END>?
+Quem se suicidou <START:TEMPO>a 8 de Abril de 1994<END>?
+Que duas personalidades famosas presidiram ao júri do  <START:ACONTECIMENTO>Festival<END> de <START:LOCAL>Cannes<END> <START:TEMPO>de 1994<END>?
+Quantos habitantes tem <START:LOCAL>Catmandu<END>?
+A que partido político pertence <START:PESSOA>Thérèse Aillaud<END>?
+Ela é deputada por que região?
+Quem foi eleito  presidente da <START:LOCAL>África do Sul<END> <START:TEMPO>a 9 de Maio de 1994<END>?
+Quem se tornou  líder do <START:ORGANIZACAO>Partido Trabalhista<END> britânico <START:TEMPO>a 21 de Julho de 1994<END>?
+Quais as cinco praias do desembarque das quais um industrial comprou <START:VALOR>200 toneladas<END>  de areia para comemorar o <START:VALOR>50º<END> aniversário do Dia-D?
+Quem era  presidente da <START:ORGANIZACAO>Comissão Europeia<END> <START:TEMPO>em 1995<END>?
+Onde é que  <START:PESSOA>Stephanie<END> do <START:LOCAL>Mónaco<END> e <START:PESSOA>Daniel Ducruet<END> se casaram?
+Quantas pessoas estavam presentes na cerimónia em memória do escritor <START:PESSOA>Elias Canetti<END>?
+Qual o endereço da  <START:LOCAL>Delegação de Turismo<END> do <START:LOCAL>Sri Lanka<END>?
+Que aconteceu na <START:LOCAL>Argélia<END> <START:TEMPO>na noite de 17 para 18 de Agosto de 1994<END>?
+Quantas pessoas morreram no terramoto?
+Quantos quilómetros são de <START:LOCAL>Orão<END> a <START:LOCAL>Macara<END>?
+Um míssil ASMP é quantas vezes mais rápido do que a velocidade do som?
+O que é a <START:ORGANIZACAO>FPLP<END>?
+Quem era considerado chefe do grupo?
+Em que país fica <START:LOCAL>Beit Liqya<END>?
+A que cidade chinesa foi <START:PESSOA>Warren Christopher<END> enviado por <START:PESSOA>Bill Clinton<END> para apreciar os eventuais progressos relativos aos direitos humanos?
+Quem é <START:PESSOA>Sir Winston Churchill<END>?
+Que prémio ganhou o filme "Pulp Fiction" no  <START:ACONTECIMENTO>Festival<END> de <START:LOCAL>Cannes<END>?
+Quem realizou esse filme?
+Quem é o actor principal?
+Quantos habitantes tem a <START:LOCAL>União Soviética<END>?
+Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na Sibéria?
+Onde é que fica o aeroporto de <START:LOCAL>Irkutsk<END>?
+Que dois bancos se fundiram para formar o banco <START:ORGANIZACAO>Tokyo-Mitsubishi<END>?
+Quantos quilómetros separam <START:LOCAL>Kikwit<END> de <START:LOCAL>Kinshasa<END>?
+Em que filme de <START:PESSOA>André Cayatte<END> participou <START:PESSOA>Annie Girardot<END> <START:TEMPO>em 1971<END>?
+De que doença é que ela sofre <START:TEMPO>desde 2006<END>?
+Onde é que ela nasceu?
+O que é a aceleração centrífuga?
+O que significa a sigla WIA?
+Em que ano foi realizado o filme "Ace Ventura em África"?
+Que vírus atingiu o <START:LOCAL>Zaire<END>?
+O que é Geographos?
+Que avião civil efectuou o voo mais longo sem escalas?
+Onde é que o A340 levou a cabo o voo mais longo sem escalas por um avião civil?
+Quando é que este feito foi levado a cabo?
+Que nome se dá a uma inflamação dos gânglios?
+Quais são os outros três nomes do <START:ORGANIZACAO>Arsenal Football Club<END>?
+Quando é que este clube foi fundado?
+Em que estádio é que os jogadores do Arsenal têm estado a treinar <START:TEMPO>desde Agosto de 2006<END>?
+Quantos lugares tem o estádio?
+Com que Prémio Nobel é que <START:PESSOA>Seamus Heaney<END> foi galardoado?
+Quantos estados ratificaram a convenção adoptada pela  <START:ORGANIZACAO>Assembleia Geral<END> da <START:ORGANIZACAO>ONU<END> <START:TEMPO>em 20 de Novembro de 1989<END>?
+Quem é <START:PESSOA>Arsène Wenger<END>?
+De que equipa é que ele se tornou treinador <START:TEMPO>em 1987<END>?
+Em que ano foi fundada a firma <START:ORGANIZACAO>Adidas Group AG<END>?
+Qual é a sua área de trabalho?
+Qual é a altitude do Monte Rosa?
+Quantos litros de azeite são comercializados <START:TEMPO>por ano<END> pela <START:ORGANIZACAO>EBS<END>?
+De que país é <START:PESSOA>Kim Il Sung<END> presidente?
+As amêndoas são o fruto de que árvore?
+De onde é que ela é originária?
+Quem é <START:PESSOA>Charles-Ange Ginésy<END>?
+De que município é que ele também é presidente?
+Em que grupo político é que ele tem assento?
+O que é a febre-amarela?
+Que ferry-boat famoso naufragou no Mar Báltico?
+Em que país teve lugar a cimeira dos <START:ORGANIZACAO>G7<END> <START:TEMPO>em Julho de 1994<END>?
+A que horas ocorreu o acidente no metro de <START:LOCAL>Valência<END> <START:TEMPO>a 3 de Julho de 2006<END>?
+Quantos mortos causou esse acidente?
+A que velocidade circulava o metro?
+Quando é que a <START:LOCAL>Tanzânia<END> fechou as fronteiras aos refugiados do <START:LOCAL>Ruanda<END>?
+Que slalom é que <START:PESSOA>Alberto Tomba<END> ganhou <START:TEMPO>a 6 de Fevereiro de 1994<END>?
+O que é "Ace of Base"?
+De que cidade é este grupo?
+Quem são os quatro membros que compõem o grupo?
+Qual é o arranha-céus mais alto do mundo?
+O que é <START:PESSOA>Asandros<END>?
+Quem é o irmão dele?
+Onde é que <START:PESSOA>Danny Barker<END> morreu?
+Quem foi nomeado  presidente da <START:ORGANIZACAO>SNCF<END> <START:TEMPO>em 20 de Dezembro de 1995<END>?
+Que quatro planetas do sistema solar são compostos principalmente de gás?
+Diga um corpo celeste.
+De que é que é composta a atmosfera da Lua?
+Em informática, o que é Alien?
+Qual é a principal companhia de aviação em <START:LOCAL>França<END>?
+Que cinco companhias de aviação que se fundiram <START:TEMPO>em 1933<END> para criar a <START:ORGANIZACAO>Air France<END>?
+Em quantos países os aviões da <START:ORGANIZACAO>Air France<END> fazem os seus <START:VALOR>1800<END> voos diários?
+Que companhia detém <START:VALOR>100%<END> do capital da <START:ORGANIZACAO>Air France<END>?
+Que conto célebre de <START:PESSOA>Hans Christian Andersen<END> é a adaptação do conto "Aladino e a Lâmpada Mágica"?
+O que é a <START:ORGANIZACAO>AIEA<END>?
+Que prémio é recebeu <START:TEMPO>em 2005<END>?
+Em que cidade podemos encontrar essa agência?
+Qual foi o seu orçamento <START:TEMPO>para o ano de 2004<END>?
+Quando é que <START:PESSOA>Thierry Henry<END> ganhou o campeonato do mundo de râguebi?
+O que é a <START:ORGANIZACAO>MNEF<END>?
+Quando é que chegou ao fim o último julgamento sobre o escândalo da <START:ORGANIZACAO>MNEF<END>?
+Segundo <START:PESSOA>Jean Michel Grosz<END>, que organização foi criada no seu escritório?
+Qual era a altura de <START:PESSOA>Marylin Monroe<END>?
+Que vaivém pôs a sonda espacial Ulisses em órbita?
+Que idade tinha <START:PESSOA>Grégory Villemin<END> quando o seu corpo foi encontrado?
+Quem era <START:PESSOA>Bernard Laroche<END>?
+Que juiz acusou <START:PESSOA>Christine Villemin<END>?
+O que é <START:ORGANIZACAO>Alcatel<END>?
+Que companhia foi criada por <START:PESSOA>Pierre Azaria<END> <START:TEMPO>em 1898<END>?
+Com que grupo a <START:ORGANIZACAO>Alcatel<END> anunciou a fusão <START:TEMPO>em Março de 2006<END>?
+Quem era o  director-geral da <START:ORGANIZACAO>Alcatel<END> <START:TEMPO>de 1986 a 1995<END>?
+O que é Assédic?
+Quando é que saiu o rimeiro Álbum  da cantora americana <START:PESSOA>Anastacia<END>?
+Desde a saída do seu primeiro álbum, quantos discos é que <START:PESSOA>Anastacia<END> vendeu?
+Quando é que <START:PESSOA>Jacques Chirac<END> foi assassinado?
+Que jogador espanhol ganhou <START:ACONTECIMENTO>Roland Garros<END> <START:TEMPO>em 1994<END>?
+Quantos habitantes tem a <START:LOCAL>Alemanha<END>?
+Quantos quilómetros de ferrovia tinha a <START:LOCAL>Alemanha<END> <START:TEMPO>em 1998<END>?
+<START:TEMPO>Em Novembro de 2005<END>, qual a taxa de desemprego na <START:LOCAL>Alemanha<END>?
+Qual era a moeda da <START:LOCAL>Alemanha<END> antes do euro?
+Num relógio, qual o ponteiro que aponta para as horas?
+O que é o amianto?
+Qual a primeira causa de morte das pessoas expostas ao amianto?
+O que é um administrador de rede?
+Quem é <START:PESSOA>Allan Frederick Jacobsen<END>?
+Por que clube joga?
+Quanto é que ele pesa?
+Em que árvore crescem os morangos?
+Quem é <START:PESSOA>Amira Casar<END>?
+Onde é que ela nasceu?
+Em que filme é que ela entrou com <START:PESSOA>Richard Anconina<END>?
+Como se chama o  presidente das <START:LOCAL>Filipinas<END>?
+Que barragem seria a maior do mundo se tivesse sido construída?
+Qual era o custo estimado do projecto?
+Quantos meses tem <START:TEMPO>numa semana<END>?
+Que agência está encarregada de centralizar as ofertas e pedidos de emprego em <START:LOCAL>França<END>?
+Quantos colaboradores tem a <START:ORGANIZACAO>ANPE<END>?
+Quem é que dirige essa agência <START:TEMPO>desde 2005<END>?
+O que é um afixo?
+Quem foi assassinado <START:TEMPO>a 4 de Novembro de 1995<END>, aos <START:VALOR>73 anos<END>?
+Qual é a primeira região francesa em população?
+Quantos habitantes tem essa região?
+O que é o Filival?
+Em quantas províncias está dividido o <START:LOCAL>Afeganistão<END>?
+Que língua é falada pela maioria da população afegã?
+Quantas escolas havia no <START:LOCAL>Afeganistão<END> <START:TEMPO>em 2003<END>?
+O que é o ácido desoxirribonucleico?
+Que sigla se usa para designar essa molécula?
+Qual é o antigo nome do <START:LOCAL>Alabama<END>?
+Quantos condados tem o <START:LOCAL>Alabama<END>?
+Que estado fica a norte do <START:LOCAL>Alabama<END>?
+Que organismo gere os subsídios de desemprego em <START:LOCAL>França<END>?
+Que organização se dedica especificamente à sobrevivência dos patos?
+Quem é que derrotou <START:PESSOA>Michael Moorer<END> no <START:VALOR>10º<END> round em <START:LOCAL>Las Vegas<END>?
+O que é uma árvore coral?
+Que altura pode esta árvore atingir?
+Quanto é que pesa uma maçã?
+O que á <START:ORGANIZACAO>AFNOR<END>?
+Qual é o equivalente da <START:ORGANIZACAO>AFNOR<END> nos <START:LOCAL>Estados Unidos<END>?
+O que é uma alergia?
+Que outro nome se dá a uma alergia?
+<START:TEMPO>Em 1980<END>, que percentagem da população tinha sido atingida por elas?
+Que alergia afecta <START:VALOR>cerca de 8%<END> das crianças?
+Qual é a altura do Monte Claro?
+Quais eram os primeiros nomes dos dois irmãos Piccard?
+Qual deles descobriu o urânio 235?
+Que duas profissões teve este último?
+Que personagem é que <START:PESSOA>César Romero<END> representava na famosa série televisiva "Batman"?
+Onde é que ele morreu?
+Que idade tinha ele?
+A que movimento político pertence a <START:PESSOA>Arlette Laguiller<END>?
 --DOCSTART--
     
- Terá ainda que se esperar para ver outros resultados do Plano Tecnológico , mas este perdeu dinâmica <START:TEMPO> no último ano <END> .
-6.
-Quanto às « Novas Oportunidades » foram <START:TEMPO> no seu início <END> um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade.
-Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado.
-Esta é a parte difícil, mas a que justifica o projecto.
-E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo.
-Vamos ver.
-7.
-No <START:ORGANIZACAO> PSD <END> deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do <START:ORGANIZACAO> PS <END> .
-Ora, para fazer a mesma política, os eleitores preferem o <START:ORGANIZACAO> PS <END> como mais eficaz e mais credível.
-Com <START:PESSOA> Marques Mendes <END> , o <START:ORGANIZACAO> PSD <END> esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia <START:PESSOA> Saint Just <END> ), perdeu-se o pouco que se tinha adquirido voltando o partido <START:TEMPO> ao dia anterior <END> da derrota <START:TEMPO> de 2005 <END> .
-<START:PESSOA> Mendes <END> não conseguiu impor-se, mas os seus esforços foram no sentido certo.
-<START:PESSOA> Menezes <END> também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado.
-O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve <START:TEMPO> desde 2005 <END> .
-8.
-O <START:ORGANIZACAO> PP <END> já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece.
-E no entanto, a retirada do <START:ORGANIZACAO> PSD <END> da oposição poderia ser uma oportunidade e o <START:ORGANIZACAO> PP <END> tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco.
-Mas não chega.
-<START:PESSOA> Portas <END> reduziu o partido a si próprio, e dar atenção ao <START:ORGANIZACAO> PP <END> é dar atenção a <START:PESSOA> Portas <END> e cada vez menos pessoas o fazem.
-9.
-O <START:ORGANIZACAO> PCP <END> teve um bom ano, o problema do <START:ORGANIZACAO> PCP <END> é que ninguém dá por ela disso.
-O <START:ORGANIZACAO> PCP <END> é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na <START:ORGANIZACAO> UGT <END> do que na <START:ORGANIZACAO> CGTP <END> .
-Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas.
-O problema do <START:ORGANIZACAO> PCP <END> é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.
-10.
-O <START:ORGANIZACAO> BE <END> está em crise.
-Deixou-se enredar com o <START:ORGANIZACAO> PS <END> em <START:LOCAL> Lisboa <END> , o pior sítio para alguém se enredar com o <START:ORGANIZACAO> PS <END> .
-Deixou-se reduzir a <START:PESSOA> Louçã <END> e <START:PESSOA> Louçã <END> fixou-se num discurso cujo esgotamento irrita mais do que cansa.
-Para a contestação social o PCP é mais eficaz, e as causas "fracturantes" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.
+
+      Euro
+      segue em alta face ao dólar
+    
+    
+
+      O euro segue a reforçar os ganhos em relação à divisa dos
+      <START:ORGANIZACAO>Estados Unidos<END>
+      <START:TEMPO>esta segunda-feira<END>
+      , cotando sobre
+      <START:VALOR>1,474 dólares<END>
+      , seis cêntimos acima dos máximos da sessão anterior.
+A tendência reflecte as perspectivas do mercado de uma nova descida nas taxas de juro da
+      
+        <START:ORGANIZACAO>Reserva Federal<END>
+        dos
+        <START:LOCAL>EUA<END>
+      
+      com o objectivo de inverter o cenário de abrandamento da economia.
+Por outro lado, números do
+      <START:ORGANIZACAO>Fundo Monetário Internacional<END>
+      divulgados
+      <START:TEMPO>na passada sexta-feira<END>
+      indicam que a divisa europeia já pesa
+      <START:VALOR>26,4%<END>
+      do total das reservas externas em todo mundo <START:TEMPO>no terceiro trimestre<END>, mais do que
+      <START:TEMPO>no trimestre anterior<END>
+      e a comparar com
+      <START:VALOR>24,4%<END>
+      <START:TEMPO>um ano antes<END>
+      .
+<START:TEMPO>Na passada sexta-feira<END>
+      , o
+      <START:ORGANIZACAO>Banco Central Europeu<END>
+      (
+      <START:ORGANIZACAO>BCE<END>
+      ) fixou a taxa de câmbio oficial a
+      <START:VALOR>1,4692 dólares<END>
+      , um valor que corresponde a
+      <START:VALOR>mais 17%<END>
+      face ao câmbio média calculado
+      <START:TEMPO>para 2006<END>
+      , quando a moeda única europeia se fixou em
+      <START:VALOR>1,2556 dólares<END>
+      , segundo dados do
+      <START:ORGANIZACAO>BCE<END>
+      para a média anual.
 --DOCSTART--
     
- O <START:PESSOA> Pai Natal <END> , <START:PESSOA> Artur Jorge <END> e o <START:ORGANIZACAO> BCP <END>        
- O <START:ORGANIZACAO> Governo <END> russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema " O <START:PESSOA> Pai Natal <END> não existe ".
-O argumento é que tal ideia era nefasta para as criancinhas russas.
-Conclusão: o <START:ORGANIZACAO> Governo <END> russo acredita no Pai Natal e quer que as criancinhas também acreditem.
-<START:PESSOA> Artur Jorge <END> foi, entretanto, escolhido para seleccionador do Irão, equipa que se encontrava <START:TEMPO> há seis meses <END> sem treinador.
-Tendo em atenção o que se tem passado <START:TEMPO> nos últimos anos <END> na carreira do ex-treinador do FC Porto, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a <START:ORGANIZACAO> Federação Iraniana de Futebol <END>  acredita no <START:PESSOA> Pai Natal <END> .
-E <START:PESSOA> Artur Jorge <END> também, claro.
-Por outro lado, a escolha do  presidente da <START:ORGANIZACAO> Caixa Geral de Depósitos <END> para presidir ao <START:ORGANIZACAO> BCP <END> só pode igualmente ser obra do <START:PESSOA> Pai Natal <END> .
-<START:PESSOA> Carlos Santos Ferreira <END> é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do <START:ORGANIZACAO> Estado <END> .
-Por isso, o ministro das Finanças , que autorizou esta mudança sem pestanejar, também deve acreditar no Pai Natal .
-Não lhe passa pela cabeça que <START:PESSOA> Santos Ferreira <END> , com o que sabe da <START:ORGANIZACAO> Caixa <END> , fique em excelente posição para ganhar quota de mercado ao banco público, que vai <START:TEMPO> este ano <END> dar <START:VALOR> mais de 800 milhões <END> de lucros, dos quais <START:VALOR> 400 milhões <END> vão direitinhos para os cofres do <START:ORGANIZACAO> Estado <END> a título de IRC .
-Se <START:PESSOA> Santos Ferreira <END> tiver sucesso no <START:ORGANIZACAO> BCP <END> , quem vai sofrer é a <START:ORGANIZACAO> Caixa <END> - e, por tabela, todos nós, contribuintes.
-Porque quanto menos o <START:ORGANIZACAO> Estado <END> receber de dividendos das empresas públicas, mais o <START:ORGANIZACAO> Estado <END> será tentado a vir buscar-nos dinheiro aos bolsos.
-Por outras palavras, os únicos que não têm razões para acreditar no Pai Natal são os contribuintes portugueses.
-<START:PESSOA> Nicolau Santos <END>      
+<START:LOCAL>Paquistão<END> após o assassinato
+    
+de <START:PESSOA>Benazir Bhutto<END>
+    
+<START:TEMPO>28/Dezembro/2007<END> · <START:TEMPO>0:01<END> · <START:VALOR>147<END> Comentários
+    
+É sempre chocante assistir à decomposição de um país.
+Mas, após o assassinato de <START:PESSOA>Benazir Bhutto<END>, é o que está acontecendo com o <START:ORGANIZACAO>Paquistão<END>.
+O momento é tenso.
+Uma revolta popular pode estourar.
+Agora, que faria sentido declarar Estado de Emergência  e impor a Lei Marcial, o <START:PESSOA>presidente Pervez Musharraf<END> está desautorizado.
+Afinal, <START:TEMPO>há coisa de dois meses<END>, aplicou um golpe contra a <START:ORGANIZACAO>Suprema Corte<END> utilizando-se justamente desta tática.
+Será que ousaria um novo Estado de Emergência ?
+Será que sobreviveria a tal decreto?
+Será que o <START:ORGANIZACAO>Exército<END> se manterá fiel a ele?
+Será que o <START:ORGANIZACAO>Serviço de Inteligência<END>, tão ligado ao norte islâmico, ainda o respeita minimamente?
+O que acontecerá não é possível prever.
+Eleições estão marcadas <START:TEMPO>para 8 de janeiro<END>, <START:PESSOA>Bhutto<END> era favorita.
+O partido mais votado do parlamento eleito fará o primeiro ministro.
+Num país estável, o assassinato de um dos principais candidatos <START:TEMPO>a essa altura<END> seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato.
+Mas, se já foi <START:TEMPO>um dia<END>, o <START:LOCAL>Paquistão<END> deixou de ser um país normal, quanto mais estável.
+O ideal seria que eleições ocorressem.
+É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez.
+Os partidários de <START:PESSOA>Bhutto<END>, <START:TEMPO>ontem<END>, acusavam <START:PESSOA>Musharraf<END> do assassinato.
+Mas será?
+Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o Talibã, o radicalismo islâmico e sua cria, a <START:ORGANIZACAO>al-Qaeda<END>, alojados ao norte.
+<START:PESSOA>Benazir Bhutto<END> contava com a simpatia dos <START:ORGANIZACAO>EUA<END> por conta.
+Não há dúvidas de que, como premiê, <START:PESSOA>Bhutto<END> forçaria o <START:PESSOA>presidente Musharraf<END> a ampliar sua ofensiva.
+A conversa da experiente política com o presidente afegão <START:PESSOA>Hamid Karzai<END>, o outro chefe de Estado preocupado com esta briga, <START:TEMPO>faz poucos dias<END>, é indício de qual sua prioridade no governo.
+Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política.
+Se o conflito entre ambos era aberto, ausência de <START:PESSOA>Bhutto<END> piora a situação.
+Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o <START:ORGANIZACAO>Talibã<END> e a <START:ORGANIZACAO>al-Qaeda<END>.
+Isto, é claro, se a lógica valer de algo.
+A <START:ORGANIZACAO>al-Qaeda<END> <START:TEMPO>às vezes<END> assume seus atentados.
+Outras vezes, não.
+No Onze de Setembro, ficou em silêncio <START:TEMPO>por mais de mês<END> enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos <START:ORGANIZACAO>EUA<END> ao <START:LOCAL>Afeganistão<END>.
+Neste caso, a falta de autoria clara favorece o caos.
+O caos interessa à turma de <START:PESSOA>bin-Laden<END>.
+Com <START:PESSOA>Bhutto<END> de fora, os olhos voltam-se para outro ex-premiê, também candidato, <START:PESSOA>Nawaz Sharif<END>.
+Mal se passara <START:TEMPO>uma hora<END> da morte de <START:PESSOA>Bhutto<END> quando ele entrou no  <START:LOCAL>Hospital Geral<END> de <START:LOCAL>Rawalpindi<END> para as condolências.
+Dada a confusão que imperava, foi um feito.
+É arte política, sujeito hábil.
+Embora os dois ensaiassem uma aliança, <START:PESSOA>Sharif<END> não poderia ser mais diferente de <START:PESSOA>Bhutto<END>.
+Se ela era pró-<START:ORGANIZACAO>EUA<END>, ele não esconde seus laços com a <START:ORGANIZACAO>Arábia Saudita<END>.
+E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente.
+A <START:ORGANIZACAO>al-Qaeda<END> é um grupo saudita.
+A <START:ORGANIZACAO>Arábia Saudita<END> era um dos três países do mundo que reconheciam, no <START:LOCAL>Afeganistão<END>, o governo <START:ORGANIZACAO>Talibã<END>.
+A vertente de islamismo radical que impera no norte do <START:LOCAL>Paquistão<END> é profundamente semelhante à que a Arábia Saudita espalha pelo mundo.
+<START:PESSOA>Sharif<END> não é fundamentalista.
+Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação.
+O que vai imperar?
+A <START:ORGANIZACAO>Arábia Saudita<END> interessada em regimes islâmicos como os defendidos pelos radicais?
+Ou a <START:ORGANIZACAO>Arábia Saudita<END> interessada em combater o terrorismo?
+No <START:LOCAL>Paquistão<END>, as duas opções são incompatíveis.
+Enterros no <START:LOCAL>Paquistão<END> acontecem rápido.
+Provavelmente <START:TEMPO>hoje<END>, talvez <START:TEMPO>amanhã<END>.
+Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões.
+A multidão é incontrolável.
+Se o país rachar.
+Se houver um golpe de <START:ORGANIZACAO>Estado<END>.
+Se radicais islâmicos conseguirem um atalho para o poder.
+O mundo respira fundo.
+O "<START:LOCAL>Paquistão<END> é uma potência nuclear.
+--DOCSTART--
+    
+ARQUITETURA E HISTÓRIA
+    
+
+      A partir do
+      <START:LOCAL>Forte de Santiago<END>
+      , na
+      Ponta do Calabouço
+      , a evolução do conjunto arquitetônico do
+      <START:LOCAL>Museu<END>
+      acompanhou a trajetória urbana da cidade do
+      <START:LOCAL>Rio de Janeiro<END>
+      .
+À fortificação inicial veio se juntar a
+      Casa do Trem
+      , destinada à guarda do "trem de artilharia", conjunto de apetrechos bélicos usados na defesa da cidade, e,
+      <START:TEMPO>mais tarde<END>
+      , o
+      Arsenal de Guerra
+      .
+<START:TEMPO>No início do século XX<END>
+      o
+      Arsenal
+      é transferido para a
+      Ponta do Caju
+      , abrindo o caminho para a adaptação do conjunto para suas novas funções :
+      <START:LOCAL>Pavilhão das Grandes Indústrias<END>
+      da "
+      <START:ACONTECIMENTO>Exposição Internacional de 1922<END> 
+      ".
+Por determinação do
+      <START:PESSOA>Presidente Epitácio Pessoa<END>
+      , o
+      <START:LOCAL>Pavilhão<END>
+      abrigou, em duas de suas salas, o núcleo inicial do
+      <START:ORGANIZACAO>Museu Histórico Nacional<END>
+      .
+Com o encerramento da
+      <START:ACONTECIMENTO>Exposição<END>
+      , o
+      <START:LOCAL>Museu<END>
+      veio ocupando progressivamente toda a área.
+PATROCINADORES
+    
+
+     <START:ORGANIZACAO>Ministério da Cultura<END>
+    
+    
+
+      <START:ORGANIZACAO>Instituto do Patrimônio Histórico e Artístico Nacional<END>
+    
+    
+
+      <START:ORGANIZACAO>Associação dos Amigos do Museu Histórico Nacional<END>
+    
+    
+
+      <START:ORGANIZACAO>Banco Nacional de Desenvolvimento Econômico e Social<END>
+    
+    
+
+      <START:ORGANIZACAO>Caixa Econômica Federal<END>
+    
+    
+
+      <START:ORGANIZACAO>Holcim (Brasil) S. A.<END>
+    
+    
+
+      <START:ORGANIZACAO>Vitae<END>
+      --
+    
+    
+
+      Recuperar a arquitetura original, ampliar espaços destinados ao público, aprimorar os serviços oferecidos aos visitantes, democratizar o acesso dos mais diversos segmentos da sociedade e viabilizar uma circulação e um percurso adequados ao discurso museográfico: essas foram as diretrizes que nortearam o "
+      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006
+      ", concluído
+      <START:TEMPO>em 19 de maio de 2006<END>
+      .
+A primeira fase das obras, totalmente financiada pelo
+      <START:ORGANIZACAO>Ministério da Cultura<END>
+      num total de
+      <START:VALOR>R$ 1.980.000,00<END>
+      , foi inaugurada
+      <START:TEMPO>dia 9 de setembro de 2004<END>
+      , com a presença do
+      
+        Primeiro Ministro
+        de
+<START:LOCAL>Portugal<END>
+      
+      ,
+      <START:PESSOA>Pedro Santana Lopes<END>
+      , da
+      
+        Ministra da Cultura de <START:LOCAL>Portugal<END>
+      ,
+      <START:PESSOA>Maria João Bustorff Silva<END>
+      , e do
+      Ministro de Estado da Cultura
+      ,
+      <START:PESSOA>Gilberto Passos Gil Moreira<END>
+      , já que
+      <START:TEMPO>nesta data<END>
+      foi aberta a exposição internacional «
+      <START:ACONTECIMENTO>Artes Tradicionais de Portugal<END>
+      », promovida pela
+      <START:ORGANIZACAO>Fundação Gulbenkian<END>.
+Iniciada
+      <START:TEMPO>em dezembro de 2003<END>
+      , a primeira fase das obras incluiu a recuperação de uma área de
+      <START:VALOR>1.500 metros quadrados<END>
+      que estavam completamente sem uso
+      <START:TEMPO>há mais de trinta anos<END>
+      e apresentavam um avançado processo de deteriorização.
+Nesse local, foram instalados os novos acessos ao circuito de exposições (escadas rolantes e elevador para portadores de necessidades especiais) e os espaços para atendimento ao público - guarda volumes, cafeteria, sanitários públicos e bilheteria - além de áreas para serviços internos.
+A partir da assinatura de contrato entre o
+      <START:ORGANIZACAO>Museu Histórico Nacional<END>
+      , a
+      <START:ORGANIZACAO>Associação dos Amigos do Museu Histórico Nacional<END>
+      e a
+      <START:ORGANIZACAO>Caixa Econômica Federal<END>
+      realizada
+      <START:TEMPO>no dia 26 de novembro de 2004<END>
+      , foram liberados recursos no valor de
+      <START:VALOR>R$ 1.900.000,00<END>
+      para o início da segunda fase das obras ainda
+      <START:TEMPO>em dezembro de 2005<END>
+      .
+Nesse etapa foi desmontada a laje construída
+      <START:TEMPO>em 1940<END>
+      , quando parte do conjunto arquitetônico era utilizada pelo
+      <START:ORGANIZACAO>Ministério da Agricultura<END>
+      , para abrigar um canteiro de experiências agrícolas e que gerava no pavimento térreo uma área de insalubridade que comprometia a integridade física do acervo sob a guarda do
+      <START:ORGANIZACAO>Museu<END>
+      .
+Essa obra foi fundamental para resgatar a arquitetura original
+      <START:TEMPO>de 1922<END>
+      , devolvendo ao público um belíssimo pátio interno interligado aos
+      <START:LOCAL>Pátios da Minerva<END>
+      e dos
+      <START:LOCAL>Canhões<END>
+      e um espaço nobre para exposições, além de permitir que parte da
+      Reserva Técnica
+      seja vista, sem prejudicar a segurança do acervo.
+Com uma área de
+      <START:VALOR>2.000 metros<END>
+      , o novo pátio recebeu o nome de
+      Gustavo Barroso
+      , numa homenagem ao fundador e primeiro diretor do <START:ORGANIZACAO>Museu Histórico Nacional<END> 
+
+      .
+Com o patrocínio da
+      <START:ORGANIZACAO>HOLCIM (Brasil) S. A .<END>
+      foram recuperados
+      <START:VALOR>1.000 metros quadrados<END>
+      de galerias voltadas para o
+      <START:LOCAL>Pátio Gustavo Barroso<END>
+      para a implantação da exposição permanente "
+      Do Móvel Ao Automóvel: Transitando pela História
+      ", reunindo a preciosa coleção de meios de transportes terrestres do
+      <START:ORGANIZACAO>Museu Histórico Nacional<END>
+      em sua totalidade, a partir de restauração viabilizada graças a
+      <START:ORGANIZACAO>Vitae - Apoio à Cultura, Educação e Promoção Social<END>
+      .
+Com recursos do
+      <START:ORGANIZACAO>Ministério da Cultura<END>
+      foram concluidas as obras da terceira fase do «
+      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 
+      " com o objetivo de ampliar o auditório, visando dobrar a capacidade de atendimento de cem para duzentos lugares e, possibilitando a um maior número de interessados o acesso aos cursos e seminários promovidos pelo
+      <START:ORGANIZACAO>Museu<END>
+      .
+Ainda com recursos do
+      <START:ORGANIZACAO>Ministério da Cultura<END>
+      , o
+      <START:LOCAL>Pátio dos Canhões<END>
+      foi reformado, contando com o apoio do
+       <START:ORGANIZACAO>Arsenal de Guerra<END> do <START:LOCAL>Rio<END>
+      e do
+      <START:ORGANIZACAO>Instituto Benjamin Constant<END>
+      para a confecção das novas legendas das peças expostas, inclusive em braille.
+Com o patrocínio do
+      <START:ORGANIZACAO>Banco Nacional de Desenvolvimento Econômico e Social<END>
+      , essa etapa incluiu, ainda, a recuperação de três amplas galerias de exposição permanente situadas no segundo andar, além da realização de obras estruturais no terceiro andar, onde funciona a
+      <START:ORGANIZACAO>Administração<END>
+      .
+As galerias revitalizadas com os recursos do
+      <START:ORGANIZACAO>BNDES<END>
+      abrigam o multivídeo panorâmico "
+      A Trajetória de um museu
+      ", que apresenta o
+      <START:LOCAL>Museu Histórico Nacional<END>
+      ao visitante, e a exposição "
+      <START:ACONTECIMENTO>Oreretama<END>
+      ", que abre pela primeira vez no
+      <START:LOCAL>Museu Histórico Nacional<END>
+      um espaço permanente dedicado ao índio brasileiro. "
+<START:ACONTECIMENTO>Oreretama<END>
+      » apresenta também uma ambientação representando uma gruta do sítio arqueológico da
+      Serra da Capivara
+      e os sambaquis do litoral, incluindo objetos retirados de sítios do
+      <START:LOCAL>Estado do Rio de Janeiro<END>
+      .
+Com o "
+      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 
+      ", o
+      <START:ORGANIZACAO>Museu Histórico Nacional<END>
+      segue a tendência mundial dos grandes museus nacionais de se adequarem às necessidades impostas pelo aumento do fluxo de visitantes e à valorização das instituições culturais
+      <START:TEMPO>nesse novo milênio<END>
+      .
+A solenidade do término das obras do "
+      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006
+      " foi realizada
+      <START:TEMPO>no dia 19 de maio de 2006<END>
+      , no âmbito das comemorações
+      <START:TEMPO>do Dia Internacional<END> de Museus 
+      , com a presença do
+      Ministro de Estado da Cultura
+      ,
+      <START:PESSOA>Gilberto Passos Gil Moreira<END>
+      .
+ARQUIVO HISTÓRICO
+    
+
+      O
+      <START:ORGANIZACAO>Museu Histórico Nacional<END>
+      oferece ao público
+      <START:LOCAL>Arquivo Histórico<END>
+      , com
+      <START:VALOR>50.000<END>
+      documentos iconográficos e manuscritos sobre a história do
+      Brasil
+      , e
+      <START:LOCAL>Biblioteca<END>
+      com
+      <START:VALOR>57.000<END>
+      obras versando sobre história, história da arte, museologia, heraldica, numismática, genealogia e moda.
+Oferece, ainda, o
+      <START:ORGANIZACAO>Centro de Referência Luso-Brasileiro<END>
+      , ligado ao
+      <START:ORGANIZACAO>Arquivo Histórico<END>
+      e criado
+      <START:TEMPO>em 1998<END>
+      , no âmbito das comemorações dos
+      <START:VALOR>500 anos<END>
+      da chegada dos portugueses ao
+      <START:LOCAL>Brasil<END>
+      .
+O
+      Arquivo
+      pode ser consultado
+      <START:TEMPO>de segunda a sexta-feira<END>
+      ,
+      <START:TEMPO>das 10h às 16h30m<END>
+      , mediante agendamento prévio através do telefone (0xx21) 2550-9268.
+O
+      <START:ORGANIZACAO>Museu<END>
+      mantém, ainda,
+      <START:ORGANIZACAO>Arquivo Institucional<END>
+      sobre a trajetória do próprio
+      <START:LOCAL>Museu Histórico Nacional<END>
+      , com documentos, fotografias, impressos, recortes de jornal, etc.
+As fotos utilizadas para ilustrar o item "
+      ARQUITETURA E HISTÓRIA
+      " integram este acervo.
+O
+      <START:LOCAL>Arquivo Institucional<END>
+      é aberto a consultas, mediante agendamento prévio através do telefone 21-25509265.
+Retrato do
+      <START:PESSOA>Imperador D. Pedro II<END>
+    
+    
+
+      Fotografia
+      <START:PESSOA>Francisco Pesce<END>
+      ,
+      <START:TEMPO>1888<END>
+      O
+      <START:LOCAL>Arquivo Histórico<END>
+      reúne importantes documentos manuscritos e iconográficos referentes à nossa história e divididos em coleções, como a "
+      Coleção Família Imperial
+      ", compreendendo
+      <START:VALOR>1.445<END>
+      documentos de diversas procedências, relacionados aos
+      <START:PESSOA>Imperadores D. Pedro I<END>
+      e
+      <START:PESSOA>D.
+Pedro II<END>
+      e respectivos familiares.
+São gravuras e álbuns de fotografias com retratos da realeza e nobreza da época, vistas de cidades brasileiras e estrangeiras e documentos pessoais, como os exercícios de caligrafia de
+      <START:PESSOA>D.
+Pedro II<END>
+      ; de correspondência entre membros da família imperial e outros, além de homenagens como poesias, sonetos, hinos ou músicas dedicados a membros da família.
+<START:PESSOA>Ântonio Carlos Gomes<END>
+    
+    
+
+      Il
+      Guarany
+    
+    
+
+      Folha de rosto da
+      Partitura
+    
+    
+
+      O
+      <START:ORGANIZACAO>Arquivo Histórico<END>
+      preserva, ainda, importante coleção referente ao compositor brasileiro
+      <START:PESSOA>Ântonio Carlos Gomes<END>
+      , que inclui o primeiro volume da partitura original de um de seus primeiros trabalhos, a ópera "
+      Joana de Flandres
+      ".
+Formada a partir de diversas doações, a coleção reúne
+      <START:VALOR>216<END>
+      documentos, entre desenhos de cenários, cartas, fotografias, partituras originais e libretos de algumas obras como "
+      Condor
+      ", "
+      Morena
+      " e "
+      Colombo
+      ", preciosos para uma melhor compreensão do trabalho de
+      <START:PESSOA>Carlos Gomes<END>
+      , cuja obra de maior sucesso, "
+      O Guarani
+      ", estreou no
+      <START:LOCAL>Teatro Scala<END> de <START:LOCAL>Milão<END>
+        
+      <START:TEMPO>em 1870<END>
+      , sendo encenada em diversos países.
+A
+      Coleção Eusébio de Queirós
+      engloba
+      <START:VALOR>350<END>
+      documentos, sobretudo correspondências trocadas entre políticos e seus familiares, versando, principalmente, sobre a repressão ao tráfico negreiro e temas políticos e judiciais.
+Magistrado e político brasileiro, nascido em
+      <START:LOCAL>Angola<END>
+      <START:TEMPO>em 1812<END>
+      ,
+      <START:PESSOA>Eusébio de Queirós Coutinho Matoso da Câmara<END>
+      exerceu o cargo de
+      Ministro da Justiça
+      <START:TEMPO>de 1848 a 1852<END>
+      , destacando-se como autor de duas importantes leis do
+      <START:ORGANIZACAO>Império<END>
+      : a
+      lei 556
+      , que criava o
+      Código Comercial
+      , e o
+      decreto 708
+      , que estabelecia medidas para a repressão ao tráfico de africanos.
+Missão Salesiana
+      em
+      <START:LOCAL>Mato Grosso<END>
+      ,
+      <START:TEMPO>1908<END>
+    
+    
+Meninas bororos freqüentam a escola
+    
+
+      Documentação pessoal, álbuns de fotografias e documentos cartográficos compõem a "
+     Coleção Miguel Calmon Du Pin e Almeida
+      ", engenheiro e político brasileiro, que ocupou o cargo de
+      Ministro de Viação e Obras Públicas
+      no
+      <START:ORGANIZACAO>Governo Afonso Pena<END>
+      ,
+      <START:TEMPO>entre 1906 e 1909<END>
+      e de
+      Ministro da Agricultura
+      no mandato de
+      <START:PESSOA>Artur Bernardes<END>
+      ,
+      <START:TEMPO>de 1922 a 1926<END>
+      .
+As fotografias documentam as principais obras que significaram a incorporação dos ideais de progresso e modernização pelo
+      <START:ORGANIZACAO>Brasil<END>
+      <START:TEMPO>no começo do século XX<END>
+      , assim como as diversas áreas indígenas encontradas ao longo deste trabalho.
+Aquarelas de
+      <START:PESSOA>Sophia Jobim<END>
+      para Ilustrar suas aulas de indumentária
+    
+    
+
+      A moda também faz parte do
+      <START:ORGANIZACAO>Arquivo Histórico<END>
+      .
+Quem pesquisa a indumentária civil e militar não pode deixar de consultar as coleções "
+      Sophia Jobim Magno de Carvalho
+      " e "
+      Uniformes Militares
+      ".
+Museóloga e desenhista,
+      <START:PESSOA>Sophia Jobim<END>
+      lecionava na
+      <START:ORGANIZACAO>Escola Nacional de Belas Artes<END>
+      a disciplina de
+      Indumentária Histórica
+      .
+Através de suas constantes viagens pelo mundo, colecionou um vasto acervo de trajes típicos, fundando,
+      <START:TEMPO>em 1960<END>
+      , o primeiro
+      
+        <START:LOCAL>Museu de Indumentária Histórica e Antigüidades da América Latina<END>
+        
+      em sua residência no bairro carioca de
+      <START:LOCAL>Santa Teresa<END>
+      .
+Toda a coleção
+      Sophia Jobim
+      é doada ao
+      <START:ORGANIZACAO>Museu<END>
+      após a sua morte.
+Os trajes típicos são preservados na
+      <START:LOCAL>Reserva Técnica<END>
+      , os livros na
+      <START:LOCAL>Biblioteca<END>
+      e os
+      <START:VALOR>1.124<END>
+      documentos textuais e iconográficos, inclusive livros de receitas de pratos regionais e álbuns de fotografia de eventos relacionados à trajetória da titular da coleção, estão à disposição do pesquisador no
+      <START:LOCAL>Arquivo Histórico<END>
+      .
+Já a coleção de uniformes militares é composta por
+      <START:VALOR>836<END>
+      documentos iconográficos, dos quais destacam-se
+      <START:VALOR>228<END>
+      aquarelas de autoria de
+      <START:PESSOA>José Wasth Rodrigues<END>
+      ; álbuns de aquarelas,
+      <START:TEMPO>do século XVIII<END>
+      , de uniformes militares
+      do período colonial
+      e de desenhos copiados de modelos de uniformes existentes no
+      
+        <START:ORGANIZACAO>Arquivo Histórico e Colonial<END>
+        de
+        <START:LOCAL>Lisboa<END>
+      
+      .
+O valor documental destas obras reside na constituição dos traços da indumentária militar brasileira,
+      do período colonial ao republicano
+      , tornando-se fonte de consulta obrigatória com relação a este tema.
+<START:PESSOA>Juan Gutierrez<END>
+    
+    
+
+      Documentou a
+      Revolta da Armada
+      (
+      <START:TEMPO>1893/94<END>
+      )
+    
+    
+
+      <START:VALOR>Cerca de 10.200<END>
+      fotografias, entre as quais os primeiros processos fotográficos, como daguerreótipos e ambrotipos, integram o acervo do
+      <START:ORGANIZACAO>Arquivo Histórico<END>
+      .
+São fotografias de
+      <START:PESSOA>Marc Ferrez<END>
+      e
+      <START:PESSOA>Augusto Malta<END>
+      , além de cartões postais de diversas épocas.
+Destaque para a "
+      Coleção Juan Gutierrez
+      ".
+Fotógrafo espanhol,
+      <START:PESSOA>Gutierrez<END>
+      atuou no
+      <START:LOCAL>Rio de Janeiro<END>
+      <START:TEMPO>entre 1880 e 1890<END>
+      .
+Documentou a
+      Revolta da Armada
+      (
+      <START:TEMPO>1893/94<END>
+      ), retratando as fortificações, os soldados e o armamento utilizado sem, contudo, apresentar cenas do embate.
+Suas lentes captaram, ainda, vistas de vários bairros da antiga cidade do
+      <START:LOCAL>Rio de Janeiro<END>
+      , reproduzindo sua arquitetura e seu cotidiano.
+Conheça toda a coleção de fotografias de
+      <START:PESSOA>Gutierrez<END>
+      em nossa
+      Galeria Virtual
+      .
+Desenhos, gravuras e aquarelas de importantes artistas como
+      <START:PESSOA>Rugendas<END>
+      ,
+      <START:PESSOA>Debret<END>
+      ,
+      <START:PESSOA>Norfini<END>
+      e
+      <START:PESSOA>Reis Carvalho<END>
+      , retratam cidades e paisagens brasileiras
+      <START:TEMPO>ao longo dos séculos XIX<END> e <START:TEMPO>XX<END>
+      , estando também preservados no
+      <START:ORGANIZACAO>Arquivo Histórico<END>
+      .
+<START:PESSOA>Nair de Teffé<END>
+    
+    
+
+      Dita
+      Rian
+      (
+      <START:TEMPO>1886-1981<END>
+      )
+    
+    
+Caricatura
+    
+
+      Outra curiosa coleção pertencente ao acervo do
+      <START:ORGANIZACAO>Museu<END>
+      é formada por
+      <START:VALOR>26<END>
+      caricaturas de
+      <START:PESSOA>Rian<END>
+      , entre as quais as dos
+      <START:PESSOA>Presidentes Juscelino Kubitsckek<END>
+      ,
+      <START:PESSOA>Eurico Gaspar Dutra<END>
+      ,
+      <START:PESSOA>João Café Filho<END>
+      e
+      <START:PESSOA>Humberto de Alencar Castelo Branco<END>
+      .
+Os traços irônicos de
+      <START:PESSOA>Rian<END>
+      fixaram, sobretudo, personalidades políticas e figuras da alta sociedade.
+<START:PESSOA>Rian<END>
+      , na realidade
+      <START:PESSOA>Nair de Teffé<END>
+      , já era conhecida caricaturista ao casar-se,
+      <START:TEMPO>em 1913<END>
+      , com o então
+      Presidente da República
+      ,
+      <START:PESSOA>Hermes da Fonseca<END>
+      .
+Com trabalhos publicados em revistas nacionais e estrangeiras, como o
+      Semanário Fon-Fon
+      ,
+      Le Rire
+      e a
+      Gazeta de Notícias
+      , escandalizou
+      <START:TEMPO>muitas vezes<END>
+      o
+     Palácio do Catete
+      com suas atitudes excêntricas.
+--DOCSTART--
+    
+
+      Biografia de
+      Fitacola
+    
+    
+
+      Os
+      Fitacola
+      são um grupo de amigos, que
+      <START:TEMPO>um dia<END>
+      ,
+      <START:TEMPO>em 2003<END>
+      em
+      <START:LOCAL>Coimbra<END>
+      , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam.
+O projecto foi continuando nesta toada de brincadeira e divertimento
+      <START:TEMPO>até 2005<END>
+      , altura em que a banda fixou a formação actual.
+Desde então, aquilo que começou por ser uma brincadeira de amigos, saiu para fora da garagem.
+Começaram a surgir concertos e reacções, bastante positivas, ao seu desempenho.
+Os
+      Fitacola
+      caracterizam-se por um som jovem.
+Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco.
+As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos
+      Fitacola
+      para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal.
+Esta característica de humildade e carisma da banda explica a grande popularidade que a banda atinge entre as camadas mais jovens e faixas etárias estudantes pré-universitárias.
+A banda é tida como um modelo e exemplo de atitude saudável e activa perante a vida por parte de um número cada vez maior de fãs da banda, que nela se revê e nas suas letras, músicas e atitude.
+Concertos de maior destaque:
+    
+
+      <START:TEMPO>Em dois anos<END>
+      a banda já superou a marca dos
+      <START:VALOR>75<END>
+      concertos, entre os quais se destacam:
+    
+    
+
+        <START:ACONTECIMENTO>Cercal Rock 9ª edição<END>.
+<START:ACONTECIMENTO>Festival Acção Directa 2005<END>
+       (
+      <START:LOCAL>Açores<END>
+      <START:LOCAL>Ilha Terceira<END>
+      )
+    
+    
+
+   <START:ACONTECIMENTO>Recepção ao Caloiro 2005<END> (<START:LOCAL>Covilhã<END>)  com
+      Squeeze theeze pleeze
+      e
+      Fonzie
+    
+    
+
+        <START:ACONTECIMENTO>Queima das Fitas de Coimbra 2006<END>
+      com
+      Hands on Approach
+      e
+      Boss AC
+    
+    
+
+       <START:ACONTECIMENTO>Semana Académica<END> da <START:ORGANIZACAO>Universidade<END> de <START:LOCAL>Aveiro<END> 
+      (
+     <START:TEMPO>2006<END>
+      )  com
+      Pluto
+      e
+      Expensive Soul
+    
+    
+
+       <START:ACONTECIMENTO>Semana Académica 2006<END>
+   (
+      <START:LOCAL>Castelo Branco<END>
+      )  com
+      Tara Perdida
+    
+    
+
+      <START:LOCAL>Hardclub<END>
+      (
+      <START:LOCAL>V.N.
+Gaia<END>
+      .)
+- com
+      Twenty Toon
+    
+    
+
+   <START:ACONTECIMENTO>Recepção ao Caloiro 2006<END>
+  (
+      <START:LOCAL>IPC<END>
+      )
+      <START:LOCAL>Coimbra<END>
+      com
+      Peste &amp; Sida
+      e
+      Asher Lane
+      (
+      <START:LOCAL>Alemanha<END>
+      )
+    
+    
+
+        <START:ACONTECIMENTO>RockOff 2006 VI edição<END> 
+     (
+      <START:LOCAL>Cantanhede<END>
+      )
+    
+    
+
+<START:ACONTECIMENTO>Março Jovem 2006<END>
+      (<START:LOCAL>C.M.
+Seixal<END>)  com
+      Triplet
+    
+    
+
+        <START:ACONTECIMENTO>Vans/Eastpak Club Tour 2007<END>
+     (
+      <START:LOCAL>Almada<END>
+      )  com
+      SK6
+      ,
+      Humble
+      ,
+      Devil in Me
+      ,
+      Tara Perdida
+      e
+      Strike Anywhere
+    
+    
+
+  <START:ACONTECIMENTO>Sesimbra Xtream Beach Fest 2007<END>
+      (
+      <START:LOCAL>Sesimbra<END>
+      )
+    
+    
+Discografia:
+    
+
+      Os
+      Fitacola
+      contam para já, apenas com um
+      EP
+      , edição de autor, com
+      <START:VALOR>6<END>
+      musicas, intitulado «
+      Rebobina e Pensa
+      ».
+Notícias recentes/projectos:
+    
+
+      <START:TEMPO>Neste nomento<END>
+      os
+      Fitacola
+      estiveram
+      <START:TEMPO>três semanas<END>
+      em estúdio a gravar aquele que será o seu primeiro álbum.
+Será composto por
+      <START:VALOR>12<END>
+      temas e o seu lançamento está previsto
+      <START:TEMPO>para os primeiros meses de 2008<END>
+      .
+Elementos:
+    
+
+      <START:PESSOA>Diogo<END>
+      Guitarra
+    
+    
+
+      <START:PESSOA>Libelinha<END>
+      Baixo/coros
+    
+    
+
+      <START:PESSOA>Besugo<END>
+      Guitarra
+    
+    
+
+      <START:PESSOA>Xico<END>
+      Bateria/coros
+    
+  
 
   --DOCSTART--
     
- Novidades na     <START:ACONTECIMENTO> Macworld 2007 <END>         
- <START:ORGANIZACAO> Apple <END> lançou o iPhone , o telemóvel mais esperado <START:TEMPO> dos últimos tempos <END>        
- Sempre é o iPhone , dirão os que acompanharam as especulações e palpites <START:TEMPO> dos últimos meses <END> .
-A <START:ORGANIZACAO> Apple <END> , empresa de tecnologias que tem nos leitores multimédia iPod e nos computadores Macintosh a sua bandeira, acaba de entrar na área das telecomunicações.
-O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil.
-Funciona com o sistema operativo MacOS X , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
-O anúncio foi feito <START:TEMPO> ontem <END> , em <START:LOCAL> São Francisco <END> , nos <START:LOCAL> EUA <END> , onde decorre a <START:ACONTECIMENTO> Macworld <END> , feira que a <START:ORGANIZACAO> Apple <END> organiza <START:TEMPO> todos os anos <END> para apresentar as suas novidades.
-Como de costume, a conferência de <START:PESSOA> Steve Jobs <END> , o director-geral da empresa, foi o ponto alto para os fãs da Apple .        
- "
-<START:TEMPO> De vez em quando <END> chega um produto revolucionário que muda tudo.
-É sorte se pudermos trabalhar num ao longo da carreira... e a <START:ORGANIZACAO> Apple <END> é sortuda por já ter lançado vários", disse <START:PESSOA> Steve Jobs <END> .
-O novo telefone vai estar disponível <START:TEMPO> em Junho <END> , nos <START:LOCAL> EUA <END> , em duas versões: uma com <START:VALOR> 8 gigabytes (GB) <END> de capacidade de armazenamento, que custará <START:VALOR> 600 dólares <END> , e outra com <START:VALOR> 4 GB <END> , a <START:VALOR> cerca de 500 dólares <END> .
-À Europa chegará <START:TEMPO> no final do ano <END> , e na Ásia só <START:TEMPO> em 2008 <END> .
-Tem uma câmara fotográfica com <START:VALOR> 2 megapixels <END> de resolução e um ecrã táctil com <START:VALOR> 8,8 centímetros <END> de diagonal.
-Nos <START:LOCAL> EUA <END> , o telemóvel da <START:ORGANIZACAO> Apple <END> funcionará na rede Cingular Wireless .
-O seu desenvolvimento levou ao registo de <START:VALOR> mais de 200 <END> patentes, o que o torna numa das maiores inovações da empresa.
-O facto de ter o sistema operativo OS X - usado nos computadores da Apple - significa que o iPhone terá muitas das funções habituais naquelas máquinas.
-Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do <START:ORGANIZACAO> Google <END> .
---DOCSTART--
 
-O  <START:ACONTECIMENTO> Tour <END> de <START:LOCAL> França <END> <START:TEMPO> de 2009 <END>  vai começar no <START:LOCAL> Mónaco <END> com um contra-relógio de <START:VALOR> 15 quilómetros <END> , numa etapa que também terminará no principado monegasco.
-O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de Fórmula 1.
-"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <START:PESSOA> Christian Prudhomme <END> como justificação para a decisão.
-O  <START:ACONTECIMENTO> Tour <END> de <START:LOCAL> França <END> voltará assim ao <START:LOCAL> Mónaco <END> , <START:TEMPO> depois de 45 anos <END>  ausente.
---DOCSTART--
+      Educação Ambiental
+    
+    
 
-Que percentagem do orçamento da <START:ORGANIZACAO> União Europeia <END> se destina à agricultura?
-Quantos países são oficialmente candidatos à adesão à  <START:ORGANIZACAO> Otan <END> ?
-Que sinfonia compôs <START:PESSOA> Beethoven <END> <START:TEMPO> em 1824 <END> ?
-Que país não é membro da <START:ORGANIZACAO> ONU <END> ?
-Quem se pensa ter participado na tentativa de assassínio de <START:PESSOA> Juan Carlos <END> <START:TEMPO> em 1995 <END> ?
-Quem era o pai de <START:PESSOA> Isabel II <END> ?
-Quem foi  chanceler da <START:LOCAL> Alemanha <END> <START:TEMPO> de 1974 a 1982 <END> ?
-Quando ocorreu a coroação oficial de <START:PESSOA> Isabel II <END> ?
-Em que ano foi proposta pela primeira vez a "Parceria para a Paz"?
-Quem comandou a Insurreição de Varsóvia?
-Quem escreveu a epopeia fantástica "O Senhor dos Anéis"?
-Como se chama a mulher de <START:PESSOA> George H. W. Bush <END> ?
-Como se chama a primeira mulher a escalar o Evereste sem máscara de oxigénio?
-Quem ficou conhecido como o "chanceler de ferro"?
-Em que ano foi assassinado <START:PESSOA> Martin Luther King <END> ?
-Em que cidade nasceu <START:PESSOA> Wolfgang Amadeus Mozart <END> ?
-Quantos estados tem a <START:LOCAL> Alemanha <END> ?
-Quem é <START:PESSOA> Stephen Hawking <END> ?
-O que é o hapkido?
-Quem se tornou chanceler após ter sido ministro-presidente da <START:LOCAL> Renânia-Palatinado <END> ?
-Que rei morreu <START:TEMPO> em 1718 <END> ?
-Em que ano morreu <START:PESSOA> Charles de Gaulle <END> ?
-Qual é a altura da Torre Eiffel?
-O que é o top quark?
-De acordo com o modelo "standard", quais são as três partículas elementares da física?
-Que proporção do leite vendido é usado com cereais ao pequeno-almoço?
-Em que ano teve lugar o Desembarque da Normandia?
-Quando foi assinada a "Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos"?
-A que se refere o termo "Les Six" em música?
-A quem pertencia <START:LOCAL> Nice <END> <START:TEMPO> de 1814 a 1860 <END> ?
-Qual é a sigla da <START:ORGANIZACAO> Administração Federal de Aviação <END> ?
-O que é o GI Joe?
-Qual a estrutura cujo afundamento causou controvérsia na cimeira dos <START:ORGANIZACAO> G7 <END> em <START:LOCAL> Halifax <END> ?
-Quem foi <START:PESSOA> Alexander Graham Bell? <END> 
-Quem é <START:PESSOA> Danuta Walesa <END> ?
-Quem é <START:PESSOA> Vigdís Finnbogadóttir <END> ?
-Quem eram os cossacos?
-O que é o ECU verde?
-O que é o dracma?
-Quem preside à  <START:ORGANIZACAO> RAI <END> ?
-Quem é o director de operações da <START:ORGANIZACAO> NASA <END> ?
-Em que ano se afundou o Titanic?
-Em que data é que os <START:ORGANIZACAO> Estados Unidos <END> invadiram o <START:LOCAL> Haiti <END> ?
-Em que ano foi a Revolução de Outubro?
-Em que ano ocorreu a retirada de <START:LOCAL> Dunquerque <END> ?
-Onde é a sede da <START:ORGANIZACAO> Interpol <END> ?
-Onde é que <START:PESSOA> Braque <END> e <START:PESSOA> Picasso <END> trabalharam juntos?
-De que organização era <START:PESSOA> Sergio Balanzino <END> secretário-geral?
-De que estúdio cinematográfico foi <START:PESSOA> Cedric Gibbons <END> director artístico?
-Quantos habitantes tem <START:LOCAL> Longyearbyen <END> ?
-Qual o principal componente da aspirina?
-Com que bicicleta bateu <START:PESSOA> Miguel Induráin <END> o recorde da hora?
-Quem venceu a <START:ACONTECIMENTO> Volta a França <END> <START:TEMPO> em 1988 <END> ?
-A que organização aderiu a <START:ORGANIZACAO> Grécia <END> <START:TEMPO> em 1952 <END> ?
-Quantos países visitou <START:PESSOA> Nixon <END> <START:TEMPO> entre 1953 e 1959 <END> ?
-Que cargo ocupava <START:PESSOA> François Mitterrand <END> ao ingressar no hospital de <START:LOCAL> Cochin <END> ?
-Quais são as três repúblicas bálticas?
-Quais são as três repúblicas soviéticas eslavas?
-O que é o Challenger?
-Quem é <START:PESSOA> Ernesto Zedillo Ponce de León <END> ?
-Quem era primeiro-ministro britânico antes de <START:PESSOA> John Major <END> ?
-Quem é <START:PESSOA> Boris Becker <END> ?
-Em que filme de <START:PESSOA> Kevin Reynolds <END> actuou <START:PESSOA> Kevin Costner <END> ?
-Onde se realizaram os  <START:ACONTECIMENTO> Jogos Olímpicos <END> <START:TEMPO> de 1993 <END> ?
-Que tipo de bombas foram usadas pelo IRA no ataque a <START:LOCAL> Heathrow <END> <START:TEMPO> em 1994 <END> ?
-O que é um Chinook?
-Quem é o  presidente do <START:LOCAL> Egipto <END> ?
-Onde morreu <START:PESSOA> Kurt Cobain <END> ?
-Quantos telespectadores seguiram a final do  <START:ACONTECIMENTO> Campeonato do Mundo de Futebol <END> <START:TEMPO> de 1994 <END> ?
-O que é o KMT?
-Que cromossoma está na origem do mongolismo?
-Quem era  presidente da <START:LOCAL> Chechénia <END> <START:TEMPO> em 1994 <END> ?
-Quem foi o primeiro homem na Lua?
-A que partido pertence <START:PESSOA> Mahfoudh Nahnah <END> ?
-Diga o nome de um filme realizado por <START:PESSOA> Claude Lanzmann <END> ?
-Onde fica a cidadezinha de <START:LOCAL> Neftegorsk <END> ?
-De que grupo é presidente <START:PESSOA> Claude Bébéar <END> ?
-Quem é <START:PESSOA> Jacques Diouf <END> ?
-O que significa NLW?
-O que é a Parceria para a Paz?
-A que partido pertence <START:PESSOA> Petru Luchinski <END> ?
-Que festival de cinema atribui o "Urso de Ouro"?
-Quem é o diretor do filme "Caro Diário"?
-O que é a UNHCR?
-Que valor adjudicou o <START:ORGANIZACAO> Canadá <END> para a remoção das armas atómicas ucranianas?
-Onde é que morreu <START:PESSOA> Ayrton Senna <END> ?
-Em que país foi aprovada uma lei que proíbe a publicidade ao tabaco?
-Onde ocorreram casos de febre aftosa?
-Quando aderirão à  <START:ORGANIZACAO> União Europeia <END> a <START:ORGANIZACAO> Áustria <END> , a <START:ORGANIZACAO> Suécia <END> e a <START:ORGANIZACAO> Finlândia <END> ?
-Que estúdio produziu o filme "Toy Story"?
-Qual é a terceira maior cidade da <START:LOCAL> Baviera <END> ?
-Quem era o capitão do Ajax <START:TEMPO> em 1994 <END> ?
-O que são os otakus?
-O que é o CD-i?
-Em que cidade é que <START:PESSOA> Nietzsche <END> escreveu "Ecce Homo"?
-Quando viveu <START:PESSOA> Ludwig Wittgenstein <END> ?
-Quem foi votado o futebolista do ano na <START:LOCAL> Bélgica <END> <START:TEMPO> em 1995 <END> ?
-Onde é a nova sede da <START:ORGANIZACAO> Nederlandse Gasunie <END> ?
-Em que museu foi exibida <START:TEMPO> em 1994 <END> uma exposição sobre <START:PESSOA> Mondriaan <END> ?
-Quando foram as <START:LOCAL> Antilhas Holandesas <END> legalmente equiparadas aos <START:LOCAL> Países Baixos <END> ?
-Descreva o <START:LOCAL> World Trade Center <END> .
-O que é um samovar?
-O que é a Bundesgrenzschutz?
-O que é a Generalitat?
-O que é a Iaaf?
-Quem eram os pictos?
-O que era o Granma?
-O que é " <START:ACONTECIMENTO> Margarita e o Mestre <END> "?
-O que é Nauru?
-O que é Roque Santeiro?
-O que é a Mona Lisa?
-O que é a cachupa?
-O que é a Marselhesa?
-O que é kabuki?
-O que é o comunismo gulash?
-O que é o cirílico?
-O que é o efeito de estufa?
-O que é o fauvismo?
-O que é o xelim?
-O que é um mujique?
-O que é um ornitorrinco?
-O que é um sátrapa?
-Que sabe sobre o aikido?
-Quem foi <START:PESSOA> Amílcar Cabral <END> ?
-Quem foi <START:PESSOA> Qin Shi Huang <END> ?
-Que país foi abalado por um terramoto <START:TEMPO> em Agosto de 94 <END> ?
-O que é que foi anexado após a Guerra dos Seis Dias?
-Em que cidade é que fica o <START:LOCAL> Roque Santeiro <END> ?
-Em que estado fica <START:LOCAL> Porto Alegre <END> ?
-Onde fica <START:LOCAL> Beslan <END> ?
-Onde fica a <START:LOCAL> Grande Hanish <END> ?
-Onde fica o <START:LOCAL> Banat <END> ?
-Onde ganharam os Abba o <START:ACONTECIMENTO> Festival da Eurovisão <END> ?
-Onde naufragou o Marika-7?
-Onde é que fica a represa Ataturk?
-Qual a capital do <START:LOCAL> Estado Livre de Orange <END> ?
-Qual é a cidade santa xiita?
-Que país tomou a <START:LOCAL> Grande Hanish <END> ?
-Onde foi apunhalado <START:PESSOA> Naguib Mahfouz <END> ?
-Em quanto é que foi multado <START:PESSOA> John Fashanu <END> ?
-Em que lugar ficou <START:PESSOA> Paulo de Carvalho <END> no <START:ACONTECIMENTO> Festival da Eurovisão <END> ?
-Qual é a duração do filme "Heimat"?
-Qual é a área do Oceano Pacífico?
-Qual é o recorde mundial do salto em altura?
-Quanta cerveja bebe um brasileiro <START:TEMPO> anualmente <END> ?
-Quanto mede <START:PESSOA> Sergei Yuran <END> ?
-Quanto pesa <START:PESSOA> Romário <END> ?
-Quantos estados tem o <START:LOCAL> Brasil <END> ?
-Quantos é que eram os Beatles?
-Que percentagem da população do <START:LOCAL> Québec <END> fala francês?
-Que população tem <START:LOCAL> Amiens <END> ?
-A que dinastia pertencia <START:PESSOA> Gengis Khan <END> ?
-Como se chama a companhia ferroviária francesa?
-A quem foi conquistada <START:LOCAL> Lisboa <END> <START:TEMPO> em 1147 <END> ?
-Contra que clube jogou o Marítimo <START:TEMPO> a 2 de Abril de 1995 <END> ?
-De que equipa é treinador <START:PESSOA> Johann Cruyff <END> ?
-De que selecção é <START:PESSOA> Ravelli <END> é o guarda-redes?
-Quem foram os adversários do Boavista na  <START:ACONTECIMENTO> Taça UEFA <END> <START:TEMPO> de 1994 <END> ?
-Diga um jornal norueguês.
-Onde trabalha <START:PESSOA> José Rodrigues Filho <END> ?
-Que povo foi convertido Ã  ortodoxia durante a Idade Média?
-Que hospital fica em <START:LOCAL> Matosinhos <END> ?
-<START:PESSOA> Ravelli <END> é o goleiro de que seleção?
-Qual o actual nome do <START:LOCAL> Ceilão <END> ?
-Que competição se realizou pela primeira vez <START:TEMPO> em 1896 <END> ?
-Qual foi o resultado do <START:ACONTECIMENTO> Itália-Nigéria <END>  no  <START:ACONTECIMENTO> Campeonato do Mundo <END> <START:TEMPO> de 1994 <END> ?
-Em que desporto é <START:ACONTECIMENTO> Torneio das Cinco Nações <END> ?
-Em que língua está escrito o Alcorão?
-Em que telenovela aparece o prefeito <START:PESSOA> Odorico <END> ?
-Diga um livro de <START:PESSOA> Júlio Verne <END> .
-Que edifício foi erigido <START:TEMPO> no século 12 <END> ?
-Que guerra durou <START:TEMPO> de 1865 a 1870 <END> ?
-Para que instrumento são os concertos de <START:PESSOA> Chopin <END> ?
-Qual a língua mais falada no <START:LOCAL> Québec <END> ?
-Qual a nacionalidade de <START:PESSOA> Geoffrey Oryema <END> ?
-Qual a religião oficial da <START:LOCAL> Tailândia <END> ?
-Qual é o planeta vermelho?
-Que corpo celeste é Toutatis?
-Que ensina <START:PESSOA> Vital do Rego <END> ?
-Quem venceu o open da <START:LOCAL> Austrália <END> <START:TEMPO> em 1995 <END> ?
-De quem é "O Capital"?
-Diga um jogador francês do Manchester United.
-Quem salvou judeus durante a Segunda Guerra Mundial?
-Diga um escritor chinês.
-Diga um  Herói da <START:LOCAL> União Soviética <END> .
-Mencione um membro da <START:ORGANIZACAO> Academia Francesa <END> .
-Quem foi  presidente da <START:LOCAL> Suíça <END> <START:TEMPO> no ano de 1995 <END> ?
-Quem criou Spirou?
-Quem escreveu "A Capital"?
-Quem escreveu "O Idiota"?
-Quem é " <START:PESSOA> Toninho Malvadeza <END> "?
-Quem é o sogro de <START:PESSOA> Mohammad Khalifa <END> ?
-Quem é que escreveu "Os Persas"?
-Desde quando é <START:ORGANIZACAO> Portugal <END> uma república?
-Quando houve uma erupção do Vesúvio?
-Quando reinou <START:PESSOA> Isabel I <END> ?
-Quando teve lugar a primeira edição da <START:ACONTECIMENTO> Taça Davis <END> ?
-Quando viveu <START:PESSOA> Franz Liszt <END> ?
-Quando é que <START:PESSOA> Cleópatra <END> se suicidou?
-Quando é que a <START:ORGANIZACAO> URSS <END> invadiu a Manchúria?
+      Este espaço se destina a divulgar os principais
+      Programas
+      ,
+      Projetos
+      e
+      Ações
+      desenvolvidos pela
+      <START:ORGANIZACAO>Coordenação-Geral de Educação Ambiental<END>
+      que tem como eixos centrais:
+      Fortalecimento da Política Nacional de Educação Ambiental
+      -
+      Lei 9795/99
+      ;
+      Formação Continuada na Educação Básica
+      ;
+      Fomento a projetos de Educação Ambiental 
+      ;
+      Educação Ambiental no Ensino Superior
+      .Estas ações, em sua maior parte, estão em consonância com as ações procedidas no âmbito da
+      <START:ORGANIZACAO>Diretoria de Educação Ambiental<END>
+      -
+      <START:ORGANIZACAO>DEA<END>
+      , do
+      <START:ORGANIZACAO>Ministério do Meio Ambiente<END>
+      ; guardadas suas competências e atribuições específicas.
+Enraizamento da
+      Educação Ambiental
+      no
+      <START:LOCAL>Brasil<END>
+    
+    
+
+      Ações do
+      <START:ORGANIZACAO>Órgão Gestor<END>
+      desenvolvidas junto às
+       <START:ORGANIZACAO>Unidades<END> da <START:ORGANIZACAO>Federação<END>
+      , a fim de articular e fortalecer entidades, instituições e colegiados que trabalham com
+      Educação Ambiental
+      , incentivando a organicidade entre as ações, projetos e programas.
+Mapeamento da
+      EA
+      no
+      Ensino Superior
+    
+    
+
+      Contribuir para a ampliação do debate a respeito da
+      Educação Ambiental
+      (
+      EA
+      ) em instituições de educação superior (
+      <START:ORGANIZACAO>IES<END>
+      ) brasileiras, com vistas à reflexão sobre políticas públicas educacionais que considerem a dimensão ambiental na formação dos profissionais de nível superior das diferentes áreas do conhecimento.
+Ver síntese da pesquisa.
+O que fazem as escolas que dizem que fazem
+      EA
+    
+    
+
+      Quais são os caminhos utilizados pelas escolas em
+      Educação Ambiental
+      ?
+Para responder a essa pergunta, uma parceria entre a
+      <START:ORGANIZACAO>Secretaria de Educação Continuada, Alfabetização e Diversidade<END>
+      -
+      <START:ORGANIZACAO>SECAD/MEC<END>
+      , o
+      <START:ORGANIZACAO>INEP<END>
+      e a
+      <START:ORGANIZACAO>Associação Nacional de Pesquisa em Educação<END>
+      -
+      <START:ORGANIZACAO>ANPED<END>
+      possibilitou a elaboração de uma pesquisa para aprofundar os dados obtidos no
+      Censo Escolar
+      (
+      <START:TEMPO>2001-2004<END>
+      ) e conhecer melhor como estas alternativas são processadas e significadas nos diferentes contextos escolares, possibilitando uma compreensão qualitativa dos caminhos de inserção da
+      Educação Ambiental
+      no ensino fundamental.
+Educação de Chico Mendes
+    
+    
+Programa de fomento a projetos de educação ambiental no ensino básico
+    
+
+      O
+      Programa Educação de Chico Mendes
+      surgiu para dar continuidade à construção permanente da educação ambiental e à promoção de um círculo virtuoso na busca do conhecimento, pesquisa e geração de saber e ações transformadoras a partir das escolas e das comunidades locais.
+[...]
+    
+    
+
+      - Formação continuada de professores em
+      Educação Ambiental
+    
+    
+
+      A
+      Resolução nº 13
+      do
+      <START:ORGANIZACAO>FNDE<END>
+      dá continuidade do
+      Programa Vamos Cuidar do Brasil com as Escolas
+      , estabelecendo normas para o apoio financeiro a projetos de formação de professores em
+      Educação Ambiental
+      .
+Tais projetos de formação envolverão professores do segundo ciclo do ensino fundamental (
+      5a
+      a
+      8a
+      séries), de escolas públicas que participaram do processo da
+      <START:ACONTECIMENTO>II Conferência Nacional Infanto-Juvenil pelo Meio Ambiente<END>
+      ; e à elaboração, aquisição, reimpressão ou reprodução do material didático empregado na formação.
+O objetivo desta ação, é estimular, em professores, alunos e gestores de educação, a leitura crítica da realidade a partir da diversidade e do meio ambiente e a participação no processo de construção de conhecimentos, pesquisa e intervenção cidadã com base em valores voltados à sustentabilidade da vida em suas múltiplas dimensões.
+Os projetos de formação devem aprimorar a qualidade da abordagem da educação ambiental que, segundo
+      
+        Censo
+        do
+        <START:ORGANIZACAO>INEP<END>
+        
+      , encontra presente em
+      <START:VALOR>94,5%<END>
+      d
+    
+    
+
+      as escolas do ensino fundamental do
+      <START:LOCAL>Brasil<END>
+      .
+Portfolio do
+      <START:ORGANIZACAO>Órgão Gestor da Política Nacional de Educação Ambiental<END>
+    
+    
+
+      Reúne um resumo de todos os programas, projetos e ações do
+      <START:ORGANIZACAO>Órgão Gestor da Política Nacional de Educação Ambiental<END>
+      .
+Programa Juventude e Meio Ambiente
+    
+    
+
+      Este
+      Programa
+      se propõe a incentivar e a aprofundar o debate socioambiental com foco em políticas públicas, deflagrando um processo de formação de jovens e de fortalecimento dos
+      <START:ORGANIZACAO>Coletivos Jovens de Meio Ambiente<END>
+      existentes em todo o país.
+A proposta dos
+      Coletivos Jovens
+      vem sendo construída e implementada
+      <START:TEMPO>desde 2003<END>
+      , a partir da realização da
+      <START:ACONTECIMENTO>I Conferência Nacional Infanto-Juvenil pelo Meio Ambiente<END>
+      .
+(*acesse a proposta de identidade visual dos
+      <START:ORGANIZACAO>Coletivos Jovens<END>
+      para compreender melhor esses grupos*)
+    
+    
+
+      O
+
+        Manual Orientador para Coletivos Jovens de Meio Ambiente
+              é uma das publicações do
+      Programa
+      , e tem como objetivo contribuir para o fortalecimento dos
+      Coletivos Jovens
+      (
+      CJs
+      ) já existentes e estimular a formação de novos
+      Coletivos Jovens
+      em municípios.A principal linha de ação do
+      Programa
+      é a formação de jovens na área socioambiental, em cinco temas principais:
+      Educação Ambiental
+      ;
+      Fortalecimento Organizacional
+      ;
+      Educomunicação
+      ;
+      Empreendedorismo
+      ; e
+      Participação Política
+      .
+Trata-se de um processo de formação presencial e a distância, e que envolverá jovens de todos os estados brasileiros.
+Orientações Curriculares
+    
+
+      Ensino Médio
+    
+    
+
+      A
+      <START:ORGANIZACAO>Secretaria de Educação Continuada, Alfabetização e Diversidade<END>
+      (
+      <START:ORGANIZACAO>SECAD<END>
+      ) foi convidada pelo departamento de
+        Ensino Médio
+      da
+      <START:ORGANIZACAO>Secretaria de Educação Básica<END>
+      (
+      <START:ORGANIZACAO>SEB<END>
+      ) a participar do processo de reelaboração dos
+     Parâmetros Curriculares Nacionais do Ensino Médio
+     , no intuito de produzir textos que contemplassem a perspectiva da diversidade.Nesse sentido, a
+      <START:ORGANIZACAO>SECAD<END>
+      fez uma oficina com a participação de suas coordenações-gerais onde foi trabalhada a questão da diversidade no currículo como forma de orientar as atividades pedagógicas, ou seja, definir qual a concepção de currículo e diversidade que se quer trabalhar, quais os objetivos e qual a melhor maneira de inserir as diferentes temáticas nas áreas e disciplinas do ensino médio.
+Cada coordenação produziu um texto procurando articular as várias temáticas, que resultará num
+      Caderno de Diversidade
+      para acompanhar os
+      Parâmetros Curriculares Nacionais do Ensino Médio
+      .
+Com-vida MEC
+    
+    
+
+      
+        Programa Institucional de Gestão Ambiental
+        do
+        <START:ORGANIZACAO>MEC<END>
+      
+      que visa a melhor gestão dos recursos naturais e a diminuição dos impactos ambientais gerados pelas suas atividades.
+--DOCSTART--
+    
+A MINHOCA E A MAÇÃ
+    
+
+      Durante a discussão sobre a natureza do salazarismo, e depois de assinalar, com o fastio do costume, a ignorância grotesca do adversário,
+      <START:PESSOA>Vasco Pulido Valente<END>
+      recomendou-lhe esta reflexão: «
+      <START:PESSOA>Vítor Dias<END>
+      que puxe pela cabeça: existe em
+      <START:LOCAL>Portugal<END>
+      alguém ou alguma coisa a que o
+      PCP
+      já não chamou 'fascista?
+?» Bom argumento.
+De facto, a repetição exaustiva da mesma acusação desacredita o acusador.
+Proponho, por isso, outra reflexão.
+<START:PESSOA>Vasco Pulido Valente<END>
+      que puxe pela cabeça: existe em
+      <START:LOCAL>Portugal<END>
+      alguém ou alguma coisa a que
+      <START:PESSOA>Vasco Pulido Valente<END>
+      já não tenha chamado "ignorante"?

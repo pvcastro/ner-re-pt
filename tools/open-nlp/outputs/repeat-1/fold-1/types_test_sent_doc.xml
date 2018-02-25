@@ -1,307 +1,952 @@
 --DOCSTART--
-<START:ACONTECIMENTO_EFEMERIDE> Terramoto de 1755 <END>
-O <START:ACONTECIMENTO_EFEMERIDE> Terramoto <END>
-O sismo fez-se sentir <START:TEMPO_TEMPO_CALEND> na manhã de 1 de Novembro de 1755 <END> , <START:TEMPO_GENERICO> dia <END> que coincide com o feriado <START:TEMPO_TEMPO_CALEND> do Dia de Todos-os-Santos <END> .
-O epicentro não é conhecido com exactidão, havendo diversos sismólogos que propõem locais distanciados de centenas de quilómetros.
-No entanto, todos convergem para um epicentro no mar, <START:VALOR_QUANTIDADE> entre 150 a 500 quilómetros <END> a sudoeste de <START:LOCAL_HUMANO> Lisboa <END> .
-Devido a um forte sismo, ocorrido <START:TEMPO_TEMPO_CALEND> em 1969 <END> no <START:LOCAL_FISICO> Banco de Gorringe <END> , este local tem sido apontado como tendo forte probabilidade de aí se ter situado o epicentro <START:TEMPO_TEMPO_CALEND> em 1755 <END> .
-Relatos da época afirmam que os abalos foram sentidos, consoante o local, <START:TEMPO_DURACAO> durante entre 6 minutos a 2 horas e meia <END> , causando fissuras enormes de que ainda <START:TEMPO_GENERICO> hoje <END> há vestígios em <START:LOCAL_HUMANO> Lisboa <END> .
-Com os vários desmoronamentos os sobreviventes procuraram refúgio na zona portuária e assistiram ao recuo das águas, revelando o fundo do mar cheio de destroços de navios e cargas perdidas.
-<START:TEMPO_TEMPO_CALEND> Poucas dezenas de minutos depois <END> , um tsunami, que actualmente se supõe ter atingido <START:VALOR_QUANTIDADE> 20 metros <END> de altura, fez submergir o porto e o centro da cidade.
-Nas áreas que não foram afectadas pelo tsunami, o fogo logo se alastrou, e os incêndios duraram pelo menos cinco dias.
-Todos tinham fugido e não havia quem o apagasse.
-<START:LOCAL_HUMANO> Lisboa <END> não foi a única cidade portuguesa afectada pela catástrofe.
-Todo o sul de <START:LOCAL_HUMANO> Portugal <END> , nomeadamente o <START:LOCAL_HUMANO> Algarve <END> , foi atingido e a destruição foi generalizada.
-As ondas de choque do sismo foram sentidas por toda a <START:LOCAL_HUMANO> Europa <END> e norte da <START:LOCAL_HUMANO> África <END> .
-Os maremotos originados pela movimentação tectónica varreram desde do norte de <START:LOCAL_HUMANO> África <END> até ao norte da <START:LOCAL_HUMANO> Europa <END> , nomeadamente até à <START:LOCAL_HUMANO> Finlândia <END> e através do <START:LOCAL_FISICO> Atlântico <END> , afectando locais tão longínquos como <START:LOCAL_HUMANO> Martinica <END> e <START:LOCAL_HUMANO> Barbados <END> .
-De uma população de <START:VALOR_QUANTIDADE> 275 mil <END> habitantes em <START:LOCAL_HUMANO> Lisboa <END> , crê-se que <START:VALOR_QUANTIDADE> 90 mil <END> morreram[2].
-Outros <START:VALOR_QUANTIDADE> 10 mil <END> foram vitimados em <START:LOCAL_HUMANO> Marrocos <END> .
-<START:VALOR_QUANTIDADE> Cerca de 85% <END> das construções de <START:LOCAL_HUMANO> Lisboa <END> foram destruídas, incluindo palácios famosos e bibliotecas, conventos e igrejas, hospitais e todas as estruturas.
-Várias construções que sofreram poucos danos pelo terramoto foram destruídas pelo fogo que se seguiu ao abalo sísmico.
-A recém construída <START:OBRA_ARTE> Casa da Ópera <END> , aberta apenas <START:TEMPO_TEMPO_CALEND> seis meses antes <END> , foi totalmente consumida pelo fogo.
-O <START:OBRA_ARTE> Palácio Real <END> , que se situava na margem do <START:LOCAL_FISICO> Tejo <END> , onde <START:TEMPO_GENERICO> hoje <END> existe o <START:LOCAL_HUMANO> Terreiro do Paço <END> , foi destruído pelos abalos sísmicos e pelo tsunami.
-Dentro, a biblioteca de <START:VALOR_QUANTIDADE> 70 mil <END> volumes e centenas de obras de arte, incluindo pinturas de <START:PESSOA_INDIVIDUAL> Ticiano <END> , <START:PESSOA_INDIVIDUAL> Rubens <END> , e <START:PESSOA_INDIVIDUAL> Correggio <END> , foram perdidas.
-O precioso <START:OBRA_REPRODUZIDA> Arquivo Real <END> com documentos relativos à exploração oceânica e outros documentos antigos também foram perdidos.
-O terramoto destruiu ainda as maiores igrejas de <START:LOCAL_HUMANO> Lisboa <END> , especialmente a <START:OBRA_ARTE> Catedral de Santa Maria <END> , e as <START:OBRA_ARTE> Basílicas de São Paulo <END> , <START:OBRA_ARTE> Santa Catarina <END> , <START:OBRA_ARTE> São Vicente de Fora <END> , e a da <START:OBRA_ARTE> Misericórdia <END> .
-As ruínas do <START:OBRA_ARTE> Convento do Carmo <END> ainda <START:TEMPO_GENERICO> hoje <END> podem ser visitadas no centro da cidade.
-O túmulo de <START:PESSOA_INDIVIDUAL> Nuno Álvares Pereira <END> , nesse convento, perdeu-se também.
-O <START:LOCAL_HUMANO> Hospital Real de Todos os Santos <END> foi consumido pelos fogos e centenas de pacientes morreram queimados.
-Registos históricos das viagens de <START:PESSOA_INDIVIDUAL> Vasco da Gama <END> e <START:PESSOA_INDIVIDUAL> Cristóvão Colombo <END> foram perdidos, e incontáveis construções foram arrasadas (incluindo muitos exemplares da arquitectura <START:TEMPO_TEMPO_CALEND> do período Manuelino <END> em <START:LOCAL_HUMANO> Portugal <END> ).
---DOCSTART--
 
- <START:PESSOA_INDIVIDUAL> Sebastião <END> de <START:LOCAL_HUMANO> Portugal <END>
-Desaparecimento e lenda
-Na subsequente batalha de <START:ACONTECIMENTO_EFEMERIDE> Alcácer-Quibir <END> , o campo dos três reis, os portugueses sofreram uma derrota humilhante às mãos do  <START:PESSOA_INDIVIDUAL> sultão Ahmed Mohammed <END> de <START:LOCAL_HUMANO> Fez <END> e perderam uma boa parte do seu exército.
-Quanto a <START:PESSOA_INDIVIDUAL> Sebastião <END> , provavelmente morreu na batalha ou foi morto depois desta terminar.
-Mas para o povo português de então o rei havia apenas desaparecido.
-Este desastre teria as piores consequências para o país, colocando em perigo a sua independência.
-O resgate dos sobreviventes ainda mais agravou as dificuldades financeiras do país.
-<START:TEMPO_TEMPO_CALEND> Em 1581 <END> ,  <START:PESSOA_INDIVIDUAL> Filipe I <END> de <START:LOCAL_HUMANO> Portugal <END> , mandou transladar para o <START:LOCAL_HUMANO> Mosteiro dos Jerónimos <END> em <START:LOCAL_HUMANO> Lisboa <END> um corpo que alegava ser o do rei desaparecido, na esperança de acabar com o sebastianismo, o que não resultou, nem se pôde comprovar ser o corpo realmente o de <START:PESSOA_INDIVIDUAL> Sebastião I <END> .
-O <START:OBRA_ARTE> Túmulo de Mármore <END> que repousa sobre dois elefantes, pode ainda <START:TEMPO_TEMPO_CALEND> hoje <END> ser observado em <START:LOCAL_HUMANO> Lisboa <END> .
-A dúvida que persiste <START:TEMPO_DURACAO> há mais de 425 anos <END>  poderia provavelmente <START:TEMPO_TEMPO_CALEND> hoje <END> ser resolvida com um simples teste de <START:COISA_SUBSTANCIA> ADN <END> ( <START:COISA_SUBSTANCIA> DNA <END> ).
-Tornou-se então numa lenda do grande patriota português - o "rei dormente" (ou um <START:PESSOA_INDIVIDUAL> Messias <END> ) que iria regressar para ajudar <START:ORGANIZACAO_ADMINISTRACAO> Portugal <END> nas suas horas mais sombrias, uma imagem semelhante à que o <START:PESSOA_INDIVIDUAL> Rei Artur <END> tem em <START:PESSOA_POVO> Inglaterra <END> ou <START:PESSOA_INDIVIDUAL> Frederico Barbarossa <END> na <START:PESSOA_POVO> Alemanha <END> .
-Durante o subsequente domínio espanhol ( <START:TEMPO_TEMPO_CALEND> 1580-1640 <END> ) da coroa portuguesa, três pretendentes afirmaram ser o <START:PESSOA_INDIVIDUAL> rei D. Sebastião <END> , tendo o último deles - um italiano - sido enforcado <START:TEMPO_TEMPO_CALEND> em 1619 <END> .
-Mesmo <START:TEMPO_TEMPO_CALEND> no século XIX <END> , lavradores <START:PESSOA_GRUPOMEMBRO> Sebastianistas <END> no sertão brasileiro acreditavam que o rei iria regressar para ajuda-los na luta contra a República ateia Brasileira " (Ver <START:OBRA_REPRODUZIDA> Revolta dos Canudos <END> ).
-Em conclusão, a <START:PESSOA_GRUPOMEMBRO> Dinastia de Avis <END> , popular entre o povo após ter guiado <START:PESSOA_POVO> Portugal <END> <START:TEMPO_GENERICO> à sua época <END> de ouro, acabou por submergir na busca de um sonho: a <START:OBRA_PLANO> União Peninsular <END> .
-As mesmas complicações causadas pela procriação consanguínea causou as mortes das crianças de <START:PESSOA_INDIVIDUAL> D. João III <END> e  <START:PESSOA_INDIVIDUAL> Catarina <END> de <START:LOCAL_HUMANO> Áustria <END> e a loucura e desespero dos seus netos ( <START:PESSOA_INDIVIDUAL> Sebastião <END> e <START:PESSOA_INDIVIDUAL> Carlos <END> ), os últimos príncipes de <START:ORGANIZACAO_ADMINISTRACAO> Avis-Habsburgo <END> .
---DOCSTART--
-    
- " <START:PESSOA_INDIVIDUAL> Pequena Notável <END> " ou a " <START:PESSOA_INDIVIDUAL> Brazilian Bombshell <END> "        
- Depois de ser exibida no <START:LOCAL_HUMANO> Rio <END> , chega a <START:LOCAL_HUMANO> São Paulo <END> a mostra  Carmen Miranda para sempre  , que será inaugurada <START:TEMPO_TEMPO_CALEND> hoje <END> para convidados e <START:TEMPO_TEMPO_CALEND> amanhã <END> para o público no  <START:LOCAL_HUMANO> Memorial <END> da <START:LOCAL_HUMANO> América Latina <END> .
-Fotos, roupas (algumas são releituras contemporâneas de seu estilo), objetos, são  <START:VALOR_QUANTIDADE> mais de 700 <END> peças reunidas (além de filmes e músicas) para contar a história da " <START:PESSOA_INDIVIDUAL> Pequena Notável <END> " ou a " <START:PESSOA_INDIVIDUAL> Brazilian Bombshell <END> " - não há no mundo quem não conheça essa genial estrela que conquistou o <START:PESSOA_POVO> Brasil <END> , a <START:PESSOA_POVO> Broadway <END> e <START:PESSOA_POVO> Hollywood <END> .
-A imagem recorrente que vem à cabeça é a da baiana com badulaques na cabeça sempre sorridente - ela se apresentava com nada menos que <START:VALOR_QUANTIDADE> 20 quilos <END> sobre o corpo, entre roupas e acessórios, e uma plataforma de <START:VALOR_QUANTIDADE> 15 cm <END> de altura.
-<START:PESSOA_INDIVIDUAL> Carmen Miranda <END> ( <START:TEMPO_TEMPO_CALEND> 1909-1955 <END> ) "nasceu personagem, era uma artista" , como diz o jornalista e escritor <START:PESSOA_INDIVIDUAL> Ruy Castro <END> , que há pouco lançou uma biografia sobre a estrela.
-Apesar do enorme sucesso conquistado <START:TEMPO_TEMPO_CALEND> a partir do fim da década de 1930 <END> nos <START:LOCAL_HUMANO> EUA <END> , para <START:PESSOA_INDIVIDUAL> Ruy Castro <END> a fase da artista no <START:LOCAL_HUMANO> Brasil <END> é a que precisa ser "urgentemente conhecida pelo público brasileiro".
-Ele, que fez consultoria dos textos presentes na mostra, vai realizar uma palestra gratuita <START:TEMPO_TEMPO_CALEND> na sexta-feira <END> , , <START:TEMPO_TEMPO_CALEND> às 19h30 <END> , sobre a vida e a obra da artista na <START:LOCAL_HUMANO> Biblioteca Victor Civita <END> , no <START:LOCAL_HUMANO> Memorial <END> .
-Carmen Miranda para sempre  é um projeto que vem sendo realizado <START:TEMPO_DURACAO> há mais de dois anos <END> .
-Com curadoria de <START:PESSOA_INDIVIDUAL> Fabiano Canosa <END> , a mostra feita com peças da própria coleção de <START:PESSOA_INDIVIDUAL> Canosa <END> , do <START:ORGANIZACAO_INSTITUICAO> Museu Carmen Miranda <END> (inaugurado <START:TEMPO_TEMPO_CALEND> em 1976 <END> ) e da família da artista, tem percurso cronológico e está dividida em núcleos.
-Inicia com o nascimento em <START:LOCAL_HUMANO> Portugal <END> e inclui imagens de sua família.
-Depois, vem a fase brasileira, "quando ela era a rainha do disco, do rádio, do cineteatro e fez filmes que estão quase todos destruídos, uma tragédia".
-Um dos únicos que restaram é <START:OBRA_REPRODUZIDA> Alô, Alô Carnaval <END> , <START:TEMPO_TEMPO_CALEND> de 1936 <END> , que <START:PESSOA_INDIVIDUAL> Carmen <END> fez ao lado de sua irmã <START:PESSOA_INDIVIDUAL> Aurora <END> , morta <START:TEMPO_TEMPO_CALEND> em dezembro <END> - como conta o curador.
-Não era ainda a <START:PESSOA_INDIVIDUAL> Carmen Miranda <END> dos badulaques.
-Era uma "mulher art déco <START:TEMPO_TEMPO_CALEND> dos anos 30 <END> ", como diz <START:PESSOA_INDIVIDUAL> Canosa <END> , que usava calças, ternos e vestidos belos - em particular, há uma sala especial com retratos da artista feitos <START:TEMPO_TEMPO_CALEND> em 1931 <END> , em <START:LOCAL_HUMANO> Buenos Aires <END> , pela alemã <START:PESSOA_INDIVIDUAL> Annemarie Heinrich <END> .
-E foi durante uma de suas apresentações no  <START:LOCAL_HUMANO> Cassino <END> da <START:LOCAL_HUMANO> Urca <END> , no <START:LOCAL_HUMANO> Rio <END> , <START:TEMPO_TEMPO_CALEND> em 1939 <END> , que o produtor americano <START:PESSOA_INDIVIDUAL> Lee Shubert <END> viu <START:PESSOA_INDIVIDUAL> Carmen <END> e se encantou.
-Levou-a para a <START:ORGANIZACAO_EMPRESA> Broadway <END> e o sucesso foi inevitável.
-Ela, com o <START:PESSOA_GRUPOMEMBRO> Bando da Lua <END> , ficou consagrada já no início com o espetáculo <START:OBRA_REPRODUZIDA> The Streets of Paris <END> .
-Daí em diante, tornou-se uma das maiores celebridades que o mundo já conheceu.
-Serviço    
- Carmen Miranda para sempre  .
-<START:LOCAL_HUMANO> Galeria Marta Traba <END> .
-<START:LOCAL_HUMANO> Memorial <END> da <START:LOCAL_HUMANO> América Latina <END> .
-<START:LOCAL_HUMANO> Av. Auro Soares de Moura Andrade <END> , 664, 3823-4741.
-<START:TEMPO_TEMPO_CALEND> 9h/18h <END> (fecha <START:TEMPO_TEMPO_CALEND> 2.ª <END> ).
-Grátis.
-<START:TEMPO_TEMPO_CALEND> Até 16/4 <END> .
-Abertura <START:TEMPO_TEMPO_CALEND> hoje <END> , <START:TEMPO_TEMPO_CALEND> 19h30 <END> , para convidados.
-<START:TEMPO_FREQUENCIA> Diariamente <END> , <START:TEMPO_TEMPO_CALEND> às 10h30 <END> e <START:TEMPO_TEMPO_CALEND> às 15h <END> , exibição do documentário <START:OBRA_REPRODUZIDA> Bananas Is My Business <END>      
+<START:OBRA_PLANO>Protocolo de Quioto<END> 
 
-  --DOCSTART--
 
- <START:LOCAL_HUMANO> Lisboa <END> - <START:LOCAL_HUMANO> Dakar <END> : <START:PESSOA_INDIVIDUAL> Carlos Sousa <END> ambiciona pódio
-PILOTO PORTUGUÊS NÃO ESCONDE DESEJO E ELOGIA ORGANIZAÇÃO
-O piloto português <START:PESSOA_INDIVIDUAL> Carlos Sousa <END> revelou que tem "capacidade para chegar ao pódio" dos automóveis na edição <START:TEMPO_TEMPO_CALEND> de 2008 <END> do  <START:LOCAL_HUMANO> Lisboa <END> - <START:LOCAL_HUMANO> Dakar <END> cujo percurso foi <START:TEMPO_TEMPO_CALEND> hoje <END> apresentado em <START:LOCAL_HUMANO> Lisboa <END> .
-<START:PESSOA_INDIVIDUAL> Carlos Sousa <END> acredita que <START:TEMPO_TEMPO_CALEND> este ano <END> o rali vai ser mais duro.
-"Vai ser um percurso para os mais resistentes.
-É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo", afirmou o piloto da <START:PESSOA_GRUPOMEMBRO> Lagos Team <END> , que vai conduzir um <START:COISA_MEMBROCLASSE> Volkswagen Touareg <END> idêntico aos de fábrica.
-Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: "Há <START:VALOR_QUANTIDADE> 15 ou mais <END> pilotos com hipóteses de chegar à vitória e ao pódio.
-As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela <START:LOCAL_VIRTUAL> Internet <END> , mas para os pilotos vai ser uma luta <START:TEMPO_TEMPO_CALEND> até ao último dia <END> ".
-O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical <START:TEMPO_TEMPO_CALEND> em Setembro <END> .
-No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições <START:TEMPO_TEMPO_CALEND> dentro de mês e meio <END> , quando começar o rali.
---DOCSTART--
+<START:OBRA_PLANO>Decreto 7/2002<END>, <START:TEMPO_TEMPO_CALEND>de 25 de Março<END> que aprova o <START:OBRA_PLANO>Protocolo de Quioto<END> à <START:OBRA_PLANO>Convenção Quadro das Nações Unidas sobre Alterações Climáticas<END> 
 
-É nós na fita!
-A arte como espaço de reflexão.
-<START:PESSOA_INDIVIDUAL> Juliaura <END> · <START:LOCAL_HUMANO> Porto Alegre <END> ( <START:LOCAL_HUMANO> RS <END> )
-Não creio que se deva dizer mais "A obra de arte como espaço de reflexão e não como retrato de um gueto, isolado, à parte do contexto geral da sociedade."
-Com a citação dessa frase de <START:PESSOA_INDIVIDUAL> Jessé Oliveira <END> , <START:PESSOA_INDIVIDUAL> Fabio Gomes <END> iniciou matéria de cobertura do <START:ACONTECIMENTO_ORGANIZADO> 2º Encontro de Arte de Matriz Africana <END> , realizado <START:TEMPO_TEMPO_CALEND> de 12 a 16 de dezembro de 2007 <END> no <START:LOCAL_HUMANO> Teatro de Arena <END> em <START:LOCAL_HUMANO> Porto Alegre <END> .
-Bem baixinho, só aqui pra nós do <START:PESSOA_GRUPOMEMBRO> Overmundo <END> , a cobertura é um espetáculo a mais, embora não fizesse parte da programação.
-Um estouro, como diz <START:PESSOA_INDIVIDUAL> vovó Marinalva <END> .
-<START:PESSOA_INDIVIDUAL> Fabio <END> (ele não acentua o nome e que eu vou fazer com a proparoxítona relativa, a quebra de ditongo, o escambáu), pois o homem diz que <START:PESSOA_INDIVIDUAL> Jessé Oliveira <END> escreveu a frase "a propósito de justificar a escolha do texto <START:OBRA_REPRODUZIDA> Transegun <END> , de <START:PESSOA_INDIVIDUAL> Cuti <END> , como primeira peça montada pelo grupo <START:PESSOA_GRUPOMEMBRO> CaixaPreta <END> , criado <START:TEMPO_TEMPO_CALEND> em 2002 <END> a partir da reunião de artistas negros atuantes em <START:LOCAL_HUMANO> Porto Alegre <END> .
-Aí eu me derreti toda, por que tenho paixnão pelo <START:PESSOA_INDIVIDUAL> Cuti <END> desde que sentei no colo dele.
-Calma pessoal, calminha aí.
-Eu tinha dois aninhos de idade, quando ele participou em um encontro em <START:LOCAL_HUMANO> Porto <END> , na <START:LOCAL_HUMANO> Câmara de Vereadores <END> , e " <START:PESSOA_INDIVIDUAL> Papá <END> estava lá comigo e eu só queria saber do colo do moço lindão, conforme a resenha da época.
-Não vamos desviar do assunto que quer tratar é da presença nossa, humana, nos palcos da vida.
-É disso mesmo, de diálogo e reflexão que se falou um tantão da abertura ao encerramento do encontro.
-<START:PESSOA_INDIVIDUAL> Fabio <END> diz que foi assim no monólogo Madrugada, me Proteja , também de <START:PESSOA_INDIVIDUAL> Cuti <END> , interpretado <START:TEMPO_TEMPO_CALEND> no sábado, 15 <END> , pelo ator <START:PESSOA_INDIVIDUAL> Sílvio Ramão <END> ; na única atração musical do <START:ACONTECIMENTO_ORGANIZADO> Encontro <END> , o show <START:ACONTECIMENTO_EVENTO> Epahei! <END> , da cantora e compositora <START:PESSOA_INDIVIDUAL> Karine Cunha <END> , <START:TEMPO_TEMPO_CALEND> na quinta, 13 <END> , de quem nem vou falar muito porque vira prosa de fã e não tô aqui pra torrar vocês com meu gostinho particular e sim pra reportar as coisas como foram vistas pelo <START:PESSOA_INDIVIDUAL> Fabio <END> , né?
-Diz ele:
-Em <START:LOCAL_VIRTUAL> Madrugada <END> ..., <START:PESSOA_INDIVIDUAL> Sílvio <END> vive um negro de alta classe média que, julgando-se inalcançável pela insegurança que (infelizmente) tem sido a marca das noites nas grandes cidades, é humilhado durante um assalto.
-Já o show de <START:PESSOA_INDIVIDUAL> Karine <END> se apoiou nas canções em homenagem a diversos orixás que estruturam seu segundo CD, <START:OBRA_REPRODUZIDA> Epahei! <END> , lançado <START:TEMPO_TEMPO_CALEND> em agosto <END> .
-(Palhinha dela no linque, di grátis)
-O <START:PESSOA_INDIVIDUAL> Fabio <END> contou que um destaque do <START:ACONTECIMENTO_ORGANIZADO> Encontro <END> foi a apresentação <START:TEMPO_TEMPO_CALEND> na sexta, 14 <END> , da peça <START:OBRA_REPRODUZIDA> Taba-Taba <END> , texto do francês <START:PESSOA_INDIVIDUAL> Bernard Koltès <END> , que marca a estréia da atriz <START:PESSOA_INDIVIDUAL> Renata de Lélis <END> na direção.
-Teve também " <START:ACONTECIMENTO_EVENTO> Sortilégio Negro <END> , de <START:PESSOA_INDIVIDUAL> Abdias do Nascimento <END> , fundador do <START:ABSTRACCAO_DISCIPLINA> Teatro Experimental do Negro <END> ( <START:ABSTRACCAO_DISCIPLINA> TEN <END> ), referência histórica assumida pelo <START:ABSTRACCAO_DISCIPLINA> CaixaPreta <END> já <START:TEMPO_TEMPO_CALEND> na época <END> do lançamento de <START:OBRA_REPRODUZIDA> Transegun <END> .
-E recital de poemas de <START:PESSOA_INDIVIDUAL> Oliveira Silveira <END> que já nos foi muito bem apresentado aqui nas nossas overmundanas paragens pelo meu poeta querido dos mais mais.
-Aquela história da presença nossa nos palcos, nós na cena, nós brilhando, nós dirigindo, nós na fita foi assunto a partir da trajetória de <START:PESSOA_INDIVIDUAL> Abdias <END> e do <START:ABSTRACCAO_DISCIPLINA> TEN <END> , temas abordados na única palestra do <START:ACONTECIMENTO_ORGANIZADO> Encontro <END> , feita pela atriz <START:PESSOA_INDIVIDUAL> Vera Lopes <END> .
-Uma das fundadoras do <START:ABSTRACCAO_DISCIPLINA> CaixaPreta <END> , <START:PESSOA_INDIVIDUAL> Vera <END> falou, segundo <START:PESSOA_INDIVIDUAL> Fabio <END> , que não consegue entender porque alguns consideram a arte européia como superior, dando como exemplo que o teatro grego surgiu a partir de ritos - em que animais sacrificados eram oferecidos <START:PESSOA_INDIVIDUAL> Dionísio <END> - muito semelhantes às oferendas dos cultos afro-brasileiros para os orixás.
-<START:PESSOA_INDIVIDUAL> Vera Lopes <END> deixou o povo presente acabrunhado quando protestou firme porque não consta imagem alguma do teatro africano num dos raros livros brasileiros que falam do assunto - <START:OBRA_REPRODUZIDA> História do Teatro <END> ( <START:TEMPO_TEMPO_CALEND> 1978 <END> ), de <START:PESSOA_INDIVIDUAL> Nélson Araújo <END> .
-Eu, meio miolo mole até nem sei porque um estudo sério, em profundidade sobre a questão esqueceu esse detalhezinho.
-Vai ver que... Ah!
-Não pode ser por...
-Será?
-Deixemos esse outro assunto sério para lá, amizades.
-O final do <START:ACONTECIMENTO_ORGANIZADO> 2º Encontro de Arte de Matriz Africana <END> teve a apresentação de <START:OBRA_REPRODUZIDA> Hamlet Sincrético <END> .
-Golaço da produção, conforme <START:PESSOA_INDIVIDUAL> Fábio Gomes <END> .
-Para ele a peça dirigida por <START:PESSOA_INDIVIDUAL> Jessé Oliveira <END> é "primorosa; a montagem relê o clássico a partir de uma estética negra, com elementos da cultura afro-brasileira ajudando a contar a história imortalizada por <START:PESSOA_INDIVIDUAL> William Shakespeare <END> .
-É notável o equilíbrio que <START:PESSOA_INDIVIDUAL> Jessé <END> conseguiu ao mesclar todos estes elementos".
-E segue:
-- Cada personagem encarna um tipo ou um mito da cultura negra, em especial das religiões afro-brasileiras: <START:PESSOA_INDIVIDUAL> Hamlet <END> é <START:PESSOA_INDIVIDUAL> Xangô <END> ; o <START:PESSOA_INDIVIDUAL> rei Cláudio <END> , <START:PESSOA_INDIVIDUAL> Zé Pelintra <END> ; e <START:PESSOA_INDIVIDUAL> Polônio <END> , um ex-babalorixá que se tornou pastor evangélico.
-A música ao vivo (o próprio elenco manda ver em cânticos de umbanda, sambas, hip-hop, ladainhas de capoeira e até cantos evangélicos), além de ajudar a contar a história, torna o nível de comunicação do espetáculo com a platéia algo digno de nota.
---DOCSTART--
-    
-Fatores Demográficos e Econômicos Subjacentes    
- A revolta histórica produz normalmente uma nova forma de pensamento quanto à forma de organização da sociedade.
-Assim foi com a <START:ABSTRACCAO_IDEIA> Reforma Protestante <END> .
-No seguimento do colapso de instituições monásticas e do escolasticismo nos finais da Idade Média na <START:LOCAL_HUMANO> Europa <END> , acentuado pela " Cativeiro Babilónica da igreja " no papado de <START:ACONTECIMENTO_EVENTO> Avignon <END> , o <START:ACONTECIMENTO_EFEMERIDE> Grande Cisma <END> e o fracasso da conciliação, assistimos <START:TEMPO_TEMPO_CALEND> no século XVI <END> ao fermentar de um enorme debate sobre a reforma da religião e dos posteriores valores religiosos fundamentais.
-Este debate passou completamente ao lado de <START:PESSOA_POVO> Portugal <END> , demasiado distante do foco onde surgiram estes pensamentos.
-A imprensa, inventada na <START:LOCAL_HUMANO> Alemanha <END> por <START:PESSOA_INDIVIDUAL> John Gutenberg <END> , foi importante na divulgação destas ideias.
-As   <START:OBRA_REPRODUZIDA> 95 Teses <END>  de <START:PESSOA_INDIVIDUAL> Martinho Lutero <END> foram imediatamente impressas e divulgadas por todas as regiões de língua alemã, o que contribuiu para a crescente popularidade de <START:PESSOA_INDIVIDUAL> Martinho Lutero <END> .
-Não menos relevante foi a influência da pressão social exercida pela <START:ABSTRACCAO_DISCIPLINA> Contra-Reforma <END> , na qual os <START:PESSOA_GRUPOMEMBRO> Jesuítas <END> tiveram um papel de liderança.
-A <START:ORGANIZACAO_INSTITUICAO> Inquisição <END> e a censura exercida pela <START:ORGANIZACAO_INSTITUICAO> Igreja Católica <END> foram igualmente determinantes para evitar que as ideias reformadoras encontrassem divulgação em <START:LOCAL_HUMANO> Portugal <END> , <START:LOCAL_HUMANO> Espanha <END> ou <START:LOCAL_HUMANO> Itália <END> , países católicos.
-Historiadores assumem geralmente que a incapacidade de reformar (grande número de interesses legítimos, falta de coordenação na coligação dos reformadores) poderia levar a uma grande revolta ou revolução, uma vez que o sistema deverá ser gradualmente ajustado ou então desintegrar-se.
-O fracasso da conciliação levou à <START:ACONTECIMENTO_EFEMERIDE> Reforma Protestante <END> do ocidente europeu.
-Estes movimentos reformistas frustrados variam desde o nominalismo, a moderna devoção, ao humanismo, e ocorrem em conjunção com o crescente desagrado perante a riqueza e o poder da elite clerical, sensibilizando a população para a corrupção moral e financeira da <START:ORGANIZACAO_INSTITUICAO> Igreja <END> .
-A Reforma Religiosa e Política na <START:LOCAL_HUMANO> Inglaterra <END>        
- <START:PESSOA_INDIVIDUAL> Henrique VIII <END> O curso da <START:ACONTECIMENTO_EFEMERIDE> Reforma <END> foi diferente na <START:LOCAL_HUMANO> Inglaterra <END> .
-Tinha havido desde há muito uma forte corrente anti-clerical, tendo a <START:PESSOA_POVO> Inglaterra <END> já tido o movimento <START:ABSTRACCAO_DISCIPLINA> Lollard <END> , que inspirou os <START:PESSOA_GRUPOMEMBRO> Hussitas <END> na <START:LOCAL_HUMANO> Boémia <END> .
-Mas <START:TEMPO_TEMPO_CALEND> em cerca de 1520 <END> , no entanto, os <START:PESSOA_GRUPOMEMBRO> Lollards <END> não eram já uma força activa, ou pelo menos um movimento de massas.
-O carácter diferente da <START:ABSTRACCAO_IDEIA> Reforma Inglesa <END> deve-se ao facto de ter sido promovida inicialmente pelas necessidades políticas de <START:PESSOA_INDIVIDUAL> Henrique VIII <END> .
-Sendo este casado com  <START:PESSOA_INDIVIDUAL> Catarina <END> de <START:LOCAL_HUMANO> Aragão <END> e estando apaixonado por <START:PESSOA_INDIVIDUAL> Ana Bolena <END> , <START:PESSOA_INDIVIDUAL> Henrique <END> solicita ao <START:PESSOA_INDIVIDUAL> Papa Clemente VII <END> a anulação do casamento.
-Perante a recusa do <START:PESSOA_CARGO> Papado <END> , <START:PESSOA_INDIVIDUAL> Henrique <END> faz-se proclamar, <START:TEMPO_TEMPO_CALEND> em 1531 <END> , protector da <START:ORGANIZACAO_INSTITUICAO> Igreja <END> inglesa .
-O " <START:OBRA_PLANO> Ato de Supremacia <END> ", votado no <START:ORGANIZACAO_ADMINISTRACAO> Parlamento <END> <START:TEMPO_TEMPO_CALEND> em Novembro de 1534 <END> , colocou <START:PESSOA_INDIVIDUAL> Henrique <END> e os seus sucessores na liderança da <START:ORGANIZACAO_INSTITUICAO> Igreja <END> : os súbditos deveriam submeter-se ou então seriam excomungados e perseguidos.
-Apesar de uma certa deriva em direcção ao luteranismo, <START:PESSOA_INDIVIDUAL> Henrique <END> reafirma a ortodoxia católica através da " <START:OBRA_PLANO> Confissão dos Seis Artigos <END> " ( <START:TEMPO_TEMPO_CALEND> 1539 <END> ).
-<START:TEMPO_TEMPO_CALEND> Entre 1540 e 1553 <END> , sob <START:PESSOA_INDIVIDUAL> Thomas Cromwell <END> , a política conhecida como a dissolução dos mosteiros foi posta em prática.
-A veneração de santos, locais de peregrinação foram atacados.
-Enormes extensões de terras e propriedades da <START:ORGANIZACAO_INSTITUICAO> Igreja <END> passaram para as mãos da coroa e posteriormente da nobreza e das classes altas.
-Os direitos adquiridos foram uma força poderosa de apoio às dissoluções.
-Houve muitos opositores da  <START:ABSTRACCAO_DISCIPLINA> Reforma <END> de <START:PESSOA_INDIVIDUAL> Henrique <END> , tais como <START:PESSOA_INDIVIDUAL> Thomas More <END> e o <START:PESSOA_INDIVIDUAL> Bispo John Fischer <END> , que foram executados pela sua oposição.
-Mas também existiu um partido crescente de <START:PESSOA_GRUPOMEMBRO> Protestantes <END> genuínos que estavam inspirados pelas doutrinas então correntes no continente.
-Quando <START:PESSOA_INDIVIDUAL> Henrique <END> foi sucedido pelo seu filho <START:PESSOA_INDIVIDUAL> Eduardo VI <END> <START:TEMPO_TEMPO_CALEND> em 1547 <END> , os protestantes viram-se em ascendente no governo.
-Uma reforma mais radical foi imposta, com a destruição de imagens e o fecho de capelas, para além de ter sido revogada a " <START:OBRA_PLANO> Confissão dos Seis Artigos <END> ".
-<START:TEMPO_TEMPO_CALEND> Em 1552 <END> , é redigido o novo " <START:OBRA_PLANO> Livro de Orações <END> " e promulgada a " <START:OBRA_PLANO> Confissão de Fé em Quarenta e Dois Artigos <END> ", que aproximava doutrinalmente a  <START:ABSTRACCAO_DISCIPLINA> Igreja <END> de <START:LOCAL_HUMANO> Inglaterra <END> do calvinismo.
-Seguiu-se uma breve reacção católica durante o reinado de <START:PESSOA_INDIVIDUAL> Maria I <END> ( <START:TEMPO_TEMPO_CALEND> 1553-1558 <END> ).
-De início moderada na sua política religiosa, <START:PESSOA_INDIVIDUAL> Maria <END> procura a reconciliação com <START:ORGANIZACAO_INSTITUICAO> Roma <END> , consagrada <START:TEMPO_TEMPO_CALEND> em 1554 <END> , quando o <START:ORGANIZACAO_ADMINISTRACAO> Parlamento <END> vota o regresso à obediência papal.
-Porém, as perseguições violentas que move aos não católicos e o seu casamento com <START:PESSOA_INDIVIDUAL> Filipe II <END> de <START:LOCAL_HUMANO> Espanha <END> | Filipe II de Espanha , provocam um forte descontentamento na população.
-Um consenso começou a surgir durante o reinado de <START:PESSOA_INDIVIDUAL> Isabel I <END> .
-<START:TEMPO_TEMPO_CALEND> Em 1559 <END> , <START:PESSOA_INDIVIDUAL> Isabel <END> retorna à religião do pai, com o restabelecimento do " <START:OBRA_PLANO> Ato de Supremacia <END> " e do " <START:OBRA_PLANO> Livro de Orações <END> " de <START:PESSOA_INDIVIDUAL> Eduardo VI <END> .
-Através da " <START:OBRA_PLANO> Confissão dos Trinta e Nove Artigos <END> " ( <START:TEMPO_TEMPO_CALEND> 1563 <END> ), <START:PESSOA_INDIVIDUAL> Isabel <END> alcança um compromisso entre o protestantismo e o catolicismo: embora o dogma se aproxime do calvinismo, só admitindo como sacramento o baptismo e a eucaristia, é mantida a hierarquia episcopal e o fausto das cerimónias religiosas.
-O sucesso da <START:ACONTECIMENTO_EFEMERIDE> Contra-Reforma <END> no continente e o crescimento de um partido puritano dedicado a estender a <START:ABSTRACCAO_DISCIPLINA> Reforma Protestante <END> polarizou a <START:TEMPO_GENERICO> era Elizabetana <END> , apesar da <START:LOCAL_HUMANO> Inglaterra <END> não ter tido <START:TEMPO_TEMPO_CALEND> até 1640 <END> lutas religiosas comparáveis às dos seus vizinhos.
-Na verdade a <START:ABSTRACCAO_DISCIPLINA> Reforma <END> na <START:LOCAL_HUMANO> Inglaterra <END> procurou preservar o máximo da <START:ABSTRACCAO_IDEIA> Tradição Católica <END> (episcopado, liturgia e sacramentos).
-A  <START:ORGANIZACAO_INSTITUICAO> Igreja <END> da <START:LOCAL_HUMANO> Inglaterra <END> sempre se viu como a "eclesia anglicanae", ou seja, "A <START:ORGANIZACAO_INSTITUICAO> Igreja <END> cristã na <START:LOCAL_HUMANO> Inglaterra <END> " e não derivação da  <START:ORGANIZACAO_INSTITUICAO> Igreja <END> de <START:LOCAL_HUMANO> Roma <END> ou do movimento reformista <START:TEMPO_TEMPO_CALEND> do século XVI <END> .
-Como consequência disso sempre existiu dois grandes "partidos" ou "facções": a <START:ABSTRACCAO_DISCIPLINA> Igreja Alta <END> ( <START:ABSTRACCAO_DISCIPLINA> High Church <END> ) e <START:ABSTRACCAO_DISCIPLINA> Igreja Baixa <END> ( <START:ABSTRACCAO_DISCIPLINA> Low Church <END> ), que refletem a controvérsia histórica sobre as formas de culto e de expressão.
-A <START:ABSTRACCAO_DISCIPLINA> Reforma Anglicana <END> buscou ser a "via média" entre os extremos romanos e puritanos.
-Assim aceitam os dois sacramentos do <START:ABSTRACCAO_IDEIA> Evangelho <END> : o <START:ABSTRACCAO_IDEIA> Santo Batismo <END> , através do qual a pessoa é feita membro da <START:ORGANIZACAO_INSTITUICAO> Igreja de Cristo <END> , sendo que tal graça é complementada na <START:ABSTRACCAO_IDEIA> Confirmação <END> , e na <START:ABSTRACCAO_IDEIA> Santa Comunhão <END> , que une o cristão ao sacrifício de <START:PESSOA_INDIVIDUAL> Cristo Jesus <END> que os alimenta com seu corpo e sangue.
-Para os anglicanos estes dois sacramentos foram instituídos pelo próprio <START:PESSOA_INDIVIDUAL> Senhor Jesus Cristo <END> .
-Os demais ritos sacramentais da <START:ORGANIZACAO_INSTITUICAO> Igreja <END> também são aceitos, apesar de não terem sido instituídos por <START:PESSOA_INDIVIDUAL> Cristo <END> , mas são reconhecidos por serem, em parte, estados de vida aprovados nas <START:OBRA_REPRODUZIDA> Escrituras <END> : a <START:ABSTRACCAO_IDEIA> Confirmação <END> , <START:ABSTRACCAO_IDEIA> Penitência <END> , <START:ABSTRACCAO_IDEIA> Ordens <END> , <START:ABSTRACCAO_IDEIA> Matrimônio <END> e a Unção dos enfermos .
-Embora tenham se afastado de muitas das prática devocionais medievais com relação aos santos e a <START:PESSOA_INDIVIDUAL> Virgem Maria <END> mantiveram um calendário específico para sua comemoração na <START:ORGANIZACAO_INSTITUICAO> Igreja <END> , em especial as antigas festas marianas diretamente associadas aos méritos de seu Filho <START:PESSOA_INDIVIDUAL> Jesus Cristo <END> ( <START:ACONTECIMENTO_EFEMERIDE> Anunciação <END> , <START:ACONTECIMENTO_EFEMERIDE> Natividade <END> etc).
---DOCSTART--
-    
-Uma foto para lá da verdade    
- A fotografia mais famosa de guerra, o instante em que <START:PESSOA_INDIVIDUAL> Federico Borrell <END> , um miliciano republicano cai depois de atingido por uma bala franquista, está agora de novo em crise de autenticidade.
-<START:TEMPO_DURACAO> Há anos <END> que se discute se a fotografia da autoria do famoso fotojornalista <START:PESSOA_INDIVIDUAL> Robert Capa <END> é ou não encenada.
-Agora um documentário, " <START:OBRA_REPRODUZIDA> A Sombra do Iceberg <END> ", premiado com o prémio Melhor documentário ibero-americano , no <START:LOCAL_HUMANO> México <END> , vem outra vez questionar a autenticidade da cena ocorrida em <START:LOCAL_HUMANO> Cerro Muriano <END> , povoação dos arredores de <START:LOCAL_HUMANO> Córdoba <END> , e feita <START:TEMPO_TEMPO_CALEND> em 1936 <END> , <START:TEMPO_TEMPO_CALEND> no dia 5 de Setembro <END> .
-As dúvidas levantadas prendem-se com factos investigados.
-<START:PESSOA_INDIVIDUAL> Hugo Doménech <END> , <START:PESSOA_CARGO> professor da Universidade Jaume de Castellón <END>  e do jornalista <START:PESSOA_INDIVIDUAL> Raul Riebenbaueur <END> reuniram um especialista forense, um militar geodésico e um astrofísico e recolheram depoimentos locais.
-No filme prevalece a ideia de que o miliciano não foi morto <START:TEMPO_TEMPO_CALEND> às nove <END> mas <START:TEMPO_TEMPO_CALEND> à uma da tarde <END> , que há um relato local que diz <START:PESSOA_INDIVIDUAL> Borrel <END> ter sido morto atrás de uma árvore, que não existe na foto, e que o miliciano fotografado não é o que foi morto <START:TEMPO_TEMPO_CALEND> naquele dia <END> .
-O facto de <START:PESSOA_INDIVIDUAL> Capa <END> viajar então com a namorada <START:PESSOA_INDIVIDUAL> Gerda Taro <END> (morta <START:TEMPO_TEMPO_CALEND> pouco depois <END> ) e de enviar para <START:LOCAL_HUMANO> Paris <END> os rolos todos misturados sem a designação a quem pertencia cada um, ainda lança mais confusão na história.
-Por outro lado o negativo original nunca mais apareceu, nem a tira com as fotos tiradas <START:TEMPO_TEMPO_CALEND> antes <END> e <START:TEMPO_TEMPO_CALEND> depois <END> .
-Apesar de se conhecer uma sequência de fotos feitas no mesmo local.
-O biógrafo de <START:PESSOA_INDIVIDUAL> Capa <END> , <START:PESSOA_INDIVIDUAL> Richard Whelan <END> - falecido há pouco - recusou depor para o documentário e <START:PESSOA_INDIVIDUAL> Cornell Capa <END> , o irmão de <START:PESSOA_INDIVIDUAL> Robert <END> , já de idade avançada, nada comenta, remetendo tudo para a sua filha, a fiel depositária do espólio de <START:PESSOA_INDIVIDUAL> Robert Capa <END> .
-A fotografia foi publicada pela primeira vez, <START:TEMPO_TEMPO_CALEND> em 1936 <END> , na revista <START:LOCAL_VIRTUAL> VU <END> - pioneira do fotojornalismo moderno e inspiradora de <START:COISA_CLASSE> LIFE <END> - e <START:TEMPO_TEMPO_CALEND> dois anos mais tarde <END> (como andava devagar então a informação!)
-na <START:LOCAL_VIRTUAL> LIFE <END> .
-Na edição da <START:LOCAL_VIRTUAL> VU <END> <START:PESSOA_INDIVIDUAL> Robert Capa <END> era apresentado como o melhor fotógrafo de guerra do  <START:LOCAL_HUMANO> Mundo <END>  e a paginação da reportagem era feito num estilo então vanguardista de fotohistória.
-Esta polémica acaba por ser um pouco redundante.
-<START:PESSOA_INDIVIDUAL> Capa <END> era de uma coragem à prova de bala a trabalhar no cenário de guerra.
-Fotografou por dentro a <START:ACONTECIMENTO_EFEMERIDE> Guerra Civil <END> espanhola, sempre pelo lado republicano, estava <START:TEMPO_TEMPO_CALEND> no Dia D <END>  na <START:LOCAL_HUMANO> Normandia <END> e acabou por morrer ao pisar uma mina na <START:LOCAL_HUMANO> Indochina <END> <START:TEMPO_TEMPO_CALEND> a 25 de Maio de 1954 <END> .
-Como curiosidade passou por <START:LOCAL_HUMANO> Portugal <END> e foi visto no <START:LOCAL_HUMANO> Café Palladium <END> dos <START:LOCAL_HUMANO> Restauradores <END> pelo jornalista de <START:ORGANIZACAO_EMPRESA> O Século <END> , <START:PESSOA_INDIVIDUAL> Francisco Mata <END> , já falecido, e que o contou numa crónica do antigo <START:OBRA_REPRODUZIDA> Sete <END> .
-[...]    
- <START:PESSOA_INDIVIDUAL> Luiz Carvalho <END> , fotojornalista do <START:ORGANIZACAO_EMPRESA> Expresso <END>      
 
-  --DOCSTART--
+Documentos relacionados com o <START:OBRA_PLANO>PNALE<END>
 
-A fama do <START:COISA_CLASSE> Prius <END>
-<START:TEMPO_DURACAO> Durante o ano passado <END> o nome <START:ABSTRACCAO_NOME> Toyota Prius <END> esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
-Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome <START:ABSTRACCAO_NOME> Prius <END> tornou-se um sinónimo de híbrido Nos <START:LOCAL_HUMANO> Estados Unidos da America <END> foram vendidos <START:TEMPO_TEMPO_CALEND> em 2004 <END> <START:VALOR_QUANTIDADE> mais de 50 mil <END> unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de <START:COISA_CLASSE> Prius <END> a serem vendidos em segunda mão ao mesmo preço que um novo.
-Um habitáculo simples, confortável e espaçoso.
-Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de <START:LOCAL_HUMANO> Hollywood <END> .
-<START:PESSOA_INDIVIDUAL> Cameron Diaz <END> , <START:PESSOA_INDIVIDUAL> Leonardo DiCaprio <END> ou <START:PESSOA_INDIVIDUAL> Will Ferrell <END> são três dos muitos nomes famosos que possuem um <START:COISA_CLASSE> Toyota Prius <END> .
-Economia e performance
-Em cidade o <START:COISA_CLASSE> Prius <END> consome apenas <START:VALOR_QUANTIDADE> 4,3 litros <END> a cada <START:VALOR_QUANTIDADE> 100km <END> , tornando-o num dos automóveis mais económicos do mercado.
-Estamos claro a falar dum motor <START:COISA_CLASSE> 1.5 VVT-i <END> com apenas <START:VALOR_QUANTIDADE> 78cv <END> , que aliado ao sistema <START:COISA_CLASSE> HSD <END> ( <START:COISA_CLASSE> Hybrid Synergy Drive <END> ) aumenta a sua potência para <START:VALOR_QUANTIDADE> 110cv <END> .
-<START:VALOR_QUANTIDADE> Dos 0 aos 100km/h <END> o <START:COISA_CLASSE> Prius <END> demora <START:TEMPO_DURACAO> cerca de 11 segundos <END> .
-A <START:ORGANIZACAO_EMPRESA> Toyota <END> afirma que, apesar destas prestações conseguiram reduzir em <START:VALOR_QUANTIDADE> 89% <END> as emissões libertadas, comparando a um veículo novo a gasolina.
---DOCSTART--
 
-<START:OBRA_PLANO> Protocolo de Quioto <END> 
-<START:OBRA_PLANO> Decreto 7/2002 <END> , <START:TEMPO_TEMPO_CALEND> de 25 de Março <END> que aprova o <START:OBRA_PLANO> Protocolo de Quioto <END> à <START:OBRA_PLANO> Convenção Quadro das Nações Unidas sobre Alterações Climáticas <END> 
-Documentos relacionados com o <START:OBRA_PLANO> PNALE <END>
-Decisão da <START:ORGANIZACAO_ADMINISTRACAO> Comissão Europeia <END> sobre o <START:OBRA_PLANO> PNALE <END> português
-Comunicado de imprensa da <START:ORGANIZACAO_ADMINISTRACAO> COMISSÃO <END> - "Comércio de Emissões: a <START:ORGANIZACAO_ADMINISTRACAO> Comissão <END> deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista" (IP/04/1250)
-<START:OBRA_PLANO> Plano Nacional de Atribuição de Licenças de Emissão <END> - <START:OBRA_PLANO> PNALE 2005-2007 <END>  (versão notificada à <START:ORGANIZACAO_ADMINISTRACAO> Comissão Europeia <END> )
-<START:OBRA_PLANO> PNALE 2005-2007 - Relatório da Consulta Pública <END> 
-<START:OBRA_PLANO> Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007 <END>  
+Decisão da <START:ORGANIZACAO_ADMINISTRACAO>Comissão Europeia<END> sobre o <START:OBRA_PLANO>PNALE<END> português
+
+
+Comunicado de imprensa da <START:ORGANIZACAO_ADMINISTRACAO>COMISSÃO<END> - "Comércio de Emissões: a <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END> deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista" (IP/04/1250)
+
+
+<START:OBRA_PLANO>Plano Nacional de Atribuição de Licenças de Emissão<END> - <START:OBRA_PLANO>PNALE 2005-2007<END>  (versão notificada à <START:ORGANIZACAO_ADMINISTRACAO>Comissão Europeia<END>)
+
+
+
+<START:OBRA_PLANO>PNALE 2005-2007 - Relatório da Consulta Pública <END> 
+
+
+<START:OBRA_PLANO>Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007<END>  
+
+
 Documentos relacionados com o Comércio Europeu de Licenças de Emissão
- Directiva 2003/87/CE do <START:ORGANIZACAO_ADMINISTRACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO_ADMINISTRACAO> Concelho <END> , <START:TEMPO_TEMPO_CALEND> de 13 de Outubro de 2003 <END> , relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL_HUMANO> Comunidade <END> e que altera a Directiva 96/61/CE do <START:ORGANIZACAO_ADMINISTRACAO> Conselho <END> 
-<START:OBRA_PLANO> Decreto-Lei n.º 233/2004 <END> , <START:TEMPO_TEMPO_CALEND> de 14 de Dezembro <END> , alterado pelo <START:OBRA_PLANO> Decreto-Lei n.º 243-A/2004 <END> , <START:TEMPO_TEMPO_CALEND> de 31 de Dezembro <END> , que estabelece o regime de comércio de licenças de gases com efeito de estufa na <START:LOCAL_HUMANO> União Europeia <END>
-<START:OBRA_PLANO> Decisão da Comissão n.º 156/2004 <END> , <START:TEMPO_TEMPO_CALEND> de 29 de Janeiro de 2004 <END> , que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
-Regulamento (CE) n.º 2216/2004 da <START:ORGANIZACAO_ADMINISTRACAO> Comissão <END> <START:TEMPO_TEMPO_CALEND> de 21 de Dezembro de 2004 <END> , relativo a um sistema de registos normalizado e protegido em conformidade com a <START:OBRA_PLANO> Directiva 2003/87/CE <END> do <START:ORGANIZACAO_ADMINISTRACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO_ADMINISTRACAO> Conselho <END> e a <START:OBRA_PLANO> Decisão n.º 280/2004/CE <END> do <START:ORGANIZACAO_ADMINISTRACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO_ADMINISTRACAO> Conselho <END>
+
+
+ Directiva 2003/87/CE do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Concelho<END>, <START:TEMPO_TEMPO_CALEND>de 13 de Outubro de 2003<END>, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL_HUMANO>Comunidade<END> e que altera a Directiva 96/61/CE do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> 
+
+
+<START:OBRA_PLANO>Decreto-Lei n.º 233/2004<END>, <START:TEMPO_TEMPO_CALEND>de 14 de Dezembro<END>, alterado pelo <START:OBRA_PLANO>Decreto-Lei n.º 243-A/2004<END>, <START:TEMPO_TEMPO_CALEND>de 31 de Dezembro<END>, que estabelece o regime de comércio de licenças de gases com efeito de estufa na <START:LOCAL_HUMANO>União Europeia<END>
+
+
+<START:OBRA_PLANO>Decisão da Comissão n.º 156/2004<END>, <START:TEMPO_TEMPO_CALEND>de 29 de Janeiro de 2004<END>, que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
+
+
+Regulamento (CE) n.º 2216/2004 da <START:ORGANIZACAO_ADMINISTRACAO>Comissão<END> <START:TEMPO_TEMPO_CALEND>de 21 de Dezembro de 2004<END>, relativo a um sistema de registos normalizado e protegido em conformidade com a <START:OBRA_PLANO>Directiva 2003/87/CE<END> do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> e a <START:OBRA_PLANO>Decisão n.º 280/2004/CE<END> do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>
+
+
 International Emissions Trading Association, "Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme" (em inglês)
- <START:OBRA_PLANO> Directiva 2004/101/CE <END> do <START:ORGANIZACAO_ADMINISTRACAO> Parlamento Europeu <END> e do <START:ORGANIZACAO_ADMINISTRACAO> Conselho <END> , <START:TEMPO_TEMPO_CALEND> de 27 de Outubro de 2004 <END> , que altera a <START:OBRA_PLANO> Directiva 2003/87/CE <END> relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL_HUMANO> Comunidade <END> , no que diz respeito aos mecanismos baseados em projectos do <START:OBRA_PLANO> Protocolo de Quioto <END>
+
+
+ <START:OBRA_PLANO>Directiva 2004/101/CE<END> do <START:ORGANIZACAO_ADMINISTRACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END>, <START:TEMPO_TEMPO_CALEND>de 27 de Outubro de 2004<END>, que altera a <START:OBRA_PLANO>Directiva 2003/87/CE<END> relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL_HUMANO>Comunidade<END>, no que diz respeito aos mecanismos baseados em projectos do <START:OBRA_PLANO>Protocolo de Quioto<END>
+
 
 --DOCSTART--
     
- <START:PESSOA_INDIVIDUAL> George Steiner <END> - holocausto ou holocaustos?
-<START:PESSOA_INDIVIDUAL> George Steiner <END> esteve recentemente em <START:LOCAL_HUMANO> Portugal <END> e de acordo com notícia no <START:LOCAL_VIRTUAL> Ciência Hoje <END> o ensaísta vem proferir um discurso que a <START:PESSOA_POVO> Europa <END> é uma civilização decadente e que aparecerão outros locais do planeta como a <START:LOCAL_HUMANO> China <END> e a <START:LOCAL_HUMANO> Índia <END> ?.
-Esta afirmação levantou-me uma série de inquitações:        
- Ora a <START:ORGANIZACAO_ADMINISTRACAO> Índia <END> e a <START:ORGANIZACAO_ADMINISTRACAO> China <END> já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto <START:TEMPO_GENERICO> hoje <END> há uma <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza.
-Mas <START:PESSOA_INDIVIDUAL> George Steiner <END> ( <START:PESSOA_INDIVIDUAL> G.S. <END> ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em <START:LOCAL_HUMANO> Berlim <END> , concerteza...ou tão aplaudido sábio terá esquecido de <START:PESSOA_INDIVIDUAL> Aristides Sousa Mendes <END> ou de <START:PESSOA_INDIVIDUAL> Oskar Schindler <END> ?
-Por mim <START:PESSOA_INDIVIDUAL> G.S. <END> que fique pela <START:LOCAL_HUMANO> América <END> e ataque outros holocaustos que não criticou: <START:ACONTECIMENTO_EFEMERIDE> Guantanamo <END> , o muro internacional no <START:LOCAL_HUMANO> México <END> , que ataque a administração   <START:ORGANIZACAO_ADMINISTRACAO> Bush <END> que ainda não assinou o <START:OBRA_PLANO> Protocolo de Quioto <END> , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo...        
- <START:PESSOA_INDIVIDUAL> G.S. <END> , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no <START:LOCAL_HUMANO> Mundo <END> <START:TEMPO_TEMPO_CALEND> de hoje <END> como <START:ACONTECIMENTO_EFEMERIDE> Angola <END> e que são também holocautos tão ou mais graves que <START:ACONTECIMENTO_EFEMERIDE> Kosovo <END> e/ou <START:ACONTECIMENTO_EFEMERIDE> Israel-Palestina <END> : <START:ACONTECIMENTO_EFEMERIDE> Darfur <END> , <START:ACONTECIMENTO_EFEMERIDE> Birmânia <END> , <START:ACONTECIMENTO_EFEMERIDE> Congo <END> , <START:ACONTECIMENTO_EFEMERIDE> Ruanda <END> , <START:ACONTECIMENTO_EFEMERIDE> Singapura <END> , <START:ACONTECIMENTO_EFEMERIDE> Indonésia <END> , <START:ACONTECIMENTO_EFEMERIDE> Tibete <END> , povos da <START:LOCAL_HUMANO> Amazónia <END> , <START:PESSOA_GRUPOMEMBRO> Curdos <END> e Nações sem Estado.
+<START:TEMPO_GENERICO>Fim de ano<END> com uísque barato no <START:LOCAL_HUMANO>Rio<END>
+    
+Caro leitor:
+    
+Por favor, não entenda, por uísque barato, uísque vagabundo.
+É uísque bom, sem batismo, só que de preço baixo mesmo.
+Venho notando isso <START:TEMPO_TEMPO_CALEND>nos últimos meses<END>.
+Deve ser por conta da queda do dólar: os donos de bares, finalmente, estão entendendo que uísque escocês não tem, necessariamente, que sair caro no balcão.
+Aquele "ouro" líquido, que o balconista costumava servir a conta-gotas e com um chorinho miserável e sem vela, está deixando de existir.
+Com a garrafa de um bom scotch sendo vendida a <START:VALOR_MOEDA>menos de R$ 60<END> em qualquer supermercado, já é possível encontrar, com facilidade, bares e botequins que assumiram o serviço regado do puro scotch.
+O <START:LOCAL_HUMANO>Belmonte<END> da <START:LOCAL_HUMANO>Rua do Lavradio<END>, por exemplo, é um desses.
+Por <START:VALOR_MOEDA>R$ 8,50<END>, toma-se uma dose boca larga de <START:COISA_CLASSE>Johnny Walker Red Label<END>.
+E a régua é só de vinte doses, contra as absurdas <START:VALOR_QUANTIDADE>24<END> doses de alguns bares por aí.
+Nada mal, não?
+Para você, leitor que não toma uísque, ter uma idéia do que isso significa, basta dizer que a <START:VALOR_QUANTIDADE>menos de 150 metros<END> dali, no <START:LOCAL_HUMANO>Carlitos<END> da <START:LOCAL_HUMANO>Rua Mem de Sá<END>, uma dose do mesmo <START:COISA_CLASSE>Red Label<END>, servido em dedal de moça, custa <START:VALOR_MOEDA>R$ 12,50<END>.
+Uma diferença exorbitante de preço e quantidade.
+E por que isso?, você há de perguntar.
+Puro preconceito, amigo.
+Os donos do <START:ORGANIZACAO_EMPRESA>Carlitos<END> ainda acham que uísque é coisa de rico, coitados.
+Mas, para nossa sorte, essa ignorância aos poucos vai sendo riscada do mapa.
+Até quando o dólar deixar, claro...
+    
+Outros exemplos de bom uísque barato e regado na cidade do <START:LOCAL_HUMANO>Rio<END>:
+    
+- <START:LOCAL_HUMANO>Aboim<END>, na <START:LOCAL_HUMANO>Rua Souza Lima<END>, em <START:LOCAL_HUMANO>Copacabana<END>: o Pé-Sujo mais especializado em uísque da cidade serve mais de dez marcas diferentes de scotch.
+As mais baratas (<START:COISA_CLASSE>White Horse<END> e <START:COISA_CLASSE>Grants 8 anos<END>) saem a <START:VALOR_MOEDA>R$ 7,00<END>, sempre na tala larga.
+- <START:LOCAL_HUMANO>Azeitona &amp; Cia<END>, na <START:LOCAL_HUMANO>Rua Dias Ferreira<END>, no<START:LOCAL_HUMANO> Leblon<END>: O  melhor custo-benefício do scotch na  <START:LOCAL_HUMANO>Zona Sul<END> do <START:LOCAL_HUMANO>Rio<END>.
+Uma dose caprichadíssima de <START:COISA_CLASSE>Red Label<END> no copo longo sai por meros <START:VALOR_MOEDA>R$ 7<END>.
+E ainda vem com a boa conversa do <START:PESSOA_INDIVIDUAL>Azeitona<END>, o dono.
+- <START:LOCAL_HUMANO>Bar do Adão<END> da <START:LOCAL_HUMANO>Rua Dona Mariana<END>, em <START:LOCAL_HUMANO>Botafogo<END>: Não é muito boteco, mas ali o <START:COISA_CLASSE>Ballantines 12 anos<END>  sai por <START:VALOR_MOEDA>R$ 9<END> a dose.
+Espetáculo que melhora ainda mais <START:TEMPO_FREQUENCIA>às terças-feiras<END>, quando a casa especializada em pastel serve tudo dobrado.
+E o mesmo uísque sai, então, pela bagatela de <START:VALOR_MOEDA>R$ 4,50<END>.
+- <START:LOCAL_HUMANO>Bar Barata Ribeiro<END>, na esquina das <START:LOCAL_HUMANO>Ruas Barata Ribeiro<END> e <START:LOCAL_HUMANO>Barão de Ipanema<END>, em <START:LOCAL_HUMANO>Copacabana<END>: Botequinho escondido no meio do caos copacabanense, mas que tem um coração de ouro e uma blea prateleira de uísques.
+- <START:LOCAL_HUMANO>Bar Vieira Souto<END>, na <START:LOCAL_HUMANO>Praça da Cruz Vermelha<END>, <START:LOCAL_HUMANO>Centro<END> da cidade: Um restaurante popular dos bons, que serve um filé com fritas espetacular e uísque de excelente procedência a <START:VALOR_MOEDA>R$ 8<END>, no capricho.
+- <START:LOCAL_HUMANO>BotecoTaco<END>, no <START:LOCAL_HUMANO>Humaitá<END>: <START:TEMPO_GENERICO>As madrugadas<END> varam e o uísque não pára de sair no templo carioca dos notívagos.
+Doses cavalares de uísque oito anos, a <START:VALOR_MOEDA>menos de R$ 10<END>.
+Conhece outros?
+Indique aqui, caro leitor.
+--DOCSTART--
+
+
+Agora já pode chegar ao seu pesqueiro preferido do modo mais rápido possível e sem possibilidade de enganos no caminho!
+-<START:COISA_CLASSE>Sistema de Navegação<END> automóvel, pronto a usar , com indicações de mudança de direcção (turn-by-turn) de voz e visuais a 3 dimensões (True view 3d navigation exclusiva da <START:ORGANIZACAO_EMPRESA>Magellan<END>), e ecrã táctil com <START:VALOR_QUANTIDADE>32.000<END> côres.
+Aplicação na viatura muito simples.
+Pode ser facilmente removido e aplicado noutras viaturas.
+Só tem que escolher o seu destino e o magellan roadmate calcula automaticamente a sua rota,caso mude a sua rota, para tomar um atalho o <START:COISA_CLASSE>RoadMate<END> recalcula a sua rota.
+-Base de dados com mapas de <START:LOCAL_HUMANO>Portugal<END>, <START:LOCAL_HUMANO>Espanha<END> e sul de <START:LOCAL_HUMANO>França<END> incorporados
+
+
+-Inclui cartão <START:COISA_CLASSE>SD<END> de <START:VALOR_QUANTIDADE>512 Mb<END> para importação de mapas,waypoints ou rotas criadas em casa.
+Pontos de interesse, organizados em <START:VALOR_QUANTIDADE>mais de 40<END> categorias incluíndo, restaurantes, parques, estações de serviço, hotéis, escolas etc.
+Grava <START:VALOR_QUANTIDADE>até 600<END> endereços pessoais.
+(ou <START:VALOR_QUANTIDADE>200<END> endereços por cada utilizador, permitindo um máximo de <START:VALOR_QUANTIDADE>3<END> utilizadores.)
+O planeamento de rota pode ser feito das seguintes maneiras:
+
+
+-O caminho mais rápido.
+-Distância mais curta.
+-O menor uso de auto-estradas
+
+
+Alimentação de 10-18V DC
+
+
+Fornecido com suporte universal, suporte com ventosa para fixação do vidro,cabo de alimentação exterior de 220V AC, cabo USB para ligação ao computador e CD-ROM com manual de instruções em português.
+Menus e indicações de voz, <START:TEMPO_TEMPO_CALEND>a partir de Setembro 2005<END> (unidades vendidas agora terão actualização grátis <START:TEMPO_TEMPO_CALEND>nessa altura<END>.)
+-Encomenda sujeita a confirmação.
 --DOCSTART--
     
- <START:PESSOA_INDIVIDUAL> Cavaco <END> começa <START:TEMPO_GENERICO> ano <END> com recados de maior exigência ao <START:ORGANIZACAO_ADMINISTRACAO> Governo <END>        
- O <START:PESSOA_CARGO> Presidente da República <END> , <START:PESSOA_INDIVIDUAL> Aníbal Cavaco Silva <END> , vai deixar uma série de recados ao <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> nas palavras que vai dirigir ao país <START:TEMPO_TEMPO_CALEND> no primeiro dia do ano <END> .
-A notícia faz manchete na edição <START:TEMPO_TEMPO_CALEND> desta terça-feira <END> do <START:LOCAL_VIRTUAL> Jornal de Notícias <END> , com o diário portuense a assegurar que <START:PESSOA_INDIVIDUAL> Cavaco <END> prepara, para a sua primeira comunicação <START:TEMPO_TEMPO_CALEND> em 2008 <END> ao <START:PESSOA_POVO> País <END> , um discurso com menos optimismo do que o transmitido por <START:PESSOA_INDIVIDUAL> Sócrates <END> mensagem <START:TEMPO_GENERICO> de Natal <END> .
-Afirmando esperar <START:TEMPO_GENERICO> um ano de 2008 <END> mais exigente do que <START:TEMPO_TEMPO_CALEND> 2007 <END> , o <START:PESSOA_CARGO> Presidente da República <END> promete, <START:TEMPO_TEMPO_CALEND> ao longo do próximo ano <END> , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho.
-Segundo o JN  ,    Cavaco silva    vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu <START:TEMPO_TEMPO_CALEND> no ano passado <END> ao <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> , para as áreas da economia, educação e justiça      
 
+      <START:ACONTECIMENTO_EFEMERIDE>Restauração da Independência<END>
+    
+    
+
+      <START:ACONTECIMENTO_EFEMERIDE>Guerra da Restauração<END>
+    
+    
+
+      Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta
+      <START:TEMPO_TEMPO_CALEND>de 1640<END>
+      , na qual um grupo de conspiradores da nobreza aclamou o
+        <START:PESSOA_CARGO>duque de Bragança<END>
+      como
+      
+        <START:PESSOA_CARGO>Rei<END> de
+        <START:LOCAL_HUMANO>Portugal<END>
+      
+      , com o título de
+      <START:PESSOA_INDIVIDUAL>D.
+João IV<END>
+      (
+      <START:TEMPO_TEMPO_CALEND>1640-1656<END>
+      ), dando início à quarta
+        <START:PESSOA_GRUPOMEMBRO>Dinastia<END>
+      --
+      <START:PESSOA_GRUPOMEMBRO>Dinastia de Bragança<END>
+      .
+O esforço nacional foi mantido
+      <START:TEMPO_DURACAO>durante vinte e oito anos<END>
+      , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de
+      <START:PESSOA_INDIVIDUAL>Filipe III<END>
+      e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo
+      <START:TEMPO_TEMPO_CALEND>em 1668<END>
+      .
+<START:TEMPO_GENERICO>Esses anos<END> foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na
+      <START:LOCAL_HUMANO>Catalunha<END>
+      , os esforços diplomáticos da
+      <START:ORGANIZACAO_ADMINISTRACAO>Inglaterra<END>
+      ,
+      <START:ORGANIZACAO_ADMINISTRACAO>França<END>
+      ,
+      <START:ORGANIZACAO_ADMINISTRACAO>Holanda<END>
+      e
+      <START:ORGANIZACAO_ADMINISTRACAO>Roma<END>
+      , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa.
+Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do
+      <START:LOCAL_HUMANO>Brasil<END>
+      , como também de
+      <START:LOCAL_HUMANO>Angola<END>
+      e de
+      <START:LOCAL_HUMANO>São Tomé e Príncipe<END>
+      (
+      <START:TEMPO_TEMPO_CALEND>1641-1654<END>
+      ), restabelecendo o poder atlântico português.
+No entanto, as perdas no
+      <START:LOCAL_HUMANO>Oriente<END>
+      tornaram-se irreversíveis e
+      <START:LOCAL_HUMANO>Ceuta<END>
+      ficaria na posse dos
+      <START:PESSOA_GRUPOIND>Habsburgo<END>
+      .
+Devido a estarem indisponíveis as mercadorias indianas,
+      <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END>
+      passou a só obter lucro com a cana-de-açúcar do
+      <START:LOCAL_HUMANO>Brasil<END>
+      .
 --DOCSTART--
 
-Lobotomia
+
+<START:ACONTECIMENTO_ORGANIZADO>US Open<END>: <START:PESSOA_INDIVIDUAL>Federer<END> campeão
+
+
+PELO QUARTO ANO CONSECUTIVO		
+
+
+<START:PESSOA_INDIVIDUAL>Roger Federer<END> conquistou <START:TEMPO_TEMPO_CALEND>este domingo<END> pela quarta vez consecutiva o <START:ACONTECIMENTO_ORGANIZADO>US Open<END>, ao bater na final o sérvio <START:PESSOA_INDIVIDUAL>Novak Djokovic<END> por <START:VALOR_CLASSIFICACAO>7-6(4)<END>, <START:VALOR_CLASSIFICACAO>7-6(2)<END> e <START:VALOR_CLASSIFICACAO>6-4<END>.
+Com este triunfo, o suíço contabiliza <START:VALOR_QUANTIDADE>12<END> vitórias em torneios do <START:ACONTECIMENTO_ORGANIZADO>Grand Slam<END>, aproximando-se do recorde de <START:VALOR_QUANTIDADE>14<END>, que pertence a <START:PESSOA_INDIVIDUAL>Pete Sampras<END>.
+A final demorou <START:TEMPO_DURACAO>2.26 horas<END> e o líder mundial fez <START:VALOR_QUANTIDADE>11<END> ases contra apenas <START:VALOR_QUANTIDADE>5<END> do sérvio.
+Ao helvético apenas lhe falta o título no  <START:ACONTECIMENTO_ORGANIZADO>Open<END> de <START:LOCAL_HUMANO>França<END>, em <START:LOCAL_HUMANO>Roland Garros<END>.
+Entretanto, a francesa <START:PESSOA_INDIVIDUAL>Nathalie Dechy<END> conquistou o seu segundo título consecutivo em pares femininos.
+<START:PESSOA_INDIVIDUAL>Dechy<END> e a russa <START:PESSOA_INDIVIDUAL>Dinara Safina<END> bateram <START:PESSOA_INDIVIDUAL>Chan Yung-jan<END> e <START:PESSOA_INDIVIDUAL>Chuang Chia-jung<END> (<START:LOCAL_HUMANO>Taiwan<END>), por <START:VALOR_CLASSIFICACAO>6-4<END> e <START:VALOR_CLASSIFICACAO>6-2<END>.
+--DOCSTART--
+    
+
+      <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END> 
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Pedro<END>
+      ou
+      <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END> 
+      (
+      <START:LOCAL_HUMANO>Covilhã<END>
+      ?,
+      <START:TEMPO_TEMPO_CALEND>1450?
+--- 1530?<END>
+      ) foi um diplomata e explorador português.
+Com
+      <START:VALOR_QUANTIDADE>cerca de 18 anos<END>
+      cativa um espanhol que visitava a
+      <START:LOCAL_HUMANO>Covilhã<END>
+      para comprar tecidos que o convida a servir o seu amo,
+      <START:PESSOA_INDIVIDUAL>D.
+Juan de Guzman<END>
+      , irmão do
+        <START:PESSOA_CARGO>Duque de Medina-Sidónia<END>
+      , um dos mais conceituados fidalgos de
+      <START:LOCAL_HUMANO>Sevilha<END>
+      ;
+      <START:PESSOA_INDIVIDUAL>Pêro<END>
+      aceita a proposta e parte para
+      <START:LOCAL_HUMANO>Sevilha<END>
+      onde lhe é atribuído o papel de espadachim.
+Impressionado com a desenvoltura de
+      <START:PESSOA_INDIVIDUAL>Pêro de Covilhã<END> 
+      , convida-o
+      <START:PESSOA_INDIVIDUAL>D.
+Juan de Gusman<END>
+      a participar nas embarcações do seu irmão, o
+      <START:PESSOA_CARGO>Duque<END>
+      conhecido também como o
+      <START:ABSTRACCAO_NOME>Pirata Espanhol<END>
+      ;
+      <START:PESSOA_INDIVIDUAL>Pêro<END>
+      recusa a oferta e,
+      <START:TEMPO_TEMPO_CALEND>em 1474<END>
+      , acompanha
+      <START:PESSOA_INDIVIDUAL>D.
+Juan<END>
+      a
+      <START:LOCAL_HUMANO>Lisboa<END>
+      a uma entrevista com
+      
+        <START:PESSOA_INDIVIDUAL>Afonso V<END>
+        de
+        <START:LOCAL_HUMANO>Portugal<END>
+      
+      .
+<START:PESSOA_INDIVIDUAL>D.
+Afonso<END>
+      simpatiza com
+      <START:PESSOA_INDIVIDUAL>Pêro<END>
+      também pelo seu domínio de línguas, nomeadamente a língua árabe e
+      <START:PESSOA_INDIVIDUAL>D.
+Juan<END>
+      cede a
+      <START:PESSOA_CARGO>el-Rei<END>
+      os serviços do português.
+É assim que
+      <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END>
+      , aos seus
+      <START:VALOR_QUANTIDADE>24 anos<END>
+      , é admitido como moço de esporas de
+      <START:PESSOA_INDIVIDUAL>D.
+Afonso V<END>
+      .
+<START:TEMPO_TEMPO_CALEND>Passado pouco tempo<END>
+      , decide
+      <START:PESSOA_CARGO>el-Rei<END>
+      elevá-lo a escudeiro, com direito a armas e cavalo.
+<START:TEMPO_TEMPO_CALEND>Em 1476<END>
+      acompanha
+      <START:PESSOA_INDIVIDUAL>D.
+Afonso V<END>
+      na batalha de <START:ACONTECIMENTO_EFEMERIDE>Toro<END>, a tentativa fracassada de
+      <START:PESSOA_INDIVIDUAL>D.
+João<END>
+      de reclamar o trono de
+      <START:LOCAL_HUMANO>Castela<END>
+      , já que era cunhado de
+      
+        <START:PESSOA_INDIVIDUAL>Henrique IV<END>
+        de
+        <START:LOCAL_HUMANO>Castela<END>
+      
+      .
+<START:TEMPO_TEMPO_CALEND>Mais tarde<END>
+      , em iria acompanhar
+      <START:PESSOA_INDIVIDUAL>D.
+Afonso<END>
+      na jornada a
+      <START:LOCAL_HUMANO>França<END>
+      para pedir auxílio ao
+      
+        <START:PESSOA_INDIVIDUAL>rei Luís XI<END>
+        de
+        <START:LOCAL_HUMANO>França<END>
+      
+      na luta pelo trono de
+      <START:LOCAL_HUMANO>Castela<END>
+      , que seria rejeitado.
+Entretanto,
+      <START:PESSOA_INDIVIDUAL>D.
+Afonso<END>
+      abdica do trono, para
+      <START:PESSOA_INDIVIDUAL>D.
+João II<END>
+      .
+Após a execução do
+        <START:PESSOA_CARGO>Duque de Bragança<END>
+      pelas próprias mãos do rei,
+      <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END> 
+      foi designado para investigar quais os nobres que conspiravam contra
+      <START:PESSOA_INDIVIDUAL>D.
+João II<END>
+      , conseguindo identificar o
+      <START:PESSOA_INDIVIDUAL>D.
+Diogo<END>
+      ,
+        <START:PESSOA_CARGO>duque de Viseu<END>
+      e
+      <START:PESSOA_INDIVIDUAL>D.
+Garcia de Meneses<END>
+      ,
+      
+        <START:PESSOA_CARGO>bispo de Évora<END>
+        
+      .
+Na sequência do desejo de
+      <START:PESSOA_CARGO>el-Rei<END>
+      continuar a obra iniciada pelo
+        <START:PESSOA_INDIVIDUAL>infante D. Henrique<END>
+      dos
+      <START:OBRA_PLANO>Descobrimentos<END>
+      , escolhe novamente
+      <START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END> 
+      para embaixador nos tratados de paz com os berberes do
+      <START:LOCAL_HUMANO>Magrebe<END>
+      (como o
+      
+        <START:PESSOA_CARGO>rei de Fez<END>
+        
+      e o de
+      <START:LOCAL_HUMANO>Tremecém<END>
+      ), que convinham ao reino para convergir os esforços na odisseia marítima.
+<START:PESSOA_INDIVIDUAL>Pêro da Covilhã<END>
+      torna-se, entretanto, escudeiro da guarda real e casa com
+      <START:PESSOA_INDIVIDUAL>Catarina<END>
+      que
+      <START:TEMPO_TEMPO_CALEND>em poucos meses<END>
+      engravida.
+--DOCSTART--
+    
+A MINHOCA E A MAÇÃ
+    
+
+      Durante a discussão sobre a natureza do salazarismo, e depois de assinalar, com o fastio do costume, a ignorância grotesca do adversário,
+      <START:PESSOA_INDIVIDUAL>Vasco Pulido Valente<END>
+      recomendou-lhe esta reflexão: «
+      <START:PESSOA_INDIVIDUAL>Vítor Dias<END>
+      que puxe pela cabeça: existe em
+      <START:LOCAL_HUMANO>Portugal<END>
+      alguém ou alguma coisa a que o
+      <START:PESSOA_GRUPOMEMBRO>PCP<END>
+      já não chamou 'fascista?
+?» Bom argumento.
+De facto, a repetição exaustiva da mesma acusação desacredita o acusador.
+Proponho, por isso, outra reflexão.
+<START:PESSOA_INDIVIDUAL>Vasco Pulido Valente<END>
+      que puxe pela cabeça: existe em
+      <START:LOCAL_HUMANO>Portugal<END>
+      alguém ou alguma coisa a que
+      <START:PESSOA_INDIVIDUAL>Vasco Pulido Valente<END>
+      já não tenha chamado "ignorante"?
+--DOCSTART--
+    
+
+      Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada
+      <START:TEMPO_TEMPO_CALEND>desde antes de 7000 a.C.<END>
+      em
+      <START:LOCAL_HUMANO>Mehrgarh<END>
+      na
+      <START:LOCAL_HUMANO>Índia<END>
+      , situado <START:TEMPO_GENERICO>nos dias de hoje<END> no
+      <START:LOCAL_HUMANO>Paquistão<END>
+      .
+A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos.
+É ainda extremamente popular <START:TEMPO_GENERICO>hoje<END>.
+Trata-se de uma rocha e não de um mineral porque é composto de vários minerais.
+A primeira parte do nome, lápis, em latim significa pedra.
+A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito
+      <START:ABSTRACCAO_NOME>Raja Warta<END>
+      significando anel, vida do rei.
+Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra.
+A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos.
 História
-Foi desenvolvida <START:TEMPO_TEMPO_CALEND> em 1935 <END> pelo médico neurologista português <START:PESSOA_INDIVIDUAL> António Egas Moniz <END> ( <START:TEMPO_TEMPO_CALEND> 1874-1955 <END> ), em equipe com o cirurgião <START:PESSOA_INDIVIDUAL> Almeida Lima <END> , na  <START:LOCAL_HUMANO> Universidade <END> de <START:LOCAL_HUMANO> Lisboa <END> .
-<START:PESSOA_INDIVIDUAL> Egas Moniz <END> veio a receber com este trabalho o prêmio Nobel da Medicina e Fisiologia <START:TEMPO_TEMPO_CALEND> em 1949 <END> .
-A <START:COISA_CLASSE> Leucotomia <END> foi a primeira técnica de <START:ABSTRACCAO_DISCIPLINA> Psicocirurgia <END> ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica).
-Inicialmente foi usada para tratar depressão severa.
-<START:PESSOA_INDIVIDUAL> Egas Moniz <END> sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio.
-No entanto apesar de <START:VALOR_QUANTIDADE> cerca de 6% <END> dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o <START:LOCAL_HUMANO> Japão <END> e os <START:LOCAL_HUMANO> Estados Unidos <END> .
-Neste último país foi popularizada pelo cirurgião <START:PESSOA_INDIVIDUAL> Walter Freeman <END> , que divulgou a técnica por todo o seu país, percorrendo o no seu <START:COISA_MEMBROCLASSE> Lobotomobile <END> , e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas.
-Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos.
-A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento.
-<START:VALOR_QUANTIDADE> Cerca de 50.000 <END> doentes foram tratados só nos <START:LOCAL_HUMANO> Estados Unidos <END> .
-Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos.
-<START:TEMPO_DURACAO> Durante muito tempo <END> foi considerada algo injustamente como um episódio barbárico na história da <START:ABSTRACCAO_DISCIPLINA> Psiquiatria <END> , sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.
+    
+
+      No
+         antigo
+        <START:LOCAL_HUMANO>Egito<END>
+
+      o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo).
+As escavações egípcias que datam
+      <START:TEMPO_TEMPO_CALEND>de 3000 a.C.<END>
+      continham milhares de artigos como jóia, muitos feitos de lápis.
+Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho.
+Como inscrito no capítulo 140 do
+      <START:OBRA_REPRODUZIDA>Livro dos Mortos<END>
+      egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder.
+<START:TEMPO_FREQUENCIA>No último dia do mês<END>
+      , oferecia-se este olho simbólico, porque se acreditava que, <START:TEMPO_TEMPO_CALEND>nesse dia<END>, um ser supremo colocou tal imagem em sua cabeça.
+Os antigos túmulos reais sumérios de
+      <START:LOCAL_HUMANO>Ur<END>
+      , situados perto do rio
+      <START:LOCAL_FISICO>Eufrates<END>
+      no baixo
+      <START:LOCAL_HUMANO>Iraque<END>
+      , continham
+      <START:VALOR_QUANTIDADE>mais de 6000<END>
+      estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro.
+Estes artefatos vieram indubitavelmente do material minado em
+      <START:LOCAL_HUMANO>Badakhshan<END>
+      no norte do
+      <START:LOCAL_HUMANO>Afeganistão<END>
+      .
+Curiosidades
+    
+
+      É a pedra oficial do anel de formatura dos psicologos, assim considerada
+      <START:TEMPO_TEMPO_CALEND>a partir de 31 de março de 2006<END>
+      , pela resolução Nº 002/2006, do
+      <START:ORGANIZACAO_INSTITUICAO>Conselho Federal de Psicologia<END>
+      brasileiro.
 --DOCSTART--
     
-<START:PESSOA_GRUPOMEMBRO> Superflex <END> lança cerveja "pública"    
-<START:TEMPO_TEMPO_CALEND> 29 de Novembro de 2007 <END>    
-Matéria publicada originalmente na <START:LOCAL_VIRTUAL> Folha <END> online    
-<START:PESSOA_INDIVIDUAL> FABIO CYPRIANO <END> DA    
-<START:PESSOA_GRUPOMEMBRO> REPORTAGEM LOCAL <END>    
-Uma nova marca de cerveja é lançada, <START:TEMPO_TEMPO_CALEND> hoje <END> , na galeria <START:LOCAL_HUMANO> Vermelho <END> : a <START:COISA_CLASSE> Free Beer <END> .
-Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da <START:COISA_CLASSE> Free Beer <END> está estampada sua receita.
-A <START:ABSTRACCAO_DISCIPLINA> Free Beer <END> é a nova ação do coletivo dinamarquês <START:PESSOA_GRUPOMEMBRO> Superflex <END> , composto por <START:PESSOA_INDIVIDUAL> Bjornstjerne Reuter Christiansen <END> , <START:PESSOA_INDIVIDUAL> Jakob Fenger <END> e <START:PESSOA_INDIVIDUAL> Rasmus Nielsen <END> .
-<START:TEMPO_TEMPO_CALEND> No ano passado <END> , o grupo trouxe polêmica à  <START:ACONTECIMENTO_ORGANIZADO> 27ª Bienal <END> de <START:LOCAL_HUMANO> São Paulo <END> com o <START:COISA_CLASSE> Guaraná Power <END> , censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte.
-Apesar do veto, o <START:COISA_CLASSE> Guaraná Power <END> , feito em colaboração com a  <START:ORGANIZACAO_INSTITUICAO> Cooperativa de Agricultores <END> da <START:LOCAL_HUMANO> Região de Maués <END> , na <START:LOCAL_HUMANO> Amazônia <END> , chegou a ser distribuído em museus e na própria <START:LOCAL_HUMANO> Vermelho <END> , durante a <START:ACONTECIMENTO_ORGANIZADO> Bienal <END> .
-"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado", conta <START:PESSOA_INDIVIDUAL> Fenger <END> .
-"Free software"    
-A <START:COISA_CLASSE> Free Beer <END> surgiu <START:TEMPO_TEMPO_CALEND> em 2004 <END> , numa parceria com estudantes da  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> de <START:LOCAL_HUMANO> Copenhague <END> .
-"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo", conta <START:PESSOA_INDIVIDUAL> Nielsen <END> .
-"Por isso, a <START:ABSTRACCAO_IDEIA> Free Beer <END> tem sido comparada ao <START:ABSTRACCAO_IDEIA> Linux <END> [sistema operacional gratuito] e à <START:ABSTRACCAO_IDEIA> Wikipedia <END> ", diz o artista.
-Quem quiser produzir e comercializar a <START:COISA_CLASSE> Free Beer <END> pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita.
-"Já há <START:COISA_CLASSE> Free Beer <END> sendo produzida na <START:LOCAL_HUMANO> Inglaterra <END> , nos <START:LOCAL_HUMANO> Estados Unidos <END> , na <START:LOCAL_HUMANO> Dinamarca <END> e até na <START:LOCAL_HUMANO> República Tcheca <END> ", afirma <START:PESSOA_INDIVIDUAL> Fenger <END> .
-No <START:LOCAL_HUMANO> Brasil <END> , a <START:COISA_CLASSE> Free Beer <END> está sendo produzida pela <START:ORGANIZACAO_EMPRESA> Cervejaria Germânia <END> , que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.
-"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do <START:ORGANIZACAO_INSTITUICAO> Creative Commons <END> ", diz <START:PESSOA_INDIVIDUAL> Christiansen <END> .
-Na <START:LOCAL_HUMANO> Vermelho <END> , o <START:PESSOA_GRUPOMEMBRO> Superflex <END> apresenta o " <START:COISA_CLASSE> Free Beer Kit <END> ", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop " <START:ACONTECIMENTO_EVENTO> O Mundo da Cerveja <END> ", com os especialistas <START:PESSOA_INDIVIDUAL> Cilene Saorin <END> e <START:PESSOA_INDIVIDUAL> Arnaldo Ribeiro <END> , <START:TEMPO_TEMPO_CALEND> no próximo dia 15 de dezembro <END> , <START:TEMPO_TEMPO_CALEND> às 14 h <END> .
-O grupo exibe também nove máquinas " <START:COISA_CLASSE> Counter-Game Strategies <END> " (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria.
-" <START:PESSOA_INDIVIDUAL> Mark Getty <END> afirma que "a propriedade intelectual é o petróleo <START:TEMPO_GENERICO> do século 21 <END> '", conta <START:PESSOA_INDIVIDUAL> Christiansen <END> , "portanto, estamos tratando de um tema muito sério.
-Afinal, quantas guerras não foram realizadas por conta do petróleo?".
-<START:TEMPO_TEMPO_CALEND> No próximo sábado <END> , <START:TEMPO_TEMPO_CALEND> às 16h <END> , <START:PESSOA_INDIVIDUAL> Ronaldo Lemos <END> , <START:PESSOA_CARGO> diretor do Creative Commons <END>  no <START:LOCAL_HUMANO> Brasil <END> , irá participar de um debate com os membros do <START:PESSOA_GRUPOMEMBRO> Superflex <END> , na <START:LOCAL_HUMANO> Vermelho <END> , e logo após será realizada uma gincana intitulada " <START:ABSTRACCAO_NOME> Free Beer Pub Quiz <END> ", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.
+
+      Biografia de
+      <START:PESSOA_GRUPOMEMBRO>Fitacola<END>
+    
+    
+
+      Os
+      <START:PESSOA_GRUPOMEMBRO>Fitacola<END>
+      são um grupo de amigos, que
+      <START:TEMPO_TEMPO_CALEND>um dia<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>em 2003<END>
+      em
+      <START:LOCAL_HUMANO>Coimbra<END>
+      , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam.
+O projecto foi continuando nesta toada de brincadeira e divertimento
+      <START:TEMPO_TEMPO_CALEND>até 2005<END>
+      , altura em que a banda fixou a formação actual.
+Desde então, aquilo que começou por ser uma brincadeira de amigos, saiu para fora da garagem.
+Começaram a surgir concertos e reacções, bastante positivas, ao seu desempenho.
+Os
+      <START:PESSOA_GRUPOMEMBRO>Fitacola<END>
+      caracterizam-se por um som jovem.
+Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco.
+As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos
+      <START:PESSOA_GRUPOMEMBRO>Fitacola<END>
+      para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal.
+Esta característica de humildade e carisma da banda explica a grande popularidade que a banda atinge entre as camadas mais jovens e faixas etárias estudantes pré-universitárias.
+A banda é tida como um modelo e exemplo de atitude saudável e activa perante a vida por parte de um número cada vez maior de fãs da banda, que nela se revê e nas suas letras, músicas e atitude.
+Concertos de maior destaque:
+    
+
+      <START:TEMPO_DURACAO>Em dois anos<END>
+      a banda já superou a marca dos
+      <START:VALOR_QUANTIDADE>75<END>
+      concertos, entre os quais se destacam:
+    
+    
+
+        <START:ACONTECIMENTO_ORGANIZADO>Cercal Rock 9ª edição<END>.
+<START:ACONTECIMENTO_ORGANIZADO>Festival Acção Directa 2005<END>
+       (
+      <START:LOCAL_HUMANO>Açores<END>
+      <START:LOCAL_HUMANO>Ilha Terceira<END>
+      )
+    
+    
+
+   <START:ACONTECIMENTO_ORGANIZADO>Recepção ao Caloiro 2005<END> (<START:LOCAL_HUMANO>Covilhã<END>)  com
+      Squeeze theeze pleeze
+      e
+      <START:PESSOA_GRUPOMEMBRO>Fonzie<END>
+    
+    
+
+        <START:ACONTECIMENTO_ORGANIZADO>Queima das Fitas de Coimbra 2006<END>
+      com
+      <START:PESSOA_GRUPOMEMBRO>Hands on Approach<END>
+      e
+      <START:PESSOA_GRUPOMEMBRO>Boss AC<END>
+    
+    
+
+       <START:ACONTECIMENTO_ORGANIZADO>Semana Académica<END> da <START:ORGANIZACAO_INSTITUICAO>Universidade<END> de <START:LOCAL_HUMANO>Aveiro<END> 
+      (
+     <START:TEMPO_TEMPO_CALEND>2006<END>
+      )  com
+      <START:PESSOA_GRUPOMEMBRO>Pluto<END>
+      e
+      <START:PESSOA_GRUPOMEMBRO>Expensive Soul<END>
+    
+    
+
+       <START:ACONTECIMENTO_ORGANIZADO>Semana Académica 2006<END>
+   (
+      <START:LOCAL_HUMANO>Castelo Branco<END>
+      )  com
+      <START:PESSOA_GRUPOMEMBRO>Tara Perdida<END>
+    
+    
+
+      <START:LOCAL_HUMANO>Hardclub<END>
+      (
+      <START:LOCAL_HUMANO>V.N.
+Gaia<END>
+      .)
+- com
+      <START:PESSOA_GRUPOMEMBRO>Twenty Toon<END>
+    
+    
+
+   <START:ACONTECIMENTO_ORGANIZADO>Recepção ao Caloiro 2006<END>
+  (
+      <START:LOCAL_HUMANO>IPC<END>
+      )
+      <START:LOCAL_HUMANO>Coimbra<END>
+      com
+      <START:PESSOA_GRUPOMEMBRO>Peste &amp; Sida<END>
+      e
+      <START:PESSOA_GRUPOMEMBRO>Asher Lane<END>
+      (
+      <START:LOCAL_HUMANO>Alemanha<END>
+      )
+    
+    
+
+        <START:ACONTECIMENTO_ORGANIZADO>RockOff 2006 VI edição<END> 
+     (
+      <START:LOCAL_HUMANO>Cantanhede<END>
+      )
+    
+    
+
+<START:ACONTECIMENTO_ORGANIZADO>Março Jovem 2006<END>
+      (<START:LOCAL_HUMANO>C.M.
+Seixal<END>)  com
+      <START:PESSOA_GRUPOMEMBRO>Triplet<END>
+    
+    
+
+        <START:ACONTECIMENTO_ORGANIZADO>Vans/Eastpak Club Tour 2007<END>
+     (
+      <START:LOCAL_HUMANO>Almada<END>
+      )  com
+      <START:PESSOA_GRUPOMEMBRO>SK6<END>
+      ,
+      <START:PESSOA_GRUPOMEMBRO>Humble<END>
+      ,
+      <START:PESSOA_GRUPOMEMBRO>Devil in Me<END>
+      ,
+      <START:PESSOA_GRUPOMEMBRO>Tara Perdida<END>
+      e
+      <START:PESSOA_GRUPOMEMBRO>Strike Anywhere<END>
+    
+    
+
+  <START:ACONTECIMENTO_ORGANIZADO>Sesimbra Xtream Beach Fest 2007<END>
+      (
+      <START:LOCAL_HUMANO>Sesimbra<END>
+      )
+    
+    
+Discografia:
+    
+
+      Os
+      <START:PESSOA_GRUPOMEMBRO>Fitacola<END>
+      contam para já, apenas com um
+      <START:COISA_CLASSE>EP<END>
+      , edição de autor, com
+      <START:VALOR_QUANTIDADE>6<END>
+      musicas, intitulado «
+      <START:ABSTRACCAO_NOME>Rebobina e Pensa<END>
+      ».
+Notícias recentes/projectos:
+    
+
+      <START:TEMPO_TEMPO_CALEND>Neste nomento<END>
+      os
+      <START:PESSOA_GRUPOMEMBRO>Fitacola<END>
+      estiveram
+      <START:TEMPO_DURACAO>três semanas<END>
+      em estúdio a gravar aquele que será o seu primeiro álbum.
+Será composto por
+      <START:VALOR_QUANTIDADE>12<END>
+      temas e o seu lançamento está previsto
+      <START:TEMPO_TEMPO_CALEND>para os primeiros meses de 2008<END>
+      .
+Elementos:
+    
+
+      <START:PESSOA_INDIVIDUAL>Diogo<END>
+      Guitarra
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Libelinha<END>
+      Baixo/coros
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Besugo<END>
+      Guitarra
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Xico<END>
+      Bateria/coros
+    
+  
+
+  --DOCSTART--
+
+
+ <START:LOCAL_HUMANO>Lisboa<END> - <START:LOCAL_HUMANO>Dakar<END>: <START:PESSOA_INDIVIDUAL>Carlos Sousa<END> ambiciona pódio
+
+
+PILOTO PORTUGUÊS NÃO ESCONDE DESEJO E ELOGIA ORGANIZAÇÃO
+
+
+O piloto português <START:PESSOA_INDIVIDUAL>Carlos Sousa<END> revelou que tem "capacidade para chegar ao pódio" dos automóveis na edição <START:TEMPO_TEMPO_CALEND>de 2008<END> do  <START:LOCAL_HUMANO>Lisboa<END> - <START:LOCAL_HUMANO>Dakar<END> cujo percurso foi <START:TEMPO_TEMPO_CALEND>hoje<END> apresentado em <START:LOCAL_HUMANO>Lisboa<END>.
+<START:PESSOA_INDIVIDUAL>Carlos Sousa<END> acredita que <START:TEMPO_TEMPO_CALEND>este ano<END> o rali vai ser mais duro.
+"Vai ser um percurso para os mais resistentes.
+É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo", afirmou o piloto da <START:PESSOA_GRUPOMEMBRO>Lagos Team<END>, que vai conduzir um <START:COISA_MEMBROCLASSE>Volkswagen Touareg<END> idêntico aos de fábrica.
+Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: "Há <START:VALOR_QUANTIDADE>15 ou mais<END> pilotos com hipóteses de chegar à vitória e ao pódio.
+As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela <START:LOCAL_VIRTUAL>Internet<END> , mas para os pilotos vai ser uma luta <START:TEMPO_TEMPO_CALEND>até ao último dia<END>".
+O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical <START:TEMPO_TEMPO_CALEND>em Setembro<END>.
+No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições <START:TEMPO_TEMPO_CALEND>dentro de mês e meio<END>, quando começar o rali.
 --DOCSTART--
     
- Novidades na     <START:ACONTECIMENTO_ORGANIZADO> Macworld 2007 <END>         
- <START:ORGANIZACAO_EMPRESA> Apple <END> lançou o <START:COISA_CLASSE> iPhone <END> , o telemóvel mais esperado <START:TEMPO_GENERICO> dos últimos tempos <END>        
- Sempre é o <START:COISA_CLASSE> iPhone <END> , dirão os que acompanharam as especulações e palpites <START:TEMPO_TEMPO_CALEND> dos últimos meses <END> .
-A <START:ORGANIZACAO_EMPRESA> Apple <END> , empresa de tecnologias que tem nos leitores multimédia <START:COISA_CLASSE> iPod <END> e nos computadores <START:COISA_CLASSE> Macintosh <END> a sua bandeira, acaba de entrar na área das telecomunicações.
-O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil.
-Funciona com o sistema operativo <START:COISA_CLASSE> MacOS X <END> , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.
-O anúncio foi feito <START:TEMPO_TEMPO_CALEND> ontem <END> , em <START:LOCAL_HUMANO> São Francisco <END> , nos <START:LOCAL_HUMANO> EUA <END> , onde decorre a <START:ACONTECIMENTO_ORGANIZADO> Macworld <END> , feira que a <START:ORGANIZACAO_EMPRESA> Apple <END> organiza <START:TEMPO_FREQUENCIA> todos os anos <END> para apresentar as suas novidades.
-Como de costume, a conferência de <START:PESSOA_INDIVIDUAL> Steve Jobs <END> , o director-geral da empresa, foi o ponto alto para os fãs da <START:COISA_CLASSE> Apple <END> .        
- "
-<START:TEMPO_FREQUENCIA> De vez em quando <END> chega um produto revolucionário que muda tudo.
-É sorte se pudermos trabalhar num ao longo da carreira... e a <START:ORGANIZACAO_EMPRESA> Apple <END> é sortuda por já ter lançado vários", disse <START:PESSOA_INDIVIDUAL> Steve Jobs <END> .
-O novo telefone vai estar disponível <START:TEMPO_TEMPO_CALEND> em Junho <END> , nos <START:LOCAL_HUMANO> EUA <END> , em duas versões: uma com <START:VALOR_QUANTIDADE> 8 gigabytes (GB) <END> de capacidade de armazenamento, que custará <START:VALOR_MOEDA> 600 dólares <END> , e outra com <START:VALOR_QUANTIDADE> 4 GB <END> , a <START:VALOR_MOEDA> cerca de 500 dólares <END> .
-À <START:LOCAL_FISICO> Europa <END> chegará <START:TEMPO_TEMPO_CALEND> no final do ano <END> , e na <START:LOCAL_FISICO> Ásia <END> só <START:TEMPO_TEMPO_CALEND> em 2008 <END> .
-Tem uma câmara fotográfica com <START:VALOR_QUANTIDADE> 2 megapixels <END> de resolução e um ecrã táctil com <START:VALOR_QUANTIDADE> 8,8 centímetros <END> de diagonal.
-Nos <START:LOCAL_HUMANO> EUA <END> , o telemóvel da <START:ORGANIZACAO_EMPRESA> Apple <END> funcionará na rede <START:COISA_CLASSE> Cingular Wireless <END> .
-O seu desenvolvimento levou ao registo de <START:VALOR_QUANTIDADE> mais de 200 <END> patentes, o que o torna numa das maiores inovações da empresa.
-O facto de ter o sistema operativo <START:COISA_CLASSE> OS X <END> - usado nos computadores da <START:COISA_CLASSE> Apple <END> - significa que o <START:COISA_CLASSE> iPhone <END> terá muitas das funções habituais naquelas máquinas.
-Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do <START:ORGANIZACAO_EMPRESA> Google <END> .
+<START:PESSOA_GRUPOMEMBRO>Coletivo<END> dinamarquês acusa <START:ORGANIZACAO_INSTITUICAO>Fundação Bienal<END> de censura
+    
+<START:TEMPO_TEMPO_CALEND>16 de Outubro de 2006<END>
+    
+Apresentada na  <START:ACONTECIMENTO_ORGANIZADO>Bienal<END> de <START:LOCAL_HUMANO>Veneza<END> <START:TEMPO_TEMPO_CALEND>em 2003<END>, a obra "<START:OBRA_ARTE>Guaraná Power<END>", do coletivo dinamarquês <START:PESSOA_GRUPOMEMBRO>Superflex<END>, foi selecionada pela curadoria da  <START:ACONTECIMENTO_ORGANIZADO>27ª Bienal<END> de <START:LOCAL_HUMANO>São Paulo<END> mas teve sua exibição vetada pela <START:ORGANIZACAO_INSTITUICAO>Fundação<END> realizadora da mostra.
+Tônico de sabor concentrado e propriedades energéticas, de grande sucesso na <START:LOCAL_HUMANO>Europa<END>, o <START:COISA_CLASSE>Guaraná Power<END> tem como função primeira a crítica ao monopólio do mercado e a suas conseqüências nas comunidades agricultoras.
+A partir de um estudo econômico da cidade de <START:LOCAL_HUMANO>Maués<END>, no <START:LOCAL_HUMANO>Amazonas<END>, detectou-se o impacto econômico da redução do preço das sementes de guaraná por parte das grandes indústrias.
+"Estabelecemos o valor de <START:VALOR_MOEDA>R$ 15<END> para o quilo de sementes, enquanto as indústrias pagam <START:VALOR_MOEDA>R$ 7<END>", afirmou <START:PESSOA_INDIVIDUAL>Bjornstjerne Christiansen<END>, membro do <START:PESSOA_GRUPOMEMBRO>Superflex<END>, em entrevista à <START:PESSOA_MEMBRO>Folha de São Paulo<END>.
+O projeto conta com o apoio da  <START:ORGANIZACAO_ADMINISTRACAO>Secretaria de Desenvolvimento Sustentável<END> do <START:ORGANIZACAO_ADMINISTRACAO>Governo<END> do <START:LOCAL_HUMANO>Estado do Amazonas<END>.
+Impedidos de apresentar a obra - e tendo suas páginas do catálogo da mostra cobertas por tarjas pretas -, os dinamarqueses distribuíram o <START:COISA_CLASSE>Guaraná Power<END>, sem rótulo, em vernissages na <START:LOCAL_HUMANO>Galeria Vermelho<END>  e <START:LOCAL_HUMANO>Instituto Tomie Ohtake<END>, além de pontos espalhados pela capital paulista.
+O coletivo <START:PESSOA_GRUPOMEMBRO>Superflex<END> já recebeu elogios do <START:PESSOA_INDIVIDUAL>Ministro da Cultura Gilberto Gil<END> <START:TEMPO_TEMPO_CALEND>em junho deste ano<END>, ao apresentar no <START:LOCAL_HUMANO>Brasil<END> o projeto <START:OBRA_PLANO>Free Beer<END> ("cerveja livre"), cerveja cuja fórmula é licenciada em <START:ABSTRACCAO_IDEIA>Creative Commons<END> e permite que qualquer pessoa interessada possa fabricá-la ou aprimorá-la.
+Na entrevista coletiva dos organizadores da <START:ACONTECIMENTO_ORGANIZADO>Bienal<END>, o <START:PESSOA_CARGO>presidente da Fundação Bienal<END> , <START:PESSOA_INDIVIDUAL>Manuel Francisco Pires da Costa<END>, optou por, além de responsabilizar a assessoria jurídica, emitir sua opinião pessoal acerca da obra polêmica: "Eu jamais interferi no mérito das obras selecionadas.
+Aliás, a acho de muito mau gosto e, se não julguei, estou julgando agora.
+Foi o departamento jurídico da <START:ORGANIZACAO_INSTITUICAO>Bienal<END> quem informou que essa obra não estava de acordo com as regras da legislação brasileira".
+"O que eles sempre nos disseram é que isso [a referência à marca do guaraná <START:COISA_CLASSE>Antarctica<END>] poderia ser um problema, mas o presidente nunca nos deu respostas claras.
+Nossas obras sempre envolvem negociação, mas com ele tivemos as portas fechadas.
+Se eles olhassem como ficou a lata [diferente da criação original], não haveria problema legal", afirmou <START:PESSOA_INDIVIDUAL>Jakob Fenger<END>, um dos membros do coletivo, em entrevista para a <START:ORGANIZACAO_EMPRESA>Folha de São Paulo<END>, em matéria que informa ainda: "Por meio de sua assessoria, a <START:ORGANIZACAO_EMPRESA>AmBev<END> [fabricante do guaraná <START:COISA_CLASSE>Antarctica<END>] declarou não ver problema na obra.
+Diz não ter tido nenhum contato com o grupo".
+O <START:PESSOA_GRUPOMEMBRO>Superflex<END> ainda distribuiu à imprensa, <START:TEMPO_TEMPO_CALEND>no dia<END> da coletiva, o documento "<START:OBRA_REPRODUZIDA>A obra de arte que os brasileiros não terão permissão de ver na Bienal<END> " .
+Nele, afirma-se que o "<START:PESSOA_CARGO>presidente da Fundação Bienal<END>  censurou um trabalho com reconhecimento internacional para o público brasileiro", que, segundo o texto divulgado, teria sido recusado "por não ser considerada uma 'atividade artística'".
+A polêmica gerada pela <START:ORGANIZACAO_INSTITUICAO>Fundação Bienal<END> fortaleceu a ação política do coletivo dinamarquês, tendo a censura gerado uma reação oposta à desejada.
+Foi grande o interesse público pelo modelo econômico e social do projeto <START:OBRA_PLANO>Guaraná Power<END> -- baseado no colaborativismo do software livre -- e positiva a repercussão do tema, exatamente onde interessa: no país fornecedor da matéria-prima de uma das bebidas estrangeiras mais famosas no exterior.
+--DOCSTART--
+    
+Multibanco
+    
+
+      <START:COISA_CLASSE>Multibanco<END>
+      é uma marca registada propriedade da empresa
+      <START:ORGANIZACAO_EMPRESA>SIBS<END>
+      .
+O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela
+      <START:ORGANIZACAO_EMPRESA>SIBS<END>
+      .
+Neste contexto, também se utiliza o termo
+      <START:ABSTRACCAO_NOME>ATM<END>
+      , do inglês
+      <START:ABSTRACCAO_NOME>Automatic Teller Machine<END>
+      .
+Enquanto
+      <START:LOCAL_HUMANO>Portugal<END>
+      foi um dos últimos países da
+      <START:LOCAL_HUMANO>Europa<END>
+      ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas.
+O número de caixas 
+      <START:COISA_CLASSE>Multibanco<END>
+      mais do que triplicou em
+      <START:LOCAL_HUMANO>Portugal<END>
+      <START:TEMPO_TEMPO_CALEND>na última década<END>
+      , revela um estudo da
+      <START:ORGANIZACAO_EMPRESA>Marktest<END>
+      .
+<START:TEMPO_TEMPO_CALEND>Desde 1995<END>
+      , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela
+      <START:ORGANIZACAO_EMPRESA>SIBS<END>
+      e incluídos na pesquisa «
+      <START:OBRA_PLANO>Os Concelhos Portugueses -- 1995/2005<END>  ».
+Em
+      <START:LOCAL_HUMANO>Portugal<END>
+      , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.
+<START:TEMPO_TEMPO_CALEND>Neste momento<END>
+      a
+      <START:COISA_CLASSE>Rede Multibanco<END>
+      é uma das mais sofisticadas redes interbancárias do mundo.
+Também é o nome de um cartão de débito.
+--DOCSTART--
+
+Que percentagem do orçamento da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> se destina à agricultura?
+Quantos países são oficialmente candidatos à adesão à <START:ORGANIZACAO_ADMINISTRACAO>Otan<END>?
+Que sinfonia compôs <START:PESSOA_INDIVIDUAL>Beethoven<END> <START:TEMPO_TEMPO_CALEND>em 1824<END>?
+Que país não é membro da <START:ORGANIZACAO_ADMINISTRACAO>ONU<END>?
+Quem se pensa ter participado na tentativa de assassínio de <START:PESSOA_INDIVIDUAL>Juan Carlos<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>?
+Quem era o pai de <START:PESSOA_INDIVIDUAL>Isabel II<END>?
+Quem foi <START:PESSOA_CARGO>chanceler da Alemanha<END>  <START:TEMPO_TEMPO_CALEND>de 1974 a 1982<END>?
+Quando ocorreu a coroação oficial de <START:PESSOA_INDIVIDUAL>Isabel II<END>?
+Em que ano foi proposta pela primeira vez a "<START:OBRA_PLANO>Parceria para a Paz<END>"?
+Quem comandou a <START:ACONTECIMENTO_EFEMERIDE>Insurreição de Varsóvia<END>?
+Quem escreveu a epopeia fantástica "<START:OBRA_REPRODUZIDA>O Senhor dos Anéis<END>"?
+Como se chama a mulher de <START:PESSOA_INDIVIDUAL>George H. W. Bush<END>?
+Como se chama a primeira mulher a escalar o <START:LOCAL_FISICO>Evereste<END> sem máscara de oxigénio?
+Quem ficou conhecido como o "chanceler de ferro"?
+Em que ano foi assassinado <START:PESSOA_INDIVIDUAL>Martin Luther King<END>?
+Em que cidade nasceu <START:PESSOA_INDIVIDUAL>Wolfgang Amadeus Mozart<END>?
+Quantos estados tem a <START:LOCAL_HUMANO>Alemanha<END>?
+Quem é <START:PESSOA_INDIVIDUAL>Stephen Hawking<END>?
+O que é o hapkido?
+Quem se tornou chanceler após ter sido ministro-presidente da <START:LOCAL_HUMANO>Renânia-Palatinado<END>?
+Que rei morreu <START:TEMPO_TEMPO_CALEND>em 1718<END>?
+Em que ano morreu <START:PESSOA_INDIVIDUAL>Charles de Gaulle<END>?
+Qual é a altura da <START:OBRA_ARTE>Torre Eiffel<END>?
+O que é o top quark?
+De acordo com o modelo "standard", quais são as três partículas elementares da física?
+Que proporção do leite vendido é usado com cereais ao pequeno-almoço?
+Em que ano teve lugar o <START:ACONTECIMENTO_EFEMERIDE>Desembarque da Normandia<END>?
+Quando foi assinada a "<START:OBRA_PLANO>Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos<END>"?
+A que se refere o termo "<START:ABSTRACCAO_NOME>Les Six<END>" em música?
+A quem pertencia <START:LOCAL_HUMANO>Nice<END> <START:TEMPO_TEMPO_CALEND>de 1814 a 1860<END>?
+Qual é a sigla da <START:ORGANIZACAO_INSTITUICAO>Administração Federal de Aviação<END>?
+O que é o GI Joe?
+Qual a estrutura cujo afundamento causou controvérsia na cimeira dos <START:ORGANIZACAO_ADMINISTRACAO>G7<END> em <START:LOCAL_HUMANO>Halifax<END>?
+Quem foi <START:PESSOA_INDIVIDUAL>Alexander Graham Bell?<END> 
+
+Quem é <START:PESSOA_INDIVIDUAL>Danuta Walesa<END>?
+Quem é <START:PESSOA_INDIVIDUAL>Vigdís Finnbogadóttir<END>?
+Quem eram os cossacos?
+O que é o ECU verde?
+O que é o dracma?
+Quem preside à <START:ORGANIZACAO_INSTITUICAO>RAI<END>?
+Quem é o director de operações da <START:ORGANIZACAO_ADMINISTRACAO>NASA<END>?
+Em que ano se afundou o <START:COISA_OBJECTO>Titanic<END>?
+Em que data é que os <START:ORGANIZACAO_ADMINISTRACAO>Estados Unidos<END> invadiram o <START:LOCAL_HUMANO>Haiti<END>?
+Em que ano foi a <START:ACONTECIMENTO_EFEMERIDE>Revolução de Outubro<END>?
+Em que ano ocorreu a retirada de <START:LOCAL_HUMANO>Dunquerque<END>?
+Onde é a sede da <START:ORGANIZACAO_ADMINISTRACAO>Interpol<END>?
+Onde é que <START:PESSOA_INDIVIDUAL>Braque<END> e <START:PESSOA_INDIVIDUAL>Picasso<END> trabalharam juntos?
+De que organização era <START:PESSOA_INDIVIDUAL>Sergio Balanzino<END> secretário-geral?
+De que estúdio cinematográfico foi <START:PESSOA_INDIVIDUAL>Cedric Gibbons<END> director artístico?
+Quantos habitantes tem <START:LOCAL_HUMANO>Longyearbyen<END>?
+Qual o principal componente da aspirina?
+Com que bicicleta bateu <START:PESSOA_INDIVIDUAL>Miguel Induráin<END> o recorde da hora?
+Quem venceu a <START:ACONTECIMENTO_ORGANIZADO>Volta a França<END> <START:TEMPO_TEMPO_CALEND>em 1988<END>?
+A que organização aderiu a <START:ORGANIZACAO_ADMINISTRACAO>Grécia<END> <START:TEMPO_TEMPO_CALEND>em 1952<END>?
+Quantos países visitou <START:PESSOA_INDIVIDUAL>Nixon<END> <START:TEMPO_TEMPO_CALEND>entre 1953 e 1959<END>?
+Que cargo ocupava <START:PESSOA_INDIVIDUAL>François Mitterrand<END> ao ingressar no hospital de <START:LOCAL_HUMANO>Cochin<END> ?
+Quais são as três repúblicas bálticas?
+Quais são as três repúblicas soviéticas eslavas?
+O que é o Challenger?
+Quem é <START:PESSOA_INDIVIDUAL>Ernesto Zedillo Ponce de León<END>?
+Quem era primeiro-ministro britânico antes de <START:PESSOA_INDIVIDUAL>John Major<END>?
+Quem é <START:PESSOA_INDIVIDUAL>Boris Becker<END>?
+Em que filme de <START:PESSOA_INDIVIDUAL>Kevin Reynolds<END> actuou <START:PESSOA_INDIVIDUAL>Kevin Costner<END>?
+Onde se realizaram os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> <START:TEMPO_TEMPO_CALEND>de 1993<END>?
+Que tipo de bombas foram usadas pelo <START:PESSOA_GRUPOMEMBRO>IRA<END> no ataque a <START:LOCAL_HUMANO>Heathrow<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>?
+O que é um Chinook?
+Quem é o <START:PESSOA_CARGO>presidente do Egipto<END> ?
+Onde morreu <START:PESSOA_INDIVIDUAL>Kurt Cobain<END>?
+Quantos telespectadores seguiram a final do  <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo de Futebol<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>?
+O que é o <START:ABSTRACCAO_ESTADO>KMT<END>?
+Que cromossoma está na origem do mongolismo?
+Quem era <START:PESSOA_CARGO>presidente da Chechénia<END>  <START:TEMPO_TEMPO_CALEND>em 1994<END>?
+Quem foi o primeiro homem na <START:LOCAL_FISICO>Lua<END>?
+A que partido pertence <START:PESSOA_INDIVIDUAL>Mahfoudh Nahnah<END>?
+Diga o nome de um filme realizado por <START:PESSOA_INDIVIDUAL>Claude Lanzmann<END>?
+Onde fica a cidadezinha de <START:LOCAL_HUMANO>Neftegorsk<END>?
+De que grupo é presidente <START:PESSOA_INDIVIDUAL>Claude Bébéar<END>?
+Quem é <START:PESSOA_INDIVIDUAL>Jacques Diouf<END>?
+O que significa <START:ABSTRACCAO_NOME>NLW<END>?
+O que é a Parceria para a Paz?
+A que partido pertence <START:PESSOA_INDIVIDUAL>Petru Luchinski<END>?
+Que festival de cinema atribui o "Urso de Ouro"?
+Quem é o diretor do filme "<START:OBRA_REPRODUZIDA>Caro Diário<END>"?
+O que é a <START:ABSTRACCAO_ESTADO>UNHCR<END>?
+Que valor adjudicou o <START:ORGANIZACAO_ADMINISTRACAO>Canadá<END> para a remoção das armas atómicas ucranianas?
+Onde é que morreu <START:PESSOA_INDIVIDUAL>Ayrton Senna<END>?
+Em que país foi aprovada uma lei que proíbe a publicidade ao tabaco?
+Onde ocorreram casos de febre aftosa?
+Quando aderirão à  <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> a <START:ORGANIZACAO_ADMINISTRACAO>Áustria<END>, a <START:ORGANIZACAO_ADMINISTRACAO>Suécia<END> e a <START:ORGANIZACAO_ADMINISTRACAO>Finlândia<END>?
+Que estúdio produziu o filme "<START:OBRA_REPRODUZIDA>Toy Story<END>"?
+Qual é a terceira maior cidade da <START:LOCAL_HUMANO>Baviera<END>?
+Quem era o capitão do <START:PESSOA_GRUPOMEMBRO>Ajax<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>?
+O que são os otakus?
+O que é o CD-i?
+Em que cidade é que <START:PESSOA_INDIVIDUAL>Nietzsche<END> escreveu "<START:OBRA_REPRODUZIDA>Ecce Homo<END>"?
+Quando viveu <START:PESSOA_INDIVIDUAL>Ludwig Wittgenstein<END>?
+Quem foi votado o futebolista do ano na <START:LOCAL_HUMANO>Bélgica<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>?
+Onde é a nova sede da <START:ORGANIZACAO_EMPRESA>Nederlandse Gasunie<END>?
+Em que museu foi exibida <START:TEMPO_TEMPO_CALEND>em 1994<END> uma exposição sobre <START:PESSOA_INDIVIDUAL>Mondriaan<END>?
+Quando foram as <START:LOCAL_HUMANO>Antilhas Holandesas<END> legalmente equiparadas aos <START:LOCAL_HUMANO>Países Baixos<END>?
+Descreva o <START:LOCAL_HUMANO>World Trade Center<END>.
+O que é um samovar?
+O que é a Bundesgrenzschutz?
+O que é a Generalitat?
+O que é a Iaaf?
+Quem eram os pictos?
+O que era o Granma?
+O que é "Margarita e o Mestre"?
+O que é Nauru?
+O que é Roque Santeiro?
+O que é a Mona Lisa?
+O que é a cachupa?
+O que é a Marselhesa?
+O que é kabuki?
+O que é o comunismo gulash?
+O que é o cirílico?
+O que é o efeito de estufa?
+O que é o fauvismo?
+O que é o xelim?
+O que é um mujique?
+O que é um ornitorrinco?
+O que é um sátrapa?
+Que sabe sobre o aikido?
+Quem foi <START:PESSOA_INDIVIDUAL>Amílcar Cabral<END>?
+Quem foi <START:PESSOA_INDIVIDUAL>Qin Shi Huang<END>?
+Que país foi abalado por um terramoto <START:TEMPO_TEMPO_CALEND>em Agosto de 94<END>?
+O que é que foi anexado após a <START:ACONTECIMENTO_EFEMERIDE>Guerra dos Seis Dias<END>?
+Em que cidade é que fica o Roque Santeiro?
+Em que estado fica <START:LOCAL_HUMANO>Porto Alegre<END>?
+Onde fica Beslan?
+Onde fica a Grande Hanish?
+Onde fica o Banat?
+Onde ganharam os <START:PESSOA_GRUPOMEMBRO>Abba<END> o <START:ACONTECIMENTO_ORGANIZADO>Festival da Eurovisão<END>?
+Onde naufragou o <START:COISA_OBJECTO>Marika-7<END>?
+Onde é que fica a represa <START:LOCAL_FISICO>Ataturk<END>?
+Qual a capital do <START:LOCAL_HUMANO>Estado Livre de Orange<END>?
+Qual é a cidade santa xiita?
+Que país tomou a <START:LOCAL_HUMANO>Grande Hanish<END>?
+Onde foi apunhalado <START:PESSOA_INDIVIDUAL>Naguib Mahfouz<END>?
+Em quanto é que foi multado <START:PESSOA_INDIVIDUAL>John Fashanu<END>?
+Em que lugar ficou <START:PESSOA_INDIVIDUAL>Paulo de Carvalho<END> no <START:ACONTECIMENTO_ORGANIZADO>Festival da Eurovisão<END>?
+Qual é a duração do filme "<START:OBRA_REPRODUZIDA>Heimat<END>"?
+Qual é a área do <START:LOCAL_FISICO>Oceano Pacífico<END>?
+Qual é o recorde mundial do salto em altura?
+Quanta cerveja bebe um brasileiro <START:TEMPO_DURACAO>anualmente<END>?
+Quanto mede <START:PESSOA_INDIVIDUAL>Sergei Yuran<END>?
+Quanto pesa <START:PESSOA_INDIVIDUAL>Romário<END>?
+Quantos estados tem o <START:LOCAL_HUMANO>Brasil<END>?
+Quantos é que eram os <START:PESSOA_GRUPOMEMBRO>Beatles<END>?
+Que percentagem da população do <START:LOCAL_HUMANO>Québec<END> fala francês?
+Que população tem <START:LOCAL_HUMANO>Amiens<END>?
+A que dinastia pertencia <START:PESSOA_INDIVIDUAL>Gengis Khan<END>?
+Como se chama a companhia ferroviária francesa?
+A quem foi conquistada <START:LOCAL_HUMANO>Lisboa<END> <START:TEMPO_TEMPO_CALEND>em 1147<END>?
+Contra que clube jogou o <START:PESSOA_GRUPOMEMBRO>Marítimo<END> <START:TEMPO_TEMPO_CALEND>a 2 de Abril de 1995<END>?
+De que equipa é treinador <START:PESSOA_INDIVIDUAL>Johann Cruyff<END>?
+De que selecção é <START:PESSOA_INDIVIDUAL>Ravelli<END> é o guarda-redes?
+Quem foram os adversários do <START:PESSOA_GRUPOMEMBRO>Boavista<END> na  <START:ACONTECIMENTO_ORGANIZADO>Taça UEFA<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>?
+Diga um jornal norueguês.
+Onde trabalha <START:PESSOA_INDIVIDUAL>José Rodrigues Filho<END>?
+Que povo foi convertido Ã  ortodoxia durante a Idade Média?
+Que hospital fica em <START:LOCAL_HUMANO>Matosinhos<END>?
+<START:PESSOA_INDIVIDUAL>Ravelli<END> é o goleiro de que seleção?
+Qual o actual nome do <START:LOCAL_HUMANO>Ceilão<END>?
+Que competição se realizou pela primeira vez <START:TEMPO_TEMPO_CALEND>em 1896<END>?
+Qual foi o resultado do  <START:PESSOA_GRUPOMEMBRO>Itália<END>-<START:PESSOA_GRUPOMEMBRO>Nigéria<END> no  <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo<END> <START:TEMPO_TEMPO_CALEND>de 1994<END>?
+Em que desporto é <START:ACONTECIMENTO_ORGANIZADO>Torneio das Cinco Nações<END>?
+Em que língua está escrito o <START:OBRA_REPRODUZIDA>Alcorão<END>?
+Em que telenovela aparece o prefeito <START:PESSOA_INDIVIDUAL>Odorico<END>?
+Diga um livro de <START:PESSOA_INDIVIDUAL>Júlio Verne<END>.
+Que edifício foi erigido <START:TEMPO_TEMPO_CALEND>no século 12<END>?
+Que guerra durou <START:TEMPO_TEMPO_CALEND>de 1865 a 1870<END>?
+Para que instrumento são os concertos de <START:PESSOA_INDIVIDUAL>Chopin<END>?
+Qual a língua mais falada no <START:LOCAL_HUMANO>Québec<END>?
+Qual a nacionalidade de <START:PESSOA_INDIVIDUAL>Geoffrey Oryema<END>?
+Qual a religião oficial da <START:LOCAL_HUMANO>Tailândia<END>?
+Qual é o planeta vermelho?
+Que corpo celeste é <START:COISA_OBJECTO>Toutatis<END>?
+Que ensina <START:PESSOA_INDIVIDUAL>Vital do Rego<END>?
+Quem venceu o open da <START:LOCAL_HUMANO>Austrália<END> <START:TEMPO_TEMPO_CALEND>em 1995<END>?
+De quem é "<START:OBRA_REPRODUZIDA>O Capital<END>"?
+Diga um jogador francês do <START:PESSOA_GRUPOMEMBRO>Manchester United<END>.
+Quem salvou judeus durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>?
+Diga um escritor chinês.
+Diga um  Herói da <START:LOCAL_HUMANO>União Soviética<END>.
+Mencione um membro da <START:ORGANIZACAO_INSTITUICAO>Academia Francesa<END>.
+Quem foi <START:PESSOA_CARGO>presidente da Suíça<END>  <START:TEMPO_TEMPO_CALEND>no ano de 1995<END>?
+Quem criou <START:COISA_OBJECTO>Spirou<END>?
+Quem escreveu "<START:OBRA_REPRODUZIDA>A Capital<END>"?
+Quem escreveu "<START:OBRA_REPRODUZIDA>O Idiota<END>"?
+Quem é "<START:PESSOA_INDIVIDUAL>Toninho Malvadeza<END>"?
+Quem é o sogro de <START:PESSOA_INDIVIDUAL>Mohammad Khalifa<END>?
+Quem é que escreveu "<START:OBRA_REPRODUZIDA>Os Persas<END>"?
+Desde quando é <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END> uma república?
+Quando houve uma erupção do <START:LOCAL_FISICO>Vesúvio<END>?
+Quando reinou <START:PESSOA_INDIVIDUAL>Isabel I<END>?
+Quando teve lugar a primeira edição da <START:ACONTECIMENTO_ORGANIZADO>Taça Davis<END>?
+Quando viveu <START:PESSOA_INDIVIDUAL>Franz Liszt<END>?
+Quando é que <START:PESSOA_INDIVIDUAL>Cleópatra<END> se suicidou?
+Quando é que a <START:ORGANIZACAO_ADMINISTRACAO>URSS<END> invadiu a <START:LOCAL_HUMANO>Manchúria<END>?
+--DOCSTART--
+
+
+<START:PESSOA_INDIVIDUAL>Afonso de Albuquerque<END>
+
+
+Biografia
+
+
+Foi educado na corte de <START:PESSOA_INDIVIDUAL>D.
+Afonso V<END>.
+Partiu na esquadra mandada <START:TEMPO_TEMPO_CALEND>em 1480<END> em socorro do  <START:PESSOA_INDIVIDUAL>rei D. Fernando<END> de <START:LOCAL_HUMANO>Nápoles<END>, «para reprimir o furor dos turcos».
+Esteve na expedição <START:TEMPO_TEMPO_CALEND>de 1489<END> para defender a fortaleza da <START:LOCAL_HUMANO>Graciosa<END>, situada da ilha que o rio <START:LOCAL_FISICO>Luco<END> forma junto da cidade de <START:LOCAL_HUMANO>Larache<END>.
+Foi estribeiro-mor do <START:PESSOA_INDIVIDUAL>rei D. João II<END>, a quem <START:TEMPO_TEMPO_CALEND>em 1476<END> acompanhou nas guerras com <START:ORGANIZACAO_ADMINISTRACAO>Castela<END>.
+Esteve assim nas praças-fortes de <START:LOCAL_HUMANO>Arzila<END> e <START:LOCAL_HUMANO>Larache<END> (<START:LOCAL_HUMANO>Marrocos<END>) <START:TEMPO_TEMPO_CALEND>em 1489<END>, e <START:TEMPO_TEMPO_CALEND>em 1490<END> faz parte da guarda de <START:PESSOA_INDIVIDUAL>D.
+João II<END>, tendo voltado novamente a <START:LOCAL_HUMANO>Arzila<END> <START:TEMPO_TEMPO_CALEND>em 1495<END>.
+<START:TEMPO_TEMPO_CALEND>Em 6 de abril de 1503 <END>partiu para a <START:LOCAL_HUMANO>Índia<END> com o primo <START:PESSOA_INDIVIDUAL>Francisco de Albuquerque<END>, comandando cada qual três naus, tendo participado em várias batalhas, erguido a fortaleza em <START:LOCAL_HUMANO>Cochim<END> e estabelecido relações comerciais com <START:ORGANIZACAO_ADMINISTRACAO>Coulão<END>.
+De regresso ao reino de <START:LOCAL_HUMANO>Portugal<END>, «mais cheio de glórias que de despojos», foi bem acolhido por <START:PESSOA_INDIVIDUAL>D.
+Manuel<END> que <START:TEMPO_TEMPO_CALEND>em 1506<END> o tornou a enviar ao <START:LOCAL_HUMANO>Oriente<END> em companhia de <START:PESSOA_INDIVIDUAL>Tristão da Cunha<END> e nomeando-o governador da <START:LOCAL_HUMANO>Índia<END>  na sucessão do <START:PESSOA_INDIVIDUAL>vice-Rei D. Francisco de Almeida<END>.
+Neste posto, conquistou vários portos em <START:LOCAL_HUMANO>Omã<END> acabando por chegar à riquíssima cidade de <START:LOCAL_HUMANO>Ormuz<END>, que se tornou tributária de <START:LOCAL_HUMANO>Portugal<END>.
+<START:TEMPO_TEMPO_CALEND>Em 1510<END> toma <START:LOCAL_HUMANO>Goa<END> ao turco <START:PESSOA_INDIVIDUAL>Hidalcão<END> e <START:TEMPO_TEMPO_CALEND>em 1511<END> toma <START:LOCAL_HUMANO>Malaca<END>, abrindo aos portugueses o acesso às especiarias das <START:LOCAL_HUMANO>Molucas<END> e ao comércio com a <START:LOCAL_HUMANO>China<END>.
+<START:TEMPO_TEMPO_CALEND>Em Fevereiro de 1513<END> <START:PESSOA_INDIVIDUAL>Albuquerque<END> parte para o estreito de <START:LOCAL_FISICO>Bab-el-Mandebe<END>, tentando tomar <START:ORGANIZACAO_ADMINISTRACAO>Áden<END> sem êxito.
+Com a construção da fortaleza de <START:LOCAL_HUMANO>Ormuz<END> <START:TEMPO_TEMPO_CALEND>em 1515<END> concluiu o seu plano de domínio dos pontos estratégicos que permitiam o controlo marítimo e o monopólio comercial da <START:ORGANIZACAO_ADMINISTRACAO>Índia<END>.
+<START:TEMPO_TEMPO_CALEND>Em 1514<END> na <START:LOCAL_HUMANO>Índia<END> dedicou-se à administração e diplomacia, a concluir a paz com <START:ORGANIZACAO_ADMINISTRACAO>Calecute<END>, a receber embaixadas de reis indianos e a consolidar e embelezar <START:ORGANIZACAO_ADMINISTRACAO>Goa<END>, onde, por meio do casamento de portugueses com mulheres indígenas procura criar uma raça luso-indiana.
+O seu prestígio chegara ao auge criando as bases do <START:ORGANIZACAO_ADMINISTRACAO>Império Português<END> no <START:LOCAL_HUMANO>Oriente<END> .
+Jaz em local desconhecido em <START:LOCAL_HUMANO>Goa<END>, na <START:LOCAL_HUMANO>India<END>?
+Ora, quando morreu, conta <START:PESSOA_INDIVIDUAL>Diogo Barbosa Machado<END> na <START:LOCAL_VIRTUAL>Bibliotheca Lusitana<END> (<START:LOCAL_VIRTUAL>Tomo I<END>, página 23) que «foi amortalhado com o manto da  Ordem militar de Santiago,  de que era comendador, sepultado na igreja de <START:LOCAL_HUMANO>Nossa Senhora da Serra<END> em <START:LOCAL_HUMANO>Goa<END>, que edificara em agradecimento do feliz sucesso da conquista de <START:LOCAL_HUMANO>Malaca<END>.
+<START:TEMPO_TEMPO_CALEND>Passados 51 anos<END> , foi trasladado, como dispusera seu testamento, ao convento de  <START:LOCAL_HUMANO>Nossa Senhora da Graça<END> dos <START:ABSTRACCAO_DISCIPLINA>Religiosos Eremitas de Santo Agostinho<END>  da corte, para onde foi conduzido <START:TEMPO_TEMPO_CALEND>em 19 de maio de 1566<END> com pompa».

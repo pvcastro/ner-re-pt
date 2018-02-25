@@ -1162,7 +1162,7 @@ uns	O
 !	O
 (	O
 ``	O
-``	B-OBRA
+''	B-OBRA
 Os	I-OBRA
 alienígenas	I-OBRA
 estão	I-OBRA
@@ -1826,7 +1826,8 @@ no	B-TEMPO
 próximo	I-TEMPO
 ano	I-TEMPO
 .	O
-«Aprovámos	O
+«	O
+Aprovámos	O
 o	O
 decreto	O
 que	O
@@ -3527,13 +3528,15 @@ agência	O
 Lusa	B-PESSOA
 ,	O
 acompanhando	O
-«o	O
+«	O
+o	O
 percurso	O
 da	O
 decadência	O
 ,	O
 da	O
-perdição»	O
+perdição	O
+»	O
 ,	O
 do	O
 autarca	O
@@ -3550,7 +3553,8 @@ troca	O
 de	O
 um	O
 favor.	O
-«Neste	O
+«	O
+Neste	O
 caso	O
 a	O
 personagem	O
@@ -3568,7 +3572,8 @@ toda	O
 a	O
 dignidade	O
 e	O
-reputação»	O
+reputação	O
+»	O
 ,	O
 compara	O
 António-Pedro	B-PESSOA
@@ -3579,13 +3584,16 @@ porque	O
 é	O
 um	O
 tema	O
-«recorrente	O
+«	O
+recorrente	O
 na	O
 literatura	O
 e	O
 na	O
 ficção	O
-ocidental».	O
+ocidental	O
+»	O
+.	O
 «	O
 Call	B-OBRA
 girl	I-OBRA
@@ -3896,7 +3904,8 @@ autores	O
 admitirem	O
 que	O
 estas	O
-«terão	O
+«	O
+terão	O
 um	O
 efeito	O
 principal	O
@@ -3918,7 +3927,9 @@ portanto	O
 nas	O
 taxas	O
 de	O
-ataque».	O
+ataque	O
+»	O
+.	O
 Os	O
 autores	O
 dos	O
@@ -4104,8 +4115,7 @@ Mas	O
 George	B-PESSOA
 Steiner	I-PESSOA
 (	O
-G.S	B-PESSOA
-.	I-PESSOA
+G.S.	B-PESSOA
 )	O
 ,	O
 proferiu	O
@@ -4151,8 +4161,7 @@ Schindler	I-PESSOA
 ?	O
 Por	O
 mim	O
-G.S	B-PESSOA
-.	I-PESSOA
+G.S.	B-PESSOA
 que	O
 fique	O
 pela	O
@@ -4219,8 +4228,7 @@ holocaustos	O
 no	O
 mundo	O
 ...	O
-G.S	B-PESSOA
-.	I-PESSOA
+G.S.	B-PESSOA
 ,	O
 enquanto	O
 aufere	O
@@ -4912,8 +4920,8 @@ abraço	O
 José	B-PESSOA
 Eduardo	I-PESSOA
 Pires	I-PESSOA
-Ass	B-ORGANIZACAO
-.	I-ORGANIZACAO
+Ass.	B-ORGANIZACAO
+--SENTENCE--	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Acólitos	I-ORGANIZACAO
 da	O
@@ -5235,7 +5243,7 @@ A	B-OBRA
 Lista	I-OBRA
 de	I-OBRA
 Schindler	I-OBRA
-``	O
+''	O
 ?	O
 Quem	O
 recebeu	O
@@ -5260,7 +5268,7 @@ de	O
 Romeu	B-OBRA
 e	I-OBRA
 Julieta	I-OBRA
-``	O
+''	O
 ?	O
 Quantos	O
 pisos	O
@@ -5284,7 +5292,8 @@ ano	O
 foi	O
 assassinado	O
 John	B-PESSOA
-F.	I-PESSOA
+F	I-PESSOA
+.	I-PESSOA
 Kennedy	I-PESSOA
 ?	O
 Com	O
@@ -5354,7 +5363,7 @@ não-publicado	O
 Cruz	B-OBRA
 sem	I-OBRA
 Amor	I-OBRA
-``	O
+''	O
 ?	O
 Em	O
 que	O
@@ -5548,7 +5557,7 @@ tudo	I-OBRA
 o	I-OBRA
 vento	I-OBRA
 levou	I-OBRA
-``	O
+''	O
 ?	O
 O	O
 que	O
@@ -5907,7 +5916,7 @@ will	I-OBRA
 always	I-OBRA
 love	I-OBRA
 you	I-OBRA
-``	O
+''	O
 ?	O
 O	O
 que	O
@@ -5937,7 +5946,7 @@ Estudos	B-ACONTECIMENTO
 sobre	I-ACONTECIMENTO
 a	I-ACONTECIMENTO
 Histeria	I-ACONTECIMENTO
-``	O
+''	O
 ?	O
 Quem	O
 foi	O
@@ -6033,7 +6042,7 @@ escreveu	O
 ``	O
 Mein	B-OBRA
 Kampf	I-OBRA
-``	O
+''	O
 ?	O
 Quem	O
 é	O
@@ -6514,7 +6523,7 @@ e	O
 o	O
 ``	O
 Wurstelprater	B-ABSTRACCAO
-``	O
+''	O
 ?	O
 Onde	O
 fica	O
@@ -6957,6 +6966,7 @@ em	B-TEMPO
 1131	I-TEMPO
 por	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Telo	I-PESSOA
 (	O
 São	B-PESSOA
@@ -7035,6 +7045,7 @@ Nos	B-TEMPO
 tempos	I-TEMPO
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 ,	O
@@ -7067,6 +7078,7 @@ fato	O
 de	O
 que	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 e	O
@@ -7074,6 +7086,7 @@ seu	O
 sucessor	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Sancho	I-PESSOA
 I	I-PESSOA
 ,	O
@@ -7227,6 +7240,7 @@ parente	O
 seu	O
 (	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Bento	I-PESSOA
 de	I-PESSOA
 Camões	I-PESSOA
@@ -7278,7 +7292,7 @@ designada	O
 ``	O
 Eu	B-ABSTRACCAO
 contribuo	I-ABSTRACCAO
-``	O
+''	O
 ,	O
 onde	O
 os	O
@@ -7331,7 +7345,8 @@ Vila	B-LOCAL
 do	I-LOCAL
 Conde	I-LOCAL
 :	O
-«Tudo	O
+«	O
+Tudo	O
 começou	O
 quando	O
 os	O
@@ -7392,7 +7407,8 @@ se	O
 acrescentaram	O
 muitas	O
 outras	O
-medidas.»	O
+medidas.	O
+»	O
 Também	O
 Vítor	B-PESSOA
 Pereira	I-PESSOA
@@ -7435,7 +7451,8 @@ bicicleta	O
 ou	O
 o	O
 transporte	O
-público.»	O
+público.	O
+»	O
 Obrigada	O
 ao	O
 Hugo	B-PESSOA
@@ -8122,7 +8139,8 @@ incrível	O
 do	O
 Mundial	B-ACONTECIMENTO
 até	O
-agora»	O
+agora	O
+»	O
 e	O
 ,	O
 de	O
@@ -8150,7 +8168,9 @@ que	O
 se	O
 vê	O
 um	O
-«gigante»	O
+«	O
+gigante	O
+»	O
 de	O
 1,84	B-VALOR
 metros	I-VALOR
@@ -8179,12 +8199,16 @@ Logo	O
 ele	O
 ,	O
 que	O
-«é	O
+«	O
+é	O
 difícil	O
 ir	O
 às	O
-lágrimas».	O
-«Senti	O
+lágrimas	O
+»	O
+.	O
+«	O
+Senti	O
 tanta	O
 coisa.	O
 O	O
@@ -8225,14 +8249,16 @@ vazias	O
 compuseram-se.	O
 Deu-me	O
 muitas	O
-ganas»	O
+ganas	O
+»	O
 ,	O
 explicou	O
 Cordeiro	B-PESSOA
 ,	O
 prosseguindo	O
 :	O
-«Assim	O
+«	O
+Assim	O
 como	O
 a	O
 Nova	B-PESSOA
@@ -8250,7 +8276,8 @@ com	O
 '	O
 A	B-OBRA
 Portuguesa	I-OBRA
-'.»	O
+'.	O
+»	O
 Esforço	O
 Durante	O
 o	O
@@ -8272,7 +8299,8 @@ veterinário	O
 e	O
 inspector	O
 sanitário	O
-«saía	O
+«	O
+saía	O
 do	O
 trabalho	O
 ``	O
@@ -8294,8 +8322,10 @@ da	I-TEMPO
 uma	I-TEMPO
 da	I-TEMPO
 madrugada	I-TEMPO
-».	O
-«Aconteceu	O
+»	O
+.	O
+«	O
+Aconteceu	O
 ter	O
 de	O
 me	O
@@ -8305,7 +8335,8 @@ levantar	O
 horas	I-TEMPO
 para	O
 ir	O
-trabalhar»	O
+trabalhar	O
+»	O
 ,	O
 conta.	O
 Adeus	O
@@ -8327,7 +8358,8 @@ derradeiro	O
 da	O
 carreira	O
 internacional.	O
-«É	O
+«	O
+É	O
 complicado	O
 conciliar	O
 a	O
@@ -8336,7 +8368,8 @@ Nacional	I-OUTRO
 com	O
 a	O
 carreira	O
-profissional»	O
+profissional	O
+»	O
 ,	O
 justifica	O
 o	O
@@ -8353,7 +8386,8 @@ Divisão	B-LOCAL
 de	I-LOCAL
 Honra	I-LOCAL
 .	O
-«Há	O
+«	O
+Há	O
 muitas	O
 dificuldades.	O
 Mesmo	O
@@ -8377,7 +8411,8 @@ Maio	I-TEMPO
 ,	O
 e	O
 isso	O
-notou-se»	O
+notou-se	O
+»	O
 ,	O
 explicou	O
 com	O
@@ -8395,8 +8430,12 @@ trazer-nos	O
 um	O
 Cordeiro	B-PESSOA
 mais	O
-«chorão».	O
-«Vai	O
+«	O
+chorão	O
+»	O
+.	O
+«	O
+Vai	O
 haver	O
 choradeira	O
 no	O
@@ -8407,7 +8446,8 @@ fim	O
 ,	O
 o	O
 tempo	O
-todo»	O
+todo	O
+»	O
 ,	O
 promete	O
 ,	O
@@ -8418,12 +8458,15 @@ pilar	O
 ,	O
 que	O
 vai	O
-«continuar	O
+«	O
+continuar	O
 na	O
 Académica	B-ORGANIZACAO
 enquanto	O
 der	O
-gozo».	O
+gozo	O
+»	O
+.	O
 ONDE	O
 ESTÁ	O
 O	O
@@ -10245,6 +10288,7 @@ das	O
 crianças	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 III	I-PESSOA
 e	O
@@ -10725,6 +10769,7 @@ Covilhã	B-LOCAL
 ,	O
 1450	B-TEMPO
 ?	I-TEMPO
+--SENTENCE--	I-TEMPO
 --	I-TEMPO
 -	I-TEMPO
 1530	I-TEMPO
@@ -10761,6 +10806,7 @@ seu	O
 amo	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Guzman	I-PESSOA
@@ -10806,6 +10852,7 @@ Covilhã	I-PESSOA
 ,	O
 convida-o	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Gusman	I-PESSOA
@@ -10837,6 +10884,7 @@ em	B-TEMPO
 ,	O
 acompanha	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 a	O
 Lisboa	B-LOCAL
@@ -10850,6 +10898,7 @@ de	O
 Portugal	B-LOCAL
 .	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 simpatiza	O
 com	O
@@ -10867,6 +10916,7 @@ língua	O
 árabe	O
 e	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 cede	O
 a	O
@@ -10895,6 +10945,7 @@ de	O
 esporas	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -10918,6 +10969,7 @@ Em	B-TEMPO
 1476	I-TEMPO
 acompanha	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 na	O
@@ -10930,6 +10982,7 @@ tentativa	O
 fracassada	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 de	O
 reclamar	O
@@ -10955,6 +11008,7 @@ em	O
 iria	O
 acompanhar	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 na	O
 jornada	O
@@ -10982,6 +11036,7 @@ rejeitado.	O
 Entretanto	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 abdica	O
 do	O
@@ -10989,6 +11044,7 @@ trono	O
 ,	O
 para	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 .	O
@@ -11019,6 +11075,7 @@ que	O
 conspiravam	O
 contra	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -11026,6 +11083,7 @@ conseguindo	O
 identificar	O
 o	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Diogo	I-PESSOA
 ,	O
 duque	B-PESSOA
@@ -11033,6 +11091,7 @@ de	I-PESSOA
 Viseu	I-PESSOA
 e	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Garcia	I-PESSOA
 de	I-PESSOA
 Meneses	I-PESSOA
@@ -11287,6 +11346,7 @@ Teatro	B-ORGANIZACAO
 Mariinski	I-ORGANIZACAO
 de	O
 S.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Petersburgo	I-LOCAL
 e	O
 The	B-PESSOA
@@ -11719,6 +11779,7 @@ de	I-OBRA
 Natal	I-OBRA
 de	O
 J.	B-PESSOA
+--SENTENCE--	I-PESSOA
 S.	I-PESSOA
 Bach	I-PESSOA
 pela	O
@@ -11998,7 +12059,7 @@ obra	O
 ``	O
 Guaraná	B-OBRA
 Power	I-OBRA
-``	O
+''	O
 ,	O
 do	O
 coletivo	O
@@ -12111,7 +12172,7 @@ pagam	O
 R	B-VALOR
 $	I-VALOR
 7	I-VALOR
-``	O
+''	O
 ,	O
 afirmou	O
 Bjornstjerne	B-PESSOA
@@ -13278,6 +13339,7 @@ da	O
 praia	O
 de	O
 S.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 ;	O
 tinha	O
@@ -13444,6 +13506,7 @@ dita	O
 praia	O
 de	O
 S.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 ,	O
 e	O
@@ -13523,6 +13586,7 @@ Até	O
 longe	O
 !	O
 S.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 não	O
 ia	O
@@ -13603,6 +13667,7 @@ direcção	O
 ...	O
 em	O
 S.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Bernardino	I-LOCAL
 ,	O
 a	O
@@ -14056,7 +14121,7 @@ Grândola	B-OBRA
 ,	I-OBRA
 Vila	I-OBRA
 Morena	I-OBRA
-``	O
+''	O
 ?	O
 Onde	O
 foi	O
@@ -14068,7 +14133,8 @@ Rodriguez	I-COISA
 Quem	O
 é	O
 Philip	B-PESSOA
-J.	I-PESSOA
+J	I-PESSOA
+.	I-PESSOA
 Fry	I-PESSOA
 ?	O
 Quem	O
@@ -14853,7 +14919,7 @@ tonto	I-OBRA
 de	I-OBRA
 la	I-OBRA
 ley	I-OBRA
-``	O
+''	O
 ?	O
 Que	O
 idade	O
@@ -15258,7 +15324,7 @@ Mau	I-OBRA
 e	I-OBRA
 o	I-OBRA
 Vilão	I-OBRA
-``	O
+''	O
 ?	O
 Quantas	O
 pessoas	O
@@ -16239,7 +16305,7 @@ de	O
 ``	O
 Advogado	B-ABSTRACCAO
 Público	I-ABSTRACCAO
-``	O
+''	O
 adotado	O
 pelo	O
 IBAP	B-ORGANIZACAO
@@ -16871,7 +16937,7 @@ Pessoa	I-OBRA
 Portadora	I-OBRA
 de	I-OBRA
 Deficiência	I-OBRA
-``	O
+''	O
 ,	O
 ``	O
 Primeiro	B-OBRA
@@ -16880,7 +16946,7 @@ Brasileiro	I-OBRA
 de	I-OBRA
 Advocacia	I-OBRA
 Pública	I-OBRA
-``	O
+''	O
 e	O
 ``	O
 Temas	B-OBRA
@@ -16889,7 +16955,7 @@ Direito	I-OBRA
 Ambiental	I-OBRA
 e	I-OBRA
 Urbanístico	I-OBRA
-``	O
+''	O
 ,	O
 todos	O
 pela	O
@@ -16928,7 +16994,7 @@ Público	I-OBRA
 André	I-OBRA
 Franco	I-OBRA
 Montoro	I-OBRA
-``	O
+''	O
 ,	O
 pela	O
 Editora	B-ORGANIZACAO
@@ -17554,7 +17620,7 @@ dos	I-ABSTRACCAO
 de	I-ABSTRACCAO
 Advocacia	I-ABSTRACCAO
 Pública	I-ABSTRACCAO
-``	O
+''	O
 ,	O
 oferece	O
 as	O
@@ -17716,7 +17782,7 @@ Advocacia	B-OBRA
 Pública	I-OBRA
 em	I-OBRA
 Debate	I-OBRA
-``	O
+''	O
 ,	O
 também	O
 disponíveis	O
@@ -17778,7 +17844,7 @@ Pública	I-ABSTRACCAO
 Tendências	I-ABSTRACCAO
 e	I-ABSTRACCAO
 Desafios	I-ABSTRACCAO
-``	O
+''	O
 e	O
 o	O
 Deputado	B-PESSOA
@@ -17803,7 +17869,7 @@ frente	I-ABSTRACCAO
 ao	I-ABSTRACCAO
 Poder	I-ABSTRACCAO
 Público	I-ABSTRACCAO
-``	O
+''	O
 .	O
 No	O
 âmbito	O
@@ -17874,7 +17940,7 @@ Pessoa	I-OBRA
 Portadora	I-OBRA
 de	I-OBRA
 Deficiência	I-OBRA
-``	O
+''	O
 e	O
 promover	O
 o	O
@@ -17890,7 +17956,7 @@ Pessoa	I-ACONTECIMENTO
 Portadora	I-ACONTECIMENTO
 de	I-ACONTECIMENTO
 Deficiência	I-ACONTECIMENTO
-``	O
+''	O
 ,	O
 o	O
 IBAP	B-ORGANIZACAO
@@ -18037,6 +18103,7 @@ a	O
 sua	O
 mãe	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Maria	I-PESSOA
 Magdalena	I-PESSOA
 Pinheiro	I-PESSOA
@@ -18095,6 +18162,7 @@ Tia	B-PESSOA
 Anica	I-PESSOA
 (	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Ana	I-PESSOA
 Luísa	I-PESSOA
 Pinheiro	I-PESSOA
@@ -18993,6 +19061,7 @@ Robert	I-ABSTRACCAO
 Anon	I-ABSTRACCAO
 e	O
 H.	B-ABSTRACCAO
+--SENTENCE--	I-ABSTRACCAO
 M.	I-ABSTRACCAO
 F.	I-ABSTRACCAO
 Lecher	I-ABSTRACCAO
@@ -19230,7 +19299,8 @@ Editora	I-ABSTRACCAO
 Oficinas	I-ABSTRACCAO
 a	I-ABSTRACCAO
 Vapor	I-ABSTRACCAO
-».	O
+»	O
+.	O
 A	B-TEMPO
 partir	I-TEMPO
 de	I-TEMPO
@@ -19963,8 +20033,7 @@ Valorização	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Resíduos	I-ORGANIZACAO
 ,	I-ORGANIZACAO
-Lda	I-ORGANIZACAO
-.	I-ORGANIZACAO
+Lda.	I-ORGANIZACAO
 uma	O
 empresa	O
 dinamizadora	O

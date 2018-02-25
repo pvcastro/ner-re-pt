@@ -1,221 +1,571 @@
 --DOCSTART--
- <START:ORGANIZACAO> Ministério da Defesa Nacional <END>         
- <START:PESSOA> Ministro da Defesa Nacional <END> visita    <START:PESSOA> Forças Nacionais Destacadas <END>   no   <START:LOCAL> Afeganistão <END>         
- O <START:PESSOA> Ministro da Defesa Nacional <END> , <START:PESSOA> Nuno Severiano Teixeira <END> , desloca-se ao <START:LOCAL> Afeganistão <END> , <START:TEMPO> no dia 29 de Dezembro <END> , para efectuar uma visita às    <START:PESSOA> Forças Nacionais Destacadas <END>   em   <START:LOCAL> Cabul <END>  .
-<START:PESSOA> Nuno Severiano Teixeira <END> visitará o contingente português estacionado em <START:LOCAL> Campo Warehouse <END> , composto pela    <START:PESSOA> 22.ª Companhia de Atiradores Pára-Quedistas <END>   da   <START:ORGANIZACAO> Brigada de Reacção Rápida <END>  e uma equipa de    <START:PESSOA> Controladores Aéreos Avançados <END>   da   <START:ORGANIZACAO> Força Aérea <END>  .
-O     <START:PESSOA> Ministro da Defesa <END> deverá assistir ao briefing do destacamento e visitar o aquartelamento do <START:LOCAL> Campo Warehouse <END> .
-Com um total de <START:VALOR> 161 <END> militares, o contingente português integrado na <START:ORGANIZACAO> Força Internacional de Assistência e Segurança <END> ( <START:ORGANIZACAO> ISAF <END> ) constitui a   <START:ORGANIZACAO> Força de Reacção Rápida <END> do <START:PESSOA> Comandante <END>  da força da <START:ORGANIZACAO> NATO <END> no <START:LOCAL> Afeganistão <END> .
-<START:PESSOA> Nuno Severiano Teixeira <END> reúne-se ainda com o comandante da força da <START:ORGANIZACAO> NATO <END> ( <START:ORGANIZACAO> ISAF <END> ) no <START:LOCAL> Afeganistão <END> , <START:PESSOA> General Dan McNeill <END> .
-A participação militar Portuguesa no <START:LOCAL> Afeganistão <END> começou <START:TEMPO> a 10 de Agosto de 2005 <END> .
-<START:PESSOA> Nuno Severiano Teixeira <END> aproveita a deslocação a <START:LOCAL> Cabul <END> para manter encontros com as autoridades afegãs.
-O <START:PESSOA> Ministro da Defesa <END> deverá reunir-se com o <START:PESSOA> Ministro da Defesa <END> afegão, <START:PESSOA> Raheem Wardag <END> , e com o    <START:PESSOA> Presidente <END> da    <START:LOCAL> República Islâmica do Afeganistão <END>  , <START:PESSOA> Hamid Karzai <END> .
-O <START:PESSOA> Ministro da Defesa Nacional <END> estará de regresso a <START:LOCAL> Lisboa <END> <START:TEMPO> no dia 30 de Dezembro <END> .
---DOCSTART--
 
-São os produtores de resíduos, nomeadamente os municípios, associações de municípios e industriais responsáveis por encaminhar os resíduos de uma forma e para um destino correctos.
-Para isso é fundamental a sua associação a empresas especializadas que lhes garantam o cumprimento das exigências feitas pelas normas ambientais, que lhes disponibilizem experiência e conhecimentos técnicos e que ao mesmo tempo lhes ofereçam meios que lhes permitam rentabilizar os resíduos.
-É neste contexto que surge a <START:ORGANIZACAO> ECOMAIS - Recolha e Valorização de Resíduos, Lda. <END> uma empresa dinamizadora na área do ambiente direccionada para a área dos resíduos industriais e urbanos.
-É uma empresa licenciada de acordo com as exigências estabelecidas, especializada na prestação contínua de serviços e na procura de soluções para os seus clientes, de modo a satisfazer as suas necessidades de uma forma ambientalmente correcta.
-Oferecendo um serviço diversificado, eficaz, rápido e completo na área dos resíduos, torna-se o parceiro ideal na <START:ABSTRACCAO> Gestão Global de Resíduos <END> .
---DOCSTART--
+      <START:OBRA>Mosteiro de Santa Cruz<END>
+    
+    
+História
+    
 
-Em que escola estuda o <START:PESSOA> Harry Potter <END> ?
-Qual a divisa da escola?
-Em quantas casas está dividida?
-Quem é o director da escola?
-Como são os peixes-espada?
-Qual é o recorde da <START:ORGANIZACAO> IGFA <END> para este tipo de peixe?
-Quando nasceu <START:PESSOA> Amintore Fanfani <END> ?
-E aonde nasceu?
-Quem foi <START:PESSOA> Le Corbusier <END> ?
-Qual era o seu verdadeiro nome?
-Quem era <START:PESSOA> Flaubert <END> ?
-Em que ano publicou « <START:OBRA> Bouvard e Pécuchet <END> »?
-Lista todas as suas obras.
-O que foi a <START:ACONTECIMENTO> Revolução de Veludo <END> ?
-O que foi a <START:ACONTECIMENTO> Revolução dos Cravos <END> ?
-Quem foi <START:PESSOA> António de Oliveira Salazar <END> ?
-Quem compôs a canção " <START:OBRA> Grândola, Vila Morena <END> "?
-Onde foi fabricado <START:COISA> Bender Bending Rodriguez <END> ?
-Quem é <START:PESSOA> Philip J. Fry <END> ?
-Quem foi <START:PESSOA> Hermann Emil Fischer <END> ?
-Quem prémio é que ele recebeu <START:TEMPO> em 1902 <END> ?
-Quem recebeu o <START:OUTRO> Prémio Nobel da Literatura <END> <START:TEMPO> nesse ano <END> ?
-Quem era <START:PESSOA> Bertha von Suttner <END> ?
-Quem foi <START:PESSOA> Marco Pantani <END> ?
-Qual era a sua alcunha?
-Quem foi <START:PESSOA> Juan Manuel Fangio <END> ?
-O que é a obsidiana?
-O que é uma "macana"?
-O que é um buraco negro?
-O que é a realidade virtual?
-O que é o pasodoble?
-O que é a tarantela?
-O que á a Arca de Noé?
-O que é um tacógrafo?
-O que é um odómetro?
-O que é um kinnor?
-O que é o <START:ORGANIZACAO> INTASAT <END> 
-O que é que era o <START:COISA> Rainbow Warrior <END> ?
-Quem é que o afundou <START:TEMPO> em 1985 <END> ?
-Para que serve um draga-minas?
-O que é a <START:ORGANIZACAO> INTELSAT <END> ?
-O que é uma <START:ABSTRACCAO> Organização Não-Governamental <END> ?
-O que era a <START:ORGANIZACAO> Gestapo <END> ?
-Quantos membros tinha durante a <START:ACONTECIMENTO> Segunda Grande Guerra <END> ?
-O que é a <START:ORGANIZACAO> Organização Internacional da Normalização <END> ?
-O que era a <START:ABSTRACCAO> Mão Negra <END> ?
-Qual a função da <START:ORGANIZACAO> Organização Meteorológica Mundial <END> ?
-Qual é a responsabilidade da <START:ORGANIZACAO> ONUDI <END> ?
-A que se dedica a <START:ORGANIZACAO> Industrial Light and Magic <END> ?
-Em que país fica <START:LOCAL> Çatal Hüyük <END> ?
-Em que mar desagua o rio <START:LOCAL> Orentes <END> ?
-Em que país fica a <START:LOCAL> Muralha de Adriano <END> ?
-Onde é que trabalha o <START:PESSOA> Homer Simpson <END> ?
-Em que país fica <START:LOCAL> Minas Gerais <END> ?
-De onde é típica a ensaimada?
-Em que cidade nasceu <START:PESSOA> Natalie Hershlag <END> ?
-Quem é o prefeito dessa cidade?
-Quem desenhou o processador <START:COISA> Zilog Z80 <END> ?
-De quantos bits era este processador?
-Como se chamam os pais de <START:PESSOA> Luke Skywalker <END> ?
-Que paises entraram na <START:ORGANIZACAO> União Europeia <END> <START:TEMPO> a 1 de Janeiro de 1995 <END> ?
-Quem é a <START:PESSOA> rainha da Austrália <END> ?
-Quem era o papa quando se realizou o <START:ACONTECIMENTO> Concílio de Clermont <END> ?
-Que actor faz de <START:PESSOA> Chewbacca <END> ?
-Como se chama o deus grego da <START:ABSTRACCAO> Medicina <END> ?
-Quem foi o realizador de <START:OBRA> Nosferatu <END> ?
-E quem era o actor principal?
-Quem é o secretário-geral da <START:ORGANIZACAO> UGT <END> ?
-Quando é que foi o atentado terrorista contra a <START:ORGANIZACAO> AMIA <END> ?
-Quantas pessoas morreram nesse ataque?
-Quando é que morreu <START:PESSOA> Federica Montseny <END> ?
-Em que dia se realizou o assalto ao rancho do davidianos em <START:LOCAL> Waco <END> ?
-Em que ano é que o <START:PESSOA> Real Zaragoza <END> ganhou a <START:ACONTECIMENTO> Taça das Taças <END> ?
-Em que ano foi inaugurado o <START:COISA> AVE Madrid-Sevilha <END> ?
-Em que data é que o <START:ORGANIZACAO> Corte Inglês <END> comprou as <START:ORGANIZACAO> Galerias Preciados <END> ?
-Em que dia foi assassinado <START:PESSOA> Rajiv Gandhi <END> ?
-Que quatro deuses podem ser representados num vaso canopo?
-Quem produz o <START:COISA> Windows 95 <END> ?
-<START:PESSOA> Steve Jobs <END> é o presidente de que empresa?
-Como se chamava o serviço secreto da <START:LOCAL> RDA <END> ?
-<START:PESSOA> David Stern <END> é o comissário de que organização?
-Que rádio emite o programa de <START:PESSOA> Howard Stern <END> ?
-Que escola foi fundada por <START:PESSOA> Walter Groupis <END> ?
-A que ordem pertencia <START:PESSOA> São Tomás de Aquino <END> ?
-Que ordem foi fundada por <START:PESSOA> São Francisco de Assis <END> ?
-Que exército era comandado por <START:PESSOA> Rommel <END> ?
-O <START:COISA> Bibendum <END> é a mascote de que empresa?
-Como se chamava o barco de <START:PESSOA> Costeau <END> ?
-Que tipo de leite se usa para fazer mozzarella?
-Como se chamava a espada do <START:PESSOA> Rei Artur <END> ?
-As bolotas são o fruto de que árvore?
-De que planta se obtêm a juncinha?
-De que material é feito um <START:COISA> Moai <END> ?
-Que come um quebra-ossos?
-Como se chamava a bomba atómica largada em <START:LOCAL> Nagasaqui <END> ?
-Qual foi o primeiro libro impresso por <START:PESSOA> Gutenberg <END> ?
-Que forma tem a entrada do <START:LOCAL> Museu do Louvre <END> ?
-Que animais puxam o carro de <START:PESSOA> Cíbele <END> ?
-O que é que mede a <START:COISA> escala de Mohs <END> ?
-Que licor se faz com abrunheiro?
-Em que museu estão « <START:OBRA> As Meninas <END> » de <START:PESSOA> Velasques <END> ?
-Que escândalo provocou a demissão de <START:PESSOA> Nixon <END> ?
-Que fabrica a <START:ORGANIZACAO> Leica <END> ?
-Que lado de um barco é bombordo?
-Como se chamam as bolas usadas no <START:ABSTRACCAO> Quidditch <END> ?
-Quantas pessoas morreram no afundamento do <START:COISA> USS Maine <END> ?
-Quantos atletas participaram nos  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
-Quantos habitantes tem a <START:LOCAL> Lituânia <END> ?
-Quantos lugares o parlamento da <START:LOCAL> Islândia <END> ?
-Quantos anos durarão as reservas mundiais de petróleo?
-Quantas vezes é que <START:PESSOA> Alain Prost <END> foi campeão do  <START:LOCAL> Mundo <END> ?
-Quantos cavalos tem as turbinas do <START:COISA> USS Nimitz <END> ?
-Quantos golos se marcaram ao todo no  <START:ACONTECIMENTO> Mundial <END> de <START:TEMPO> 1982 <END> ?
-Quantas caves tem a <START:COISA> Torre Picasso <END> ?
-Quantos prémios <START:OUTRO> Goya <END> ganhou " <START:OBRA> Torrente: El brazo tonto de la ley <END> "?
-Que idade tem o <START:COISA> Sol <END> ?
-Qual a duração do filme « <START:OBRA> A Nona Porta <END> »?
-Com que idade morreu <START:PESSOA> Alfred Hitchcock <END> ?
-Qual a envergadura do <START:COISA> Airbus 380 <END> ?
-Quantos passageiros transportou <START:TEMPO> no dia 4 de Setembro de 2006 <END> ?
-Quanto custa cada unidade?
-Qual a capacidade de carga do <START:COISA> Antonov An-124 <END> ?
-Quais são os membros fundadores da <START:ORGANIZACAO> Star Alliance <END> ?
-Em que país se fala náhuatl?
-Quantas curvas tem o  <START:LOCAL> Circuito <END> do <START:LOCAL> Mónaco <END> ?
-Quem foi a primeira mulher a viajar no espaço?
-Quem realizou « <START:OBRA> O Dia da Besta <END> »?
-Quem inaugurou o <START:OBRA> Templo de Debod <END> em <START:LOCAL> Madrid <END> ?
-Em que ano é que <START:PESSOA> Torquemada <END> foi nomeado <START:PESSOA> Inquisidor Geral <END> ?
-Em que ano foi publicada a  <START:OBRA> Gramática <END> de <START:PESSOA> Nebrija <END> ?
-Onde é que <START:PESSOA> Rachel Weisz <END> estudou literatura?
-Em que cidade fica a  <START:OBRA> Sagrada Família <END> de <START:PESSOA> Gaudí <END> ?
-Qual a altura do <START:COISA> Vesúvio <END> ?
-A quantos quilómetros de <START:LOCAL> Huesca <END> fica o  <START:LOCAL> Castelo <END> de <START:LOCAL> Loarre <END> ?
-Qual a massa molécular do metanol?
-Qual a altura da  <START:OBRA> Pirámede do Sol <END> de <START:LOCAL> Teotihuacan <END> ?
-Quantos saltos formam as <START:LOCAL> Cataratas do Iguaçú <END> ?
-Quantos degraus tem a  <START:LOCAL> Torre <END> de <START:LOCAL> Pisa <END> ?
-Quais são os ingredientes da sangria?
-Quem é responsável pela segurança da <START:LOCAL> Cidade do Vaticano <END> ?
-Quem atribui a <START:OUTRO> Medalha Fields <END> ?
-Para quem trabalha <START:PESSOA> Jack Bauer <END> ?
-O que é que foi usado como desfolhante na <START:ACONTECIMENTO> Guerra do Vietname <END> ?
-Qual foi o nome de código do <START:ACONTECIMENTO> Desembarque da Normândia <END> ?
-De que fungo se obtêm a penicilina?
-De que molusco é que os fenícios extraíam a tinta púrpura?
-O que é que <START:PESSOA> Manuel Campello Esclápez <END> descobriu?
-De que é que <START:PESSOA> Jasão <END> e os <START:PESSOA> Argonautas <END> andavam à procura?
-Quem era <START:PESSOA> presidente dos Estados Unidos <END>  durante o ataque a <START:LOCAL> Pearl Harbour <END> ?
-O que é que a <START:ORGANIZACAO> Norsk Hydro <END> produzia durante a <START:ACONTECIMENTO> Segunda Guerra Mundial <END> ?
-Qual o tíulo da obra que ganhou o <START:OUTRO> Prémio Nadal <END> <START:TEMPO> em 1994 <END> ?
-Quantos reservistas tinha a <START:ORGANIZACAO> Haganah <END> <START:TEMPO> em 1936 <END> ?
-Que idade tinha <START:PESSOA> Miguel Induraín <END> durante a  <START:ACONTECIMENTO> Volta a Espanha <END> <START:TEMPO> de 1985 <END> ?
-Em que ano é que ele ganhou a <START:ACONTECIMENTO> Volta à Espanha <END> ?
-Quantas etapas da  <START:ACONTECIMENTO> Volta à França do Futuro <END> <START:TEMPO> de 1986 <END> é que ele ganhou?
-Que prémio é que ele recebeu <START:TEMPO> em 1992 <END> ?
-Que actores são os protagonistas de « <START:OBRA> O Bom, o Mau e o Vilão <END> "?
-Quantas pessoas morreram na <START:LOCAL> Europa <END> durante a epidemia de peste <START:TEMPO> do século XIV <END> ?
-Em que país teve origem a epidemia de gripe <START:TEMPO> de 1918 <END> ?
-Como se chamavam os <START:PESSOA> Reis Católicos <END> ?
-Como se chamava o <START:PESSOA> presidente do Burundi <END>  que morreu <START:TEMPO> em 1994 <END> ?
-Em que dia foi promulgada a constituição espanhola <START:TEMPO> de 1812 <END> ?
-Quem foi o capitão do <START:PESSOA> Real Sociedad <END> <START:TEMPO> entre 1974 e 1989 <END> ?
-Em que cidade se disputou a final da  <START:ACONTECIMENTO> Taça da Europa de Basquete <END> <START:TEMPO> de 1996 <END> ?
-Que grupo terrorista cometeu um atentado durante os  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Munique <END> ?
-Que partido político governou a <START:LOCAL> Espanha <END> <START:TEMPO> de 28 de Outubro de 1982 a 3 de Março de 1996 <END> ?
-Que farda tinha vestida o <START:PESSOA> Rei <END> quando apareceu na televisão após o golpe de estado de <START:PESSOA> Tejero <END> ?
-O que é que <START:PESSOA> Leonardo da Vinci <END> desenhou <START:TEMPO> em 1492 <END> ?
-O que é que <START:PESSOA> Antonio Rebollo <END> usou para acender a <START:COISA> Chama Olímpica <END> nos  <START:ACONTECIMENTO> Jogos Olímpicos <END> de <START:LOCAL> Barcelona <END> ?
-Que programa de televisão apresentou <START:PESSOA> Takeshi Kitano <END> <START:TEMPO> de 1986 a 1989 <END> ?
-Que presente é que <START:LOCAL> Nova Iorque <END> recebeu para comemorar o centenário da indepêndencia dos <START:LOCAL> Estados Unidos <END> ?
-Qual foi a distribuidora do filme « <START:OBRA> O Planeta dos Macacos <END> » que estreou <START:TEMPO> em 1968 <END> ?
-Que velocidade atingiu <START:PESSOA> Louis Blériot <END> <START:TEMPO> a 25 de Julho de 1909 <END> ?
-Quantos quilos de anchova apanhou a frota do <START:LOCAL> Cantábrico <END> <START:TEMPO> em 1994 <END> ?
-Quais são as ilhas cuja posse a <START:ORGANIZACAO> Argentina <END> disputou ao <START:ORGANIZACAO> Reino Unido <END> <START:TEMPO> de 2 de Abril a 14 de Junho de 1982 <END> ?
-Onde se disputaram os  <START:ACONTECIMENTO> Jogos Mediterrânicos <END> <START:TEMPO> de 1997 <END> ?
-Que navio é que <START:PESSOA> James Cook <END> comandou <START:TEMPO> de 1768 a 1769 <END> ?
-Quem é o actor principal do filme « <START:OBRA> Tarzan, o Homem-Macaco <END> »?
-Quanto recordes mundiais é que ele bateu?
-Quem ganhou o <START:OUTRO> Óscar Honorário <END> <START:TEMPO> em 2007 <END> ?
-Quem roubou as jóias de <START:PESSOA> Bianca Castafiore <END> ?
-Em que país fica o <START:LOCAL> Lago dos Cisnes <END> ?
-Em que ano morreu o <START:PESSOA> Capitão América <END> ?
-Qual é a capital da <START:LOCAL> Terra do Nunca <END> ?
-Como se chama a mulher de <START:PESSOA> Bill Gates <END> ?
-Em que universidade é que ele estudava quando criou a <START:ORGANIZACAO> Microsoft <END> ?
-Qual o orçamento dessa universidade <START:TEMPO> para 2005 <END> ?
-Em que ano foi fundada?
-Que avião supersónico teve os seus últimos voos comerciais <START:TEMPO> em Maio de 2003 <END> ?
-Quantos passageiros conseguia transportar esse modelo de avião?
-Qual a capacidade do <START:LOCAL> Estádio Santiago Bernabéu <END> <START:TEMPO> nos anos 80 <END> ?
-Quem é o dono do estádio?
-Quanto dinheiro foi gasto na sua ampliação <START:TEMPO> entre 2001 e 2006 <END> ?
-Quantas bombas foram lançadas sobre <START:LOCAL> Dresda <END> <START:TEMPO> a 14 de Fevereiro de 1945 <END> ?
-Quanto pesavam as bombas largadas sobre esta cidade <START:TEMPO> a 7 de Outubro de 1944 <END> ?
-Que organismo dirigiu <START:PESSOA> Alan Turing <END> durante a <START:ACONTECIMENTO> Segunda Guerra Mundial <END> ?
-Quem era o czar da Rússia   durante a <START:ACONTECIMENTO> Segunda Grande Guerra <END> ?
-Quantos pontos marcou a <START:PESSOA> Jugoslávia <END> na final do  <START:ACONTECIMENTO> Mundial de Basquetebol <END> <START:TEMPO> de 1990 <END> ?
-Contra que país é que a <START:PESSOA> Espanha <END> jogou a final de basquete das  <START:ACONTECIMENTO> Olímpiadas <END> <START:TEMPO> de 1984 <END> ?
-Em que ano é que <START:PESSOA> Espanha <END> ganhou o <START:ACONTECIMENTO> Mundial de Futebol <END> ?
+      A  <START:LOCAL>Igreja de Santa Cruz<END> de <START:LOCAL>Coimbra<END> foi fundada
+      <START:TEMPO>em 1131<END>
+      por
+      <START:PESSOA>D.
+Telo<END>
+      (
+      <START:PESSOA>São Teotónio<END>
+      ) e
+      <START:VALOR>11<END>
+      outros religiosos, que adotaram a regra dos
+      <START:ABSTRACCAO>Cónegos Regrantes de Santo Agostinho<END> 
+      .
+A nova
+      <START:ORGANIZACAO>Igreja<END>
+      recebeu muitos privilégios papais e doações dos primeiros
+      <START:PESSOA>reis de Portugal<END> 
+      , tornando-se a mais importante casa monástica do reino.
+Sua escola foi uma das melhores instituições de ensino do
+      <START:OUTRO>Portugal<END> medieval
+      , tendo uma grande biblioteca (agora na
+      
+        <START:LOCAL>Biblioteca Pública Municipal<END> do
+        <START:LOCAL>Porto<END>
+      
+      ) e um activo scriptorium.
+<START:TEMPO>Nos tempos<END> de <START:PESSOA>D.
+Afonso Henriques<END>
+      , primeiro monarca português, o scriptorium de
+      <START:ORGANIZACAO>Santa Cruz<END>
+      foi usado como máquina de consolidação do poder real.
+A importância da
+      <START:ORGANIZACAO>Igreja<END>
+      é evidenciada pelo fato de que
+      <START:PESSOA>D.
+Afonso Henriques<END>
+      e seu sucessor,
+      <START:PESSOA>D.
+Sancho I<END>
+      , foram sepultados lá.
+Na <START:OUTRO>Idade Média<END>
+      , o mais famoso estudante da
+      <START:ORGANIZACAO>Igreja de Santa Cruz<END>
+      foi
+      <START:PESSOA>Fernando Martins de Bulhões<END>
+      , o futuro
+       <START:PESSOA>Santo António<END> de <START:LOCAL>Lisboa<END>
+      (ou
+       <START:PESSOA>Santo António<END> de <START:LOCAL>Pádua<END>
+      ).
+<START:TEMPO>Em 1220<END>
+      , o religioso assiste à chegada à
+      <START:LOCAL>Igreja<END>
+      dos restos mortais de cinco frades franciscanos martirizados no
+      <START:LOCAL>Marrocos<END>
+      (os
+       <START:PESSOA>Mártires<END> do <START:LOCAL>Marrocos<END>
+      ), e decide fazer-se missionário e partir de
+      <START:LOCAL>Portugal<END>
+      .
+<START:TEMPO>No início do século XVI<END>
+      , o
+      <START:PESSOA>rei D. Manuel I<END>
+      ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro.
+<START:TEMPO>Nessa época<END>
+      são transladados os restos de
+      <START:PESSOA>Afonso Henriques<END>
+      e
+      <START:PESSOA>Sancho I<END>
+      dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino.
+<START:TEMPO>Entre 1530 e 1577<END>
+      funcionou uma imprensa no claustro.
+É possível que o poeta
+      <START:PESSOA>Luís de Camões<END>
+      tenha estudado em
+      <START:ORGANIZACAO>Santa Cruz<END>
+      , uma vez que um parente seu (
+      <START:PESSOA>D.
+Bento de Camões<END>
+      ) era prior do mosteiro
+      na época
+      , e há evidências em sua poesia de uma estadia em
+      <START:LOCAL>Coimbra<END>
+      .
+--DOCSTART--
+    
+TERROR, POP ART E CONTRACULTURA
+    
+
+      A história dos quadrinhos, de
+      <START:PESSOA>Bill Gaines<END>
+      a
+      <START:PESSOA>Roy Lichtenstein<END>
+    
+    
+
+      Por
+      <START:PESSOA>Vladimir Cunha<END>
+      (yoyodine@hotmail.com)
+    
+    
+
+      <START:TEMPO>Até 1947<END>
+      , o jovem
+      <START:PESSOA>William M.Gaines<END>
+      não passava de um bon-vivant dedicado única e exclusivamente às coisas boas do mundo.
+Mas só
+      <START:TEMPO>até 1947<END>
+      , pois
+      <START:TEMPO>naquele mesmo ano<END>
+      sua vida mudaria drasticamente após a morte de sua mãe num acidente de barco.
+Profundamente abatido com a tragédia, seu pai,
+      <START:PESSOA>Max Gaines<END>
+      , resolveu retirar-se dos negócios e passou para o filho a missão de tocar adiante a empresa da família, a editora de quadrinhos religiosos
+      <START:ORGANIZACAO>Educational Comics<END>
+      .
+O único problema é que quadrinhos religiosos não eram exatamente um gênero de sucesso entre a molecada, que preferia as aventuras do
+      <START:OBRA>Capitão América<END>
+      às adaptações carolas de passagens do
+      <START:OBRA>Novo Testamento<END>
+      , daí ser compreensível que a
+      <START:ORGANIZACAO>Educational Comics<END>
+      estivesse em sérias dificuldades financeiras.
+Entretanto, o destino de
+      <START:PESSOA>Gaines<END>
+      tomaria um rumo inesperado quando ele cruzou o caminho de
+      <START:PESSOA>Al Feldstein<END>
+      , um talentoso artista freelancer em começo de carreira e que, assim como o ex-playboy, adorava aventuras de terror e mistério.
+Descobertas as afinidades, a dupla juntou as forças e criou duas histórias:
+      <START:OBRA>A Cripta do Terror<END>
+      e
+      <START:OBRA>A Câmara do Horror<END>
+      .
+E já que pior do que estava não podia ficar,
+      <START:PESSOA>Gaines<END>
+      aproveitou a editora que herdara do pai e lançou os dois títulos no mercado.
+Nasciam aí os quadrinhos de terror e a lendária
+      <START:COISA>EC Comics<END>
+      .
+A publicação bolada por
+      <START:PESSOA>Gaines<END>
+      e
+      <START:PESSOA>Feldstein<END>
+      , batizada com o apropriado título de
+      <START:ABSTRACCAO>Tales From the Crypt<END>
+      , tornou-se um sucesso espetacular entre crianças e adolescentes e motivo de choque para os norte-americanos adultos.
+Jamais o cidadão comum - classe média, branco, suburbano e fiel defensor do
+      <START:ABSTRACCAO>American Way of Life<END>
+      como o caminho mais curto para o
+      <START:ABSTRACCAO>Paraíso<END>
+      - iria permitir que seus filhos passassem o tempo lendo histórias sobre aberrações, trapaças, assassinatos, bruxaria, exorcismo e magia-negra.
+O mundo permitido era aquele idealizado nas pinturas de
+      <START:PESSOA>Norman Rockwell<END>
+      , do garoto loiro de cabelo escovinha, das ceias <START:TEMPO>do Dia de Ação de Graças<END> 
+      e das bandeirantes de rosto corado.
+A
+      <START:PESSOA>América<END>
+      mergulhava no sonho da prosperidade capitalista, numa vida melhor através da química e no seu estabelecimento como superpotência econômica e militar.
+Encarar o lado feio e bizarro da vida não estava nos planos de ninguém.
+Exceto da molecada, que, dos cafundós do
+      <START:LOCAL>Arkansas<END>
+      ao centro de
+      <START:LOCAL>Nova Iorque<END>
+      , fazia a fortuna de
+      <START:PESSOA>Gaines<END>
+      comprando qualquer coisa que tivesse o selo
+      <START:COISA>EC Comics<END>
+      estampado na capa.
+Isso aconteceu porque
+      <START:PESSOA>Bill Gaines<END>
+      criou uma identificação imediata com o público ao se apropriar da linguagem radiofônica - todas as histórias eram apresentadas por um narrador, geralmente o
+      <START:PESSOA>Zelador da Cripta<END>
+      , a
+      <START:PESSOA>Bruxa Velha<END>
+      ou o
+      <START:PESSOA>Guardião da Câmara<END>
+      - e também porque arrebanhou um time de artistas de primeira para atingir, nas páginas da revista, o clima de demência que as histórias pediam.
+Assim como
+      <START:PESSOA>Will Eisner<END>
+      , os desenhistas
+      <START:PESSOA>Jack Davis<END>
+      ,
+      <START:PESSOA>Frank Frazetta<END>
+      ,
+      <START:PESSOA>Johnny Craig<END>
+      e
+      <START:PESSOA>Graham "Ghastly" Ingels<END>
+      tinham um traço sombrio e carregado de dramaticidade.
+Houve também tendência em distorcer certas expressões faciais na tentativa de transpor para o papel a loucura interna de cada personagem.
+<START:OBRA>Tales From The Crypt<END>
+      impressionava também por sua logomarca ao mostrar a palavra "
+      <START:ABSTRACCAO>Crypt<END>
+      " grafada de tal forma que dava a impressão de estar apodrecendo.
+O sucesso da
+      <START:COISA>EC Comics<END>
+      nas bancas, levou
+      <START:PESSOA>Gaines<END>
+      a ampliar sua linha de "produtos".
+Na esteira do sucesso de
+      <START:OBRA>Tales From The Crypt<END>
+      , foram lançados
+      <START:OBRA>The Vault Of Horror<END>
+      ,
+      <START:OBRA>Crime SuspenStories<END>
+      ,
+      <START:OBRA>The Haunt of Fear<END>
+      e
+      <START:OBRA>Shock SuspenStories<END>
+      .
+Aproveitando a maré boa,
+      <START:PESSOA>Gaines<END>
+      adaptou as histórias do conhecido autor
+      <START:PESSOA>Ray Bradbury<END>
+      e jogou no mercado
+      <START:OBRA>Weird Science<END>
+      e
+      <START:OBRA>Weird Fantasy<END>
+      , publicações que misturavam suspense e terror a uma ficção científica um pouco mais pessimista, semelhante a de escritores como
+      <START:PESSOA>Phillip K.Dick<END>
+      e
+      <START:PESSOA>William Gibson<END>
+      .
+Não contente em se tornar o novo rei dos quadrinhos - desbancado as
+      <START:COISA>HQs<END>
+      de super-hérois, que, depois de
+      <START:OBRA>Tales From The Crypt<END>
+      , entraram em decadência -
+      <START:PESSOA>Gaines<END>
+      aventurou-se pelo campo do humor.
+<START:TEMPO>Em 1952<END>
+      chegava às bancas a
+      <START:COISA>MAD Magazine<END>
+      , o mais novo empreendimento da
+      <START:ORGANIZACAO>EC Comics<END>
+      , editada pelo escritor e desenhista
+      <START:PESSOA>Harvey Kurtzman<END>
+      .
+O grande mérito da
+      <START:COISA>MAD Magazine<END>
+      trazer para as <START:COISA>HQs<END> um humor anárquico, satírico e, principalmente, judeu.
+Ainda em sua primeira fase - reconhecidamente a melhor de todas - ela destruiu sem dó nem piedade todo e qualquer ícone da cultura de massa norte-americana.
+<START:PESSOA>Flash Gordon<END>
+      virou
+      <START:ABSTRACCAO>Flesh Garden<END>
+      (
+      <START:ABSTRACCAO>Jardim de Carne<END>
+      ), um brutamontes com zero de
+      <START:OUTRO>QI<END> 
+      , e
+      <START:PESSOA>Batman<END>
+      foi transformando em um anão vampiro que vivia tentando agarrar a
+      <START:PESSOA>Mulher Maravilha<END>
+      .
+São notáveis também as sátiras feitas ao
+      <START:PESSOA>Superman<END>
+      (
+      <START:PESSOA>Superduperman<END>
+      e a charge
+        <START:OUTRO>Supermarket<END>
+      , sobre um supermercado exclusivo para heróis) e as adaptações de contos de fadas, todas elas temperadas por uma certa dosa de perversão sexual.
+A
+      <START:COISA>MAD<END>
+      merece ainda um capítulo à parte sobre sua produção gráfica, pois foi nela que floresceu o talento de
+      <START:PESSOA>Wallace Wood<END>
+      ;
+      <START:PESSOA>Basil Wolverton<END>
+      , especialista em desenhar monstros deformados, e
+      <START:PESSOA>Bill Elder<END>
+      , os responsáveis pela "cara" da fase clássica da revista.
+Para se ter uma idéia de como a coisa era pesada para época, o slogan da
+      <START:COISA>MAD<END>
+      era uma provocação absurda: "MAD Magazine: Humor In a Jugular Vein!!
+", frase que, nos anúncios da revista, aparecia escrita sob uma
+      <START:OBRA>Monalisa<END>
+      deformada criada por
+      <START:PESSOA>Basil Wolverton<END>
+      .
+A festa duraria pouco e, logo,
+      <START:TEMPO>a década de 50<END>
+      seria conhecida como um dos períodos mais sem-graça da história das
+      <START:COISA>HQs<END>
+      .
+Apesar de algumas coisas maravilhosas, como
+      <START:OBRA>Pogo<END>
+      , de
+      <START:PESSOA>Walt Kelly<END>
+      , e
+      <START:OBRA>Ferdinando<END>
+      , as histórias em quadrinhos sofreram um duro golpe com o surgimento do macarthismo, da paranóia anti-comunista e com a publicação de
+      <START:OBRA>A Seducao dos Inocentes<END>
+      - livro do psiquiatra
+      <START:PESSOA>Frederic Werthan<END>
+      sobre os "malefícios" das
+      <START:COISA>HQs<END>
+      .
+Entre outras coisas,
+      <START:PESSOA>Dr.
+Werthan<END>
+      , "provava" que
+      <START:PESSOA>Batman<END>
+      e
+      <START:PESSOA>Robin<END>
+      mantinham um ardoroso caso homossexual:
+    
+    
+
+      "
+      <START:TEMPO>Constantemente<END>
+      eles se salvam um ao outro de ataques violentos de um número sem-fim de inimigos.
+Transmite-se a sensação de que nós, homens, devemos nos manter juntos porque há muitas criaturas malvadas que têm que ser exterminadas...
+      <START:TEMPO>Às vezes<END>
+      ,
+      <START:PESSOA>Batman<END>
+      acaba numa cama, ferido, e mostra-se o jovem
+      <START:PESSOA>Robin<END>
+      sentado ao seu lado.
+Em casa, levam uma vida idílica.
+São
+      <START:PESSOA>Bruce Wayne<END>
+      e
+      <START:PESSOA>Dick Grayson<END>
+      .
+<START:PESSOA>Bruce<END>
+      é descrito como um grã-fino e o relacionamento oficial é que
+      <START:PESSOA>Dick<END>
+      é pupilo de
+      <START:PESSOA>Bruce<END>
+      .
+Vivem em aposentos suntuosos com lindas flores em grandes vasos...
+      <START:PESSOA>Batman<END>
+      é,
+      <START:TEMPO>às vezes<END>
+      , mostrado num robe de chambre...é como um sonho de dois homossexuais vivendo juntos".
+<START:PESSOA>Dr.
+Frederick Werthan<END>
+      -
+      <START:OBRA>The Seduction of the Inocents<END>
+    
+    
+
+      Impelido pela caça às bruxas do
+      <START:PESSOA>Senador Joseph MacCarthy<END>
+      - cujo alvo foi, principalmente, atores, roteiristas e diretores de <START:LOCAL>Hollywood<END>
+      acusados de comunismo - e o livro do
+      <START:PESSOA>Dr.
+Werthan<END>
+      , o governo norte-americano tentou acabar com todo o tipo de publicação cujo conteúdo fosse considerado "imoral" ou "impróprio".
+A primeira a dançar foi a
+      <START:COISA>EC Comics<END>
+      .
+Todos seus títulos foram proibidos e a
+      <START:COISA>MAD<END>
+      passou a pegar menos pesado em suas sátiras e mudou de formato para poder continuar nas bancas.
+Outro caso célebre foi a perseguição que o criador de
+      <START:PESSOA>Ferdinando<END>
+      ,
+      <START:PESSOA>All Capp<END>
+      , sofreu por causa de uma história sobre os schmoos, um bichinho fictício semelhante a uma foca que se proliferava à velocidade da luz e tinha uma carne deliciosa, além de dar leite e pôr ovos.
+Na história, os
+      <START:PESSOA>Estados Unidos<END>
+      entram em polvorosa porque ninguém mais queria trabalhar, já que todo mundo tinha um schmoo em casa e não passava mais fome.
+Por isso, o schmoos foram considerados pelo governo como uma apologia ao comunismo e
+      <START:PESSOA>All Capp<END>
+      teve que tirá-los das aventuras de
+        <START:PESSOA>Ferdinando<END>
+      .
+O resultado mais triste da paranóia do
+      <START:PESSOA>Senador MacCarthy<END>
+      e do
+      <START:PESSOA>chefe do FBI<END> 
+      ,
+      <START:PESSOA>J Edgar Hoover<END>
+      , foi a criação do
+      <START:COISA>Comics Code<END>
+      , aquele selinho encontrado em todas as revistas comercializadas nos
+      <START:LOCAL>EUA<END>
+      .
+Sem ele, as publicações de quadrinhos não poderiam ser vendidas, o que levou as editoras a implantar a censura interna, acabando assim com a liberdade de criação de seus artistas.
+Apesar de algumas coisas legais aqui e ali, as
+      <START:COISA>HQs<END>
+      só saíram do marasmo
+      <START:TEMPO>no começo dos anos 60<END>
+      após o surgimento da literatura beat e das primeiras manifestações da contracultura.
+Criado em
+      <START:LOCAL>São Francisco<END>
+      , o movimento dos
+      <START:PESSOA>Comix<END>
+      deu um novo impulso criativo aos quadrinhos.
+Primeiro porque seus integrantes estavam num desbunde total e não estavam nem aí para a rígida moral norte-americana.
+Segundo porque as revistas dos
+      <START:ORGANIZACAO>Comix<END>
+      não eram vendidas em bancas e sim em lojinhas hippies, cujos donos não queriam nem saber se as ditas-cujas tinham ou não o famigerado
+      <START:COISA>Comics Code Aproval<END>
+      .
+É um período marcado pela negação à linguagem formal das
+      <START:COISA>HQs<END>
+      .
+Nos comix,
+      <START:TEMPO>por muitas vezes<END>
+      não havia uma seqüência lógica na narrativa.
+Uma historia poderia ser interrompida para dar vazão a algum experimentalismo gráfico ou não ter exatamente um roteiro.
+Poderiam ainda ser ácidas e demolidoras - como as notórias edições de
+      <START:OBRA>Air Pirates<END>
+      , de
+      <START:PESSOA>Dan O'Neil<END>
+      e
+      <START:PESSOA>Ted Richards<END>
+      , nas quais
+      <START:PESSOA>Mickey<END>
+      e
+      <START:PESSOA>Minie Mouse<END>
+      apareciam fazendo toda espécie de loucuras sexuais - ou simplesmente desagradáveis, principalmente em alguns momentos mais escatológicos da
+      <START:OBRA>Zap Comix<END>
+      , a primeira publicação underground do planeta.
+Entre os nomes do quadrinho underground, destacam-se
+      <START:PESSOA>Robert Crumb<END>
+      ,
+      <START:PESSOA>Gilbert Shelton<END>
+      ,
+      <START:PESSOA>Robert Williams<END>
+      ,
+      <START:PESSOA>Skip Williamson<END>
+      e
+      <START:PESSOA>Ricky Griffin<END>
+      , litografista que fez a cabeça de toda uma geração com sua arte psicodélica e posters de
+      <START:PESSOA>Carlos Santana<END>
+      ,
+      <START:PESSOA>The Doors<END>
+      e
+      <START:PESSOA>Gratefull Dead<END>
+      .
+Os comix atraíram também uma parcela considerável de artistas da velha guarda.
+Cansado da censura do
+      <START:ABSTRACCAO>Comics Code<END>
+      e empolgado com o movimento,
+      <START:PESSOA>Will Eisner<END>
+      lança um gênero inédito: as novelas gráficas (
+      <START:OBRA>Um Contrato com Deus<END>
+      e
+      <START:OBRA>O Edifício<END>
+      ), uma mistura de literatura e quadrinhos com uma linguagem mais madura e bem mais experimental do que a usada na
+      <START:COISA>HQ<END>
+      tradicional.
+Outro veterano a pedir uma vaga no porão do quadrinho underground foi
+      <START:PESSOA>Harvey Kurtzman<END>
+      .
+À margem da indústria desde a instituição do
+      <START:ABSTRACCAO>Comics Code<END>
+      , ele voltou à cena com a revista
+      <START:COISA>Help<END>
+      , uma versão ainda mais pirada da
+      <START:COISA>MAD Magazine<END>
+      .
+Junto com ele vieram os bons companheiros de
+      <START:ORGANIZACAO>EC Comics<END>
+      <START:PESSOA>Bill Elder<END>
+      e
+      <START:PESSOA>Wallace Wood<END>
+      , que,
+      <START:TEMPO>nesse período<END>
+      , deu ao mundo a memorável
+      <START:OBRA>My World<END>
+      , uma fábula pessoal sobre a decadência moral dos
+      <START:PESSOA>Estados Unidos<END>
+      .
+--DOCSTART--
+    
+
+      Ali, só me lembro de ser eu.
+Mas talvez houvesse outros, da família
+      <START:PESSOA>Xara Brasil<END>
+      , que eram as pessoas ali principais, e eram realmente ... não me lembro.
+Agora outros meninos em
+      <START:LOCAL>Lisboa<END>
+      , ou iam para as piscinas, de
+      <START:LOCAL>Algés<END>
+      e
+      <START:LOCAL>Dafundo<END> 
+      , e outras coisas assim.
+D: Mas conta lá ... como é que aprendeste a nadar, que é engraçado
+    
+
+      Aprendi a nadar, como digo, com esse velho lobo do mar que se tinha tornado banheiro da praia de
+      <START:LOCAL>S.
+Bernardino<END>
+      ; tinha um chapéu mole assim amachucado, um fato de macaco, e uma cabaça à cintura e ele puxav... agarrava-me assim no queixo, com a mão, e depois dizia-me os movimentos que eu devia fazer, nadar é claro, os bálticos, não é?
+E foi assim que eu aprendi.
+D: ele atirava-te para a água com a cabaça?
+Como?
+Não, a cabaça ele andava ali sempre com ela, como banheiro... era bóia, a cabaça servia de bóia
+    
+D: então ele atirava-te à água...
+Não, ali à borda de água!
+à borda, primeiro começava-se à borda de água... mas com altura suficiente para eu já poder nadar.
+E ele pegava-me assim pelo queixo para me ajudar, e nadava de bruços, claro!
+nadava de bruços
+    
+D: Mas <START:TEMPO>depois<END>... <START:TEMPO>depois<END>... tornaste-te uma grande nadadora
+    
+
+      <START:TEMPO>Depois<END>...na dita praia de
+      <START:LOCAL>S.
+Bernardino<END>
+      , e depois na
+      <START:LOCAL>Praia das Maçãs<END>
+      , tornei-me uma grande nadadora é uma maneira um bocadinho... como hei-de dizer?
+pouco rigorosa de dizer.
+Eu era uma nadadora de muita resistência.
+De fundo, digamos.
+Mas sempre com aquele estilo, que passou de bruços para agulha, e que realmente me fazia avançar muito, mas eu não sabia outro estilo, nunca nadei de braçada, crawl...
+    
+    
+D: Até longe!
+<START:LOCAL>S.
+Bernardino<END>
+      não ia longe, mas... na
+      <START:LOCAL>Praia das Maçãs<END>
+      ia.
+Até tão longe que a minha mãe da praia não me via!
+Só que havia um barco, uma chata... um bocado... entre o sítio onde eu estava e a praia que era para nos mostrar, a mim e ao
+      <START:PESSOA>Caldeira Pires<END>
+      , que era... que éramos os únicos que tínhamos essa autorização para ir assim longe numa determinada direcção ... em
+      <START:LOCAL>S.
+Bernardino<END>
+      , a única avaria foi na
+      <START:LOCAL>Berlenga<END>
+      , também.
+Parece que estava fadada para as tais aventuras da
+      <START:LOCAL>Berlenga<END>
+      !
+Porque aí, na
+      <START:LOCAL>Berlenga<END>
+      , formos numa excursão organizada pelo ...
+      <START:PESSOA>Xara Brasil<END>
+      e por um senhor que era
+      <START:PESSOA>governador de Peniche<END> 
+      ou qualquer coisa assim... ou
+      <START:PESSOA>presidente da Câmara<END> 
+      , para homenagear uma figura nobre que era um arquiduque austríaco... e fizeram
+    
+    
+D: Estava lá?
+Estava, estava em
+      <START:LOCAL>Portugal<END>
+      , e  foi lá parece, casar com uma senhora que era a
+      <START:PESSOA>rainha da Boémia<END> 
+      e que ... tinha um filho.
+Mas isto foi <START:TEMPO>muito mais tarde<END>, foi aos
+      <START:VALOR>quinze anos<END>
+      ... ou
+      <START:VALOR>dezasseis<END>
+      , porqu nós fomos.
+Não íamos nunca seguidamente para um sítio, não é?
+ìamos um aano  para uma praia, <START:TEMPO>outro ano<END> para outra...
+    
+    
+D: Ah, nunca iam para o mesmo sítio...
+Não.
+Foi por isso que o meu pai nunca aceitou fazer uma praia na 
+      Areia Branca 
+      !Porque ele tinha tido a possibilidade de comprar terreno baratíssimo e fazer a segunda casa da
+      <START:LOCAL>Areia Branca<END>
+      !
+Ele não queria um sítio fixo que o obrigasse a...

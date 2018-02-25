@@ -34,8 +34,10 @@ da	n	O
 UE	n	O
 e	conj-c	O
 a	art	O
-«competente	n	O
-liderança»	n	O
+«	«	O
+competente	n	O
+liderança	n	O
+»	»	O
 do	n	O
 primeiro-ministro	n	O
 ,	,	O
@@ -127,13 +129,15 @@ Barroso	n	O
 lembrou	v-fin	O
 que	conj-s	O
 o	art	O
-«sucesso	n	O
+«	«	O
+sucesso	n	O
 político	adj	O
 tem	v-fin	O
 agora	adv	O
 de	prp	O
 ser	v-inf	O
-concretizado»	n	O
+concretizado	v-pcp	O
+»	»	O
 com	prp	O
 a	art	O
 ratificação	n	O
@@ -1219,7 +1223,7 @@ por	prp	O
 ``	n	O
 Forrest	n	B-OBRA_REPRODUZIDA_FILME
 Gump	n	I-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -1504,7 +1508,7 @@ filme	n	O
 ``	n	O
 Pulp	n	B-OBRA_REPRODUZIDA_FILME
 Fiction	n	I-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 no	pron-pers	O
 Festival	n	O
 de	prp	O
@@ -1637,7 +1641,7 @@ Ace	n	B-OBRA_REPRODUZIDA_FILME
 Ventura	n	I-OBRA_REPRODUZIDA_FILME
 em	prp	I-OBRA_REPRODUZIDA_FILME
 África	n	I-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 ?	?	O
 
 Que	n	O
@@ -2183,7 +2187,7 @@ e	conj-c	I-OBRA_REPRODUZIDA_OUTRO
 a	art	I-OBRA_REPRODUZIDA_OUTRO
 Lâmpada	n	I-OBRA_REPRODUZIDA_OUTRO
 Mágica	n	I-OBRA_REPRODUZIDA_OUTRO
-``	n	O
+''	n	O
 ?	?	O
 
 O	n	O
@@ -2911,7 +2915,7 @@ série	n	O
 televisiva	adj	O
 ``	n	O
 Batman	n	B-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 ?	?	O
 
 Onde	n	O
@@ -3739,8 +3743,8 @@ América	n	B-LOCAL_HUMANO_REGIAO
 Latina	n	I-LOCAL_HUMANO_REGIAO
 .	.	O
 
-Av	n	B-LOCAL_HUMANO_RUA
-.	.	I-LOCAL_HUMANO_RUA
+Av.	n	B-LOCAL_HUMANO_RUA
+
 Auro	n	I-LOCAL_HUMANO_RUA
 Soares	n	I-LOCAL_HUMANO_RUA
 de	prp	I-LOCAL_HUMANO_RUA
@@ -4141,7 +4145,8 @@ telemóveis	n	O
 que	pron-indp	O
 criaram	v-fin	O
 uma	art	O
-joint-venture»	n	O
+joint-venture	n	O
+»	»	O
 para	prp	O
 estimular	v-inf	O
 o	art	O
@@ -5458,7 +5463,7 @@ uns	pron-det	O
 
 (	n	O
 ``	n	O
-``	n	B-OBRA_REPRODUZIDA_LIVRO
+''	n	B-OBRA_REPRODUZIDA_LIVRO
 Os	n	I-OBRA_REPRODUZIDA_LIVRO
 alienígenas	n	I-OBRA_REPRODUZIDA_LIVRO
 estão	v-fin	I-OBRA_REPRODUZIDA_LIVRO
@@ -8462,6 +8467,7 @@ da	n	O
 praia	n	O
 de	prp	O
 S.	n	B-LOCAL_FISICO_OUTRO
+
 Bernardino	n	I-LOCAL_FISICO_OUTRO
 ;	;	O
 tinha	v-fin	O
@@ -8639,6 +8645,7 @@ dita	v-pcp	O
 praia	n	O
 de	prp	O
 S.	n	B-LOCAL_FISICO_OUTRO
+
 Bernardino	n	I-LOCAL_FISICO_OUTRO
 ,	,	O
 e	conj-c	O
@@ -8724,6 +8731,7 @@ longe	adv	O
 !	!	O
 
 S.	n	B-LOCAL_FISICO_OUTRO
+
 Bernardino	n	I-LOCAL_FISICO_OUTRO
 não	adv	O
 ia	v-fin	O
@@ -8806,6 +8814,7 @@ direcção	n	O
 ...	n	O
 em	prp	O
 S.	n	B-LOCAL_FISICO_OUTRO
+
 Bernardino	n	I-LOCAL_FISICO_OUTRO
 ,	,	O
 a	art	O
@@ -9034,6 +9043,7 @@ Covilhã	n	B-LOCAL_HUMANO_DIVISAO
 ,	,	O
 1450	n	B-TEMPO_TEMPO_CALEND_INTERVALO
 ?	?	I-TEMPO_TEMPO_CALEND_INTERVALO
+
 --	n	I-TEMPO_TEMPO_CALEND_INTERVALO
 -	-	I-TEMPO_TEMPO_CALEND_INTERVALO
 1530	n	I-TEMPO_TEMPO_CALEND_INTERVALO
@@ -9497,8 +9507,10 @@ uma	art	O
 pálida	n	O
 imitação	n	O
 dos	prop	O
-«red	n	O
-devils»	n	O
+«	«	O
+red	adj	O
+devils	n	O
+»	»	O
 de	prp	O
 um	art	O
 passado	n	O
@@ -9696,7 +9708,9 @@ foi	v-fin	O
 uma	art	O
 dessas	n	O
 inesperadas	n	O
-«revoluções»	n	O
+«	«	O
+revoluções	n	O
+»	»	O
 na	pron-pers	O
 formação	n	O
 da	n	O
@@ -9745,7 +9759,9 @@ Nereu	n	O
 ,	,	O
 ou	conj-c	O
 pela	n	O
-«épica»	n	O
+«	«	O
+épica	n	O
+»	»	O
 contratação	n	O
 de	prp	O
 Moretto	n	O
@@ -10302,7 +10318,9 @@ policial-mediático	n	O
 para	prp	O
 ouvir	v-inf	O
 o	art	O
-«suspeitíssimo»	n	O
+«	«	O
+suspeitíssimo	n	O
+»	»	O
 Pinto	n	O
 da	n	O
 Costa	n	O
@@ -10344,7 +10362,8 @@ de	prp	O
 investigação	n	O
 ,	,	O
 a	art	O
-«task	n	O
+«	«	O
+task	n	O
 force	n	O
 »	»	O
 judicial	adj	O
@@ -10385,7 +10404,9 @@ nada.	n	O
 
 A	n	O
 suspeita	v-fin	O
-«gravíssima»	n	O
+«	«	O
+gravíssima	adj	O
+»	»	O
 mantém-se	n	O
 rigorosamente	adv	O
 a	art	O
@@ -10439,7 +10460,9 @@ subornado	n	O
 com	prp	O
 recurso	n	O
 a	prp	O
-«meninas»	n	O
+«	«	O
+meninas	n	O
+»	»	O
 o	art	O
 árbitro	n	O
 do	n	O
@@ -11337,7 +11360,8 @@ Tsunamis	n	O
 e	conj-c	O
 afirmou	v-fin	O
 que	conj-s	O
-«A	n	O
+«	«	O
+A	n	O
 Comissão	n	B-ORGANIZACAO_ADMINISTRACAO_SUB
 é	v-fin	O
 convidada	v-pcp	O
@@ -11366,7 +11390,8 @@ Mediterrâneo	n	B-LOCAL_FISICO_AGUAMASSA
 e	conj-c	O
 o	art	O
 Atlântico	n	B-LOCAL_FISICO_AGUAMASSA
-».	n	O
+»	»	O
+.	.	O
 
 Mais	n	O
 recentemente	adv	O
@@ -12181,8 +12206,10 @@ poderiam	v-fin	O
 ser	v-inf	O
 utilizados	v-pcp	O
 como	adv	O
-«último	n	O
-recurso»	n	O
+«	«	O
+último	adj	O
+recurso	n	O
+»	»	O
 ,	,	O
 após	prp	O
 esgotamento	n	O
@@ -12314,7 +12341,8 @@ do	n	O
 Conselho	n	O
 em	prp	O
 matéria	n	O
-«de	n	O
+«	«	O
+de	prp	O
 prevenção	n	O
 ,	,	O
 de	prp	O
@@ -12326,10 +12354,12 @@ de	prp	O
 resposta	n	O
 a	prp	O
 atentados	n	O
-terroristas»	n	O
+terroristas	adj	O
+»	»	O
 e	conj-c	O
 o	art	O
-«programa	n	O
+«	«	O
+programa	n	O
 de	prp	O
 solidariedade	n	O
 da	n	O
@@ -12555,7 +12585,9 @@ inclusão	n	O
 do	n	O
 sector	n	O
 do	n	O
-«nuclear»	n	O
+«	«	O
+nuclear	adj	O
+»	»	O
 no	pron-pers	O
 âmbito	n	O
 da	n	O
@@ -16546,6 +16578,7 @@ como	adv	O
 Boston	n	B-LOCAL_HUMANO_DIVISAO
 ,	,	O
 St.	n	B-LOCAL_HUMANO_DIVISAO
+
 Louis	n	I-LOCAL_HUMANO_DIVISAO
 ,	,	O
 Chicago	n	B-LOCAL_HUMANO_DIVISAO
@@ -18951,7 +18984,7 @@ de	prp	I-OBRA_REPRODUZIDA_OUTRO
 Saint	n	I-OBRA_REPRODUZIDA_OUTRO
 Julien	n	I-OBRA_REPRODUZIDA_OUTRO
 l'Hospitalier	n	I-OBRA_REPRODUZIDA_OUTRO
-``	n	O
+''	n	O
 ,	,	O
 trabalhos	n	O
 ignorados	n	O
@@ -21698,7 +21731,8 @@ os	art	O
 CTT	n	O
 adiantam	n	O
 que	pron-indp	O
-«os	n	O
+«	«	O
+os	art	O
 preços	n	O
 dos	prop	O
 serviços	n	O
@@ -22177,7 +22211,8 @@ Concelhos	n	O
 Portugueses	n	O
 --	n	O
 1995/2005	n	O
-».	n	O
+»	»	O
+.	.	O
 
 Em	n	O
 Portugal	n	B-LOCAL_HUMANO_PAIS
@@ -25240,8 +25275,10 @@ não	adv	O
 é	v-fin	O
 a	prp	O
 tal	pron-det	O
-«geração	n	O
-rasca»	n	O
+«	«	O
+geração	n	O
+rasca	n	O
+»	»	O
 ,	,	O
 tendo	v-ger	O
 objectivos	n	O
@@ -25425,8 +25462,8 @@ Perdida	n	O
 
 Hardclub	n	B-LOCAL_HUMANO_CONSTRUCAO
 (	n	O
-V.N	n	B-LOCAL_HUMANO_DIVISAO
-.	.	I-LOCAL_HUMANO_DIVISAO
+V.N.	n	B-LOCAL_HUMANO_DIVISAO
+
 Gaia	n	I-LOCAL_HUMANO_DIVISAO
 .	.	O
 )	n	O
@@ -25469,8 +25506,8 @@ Março	n	O
 Jovem	n	O
 2006	n	O
 (	n	O
-C.M	n	B-LOCAL_HUMANO_CONSTRUCAO
-.	.	I-LOCAL_HUMANO_CONSTRUCAO
+C.M.	n	B-LOCAL_HUMANO_CONSTRUCAO
+
 Seixal	n	I-LOCAL_HUMANO_CONSTRUCAO
 )	n	O
 com	prp	O
@@ -25534,7 +25571,8 @@ intitulado	v-pcp	O
 Rebobina	n	O
 e	conj-c	O
 Pensa	n	O
-».	n	O
+»	»	O
+.	.	O
 
 Notícias	n	O
 recentes/projectos	n	O
@@ -25627,7 +25665,7 @@ filme	n	O
 filhos	n	I-OBRA_REPRODUZIDA_FILME
 de	prp	I-OBRA_REPRODUZIDA_FILME
 Francisco	n	I-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 ?	?	O
 
 Quais	n	O
@@ -31303,7 +31341,8 @@ e	conj-c	O
 sentido	n	O
 de	prp	O
 Estado	n	O
-.»	n	O
+.	.	O
+»	»	O
 
 Habituei-me	n	O
 ,	,	O
@@ -31376,7 +31415,8 @@ dizer	v-inf	O
 a	art	O
 soluçar	n	O
 :	n	O
-«Ele	n	O
+«	«	O
+Ele	n	O
 vai	v-fin	O
 apresentar	v-inf	O
 uma	art	O
@@ -31510,7 +31550,9 @@ e	conj-c	O
 não	adv	O
 se	pron-pers	O
 diga	v-fin	O
-«treuze»	n	O
+«	«	O
+treuze	n	O
+»	»	O
 ,	,	O
 é-se	n	O
 barão.	n	O
@@ -31538,7 +31580,8 @@ escreveu	v-fin	O
 no	pron-pers	O
 PÚBLICO	n	B-LOCAL_VIRTUAL_COMSOCIAL
 que	pron-indp	O
-«o	n	O
+«	«	O
+o	art	O
 problema	n	O
 do	n	O
 PSD	n	O
@@ -31553,7 +31596,9 @@ ou	conj-c	O
 dois	num	O
 dentro	adv	O
 de	prp	O
-si».	n	O
+si	pron-pers	O
+»	»	O
+.	.	O
 
 Não	n	O
 podia	v-fin	O
@@ -31820,7 +31865,8 @@ Ser	n	I-OBRA_REPRODUZIDA_LIVRO
 e	conj-c	I-OBRA_REPRODUZIDA_LIVRO
 o	art	I-OBRA_REPRODUZIDA_LIVRO
 Tempo	n	I-OBRA_REPRODUZIDA_LIVRO
-».	n	O
+»	»	O
+.	.	O
 
 -	-	O
 Quantas	n	O
@@ -33269,7 +33315,7 @@ Pessoa	n	I-OBRA_REPRODUZIDA_LIVRO
 Portadora	n	I-OBRA_REPRODUZIDA_LIVRO
 de	prp	I-OBRA_REPRODUZIDA_LIVRO
 Deficiência	n	I-OBRA_REPRODUZIDA_LIVRO
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Primeiro	n	B-OBRA_REPRODUZIDA_LIVRO
@@ -33278,7 +33324,7 @@ Brasileiro	n	I-OBRA_REPRODUZIDA_LIVRO
 de	prp	I-OBRA_REPRODUZIDA_LIVRO
 Advocacia	n	I-OBRA_REPRODUZIDA_LIVRO
 Pública	n	I-OBRA_REPRODUZIDA_LIVRO
-``	n	O
+''	n	O
 e	conj-c	O
 ``	n	O
 Temas	n	B-OBRA_REPRODUZIDA_LIVRO
@@ -33287,7 +33333,7 @@ Direito	n	I-OBRA_REPRODUZIDA_LIVRO
 Ambiental	n	I-OBRA_REPRODUZIDA_LIVRO
 e	conj-c	I-OBRA_REPRODUZIDA_LIVRO
 Urbanístico	n	I-OBRA_REPRODUZIDA_LIVRO
-``	n	O
+''	n	O
 ,	,	O
 todos	pron-det	O
 pela	n	O
@@ -33327,7 +33373,7 @@ Público	n	I-OBRA_REPRODUZIDA_LIVRO
 André	n	I-OBRA_REPRODUZIDA_LIVRO
 Franco	n	I-OBRA_REPRODUZIDA_LIVRO
 Montoro	n	I-OBRA_REPRODUZIDA_LIVRO
-``	n	O
+''	n	O
 ,	,	O
 pela	n	O
 Editora	n	O
@@ -34315,7 +34361,7 @@ Pessoa	n	I-OBRA_REPRODUZIDA_LIVRO
 Portadora	n	I-OBRA_REPRODUZIDA_LIVRO
 de	prp	I-OBRA_REPRODUZIDA_LIVRO
 Deficiência	n	I-OBRA_REPRODUZIDA_LIVRO
-``	n	O
+''	n	O
 e	conj-c	O
 promover	v-inf	O
 o	art	O
@@ -35125,7 +35171,8 @@ Vila	n	B-LOCAL_HUMANO_DIVISAO
 do	n	I-LOCAL_HUMANO_DIVISAO
 Conde	n	I-LOCAL_HUMANO_DIVISAO
 :	n	O
-«Tudo	n	O
+«	«	O
+Tudo	n	O
 começou	v-fin	O
 quando	adv	O
 os	art	O
@@ -35188,7 +35235,8 @@ se	pron-pers	O
 acrescentaram	n	O
 muitas	pron-det	O
 outras	pron-det	O
-medidas.»	n	O
+medidas.	n	O
+»	»	O
 
 Também	n	O
 Vítor	n	O
@@ -35232,7 +35280,8 @@ bicicleta	n	O
 ou	conj-c	O
 o	art	O
 transporte	n	O
-público.»	n	O
+público.	n	O
+»	»	O
 
 Obrigada	n	O
 ao	prp	O
@@ -38340,14 +38389,16 @@ televisão	n	O
 francesas	adj	O
 --	n	O
 anunciou	v-fin	O
-«o	n	O
+«	«	O
+o	art	O
 momento	n	O
 mais	adv	O
 incrível	adj	O
 do	n	O
 Mundial	n	O
 até	prp	O
-agora»	n	O
+agora	adv	O
+»	»	O
 e	conj-c	O
 ,	,	O
 de	prp	O
@@ -38376,7 +38427,9 @@ que	pron-indp	O
 se	pron-pers	O
 vê	v-fin	O
 um	art	O
-«gigante»	n	O
+«	«	O
+gigante	n	O
+»	»	O
 de	prp	O
 1,84	n	O
 metros	n	O
@@ -38407,13 +38460,17 @@ Logo	n	O
 ele	pron-pers	O
 ,	,	O
 que	pron-indp	O
-«é	n	O
+«	«	O
+é	v-fin	O
 difícil	adj	O
 ir	v-inf	O
 às	n	O
-lágrimas».	n	O
+lágrimas	n	O
+»	»	O
+.	.	O
 
-«Senti	n	O
+«	«	O
+Senti	n	O
 tanta	pron-det	O
 coisa.	n	O
 
@@ -38457,14 +38514,16 @@ compuseram-se.	n	O
 
 Deu-me	n	O
 muitas	pron-det	O
-ganas»	n	O
+ganas	n	O
+»	»	O
 ,	,	O
 explicou	v-fin	O
 Cordeiro	n	O
 ,	,	O
 prosseguindo	n	O
 :	n	O
-«Assim	n	O
+«	«	O
+Assim	n	O
 como	adv	O
 a	art	O
 Nova	n	O
@@ -38482,7 +38541,8 @@ com	prp	O
 '	'	O
 A	n	B-OBRA_REPRODUZIDA_MUSICA
 Portuguesa	n	I-OBRA_REPRODUZIDA_MUSICA
-'.»	n	O
+'.	n	O
+»	»	O
 
 Esforço	n	O
 
@@ -38507,7 +38567,8 @@ veterinário	n	O
 e	conj-c	O
 inspector	n	O
 sanitário	adj	O
-«saía	n	O
+«	«	O
+saía	v-fin	O
 do	n	O
 trabalho	n	O
 ``	n	O
@@ -38529,9 +38590,11 @@ da	n	I-TEMPO_TEMPO_CALEND_HORA
 uma	art	I-TEMPO_TEMPO_CALEND_HORA
 da	n	I-TEMPO_TEMPO_CALEND_HORA
 madrugada	n	I-TEMPO_TEMPO_CALEND_HORA
-».	n	O
+»	»	O
+.	.	O
 
-«Aconteceu	n	O
+«	«	O
+Aconteceu	n	O
 ter	v-inf	O
 de	prp	O
 me	pron-pers	O
@@ -38541,7 +38604,8 @@ levantar	v-inf	O
 horas	n	I-TEMPO_TEMPO_CALEND_HORA
 para	prp	O
 ir	v-inf	O
-trabalhar»	n	O
+trabalhar	v-inf	O
+»	»	O
 ,	,	O
 conta.	n	O
 
@@ -38566,7 +38630,8 @@ da	n	O
 carreira	n	O
 internacional.	n	O
 
-«É	n	O
+«	«	O
+É	n	O
 complicado	v-pcp	O
 conciliar	v-inf	O
 a	art	O
@@ -38575,7 +38640,8 @@ Nacional	n	O
 com	prp	O
 a	art	O
 carreira	n	O
-profissional»	n	O
+profissional	adj	O
+»	»	O
 ,	,	O
 justifica	v-fin	O
 o	art	O
@@ -38593,7 +38659,8 @@ de	prp	I-LOCAL_VIRTUAL_OUTRO
 Honra	n	I-LOCAL_VIRTUAL_OUTRO
 .	.	O
 
-«Há	n	O
+«	«	O
+Há	n	O
 muitas	pron-det	O
 dificuldades.	n	O
 
@@ -38618,7 +38685,8 @@ Maio	n	I-TEMPO_TEMPO_CALEND_DATA
 ,	,	O
 e	conj-c	O
 isso	pron-indp	O
-notou-se»	n	O
+notou-se	n	O
+»	»	O
 ,	,	O
 explicou	v-fin	O
 com	prp	O
@@ -38637,9 +38705,13 @@ trazer-nos	n	O
 um	art	O
 Cordeiro	n	O
 mais	adv	O
-«chorão».	n	O
+«	«	O
+chorão	n	O
+»	»	O
+.	.	O
 
-«Vai	n	O
+«	«	O
+Vai	n	O
 haver	v-inf	O
 choradeira	n	O
 no	pron-pers	O
@@ -38650,7 +38722,8 @@ fim	n	O
 ,	,	O
 o	art	O
 tempo	n	O
-todo»	n	O
+todo	pron-det	O
+»	»	O
 ,	,	O
 promete	v-fin	O
 ,	,	O
@@ -38661,12 +38734,15 @@ pilar	n	O
 ,	,	O
 que	pron-indp	O
 vai	v-fin	O
-«continuar	n	O
+«	«	O
+continuar	v-inf	O
 na	pron-pers	O
 Académica	n	O
 enquanto	adv	O
 der	v-fin	O
-gozo».	n	O
+gozo	n	O
+»	»	O
+.	.	O
 
 
 
@@ -38843,6 +38919,7 @@ Teatro	n	O
 Mariinski	n	O
 de	prp	O
 S.	n	B-LOCAL_HUMANO_DIVISAO
+
 Petersburgo	n	I-LOCAL_HUMANO_DIVISAO
 e	conj-c	O
 The	n	O
@@ -39645,14 +39722,17 @@ liquidez	n	O
 verificada	v-pcp	O
 nos	pron-pers	O
 mercados	n	O
-financeiros».	n	O
+financeiros	adj	O
+»	»	O
+.	.	O
 
 No	n	O
 entanto	n	O
 ,	,	O
 salienta	v-fin	O
 ,	,	O
-«à	n	O
+«	«	O
+à	n	O
 medida	n	O
 que	pron-indp	O
 os	art	O
@@ -39670,7 +39750,9 @@ de	prp	O
 empresas	n	O
 na	pron-pers	O
 bolsa	n	O
-portuguesa».	n	O
+portuguesa	adj	O
+»	»	O
+.	.	O
 
 O	n	O
 Santander	n	B-ORGANIZACAO_EMPRESA_SUB
@@ -39835,7 +39917,8 @@ próximo	adj	I-TEMPO_TEMPO_CALEND_DATA
 ano	n	I-TEMPO_TEMPO_CALEND_DATA
 .	.	O
 
-«Aprovámos	n	O
+«	«	O
+Aprovámos	n	O
 o	art	O
 decreto	n	O
 que	pron-indp	O
@@ -40439,19 +40522,19 @@ na	pron-pers	O
 compilação	n	O
 ``	n	O
 Feedback	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 incluiu	n	O
 os	art	O
 temas	n	O
 ``	n	O
 Senhores	n	B-OBRA_REPRODUZIDA_MUSICA
 Politicos	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 ,	,	O
 Não	n	B-OBRA_REPRODUZIDA_MUSICA
 Vales	n	I-OBRA_REPRODUZIDA_MUSICA
 Nada	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 e	conj-c	O
 ``	n	O
 Está	n	B-OBRA_REPRODUZIDA_MUSICA
@@ -40459,7 +40542,7 @@ a	prp	I-OBRA_REPRODUZIDA_MUSICA
 andar	v-inf	I-OBRA_REPRODUZIDA_MUSICA
 de	prp	I-OBRA_REPRODUZIDA_MUSICA
 Mota	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 (	n	O
 um	art	O
 instrumental	n	O
@@ -40470,22 +40553,22 @@ instrumental	n	O
 Tu	n	B-OBRA_REPRODUZIDA_MUSICA
 ò	n	I-OBRA_REPRODUZIDA_MUSICA
 Bófia	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Não	n	B-OBRA_REPRODUZIDA_MUSICA
 Vales	n	I-OBRA_REPRODUZIDA_MUSICA
 Nada	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Angústia	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Senhores	n	B-OBRA_REPRODUZIDA_MUSICA
 Politicos	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 eram	v-fin	O
 temas	n	O
 fortíssimos	n	O
@@ -40511,7 +40594,7 @@ do	n	O
 álbum	n	O
 ``	n	O
 Censurados	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 1990	num	B-TEMPO_TEMPO_CALEND_DATA
 .	.	O
 
@@ -40571,7 +40654,7 @@ o	art	O
 album	n	O
 ``	n	O
 Confusão	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 e	conj-c	O
 passam	v-fin	O
 os	art	O
@@ -40586,7 +40669,7 @@ sai	v-fin	O
 o	art	O
 ``	n	O
 Sopa	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 com	prp	O
 o	art	O
 single	n	O
@@ -40606,7 +40689,7 @@ Estou	n	B-OBRA_REPRODUZIDA_MUSICA
 agarrado	v-pcp	I-OBRA_REPRODUZIDA_MUSICA
 a	prp	I-OBRA_REPRODUZIDA_MUSICA
 ti	pron-pers	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 .	.	O
 
 O	n	B-TEMPO_TEMPO_CALEND_DATA
@@ -40632,7 +40715,7 @@ Afonso	n	O
 Filhos	n	B-OBRA_REPRODUZIDA_MUSICA
 da	n	I-OBRA_REPRODUZIDA_MUSICA
 Madrugada	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 com	prp	O
 a	art	O
 reedição	n	O
@@ -40643,7 +40726,7 @@ O	n	B-OBRA_REPRODUZIDA_MUSICA
 que	pron-indp	I-OBRA_REPRODUZIDA_MUSICA
 faz	v-fin	I-OBRA_REPRODUZIDA_MUSICA
 falta	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 .	.	O
 
 Em	n	B-TEMPO_TEMPO_CALEND_DATA
@@ -40661,11 +40744,11 @@ os	art	O
 albuns	n	O
 ``	n	O
 Censurados	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 e	conj-c	O
 ``	n	O
 Sopa	n	B-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 .	.	O
 
 Em	n	B-TEMPO_TEMPO_CALEND_DATA
@@ -40694,7 +40777,7 @@ XX	n	B-OBRA_REPRODUZIDA_MUSICA
 Anos	n	I-OBRA_REPRODUZIDA_MUSICA
 XX	n	I-OBRA_REPRODUZIDA_MUSICA
 Bandas	n	I-OBRA_REPRODUZIDA_MUSICA
-``	n	O
+''	n	O
 .	.	O
 
 Participaram	n	O
@@ -40739,7 +40822,7 @@ banda	n	O
 Censurados	n	B-OBRA_REPRODUZIDA_LIVRO
 Até	n	I-OBRA_REPRODUZIDA_LIVRO
 Morrer	n	I-OBRA_REPRODUZIDA_LIVRO
-``	n	O
+''	n	O
 ,	,	O
 escrita	v-pcp	O
 por	prp	O
@@ -41051,8 +41134,10 @@ Islão	n	O
 lançou	v-fin	O
 contra	prp	O
 os	art	O
-«não	n	O
-crentes»	n	O
+«	«	O
+não	adv	O
+crentes	adj	O
+»	»	O
 --	n	O
 -	-	O
 sejam	v-fin	O
@@ -41218,7 +41303,9 @@ pior	adj	O
 que	pron-indp	O
 as	art	O
 caricaturas	n	O
-«blasfemas»	n	O
+«	«	O
+blasfemas	n	O
+»	»	O
 para	prp	O
 o	art	O
 Islão	n	O
@@ -41436,8 +41523,11 @@ arma	n	O
 de	prp	O
 arremesso	n	O
 contra	prp	O
-«os	n	O
-infiéis».	n	O
+«	«	O
+os	art	O
+infiéis	n	O
+»	»	O
+.	.	O
 
 [	[	O
 ...	n	O
@@ -41740,7 +41830,9 @@ além	adv	O
 :	n	O
 a	prp	O
 nossa	pron-det	O
-«diplomacia»	n	O
+«	«	O
+diplomacia	n	O
+»	»	O
 não	adv	O
 tem	v-fin	O
 feito	v-pcp	O
@@ -46482,7 +46574,8 @@ Editora	n	O
 Oficinas	n	O
 a	prp	O
 Vapor	n	O
-».	n	O
+»	»	O
+.	.	O
 
 A	n	B-TEMPO_TEMPO_CALEND_DATA
 partir	v-inf	I-TEMPO_TEMPO_CALEND_DATA
@@ -48754,7 +48847,8 @@ ele	pron-pers	O
 me	pron-pers	O
 advertiu.	n	O
 
-«Põe-te	n	O
+«	«	O
+Põe-te	n	O
 com	prp	O
 brincadeiras	n	O
 e	conj-c	O
@@ -48785,7 +48879,8 @@ palavras	n	O
 exactas	adj	O
 dele.	n	O
 
-«Tinha	n	O
+«	«	O
+Tinha	n	O
 razão	n	O
 ,	,	O
 Herman	n	O
@@ -49065,10 +49160,12 @@ Marcelo	n	O
 diz	v-fin	O
 que	conj-s	O
 ,	,	O
-«em	n	O
+«	«	O
+em	prp	O
 plena	adj	O
 campanha	n	O
-eleitoral»	n	O
+eleitoral	adj	O
+»	»	O
 quisemos	n	O
 ´ridicularizar	n	O
 os	art	O
@@ -49080,7 +49177,9 @@ lados	n	O
 em	prp	O
 confronto	n	O
 no	pron-pers	O
-referendo».	n	O
+referendo	n	O
+»	»	O
+.	.	O
 
 Primeiro	n	O
 ,	,	O
@@ -49140,10 +49239,12 @@ que	pron-indp	O
 fizemos	v-fin	O
 o	art	O
 sketch	n	O
-«em	n	O
+«	«	O
+em	prp	O
 plena	adj	O
 campanha	n	O
-eleitoral»	n	O
+eleitoral	adj	O
+»	»	O
 é	v-fin	O
 ,	,	O
 portanto	adv	O
@@ -49221,7 +49322,8 @@ Rodrigo	n	O
 Moita	n	O
 de	prp	O
 Deus	n	O
-.»	n	O
+.	.	O
+»	»	O
 Quero	n	O
 agradecer	v-inf	O
 ,	,	O
@@ -49451,12 +49553,15 @@ Fernando	n	O
 de	prp	O
 Nápoles	n	B-LOCAL_HUMANO_DIVISAO
 ,	,	O
-«para	n	O
+«	«	O
+para	prp	O
 reprimir	v-inf	O
 o	art	O
 furor	n	O
 dos	prop	O
-turcos».	n	O
+turcos	adj	O
+»	»	O
+.	.	O
 
 Esteve	n	O
 na	pron-pers	O
@@ -49586,13 +49691,15 @@ reino	n	O
 de	prp	O
 Portugal	n	B-LOCAL_HUMANO_PAIS
 ,	,	O
-«mais	n	O
+«	«	O
+mais	adv	O
 cheio	adj	O
 de	prp	O
 glórias	n	O
 que	pron-indp	O
 de	prp	O
-despojos»	n	O
+despojos	n	O
+»	»	O
 ,	,	O
 foi	v-fin	O
 bem	adv	O
@@ -49826,7 +49933,8 @@ página	n	O
 23	num	O
 )	n	O
 que	pron-indp	O
-«foi	n	O
+«	«	O
+foi	v-fin	O
 amortalhado	n	O
 com	prp	O
 o	art	O
@@ -49905,7 +50013,9 @@ maio	n	I-TEMPO_TEMPO_CALEND_DATA
 de	prp	I-TEMPO_TEMPO_CALEND_DATA
 1566	n	I-TEMPO_TEMPO_CALEND_DATA
 com	prp	O
-pompa».	n	O
+pompa	n	O
+»	»	O
+.	.	O
 
 
 
@@ -51495,9 +51605,11 @@ Em	n	O
 que	pron-indp	O
 ano	n	O
 publicou	v-fin	O
-«Bouvard	n	O
+«	«	O
+Bouvard	n	O
 e	conj-c	O
-Pécuchet»	n	O
+Pécuchet	n	O
+»	»	O
 ?	?	O
 
 Lista	n	O
@@ -52437,7 +52549,7 @@ tonto	n	I-OBRA_REPRODUZIDA_FILME
 de	prp	I-OBRA_REPRODUZIDA_FILME
 la	prop	I-OBRA_REPRODUZIDA_FILME
 ley	n	I-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 ?	?	O
 
 Que	n	O
@@ -52884,7 +52996,7 @@ Mau	n	I-OBRA_REPRODUZIDA_FILME
 e	conj-c	I-OBRA_REPRODUZIDA_FILME
 o	art	I-OBRA_REPRODUZIDA_FILME
 Vilão	n	I-OBRA_REPRODUZIDA_FILME
-``	n	O
+''	n	O
 ?	?	O
 
 Quantas	n	O
@@ -57603,11 +57715,13 @@ Sonae	n	O
 Distribuição	n	O
 ,	,	O
 a	art	O
-«decisão	n	O
+«	«	O
+decisão	n	O
 provável	adj	O
 de	prp	O
 não	adv	O
-oposição»	n	O
+oposição	n	O
+»	»	O
 ,	,	O
 que	pron-indp	O
 se	pron-pers	O
@@ -60224,7 +60338,7 @@ até	adv	O
 na	pron-pers	O
 República	n	B-LOCAL_HUMANO_PAIS
 Tcheca	n	I-LOCAL_HUMANO_PAIS
-``	n	O
+''	n	O
 ,	,	O
 afirma	v-fin	O
 Fenger.	n	O
@@ -62706,9 +62820,11 @@ entusiasmada.	n	O
 Vasco	n	O
 Uva	n	O
 :	n	O
-«Honrámos	n	O
+«	«	O
+Honrámos	n	O
 o	art	O
-país»	n	O
+país	n	O
+»	»	O
 
 Um	n	O
 dos	prop	O
@@ -62794,6 +62910,7 @@ Escócia	n	O
 ,	,	O
 em	prp	O
 St.	n	B-LOCAL_HUMANO_DIVISAO
+
 Etienne	n	I-LOCAL_HUMANO_DIVISAO
 .	.	O
 
@@ -62824,9 +62941,11 @@ telemóveis	n	O
 de	prp	O
 banda	n	O
 larga	adj	O
-«de	n	O
-nova	n	O
-geração»	n	O
+«	«	O
+de	prp	O
+nova	adj	O
+geração	n	O
+»	»	O
 em	prp	B-TEMPO_TEMPO_CALEND_DATA
 2008	n	I-TEMPO_TEMPO_CALEND_DATA
 ,	,	O
@@ -62876,7 +62995,8 @@ O	n	O
 programa	n	O
 de	prp	O
 desenvolvimento	n	O
-«estará	n	O
+«	«	O
+estará	v-fin	O
 de	prp	O
 acordo	n	O
 com	prp	O
@@ -62897,7 +63017,8 @@ competitividade	n	O
 mundial	adj	O
 das	n	O
 empresas	n	O
-chinesas»	n	O
+chinesas	adj	O
+»	»	O
 ,	,	O
 disse	v-fin	O
 o	art	O
@@ -63414,9 +63535,11 @@ CPPT	n	O
 )	n	O
 considerou	v-fin	O
 hoje	adv	B-TEMPO_TEMPO_CALEND_DATA
-«um	n	O
+«	«	O
+um	art	O
 exemplo	n	O
-lamentável»	n	O
+lamentável	adj	O
+»	»	O
 o	art	O
 facto	n	O
 de	prp	O
@@ -63523,7 +63646,8 @@ que	conj-s	O
 a	art	O
 nova	adj	O
 lei	n	O
-«não	n	O
+«	«	O
+não	adv	O
 proíbe	v-fin	O
 expressamente	adv	O
 o	art	O
@@ -63534,7 +63658,8 @@ e	conj-c	O
 nas	pron-pers	O
 salas	n	O
 de	prp	O
-jogos»	n	O
+jogos	n	O
+»	»	O
 ,	,	O
 justificando	v-ger	O
 com	prp	O
@@ -63588,7 +63713,8 @@ e	conj-c	O
 salas	n	O
 de	prp	O
 jogo	n	O
-«sendo	n	O
+«	«	O
+sendo	v-ger	O
 locais	adj	O
 fechados	v-pcp	O
 não	adv	O
@@ -63602,7 +63728,8 @@ no	pron-pers	O
 da	n	O
 aplicação	n	O
 a	prp	O
-lei»	n	O
+lei	n	O
+»	»	O
 ,	,	O
 além	adv	O
 de	prp	O
@@ -63611,12 +63738,16 @@ abrangidos	v-pcp	O
 na	pron-pers	O
 lei	n	O
 por	prp	O
-«serem	n	O
-locais	adj	O
+«	«	O
+serem	v-inf	O
+locais	n	O
 de	prp	O
-trabalho».	n	O
+trabalho	n	O
+»	»	O
+.	.	O
 
-«Trata-se	n	O
+«	«	O
+Trata-se	n	O
 de	prp	O
 uma	art	O
 daquelas	n	O
@@ -63636,7 +63767,8 @@ face	n	O
 de	prp	O
 uma	art	O
 dependência	n	O
-grave»	n	O
+grave	adj	O
+»	»	O
 ,	,	O
 disse	v-fin	O
 à	n	O
@@ -63676,8 +63808,10 @@ de	prp	O
 António	n	O
 Nunes	n	O
 a	prp	O
-«um	n	O
-automatismo»	n	O
+«	«	O
+um	art	O
+automatismo	n	O
+»	»	O
 inconsciente.	n	O
 
 Sobre	n	O
@@ -63704,9 +63838,11 @@ considerou	v-fin	O
 que	conj-s	O
 a	art	O
 legislação	n	O
-«é	n	O
-clara»	n	O
-quanto	adv	O
+«	«	O
+é	v-fin	O
+clara	adj	O
+»	»	O
+quanto	pron-det	O
 à	n	O
 proibição	n	O
 de	prp	O
@@ -63718,7 +63854,8 @@ salas	n	O
 de	prp	O
 jogos.	n	O
 
-«Não	n	O
+«	«	O
+Não	n	O
 pode	v-fin	O
 haver	v-inf	O
 dúvidas	n	O
@@ -63735,7 +63872,8 @@ entidades	n	O
 responsáveis	adj	O
 pela	n	O
 sua	pron-det	O
-fiscalização»	n	O
+fiscalização	n	O
+»	»	O
 ,	,	O
 disse.	n	O
 
@@ -63765,18 +63903,23 @@ lei	n	O
 está	v-fin	O
 a	prp	O
 ter	v-inf	O
-«uma	n	O
-óptima»	n	O
+«	«	O
+uma	art	O
+óptima	adj	O
+»	»	O
 aplicação	n	O
 com	prp	O
-«a	n	O
+«	«	O
+a	art	O
 generalidade	n	O
 dos	prop	O
 fumadores	n	O
 a	prp	O
 compreender	v-inf	O
 a	art	O
-proibição».	n	O
+proibição	n	O
+»	»	O
+.	.	O
 
 A	n	O
 lei	n	O

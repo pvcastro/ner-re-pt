@@ -1,251 +1,969 @@
 --DOCSTART--
- <START:PESSOA_GRUPOMEMBRO> Lobos <END> recebidos em apoteose        
- <START:PESSOA_GRUPOMEMBRO> SELECÇÃO <END> DE REGRESSO APÓS BOA PRESTAÇÃO NO <START:ACONTECIMENTO_ORGANIZADO> MUNDIAL <END>        
- Centenas de pessoas recepcionaram no  <START:LOCAL_HUMANO> Aeroporto <END> da <START:LOCAL_HUMANO> Portela <END> , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi.
-A boa prestação global da equipa no <START:ACONTECIMENTO_ORGANIZADO> Mundial <END> da modalidade, que ainda decorre em <START:LOCAL_HUMANO> França <END> , não passou despercebida em <START:LOCAL_HUMANO> Portugal <END> , embora "   <START:PESSOA_GRUPOMEMBRO> Os Lobos <END> " não tenham conseguido vencer um único jogo.
-Quando a comitiva portuguesa saiu na área de chegadas, <START:TEMPO_TEMPO_CALEND> por volta das 16.30 horas <END> , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de <START:ABSTRACCAO_NOME> Portugal <END> de forma entusiasmada.
-<START:PESSOA_INDIVIDUAL> Vasco Uva <END> : «Honrámos o país»        
- Um dos jogadores mais acarinhados pelos adeptos na chegada a <START:LOCAL_HUMANO> Lisboa <END> , o capitão <START:PESSOA_INDIVIDUAL> Vasco Uva <END> explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português.
-"Foi a maneira como nos batemos, a maneira como fizemos honrar o <START:LOCAL_HUMANO> País <END> ", considerou, acrescentando que <START:TEMPO_GENERICO> o momento <END> mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos " <START:PESSOA_GRUPOMEMBRO> Lobos <END> ", contra a <START:PESSOA_GRUPOMEMBRO> Escócia <END> , em <START:LOCAL_HUMANO> St. Etienne <END> .
-"Foi muito bom."
---DOCSTART--
 
- <START:ABSTRACCAO_DISCIPLINA> Indústria <END> e <START:ABSTRACCAO_DISCIPLINA> Comércio <END> : <START:ABSTRACCAO_DISCIPLINA> Informática <END> :
-<START:ORGANIZACAO_EMPRESA> Consultoria e Sistemas RML <END> - Sistema de faturamento e administração de academias com controle de catracas eletrônicas e desenvolvimento de sistemas. <START:COISA_CLASSE> OperFit <END> , Adm pro, R white e Life sport
-http://www.rml.com.br
-<START:ORGANIZACAO_EMPRESA> CooperSis Informática <END> - Somos especializados em pequenas e medias empresas que nao possuem informatizacao ou estao descontentes com o que tem
-http://www.airtonmolena.com.br
-<START:ORGANIZACAO_EMPRESA> Credi-Telemática Eletro-Eletrônicos <END> - Loja virtual que atende todo o território nacional com eletro-eletrônicos importados, material de informática e de telefonia.
-Configurações personalizadas e as últimas novidades são encontradas aqui.
-http://www.credi.com.br
-<START:ORGANIZACAO_EMPRESA> Croma Eletrônica Ltda. <END> - Componentes eletrônicos antenas áudio vídeo som informática telefonia fios cabos conectores plugs garras adaptadores transformadores pilhas transistores diodos cis fones microfones caixas multímetros câmeras porteiros PABX(21)2233-0030
-http://www.divulgacao.com.br/croma
-<START:ORGANIZACAO_EMPRESA> Darun Informática <END> - Comércio de produtos de informática como impressoras, softwares, equipamentos para automação comercial e suprimentos.
-http://www.darun.com.br
-Desenhos em <START:COISA_CLASSE> Cad <END> e serviços de informatica - Desenhos em <START:COISA_CLASSE> CAD <END> , desenhos elétricos, diagramas de força e comando, desenhos para engenharia, etc.
-Se seu <START:COISA_CLASSE> Windows <END> sempre trava ou não funciona direito mande um e-mail
-http://www.marckservice.cjb.net/
-Desenvolvimentos de projetos eletrônicos - Desenvolvemos projetos eletrônicos para automação de indústrias e Também venda de microcomputadores, cobrimos a oferta da concorrência
-http://www.projetoseletronicos.hpg.com.br
-<START:ORGANIZACAO_EMPRESA> DHCP Informática <END> - Comércio de equipamentos de informática.
-Trabalha com placas mães, processadores, HDs, placas de vídeo, gravadores, CD-ROMs, DVDs, disquetes, monitores, placas aceleradoras, mémorias, cooler, drives,hubs, placas da rede, placa de som, fax.
-http://www.dhcp.com.br
-<START:ORGANIZACAO_EMPRESA> Di Bello Informática <END> ... seu <START:ORGANIZACAO_EMPRESA> Polo de Informática <END> em <START:LOCAL_HUMANO> MADUREIRA <END> - A mais antiga loja de <START:ABSTRACCAO_DISCIPLINA> Informática <END> em <START:LOCAL_HUMANO> Madureira <END> , são vinte anos de credibilidade...Hardware, software, suprimentos e manutenção
-http://www.webspace.com.br/dibello
-<START:ORGANIZACAO_EMPRESA> Diacon Informática <END> - A <START:ORGANIZACAO_EMPRESA> Diacon <END> presta serviços de consultoria, treinamento e desenvolvimento de sistemas.
-http://www.diacon.com.br
+Bibliografia de <START:PESSOA_GRUPOMEMBRO>Censurados<END>
 
---DOCSTART--
-    
- <START:ACONTECIMENTO_EFEMERIDE> THANKSGIVING <END> COM MINE DE RIEN        
-    <START:TEMPO_TEMPO_CALEND> Na noite de Acção de Graças <END>    apresento-vos um blogue escrito dos <START:LOCAL_HUMANO> EUA <END> , da cidade onde eu <START:TEMPO_FREQUENCIA> várias vezes <END> passei este feriado.
-Evidentemente, é mais um blogue de um LEFTista (embora neste caso não vá insistir muito no aspecto <START:ABSTRACCAO_IDEIA> LEFT <END> porque o rapaz nem é muito disso...).
-O autor, para além de um velho amigo - conheço-o desde caloiro -, é uma pessoa interessantíssima, e tem com certeza uma perspectiva muito sua a acrescentar ao assunto para mim fascinante das relações entre a <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> e a <START:ORGANIZACAO_ADMINISTRACAO> América <END> , o <START:LOCAL_HUMANO> Velho <END> e o <START:LOCAL_HUMANO> Novo Continente <END> .
-Antes de eu ir para os <START:LOCAL_HUMANO> EUA <END> falava-me entusiasmadíssimo do american way of life e de como era boa a comida nas universidades americanas - a escolha de pizzas!
-os hot-dogs!
-os hamburgers!
-- sem se aperceber de como me estava a deixar horrorizado.
-Depois da <START:ABSTRACCAO_DISCIPLINA> LEFT <END> o <START:PESSOA_INDIVIDUAL> Pedro <END> veio para <START:LOCAL_HUMANO> Paris <END> fazer <START:ABSTRACCAO_DISCIPLINA> Teoria de Cordas <END> .
-Na <START:ORGANIZACAO_INSTITUICAO> Cité Universitaire <END> arranjou maneira de não ficar <START:TEMPO_DURACAO> muito tempo <END> na <START:LOCAL_HUMANO> Residência André de Gouveia <END> , indo antes para uma casa que era a cara dele - a <START:LOCAL_HUMANO> Deutsche de la Meurthe <END> , a mais antiga, a mais clássica, aquela onde <START:PESSOA_INDIVIDUAL> Simone de Beauvoir <END> ia visitar o estudante <START:PESSOA_INDIVIDUAL> Jean-Paul Sartre <END> .
-Quando eu cheguei, deu-me a conhecer a área de <START:LOCAL_HUMANO> Montparnasse <END> e do <START:LOCAL_HUMANO> Port Royal <END> .
-<START:TEMPO_TEMPO_CALEND> Nessa altura <END> era um parisiense com uma costela americana, português q.b.
-e vagamente judeu.
-Agora é um americano parisiense, um verdadeiro mangeur de fromage.
-Pôs a <START:ABSTRACCAO_IDEIA> Europa <END> e a <START:ABSTRACCAO_DISCIPLINA> Teoria das Cordas <END> de parte e foi para a melhor cidade da <START:LOCAL_HUMANO> América do Norte <END> mostrar que um físico matemático é pau para toda a obra - nem que seja para mostrar que a <START:ABSTRACCAO_DISCIPLINA> Biologia Celular <END> é só "quebra de simetria" e que não há nada como <START:TEMPO_GENERICO> o outono <END> na <START:LOCAL_HUMANO> Nova Inglaterra <END> .
-Que rica prenda <START:TEMPO_GENERICO> de Thanksgiving <END>  .
-Bem vindo, <START:PESSOA_INDIVIDUAL> Pedro <END> .
-EFEMÉRIDE    
- <START:TEMPO_TEMPO_CALEND> A 24 de Novembro de 1960 <END> , no restaurante <START:LOCAL_HUMANO> Le Vrai Gascon <END> (n.º 82 da rue du <START:LOCAL_HUMANO> Bac <END> , <START:LOCAL_HUMANO> Paris <END> ), em torno dessas figuras majestáticas que eram <START:PESSOA_INDIVIDUAL> Raymond Queneau <END> e <START:PESSOA_INDIVIDUAL> François Le Lionnais <END> , nasceu uma das mais heterodoxas correntes literárias <START:TEMPO_TEMPO_CALEND> do século XX <END> .
-Desafio intelectual e brincadeira de literatos apaixonados pela sua língua, explosiva mistura de cérebros moldados pelas leis da gramática e mentes científicas habituadas a todo o tipo de operações lógicas, o <START:ABSTRACCAO_DISCIPLINA> OuLiPo <END> ( <START:ABSTRACCAO_DISCIPLINA> Ouvroir de Littérature Potentiel <END> ) veio libertar a literatura da forma mais radical: acorrentando-a.
-Isto é, inventando um sem número de constrangimentos que estimulam a imaginação e a perícia verbal de quem escreve.
-Na definição sucinta de <START:PESSOA_INDIVIDUAL> Queneau <END> , um autor oulipiano é um «rato que constrói o labirinto do qual se propõe sair».
-Um labirinto de palavras, claro; um labirinto textual.
-E se grande parte da produção destes autores auto-espartilhados não sobrevive fora do contexto em que surgiu, enquanto mecanismo lúdico ou exercício de estilo, o certo é que os processos do <START:ABSTRACCAO_DISCIPLINA> OuLiPo <END> estão inscritos na estrutura de algumas obras-primas de autores como <START:PESSOA_INDIVIDUAL> Italo Calvino <END> ( <START:OBRA_REPRODUZIDA> Se Numa Noite de Inverno um Viajante <END> ) ou <START:PESSOA_INDIVIDUAL> Georges Perec <END> ( <START:OBRA_REPRODUZIDA> A Vida Modo de Usar <END> ; <START:OBRA_REPRODUZIDA> La Disparition <END> ; etc).
-Quanto mais não fosse por isso, já valeria a pena celebrar <START:TEMPO_GENERICO> os 45 anos <END>  de um movimento que continua activo e em expansão (investigar aqui).
---DOCSTART--
-    
- Na internet, no cinema, na TV, na <START:LOCAL_HUMANO> Locadora <END>        
- <START:PESSOA_INDIVIDUAL> Carlos Gerbase <END> faz parte de uma geração de cineastas que apareceu em <START:LOCAL_HUMANO> Porto Alegre <END> <START:TEMPO_TEMPO_CALEND> nos anos 90 <END> , com a intenção de colocar o <START:LOCAL_HUMANO> Rio Grande do Sul <END> no mapa nacional da <START:ABSTRACCAO_DISCIPLINA> Sétima Arte <END> .
-Através da  <START:ORGANIZACAO_INSTITUICAO> Casa de Cinema <END> de <START:LOCAL_HUMANO> Porto Alegre <END> , esse grupo produziu obras-primas como o curta-metragem <START:OBRA_REPRODUZIDA> Ilha das Flores <END> e apresentou para o país cineastas como <START:PESSOA_INDIVIDUAL> Jorge Furtado <END> , considerado um dos mais interessantes realizadores do cinema brasileiro atual.
-<START:PESSOA_INDIVIDUAL> Gerbase <END> faz parte desse grupo e, mantendo a tradição, coloca mais uma questão para a produção nacional ao lançar seu novo filme <START:OBRA_REPRODUZIDA> 3 Efes <END> simultaneamente no cinema, na TV, na internet e em DVD.
-"Só faltou a versão rádio", brincou ele, bem-humorado, com a reportagem do jornal fluminense <START:ORGANIZACAO_EMPRESA> O Globo <END> .
-Segundo a sinopse oferecida pela produção do filme, " <START:OBRA_REPRODUZIDA> 3 Efes <END> é uma comédia dramática que aborda as dificuldades - afetivas, financeiras e culturais - enfrentadas por um grupo de personagens que circula em torno de <START:PESSOA_INDIVIDUAL> Sissi <END> , uma jovem universitária que sustenta, a duras penas, o pai viúvo e o irmão pequeno.
-Nessa situação de dificuldade, <START:PESSOA_INDIVIDUAL> Sissi <END> recorre aos conselhos de sua tia, <START:PESSOA_INDIVIDUAL> Martina <END> , uma dona-de-casa entediada que, em meio a uma crise no seu casamento com o publicitário <START:PESSOA_INDIVIDUAL> Rogério <END> , fica irresistivelmente atraída por <START:PESSOA_INDIVIDUAL> William <END> , um simples catador de papel.
-<START:PESSOA_INDIVIDUAL> Rogério <END> também está em apuros: sua última campanha publicitária deu errado, e agora ele precisa dar um jeito de salvar seu emprego - de qualquer jeito.
-Assim, sob todas essas pressões do cotidiano, os personagens acabam tomando importantes decisões que vão mudar muita coisa entre eles - e também provocar algumas situações inusitadas".
-O filme, que chegou ao público <START:TEMPO_TEMPO_CALEND> no dia 7 de dezembro <END> , já pode ser visto pelo site www.3efes.com.br.
-Confira a entrevista exclusiva com o <START:PESSOA_INDIVIDUAL> diretor Carlos Gerbase <END> :      
 
-  --DOCSTART--
-
-<START:ACONTECIMENTO_ORGANIZADO> GP Brasil <END> : <START:PESSOA_INDIVIDUAL> Raikkonen <END> campeão do <START:LOCAL_HUMANO> Mundo <END> 
-FINLANDÊS DA <START:PESSOA_GRUPOMEMBRO> FERRARI <END> ARREBATOU TÍTULO CONTRA FAVORITISMO DA <START:PESSOA_GRUPOMEMBRO> MCLAREN <END> 
-O finlandês <START:PESSOA_INDIVIDUAL> Kimi Raikkonen <END> sagrou-se campeão do <START:LOCAL_HUMANO> Mundo <END>  de <START:ABSTRACCAO_DISCIPLINA> F1 <END> vencendo o  <START:ACONTECIMENTO_ORGANIZADO> GP <END> do <START:LOCAL_HUMANO> Brasil <END> , à frente do companheiro de equipa na <START:PESSOA_GRUPOMEMBRO> Ferrari <END> <START:PESSOA_INDIVIDUAL> Filipe Massa <END> e do espanhol <START:PESSOA_INDIVIDUAL> Fernando Alonso <END> .
-<START:PESSOA_INDIVIDUAL> Lewis Hamilton <END> , colega de <START:PESSOA_INDIVIDUAL> Alonso <END> na <START:PESSOA_GRUPOMEMBRO> McLaren <END> , não passou da <START:VALOR_CLASSIFICACAO> 7.ª <END> posição, depois de partir em vantagem pontual no <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo <END> , e teve de contentar-se com o segundo lugar, com <START:VALOR_QUANTIDADE> 109 <END> pontos, a apenas um do novo campeão, mas os mesmos que <START:PESSOA_INDIVIDUAL> Alonso <END> , embora com mais vitórias.
-Emoção
-Não faltou emoção em <START:LOCAL_HUMANO> Interlagos <END> no <START:LOCAL_HUMANO> Circuito José Carlos Pace <END> desde a primeira volta da corrida decisiva do <START:ACONTECIMENTO_ORGANIZADO> Mundial <END> , incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
-O <START:COISA_MEMBROCLASSE> Ferrari <END> de <START:PESSOA_INDIVIDUAL> Raikkonnen <END> partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando <START:PESSOA_INDIVIDUAL> Alonso <END> , que por sua vez ganhara uma posição colega <START:PESSOA_INDIVIDUAL> Lewis Hamilton <END> .
-O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a <START:VALOR_CLASSIFICACAO> 8.ª <END> posição, atrás dos <START:PESSOA_GRUPOMEMBRO> Toyota <END> .
-Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na <START:VALOR_CLASSIFICACAO> 18.ª <END> posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
-A <START:VALOR_QUANTIDADE> 8 <END> voltas do fim, <START:PESSOA_INDIVIDUAL> Raikkonen <END> liderava e já era campeão virtual, atrás de <START:PESSOA_INDIVIDUAL> Alonso <END> ( <START:VALOR_CLASSIFICACAO> 3.º <END> na prova) e <START:PESSOA_INDIVIDUAL> Hamilton <END> ( <START:VALOR_CLASSIFICACAO> 8.º <END> ) : o domínio da <START:PESSOA_GRUPOMEMBRO> Ferrari <END> era total na corrida, e só destinatário do título era incerto...
-Mas a <START:VALOR_QUANTIDADE> 5 <END> voltas do fim o finlandês fez a melhor volta do dia, enquanto <START:PESSOA_INDIVIDUAL> Hamilton <END> era apenas <START:VALOR_CLASSIFICACAO> 7.º <END> ... <START:TEMPO_DURACAO> a 15 segundos <END>  de <START:PESSOA_INDIVIDUAL> Heidfeld <END> , e muito longe do <START:VALOR_CLASSIFICACAO> 5.º <END> lugar que lhe daria o título.
-Festa à brasileira para <START:PESSOA_INDIVIDUAL> Raikkonen <END> com dobradinha de <START:PESSOA_INDIVIDUAL> Massa <END> bem saborosa para a <START:PESSOA_GRUPOMEMBRO> Ferrari <END> :  <START:ACONTECIMENTO_EVENTO> GP <END> do <START:LOCAL_HUMANO> Brasil <END> e <START:ACONTECIMENTO_ORGANIZADO> Mundiais <END> de pilotos e construtores... 
-
-  --DOCSTART--
-
-<START:TEMPO_TEMPO_CALEND> Em Dezembro <END> em <START:LOCAL_HUMANO> Lisboa <END>
-<START:PESSOA_INDIVIDUAL> Sócrates <END> : cimeira " <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> - <START:ORGANIZACAO_ADMINISTRACAO> África <END> não deve ser uma cimeira «sobre <START:PESSOA_INDIVIDUAL> Mugabe <END> » 
-A cimeira  <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> - <START:ORGANIZACAO_ADMINISTRACAO> África <END> , prevista <START:TEMPO_TEMPO_CALEND> para 8 <END> e <START:TEMPO_TEMPO_CALEND> 9 de Dezembro <END> em <START:LOCAL_HUMANO> Lisboa <END> , não deve ser uma cimeira sobre o  <START:PESSOA_CARGO> Presidente <END> do <START:LOCAL_HUMANO> Zimbabwe <END> , <START:PESSOA_INDIVIDUAL> Robert Mugabe <END> , defendeu <START:TEMPO_TEMPO_CALEND> hoje <END> <START:PESSOA_INDIVIDUAL> José Sócrates <END> , primeiro-ministro português e presidente em exercício da <START:LOCAL_HUMANO> União Europeia <END> ( <START:LOCAL_HUMANO> UE <END> ).
-«O que queremos é que esta cimeira entre a <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> e <START:ORGANIZACAO_ADMINISTRACAO> África <END> , uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o <START:PESSOA_INDIVIDUAL> Presidente Robert Mugabe <END> », declarou <START:PESSOA_INDIVIDUAL> Sócrates <END> em <START:LOCAL_HUMANO> Singapura <END> , à margem da cimeira entre a <START:ORGANIZACAO_ADMINISTRACAO> UE <END> e os países do <START:LOCAL_HUMANO> Sudeste <END> asiático, segundo a   Lusa .
-O <START:ORGANIZACAO_ADMINISTRACAO> Zimbabwe <END> foi convidado para participar na cimeira, apesar da oposição do <START:ORGANIZACAO_ADMINISTRACAO> Reino Unido <END> que ameaçou boicotar a reunião se <START:PESSOA_INDIVIDUAL> Mugabe <END> estiver presente.
-«Esta é uma cimeira que não se realiza <START:TEMPO_DURACAO> há sete anos <END> , uma cimeira sobre os direitos do <START:PESSOA_GRUPOMEMBRO> Homem <END> , sobre as alterações climáticas, sobre as migrações, sobre os problemas da <START:LOCAL_HUMANO> União Europeia <END> e da <START:LOCAL_HUMANO> União Africana <END> », salientou <START:PESSOA_INDIVIDUAL> Sócrates <END> .
-«O objectivo é restaurar o diálogo político alargado com a <START:ORGANIZACAO_ADMINISTRACAO> África <END> e fazer não apenas uma estratégia da <START:ORGANIZACAO_ADMINISTRACAO> Europa <END> para a <START:ORGANIZACAO_ADMINISTRACAO> África <END> mas uma estratégia conjunta, pela primeira vez na história», lembrou.
-«Gostaria que esta cimeira não fosse apenas sobre um país ou sobre um dirigente», insistiu.
---DOCSTART--
-
-Bibliografia de <START:PESSOA_GRUPOMEMBRO> Censurados <END>
-Os <START:PESSOA_GRUPOMEMBRO> Censurados <END> nasceram em <START:LOCAL_HUMANO> Lisboa <END> " <START:TEMPO_TEMPO_CALEND> no ano de 1988 <END> , pelo antigo vocalista da banda <START:PESSOA_GRUPOMEMBRO> Ku de Judas <END> , <START:PESSOA_INDIVIDUAL> João Ribas <END> , juntando-se-lhe <START:PESSOA_INDIVIDUAL> Orlando Cohen <END> , o ex-membro dos <START:PESSOA_GRUPOMEMBRO> Peste &amp; Sida <END> , <START:PESSOA_INDIVIDUAL> Samuel Palitos <END> e ainda <START:PESSOA_INDIVIDUAL> Fred Valsassina <END> .
-Os <START:PESSOA_GRUPOMEMBRO> Censurados <END> começaram por tocar ao vivo.
+Os <START:PESSOA_GRUPOMEMBRO>Censurados<END> nasceram em <START:LOCAL_HUMANO>Lisboa<END> "<START:TEMPO_TEMPO_CALEND>no ano de 1988<END>, pelo antigo vocalista da banda <START:PESSOA_GRUPOMEMBRO>Ku de Judas<END>, <START:PESSOA_INDIVIDUAL>João Ribas<END>, juntando-se-lhe <START:PESSOA_INDIVIDUAL>Orlando Cohen<END>, o ex-membro dos <START:PESSOA_GRUPOMEMBRO>Peste &amp; Sida<END>, <START:PESSOA_INDIVIDUAL>Samuel Palitos<END> e ainda <START:PESSOA_INDIVIDUAL>Fred Valsassina<END>.
+Os <START:PESSOA_GRUPOMEMBRO>Censurados<END> começaram por tocar ao vivo.
 Muito.
-As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude <START:TEMPO_TEMPO_CALEND> da era Cavaquista <END> .
-O primeiro registo em vinil, na compilação " <START:OBRA_REPRODUZIDA> Feedback <END> " incluiu os temas " <START:OBRA_REPRODUZIDA> Senhores Politicos <END> ", <START:OBRA_REPRODUZIDA> Não Vales Nada <END> " e " <START:OBRA_REPRODUZIDA> Está a andar de Mota <END> " (um instrumental).
-" <START:OBRA_REPRODUZIDA> Tu ò Bófia <END> ", " <START:OBRA_REPRODUZIDA> Não Vales Nada <END> ", " <START:OBRA_REPRODUZIDA> Angústia <END> ", " <START:OBRA_REPRODUZIDA> Senhores Politicos <END> " eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum " <START:OBRA_REPRODUZIDA> Censurados <END> " <START:TEMPO_TEMPO_CALEND> 1990 <END> .
-Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao <START:ABSTRACCAO_DISCIPLINA> Punk <END> e <START:ABSTRACCAO_DISCIPLINA> Hardore <END> "na altura, a <START:COISA_CLASSE> Maximum Rockn'Roll <END> ( <START:LOCAL_HUMANO> EUA <END> ) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.
-<START:TEMPO_TEMPO_CALEND> Em 1991 <END> editam o <START:VALOR_CLASSIFICACAO> 2º <END>  album " <START:OBRA_REPRODUZIDA> Confusão <END> " e passam <START:TEMPO_DURACAO> os anos seguintes <END> na estrada.
-<START:TEMPO_TEMPO_CALEND> Em 1993 <END> sai o " <START:OBRA_REPRODUZIDA> Sopa <END> " com o single de mesmo nome e uma participação de <START:PESSOA_INDIVIDUAL> Jorge Palma <END> na música " <START:OBRA_REPRODUZIDA> Estou agarrado a ti <END> ".
-<START:TEMPO_TEMPO_CALEND> O ano de 1994 <END> é <START:TEMPO_GENERICO> o ano <END> da despedida, mas <START:TEMPO_TEMPO_CALEND> antes <END> participam no tributo a <START:PESSOA_INDIVIDUAL> Zeca Afonso <END> , " <START:OBRA_REPRODUZIDA> Filhos da Madrugada <END> " com a reedição do tema " <START:OBRA_REPRODUZIDA> O que faz falta <END> ".
-<START:TEMPO_TEMPO_CALEND> Em 1998 <END> a editora " <START:ORGANIZACAO_EMPRESA> El Tatu <END> " de <START:PESSOA_INDIVIDUAL> Tim <END> reedita os albuns " <START:OBRA_REPRODUZIDA> Censurados <END> " e " <START:OBRA_REPRODUZIDA> Sopa <END> ".
-<START:TEMPO_TEMPO_CALEND> Em 1999 <END> os <START:PESSOA_GRUPOMEMBRO> Censurados <END> reaparecem, para rejubilo dos fãns, participando no tributo de <START:PESSOA_GRUPOMEMBRO> Xutos &amp; Pontapés <END> , " <START:OBRA_REPRODUZIDA> XX Anos XX Bandas <END> ".
-Participaram na tourné de promoção desse disco com os <START:PESSOA_GRUPOMEMBRO> Xutos <END> , mas ao contrário do que se esperava os <START:PESSOA_GRUPOMEMBRO> Censurados <END> ficaram por aí, não voltando nunca mais.
-<START:TEMPO_TEMPO_CALEND> Em 2006 <END> é lançado a biografia da banda, " <START:OBRA_REPRODUZIDA> Censurados Até Morrer <END> ", escrita por <START:PESSOA_INDIVIDUAL> Augusto Figueira <END> e <START:PESSOA_INDIVIDUAL> Renato Conteiro <END> .
+As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude <START:TEMPO_TEMPO_CALEND>da era Cavaquista<END>.
+O primeiro registo em vinil, na compilação "<START:OBRA_REPRODUZIDA>Feedback<END>" incluiu os temas "<START:OBRA_REPRODUZIDA>Senhores Politicos<END>", <START:OBRA_REPRODUZIDA>Não Vales Nada<END>" e "<START:OBRA_REPRODUZIDA>Está a andar de Mota<END>" (um instrumental).
+"<START:OBRA_REPRODUZIDA>Tu ò Bófia<END>", "<START:OBRA_REPRODUZIDA>Não Vales Nada<END>", "<START:OBRA_REPRODUZIDA>Angústia<END>", "<START:OBRA_REPRODUZIDA>Senhores Politicos<END>" eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum "<START:OBRA_REPRODUZIDA>Censurados<END>"<START:TEMPO_TEMPO_CALEND>1990<END>.
+Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao <START:ABSTRACCAO_DISCIPLINA>Punk<END> e <START:ABSTRACCAO_DISCIPLINA>Hardore<END> "na altura, a <START:COISA_CLASSE>Maximum Rockn'Roll<END>(<START:LOCAL_HUMANO>EUA<END>) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.
+<START:TEMPO_TEMPO_CALEND>Em 1991<END> editam o <START:VALOR_CLASSIFICACAO>2º<END>  album "<START:OBRA_REPRODUZIDA>Confusão<END>" e passam <START:TEMPO_DURACAO>os anos seguintes<END> na estrada.
+<START:TEMPO_TEMPO_CALEND>Em 1993<END> sai o "<START:OBRA_REPRODUZIDA>Sopa<END>" com o single de mesmo nome e uma participação de <START:PESSOA_INDIVIDUAL>Jorge Palma<END> na música "<START:OBRA_REPRODUZIDA>Estou agarrado a ti<END>".
+<START:TEMPO_TEMPO_CALEND>O ano de 1994<END> é <START:TEMPO_GENERICO>o ano<END> da despedida, mas <START:TEMPO_TEMPO_CALEND>antes<END> participam no tributo a <START:PESSOA_INDIVIDUAL>Zeca Afonso<END>, "<START:OBRA_REPRODUZIDA>Filhos da Madrugada<END>" com a reedição do tema "<START:OBRA_REPRODUZIDA>O que faz falta<END>".
+<START:TEMPO_TEMPO_CALEND>Em 1998<END> a editora "<START:ORGANIZACAO_EMPRESA>El Tatu<END>" de <START:PESSOA_INDIVIDUAL>Tim<END> reedita os albuns "<START:OBRA_REPRODUZIDA>Censurados<END>" e "<START:OBRA_REPRODUZIDA>Sopa<END>".
+<START:TEMPO_TEMPO_CALEND>Em 1999<END> os <START:PESSOA_GRUPOMEMBRO>Censurados<END> reaparecem, para rejubilo dos fãns, participando no tributo de <START:PESSOA_GRUPOMEMBRO>Xutos &amp; Pontapés<END>, "<START:OBRA_REPRODUZIDA>XX Anos XX Bandas<END>".
+Participaram na tourné de promoção desse disco com os <START:PESSOA_GRUPOMEMBRO>Xutos<END>, mas ao contrário do que se esperava os <START:PESSOA_GRUPOMEMBRO>Censurados<END> ficaram por aí, não voltando nunca mais.
+<START:TEMPO_TEMPO_CALEND>Em 2006<END> é lançado a biografia da banda, "<START:OBRA_REPRODUZIDA>Censurados Até Morrer<END>", escrita por <START:PESSOA_INDIVIDUAL>Augusto Figueira<END> e <START:PESSOA_INDIVIDUAL>Renato Conteiro<END>.
 --DOCSTART--
-    
- Nas voltas que a <START:ACONTECIMENTO_ORGANIZADO> Pampulha <END> dá...        
- Entre os <START:VALOR_QUANTIDADE> quase 10 mil <END> que correram os <START:VALOR_QUANTIDADE> quase 18k <END> da  <START:ACONTECIMENTO_ORGANIZADO> Volta Internacional <END> da <START:LOCAL_HUMANO> Pampulha <END> <START:TEMPO_TEMPO_CALEND> no início do mês <END> estava, havia um monte de... <START:PESSOA_GRUPOMEMBRO> Índios <END> !!!
-O <START:PESSOA_INDIVIDUAL> Antonio Ricardo <END> e mais uma turma da <START:PESSOA_GRUPOMEMBRO> Araribóia Runners <END> , trocou <START:LOCAL_HUMANO> Nikiti <END> por <START:LOCAL_HUMANO> BH <END> para suar ao redor do  <START:LOCAL_FISICO> Lago <END> da <START:LOCAL_HUMANO> Pampulha <END> .
-Bela paisagem, calor demais, esforço descomunal para alguns, exemplos de solidariedade que são para a gente seguir...
-Enfim, mais uma prova para colocar num lugar destacado na prateleira das boas memórias.
-Diz aí, <START:PESSOA_INDIVIDUAL> Antonio <END> ...        
- "Mais uma vez a prova foi fantástica!
-Testando resistência, o psicológico e outros bichos mais.
-Se você acha que a meia maratona é pesada, corra <START:VALOR_QUANTIDADE> 18km <END> na <START:LOCAL_HUMANO> Pampulha <END> onde a largada somente  aconteceu <START:TEMPO_TEMPO_CALEND> às 10h <END> , debaixo do maior sol e com  muito calor.
-Isso é <START:ABSTRACCAO_IDEIA> Pampulha <END> !
-O coração da <START:LOCAL_HUMANO> Terra do Pão de Queijo <END> ...
-Muita gente caída nas calçadas recorrendo ao balão de oxigênio.
-Muita mesmo!
-"Esta prova realmente testa as condições do atleta e se ele se preparou adequadamente para enfrentá-la.
-Apesar da excelente estrutura de apoio, com muitos postos de hidratação (água a balde), o calor era muito forte.
-As motos espalhadas com médicos e ambulâncias trabalhando muito.
-Show.
-"O <START:PESSOA_INDIVIDUAL> Alex <END> aqui da <START:PESSOA_GRUPOMEMBRO> Sulamerica <END> , faltando <START:VALOR_QUANTIDADE> 1 km <END> , sentiu câimbras e foi para o hospital, ficando no soro... <START:PESSOA_INDIVIDUAL> Mateus <END> meu filho, faltando <START:VALOR_QUANTIDADE> 3km <END> , também sentiu câimbras nas duas pernas.
-Por sorte, o <START:PESSOA_INDIVIDUAL> Edu <END> parou e veio com ele devagar até a chegada.
-(Valeu <START:PESSOA_INDIVIDUAL> Edu <END> , obrigado por ajudar meu filho!
-Araribóia  !!!)
-Continuei meu ritmo e dei uma força para o ' <START:PESSOA_INDIVIDUAL> Chico Buarque <END> ' ( <START:PESSOA_INDIVIDUAL> Israel <END> ), grande guerreiro araribóia, mandou muito bem!
-( <START:VALOR_QUANTIDADE> 1:40:00 <END> ).
-Eu estava bem, minha passada dez, mais um índio amigo precisava de apoio pra chegar e, como somos uma família, fiz de tudo para ele cruzar a linha de chegada voando...        
- "Os índios <START:PESSOA_GRUPOIND> Araribóias <END> que saíram de <START:LOCAL_HUMANO> Niterói <END> na maior expectativa, cruzaram a linha de chegada com louvor.
-Parabéns <START:PESSOA_GRUPOIND> Família Araribóia <END> pelo desempenho na <START:LOCAL_HUMANO> Terra do Pão de Queijo <END> !"
-Os arabibóias que deram a volta na <START:LOCAL_FISICO> Pampulha <END> foram: <START:PESSOA_INDIVIDUAL> Claudia Donelate <END> , <START:PESSOA_INDIVIDUAL> Jorge Américo <END> , <START:PESSOA_INDIVIDUAL> Mateus Silva <END> , <START:PESSOA_INDIVIDUAL> Antônio Ricardo <END> , <START:PESSOA_INDIVIDUAL> Israel Firmino <END> e <START:PESSOA_INDIVIDUAL> Luiz Eduardo Bustamante <END> .
-Parabéns!!
-Para saber mais sobre a prova, é só clicar aqui.
-Receba este blog PermalinkEnvieComente Ler comentários ( 2 )      
+
+
+<START:COISA_SUBSTANCIA>H5N1<END>: <START:VALOR_QUANTIDADE>Mais de 32 mil<END> mortos se pandemia atingisse <START:PESSOA_POVO>Portugal<END>
+
+
+<START:VALOR_QUANTIDADE>Mais de 32 mil<END> pessoas poderiam morrer se uma pandemia de gripe humana de origem aviária atingisse <START:PESSOA_POVO>Portugal<END>, segundo cenários elaborados <START:TEMPO_TEMPO_CALEND>este ano<END> por peritos do <START:ORGANIZACAO_INSTITUICAO>Instituto Nacional de Saúde Ricardo Jorge<END>.
+<START:TEMPO_TEMPO_CALEND>Na quinta-feira<END>, a <START:ORGANIZACAO_INSTITUICAO>Organização Mundial de Saúde<END> confirmou que um paquistanês vítima da gripe das aves tinha contraído o vírus <START:COISA_SUBSTANCIA>H5N1<END> de outro humano, apesar de os peritos afastarem ainda qualquer risco de contaminação generalizado.
+Em <START:LOCAL_HUMANO>Portugal<END>, o <START:ORGANIZACAO_INSTITUICAO>Instituto Nacional de Saúde<END> elaborou cenários de uma eventual pandemia de gripe humana de origem em aves, que poderá ou não ser desencadeada pelo <START:COISA_SUBSTANCIA>H5N1<END>, a estirpe do vírus mais mortal até agora conhecida.
+Os cenários tiveram em conta a utilização do <START:COISA_SUBSTANCIA>Oseltamivir<END> (o anti-viral tido como o mais eficaz contra uma eventual pandemia com origem da gripe das aves), mas não consideraram outras medidas de saúde pública, apesar de os autores admitirem que estas «terão um efeito principal, embora não exclusivo, na diminuição da incidência da doença e, portanto, nas taxas de ataque».
+Os autores dos cenários basearam o seu cálculo em três taxas de ataque (<START:VALOR_QUANTIDADE>30<END>, <START:VALOR_QUANTIDADE>35<END> e <START:VALOR_QUANTIDADE>40 por cento<END> da população), admitindo que a pandemia evoluiria em duas ondas.
+Os peritos consideram provável que, com uma taxa de ataque de <START:VALOR_QUANTIDADE>30 por cento<END>, existiriam <START:VALOR_QUANTIDADE>3.106.835<END> casos de gripe, <START:VALOR_QUANTIDADE>3.624.641<END> numa taxa de ataque de <START:VALOR_QUANTIDADE>35 por cento<END> e <START:VALOR_QUANTIDADE>4.142.447<END> perante a mais severa taxa de ataque (<START:VALOR_QUANTIDADE>40 por cento<END>).
+--DOCSTART--
+
+
+Tabaco: <START:ORGANIZACAO_INSTITUICAO>Associação<END> lamenta exemplo de <START:PESSOA_CARGO>presidente da ASAE<END> 
+
+
+O <START:PESSOA_CARGO>presidente da Confederação Portuguesa para a Prevenção do Tabagismo<END>  (<START:ORGANIZACAO_INSTITUICAO>CPPT<END>) considerou <START:TEMPO_TEMPO_CALEND>hoje<END> «um exemplo lamentável» o facto de o <START:PESSOA_CARGO>presidente da Confederação Portuguesa para a Prevenção do Tabagismo<END>  ter sido fotografado a fumar num casino depois da entrada em vigor da lei do <START:OBRA_PLANO>Tabaco<END>.
+<START:PESSOA_INDIVIDUAL>António Nunes<END>, <START:PESSOA_CARGO>presidente da Autoridade de Segurança Alimentar e Económica<END>  (<START:ORGANIZACAO_INSTITUICAO>ASAE<END>), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo <START:PESSOA_GRUPOMEMBRO>Diário de Notícias<END> (<START:PESSOA_GRUPOMEMBRO>DN<END>) a fumar uma cigarrilha no  <START:LOCAL_HUMANO>Casino<END> do <START:LOCAL_HUMANO>Estoril<END> <START:TEMPO_TEMPO_CALEND>às 02.30 da manhã<END> <START:TEMPO_TEMPO_CALEND>do dia 01 de Janeiro<END>.
+Em explicações ao <START:ORGANIZACAO_EMPRESA>DN<END>, <START:PESSOA_INDIVIDUAL>António Nunes<END> considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
+No entanto, um parecer da <START:ORGANIZACAO_INSTITUICAO>Direcção Geral de Saúde<END> a que a <START:ORGANIZACAO_EMPRESA>Lusa<END> teve acesso <START:TEMPO_TEMPO_CALEND>sexta-feira<END> indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
+«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à <START:ORGANIZACAO_EMPRESA>Lusa<END> o <START:PESSOA_CARGO>presidente da Confederação Portuguesa para a Prevenção do Tabagismo<END> , <START:PESSOA_INDIVIDUAL>Luís Rebelo<END>.
+<START:PESSOA_INDIVIDUAL>Luís Rebelo<END> desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de <START:PESSOA_INDIVIDUAL>António Nunes<END> a «um automatismo» inconsciente.
+Sobre as dúvidas manifestadas pelo máximo responsável da <START:ORGANIZACAO_INSTITUICAO>ASAE<END> relativamente ao âmbito de aplicação da nova lei, <START:PESSOA_INDIVIDUAL>Luís Rebelo<END> considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
+«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
+Sobre <START:TEMPO_GENERICO>os primeiros dias<END> da vigência da proibição de fumar em espaços de uso colectivo fechados, <START:PESSOA_INDIVIDUAL>Luís Rebelo<END> considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
+A lei do <START:OBRA_PLANO>Tabaco<END>, que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO_TEMPO_CALEND>às 00:00<END> <START:TEMPO_TEMPO_CALEND>do dia 01 de Janeiro<END>.
+A <START:ORGANIZACAO_EMPRESA>Lusa<END> tentou contactar o <START:PESSOA_CARGO>porta-voz da ASAE<END>  para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO_TEMPO_CALEND>até ao momento<END>.
+--DOCSTART--
+
+
+<START:ACONTECIMENTO_ORGANIZADO>GP Brasil<END>: <START:PESSOA_INDIVIDUAL>Raikkonen<END> campeão do <START:LOCAL_HUMANO>Mundo<END> 
+
+
+FINLANDÊS DA <START:PESSOA_GRUPOMEMBRO>FERRARI<END> ARREBATOU TÍTULO CONTRA FAVORITISMO DA <START:PESSOA_GRUPOMEMBRO>MCLAREN<END> 
+
+
+O finlandês <START:PESSOA_INDIVIDUAL>Kimi Raikkonen<END> sagrou-se campeão do <START:LOCAL_HUMANO>Mundo<END>  de <START:ABSTRACCAO_DISCIPLINA>F1<END> vencendo o  <START:ACONTECIMENTO_ORGANIZADO>GP<END> do <START:LOCAL_HUMANO>Brasil<END>, à frente do companheiro de equipa na <START:PESSOA_GRUPOMEMBRO>Ferrari<END> <START:PESSOA_INDIVIDUAL>Filipe Massa<END> e do espanhol <START:PESSOA_INDIVIDUAL>Fernando Alonso<END>.
+<START:PESSOA_INDIVIDUAL>Lewis Hamilton<END>, colega de <START:PESSOA_INDIVIDUAL>Alonso<END> na <START:PESSOA_GRUPOMEMBRO>McLaren<END>, não passou da <START:VALOR_CLASSIFICACAO>7.ª<END> posição, depois de partir em vantagem pontual no <START:ACONTECIMENTO_ORGANIZADO>Campeonato do Mundo<END>, e teve de contentar-se com o segundo lugar, com <START:VALOR_QUANTIDADE>109<END> pontos, a apenas um do novo campeão, mas os mesmos que <START:PESSOA_INDIVIDUAL>Alonso<END>, embora com mais vitórias.
+Emoção
+
+
+Não faltou emoção em <START:LOCAL_HUMANO>Interlagos<END> no <START:LOCAL_HUMANO>Circuito José Carlos Pace<END> desde a primeira volta da corrida decisiva do <START:ACONTECIMENTO_ORGANIZADO>Mundial<END>, incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.
+O <START:COISA_MEMBROCLASSE>Ferrari<END> de <START:PESSOA_INDIVIDUAL>Raikkonnen<END> partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando <START:PESSOA_INDIVIDUAL>Alonso<END>, que por sua vez ganhara uma posição colega <START:PESSOA_INDIVIDUAL>Lewis Hamilton<END>.
+O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a <START:VALOR_CLASSIFICACAO>8.ª<END> posição, atrás dos <START:PESSOA_GRUPOMEMBRO>Toyota<END>.
+Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na <START:VALOR_CLASSIFICACAO>18.ª<END> posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!
+A <START:VALOR_QUANTIDADE>8<END> voltas do fim, <START:PESSOA_INDIVIDUAL>Raikkonen<END> liderava e já era campeão virtual, atrás de <START:PESSOA_INDIVIDUAL>Alonso<END> (<START:VALOR_CLASSIFICACAO>3.º<END> na prova) e <START:PESSOA_INDIVIDUAL>Hamilton<END> (<START:VALOR_CLASSIFICACAO>8.º<END>) : o domínio da <START:PESSOA_GRUPOMEMBRO>Ferrari<END> era total na corrida, e só destinatário do título era incerto...
+Mas a <START:VALOR_QUANTIDADE>5<END> voltas do fim o finlandês fez a melhor volta do dia, enquanto <START:PESSOA_INDIVIDUAL>Hamilton<END> era apenas <START:VALOR_CLASSIFICACAO>7.º<END>... <START:TEMPO_DURACAO>a 15 segundos<END>  de <START:PESSOA_INDIVIDUAL>Heidfeld<END>, e muito longe do <START:VALOR_CLASSIFICACAO>5.º<END> lugar que lhe daria o título.
+Festa à brasileira para <START:PESSOA_INDIVIDUAL>Raikkonen<END> com dobradinha de <START:PESSOA_INDIVIDUAL>Massa<END> bem saborosa para a <START:PESSOA_GRUPOMEMBRO>Ferrari<END>:  <START:ACONTECIMENTO_EVENTO>GP<END> do <START:LOCAL_HUMANO>Brasil<END> e <START:ACONTECIMENTO_ORGANIZADO>Mundiais<END> de pilotos e construtores... 
+
 
   --DOCSTART--
     
- CONGRESSOS DO <START:ORGANIZACAO_INSTITUICAO> PSD <END> , VOLTEM QUE ESTÃO PERDOADOS        
- Há poucas coisas que me entristecem tanto como esta história das directas do <START:ORGANIZACAO_INSTITUICAO> PSD <END> .
-É que eu sempre fui um aficcionado dos congressos do <START:ORGANIZACAO_INSTITUICAO> PSD <END> .
-Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: «  PSD: Responsabilidade e sentido de Estado .»        
- Habituei-me, <START:TEMPO_GENERICO> ao longo dos anos <END> , a assistir às transmissões televisivas dos congressos social-democratas, <START:TEMPO_GENERICO> madrugada adentro <END> , enquanto comia pipocas.
-Menos quando <START:PESSOA_INDIVIDUAL> Santana Lopes <END> fazia aqueles discursos improvisados, que me provocavam um nó na garganta.
-Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o <START:ORGANIZACAO_INSTITUICAO> Conselho Nacional <END> lhe fez... Cafagestes!»        
- É certo que, agora que já não há intervenções pungentes de <START:PESSOA_INDIVIDUAL> Santana Lopes <END> , os congressos do <START:ORGANIZACAO_INSTITUICAO> PSD <END> ficariam demasiado dependentes das gaffes de <START:PESSOA_INDIVIDUAL> Luís Filipe Menezes <END> .
-Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem.
-Costuma-se dizer -- e com razão - que o <START:ORGANIZACAO_INSTITUICAO> PSD <END> é o <START:ORGANIZACAO_INSTITUICAO> Sport Lisboa e Benfica <END> da política, uma vez que se trata do partido com a maior diversidade de classes sociais.
-O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão.
-Segundo <START:PESSOA_INDIVIDUAL> Pacheco Pereira <END> , é esta diversidade social que começa a estar seriamente ameaçada.
-<START:TEMPO_TEMPO_CALEND> Há uns tempos <END> , escreveu no <START:LOCAL_VIRTUAL> PÚBLICO <END> que «o problema do <START:ORGANIZACAO_INSTITUICAO> PSD <END> é começar a ter só um <START:ABSTRACCAO_IDEIA> Portugal <END> ou dois dentro de si».
-Não podia estar mais em desacordo com esta afirmação.
-Para mim, é precisamente esse o problema do partido.
-Se, em vez de « <START:ABSTRACCAO_IDEIA> Portugais <END> », o <START:ORGANIZACAO_INSTITUICAO> PSD <END> tivesse uma <START:ABSTRACCAO_IDEIA> Finlândia <END> ou duas <START:ABSTRACCAO_IDEIA> Dinamarcas <END> dentro dele, aí sim podia ser que o partido fosse a algum lado.
-De resto, fico já satisfeito por ter conseguido escrever um post sobre o <START:ORGANIZACAO_INSTITUICAO> PSD <END> , sem uma única referência à baixa estatura de <START:PESSOA_INDIVIDUAL> Marques Mendes <END> .
-(O quê?
-Isto conta como referência?)
+
+      Biografia de
+      <START:PESSOA_GRUPOMEMBRO>Dead Fish<END>
+    
+    
+
+      <START:PESSOA_GRUPOMEMBRO>Dead Fish<END>
+      é uma banda de
+      <START:ABSTRACCAO_DISCIPLINA>Hardcore<END>
+      de
+      <START:LOCAL_HUMANO>Vitória<END>
+      , cidade do estado do
+      <START:LOCAL_HUMANO>Espírito Santo<END>
+      ,
+      <START:LOCAL_HUMANO>Brasil<END>
+      .
+História
+    
+
+      Tudo começou
+      <START:TEMPO_TEMPO_CALEND>em 1991<END>
+      com um grupo de amigos que andavam de Skate em
+      <START:LOCAL_HUMANO>Vitória<END>
+      .
+Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente
+      <START:ABSTRACCAO_DISCIPLINA>Hardcore<END>
+      .
+<START:TEMPO_TEMPO_CALEND>Em 1995<END>
+      lançam a demo-tape "
+      <START:OBRA_REPRODUZIDA>Re-Progresso<END>
+      " e
+      <START:TEMPO_TEMPO_CALEND>três anos depois<END>
+      , seu primeiro
+      <START:COISA_CLASSE>CD Full-Lenght<END> 
+      , chamado "
+      <START:ABSTRACCAO_NOME>Sirva-se<END>
+      " pelo selo capixaba
+      <START:ORGANIZACAO_EMPRESA>Lona Records<END>
+      .
+Após o "
+      <START:OBRA_REPRODUZIDA>Sirva-se<END>
+      ", lançaram "
+      <START:OBRA_REPRODUZIDA>Sonho Médio<END>
+      "
+      <START:TEMPO_TEMPO_CALEND>em 1999<END>
+      e "
+      <START:OBRA_REPRODUZIDA>Afasia<END>
+      "
+      <START:TEMPO_TEMPO_CALEND>em 2001<END>
+      .
+<START:PESSOA_INDIVIDUAL>Giuliano<END>
+      , até então guitarrista, resolveu deixar a banda,
+      <START:TEMPO_TEMPO_CALEND>em 2002<END>
+      lançam o
+      <START:OBRA_REPRODUZIDA>Projeto Peixe Morto<END>
+      e
+      <START:TEMPO_TEMPO_CALEND>no mesmo ano<END>
+      também lançam o
+      <START:OBRA_REPRODUZIDA>EP 2002<END>
+      , mas que foi gravado
+      <START:TEMPO_TEMPO_CALEND>em 2000<END>
+      .
+Alguns guitarristas de bandas amigas do
+      <START:PESSOA_GRUPOMEMBRO>Dead Fish<END>
+      foram chamados para quebrar um galho, entre eles:
+      <START:PESSOA_INDIVIDUAL>Alexandre "Capilé"<END>
+     (
+      <START:PESSOA_GRUPOMEMBRO>Sugar Kane<END>
+      ),
+      <START:PESSOA_INDIVIDUAL>Philippe Fargnoli<END>
+      (
+      <START:PESSOA_GRUPOMEMBRO>Reffer<END>
+      ) e
+      <START:PESSOA_INDIVIDUAL>Tiago "Hóspede"<END>
+     (
+      <START:PESSOA_GRUPOMEMBRO>Aditive<END>
+      ).
+<START:TEMPO_TEMPO_CALEND>Em 2003<END>
+      gravaram um
+      
+        <START:COISA_CLASSE>CD Ao Vivo<END>
+        
+      no
+      <START:LOCAL_HUMANO>Hangar 110<END>
+      em
+      <START:LOCAL_HUMANO>São Paulo<END>
+      .
+<START:PESSOA_INDIVIDUAL>Murilo<END>
+      , o outro guitarrista do
+      <START:PESSOA_GRUPOMEMBRO>Dead Fish<END>
+      , deixa a banda que ameaça acabar.
+<START:TEMPO_TEMPO_CALEND>No fim do mesmo ano<END>
+      , eles recebem uma proposta de uma gravadora, a
+      <START:ORGANIZACAO_EMPRESA>Deckdisc<END>
+      .
+A banda aceita a proposta, chama
+      <START:PESSOA_INDIVIDUAL>Philippe<END>
+      e
+      <START:PESSOA_INDIVIDUAL>Hóspede<END>
+      para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o "
+      <START:OBRA_REPRODUZIDA>Zero e Um<END>
+      ".
+<START:TEMPO_TEMPO_CALEND>Em 2004<END>
+      , o
+      <START:PESSOA_GRUPOMEMBRO>Dead Fish<END>
+      ganha projeção nacional ao receber o prêmio
+      Video Music Brasil
+      de artista revelação, lançando seu primeiro DVD
+      , o "
+      <START:OBRA_REPRODUZIDA>MTV Apresenta: Dead Fish<END>
+      ".
+<START:TEMPO_TEMPO_CALEND>Em 2006<END>
+      , lançam mais um disco pela mesma gravadora, chamado "
+      <START:ABSTRACCAO_NOME>Um Homem Só<END>
+      " e tem relançadas sua primeiras demo-tapes pelo selo
+      <START:COISA_CLASSE>Laja Records<END>
+      , sob o título de "
+      <START:ABSTRACCAO_NOME>Dead Fish - Demo Tapes<END>
+      ". "
+<START:OBRA_REPRODUZIDA>Demo Tapes<END>
+      " ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.
+--DOCSTART--
+    
+
+     <START:OBRA_PLANO>Tratado de Lisboa<END>
+      (
+      <START:TEMPO_TEMPO_CALEND>2007<END>
+      )
+    
+    
+
+      O
+      <START:OBRA_PLANO>Tratado de Lisboa<END> 
+      ou
+      <START:OBRA_PLANO>Tratado de Reforma<END>
+      , é o acordo ratificado pelo
+       <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> da<START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> 
+      em
+      <START:LOCAL_HUMANO>Lisboa<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>a 19 de Outubro de 2007<END>
+      , e que substitui a
+        <START:OBRA_PLANO>Constituição<END>
+        europeia
+      <START:TEMPO_TEMPO_CALEND>de 2004<END>
+      .
+[1]
+    
+    
+
+      O
+      <START:OBRA_PLANO>Tratado de Lisboa<END> 
+      confere à
+      <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END>
+      , personalidade jurídica própria para assinar acordos internacionais a nível comunitário.
+O termo «
+      <START:ABSTRACCAO_NOME>Comunidade<END>
+      » será substituído por «
+      <START:ABSTRACCAO_NOME>União<END>
+      », nomeia o  <START:PESSOA_CARGO>Alto Representante para a Política Exterior e de Segurança Comum<END> da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> e estabelece a aplicação formal da dupla maioria
+      <START:TEMPO_TEMPO_CALEND>a partir de 2014<END>
+      .
+História
+    
+
+      A emenda proposta pela <START:PESSOA_GRUPOCARGO>Presidência<END> alemã do  <START:ORGANIZACAO_ADMINISTRACAO>Conselho<END> da <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> 
+      (
+      <START:TEMPO_TEMPO_CALEND>2007<END>
+      )
+      <START:TEMPO_TEMPO_CALEND>a 19 de Maio de 2007<END>
+      incluiu a "essência da
+      <START:OBRA_PLANO>Constituição<END>
+      ".
+A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos
+      <START:VALOR_QUANTIDADE>27<END>
+      estados membros
+      <START:TEMPO_TEMPO_CALEND>durante o primeiro semestre de 2007<END>
+      .
+Decidiu-se abandonar o formato do  '
+      Tratado constitucional
+      '  e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados
+      actualmente em vigor, o <START:OBRA_PLANO>Tratado da União Europeia<END>
+      e o <START:OBRA_PLANO>Tratado da Comunidade Europeia<END>
+      , que passaria a chamar-se 
+      Tratado sobre o funcionamento da União 
+      .
+<START:ORGANIZACAO_ADMINISTRACAO>Portugal<END>
+      , que assumiu a presidência da
+      <START:ORGANIZACAO_ADMINISTRACAO>UE<END>
+      <START:TEMPO_TEMPO_CALEND>durante o segundo semestre de 2007<END>
+      , lançou uma conferência intergovernamental (
+      <START:ACONTECIMENTO_ORGANIZADO>CIG<END>
+      )
+      <START:TEMPO_TEMPO_CALEND>nos dias 23<END> e <START:TEMPO_TEMPO_CALEND>24 de Julho<END>
+      , para acabar a redação do texto, coincidindo com a reunião de
+      <START:PESSOA_GRUPOCARGO>ministros dos Negócios Estrangeiros<END>
+      .
+O novo
+      <START:OBRA_PLANO>Tratado<END>
+      foi apresentado na cimeira
+      <START:TEMPO_TEMPO_CALEND>de 18 de Outubro<END>
+      , em
+      <START:LOCAL_HUMANO>Lisboa<END>
+      , tendo sido assinado pelos representantes dos vários governos
+      <START:TEMPO_TEMPO_CALEND>no dia 13 de Dezembro de 2007<END>
+      , no
+      <START:LOCAL_HUMANO>Mosteiro dos Jerónimos<END>
+      .
+Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor
+      <START:TEMPO_TEMPO_CALEND>em 2009<END>
+      .
+--DOCSTART--
+    
+
+      <START:LOCAL_HUMANO>Amazonas<END>
+      - <START:PESSOA_GRUPOMEMBRO>Índios<END> querem sobrenomes característicos da etnia
+    
+    
+
+      HOME PAGE
+      <START:LOCAL_VIRTUAL>RONDONIA AO VIVO<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>24.12.2007<END>
+    
+    
+
+      <START:PESSOA_GRUPOMEMBRO>Índios<END> do
+      <START:LOCAL_HUMANO>Amazonas<END>
+      reivindicam o direito de registrar os filhos de forma organizada, respeitosa e com os sobrenomes que caracterizam suas etnias.
+Os pontos foram apontados pelos indígenas na reunião de encerramento da primeira fase do
+       Projeto Registro Civil dos <START:PESSOA_GRUPOMEMBRO>Povos Indígenas<END> do <START:LOCAL_HUMANO>Amazonas<END>
+      , que aconteceu
+      <START:TEMPO_TEMPO_CALEND>na última semana<END>
+      em
+      <START:LOCAL_HUMANO>Manaus<END>
+      .
+De acordo com o projeto, iniciado
+      <START:TEMPO_TEMPO_CALEND>em setembro de 2007<END>
+      ,
+      <START:VALOR_QUANTIDADE>17<END>
+      líderes indígenas estiveram em
+      <START:VALOR_QUANTIDADE>44<END>
+      comunidades no
+      <START:LOCAL_HUMANO>Alto Rio Negro<END>
+      ,
+      <START:LOCAL_HUMANO>Alto e Médio Solimões<END>
+      ,
+      <START:LOCAL_HUMANO>Vale do Javari<END>
+      ,
+      <START:LOCAL_HUMANO>Purus<END>
+      ,
+      <START:LOCAL_HUMANO>Juruá<END>
+      e
+      <START:LOCAL_HUMANO>Manaus<END>
+      para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório.
+O documento, será apresentado
+      <START:TEMPO_TEMPO_CALEND>em março de 2008<END>
+      e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas.
+Ao todo, foram
+      <START:VALOR_QUANTIDADE>mais de 1,4 mil<END>
+      questionários aplicados em
+      <START:VALOR_QUANTIDADE>325<END>
+      comunidades, o equivalente a
+      <START:VALOR_QUANTIDADE>43<END>
+      etnias visitadas.
+Fonte: Clipping da
+      
+        6ªCCR do MPF
+         
+      .
 --DOCSTART--
 
-Tabaco: <START:ORGANIZACAO_INSTITUICAO> Associação <END> lamenta exemplo de <START:PESSOA_CARGO> presidente da ASAE <END> 
-O <START:PESSOA_CARGO> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END>  ( <START:ORGANIZACAO_INSTITUICAO> CPPT <END> ) considerou <START:TEMPO_TEMPO_CALEND> hoje <END> «um exemplo lamentável» o facto de o <START:PESSOA_CARGO> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END>  ter sido fotografado a fumar num casino depois da entrada em vigor da lei do <START:OBRA_PLANO> Tabaco <END> .
-<START:PESSOA_INDIVIDUAL> António Nunes <END> , <START:PESSOA_CARGO> presidente da Autoridade de Segurança Alimentar e Económica <END>  ( <START:ORGANIZACAO_INSTITUICAO> ASAE <END> ), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo <START:PESSOA_GRUPOMEMBRO> Diário de Notícias <END> ( <START:PESSOA_GRUPOMEMBRO> DN <END> ) a fumar uma cigarrilha no  <START:LOCAL_HUMANO> Casino <END> do <START:LOCAL_HUMANO> Estoril <END> <START:TEMPO_TEMPO_CALEND> às 02.30 da manhã <END> <START:TEMPO_TEMPO_CALEND> do dia 01 de Janeiro <END> .
-Em explicações ao <START:ORGANIZACAO_EMPRESA> DN <END> , <START:PESSOA_INDIVIDUAL> António Nunes <END> considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.
-No entanto, um parecer da <START:ORGANIZACAO_INSTITUICAO> Direcção Geral de Saúde <END> a que a <START:ORGANIZACAO_EMPRESA> Lusa <END> teve acesso <START:TEMPO_TEMPO_CALEND> sexta-feira <END> indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».
-«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à <START:ORGANIZACAO_EMPRESA> Lusa <END> o <START:PESSOA_CARGO> presidente da Confederação Portuguesa para a Prevenção do Tabagismo <END> , <START:PESSOA_INDIVIDUAL> Luís Rebelo <END> .
-<START:PESSOA_INDIVIDUAL> Luís Rebelo <END> desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de <START:PESSOA_INDIVIDUAL> António Nunes <END> a «um automatismo» inconsciente.
-Sobre as dúvidas manifestadas pelo máximo responsável da <START:ORGANIZACAO_INSTITUICAO> ASAE <END> relativamente ao âmbito de aplicação da nova lei, <START:PESSOA_INDIVIDUAL> Luís Rebelo <END> considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.
-«Não pode haver dúvidas quanto à aplicação da lei sobretudo ao nível das entidades responsáveis pela sua fiscalização», disse.
-Sobre <START:TEMPO_GENERICO> os primeiros dias <END> da vigência da proibição de fumar em espaços de uso colectivo fechados, <START:PESSOA_INDIVIDUAL> Luís Rebelo <END> considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».
-A lei do <START:OBRA_PLANO> Tabaco <END> , que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor <START:TEMPO_TEMPO_CALEND> às 00:00 <END> <START:TEMPO_TEMPO_CALEND> do dia 01 de Janeiro <END> .
-A <START:ORGANIZACAO_EMPRESA> Lusa <END> tentou contactar o <START:PESSOA_CARGO> porta-voz da ASAE <END>  para obter esclarecimentos adicionais mas tal foi impossível <START:TEMPO_TEMPO_CALEND> até ao momento <END> .
+
+Escola lança quadrinhos em prol do meio ambiente
+
+
+Fonte: Press Release  (<START:TEMPO_TEMPO_CALEND>28/10/2003<END>)
+
+
+A <START:ACONTECIMENTO_ORGANIZADO>Expotec 2003<END>,  <START:ACONTECIMENTO_ORGANIZADO>Feira de Ciências e Cultura<END> da <START:ORGANIZACAO_INSTITUICAO>Escola Fortec<END>, reuniu <START:VALOR_QUANTIDADE>mais de 2000<END> pessoas na unidade 4, em <START:LOCAL_HUMANO>São Vicente<END> - Feira de Ciências e Cultura da Escola Fortec.
+Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina <START:ABSTRACCAO_DISCIPLINA>Noções básicas de Histórias em Quadrinhos<END>, da <START:ORGANIZACAO_INSTITUICAO>Associação dos Artistas - Música e Arte<END>.
+O evento contou com o lançamento do <START:OBRA_REPRODUZIDA>Zine Expotec 2003 - Meio Ambiente<END>, ilustrações e mascotes criados pelos alunos.
+Além da exposição, cada aluno criou sua mascote que virou camiseta.
+A oficina foi coordenada por <START:PESSOA_INDIVIDUAL>Fábio Tatsubô<END> com a monitoria de <START:PESSOA_INDIVIDUAL>André Prata<END>.
+Links Relacionados: <START:LOCAL_VIRTUAL>HQ Nacional<END>
+
+
+<START:ORGANIZACAO_EMPRESA>Editora Rocco<END> lança <START:OBRA_REPRODUZIDA>Mulheres Alteradas 5<END> (<START:TEMPO_TEMPO_CALEND>09/06/05<END>)
+
+
+Lançamento do mangá <START:OBRA_REPRODUZIDA>Fruits Basket<END> no <START:ACONTECIMENTO_ORGANIZADO>Anima Weekend<END> (<START:TEMPO_TEMPO_CALEND>07/04/05<END>)
+
+
+<START:PESSOA_GRUPOMEMBRO>Turma da Mônica<END> será estrela de campanha internacional de vacinação (<START:TEMPO_TEMPO_CALEND>30/03/05<END>)
+
+
+<START:COISA_CLASSE>HQs<END> de <START:PESSOA_INDIVIDUAL>Velta<END> disponíveis em CD-Rom (<START:TEMPO_TEMPO_CALEND>22/03/05<END>)
+
+
+Folclore brasileiro em estilo mangá (<START:TEMPO_TEMPO_CALEND>03/03/05<END>)
+
+
 --DOCSTART--
     
- COISAS DA SÁBADO  : A DIFERENÇA ENTRE O <START:COISA_CLASSE> JORNAL DE NOTÍCIAS <END> E O <START:COISA_CLASSE> DIÁRIO DE NOTÍCIAS <END>        
- <START:TEMPO_TEMPO_CALEND> No dia <END> em que a operação « <START:ACONTECIMENTO_EVENTO> Noite Branca <END> » começou a prender suspeitos de serem responsáveis pelo clima de violência no <START:LOCAL_HUMANO> Porto <END> , a comparação entre um jornal de <START:LOCAL_HUMANO> Lisboa <END> , o <START:OBRA_REPRODUZIDA> Diário de Notícias <END> , e um do <START:LOCAL_HUMANO> Porto <END> , o <START:OBRA_REPRODUZIDA> Jornal de Notícias <END> , <START:TEMPO_TEMPO_CALEND> no mesmo dia 17 de Dezembro <END> , não podia ser mais significativa.
-O  Diário de Notícias  falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do <START:ORGANIZACAO_INSTITUICAO> FCP <END> , os <START:PESSOA_GRUPOMEMBRO> Super Dragões <END> .
-Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
-Onde eles apareciam era à frente da claque em filmes (a <START:ORGANIZACAO_EMPRESA> SIC <END> mostrou-os) e em fotos de segurança aos dirigentes do clube.
-No <START:LOCAL_VIRTUAL> Jornal de Notícias <END> tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
-De facto, o <START:OBRA_REPRODUZIDA> Jornal de Notícias <END> parece ser um jornal do <START:LOCAL_HUMANO> Casaquistão <END> tal é a ignorância do que se passa à sua volta.
-Mas não é, é mesmo do <START:LOCAL_HUMANO> Porto <END> e esse é que é o problema: é do <START:LOCAL_HUMANO> Porto <END> e cala.
+<START:PESSOA_GRUPOMEMBRO>Superflex<END> lança cerveja "pública"
+    
+<START:TEMPO_TEMPO_CALEND>29 de Novembro de 2007<END>
+    
+Matéria publicada originalmente na <START:LOCAL_VIRTUAL>Folha<END> online
+    
+<START:PESSOA_INDIVIDUAL>FABIO CYPRIANO<END> DA
+    
+<START:PESSOA_GRUPOMEMBRO>REPORTAGEM LOCAL<END>
+    
+Uma nova marca de cerveja é lançada, <START:TEMPO_TEMPO_CALEND>hoje<END>, na galeria <START:LOCAL_HUMANO>Vermelho<END>: a <START:COISA_CLASSE>Free Beer<END>.
+Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da <START:COISA_CLASSE>Free Beer<END> está estampada sua receita.
+A <START:ABSTRACCAO_DISCIPLINA>Free Beer<END> é a nova ação do coletivo dinamarquês <START:PESSOA_GRUPOMEMBRO>Superflex<END>, composto por <START:PESSOA_INDIVIDUAL>Bjornstjerne Reuter Christiansen<END>, <START:PESSOA_INDIVIDUAL>Jakob Fenger<END> e <START:PESSOA_INDIVIDUAL>Rasmus Nielsen<END>.
+<START:TEMPO_TEMPO_CALEND>No ano passado<END>, o grupo trouxe polêmica à  <START:ACONTECIMENTO_ORGANIZADO>27ª Bienal<END> de <START:LOCAL_HUMANO>São Paulo<END> com o <START:COISA_CLASSE>Guaraná Power<END>, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte.
+Apesar do veto, o <START:COISA_CLASSE>Guaraná Power<END>, feito em colaboração com a  <START:ORGANIZACAO_INSTITUICAO>Cooperativa de Agricultores<END> da <START:LOCAL_HUMANO>Região de Maués<END>, na <START:LOCAL_HUMANO>Amazônia<END>, chegou a ser distribuído em museus e na própria <START:LOCAL_HUMANO>Vermelho<END>, durante a <START:ACONTECIMENTO_ORGANIZADO>Bienal<END>.
+"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado", conta <START:PESSOA_INDIVIDUAL>Fenger<END>.
+"Free software"
+    
+A <START:COISA_CLASSE>Free Beer<END> surgiu <START:TEMPO_TEMPO_CALEND>em 2004<END>, numa parceria com estudantes da  <START:ORGANIZACAO_INSTITUICAO>Universidade<END> de <START:LOCAL_HUMANO>Copenhague<END>.
+"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo", conta <START:PESSOA_INDIVIDUAL>Nielsen<END>.
+"Por isso, a <START:ABSTRACCAO_IDEIA>Free Beer<END> tem sido comparada ao <START:ABSTRACCAO_IDEIA>Linux<END> [sistema operacional gratuito] e à <START:ABSTRACCAO_IDEIA>Wikipedia<END>", diz o artista.
+Quem quiser produzir e comercializar a <START:COISA_CLASSE>Free Beer<END> pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita.
+"Já há <START:COISA_CLASSE>Free Beer<END> sendo produzida na <START:LOCAL_HUMANO>Inglaterra<END>, nos <START:LOCAL_HUMANO>Estados Unidos<END>, na <START:LOCAL_HUMANO>Dinamarca<END> e até na <START:LOCAL_HUMANO>República Tcheca<END>", afirma <START:PESSOA_INDIVIDUAL>Fenger<END>.
+No <START:LOCAL_HUMANO>Brasil<END>, a <START:COISA_CLASSE>Free Beer<END> está sendo produzida pela <START:ORGANIZACAO_EMPRESA>Cervejaria Germânia<END>, que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.
+"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do <START:ORGANIZACAO_INSTITUICAO>Creative Commons<END>", diz <START:PESSOA_INDIVIDUAL>Christiansen<END>.
+Na <START:LOCAL_HUMANO>Vermelho<END>, o <START:PESSOA_GRUPOMEMBRO>Superflex<END> apresenta o "<START:COISA_CLASSE>Free Beer Kit<END>", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop "<START:ACONTECIMENTO_EVENTO>O Mundo da Cerveja<END>", com os especialistas <START:PESSOA_INDIVIDUAL>Cilene Saorin<END> e <START:PESSOA_INDIVIDUAL>Arnaldo Ribeiro<END>, <START:TEMPO_TEMPO_CALEND>no próximo dia 15 de dezembro<END>, <START:TEMPO_TEMPO_CALEND>às 14 h<END>.
+O grupo exibe também nove máquinas "<START:COISA_CLASSE>Counter-Game Strategies<END>" (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria.
+"<START:PESSOA_INDIVIDUAL>Mark Getty<END> afirma que "a propriedade intelectual é o petróleo <START:TEMPO_GENERICO>do século 21<END>'", conta <START:PESSOA_INDIVIDUAL>Christiansen<END>, "portanto, estamos tratando de um tema muito sério.
+Afinal, quantas guerras não foram realizadas por conta do petróleo?".
+<START:TEMPO_TEMPO_CALEND>No próximo sábado<END>, <START:TEMPO_TEMPO_CALEND>às 16h<END>, <START:PESSOA_INDIVIDUAL>Ronaldo Lemos<END>, <START:PESSOA_CARGO>diretor do Creative Commons<END>  no <START:LOCAL_HUMANO>Brasil<END>, irá participar de um debate com os membros do <START:PESSOA_GRUPOMEMBRO>Superflex<END>, na <START:LOCAL_HUMANO>Vermelho<END>, e logo após será realizada uma gincana intitulada "<START:ABSTRACCAO_NOME>Free Beer Pub Quiz<END>", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.
 --DOCSTART--
     
-     <START:OBRA_PLANO> Tratado de Lisboa <END> ( <START:TEMPO_TEMPO_CALEND> 2007 <END> )        
- O <START:OBRA_PLANO> Tratado de Lisboa <END>  ou <START:OBRA_PLANO> Tratado de Reforma <END> , é o acordo ratificado pelo  <START:ORGANIZACAO_ADMINISTRACAO> Conselho <END> da <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END>  em <START:LOCAL_HUMANO> Lisboa <END> , <START:TEMPO_TEMPO_CALEND> a 19 de Outubro de 2007 <END> , e que substitui a   <START:OBRA_PLANO> Constituição <END>   europeia <START:TEMPO_TEMPO_CALEND> de 2004 <END> .
-[1]        
- O <START:OBRA_PLANO> Tratado de Lisboa <END>  confere à <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> , personalidade jurídica própria para assinar acordos internacionais a nível comunitário.
-O termo « <START:ABSTRACCAO_NOME> Comunidade <END> » será substituído por « <START:ABSTRACCAO_NOME> União <END> », nomeia o  <START:PESSOA_CARGO> Alto Representante para a Política Exterior e de Segurança Comum <END> da <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END> e estabelece a aplicação formal da dupla maioria <START:TEMPO_TEMPO_CALEND> a partir de 2014 <END> .
-História    
- A emenda proposta pela <START:PESSOA_GRUPOCARGO> Presidência <END> alemã do  <START:ORGANIZACAO_ADMINISTRACAO> Conselho <END> da <START:ORGANIZACAO_ADMINISTRACAO> União Europeia <END>  ( <START:TEMPO_TEMPO_CALEND> 2007 <END> ) <START:TEMPO_TEMPO_CALEND> a 19 de Maio de 2007 <END> incluiu a "essência da <START:OBRA_PLANO> Constituição <END> ".
-A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos <START:VALOR_QUANTIDADE> 27 <END> estados membros <START:TEMPO_TEMPO_CALEND> durante o primeiro semestre de 2007 <END> .
-Decidiu-se abandonar o formato do  ' Tratado constitucional '  e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados actualmente em vigor, o <START:OBRA_PLANO> Tratado da União Europeia <END> e o <START:OBRA_PLANO> Tratado da Comunidade Europeia <END> , que passaria a chamar-se  Tratado sobre o funcionamento da União  .
-<START:ORGANIZACAO_ADMINISTRACAO> Portugal <END> , que assumiu a presidência da <START:ORGANIZACAO_ADMINISTRACAO> UE <END> <START:TEMPO_TEMPO_CALEND> durante o segundo semestre de 2007 <END> , lançou uma conferência intergovernamental ( <START:ACONTECIMENTO_ORGANIZADO> CIG <END> ) <START:TEMPO_TEMPO_CALEND> nos dias 23 <END> e <START:TEMPO_TEMPO_CALEND> 24 de Julho <END> , para acabar a redação do texto, coincidindo com a reunião de <START:PESSOA_GRUPOCARGO> ministros dos Negócios Estrangeiros <END> .
-O novo <START:OBRA_PLANO> Tratado <END> foi apresentado na cimeira <START:TEMPO_TEMPO_CALEND> de 18 de Outubro <END> , em <START:LOCAL_HUMANO> Lisboa <END> , tendo sido assinado pelos representantes dos vários governos <START:TEMPO_TEMPO_CALEND> no dia 13 de Dezembro de 2007 <END> , no <START:LOCAL_HUMANO> Mosteiro dos Jerónimos <END> .
-Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor <START:TEMPO_TEMPO_CALEND> em 2009 <END> .
+
+      História protege
+      <START:PESSOA_GRUPOMEMBRO>Briosa<END>
+    
+    
+
+      CONIMBRICENSES VENCEU NA
+      <START:LOCAL_HUMANO>FIGUEIRA DA FOZ<END>
+      NAS DUAS ÚLTIMAS ÉPOCAS
+    
+    
+
+      <START:ORGANIZACAO_INSTITUICAO>Naval<END>
+      e
+      <START:ORGANIZACAO_INSTITUICAO>Académica<END>
+      não podem deixar
+      <START:TEMPO_TEMPO_CALEND>amanhã<END>
+      de olhar para a tradição.
+É que a
+      <START:PESSOA_GRUPOMEMBRO>Briosa<END>
+      venceu sempre na
+      <START:LOCAL_HUMANO>Figueira da Foz<END>
+      (
+      <START:TEMPO_TEMPO_CALEND>2005/06<END>
+      :
+      <START:VALOR_CLASSIFICACAO>1-0<END>
+      e
+      <START:TEMPO_TEMPO_CALEND>2006/07<END>
+      :
+      <START:VALOR_CLASSIFICACAO>1-0<END>
+      ) mas, por outro lado, a
+      <START:PESSOA_GRUPOMEMBRO>Naval<END>
+      também costuma brilhar em
+      <START:LOCAL_HUMANO>Coimbra<END>
+      --
+      <START:TEMPO_TEMPO_CALEND>2005/06<END>
+      :
+      <START:VALOR_CLASSIFICACAO>2-2<END>
+      e
+      <START:TEMPO_TEMPO_CALEND>2006/07<END>
+      :
+      <START:VALOR_CLASSIFICACAO>2-1<END>
+      ) e,
+      <START:TEMPO_TEMPO_CALEND>neste momento<END>
+      , até está mais bem posicionada na
+      <START:ACONTECIMENTO_ORGANIZADO>Liga<END>
+      .
+<START:TEMPO_TEMPO_CALEND>No ano passado<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Joeano<END>
+      marcou o golo do triunfo na
+      <START:LOCAL_HUMANO>Figueira da Foz<END>
+      , mas
+      <START:PESSOA_INDIVIDUAL>Domingos<END>
+      desvaloriza tudo isso.
+«A história nem sempre se repete e não há jogos iguais.
+Aliás, a
+      <START:PESSOA_GRUPOMEMBRO>Naval<END>
+      fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na
+      <START:LOCAL_HUMANO>Figueira da Foz<END>
+      , «mais adeptos da
+      <START:PESSOA_GRUPOMEMBRO>Académica<END>
+      do que da
+      <START:PESSOA_GRUPOMEMBRO>Naval<END>
+      ».
 --DOCSTART--
     
- <START:LOCAL_HUMANO> Amazonas <END> - <START:PESSOA_GRUPOMEMBRO> Índios <END> querem sobrenomes característicos da etnia        
- HOME PAGE <START:LOCAL_VIRTUAL> RONDONIA AO VIVO <END> , <START:TEMPO_TEMPO_CALEND> 24.12.2007 <END>        
- <START:PESSOA_GRUPOMEMBRO> Índios <END> do <START:LOCAL_HUMANO> Amazonas <END> reivindicam o direito de registrar os filhos de forma organizada, respeitosa e com os sobrenomes que caracterizam suas etnias.
-Os pontos foram apontados pelos indígenas na reunião de encerramento da primeira fase do  Projeto Registro Civil dos <START:PESSOA_GRUPOMEMBRO> Povos Indígenas <END> do <START:LOCAL_HUMANO> Amazonas <END> , que aconteceu <START:TEMPO_TEMPO_CALEND> na última semana <END> em <START:LOCAL_HUMANO> Manaus <END> .
-De acordo com o projeto, iniciado <START:TEMPO_TEMPO_CALEND> em setembro de 2007 <END> , <START:VALOR_QUANTIDADE> 17 <END> líderes indígenas estiveram em <START:VALOR_QUANTIDADE> 44 <END> comunidades no <START:LOCAL_HUMANO> Alto Rio Negro <END> , <START:LOCAL_HUMANO> Alto e Médio Solimões <END> , <START:LOCAL_HUMANO> Vale do Javari <END> , <START:LOCAL_HUMANO> Purus <END> , <START:LOCAL_HUMANO> Juruá <END> e <START:LOCAL_HUMANO> Manaus <END> para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório.
-O documento, será apresentado <START:TEMPO_TEMPO_CALEND> em março de 2008 <END> e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas.
-Ao todo, foram <START:VALOR_QUANTIDADE> mais de 1,4 mil <END> questionários aplicados em <START:VALOR_QUANTIDADE> 325 <END> comunidades, o equivalente a <START:VALOR_QUANTIDADE> 43 <END> etnias visitadas.
-Fonte: Clipping da    6ªCCR do MPF     .
+
+      <START:PESSOA_INDIVIDUAL>Cavaco<END>
+      começa
+      <START:TEMPO_GENERICO>ano<END>
+      com recados de maior exigência ao
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+    
+    
+
+      O
+      <START:PESSOA_CARGO>Presidente da República<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Aníbal Cavaco Silva<END>
+      , vai deixar uma série de recados ao
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      nas palavras que vai dirigir ao país
+      <START:TEMPO_TEMPO_CALEND>no primeiro dia do ano<END>
+      .
+A notícia faz manchete na edição
+      <START:TEMPO_TEMPO_CALEND>desta terça-feira<END>
+      do
+      <START:LOCAL_VIRTUAL>Jornal de Notícias<END>
+      , com o diário portuense a assegurar que
+      <START:PESSOA_INDIVIDUAL>Cavaco<END>
+      prepara, para a sua primeira comunicação
+      <START:TEMPO_TEMPO_CALEND>em 2008<END>
+      ao
+      <START:PESSOA_POVO>País<END>
+      , um discurso com menos optimismo do que o transmitido por
+      <START:PESSOA_INDIVIDUAL>Sócrates<END>
+      mensagem
+      <START:TEMPO_GENERICO>de Natal<END>
+      .
+Afirmando esperar
+      <START:TEMPO_GENERICO>um ano de 2008<END>
+      mais exigente do que
+      <START:TEMPO_TEMPO_CALEND>2007<END>
+      , o
+      <START:PESSOA_CARGO>Presidente da República<END>
+      promete,
+      <START:TEMPO_TEMPO_CALEND>ao longo do próximo ano<END>
+      , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho.
+Segundo o
+      JN 
+      ,
+
+      
+        Cavaco silva
+        
+      vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu
+      <START:TEMPO_TEMPO_CALEND>no ano passado<END>
+      ao
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      , para as áreas da economia, educação e justiça
+    
+  
+
 --DOCSTART--
     
- Preço do barril de crude chegou ao nível histórico de <START:VALOR_MOEDA> 100 dólares <END>        
- <START:TEMPO_TEMPO_CALEND> 03.01.2008 <END> - <START:TEMPO_TEMPO_CALEND> 08h46 <END>        
- Por <START:PESSOA_INDIVIDUAL> Lurdes Ferreira <END>        
- <START:TEMPO_TEMPO_CALEND> Às 17h30 <END> <START:TEMPO_TEMPO_CALEND> de ontem <END> em <START:LOCAL_HUMANO> Lisboa <END> , a vaga especulativa do mercado do petróleo convergiu com as previsões <START:TEMPO_TEMPO_CALEND> dos últimos meses <END> que davam como certa a chegada do preço do crude aos <START:VALOR_MOEDA> 100 dólares <END> .
-As projecções tornaram-se realidade, <START:TEMPO_TEMPO_CALEND> ao fim de um ano <END> em que o preço desta matéria subiu <START:VALOR_QUANTIDADE> 58 por cento <END> e que foi também o maior aumento anual <START:TEMPO_TEMPO_CALEND> da última década <END> .
-O recorde histórico verificou-se na bolsa mercantil de <START:LOCAL_HUMANO> Nova Iorque <END> , com a transacção do crude de tipo leve, de referência para o mercado dos <START:LOCAL_HUMANO> EUA <END> , com entrega <START:TEMPO_TEMPO_CALEND> para Fevereiro <END> , a pular mais de três dólares numa só sessão e a bater na marca histórica dos <START:VALOR_MOEDA> 100 dólares <END> .
-Baixou pouco depois para os <START:VALOR_MOEDA> 99,17 dólares <END> .
-Em <START:LOCAL_HUMANO> Londres <END> , o    <START:COISA_CLASSE> Brent do Mar do Norte <END>    , também com entrega <START:TEMPO_TEMPO_CALEND> para Fevereiro <END> , subiu igualmente mais de três dólares e passou pela primeira vez o patamar dos <START:VALOR_MOEDA> 97 dólares <END> .
-O novo máximo histórico ficou em <START:VALOR_MOEDA> 97,74 dólares <END> .
-A onda de violência na <START:LOCAL_HUMANO> Nigéria <END> e a instabilidade no <START:LOCAL_HUMANO> Paquistão <END> são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude <START:TEMPO_TEMPO_CALEND> nos últimos anos <END> .
-Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista ( <START:PESSOA_POVO> China <END> , que já é o segundo maior consumidor do mundo, e a <START:PESSOA_POVO> Índia <END> ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a <START:ORGANIZACAO_ADMINISTRACAO> OPEP <END> , em aumentar significativamente a sua produção.
-Outras são conjunturais: temperaturas frias do pico <START:TEMPO_GENERICO> do Inverno <END> ; e a descida das reservas dos <START:LOCAL_HUMANO> EUA <END> , o maior mercado consumidor do mundo.
-Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.
-"Vamos aqui ficar [no patamar dos <START:VALOR_MOEDA> 100 dólares <END> ], enquanto houver um desequilíbrio entre a oferta e a procura", afirmou à <START:PESSOA_GRUPOMEMBRO> France Presse <END> o analista do mercado de capitais da <START:ORGANIZACAO_EMPRESA> BMO <END> , <START:PESSOA_INDIVIDUAL> Bart Melek <END> .
-Para este desequilíbrio contribui agora a nova vaga de violência da <START:LOCAL_HUMANO> Nigéria <END> , país que <START:TEMPO_TEMPO_CALEND> nos últimos anos <END> já perdeu <START:VALOR_QUANTIDADE> 25 por cento <END> da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos <START:LOCAL_HUMANO> EUA <END> .
-Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de <START:VALOR_QUANTIDADE> 12 <END> pessoas <START:TEMPO_TEMPO_CALEND> na passagem de ano <END> , é agora superior ao que foi <START:TEMPO_TEMPO_CALEND> nos últimos meses <END> .
-E contribui também a situação geopolítica no <START:LOCAL_HUMANO> Paquistão <END> , <START:TEMPO_TEMPO_CALEND> uma semana depois <END> do assassinado de <START:PESSOA_INDIVIDUAL> Benazir Bhuto <END> - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.
-A situação destes dois países "provocou o regresso de muito capital especulativo ao mercado", segundo o <START:PESSOA_CARGO> presidente da Ritterbusch &amp; Associates <END>  , <START:PESSOA_INDIVIDUAL> Jim Ritterbusch <END> , citado pela <START:LOCAL_VIRTUAL> Reuters <END> .
-Mas estes não são os únicos dois países em turbulência geopolítica.
-É também o <START:LOCAL_HUMANO> Quénia <END> , "ao lado da <START:LOCAL_HUMANO> Nigéria <END> , que se incendeia", diz <START:PESSOA_INDIVIDUAL> Moncef Kaabi <END> , da <START:ORGANIZACAO_EMPRESA> Natixis <END> , é também a <START:LOCAL_HUMANO> Turquia <END> , com as operações contra os separatistas curdos no <START:LOCAL_HUMANO> Norte <END> , justificando que mercados como o do petróleo "traduzem a inquietação e a incerteza dos investidores".
-Por outro lado, os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> deverão anunciar ainda <START:TEMPO_TEMPO_CALEND> hoje <END> a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, <START:TEMPO_FREQUENCIA> pela sétima semana consecutiva <END> , desta vez em <START:VALOR_QUANTIDADE> 1,8 milhões <END> de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da  Reuters  .
-O preço actual do petróleo ficou agora mais próximo do pico de <START:VALOR_MOEDA> 100 dólares <END> <START:TEMPO_TEMPO_CALEND> de 1980 <END> provocado pela guerra entre o <START:ORGANIZACAO_ADMINISTRACAO> Irão <END> e o <START:ORGANIZACAO_ADMINISTRACAO> Iraque <END> , dois países-membros da <START:ORGANIZACAO_INSTITUICAO> OPEP <END> .
-O preço de então ajustado à inflação representa <START:TEMPO_TEMPO_CALEND> hoje <END> <START:VALOR_MOEDA> 101,7 dólares <END> .
-A convicção dominante no mercado, a avaliar pelos analistas contactados pela <START:PESSOA_MEMBRO> Reuters <END> , é a de que o preço desta matéria-prima continuará provavelmente a subir <START:TEMPO_TEMPO_CALEND> nos próximos cinco anos <END> , a não ser que o crescimento económico abrande e abrande também a procura de combustível.
-A pressão para a subida de preços que se verifica <START:TEMPO_TEMPO_CALEND> desde 2002 <END> continua a ter condições para manter o ritmo: algumas regiões fora da <START:ORGANIZACAO_INSTITUICAO> OPEP <END> , nomeadamente o mar do  <START:LOCAL_FISICO> Norte <END> , têm a sua produção em declínio, a <START:ORGANIZACAO_ADMINISTRACAO> China <END> mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.
-Para analistas como <START:PESSOA_INDIVIDUAL> Kris Voorspools <END> , da <START:ORGANIZACAO_EMPRESA> Fortis <END> , em <START:LOCAL_HUMANO> Bruxelas <END> , o "preço do petróleo pode continuar a subir", por se estar perante o "simples fundamento da oferta e da procura".
-Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por <START:PESSOA_INDIVIDUAL> Nauman Barakat <END> ,    <START:PESSOA_CARGO> vice-presidente da Macquarie Futures <END>    dos <START:LOCAL_HUMANO> EUA <END> .
+A MÚSICA É A MENSAGEM
+    
+
+      Por
+      <START:PESSOA_INDIVIDUAL>Hari Kunzru<END>
+    
+    
+
+      A relação do tecno com o binômio homem-máquina, no diálogo com
+      <START:PESSOA_INDIVIDUAL>Jeff Mills<END>
+      , o legendário produtor de tecno de
+      <START:LOCAL_HUMANO>Detroit<END>
+      nos leva a impressionantes insights do impacto que a terceira onda tem causado na paisagem contemporânea.
+<START:LOCAL_HUMANO>Detroit<END>
+      , essa "cidade portátil", virtualizada na minimalista batida de um sequenciador automático, profetiza em sua música - que já nos deu a
+      <START:ORGANIZACAO_EMPRESA>Motown<END>
+      ,
+      <START:PESSOA_GRUPOMEMBRO>Stooges<END>
+      , e
+      <START:PESSOA_GRUPOMEMBRO>MC5<END>
+      - o zeitgeist
+      <START:TEMPO_TEMPO_CALEND>deste início de milênio<END>
+      .
+Uma Cidade Difícil
+    
+
+      <START:LOCAL_HUMANO>Detroit<END>
+      tem
+      <START:TEMPO_DURACAO>por longo tempo<END>
+      sido um lugar de referência na imaginação sônica.
+Com o fim da escravatura, ela se tornou, como
+      <START:LOCAL_HUMANO>Chicago<END>
+      , um das estações ferroviárias do êxodo negro na direção do norte.
+As ferrovias atuavam como artérias culturais, trasmitindo pessoas e formas culturais do profundo sul de
+      <START:LOCAL_HUMANO>New Orleans<END>
+      e o rural
+      <START:LOCAL_HUMANO>Delta do Mississipi<END>
+      , pelo centro-oeste e para o iluminado mundo novo urbano dos
+      <START:LOCAL_FISICO>Grandes Lagos<END>
+      .
+No processo o som acústico do
+      
+        <START:ABSTRACCAO_DISCIPLINA>Blues<END> do
+        <START:LOCAL_FISICO>Delta<END>
+      
+      foi exposto ao ruído das linhas de produção industrial, e se transmutou no boogie de trem a vapor, de chão de fábrica do
+      <START:ABSTRACCAO_DISCIPLINA>Rythm'n'Blues<END>
+      elétrico.
+O
+      
+        <START:ABSTRACCAO_DISCIPLINA>Blues<END>
+        de
+        <START:LOCAL_HUMANO>Basin Street<END>
+      
+      vira a
+      <START:ABSTRACCAO_DISCIPLINA>Pegada da Cidade Motor<END>
+      (
+      <START:ABSTRACCAO_DISCIPLINA>Motor City Stomp<END>
+      ).
+Quando do boom
+      <START:TEMPO_TEMPO_CALEND>dos anos sessenta<END>
+      ,
+      <START:LOCAL_HUMANO>Detroit<END>
+      era sinônimo das esperançosas ficções-soul
+      <START:TEMPO_DURACAO>de três minutos<END>
+      da
+      <START:ORGANIZACAO_EMPRESA>Motown<END>
+      , um selo cuja ética produtivista e apelo de mercado massificado foi sempre um irônico espelho da cultura da
+      <START:ORGANIZACAO_EMPRESA>Ford<END>
+      e da
+      <START:ORGANIZACAO_EMPRESA>General Motors<END>
+      que dominava as vidas de seu jovem público negro.
+O povo da
+      <START:ORGANIZACAO_EMPRESA>Motown<END>
+      deu seus primeiros passos dançando nas ruas, mas, à medida que
+      <START:TEMPO_GENERICO>os 70<END>
+      iam passando, eles foram gradualmente reduzidos a viver só para a cidade.
+<START:TEMPO_TEMPO_CALEND>Durante os desolados anos Reagan<END> 
+      ,
+      <START:LOCAL_HUMANO>Detroit<END>
+      parecia uma zona morta, um símbolo do fim da velha ordem industrial.
+Mas
+      <START:TEMPO_TEMPO_CALEND>pelo começo dos noventa<END>
+      a decadente cidade, tendo absorvido o trauma da crise do petróleo e a recessão mundial, reinventou-se como o imaginário e sombrio coração de uma nova cultura urbana global.
+O tecno de
+      <START:LOCAL_HUMANO>Detroit<END>
+      é o som da cidade.
+Não das pessoas da cidade, mas da própria cidade.
+Os humanos, se eles ainda estão vivos mesmo, foram totalmente cooptados pela máquina urbana, absorvidos em seus processos, seus corpos disciplinados pelos ritmos implacáveis dela.
+Não é exagero dizer que este estilo, com seus frios tons sintéticos e batidas rápidas e rígidas de quatro-por-quatro teve provavelmente mais influencia no tipo de música que soa pelo mundo do que qualquer outro gênero desde o
+      <START:ABSTRACCAO_DISCIPLINA>Blues<END>
+      .
+Transmissões do Futuro:
+    
+
+      A síntese de
+      <START:ABSTRACCAO_IDEIA>Detroit<END>
+      de grooves de trance funk e futurismo disco europeu foi realizada por um surpreendentemente pequeno círculo de produtores, que começaram seus experimentos
+      <START:TEMPO_TEMPO_CALEND>em meados dos 80<END>
+      .
+As estórias de
+      <START:PESSOA_GRUPOMEMBRO>Cybotron<END>
+      ,
+      <START:PESSOA_GRUPOMEMBRO>Model 500<END>
+      e a transição da disco para o eletro-funk para o tecno foram muito bem contadas em outras paragens por escritores como
+      <START:PESSOA_INDIVIDUAL>Matthew Collin<END>
+      (
+      <START:OBRA_REPRODUZIDA>Altered State<END>
+      ) e
+      <START:PESSOA_INDIVIDUAL>Kodwo Eshun<END>
+      (
+      <START:OBRA_REPRODUZIDA>More Brilliant Than The Sun: Adventures In Sonic Fiction<END>
+      ).
+Um dos pioneiros foi
+      <START:PESSOA_INDIVIDUAL>Jeff Mills<END>
+      , que, como produtor e DJ, tem semeado o som de
+      <START:LOCAL_HUMANO>Durban<END>
+      a
+      <START:LOCAL_HUMANO>Tóquio<END>
+      , e a ele não se deveria atribuir pouca responsabilidade pelo fato de que seres urbanos de todo o mundo agora vivam numa paisagem midiática onde enxutas batidas eletrônicas servem como trilha sonora para tudo, desde idas ao shopping e suas experiências com drogas, a noites em casa em frente da tv.
+<START:PESSOA_INDIVIDUAL>Mills<END>
+      é um homem calmo, um tipo parecido com um pássaro, com uma cara ossuda e longos dedos.
+Quando está na cabine ele usa três picapes, <START:TEMPO_FREQUENCIA>raramente<END> tocando um vinil
+      <START:TEMPO_DURACAO>por mais de um minuto<END>
+      , e
+      <START:TEMPO_FREQUENCIA>frequentemente<END>
+      abrindo todos os três canais ao mesmo tempo; filtrando o som, logo uma picape toca a linha de baixo, o segundo a linha do meio e o terceiro a linha principal.
+Seu envolvimento com as máquinas é tão intenso, tão concentrado que, como ele se lança do mixer para a picape,
+      <START:PESSOA_INDIVIDUAL>Mills<END> o DJ
+      parece evidentemente um componente de uma assemblage homem-máquina, um sistema que inclui público,
+      <START:COISA_CLASSE>PA<END>
+      , o aparato completo da produção de vinis, e o
+      <START:COISA_CLASSE>Stylus<END>
+      de cartucho, cuja sensibilidade ele aprimorou de forma que o cartucho produza um triplo zumbido raivoso e metálico.
+Não é surpreendente que quando
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      descreve a experiencia de fazer música num estúdio, ele está preocupado com a frustração que sente quando "a mensagem" (para
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      música é sempre "a mensagem", ou "comunicação") é perdida ou degradada na transmissão da mente para o
+      <START:COISA_CLASSE>DAT<END>
+      .
+"O produtor tem de transferir o que ele está pensando para suas mãos e então para a máquina," ele explica.
+"Quanto melhor o produtor, mais clara será a imagem.
+É uma tradução de minhas mãos para a máquina.
+E é aí normalmente onde ela [a máquina], se perde."
+De certa forma este é um sentimento padrão, um anseio expresso por todo artista desde que os românticos começaram a lamentar a lacuna entre a inspiração e o artefato.
+Mas o anseio de
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      por uma simbiose mais próxima com seus instrumentos deriva para um desejo pela cyborguização, pela integração física.
+"O que eu tenho esperança", ele diz, "é de que alguém crie um sequenciador que traduza o que você está pensando para um teclado ou gerador de som.
+Muitas idéias ficam perdidas porque não podemos fazer com que nossas máquinas realizem exatamente o que nós pensamos."
+Para uma cultura musical dominante que está acostumada a tratar álbuns como "obras", objetos invioláveis que contém algum tipo de essência artística, a concepção de
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      sobre música pode parecer estranha.
+"Depois que faz o álbum", ele diz, "você põe a idéia nas mãos do DJ e é ele quem decide remodelar essa mensagem no momento mais oportuno ou da melhor forma."
+Ele parece pensar a obra musical como processo, como fluxo de informação, abrindo um canal entre produtor e público dançante.
+A linguagem de mensagens, comunicações e comunicados oficiais e oficiosos de
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      é parte da teologia que guia o tecno de
+      <START:LOCAL_HUMANO>Detroit<END>
+      : a estória do circuito informacional que corre do futuro para o presente, do
+      <START:ABSTRACCAO_IDEIA>Claro Amanhã<END>
+      dos cruzadores pesados drexciyanos, de
+      <START:COISA_CLASSE>OVNIs<END>
+      ('você provavelmente verá um voando...') e dos anéis de
+      <START:COISA_OBJECTO>Saturno<END>
+      , diretamente de volta para as rôtas rotas
+      <START:TEMPO_TEMPO_CALEND>de hoje<END>
+      .
+É um circuito que canaliza energia através do corpo do produtor para seu estúdio, energia que posteriormente sai pelo
+      <START:COISA_CLASSE>PA<END>
+      e se distribui sobre a pista de dança.
+<START:ABSTRACCAO_IDEIA>Detroit<END>
+      mesma é uma picape satélite, coletando e amplificando o futuro-potencial, transmitindo-o perpassando carros enferrujados nas ruas da cidade...
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      : "Para mim, [minha música é] sobre fazer as pesoas sentirem que elas estão num tempo à frente deste tempo presente.
+Como se você estivesse ouvindo alguém falar numa língua que você não entende, ou se encontrasse numa vizinhança desconhecida.
+Isso quer dizer tirar você da sua base, deixando o ouvinte desarmado."
+Ao contrário de alguns outros produtores, o futuro criado por
+      <START:PESSOA_INDIVIDUAL>Mills<END>
+      não é um sonho em ficção científica de puro cromo.
+É um "verfremdungseffekt", a desorientação do potencial puro.
+O ataque das batidas de
+      <START:ABSTRACCAO_IDEIA>Detroit<END>
+      é apenas um assalto pra tirar as defesas, forçando os ouvintes a se abrirem para a mensagem.
+--DOCSTART--
+    
+TECNOLOGIA E TRADIÇÃO TRIBAL A SERVIÇO DA NATUREZA
+    
+<START:PESSOA_INDIVIDUAL>Deck Cowboy<END> (deckcowboy@riseup.net)
+    
+<START:LOCAL_HUMANO>NORDHOEK<END>, <START:LOCAL_HUMANO>África do Sul<END> - Com o olhar fixo na tela de seu laptop, <START:PESSOA_INDIVIDUAL>Louis Liebenberg<END> compara dois mapas da mesma região.
+Enquanto um deles está densamente preenchido por pontos amarelos, o outro está bem mais vazio.
+As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de <START:LOCAL_HUMANO>Lossi<END>, na <START:LOCAL_HUMANO>República Federativa do Congo<END>.
+Usando o <START:COISA_CLASSE>CyberTracker<END>, um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global (<START:COISA_CLASSE>GPS<END>), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie.
+Inicialmente céticos, os cientistas <START:TEMPO_TEMPO_CALEND>mais tarde<END> confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista <START:LOCAL_VIRTUAL>Science<END>.
+"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar", disse <START:PESSOA_INDIVIDUAL>Liebenberg<END>.
+Para ele, fundador sul-africano da <START:ORGANIZACAO_INSTITUICAO>CyberTracker Conservation<END>, as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.
+O <START:COISA_CLASSE>CyberTracker<END> é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de <START:COISA_SUBSTANCIA>DNA<END> e imagens de satélite para obter uma maior compreensão da natureza.
+<START:PESSOA_INDIVIDUAL>Liebenberg<END> teve a idéia de criar o sistema <START:COISA_CLASSE>CyberTracker<END> enquanto acompanhava caçadores bosquímanos no deserto do <START:LOCAL_FISICO>Kalahari<END>.
+Fascinado desde pequeno pela arte tribal de seguir rastros, <START:PESSOA_INDIVIDUAL>Liebenberg<END> desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência.
+Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.
+O que <START:TEMPO_GENERICO>um dia<END> foi necessário à sobrevivência, no entanto, é <START:TEMPO_GENERICO>hoje<END> uma prática em extinção.
+Atualmente, <START:PESSOA_INDIVIDUAL>Liebenberg<END> afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência.
+A maioria dos jovens das tribos da região <START:TEMPO_GENERICO>hoje<END> freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.
+Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar.
+<START:TEMPO_TEMPO_CALEND>Em 1996<END>, <START:PESSOA_INDIVIDUAL>Liebenberg<END> e o cientista da computação <START:PESSOA_INDIVIDUAL>Lindsey Steventon<END> lançaram o primeiro modelo do <START:COISA_CLASSE>CyberTracker<END>, com o objetivo de transformar o rastreamento tradicional numa profissão moderna.
+<START:TEMPO_TEMPO_CALEND>No mesmo ano<END>, os rastreadores <START:PESSOA_INDIVIDUAL>Karel Benadie<END> e <START:PESSOA_INDIVIDUAL>James Minye<END> usaram o <START:COISA_CLASSE>CyberTracker<END> para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no <START:LOCAL_HUMANO>Parque Nacional de Karoo<END> na <START:LOCAL_HUMANO>África do Sul<END>.
+Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina.
+<START:TEMPO_TEMPO_CALEND>Em 1999<END>, <START:PESSOA_INDIVIDUAL>Liebenberg<END>, <START:PESSOA_INDIVIDUAL>Steventon<END> e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica <START:LOCAL_VIRTUAL>Pachyderm<END>.
+"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência", disse <START:PESSOA_INDIVIDUAL>Liebenberg<END>.
+Mas não são apenas os rastreadores tribais que usam o <START:COISA_CLASSE>CyberTracker<END>.
+Estudantes e observadores de aves também aproveitam as vantagens do sistema.
+Ele já foi usado até por equipes de cientistas em expedições no <START:LOCAL_FISICO>Ártico<END>, no monitoramento de lobos no estado norte-americano de <START:LOCAL_HUMANO>Idaho<END>, da poluição dos rios na <START:LOCAL_HUMANO>Tanzânia<END> e do raríssimo rinoceronte de <START:LOCAL_HUMANO>Sumatra<END>, em <START:LOCAL_HUMANO>Bornéu<END>.
+O software pode ser personalizado, e é oferecido gratuitamente na <START:LOCAL_VIRTUAL>Web<END>.
+<START:VALOR_QUANTIDADE>Cerca de 400<END> projetos em <START:VALOR_QUANTIDADE>30<END> países estão usando o sistema, afirma <START:PESSOA_INDIVIDUAL>Liebenberg<END>.
+O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações.
+Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características.
+O <START:COISA_CLASSE>GPS<END> registra o local e a hora de cada observação.
+Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.
+Com cada rastreador registrando <START:VALOR_QUANTIDADE>até 300<END> observações <START:TEMPO_FREQUENCIA>por dia<END>, o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente.
+"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira", afirma <START:PESSOA_INDIVIDUAL>Jason Knight<END>, instrutor da <START:ORGANIZACAO_INSTITUICAO>Wilderness Awareness School<END> em <START:LOCAL_HUMANO>Duvall<END>, <START:LOCAL_HUMANO>Washington<END>.
+No entanto, <START:PESSOA_INDIVIDUAL>Christina Eisenberg<END>, uma bióloga que estuda os lobos e trabalha para o <START:ORGANIZACAO_INSTITUICAO>Serviço Americano de Vida Selvagem e Aquática<END> conta que parou de usar o sistema porque ele travava inesperadamente.
+"Perdi os dados <START:TEMPO_DURACAO>de um dia inteiro<END> de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro", lembra.
+"Não foi nada agradável".
+Vários projetos usando o <START:COISA_CLASSE>CyberTracker<END> em áreas de preservação da <START:LOCAL_HUMANO>África do Sul<END> também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz <START:PESSOA_INDIVIDUAL>Liebenberg<END>.
+Mesmo assim, ele pretende desenvolver o <START:COISA_OBJECTO>CyberTracker<END>, transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo.
+"No momento, faltam cientistas para reunir informação em campo", disse.
+"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.
+Fonte: Centro de Mídia Independente (www.midiaindependente.org).
+Link : Cybertracker (www.cybertracker.co.za).
+--DOCSTART--
+
+Em que escola estuda o <START:PESSOA_INDIVIDUAL>Harry Potter<END>?
+Qual a divisa da escola?
+Em quantas casas está dividida?
+Quem é o director da escola?
+Como são os peixes-espada?
+Qual é o recorde da <START:ORGANIZACAO_INSTITUICAO>IGFA<END> para este tipo de peixe?
+Quando nasceu <START:PESSOA_INDIVIDUAL>Amintore Fanfani<END>?
+E aonde nasceu?
+Quem foi <START:PESSOA_INDIVIDUAL>Le Corbusier<END>?
+Qual era o seu verdadeiro nome?
+Quem era <START:PESSOA_INDIVIDUAL>Flaubert<END>?
+Em que ano publicou «<START:OBRA_REPRODUZIDA>Bouvard e Pécuchet<END>»?
+Lista todas as suas obras.
+O que foi a <START:ACONTECIMENTO_EFEMERIDE>Revolução de Veludo<END>?
+O que foi a <START:ACONTECIMENTO_EFEMERIDE>Revolução dos Cravos<END>?
+Quem foi <START:PESSOA_INDIVIDUAL>António de Oliveira Salazar<END>?
+Quem compôs a canção "<START:OBRA_REPRODUZIDA>Grândola, Vila Morena<END>"?
+Onde foi fabricado <START:COISA_OBJECTO>Bender Bending Rodriguez<END>?
+Quem é <START:PESSOA_INDIVIDUAL>Philip J. Fry<END>?
+Quem foi <START:PESSOA_INDIVIDUAL>Hermann Emil Fischer<END>?
+Quem prémio é que ele recebeu <START:TEMPO_TEMPO_CALEND>em 1902<END>?
+Quem recebeu o Prémio Nobel da Literatura <START:TEMPO_TEMPO_CALEND>nesse ano<END>?
+Quem era <START:PESSOA_INDIVIDUAL>Bertha von Suttner<END>?
+Quem foi <START:PESSOA_INDIVIDUAL>Marco Pantani<END>?
+Qual era a sua alcunha?
+Quem foi <START:PESSOA_INDIVIDUAL>Juan Manuel Fangio<END>?
+O que é a obsidiana?
+O que é uma "macana"?
+O que é um buraco negro?
+O que é a realidade virtual?
+O que é o pasodoble?
+O que é a tarantela?
+O que á a Arca de Noé?
+O que é um tacógrafo?
+O que é um odómetro?
+O que é um kinnor?
+O que é o INTASAT 
+
+O que é que era o <START:COISA_OBJECTO>Rainbow Warrior<END>?
+Quem é que o afundou <START:TEMPO_TEMPO_CALEND>em 1985<END>?
+Para que serve um draga-minas?
+O que é a INTELSAT?
+O que é uma <START:ABSTRACCAO_IDEIA>Organização Não-Governamental<END>?
+O que era a <START:ORGANIZACAO_INSTITUICAO>Gestapo<END>?
+Quantos membros tinha durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Grande Guerra<END>?
+O que é a <START:ORGANIZACAO_INSTITUICAO>Organização Internacional da Normalização<END>?
+O que era a Mão Negra?
+Qual a função da <START:ORGANIZACAO_INSTITUICAO>Organização Meteorológica Mundial<END>?
+Qual é a responsabilidade da <START:ORGANIZACAO_INSTITUICAO>ONUDI<END>?
+A que se dedica a Industrial Light and Magic?
+Em que país fica Çatal Hüyük?
+Em que mar desagua o rio <START:LOCAL_FISICO>Orentes<END>?
+Em que país fica a <START:LOCAL_HUMANO>Muralha de Adriano<END>?
+Onde é que trabalha o <START:PESSOA_INDIVIDUAL>Homer Simpson<END>?
+Em que país fica Minas Gerais?
+De onde é típica a ensaimada?
+Em que cidade nasceu <START:PESSOA_INDIVIDUAL>Natalie Hershlag<END>?
+Quem é o prefeito dessa cidade?
+Quem desenhou o processador <START:COISA_CLASSE>Zilog Z80<END>?
+De quantos bits era este processador?
+Como se chamam os pais de <START:PESSOA_INDIVIDUAL>Luke Skywalker<END>?
+Que paises entraram na <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> <START:TEMPO_TEMPO_CALEND>a 1 de Janeiro de 1995<END>?
+Quem é a <START:PESSOA_CARGO>rainha da Austrália<END> ?
+Quem era o papa quando se realizou o <START:ACONTECIMENTO_EFEMERIDE>Concílio de Clermont<END>?
+Que actor faz de <START:PESSOA_INDIVIDUAL>Chewbacca<END>?
+Como se chama o deus grego da <START:ABSTRACCAO_DISCIPLINA>Medicina<END>?
+Quem foi o realizador de <START:OBRA_REPRODUZIDA>Nosferatu<END>?
+E quem era o actor principal?
+Quem é o secretário-geral da <START:ORGANIZACAO_INSTITUICAO>UGT<END> ?
+Quando é que foi o atentado terrorista contra a <START:ORGANIZACAO_INSTITUICAO>AMIA<END>?
+Quantas pessoas morreram nesse ataque?
+Quando é que morreu <START:PESSOA_INDIVIDUAL>Federica Montseny<END>?
+Em que dia se realizou o assalto ao rancho do davidianos em <START:LOCAL_HUMANO>Waco<END>?
+Em que ano é que o <START:PESSOA_GRUPOMEMBRO>Real Zaragoza<END> ganhou a <START:ACONTECIMENTO_ORGANIZADO>Taça das Taças<END>?
+Em que ano foi inaugurado o <START:COISA_OBJECTO>AVE Madrid-Sevilha<END>?
+Em que data é que o <START:ORGANIZACAO_EMPRESA>Corte Inglês<END> comprou as <START:ORGANIZACAO_EMPRESA>Galerias Preciados<END>?
+Em que dia foi assassinado <START:PESSOA_INDIVIDUAL>Rajiv Gandhi<END>?
+Que quatro deuses podem ser representados num vaso canopo?
+Quem produz o <START:COISA_CLASSE>Windows 95<END>?
+<START:PESSOA_INDIVIDUAL>Steve Jobs<END> é o presidente de que empresa?
+Como se chamava o serviço secreto da <START:LOCAL_HUMANO>RDA<END>?
+<START:PESSOA_INDIVIDUAL>David Stern<END> é o comissário de que organização?
+Que rádio emite o programa de <START:PESSOA_INDIVIDUAL>Howard Stern<END>?
+Que escola foi fundada por <START:PESSOA_INDIVIDUAL>Walter Groupis<END>?
+A que ordem pertencia <START:PESSOA_INDIVIDUAL>São Tomás de Aquino<END>?
+Que ordem foi fundada por <START:PESSOA_INDIVIDUAL>São Francisco de Assis<END>?
+Que exército era comandado por <START:PESSOA_INDIVIDUAL>Rommel<END>?
+O <START:COISA_OBJECTO>Bibendum<END> é a mascote de que empresa?
+Como se chamava o barco de <START:PESSOA_INDIVIDUAL>Costeau<END>?
+Que tipo de leite se usa para fazer mozzarella?
+Como se chamava a espada do <START:PESSOA_INDIVIDUAL>Rei Artur<END>?
+As bolotas são o fruto de que árvore?
+De que planta se obtêm a juncinha?
+De que material é feito um <START:COISA_CLASSE>Moai<END>?
+Que come um quebra-ossos?
+Como se chamava a bomba atómica largada em <START:LOCAL_HUMANO>Nagasaqui<END>?
+Qual foi o primeiro libro impresso por <START:PESSOA_INDIVIDUAL>Gutenberg<END>?
+Que forma tem a entrada do <START:LOCAL_HUMANO>Museu do Louvre<END> ?
+Que animais puxam o carro de <START:PESSOA_INDIVIDUAL>Cíbele<END>?
+O que é que mede a <START:COISA_CLASSE>escala de Mohs<END> ?
+Que licor se faz com abrunheiro?
+Em que museu estão «<START:OBRA_ARTE>As Meninas<END>» de <START:PESSOA_INDIVIDUAL>Velasques<END>?
+Que escândalo provocou a demissão de <START:PESSOA_INDIVIDUAL>Nixon<END>?
+Que fabrica a <START:ORGANIZACAO_EMPRESA>Leica<END>?
+Que lado de um barco é bombordo?
+Como se chamam as bolas usadas no <START:ABSTRACCAO_DISCIPLINA>Quidditch<END>?
+Quantas pessoas morreram no afundamento do <START:COISA_OBJECTO>USS Maine<END>?
+Quantos atletas participaram nos  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> de <START:LOCAL_HUMANO>Barcelona<END>?
+Quantos habitantes tem a <START:LOCAL_HUMANO>Lituânia<END>?
+Quantos lugares o parlamento da <START:LOCAL_HUMANO>Islândia<END>?
+Quantos anos durarão as reservas mundiais de petróleo?
+Quantas vezes é que <START:PESSOA_INDIVIDUAL>Alain Prost<END> foi campeão do  <START:LOCAL_HUMANO>Mundo<END>?
+Quantos cavalos tem as turbinas do <START:COISA_OBJECTO>USS Nimitz<END>?
+Quantos golos se marcaram ao todo no  <START:ACONTECIMENTO_ORGANIZADO>Mundial<END> de <START:TEMPO_TEMPO_CALEND>1982<END>?
+Quantas caves tem a <START:COISA_OBJECTO>Torre Picasso<END>?
+Quantos prémios Goya ganhou "<START:OBRA_REPRODUZIDA>Torrente: El brazo tonto de la ley<END>"?
+Que idade tem o <START:COISA_OBJECTO>Sol<END>?
+Qual a duração do filme «<START:OBRA_REPRODUZIDA>A Nona Porta<END>»?
+Com que idade morreu <START:PESSOA_INDIVIDUAL>Alfred Hitchcock<END>?
+Qual a envergadura do <START:COISA_CLASSE>Airbus 380<END>?
+Quantos passageiros transportou <START:TEMPO_TEMPO_CALEND>no dia 4 de Setembro de 2006<END>?
+Quanto custa cada unidade?
+Qual a capacidade de carga do <START:COISA_CLASSE>Antonov An-124<END>?
+Quais são os membros fundadores da <START:ORGANIZACAO_EMPRESA>Star Alliance<END>?
+Em que país se fala náhuatl?
+Quantas curvas tem o  <START:LOCAL_HUMANO>Circuito<END> do <START:LOCAL_HUMANO>Mónaco<END>?
+Quem foi a primeira mulher a viajar no espaço?
+Quem realizou «<START:OBRA_REPRODUZIDA>O Dia da Besta<END>»?
+Quem inaugurou o <START:OBRA_ARTE>Templo de Debod<END> em <START:LOCAL_HUMANO>Madrid<END>?
+Em que ano é que <START:PESSOA_INDIVIDUAL>Torquemada<END> foi nomeado <START:PESSOA_CARGO>Inquisidor Geral<END>?
+Em que ano foi publicada a  <START:OBRA_REPRODUZIDA>Gramática<END> de <START:PESSOA_INDIVIDUAL>Nebrija<END>?
+Onde é que <START:PESSOA_INDIVIDUAL>Rachel Weisz<END> estudou literatura?
+Em que cidade fica a  <START:OBRA_ARTE>Sagrada Família<END> de <START:PESSOA_INDIVIDUAL>Gaudí<END> ?
+Qual a altura do <START:COISA_OBJECTO>Vesúvio<END>?
+A quantos quilómetros de <START:LOCAL_HUMANO>Huesca<END> fica o  <START:LOCAL_HUMANO>Castelo<END> de <START:LOCAL_HUMANO>Loarre<END>?
+Qual a massa molécular do metanol?
+Qual a altura da  <START:OBRA_ARTE>Pirámede do Sol<END> de <START:LOCAL_HUMANO>Teotihuacan<END> ?
+Quantos saltos formam as <START:LOCAL_FISICO>Cataratas do Iguaçú<END>?
+Quantos degraus tem a  <START:LOCAL_HUMANO>Torre<END> de <START:LOCAL_HUMANO>Pisa<END> ?
+Quais são os ingredientes da sangria?
+Quem é responsável pela segurança da <START:LOCAL_HUMANO>Cidade do Vaticano<END>?
+Quem atribui a Medalha Fields?
+Para quem trabalha <START:PESSOA_INDIVIDUAL>Jack Bauer<END>?
+O que é que foi usado como desfolhante na <START:ACONTECIMENTO_EFEMERIDE>Guerra do Vietname<END>?
+Qual foi o nome de código do <START:ACONTECIMENTO_EFEMERIDE>Desembarque da Normândia<END>?
+De que fungo se obtêm a penicilina?
+De que molusco é que os fenícios extraíam a tinta púrpura?
+O que é que <START:PESSOA_INDIVIDUAL>Manuel Campello Esclápez<END> descobriu?
+De que é que <START:PESSOA_INDIVIDUAL>Jasão<END> e os <START:PESSOA_GRUPOMEMBRO>Argonautas<END> andavam à procura?
+Quem era <START:PESSOA_CARGO>presidente dos Estados Unidos<END>  durante o ataque a <START:LOCAL_HUMANO>Pearl Harbour<END>?
+O que é que a <START:ORGANIZACAO_EMPRESA>Norsk Hydro<END> produzia durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>?
+Qual o tíulo da obra que ganhou o Prémio Nadal <START:TEMPO_TEMPO_CALEND>em 1994<END>?
+Quantos reservistas tinha a <START:ORGANIZACAO_INSTITUICAO>Haganah<END> <START:TEMPO_TEMPO_CALEND>em 1936<END>?
+Que idade tinha <START:PESSOA_INDIVIDUAL>Miguel Induraín<END> durante a  <START:ACONTECIMENTO_ORGANIZADO>Volta a Espanha<END> <START:TEMPO_TEMPO_CALEND>de 1985<END>?
+Em que ano é que ele ganhou a <START:ACONTECIMENTO_ORGANIZADO>Volta à Espanha<END> ?
+Quantas etapas da  <START:ACONTECIMENTO_ORGANIZADO>Volta à França do Futuro<END> <START:TEMPO_TEMPO_CALEND>de 1986<END> é que ele ganhou?
+Que prémio é que ele recebeu <START:TEMPO_TEMPO_CALEND>em 1992<END>?
+Que actores são os protagonistas de «<START:OBRA_REPRODUZIDA>O Bom, o Mau e o Vilão<END>"?
+Quantas pessoas morreram na <START:LOCAL_HUMANO>Europa<END> durante a epidemia de peste <START:TEMPO_TEMPO_CALEND>do século XIV<END>?
+Em que país teve origem a epidemia de gripe <START:TEMPO_TEMPO_CALEND>de 1918<END>?
+Como se chamavam os <START:PESSOA_GRUPOCARGO>Reis Católicos<END>?
+Como se chamava o <START:PESSOA_CARGO>presidente do Burundi<END>  que morreu <START:TEMPO_TEMPO_CALEND>em 1994<END>?
+Em que dia foi promulgada a constituição espanhola <START:TEMPO_TEMPO_CALEND>de 1812<END>?
+Quem foi o capitão do <START:PESSOA_GRUPOMEMBRO>Real Sociedad<END> <START:TEMPO_TEMPO_CALEND>entre 1974 e 1989<END>?
+Em que cidade se disputou a final da  <START:ACONTECIMENTO_ORGANIZADO>Taça da Europa de Basquete<END> <START:TEMPO_TEMPO_CALEND>de 1996<END>?
+Que grupo terrorista cometeu um atentado durante os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> de <START:LOCAL_HUMANO>Munique<END>?
+Que partido político governou a <START:LOCAL_HUMANO>Espanha<END> <START:TEMPO_TEMPO_CALEND>de 28 de Outubro de 1982 a 3 de Março de 1996<END>?
+Que farda tinha vestida o <START:PESSOA_CARGO>Rei<END> quando apareceu na televisão após o golpe de estado de <START:PESSOA_INDIVIDUAL>Tejero<END>?
+O que é que <START:PESSOA_INDIVIDUAL>Leonardo da Vinci<END> desenhou <START:TEMPO_TEMPO_CALEND>em 1492<END>?
+O que é que <START:PESSOA_INDIVIDUAL>Antonio Rebollo<END> usou para acender a <START:COISA_OBJECTO>Chama Olímpica<END> nos  <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> de <START:LOCAL_HUMANO>Barcelona<END>?
+Que programa de televisão apresentou <START:PESSOA_INDIVIDUAL>Takeshi Kitano<END> <START:TEMPO_TEMPO_CALEND>de 1986 a 1989<END>?
+Que presente é que <START:LOCAL_HUMANO>Nova Iorque<END> recebeu para comemorar o centenário da indepêndencia dos <START:LOCAL_HUMANO>Estados Unidos<END>?
+Qual foi a distribuidora do filme «<START:OBRA_REPRODUZIDA>O Planeta dos Macacos<END>» que estreou <START:TEMPO_TEMPO_CALEND>em 1968<END>?
+Que velocidade atingiu <START:PESSOA_INDIVIDUAL>Louis Blériot<END> <START:TEMPO_TEMPO_CALEND>a 25 de Julho de 1909<END>?
+Quantos quilos de anchova apanhou a frota do <START:LOCAL_FISICO>Cantábrico<END> <START:TEMPO_TEMPO_CALEND>em 1994<END>?
+Quais são as ilhas cuja posse a <START:ORGANIZACAO_ADMINISTRACAO>Argentina<END> disputou ao <START:ORGANIZACAO_ADMINISTRACAO>Reino Unido<END> <START:TEMPO_TEMPO_CALEND>de 2 de Abril a 14 de Junho de 1982<END>?
+Onde se disputaram os  <START:ACONTECIMENTO_ORGANIZADO>Jogos Mediterrânicos<END> <START:TEMPO_TEMPO_CALEND>de 1997<END>?
+Que navio é que <START:PESSOA_INDIVIDUAL>James Cook<END> comandou <START:TEMPO_TEMPO_CALEND>de 1768 a 1769<END>?
+Quem é o actor principal do filme «<START:OBRA_REPRODUZIDA>Tarzan, o Homem-Macaco<END>»?
+Quanto recordes mundiais é que ele bateu?
+Quem ganhou o Óscar Honorário <START:TEMPO_TEMPO_CALEND>em 2007<END>?
+Quem roubou as jóias de <START:PESSOA_INDIVIDUAL>Bianca Castafiore<END>?
+Em que país fica o <START:LOCAL_FISICO>Lago dos Cisnes<END>?
+Em que ano morreu o <START:PESSOA_INDIVIDUAL>Capitão América<END>?
+Qual é a capital da <START:LOCAL_HUMANO>Terra do Nunca<END>?
+Como se chama a mulher de <START:PESSOA_INDIVIDUAL>Bill Gates<END>?
+Em que universidade é que ele estudava quando criou a <START:ORGANIZACAO_EMPRESA>Microsoft<END>?
+Qual o orçamento dessa universidade <START:TEMPO_TEMPO_CALEND>para 2005<END>?
+Em que ano foi fundada?
+Que avião supersónico teve os seus últimos voos comerciais <START:TEMPO_TEMPO_CALEND>em Maio de 2003<END>?
+Quantos passageiros conseguia transportar esse modelo de avião?
+Qual a capacidade do <START:LOCAL_HUMANO>Estádio Santiago Bernabéu<END> <START:TEMPO_TEMPO_CALEND>nos anos 80<END>?
+Quem é o dono do estádio?
+Quanto dinheiro foi gasto na sua ampliação <START:TEMPO_TEMPO_CALEND>entre 2001 e 2006<END>?
+Quantas bombas foram lançadas sobre <START:LOCAL_HUMANO>Dresda<END> <START:TEMPO_TEMPO_CALEND>a 14 de Fevereiro de 1945<END>?
+Quanto pesavam as bombas largadas sobre esta cidade <START:TEMPO_TEMPO_CALEND>a 7 de Outubro de 1944<END>?
+Que organismo dirigiu <START:PESSOA_INDIVIDUAL>Alan Turing<END> durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>?
+Quem era o czar da Rússia   durante a <START:ACONTECIMENTO_EFEMERIDE>Segunda Grande Guerra<END>?
+Quantos pontos marcou a <START:PESSOA_GRUPOMEMBRO>Jugoslávia<END> na final do  <START:ACONTECIMENTO_ORGANIZADO>Mundial de Basquetebol<END> <START:TEMPO_TEMPO_CALEND>de 1990<END>?
+Contra que país é que a <START:PESSOA_GRUPOMEMBRO>Espanha<END> jogou a final de basquete das  <START:ACONTECIMENTO_ORGANIZADO>Olímpiadas<END> <START:TEMPO_TEMPO_CALEND>de 1984<END>?
+Em que ano é que <START:PESSOA_GRUPOMEMBRO>Espanha<END> ganhou o <START:ACONTECIMENTO_ORGANIZADO>Mundial de Futebol<END>?

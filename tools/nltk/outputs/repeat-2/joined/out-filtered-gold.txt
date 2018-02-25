@@ -1629,7 +1629,8 @@ autor	O
 oulipiano	O
 é	O
 um	O
-«rato	O
+«	O
+rato	O
 que	O
 constrói	O
 o	O
@@ -1638,7 +1639,9 @@ do	O
 qual	O
 se	O
 propõe	O
-sair».	O
+sair	O
+»	O
+.	O
 Um	O
 labirinto	O
 de	O
@@ -1907,8 +1910,10 @@ não	O
 é	O
 a	O
 tal	O
-«geração	O
-rasca»	O
+«	O
+geração	O
+rasca	O
+»	O
 ,	O
 tendo	O
 objectivos	O
@@ -2082,8 +2087,8 @@ Tara	O
 Perdida	O
 Hardclub	B-LOCAL
 (	O
-V.N	B-LOCAL
-.	I-LOCAL
+V.N.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Gaia	I-LOCAL
 .	O
 )	O
@@ -2122,8 +2127,8 @@ Março	B-ACONTECIMENTO
 Jovem	I-ACONTECIMENTO
 2006	I-ACONTECIMENTO
 (	O
-C.M	B-LOCAL
-.	I-LOCAL
+C.M.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Seixal	I-LOCAL
 )	O
 com	O
@@ -2183,7 +2188,8 @@ intitulado	O
 Rebobina	O
 e	O
 Pensa	O
-».	O
+»	O
+.	O
 Notícias	O
 recentes/projectos	O
 :	O
@@ -2861,6 +2867,7 @@ Covilhã	B-LOCAL
 ,	O
 1450	B-TEMPO
 ?	I-TEMPO
+--SENTENCE--	I-TEMPO
 --	I-TEMPO
 -	I-TEMPO
 1530	I-TEMPO
@@ -2897,6 +2904,7 @@ seu	O
 amo	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Guzman	I-PESSOA
@@ -2942,6 +2950,7 @@ Covilhã	I-PESSOA
 ,	O
 convida-o	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Gusman	I-PESSOA
@@ -2973,6 +2982,7 @@ em	B-TEMPO
 ,	O
 acompanha	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 a	O
 Lisboa	B-LOCAL
@@ -2986,6 +2996,7 @@ de	O
 Portugal	B-LOCAL
 .	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 simpatiza	O
 com	O
@@ -3003,6 +3014,7 @@ língua	O
 árabe	O
 e	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 cede	O
 a	O
@@ -3031,6 +3043,7 @@ de	O
 esporas	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -3054,6 +3067,7 @@ Em	B-TEMPO
 1476	I-TEMPO
 acompanha	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 na	O
@@ -3066,6 +3080,7 @@ tentativa	O
 fracassada	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 de	O
 reclamar	O
@@ -3091,6 +3106,7 @@ em	O
 iria	O
 acompanhar	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 na	O
 jornada	O
@@ -3118,6 +3134,7 @@ rejeitado.	O
 Entretanto	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 abdica	O
 do	O
@@ -3125,6 +3142,7 @@ trono	O
 ,	O
 para	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 .	O
@@ -3155,6 +3173,7 @@ que	O
 conspiravam	O
 contra	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -3162,6 +3181,7 @@ conseguindo	O
 identificar	O
 o	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Diogo	I-PESSOA
 ,	O
 duque	O
@@ -3169,6 +3189,7 @@ de	O
 Viseu	O
 e	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Garcia	I-PESSOA
 de	I-PESSOA
 Meneses	I-PESSOA
@@ -3832,6 +3853,7 @@ preparação	O
 dirigido	O
 pelo	O
 sr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Alfredo	I-PESSOA
 Silva	I-PESSOA
 ,	O
@@ -3880,8 +3902,7 @@ feito	O
 alguma	O
 coisa	O
 na	O
-A.C.M	B-ORGANIZACAO
-.	I-ORGANIZACAO
+A.C.M.	B-ORGANIZACAO
 que	O
 por	O
 não	O
@@ -3927,12 +3948,13 @@ propaganda	O
 juntamente	O
 com	O
 os	O
-srs	B-PESSOA
-.	I-PESSOA
+srs.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Eduardo	I-PESSOA
 Moreira	I-PESSOA
 ,	O
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 Gomes	I-PESSOA
 de	I-PESSOA
@@ -9867,7 +9889,7 @@ editora	O
 ``	O
 El	B-ORGANIZACAO
 Tatu	I-ORGANIZACAO
-``	O
+''	O
 de	O
 Tim	B-PESSOA
 reedita	O
@@ -10617,6 +10639,7 @@ das	O
 crianças	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 III	I-PESSOA
 e	O
@@ -11995,7 +12018,8 @@ autores	O
 admitirem	O
 que	O
 estas	O
-«terão	O
+«	O
+terão	O
 um	O
 efeito	O
 principal	O
@@ -12017,7 +12041,9 @@ portanto	O
 nas	O
 taxas	O
 de	O
-ataque».	O
+ataque	O
+»	O
+.	O
 Os	O
 autores	O
 dos	O
@@ -14275,7 +14301,8 @@ Vila	B-LOCAL
 do	I-LOCAL
 Conde	I-LOCAL
 :	O
-«Tudo	O
+«	O
+Tudo	O
 começou	O
 quando	O
 os	O
@@ -14336,7 +14363,8 @@ se	O
 acrescentaram	O
 muitas	O
 outras	O
-medidas.»	O
+medidas.	O
+»	O
 Também	O
 Vítor	B-PESSOA
 Pereira	I-PESSOA
@@ -14379,7 +14407,8 @@ bicicleta	O
 ou	O
 o	O
 transporte	O
-público.»	O
+público.	O
+»	O
 Obrigada	O
 ao	O
 Hugo	B-PESSOA
@@ -14927,8 +14956,8 @@ da	I-LOCAL
 América	I-LOCAL
 Latina	I-LOCAL
 .	O
-Av	B-LOCAL
-.	I-LOCAL
+Av.	B-LOCAL
+--SENTENCE--	I-LOCAL
 Auro	I-LOCAL
 Soares	I-LOCAL
 de	I-LOCAL
@@ -16030,6 +16059,7 @@ outras	O
 coisas	O
 ,	O
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 ``	O
@@ -16172,6 +16202,7 @@ juntos	O
 ''	O
 .	O
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Frederick	I-PESSOA
 Werthan	I-PESSOA
 -	O
@@ -16212,6 +16243,7 @@ o	O
 livro	O
 do	O
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 o	O
@@ -17942,8 +17974,7 @@ http	O
 //www.credi.com.br	O
 Croma	B-ORGANIZACAO
 Eletrônica	I-ORGANIZACAO
-Ltda	I-ORGANIZACAO
-.	I-ORGANIZACAO
+Ltda.	I-ORGANIZACAO
 -	O
 Componentes	O
 eletrônicos	O
@@ -18636,7 +18667,8 @@ Domingos	B-PESSOA
 desvaloriza	O
 tudo	O
 isso.	O
-«A	O
+«	O
+A	O
 história	O
 nem	O
 sempre	O
@@ -18660,7 +18692,8 @@ vamos	O
 encontrar	O
 um	O
 adversário	O
-forte.»	O
+forte.	O
+»	O
 Para	O
 facilitar	O
 os	O
@@ -18677,7 +18710,8 @@ Figueira	B-LOCAL
 da	I-LOCAL
 Foz	I-LOCAL
 ,	O
-«mais	O
+«	O
+mais	O
 adeptos	O
 da	O
 Académica	O
@@ -18685,7 +18719,8 @@ do	O
 que	O
 da	O
 Naval	O
-».	O
+»	O
+.	O
 Afonso	B-PESSOA
 de	I-PESSOA
 Albuquerque	I-PESSOA
@@ -18696,6 +18731,7 @@ na	O
 corte	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -18714,12 +18750,15 @@ Fernando	I-PESSOA
 de	O
 Nápoles	B-LOCAL
 ,	O
-«para	O
+«	O
+para	O
 reprimir	O
 o	O
 furor	O
 dos	O
-turcos».	O
+turcos	O
+»	O
+.	O
 Esteve	O
 na	O
 expedição	O
@@ -18787,6 +18826,7 @@ da	O
 guarda	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -18846,19 +18886,22 @@ reino	O
 de	O
 Portugal	B-LOCAL
 ,	O
-«mais	O
+«	O
+mais	O
 cheio	O
 de	O
 glórias	O
 que	O
 de	O
-despojos»	O
+despojos	O
+»	O
 ,	O
 foi	O
 bem	O
 acolhido	O
 por	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Manuel	I-PESSOA
 que	O
 em	B-TEMPO
@@ -19080,7 +19123,8 @@ página	O
 23	O
 )	O
 que	O
-«foi	O
+«	O
+foi	O
 amortalhado	O
 com	O
 o	O
@@ -19158,7 +19202,9 @@ maio	I-TEMPO
 de	I-TEMPO
 1566	I-TEMPO
 com	O
-pompa».	O
+pompa	O
+»	O
+.	O
 Da	O
 Bauhaus	O
 para	O

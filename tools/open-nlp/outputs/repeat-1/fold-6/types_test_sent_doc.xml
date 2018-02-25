@@ -1,246 +1,335 @@
 --DOCSTART--
-Que país declarou a independência <START:TEMPO_TEMPO_CALEND> em 1291 <END> ?
-O que se passou <START:TEMPO_TEMPO_CALEND> a 4 de Julho de 1776 <END> ?
-De quem trata o filme " <START:OBRA_REPRODUZIDA> 2 filhos de Francisco <END> "?
-Quais são as sete colinas de <START:LOCAL_HUMANO> Roma <END> ?
-Qual é a mais pequena delas?
-Quem é o dono delas?
-Em qual delas fica a residência do presidente?
-De que estado foi governador <START:PESSOA_INDIVIDUAL> Adhemar de Barros <END> ?
-Quem eram os almóadas?
-Quem fabrica os foguetões <START:COISA_CLASSE> Ariane <END> ?
-Quantas pessoas morreram no atentado na estação de <START:LOCAL_HUMANO> Bolonha <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> Boaventura Kloppenburg <END> ?
-Quando é que a baleia azul foi extinta?
-O que está escrito na bandeira do <START:LOCAL_HUMANO> Brasil <END> ?
-Que árvore está na bandeira do <START:LOCAL_HUMANO> Líbano <END> ?
-Por que estado é senador <START:PESSOA_INDIVIDUAL> Barack Obama <END> ?
-O que é um barrete frígio?
-Quantos jogadores tem um time de basquete?
-Quem disse  "Ao vencedor, as batatas!"
-?
-Que princesa portuguesa foi <START:PESSOA_CARGO> rainha da Dinamarca <END> ?
-Que inglês foi treinador do <START:PESSOA_GRUPOMEMBRO> Porto <END> ?
-Que mar banha <START:LOCAL_HUMANO> Braga <END> ?
-O que é a navegação de cabotagem?
-<START:LOCAL_HUMANO> Caen <END> é a capital de que departamento?
-O que é um caiaque?
-Como se chama <START:ABSTRACCAO_NOME> Cayenne <END> em português?
-Quem viajava no avião que se despenhou em <START:LOCAL_HUMANO> Camarate <END> ?
-Que cidade era capital do <START:LOCAL_HUMANO> Brasil <END> antes do governo ser transferido para <START:LOCAL_HUMANO> Brasília <END> ?
-Que rei morreu <START:TEMPO_TEMPO_CALEND> em 1718 <END> ?
-O que eram cartas de alforria?
-Que cidade francesa foi residência dos <START:PESSOA_GRUPOCARGO> Papas <END> ?
-Quando foi fundado o <START:ORGANIZACAO_INSTITUICAO> Nacional da Madeira <END> ?
-Onde?
-Qual o diâmetro de <START:COISA_OBJECTO> Ceres <END> ?
-Diga o nome de um chá branco.
-Em que distrito fica <START:LOCAL_HUMANO> Chaves <END> ?
-Quantas freguesias tem o concelho?
-Que municípios ficam a oeste?
-Quantos habitantes tinha <START:TEMPO_TEMPO_CALEND> em 2006 <END> ?
-Quais são as cidades-estado da <START:LOCAL_HUMANO> Alemanha <END> ?
-De onde é nativo o cisne branco?
-A quem pertence o <START:COISA_OBJECTO> Cisne Branco <END> ?
-Quando foi registado pela primeira vez o cometa <START:COISA_OBJECTO> Halley <END> ?
-Em que famosa obra aparece o cometa?
-Que batalha aparece nessa obra?
-Quem venceu o <START:ACONTECIMENTO_ORGANIZADO> Campeonato do Mundo de Contra-Relógio <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-Em que país se disputou a prova?
-Qual o tempo do vencedor?
-E quem venceu <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Com quem se casou a <START:PESSOA_INDIVIDUAL> rainha Cristina <END> ?
-Que idade tinha ela quando morreu?
-Quem foi o <START:VALOR_CLASSIFICACAO> 13º <END> <START:PESSOA_CARGO> rei de Portugal <END> ?
-O que é a defesa siciliana?
-Que empresa editou a <START:OBRA_REPRODUZIDA> Diciopédia <END> ?
-Que dinastia reinava em <START:LOCAL_HUMANO> Portugal <END> <START:TEMPO_TEMPO_CALEND> em 1500 <END> ?
-O que são os <START:LOCAL_HUMANO> DOM <END> franceses?
-Quantos são eles?
-Qual deles fica na <START:LOCAL_HUMANO> Europa <END> ?
-Em que zona de <START:LOCAL_HUMANO> Espanha <END> nasce o rio <START:LOCAL_FISICO> Douro <END> ?
-Onde fica o parque <START:LOCAL_HUMANO> Eduardo VII <END> ?
-Quantos focos tem uma elipse?
-Quantos pontos vale um ensaio no râguebi?
-O que é o enxaimel?
-Diga uma escritora sarda.
-Como se chamava o sabre dos samurai?
-Quem foi <START:PESSOA_INDIVIDUAL> Ésquilo <END> ?
-Em que constelação fica <START:COISA_OBJECTO> Vega <END> ?
-E <START:COISA_OBJECTO> Régulo <END> ?
-Qual a freguesia mais populosa de <START:LOCAL_HUMANO> Évora <END> ?
-Que equipa é treinada por <START:PESSOA_INDIVIDUAL> Fernando Santos <END> ?
-Que equipa era treinada por <START:PESSOA_INDIVIDUAL> Fernando Santos <END> <START:TEMPO_TEMPO_CALEND> em 1994 <END> ?
-Em que estado brasileiro fica <START:LOCAL_HUMANO> Faro <END> ?
-Em que época é que o <START:PESSOA_GRUPOMEMBRO> FC Porto <END> ganhou a <START:ACONTECIMENTO_ORGANIZADO> Liga dos Campeões <END> ?
-Que pássaro renascia das próprias cinzas?
-Que percentagem dos finlandeses fala sueco?
-Quando é que <START:PESSOA_INDIVIDUAL> F.H. Cardoso <END> tomou posse como presidente?
-O que é a <START:ABSTRACCAO_ESTADO> FIDE <END> ?
-Que profundidade atinge a <START:LOCAL_FISICO> Fossa das Marianas <END> ?
-Onde fica?
-Quando se atingiu o seu fundo?
-Por que veículo?
-Quantas horas há de diferença entre <START:LOCAL_HUMANO> Nova Iorque <END> e <START:LOCAL_HUMANO> São Francisco <END> ?
-Além da girafa, que outro animal pertence à família  <START:COISA_CLASSE> Giraffidae <END> ?
-Que espada usavam as legiões romanas?
-Quando caíu <START:ORGANIZACAO_ADMINISTRACAO> Granada <END> ?
-O que é a Granja do Torto?
-Qual é a latitude e longitude da <START:LOCAL_HUMANO> Guarda <END> ?
-De que estado foi <START:PESSOA_INDIVIDUAL> Hans Modrow <END> primeiro-ministro?
-Quem foi <START:PESSOA_INDIVIDUAL> Henrik Ibsen <END> ?
-Quem matou <START:PESSOA_INDIVIDUAL> Philipe Henriot <END> ?
-O que é o <START:ABSTRACCAO_ESTADO> ICBAS <END> ?
-Qual a população da <START:LOCAL_HUMANO> Ilha de Moçambique <END> ?
-Qual o estado mais populoso da <START:LOCAL_HUMANO> Índia <END> ?
-O que é o jagartee?
-Quem é <START:PESSOA_INDIVIDUAL> James Baker <END> ?
-Como se chamam os filhos de <START:PESSOA_INDIVIDUAL> Jimmy Carter <END> ?
-Quando se realizaram os  <START:ACONTECIMENTO_ORGANIZADO> Jogos Olímpicos <END> de <START:LOCAL_HUMANO> Munique <END> ?
-Que senador americano foi prisioneiro no <START:LOCAL_HUMANO> Vietname <END> ?
-Em que dia ocorreu a batalha de <START:ACONTECIMENTO_EFEMERIDE> La Lys <END> ?
-Em que ilha dos <START:LOCAL_FISICO> Açores <END> fica a Lagoa?
-Quem é o <START:PESSOA_INDIVIDUAL> Lampadinha <END> ?
-O lehendakari é presidente de quê?
-Quando é que foi assinada a <START:OBRA_PLANO> Lei Áurea <END> ?
-Por quem?
-Que é o que <START:PESSOA_INDIVIDUAL> Arafat <END> usava na cabeça?
-Quem era a locomotiva humana?
-Em que concelho fica <START:LOCAL_HUMANO> Loivos do Monte <END> ?
-Quem abriu os  <START:ACONTECIMENTO_ORGANIZADO> Jogos Olímpicos <END> de <START:TEMPO_TEMPO_CALEND> 1948 <END> ?
-O que é M31?
-Quando nasceu <START:PESSOA_INDIVIDUAL> Machado de Assis <END> ?
-O que é a Igreja Maronita?
-Quanto custou a <START:COISA_OBJECTO> Mars Observer <END> ?
-O que é o mascarpone?
-De que região provêm?
-Em que sobremesa se usa?
-Quando foi inaugurado o metropolitano de <START:LOCAL_HUMANO> Lisboa <END> ?
-Quantas estações tem agora?
-Qual o verdadeiro nome de <START:PESSOA_INDIVIDUAL> Michael Caine <END> ?
-A que altitude está <START:LOCAL_HUMANO> Miguel Pereira <END> ?
-O que é que <START:PESSOA_INDIVIDUAL> Jean Valjean <END> roubou?
-Qual era a divisa austríaca <START:TEMPO_TEMPO_CALEND> antes de 2002 <END> ?
-Quem foi <START:PESSOA_INDIVIDUAL> Monteiro Lobato <END> ?
-Em que instituição estudou?
-O que é que ele estudou?
-Quando é que ele criou a <START:COISA_OBJECTO> Emília <END> ?
-Quantos municípios tem o distrito do <START:LOCAL_HUMANO> Porto <END> ?
-Quem ganhou a <START:ACONTECIMENTO_ORGANIZADO> NBA <END> <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-O que é a <START:COISA_OUTRO> constante de Néper <END> ?
-O que são os números <START:COISA_CLASSE> E <END> ?
-Qual o período de gestação de ocapi?
-Qual o seu peso?
-Que concelho fica a leste de <START:LOCAL_HUMANO> Oeiras <END> ?
-Que cidades realizaram <START:ACONTECIMENTO_ORGANIZADO> Jogos Olímpicos <END> <START:TEMPO_TEMPO_CALEND> antes de 1900 <END> ?
-Diga um recipiente da Grande Cruz do Mérito.
-Quando começa <START:TEMPO_GENERICO> o outono <END> no hemisfério sul?
-Quem é <START:PESSOA_INDIVIDUAL> José Eduardo Pinto da Costa <END> ?
-Onde é que ele nasceu?
-Quantos centímetros há num pé?
-Quem era <START:PESSOA_CARGO> rei de Portugal <END>  <START:TEMPO_TEMPO_CALEND> em 1860 <END> ?
-Qual a área do  <START:LOCAL_OUTRO> Parque Nacional <END> da <START:LOCAL_HUMANO> Peneda-Gerês <END> ?
-Em que anos foi <START:PESSOA_INDIVIDUAL> Nelson Piquet <END> campeão do mundo?
-Quem foi <START:PESSOA_INDIVIDUAL> Pirro <END> ?
-Qual o primeiro nome do <START:PESSOA_INDIVIDUAL> presidente Trovoada <END> ?
-Quantas regiões tem <START:LOCAL_HUMANO> Marrocos <END> ?
-Qual é a maior delas?
-Onde é estão sepultados <START:PESSOA_INDIVIDUAL> Fernando <END> e <START:PESSOA_INDIVIDUAL> Isabel <END> ?
-Qual é a principal indústria da <START:LOCAL_HUMANO> República Dominicana <END> ?
-Em que período existiu a <START:ORGANIZACAO_ADMINISTRACAO> República de Veneza <END> ?
-Onde é que desagua o <START:LOCAL_FISICO> Ural <END> ?
-Qual é o seu comprimento?
-Qual o comprimento total da rodovia <START:LOCAL_HUMANO> Dom Pedro I <END> ?
-Quem comandou os gregos em <START:ACONTECIMENTO_EFEMERIDE> Salamina <END> ?
-Quem se tornou rei após a morte de <START:PESSOA_INDIVIDUAL> D. Afonso Henriques <END> ?
-Que ordem foi fundada por <START:PESSOA_INDIVIDUAL> Santa Clara <END> ?
-O que é o Saquê ?
-Quantos senadores tem o <START:ORGANIZACAO_ADMINISTRACAO> Senado <END> brasileiro actualmente?
-Quantos anos tem os seus mandatos?
-Quantos senadores tem cada estado?
-Quantos senadores havia <START:TEMPO_TEMPO_CALEND> em 1972 <END> ?
-Quem foi o último <START:PESSOA_CARGO> rei da Bulgária <END> ?
-Diga uma catedral de <START:LOCAL_HUMANO> Sófia <END> .
-Em que jornal escreve o <START:PESSOA_INDIVIDUAL> Miguel Sousa Tavares <END> ?
-A que partido pertencia <START:PESSOA_INDIVIDUAL> Spadolini <END> ?
-Quais são as línguas oficiais da <START:LOCAL_HUMANO> Suíça <END> ?
-E quantos cantões tem?
-Quando é que <START:ORGANIZACAO_ADMINISTRACAO> Berna <END> aderiu à <START:ORGANIZACAO_ADMINISTRACAO> Confederação <END> ?
-Que selecções disputaram a final da  <START:ACONTECIMENTO_ORGANIZADO> Taça América <END> <START:TEMPO_TEMPO_CALEND> de 1995 <END> ?
-Quantos espartanos lutaram na <START:ACONTECIMENTO_EFEMERIDE> Batalha das Termópilas <END> ?
-Quem sucedeu a <START:PESSOA_INDIVIDUAL> Augusto <END> ?
-Qual é a capital de <START:LOCAL_HUMANO> Timor Ocidental <END> ?
-Qual o estilo arquitectónico da <START:OBRA_ARTE> Torre dos Clérigos <END> ?
-Quantos degraus tem a torre?
-Qual á a altura dela?
-Quando foi erigida?
-O que era uma trirreme?
-Como se chamava o avião supersónico russo?
-Qual o túnel ferroviário mais comprido do mundo?
-E qual o seu comprimento?
-Em que país fica?
-O que é o <START:COISA_OBJECTO> Tux <END> ?
-Que animal é?
-Quem o criou?
-Quando?
-Diga uma emissora de televisão brasileira que tenha iniciado as suas actividades <START:TEMPO_TEMPO_CALEND> antes de 1970 <END> .
-O que é a <START:ABSTRACCAO_ESTADO> TVI <END> ?
-O que é a Union Jack?
-Onde é que nasceu o <START:PESSOA_INDIVIDUAL> Vítor Baía <END> ?
-Onde é que começou a jogar futebol?
-Quantos golos é que marcou na sua carreira?
-Que idade tinha ele quando se mudou para o <START:ORGANIZACAO_INSTITUICAO> FC Porto <END> ?
-Quem é <START:PESSOA_INDIVIDUAL> George Vassiliou <END> ?
-Quero o nome de um vinho húngaro.
-Que clube foi campeão português de voleibol <START:TEMPO_TEMPO_CALEND> em 1995 <END> ?
-E quem venceu a  <START:ACONTECIMENTO_ORGANIZADO> Taça <END> de <START:LOCAL_HUMANO> Portugal <END> <START:TEMPO_TEMPO_CALEND> nesse ano <END> ?
-Quais são os signos do Zodíaco?
-Quantas ilhas tem <START:LOCAL_HUMANO> Cabo Verde <END> ?
-Quantas são habitadas?
-Em qual delas nasceu <START:PESSOA_INDIVIDUAL> Eugénio Tavares <END> ?
-E em qual deles fica a <START:LOCAL_HUMANO> Praia <END> ?
+
+      O
+      <START:PESSOA_INDIVIDUAL>Pai Natal<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Artur Jorge<END>
+      e o
+      <START:ORGANIZACAO_EMPRESA>BCP<END>
+    
+    
+
+      O
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema "
+      O <START:PESSOA_INDIVIDUAL>Pai Natal<END> não existe
+      ".
+O argumento é que tal ideia era nefasta para as criancinhas russas.
+Conclusão: o
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      russo acredita no
+      <START:ABSTRACCAO_IDEIA>Pai Natal<END>
+      e quer que as criancinhas também acreditem.
+<START:PESSOA_INDIVIDUAL>Artur Jorge<END>
+      foi, entretanto, escolhido para seleccionador do <START:PESSOA_GRUPOMEMBRO>Irão<END>, equipa que se encontrava
+      <START:TEMPO_DURACAO>há seis meses<END>
+      sem treinador.
+Tendo em atenção o que se tem passado
+      <START:TEMPO_TEMPO_CALEND>nos últimos anos<END>
+      na carreira do ex-treinador do <START:PESSOA_GRUPOMEMBRO>FC Porto<END>, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a
+      <START:ORGANIZACAO_INSTITUICAO>Federação Iraniana de Futebol<END> 
+      acredita no
+      <START:PESSOA_INDIVIDUAL>Pai Natal<END>
+      .
+E
+      <START:PESSOA_INDIVIDUAL>Artur Jorge<END>
+      também, claro.
+Por outro lado, a escolha do
+      <START:PESSOA_CARGO>presidente da Caixa Geral de Depósitos<END> 
+      para presidir ao
+      <START:ORGANIZACAO_EMPRESA>BCP<END>
+      só pode igualmente ser obra do
+      <START:PESSOA_INDIVIDUAL>Pai Natal<END>
+      .
+<START:PESSOA_INDIVIDUAL>Carlos Santos Ferreira<END>
+      é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito
+      - mesmo que o vá fazer à custa do banco do
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      .
+Por isso, o
+      <START:PESSOA_CARGO>ministro das Finanças<END>
+      , que autorizou esta mudança sem pestanejar, também deve acreditar no
+      <START:ABSTRACCAO_IDEIA>Pai Natal<END>
+      .
+Não lhe passa pela cabeça que
+      <START:PESSOA_INDIVIDUAL>Santos Ferreira<END>
+      , com o que sabe da
+      <START:ORGANIZACAO_EMPRESA>Caixa<END>
+      , fique em excelente posição para ganhar quota de mercado ao banco público, que vai
+      <START:TEMPO_TEMPO_CALEND>este ano<END>
+      dar
+      <START:VALOR_MOEDA>mais de 800 milhões<END>
+      de lucros, dos quais
+      <START:VALOR_MOEDA>400 milhões<END>
+      vão direitinhos para os cofres do
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      a título de
+      <START:COISA_CLASSE>IRC<END>
+      .
+Se
+      <START:PESSOA_INDIVIDUAL>Santos Ferreira<END>
+      tiver sucesso no
+      <START:ORGANIZACAO_EMPRESA>BCP<END>
+      , quem vai sofrer é a
+      <START:ORGANIZACAO_EMPRESA>Caixa<END>
+      - e, por tabela, todos nós, contribuintes.
+Porque quanto menos o
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      receber de dividendos das empresas públicas, mais o
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      será tentado a vir buscar-nos dinheiro aos bolsos.
+Por outras palavras, os únicos que não têm razões para acreditar no
+      <START:ABSTRACCAO_IDEIA>Pai Natal<END>
+      são os contribuintes portugueses.
+<START:PESSOA_INDIVIDUAL>Nicolau Santos<END>
+    
+  
+
+  --DOCSTART--
+
+
+O  <START:ACONTECIMENTO_ORGANIZADO>Tour<END> de <START:LOCAL_HUMANO>França<END> <START:TEMPO_TEMPO_CALEND>de 2009<END>  vai começar no <START:LOCAL_HUMANO>Mónaco<END> com um contra-relógio de <START:VALOR_QUANTIDADE>15 quilómetros<END>, numa etapa que também terminará no principado monegasco.
+O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de <START:ABSTRACCAO_DISCIPLINA>Fórmula 1<END>.
+"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <START:PESSOA_INDIVIDUAL>Christian Prudhomme<END> como justificação para a decisão.
+O  <START:ACONTECIMENTO_ORGANIZADO>Tour<END> de <START:LOCAL_HUMANO>França<END> voltará assim ao <START:LOCAL_HUMANO>Mónaco<END>, <START:TEMPO_DURACAO>depois de 45 anos<END>  ausente.
 --DOCSTART--
 
-<START:TEMPO_TEMPO_CALEND> 2008 <END> : preços de bens e serviços sobem acima da inflação
-Os preços de diversos bens e serviços vão aumentar, <START:TEMPO_TEMPO_CALEND> no próximo ano <END> , acima da inflação de <START:VALOR_QUANTIDADE> 2,1% <END> prevista pelo <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> <START:TEMPO_TEMPO_CALEND> para 2008 <END> , com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos.
-A electricidade vai aumentar, de acordo com a proposta da <START:ORGANIZACAO_INSTITUICAO> Entidade Reguladora dos Serviços Energéticos <END> ( <START:ORGANIZACAO_INSTITUICAO> ERSE <END> ), aprovada pelo <START:ORGANIZACAO_INSTITUICAO> Conselho Tarifário <END> , <START:VALOR_QUANTIDADE> 2,9% <END> , em média, em <START:LOCAL_HUMANO> Portugal Continental <END> , <START:VALOR_QUANTIDADE> 2,6% <END> nos <START:LOCAL_HUMANO> Açores <END> e <START:VALOR_QUANTIDADE> 4,9% <END> na <START:LOCAL_HUMANO> Madeira <END> .
-A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de <START:VALOR_MOEDA> 1,08 euros <END> <START:TEMPO_TEMPO_CALEND> no próximo ano <END> , mas os clientes industriais sofrerão um aumento médio de <START:VALOR_QUANTIDADE> 3,0% <END> , com maior peso para os de muita alta tensão (MAT) e alta tensão (AT) que terão uma subida de <START:VALOR_QUANTIDADE> 3,9% <END> .
-Os clientes de média tensão (MT) terão um aumento de <START:VALOR_QUANTIDADE> 2,7% <END> , enquanto os de baixa tensão especial (BTE), normalmente pequenas empresas, terão um aumento de <START:VALOR_QUANTIDADE> 2,5% <END> .
-Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> é o do pão, que deverá aumentar <START:VALOR_QUANTIDADE> 10 a 15% <END> <START:TEMPO_TEMPO_CALEND> em Janeiro <END> ou <START:TEMPO_TEMPO_CALEND> Fevereiro <END> , segundo contas feitas pela direcção da  <START:ORGANIZACAO_INSTITUICAO> Associação dos Industriais de Panificação, Pastelaria e Similares <END> do <START:LOCAL_HUMANO> Norte <END> ( <START:ORGANIZACAO_INSTITUICAO> AIPAN <END> ).
-Em declarações à agência <START:ORGANIZACAO_EMPRESA> Lusa <END> , <START:PESSOA_INDIVIDUAL> António Fontes <END> , da <START:ORGANIZACAO_INSTITUICAO> AIPAN <END> , disse que o preço do pão terá de aumentar para fazer face à subida de <START:VALOR_QUANTIDADE> 92% <END> registada <START:TEMPO_TEMPO_CALEND> ao longo de 2007 <END> no preço da matéria-prima de base (farinha).
-Desde o último aumento do preço do pão, <START:TEMPO_TEMPO_CALEND> em Janeiro de 2004 <END> , o preço da farinha mais do que duplicou, o das leveduras subiu <START:VALOR_QUANTIDADE> 40% <END> , o da energia <START:VALOR_QUANTIDADE> 25% <END> , o do gás <START:VALOR_QUANTIDADE> 32% <END> , o do gasóleo <START:VALOR_QUANTIDADE> 70% <END> e os custos com pessoal <START:VALOR_QUANTIDADE> 14% <END> , explicou.
-O preço do arroz, cujo consumo per capita em <START:LOCAL_HUMANO> Portugal <END> é o mais alto da <START:LOCAL_HUMANO> Europa <END> , deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores.
-A <START:ORGANIZACAO_INSTITUICAO> Associação Nacional dos Industriais de Arroz <END> ( <START:ORGANIZACAO_INSTITUICAO> ANIA <END> ) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em <START:LOCAL_HUMANO> Portugal <END> um acréscimo do valor por tonelada de <START:VALOR_MOEDA> 200 a 230 euros <END> <START:TEMPO_TEMPO_CALEND> em 2006 <END> para <START:VALOR_MOEDA> 280 a 290 euros <END> <START:TEMPO_TEMPO_CALEND> este ano <END> .
-Nos transportes públicos, a subida é, em média, de <START:VALOR_QUANTIDADE> 3,9% <END> , e nas portagens das auto-estradas será de <START:VALOR_QUANTIDADE> 2,6% <END> , também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar " <START:TEMPO_TEMPO_CALEND> até 15 de Novembro <END> as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida.
-Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de <START:VALOR_MOEDA> 5 cêntimos <END> .
-O tabaco também vai pesar mais na carteira: o <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> decidiu <START:TEMPO_TEMPO_CALEND> em 2005 <END> que o Imposto sobre o Tabaco teria um aumento médio anual de <START:VALOR_QUANTIDADE> 15% <END> <START:TEMPO_TEMPO_CALEND> até 2009 <END> e, <START:TEMPO_TEMPO_CALEND> a partir de Janeiro de 2008 <END> , um maço das marcas mais comercializadas poderá mesmo aumentar, em média, <START:VALOR_MOEDA> 30 cêntimos <END> .
-Sem contas fechadas, os <START:ORGANIZACAO_EMPRESA> CTT <END> adiantam que «os preços dos serviços de correios não vão aumentar já <START:TEMPO_TEMPO_CALEND> em Janeiro <END> » e, na água, o <START:ORGANIZACAO_INSTITUICAO> Instituto Regulador das Águas e Resíduos <END> ( <START:ORGANIZACAO_INSTITUICAO> IRAR <END> ) diz que o procedimento <START:TEMPO_TEMPO_CALEND> para 2008 <END> está actualmente em curso, prevendo-se a sua conclusão <START:TEMPO_TEMPO_CALEND> em Janeiro <END> .
-Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas <START:TEMPO_TEMPO_CALEND> no momento <END> do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município.
-Mas nem tudo são más notícias, tendo em conta que o Salário Mínimo Nacional vai aumentar, <START:TEMPO_TEMPO_CALEND> a partir do dia 1 de Janeiro <END> , <START:VALOR_QUANTIDADE> 5,7% <END> , para <START:VALOR_MOEDA> 426 euros <END> .
-O valor fixado insere-se no acordo tripartido assinado <START:TEMPO_TEMPO_CALEND> no ano passado <END> e que prevê uma evolução significativa do salário mínimo, de modo a atingir os <START:VALOR_QUANTIDADE> 450 euros <END> <START:TEMPO_TEMPO_CALEND> em 2009 <END> e os <START:VALOR_QUANTIDADE> 500 euros <END> <START:TEMPO_TEMPO_CALEND> em 2011 <END> .
-O "Indexante de Apoios Sociais (IAS), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos <START:VALOR_MOEDA> 407,4 euros <END> , o que traduz um crescimento de <START:VALOR_QUANTIDADE> 2,4% <END> ,  <START:TEMPO_TEMPO_CALEND> a partir de Janeiro do próximo ano <END> , segundo as contas feitas pela agência <START:ORGANIZACAO_EMPRESA> Lusa <END> .
-Em relação à actualização das pensões atribuídas pelo sistema de  <START:ORGANIZACAO_INSTITUICAO> Segurança Social <END> , as pensões de valor igual ou inferior a <START:VALOR_MOEDA> 1,5 IAS <END> ( <START:VALOR_MOEDA> 611,10 euros <END> ) são actualizadas em <START:VALOR_QUANTIDADE> 2,7% <END> , as pensões <START:VALOR_MOEDA> entre 1,5 IAS e 6 IAS <END> tem uma actualização de <START:VALOR_QUANTIDADE> 2,17% <END> e as pensões de valor superior a <START:VALOR_MOEDA> 6 IAS <END> tem um aumento de <START:VALOR_QUANTIDADE> 1,88% <END> .
-Estes valores foram calculados com base na lei 53-B/2006, <START:TEMPO_TEMPO_CALEND> de 29 de Dezembro <END> , que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de <START:ORGANIZACAO_INSTITUICAO> Segurança Social <END> .
+
+<START:ORGANIZACAO_EMPRESA>Panda<END> elege os vírus mais curiosos <START:TEMPO_TEMPO_CALEND>de 2007<END>
+
+
+O laboratório anti-malware da <START:ORGANIZACAO_EMPRESA>Panda Security<END>, revelou um relatório onde agrupa os "mais curiosos" exemplos de malware que emergiram <START:TEMPO_TEMPO_CALEND>no último semestre de 2007<END>.
+Alguns exemplos da lista:
+
+
+-O código malicioso "mais pontual" detectado nos últimos tempos, revela a <START:OBRA_PLANO>Panda<END>, foi o <START:COISA_CLASSE>Trojan Aifone.A<END>.
+O nome não engana: é um malware associado ao  <START:COISA_CLASSE>iPhone<END> da <START:ORGANIZACAO_EMPRESA>Apple<END>.
+Mal tinha acabado de ser lançado, já este malware o promovia, mas com o objectivo de propagar cópias de si mesmo entre utilizadores...
+
+
+-"O worm mais travesso" foi o <START:COISA_CLASSE>RogueMario.A<END>, destinado a entreteter os utilizadores enquanto os infecta.
+Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo <START:COISA_CLASSE>Mario Bros<END> de cada vez que infecta um computador.
+-A categoria <START:ABSTRACCAO_DISCIPLINA>Lost in Translation<END>" vai para worms como os <START:COISA_CLASSE>MSNFunny.B<END>, <START:COISA_CLASSE>Mimbot.A<END> ou <START:COISA_CLASSE>MsnSend.A<END>, que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas.
+-O <START:COISA_CLASSE>Voter.A<END> é um worm com "consciência cívica", conta a <START:ORGANIZACAO_EMPRESA>Panda<END>.
+Convida os cidadãos do <START:LOCAL_HUMANO>Quénia<END> a participarem em eleições e a votarem num dos candidatos.
+Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato <START:TEMPO_FREQUENCIA>de nove a nove segundos<END>.
+-O <START:COISA_CLASSE>Trojan LiveDeath.A<END> tem associado a si a curiosidade.
+Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como "Qual a sua cor favorita?".
+O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á.
+Ainda que algumas destas ameaças lhe possam parecer interessantes, a <START:OBRA_PLANO>Panda<END> recomenda o afastamento face a estes exemplos de malware.
 --DOCSTART--
     
+Uma nação de pedintes
+    
+
+      O
+      <START:PESSOA_INDIVIDUAL>PRESIDENTE Sarkozy<END>
+      abriu a
+      <START:ACONTECIMENTO_EVENTO>Conferência de Dadores<END>
+      realizada em
+      <START:LOCAL_HUMANO>Paris<END>
+      com uma frase grandiloquente sobre a necessidade urgente de criar um
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END> palestiniano
+      <START:TEMPO_TEMPO_CALEND>no fim de 2008<END>
+      .
+O
+      <START:PESSOA_CARGO>Presidente<END>
+      ou é mentiroso ou finge-se ignorante, ou as duas coisas.
+Depois do falhanço esperado da cimeira de
+      <START:LOCAL_HUMANO>Annapolis<END>
+      , um modo de
+      <START:PESSOA_INDIVIDUAL>Condoleezza Rice<END>
+      salvar a face e de a
+       <START:ORGANIZACAO_ADMINISTRACAO>Administração<END>  americana
+      e a
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      continuarem a fingir que estão interessadas em resolver o conflito israelo-palestiniano e de lavarem as mãos de tudo o resto,
+      <START:PESSOA_INDIVIDUAL>Sarkozy<END>
+      não pode ignorar que o momento para pronunciamentos débeis é o menos adequado.
+<START:PESSOA_INDIVIDUAL>Tony Blair<END>
+      , depois de ter minado todo o processo de paz do
+      <START:LOCAL_HUMANO>Médio Oriente<END>
+      ao ordenar a invasão do
+      <START:LOCAL_HUMANO>Iraque<END>
+      de braço dado com
+      <START:PESSOA_INDIVIDUAL>Bush<END>
+      , continua a emitir piedades deste género, e diz que está <START:TEMPO_GENERICO>na altura<END> de resolver o problema e que ele pode ser resolvido.
+<START:PESSOA_INDIVIDUAL>Blair<END>
+      não sabe o que diz.
+A verdade é que não pode ser resolvido, já não pode, e não pode justamente nesta fase, quando os palestinianos têm não um mas dois governos e dois territórios, um ocupado pelos israelitas, a
+      <START:LOCAL_HUMANO>Cisjordânia<END>
+      , outro abandonado pelos israelitas e bombardeado pelos israelitas,
+      <START:LOCAL_HUMANO>Gaza<END>
+      .
+<START:TEMPO_DURACAO>Anos e anos<END>
+      de destruição compulsiva de interlocutores, alguns moderados, e de opressão, fizeram do povo palestiniano uma nação de pedintes.
+<START:ORGANIZACAO_ADMINISTRACAO>Gaza<END>
+      subvive das esmolas iranianas, sauditas e dos
+      <START:ORGANIZACAO_ADMINISTRACAO>Emiratos<END>
+      , e a
+      <START:ORGANIZACAO_ADMINISTRACAO>Cisjordânia<END>
+      subvive de doações da
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      , da
+      <START:ORGANIZACAO_ADMINISTRACAO>América<END>
+      , de 
+      Estados árabes 
+      e das
+      <START:ORGANIZACAO_ADMINISTRACAO>Nações Unidas<END>
+      .
+Nenhuma nação palestiniana pode aspirar a ser um
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END> palestiniano
+      , e um país viável, sem unidade do território e do povo, e sem soberania sobre esse povo e esse território.
+No terreno, temos a pior situação de sempre.
+O
+      <START:ORGANIZACAO_INSTITUICAO>Hamas<END>
+      a mandar em
+      <START:ORGANIZACAO_ADMINISTRACAO>Gaza<END>
+      , e a
+      <START:ORGANIZACAO_INSTITUICAO>OLP<END>
+      a fingir que manda na
+      <START:ORGANIZACAO_ADMINISTRACAO>Cisjordânia<END>
+      .
+<START:PESSOA_INDIVIDUAL>Sarkozy<END>
+      , e
+      <START:PESSOA_INDIVIDUAL>Blair<END>
+      , e os europeus, sendo a
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      o maior dador de dinheiro para os palestinianos e já vamos ver porquê, não podem desconhecer que nem
+      <START:PESSOA_INDIVIDUAL>Mahmoud Abbas<END>
+      é um chefe com apoio popular na
+      <START:LOCAL_HUMANO>Cisjordânia<END>
+      nem a
+      <START:ORGANIZACAO_INSTITUICAO>OLP<END>
+      , dominada pela
+      <START:ORGANIZACAO_INSTITUICAO>Fatah<END>
+      , tem apoio popular em
+      <START:LOCAL_HUMANO>Gaza<END>
+      .
+Se realizassem eleições na
+      <START:LOCAL_HUMANO>Cisjordânia<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Abbas<END>
+      e um grupo de agentes corruptos disfarçados de "moderados" não as ganhariam, e não as ganhariam nas cidades onde o
+      <START:ORGANIZACAO_INSTITUICAO>Hamas<END>
+      ganhou.
+<START:PESSOA_INDIVIDUAL>Abbas<END>
+      pode fingir mandar em
+      <START:ORGANIZACAO_INSTITUICAO>Ramallah<END>
+      e na clientela privilegiada de uma organização que não soube constituir-se como fonte legítima do poder palestiniano, não pode fingir que é considerado em
+      <START:LOCAL_HUMANO>Jenin<END>
+      e
+      <START:LOCAL_HUMANO>Hebron<END>
+      , em
+      <START:LOCAL_HUMANO>Nablus<END>
+      e
+      <START:LOCAL_HUMANO>Tulkarem<END>
+      , em
+      <START:LOCAL_HUMANO>Jericó<END>
+      e
+      <START:LOCAL_HUMANO>Jerusalém Oriental<END>
+      .
+<START:PESSOA_INDIVIDUAL>Abbas<END>
+      , arrastando-se aos pés dos chefes europeus a mendigar uns milhares de milhões de dólares enquanto insulta o
+      <START:ORGANIZACAO_INSTITUICAO>Hamas<END>
+      e aceita que os palestinianos de
+      <START:LOCAL_HUMANO>Gaza<END>
+      sejam colectivamente punidos pelo embargo israelita e pela recusa americana e europeia de incluir o
+      <START:ORGANIZACAO_INSTITUICAO>Hamas<END>
+      no processo de paz  é visto como uma marioneta do
+      <START:ORGANIZACAO_ADMINISTRACAO>Ocidente<END>
+      e um traidor.
+Os israelitas sabem isto melhor do que ninguém porque são os que melhor conhecem a quimera do road map.
+<START:ORGANIZACAO_ADMINISTRACAO>Israel<END>
+      , sabendo que não pode devolver a
+      <START:LOCAL_HUMANO>Cisjordânia<END>
+      , desmantelar os colonatos, prescindir da
+      <START:ACONTECIMENTO_EFEMERIDE>Ocupação<END>
+      sem comprometer a sua segurança, dividir
+      <START:LOCAL_HUMANO>Jerusalém<END>
+      ou ceder a pretensões sobre o regresso de milhões de refugiados (que nunca poderão regressar), está interessado em manter as ficções americanas e europeias e administrar a
+      <START:ACONTECIMENTO_EFEMERIDE>Ocupação<END>
+      e a relação de forças, como a sua supremacia militar assegura.
+O
+      <START:ORGANIZACAO_INSTITUICAO>Hamas<END>
+      está interessado, simetricamente, em administrar a resistência.
+<START:ORGANIZACAO_ADMINISTRACAO>Israel<END>
+      só seria obrigado a ceder se os
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados Unidos<END>
+      deixassem de apoiar e de vender milhares de milhões de dólares de armas aos israelitas, e
+      <START:ORGANIZACAO_ADMINISTRACAO>Israel<END>
+      sabe que isso nunca acontecerá, por razões da política interna americana e da força do lobby judeu.
+Nenhum candidato democrata, nem mesmo o utópico
+      <START:PESSOA_INDIVIDUAL>Obama<END>
+      , ousariam modificar este estado de coisas.
+A posição da
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      , dando milhares de milhões que a dispensem de contribuir para uma resolução política, é a mais contraproducente.
+A
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      prefere pagar para não ser incomodada, e prefere transformar, como transformou, os palestinianos numa nação de pedintes.
+A velha e cínica
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      , origem de todo este problema, a assassina
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      como lhe chama o escritor israelita
+      <START:PESSOA_INDIVIDUAL>Amos Oz<END>
+      , sabe que não pode contrariar os
+      <START:ORGANIZACAO_ADMINISTRACAO>Estados Unidos<END>
+      e não quer contrariar os israelitas por má consciência.
+Sabe também que os palestinianos são um povo espoliado, banido, revoltado e oprimido, e que parte da responsabilidade histórica dessa opressão lhe pertence.
+Como contribui para o problema sem contribuir para a solução, a
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      adoptou um discurso de duplicidades e subentendidos, de fraquezas e recuos, de que o
+      <START:PESSOA_INDIVIDUAL>senhor Javier Solanas<END>
+      é o exemplo acabado.
+A rematar o discurso, a
+      <START:ORGANIZACAO_ADMINISTRACAO>Europa<END>
+      passa cheques.
+Os palestinianos habituaram-se a explorar esta fraqueza a seu favor e transformaram a sua reivindicação numa vitimização que lhes dá direito, <START:TEMPO_FREQUENCIA>de tanto em tanto tempo<END>, a uma compensação monetária.
+Muitos milhões acabam, como <START:TEMPO_TEMPO_CALEND>no tempo<END> de <START:PESSOA_INDIVIDUAL>Arafat<END>, em contas secretas e nos bolsos de uma oligarquia.
+Tanto dinheiro não chega para comprar os palestinianos que não estão à venda.
+Os palestinianos vêem o
+      <START:ABSTRACCAO_IDEIA>Muro<END>
+      entrar-lhes pelas vidas dentro, vêem a sua destituição transformada em humilhação, e votam
+      <START:ORGANIZACAO_INSTITUICAO>Hamas<END>
+      ou
+      <START:ORGANIZACAO_INSTITUICAO>Jihad Islâmica<END>
+      .
+Em
+      <START:LOCAL_HUMANO>Gaza<END>
+      , as crianças querem ser mártires.
+E sem
+      <START:LOCAL_HUMANO>Gaza<END>
+      , não haverá
+      <START:LOCAL_HUMANO>Palestina<END>
+      .
+<START:PESSOA_INDIVIDUAL>Clara Ferreira Alves<END>
+    
+  
+
+  --DOCSTART--
+    
 TROPA DE ELITE, OSSO DURO DE ROER, PEGA UM PEGA GERAL, TAMBÉM VAI PEGAR VOCÊ!
-<START:TEMPO_TEMPO_CALEND> Ontem <END> , na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas.
+<START:TEMPO_TEMPO_CALEND>Ontem<END>, na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas.
 Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas.
-Continuei rumo à sessão <START:TEMPO_TEMPO_CALEND> das 19h <END> no <START:LOCAL_HUMANO> Espaço de Cinema <END> em <START:LOCAL_HUMANO> Botafogo <END> .
-Trinta passos adiante parei e lembrei do recente caso " <START:ACONTECIMENTO_EVENTO> Tropa de Elite <END> : o filme tinha vazado no pirata, e <START:TEMPO_TEMPO_CALEND> desde o início da semana <END> estava sendo vendido nas ruas do <START:LOCAL_HUMANO> Rio <END> .
+Continuei rumo à sessão <START:TEMPO_TEMPO_CALEND>das 19h<END> no <START:LOCAL_HUMANO>Espaço de Cinema<END> em <START:LOCAL_HUMANO>Botafogo<END>.
+Trinta passos adiante parei e lembrei do recente caso "<START:ACONTECIMENTO_EVENTO>Tropa de Elite<END>: o filme tinha vazado no pirata, e <START:TEMPO_TEMPO_CALEND>desde o início da semana<END> estava sendo vendido nas ruas do <START:LOCAL_HUMANO>Rio<END>.
 Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia.
 Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso.
 Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata.
-Logo encontrei dois títulos nacionais: <START:OBRA_REPRODUZIDA> Xuxa Gêmeas <END> e <START:OBRA_REPRODUZIDA> Ó paí ó <END> .
-Perguntei se ele tinha <START:OBRA_REPRODUZIDA> Tropa de Elite <END> , o rapaz branquelo, com cara de rapper zona sul, boné e bermudão <START:COISA_CLASSE> Billabong <END> respondeu:    
+Logo encontrei dois títulos nacionais:<START:OBRA_REPRODUZIDA>Xuxa Gêmeas<END> e <START:OBRA_REPRODUZIDA>Ó paí ó<END> .
+Perguntei se ele tinha <START:OBRA_REPRODUZIDA>Tropa de Elite<END>, o rapaz branquelo, com cara de rapper zona sul, boné e bermudão <START:COISA_CLASSE>Billabong<END> respondeu:
+    
 - Com certeza!
 Tem sim.
-Quis saber mais sobre o filme, como se só tivesse ouvido falar através do burburinho das ruas:    
-- Ah, esse não é o filme que teve os armamentos roubados no " <START:LOCAL_HUMANO> Chapéu Mangueira <END> "?
+Quis saber mais sobre o filme, como se só tivesse ouvido falar através do burburinho das ruas:
+    
+- Ah, esse não é o filme que teve os armamentos roubados no "<START:LOCAL_HUMANO>Chapéu Mangueira<END>"?
 - É esse mesmo.
-É com o <START:PESSOA_INDIVIDUAL> Olavo <END> da novela.
-- Que <START:PESSOA_INDIVIDUAL> Olavo <END> ?
-- O <START:PESSOA_INDIVIDUAL> Wagner <END> , <START:PESSOA_INDIVIDUAL> Wagner Moura <END> .
+É com o <START:PESSOA_INDIVIDUAL>Olavo<END> da novela.
+- Que <START:PESSOA_INDIVIDUAL>Olavo<END>?
+- O <START:PESSOA_INDIVIDUAL>Wagner<END>, <START:PESSOA_INDIVIDUAL>Wagner Moura<END>.
 - Ah legal, então é esse mesmo.
 Quanto é?
 - É cinco.
@@ -250,486 +339,729 @@ Mídia roxinha!
 - Tá completo ne?
 Não falta cena não!?
 - Completo!
-- Beleza então, se a qualidade não for boa eu volto aqui <START:TEMPO_TEMPO_CALEND> amanhã <END> e troco.
+- Beleza então, se a qualidade não for boa eu volto aqui <START:TEMPO_TEMPO_CALEND>amanhã<END> e troco.
 - Tranqüilo, tá garantido.
 E tava mesmo.
 A qualidade realmente era perfeita, som e imagem de primeira, cartelas e intertítulos em inglês!
 Só faltaram os créditos finais.
-Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de <START:COISA_CLASSE> PM <END>  à paisana.
+Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de <START:COISA_CLASSE>PM<END>  à paisana.
 Ficou ali, meio de esguelha, prestando atenção, e eu, ao lado, esperando o produto.
 Parecia que a conversa alheia fechava alguma combinação.
-Cutuquei:    
-- E aê, tem o <START:COISA_OBJECTO> Tropa de Elite <END> ou não?
+Cutuquei:
+    
+- E aê, tem o <START:COISA_OBJECTO>Tropa de Elite<END> ou não?
 - perguntei de novo, querendo sair logo pro cinema.
 - Tem sim.
-Sai um <START:COISA_MEMBROCLASSE> Tropa <END> aí - disse o branquelo pro chapa.
-O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia <START:ABSTRACCAO_NOME> Tropa de Elite <END> escrito com uma fonte meio " <START:COISA_CLASSE> Linha Direta <END> " e umas fotos não identificáveis que deviam reproduzir cenas do filme.
+Sai um <START:COISA_MEMBROCLASSE>Tropa<END> aí - disse o branquelo pro chapa.
+O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia <START:ABSTRACCAO_NOME>Tropa de Elite<END> escrito com uma fonte meio "<START:COISA_CLASSE>Linha Direta<END>" e umas fotos não identificáveis que deviam reproduzir cenas do filme.
 Dentro vinha o DVD da "mídia roxinha", abri pra constatar.
-Me entregou logo dizendo:    
-- Também tem aquele ali, com o <START:PESSOA_INDIVIDUAL> Lázaro Ramos <END> , " <START:OBRA_REPRODUZIDA> Ó pái ó <END> ".
+Me entregou logo dizendo:
+    
+- Também tem aquele ali, com o <START:PESSOA_INDIVIDUAL>Lázaro Ramos<END>, "<START:OBRA_REPRODUZIDA>Ó pái ó<END>".
 - Ó Paí ó , to ligado, esse eu já vi - o que não era verdade, só para não estender mais a transação.
-- Também tem o <START:OBRA_REPRODUZIDA> Caixa Dois <END> , sabe qual é?
-- Sei sim, mas <START:TEMPO_TEMPO_CALEND> hoje <END> só quero o <START:OBRA_REPRODUZIDA> Tropa <END> mesmo - já quase íntimo do filme do <START:PESSOA_INDIVIDUAL> Padilha <END> .
-Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por <START:VALOR_MOEDA> 5 pratas <END> , menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os <START:PESSOA_GRUPOMEMBRO> Bopes <END> , roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como <START:PESSOA_INDIVIDUAL> Tulé Peak <END> (diretor de arte), <START:PESSOA_INDIVIDUAL> Braulio Mantovani <END> (roteirista) e <START:PESSOA_INDIVIDUAL> Daniel Rezende <END> (montador) - não por acaso, o mesmo trio ternura por trás de <START:OBRA_REPRODUZIDA> Cidade de Deus <END> -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc.
+- Também tem o <START:OBRA_REPRODUZIDA>Caixa Dois<END>, sabe qual é?
+- Sei sim, mas <START:TEMPO_TEMPO_CALEND>hoje<END> só quero o <START:OBRA_REPRODUZIDA>Tropa<END> mesmo - já quase íntimo do filme do <START:PESSOA_INDIVIDUAL>Padilha<END>.
+Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por <START:VALOR_MOEDA>5 pratas<END>, menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os <START:PESSOA_GRUPOMEMBRO>Bopes<END>, roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como <START:PESSOA_INDIVIDUAL>Tulé Peak<END> (diretor de arte), <START:PESSOA_INDIVIDUAL>Braulio Mantovani<END> (roteirista) e <START:PESSOA_INDIVIDUAL>Daniel Rezende<END> (montador) - não por acaso, o mesmo trio ternura por trás de <START:OBRA_REPRODUZIDA>Cidade de Deus<END> -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc.
 Uma trabalheira danada.
-E depois de tudo isso, ver um pedaço mutilado do seu "filho" de <START:VALOR_QUANTIDADE> 3 anos <END> parar na mão de geral por <START:VALOR_MOEDA> 5 real <END> (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na <START:VALOR_CLASSIFICACAO> 16ª <END> versão da montagem).
-É um caso inédito para o cinema brasileiro, e talvez para a <START:ORGANIZACAO_INSTITUICAO> Polícia <END> também.
+E depois de tudo isso, ver um pedaço mutilado do seu "filho" de <START:VALOR_QUANTIDADE>3 anos<END> parar na mão de geral por <START:VALOR_MOEDA>5 real<END> (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na <START:VALOR_CLASSIFICACAO>16ª <END>versão da montagem).
+É um caso inédito para o cinema brasileiro, e talvez para a <START:ORGANIZACAO_INSTITUICAO>Polícia<END> também.
 Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora "não-ação" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história.
-O vazamento da cópia já está sendo investigado pela própria <START:ORGANIZACAO_INSTITUICAO> Polícia <END> .
+O vazamento da cópia já está sendo investigado pela própria <START:ORGANIZACAO_INSTITUICAO>Polícia<END>.
 Haja metalinguagem cinematográfica!
 Resta saber como isso vai repercutir daqui pra frente.
 Vai ser bom ou não?
-Quem pode ter certeza sobre o que o <START:PESSOA_INDIVIDUAL> diretor José Padilha <END> diz à <START:PESSOA_MEMBRO> Folha de S. Paulo <END> : "que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro."
+Quem pode ter certeza sobre o que o <START:PESSOA_INDIVIDUAL>diretor José Padilha<END> diz à <START:PESSOA_MEMBRO>Folha de S. Paulo<END>: "que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro."
 Ou será que o boca a boca vai fazer o filme estourar?
-Vai virar reportagem do <START:COISA_CLASSE> Fantástico <END> ?
+Vai virar reportagem do <START:COISA_CLASSE>Fantástico<END>?
 Ganhar as páginas policiais dos jornais mais uma vez?
 Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda.
 O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador.
-Um thriller que combina a crueza esquemática de Notícias de uma guerra particular  e a cinematografia exuberante de <START:OBRA_REPRODUZIDA> Cidade de Deus <END> .
+Um thriller que combina a crueza esquemática de Notícias de uma guerra particular  e a cinematografia exuberante de <START:OBRA_REPRODUZIDA>Cidade de Deus<END>.
 Esse é só o começo de uma grande História que vem por aí.
 Em breve, num cinema perto de você.
 --DOCSTART--
+    
 
-<START:ORGANIZACAO_EMPRESA> Panda <END> elege os vírus mais curiosos <START:TEMPO_TEMPO_CALEND> de 2007 <END>
-O laboratório anti-malware da <START:ORGANIZACAO_EMPRESA> Panda Security <END> , revelou um relatório onde agrupa os "mais curiosos" exemplos de malware que emergiram <START:TEMPO_TEMPO_CALEND> no último semestre de 2007 <END> .
-Alguns exemplos da lista:
--O código malicioso "mais pontual" detectado nos últimos tempos, revela a <START:OBRA_PLANO> Panda <END> , foi o <START:COISA_CLASSE> Trojan Aifone.A <END> .
-O nome não engana: é um malware associado ao  <START:COISA_CLASSE> iPhone <END> da <START:ORGANIZACAO_EMPRESA> Apple <END> .
-Mal tinha acabado de ser lançado, já este malware o promovia, mas com o objectivo de propagar cópias de si mesmo entre utilizadores...
--"O worm mais travesso" foi o <START:COISA_CLASSE> RogueMario.A <END> , destinado a entreteter os utilizadores enquanto os infecta.
-Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo <START:COISA_CLASSE> Mario Bros <END> de cada vez que infecta um computador.
--A categoria <START:ABSTRACCAO_DISCIPLINA> Lost in Translation <END> " vai para worms como os <START:COISA_CLASSE> MSNFunny.B <END> , <START:COISA_CLASSE> Mimbot.A <END> ou <START:COISA_CLASSE> MsnSend.A <END> , que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas.
--O <START:COISA_CLASSE> Voter.A <END> é um worm com "consciência cívica", conta a <START:ORGANIZACAO_EMPRESA> Panda <END> .
-Convida os cidadãos do <START:LOCAL_HUMANO> Quénia <END> a participarem em eleições e a votarem num dos candidatos.
-Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato <START:TEMPO_FREQUENCIA> de nove a nove segundos <END> .
--O <START:COISA_CLASSE> Trojan LiveDeath.A <END> tem associado a si a curiosidade.
-Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como "Qual a sua cor favorita?".
-O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á.
-Ainda que algumas destas ameaças lhe possam parecer interessantes, a <START:OBRA_PLANO> Panda <END> recomenda o afastamento face a estes exemplos de malware.
+      <START:PESSOA_INDIVIDUAL>Aristides de Sousa Mendes<END>
+    
+    
+
+      A
+      <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Aristides de Sousa Mendes<END>
+      permanece ainda
+      
+        <START:PESSOA_CARGO>cônsul de Bordéus<END>
+        
+      quando tem início a
+      <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>
+      , e as tropas de
+      <START:ORGANIZACAO_ADMINISTRACAO>Adolf Hitler<END>
+      avançam rapidamente sobre a
+      <START:LOCAL_HUMANO>França<END>
+      .
+<START:PESSOA_INDIVIDUAL>Salazar<END>
+      manteve a neutralidade de
+      <START:ORGANIZACAO_ADMINISTRACAO>Portugal<END>
+      .
+Pela
+      <START:OBRA_PLANO>Circular 14<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Salazar<END>
+      ordena aos cônsules portugueses espalhados pelo mundo que recusem conferir vistos às seguintes categorias de pessoas: "estrangeiros de nacionalidade indefinida, contestada ou em litígio; os apátridas; os judeus, quer tenham sido expulsos do seu país de origem ou do país de onde são cidadãos".
+Entretanto,
+      <START:TEMPO_TEMPO_CALEND>em 1940<END>
+      , o governo francês refugiou-se temporariamente na cidade, fugindo de
+      <START:LOCAL_HUMANO>Paris<END>
+      antes da chegada das tropas alemãs.
+Dezenas de milhar de refugiados que fogem do avanço
+      <START:PESSOA_GRUPOMEMBRO>Nazi<END>
+      dirigiram-se a
+      <START:LOCAL_HUMANO>Bordéus<END>
+      .
+Muitos deles afluem ao consulado português desejando obter um visto de entrada para
+      <START:LOCAL_HUMANO>Portugal<END>
+      ou para os
+      <START:LOCAL_HUMANO>Estados Unidos<END>
+      , onde
+      <START:PESSOA_INDIVIDUAL>Sousa Mendes<END>
+      , o cônsul, caso seguisse as instruções do seu governo distribuiria vistos com parcimónia.
+Já
+      <START:TEMPO_TEMPO_CALEND>no final de 1939<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Sousa Mendes<END>
+      tinha desobedecido às instruções do seu governo e emitido alguns vistos.
+Entre as pessoas que ele tinha então decidido ajudar encontra-se o
+      
+        <START:PESSOA_CARGO>Rabino<END>
+        de
+        <START:LOCAL_HUMANO>Antuérpia<END>
+        <START:PESSOA_INDIVIDUAL>Jacob Kruger<END>
+      
+      , que lhe faz compreender que há que salvar os refugiados judeus.
+<START:TEMPO_TEMPO_CALEND>A 16 de Junho de 1940<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Aristides<END>
+      decide entregar um visto a todos os refugiados que o pedirem: "A partir de agora, darei vistos a toda a gente, já não há nacionalidades, raça ou religião".
+Com a ajuda dos seus filhos e sobrinhos e do
+      <START:PESSOA_INDIVIDUAL>rabino Kruger<END>
+      , ele carimba passaportes, assina vistos, usando todas as folhas de papel disponíveis.
+Confrontado com os primeiros avisos de
+      <START:ORGANIZACAO_ADMINISTRACAO>Lisboa<END>
+      , ele terá dito: "Se há que desobedecer, prefiro que seja a uma ordem dos homens do que a uma ordem de
+      <START:PESSOA_INDIVIDUAL>Deus<END>
+      ".
+Uma vez que
+      <START:PESSOA_INDIVIDUAL>Salazar<END>
+      tomara medidas contra o cônsul,
+      <START:PESSOA_INDIVIDUAL>Aristides<END>
+      continuou a sua actividade
+      <START:TEMPO_TEMPO_CALEND>de 20 a 23 de Junho<END>
+      em
+      <START:LOCAL_HUMANO>Baiona<END>
+      (
+      <START:LOCAL_HUMANO>França<END>
+      ), no escritório de um vice-cônsul estupefacto, e mesmo na presença de dois outros funcionários de
+      <START:PESSOA_INDIVIDUAL>Salazar<END>
+      .
+<START:TEMPO_TEMPO_CALEND>A 22 de Junho de 1940<END>
+      , a
+      <START:ORGANIZACAO_ADMINISTRACAO>França<END>
+      pediu um armistício à
+      <START:ORGANIZACAO_ADMINISTRACAO>Alemanha Nazi<END>
+      .
+Mesmo a caminho de
+      <START:LOCAL_HUMANO>Hendaye<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Aristides<END>
+      continua a emitir vistos para os refugiados que cruzam com ele a caminho da fronteira, uma vez que
+      <START:TEMPO_TEMPO_CALEND>a 23 de Junho<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Salazar<END>
+      demitira-o de suas funções de cônsul.
+Apesar de terem sido enviados funcionários para trazer
+      <START:PESSOA_INDIVIDUAL>Aristides<END>
+      , este lidera com a sua viatura uma coluna de veículos de refugiados e guia-os em direcção à fronteira, onde do lado espanhol não existe qualquer telefone.
+Por isso mesmo, os guardas fronteiriços não tinham sido ainda avisados da decisão de
+      <START:ORGANIZACAO_ADMINISTRACAO>Madrid<END>
+      de fechar as fronteiras com a
+      <START:LOCAL_FISICO>França<END>
+      .
+<START:PESSOA_INDIVIDUAL>Sousa Mendes<END>
+      impressiona os guardas aduaneiros, que acabariam por deixar passar todos os refugiados, que com os seus vistos puderam continuar viagem até
+      <START:LOCAL_HUMANO>Portugal<END>
+      .
+--DOCSTART--
+
+
+Telemoveis.com TV
+
+
+Escolher outra notícia
+
+
+Telemóveis vão ter domínio na <START:LOCAL_VIRTUAL>Net<END>
+
+
+<START:TEMPO_TEMPO_CALEND>2005-07-13<END>
+
+
+A decisão vem na sequência de vários pedidos de um grupo de operadores móveis e fabricantes de telemóveis, que criaram uma joint-venture» para estimular o aparecimento de sites destinados exclusivamente a estes equipamentos.
+E o <START:ORGANIZACAO_INSTITUICAO>ICANN<END> assincou já o acordo nesse sentido com a <START:ORGANIZACAO_EMPRESA>mTLD Top Level Domain<END>, que congrega a <START:ORGANIZACAO_INSTITUICAO>GSM Association<END>, a <START:ORGANIZACAO_EMPRESA>Microsoft<END>, fabricantes como a <START:ORGANIZACAO_EMPRESA>Nokia<END>, a <START:ORGANIZACAO_EMPRESA>Samsung<END> e a <START:ORGANIZACAO_EMPRESA>Ericsson<END> e operadores como a <START:ORGANIZACAO_EMPRESA>Vodafone<END>, a <START:ORGANIZACAO_EMPRESA>Telefónica Móviles<END>, a <START:ORGANIZACAO_EMPRESA>Hutchison 3<END> e a <START:ORGANIZACAO_EMPRESA>T-Mobile<END>.
+O objectivo desta iniciativa é fazer aumentar a utilização da  Internet  no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.
+Em princípio, o sufixo .mobi deverá ser integrado automaticamente nos endereços logo que o sistema detecte que o acesso está a ser efectuado via telemóvel.
 --DOCSTART--
     
- <START:ORGANIZACAO_ADMINISTRACAO> Reino Unido <END> quer proibir <START:OBRA_REPRODUZIDA> Tintim <END>        
- <START:TEMPO_TEMPO_CALEND> 12/Julho/2007 <END> · <START:VALOR_QUANTIDADE> 182 <END> Comentários        
- A <START:ORGANIZACAO_INSTITUICAO> Comissão pela Igualdade Racial <END> , do governo britânico, pediu que as livrarias interrompam a venda de <START:OBRA_REPRODUZIDA> Tintim na África <END>  , segundo álbum em quadrinhos de uma das séries mais populares do mundo.
-O livro é racista.
-Profundamente racista.
-Colonialista ao limite.
-Publicado <START:TEMPO_TEMPO_CALEND> em 1930 <END> , em <START:OBRA_REPRODUZIDA> Tintin au Congo <END>  negros são burros qual portas e são chamados de macacos.
-O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por <START:PESSOA_INDIVIDUAL> Georges Remi <END> , que se assinava <START:ABSTRACCAO_NOME> Hergé <END> .
-No <START:LOCAL_HUMANO> Reino Unido <END> , <START:OBRA_REPRODUZIDA> Tintim na África <END>  é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista.
-Traz na capa um alerta.
-Já velho, antes de morrer, <START:PESSOA_INDIVIDUAL> Hergé <END> falou da obra.
-"Quando jovem, disse, "fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo.
-Ele listava <START:OBRA_REPRODUZIDA> Tintim na África <END>  entre seus pecados de juventude.
-<START:PESSOA_INDIVIDUAL> Hergé <END> é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos.
-Inclua-se na lista sua obra prima, <START:OBRA_REPRODUZIDA> Tintim no Tibete <END> , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar <START:PESSOA_INDIVIDUAL> Chang <END> , seu amigo chinês, único sobrevivente de um acidente de avião.
-O livro, <START:TEMPO_TEMPO_CALEND> de 1960 <END> , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.
-O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda.
-<START:OBRA_REPRODUZIDA> Tintim na África <END>  faz parte de uma coleção de <START:VALOR_QUANTIDADE> 23 <END> álbuns.
-Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo <START:TEMPO_TEMPO_CALEND> nos anos 1930 <END> .
-Se o racismo nos incomoda <START:TEMPO_TEMPO_CALEND> hoje <END> , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o <START:ACONTECIMENTO_EFEMERIDE> Holocausto <END> e <START:PESSOA_INDIVIDUAL> Luther King <END> , remodelaram nossa percepção do mundo.
-Esquecer que o racismo era natural <START:TEMPO_TEMPO_CALEND> há oitenta anos <END> é desdenhar do esforço envolvido em dominá-lo.
-Se deixamos de ler os registros cotidianos <START:TEMPO_TEMPO_CALEND> daquele tempo <END> - como <START:OBRA_REPRODUZIDA> Tintim na África <END>  -, estimulamos este esquecimento.
-Nenhuma obra deve ser lida ignorando a época na qual foi escrita.
-O intervalo entre <START:OBRA_REPRODUZIDA> Tintim na África <END>  e <START:OBRA_REPRODUZIDA> Tintim no Tibete <END>  mostra ao leitor de <START:PESSOA_INDIVIDUAL> Hergé <END> a mudança do autor.
-Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.
-Mas como cresceu entre um e outro.
---DOCSTART--
+A hora da verdade
     
- <START:ORGANIZACAO_ADMINISTRACAO> Ministério da Defesa Nacional <END>         
- <START:PESSOA_CARGO> Ministro da Defesa Nacional <END> visita    <START:PESSOA_GRUPOMEMBRO> Forças Nacionais Destacadas <END>   no   <START:LOCAL_HUMANO> Afeganistão <END>         
- O <START:PESSOA_CARGO> Ministro da Defesa Nacional <END> , <START:PESSOA_INDIVIDUAL> Nuno Severiano Teixeira <END> , desloca-se ao <START:LOCAL_HUMANO> Afeganistão <END> , <START:TEMPO_TEMPO_CALEND> no dia 29 de Dezembro <END> , para efectuar uma visita às    <START:PESSOA_GRUPOMEMBRO> Forças Nacionais Destacadas <END>   em   <START:LOCAL_HUMANO> Cabul <END>  .
-<START:PESSOA_INDIVIDUAL> Nuno Severiano Teixeira <END> visitará o contingente português estacionado em <START:LOCAL_HUMANO> Campo Warehouse <END> , composto pela    <START:PESSOA_GRUPOMEMBRO> 22.ª Companhia de Atiradores Pára-Quedistas <END>   da   <START:ORGANIZACAO_INSTITUICAO> Brigada de Reacção Rápida <END>  e uma equipa de    <START:PESSOA_GRUPOMEMBRO> Controladores Aéreos Avançados <END>   da   <START:ORGANIZACAO_INSTITUICAO> Força Aérea <END>  .
-O     <START:PESSOA_CARGO> Ministro da Defesa <END> deverá assistir ao briefing do destacamento e visitar o aquartelamento do <START:LOCAL_HUMANO> Campo Warehouse <END> .
-Com um total de <START:VALOR_QUANTIDADE> 161 <END> militares, o contingente português integrado na <START:ORGANIZACAO_ADMINISTRACAO> Força Internacional de Assistência e Segurança <END> ( <START:ORGANIZACAO_ADMINISTRACAO> ISAF <END> ) constitui a   <START:ORGANIZACAO_ADMINISTRACAO> Força de Reacção Rápida <END> do <START:PESSOA_CARGO> Comandante <END>  da força da <START:ORGANIZACAO_ADMINISTRACAO> NATO <END> no <START:LOCAL_HUMANO> Afeganistão <END> .
-<START:PESSOA_INDIVIDUAL> Nuno Severiano Teixeira <END> reúne-se ainda com o comandante da força da <START:ORGANIZACAO_ADMINISTRACAO> NATO <END> ( <START:ORGANIZACAO_ADMINISTRACAO> ISAF <END> ) no <START:LOCAL_HUMANO> Afeganistão <END> , <START:PESSOA_INDIVIDUAL> General Dan McNeill <END> .
-A participação militar Portuguesa no <START:LOCAL_HUMANO> Afeganistão <END> começou <START:TEMPO_TEMPO_CALEND> a 10 de Agosto de 2005 <END> .
-<START:PESSOA_INDIVIDUAL> Nuno Severiano Teixeira <END> aproveita a deslocação a <START:LOCAL_HUMANO> Cabul <END> para manter encontros com as autoridades afegãs.
-O <START:PESSOA_CARGO> Ministro da Defesa <END> deverá reunir-se com o <START:PESSOA_CARGO> Ministro da Defesa <END> afegão, <START:PESSOA_INDIVIDUAL> Raheem Wardag <END> , e com o    <START:PESSOA_CARGO> Presidente <END> da    <START:LOCAL_HUMANO> República Islâmica do Afeganistão <END>  , <START:PESSOA_INDIVIDUAL> Hamid Karzai <END> .
-O <START:PESSOA_CARGO> Ministro da Defesa Nacional <END> estará de regresso a <START:LOCAL_HUMANO> Lisboa <END> <START:TEMPO_TEMPO_CALEND> no dia 30 de Dezembro <END> .
---DOCSTART--
+
+      1.
+<START:TEMPO_TEMPO_CALEND>Hoje à noite<END>
+      o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      tem um teste elucidativo sobre o seu verdadeiro valor.
+Teve-o também <START:TEMPO_TEMPO_CALEND>antes<END> contra o
+      <START:PESSOA_GRUPOMEMBRO>Manchester United<END>
+      , onde passou com distinção, é facto, mas o
+      <START:PESSOA_GRUPOMEMBRO>Manchester<END>
+      <START:TEMPO_TEMPO_CALEND>desta época<END>
+      e, sobretudo, o
+      <START:TEMPO_TEMPO_CALEND>de Dezembro passado<END>
+      , é uma pálida imitação dos «red devils»
+      de um passado recente
+      , que tudo atemorizavam.
+O
+      <START:PESSOA_GRUPOMEMBRO>Liverpool<END>
+      , para além de campeão europeu em título, é melhor equipa e mais calculista.
+Contra ele, o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu.
+Ao iniciar com uma derrota inapelável este terrível ciclo
+      <START:TEMPO_DURACAO>de nove dias<END>
+      em que tudo se pode sonhar e tudo se pode perder, o  <START:PESSOA_GRUPOMEMBRO>Benfica<END> de
+        <START:PESSOA_INDIVIDUAL>Ronald Koeman<END>
+      parece ter lançado a descrença entre os seus --- adeptos e jornalistas.
+De repente, a tão louvada equipa
+      <START:TEMPO_TEMPO_CALEND>de há três semanas atrás<END>
+      parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações.
+Acusa-se
+      <START:PESSOA_INDIVIDUAL>Koeman<END>
+      de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços
+      <START:TEMPO_TEMPO_CALEND>em Dezembro<END>
+      , anunciados pela
+      <START:ORGANIZACAO_INSTITUICAO>Direcção<END>
+      como o suplemento que faltava para a conquista da
+      Liga dos Campeões
+      e que ele, logicamente, tinha de experimentar e utilizar.
+E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o
+      <START:PESSOA_GRUPOMEMBRO>Manchester<END>
+      .
+Até se acusa
+      <START:PESSOA_INDIVIDUAL>Koeman<END>
+      de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de
+      <START:PESSOA_INDIVIDUAL>Quim<END>
+      e de
+      <START:PESSOA_INDIVIDUAL>Moreira<END>
+      , pela manifesta impreparação de
+      <START:PESSOA_INDIVIDUAL>Nereu<END>
+      , ou pela «épica» contratação de
+      <START:PESSOA_INDIVIDUAL>Moretto<END>
+      , delirantemente saudada pela massa associativa e afins.
+Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no
+      <START:ORGANIZACAO_INSTITUICAO>Benfica<END>
+      tem sobretudo a ver com a ilusão criada sobre o valor real da equipa.
+Tudo começou na época passada, com um
+      <START:ACONTECIMENTO_ORGANIZADO>Campeonato<END>
+      e uma
+      <START:ACONTECIMENTO_ORGANIZADO>Taça<END>
+      ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar.
+Por isso, quando
+      <START:PESSOA_INDIVIDUAL>Luís Filipe Vieira<END>
+      disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a
+      <START:ACONTECIMENTO_ORGANIZADO>Champions<END>
+      , continuaram todos a fingir que acreditavam.
+Depois, houve a vitória sobre o
+      <START:PESSOA_GRUPOMEMBRO>Manchester<END>
+      e a série de sete triunfos consecutivos na
+      <START:ACONTECIMENTO_ORGANIZADO>Liga<END>  portuguesa e foi ver o
+      <START:PESSOA_INDIVIDUAL>José Veiga<END>
+      , de peito feito, a anunciar a inevitável revalidação do título e a
+      <START:ACONTECIMENTO_ORGANIZADO>Europa<END>
+      ao virar da esquina.
+Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas.
+E assim se criou a verdade oficial de que estava aí um grande
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      , que nada nem ninguém conseguiriam parar.
+Agora, três súbitas derrotas depois, cai-se no extremo oposto.
+E na pior altura, quando a equipa mais precisava da confiança dos seus.
+Mas, se
+      <START:TEMPO_TEMPO_CALEND>entre hoje e domingo<END>
+      , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão.
+Isso está guardado para um bode expiatório mais conveniente.
+2.
+O
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      jogava em
+      <START:LOCAL_HUMANO>Guimarães<END>
+      sob o peso de ter três jogadores ameaçados de não poderem defrontar o
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      caso vissem um cartão amarelo.
+<START:PESSOA_INDIVIDUAL>Lucílio Baptista<END>
+      foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo).
+Mas, no resto,
+      <START:PESSOA_INDIVIDUAL>Lucílio<END>
+      não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas,
+      <START:PESSOA_INDIVIDUAL>Lucílio Batista<END>
+      conseguiu marcar o dobro de faltas ao
+      <START:PESSOA_GRUPOMEMBRO>Vitória<END>
+      , deixando inúmeras por assinalar contra o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      , e mostrar sete cartões amarelos a jogadores do
+      <START:ORGANIZACAO_INSTITUICAO>Guimarães<END>
+      contra apenas um aos benfiquistas.
+3.
+E, a propósito do «
+      <START:OBRA_PLANO>Apito Dourado<END>
+      », essa mega investigação judicial, que parece ter o condão de vir a arrastar-se
+      <START:TEMPO_DURACAO>durante anos<END>
+      , tornando alguns eternamente suspeitos (ou até mesmo já condenados, a quem isso convém) e outros estranhamente imunes às suspeitas, aguardei com alguma curiosidade o despacho de pronúncia, no que se refere ao
+      <START:PESSOA_CARGO>presidente do FC Porto<END> 
+      .
+Mas, afinal e como aqui antecipei desde o início, a montanha pariu um rato, ou pior ainda, pariu a insustentável continuação das suspeitas por confirmar.
+<START:TEMPO_DURACAO>Mais de um ano<END> de investigações decorrido, depois daquele imenso aparato policial-mediático para ouvir o «suspeitíssimo»
+      <START:PESSOA_INDIVIDUAL>Pinto da Costa<END>
+      , depois de dezenas ou centenas de milhares de contos gastos aos contribuintes, depois de não sei quantas prorrogações de prazo a favor do
+      <START:ORGANIZACAO_ADMINISTRACAO>Ministério Público<END>
+      , depois do reforço extraordinário dos meios de investigação, a «task force » judicial de
+      <START:LOCAL_HUMANO>Gondomar<END>
+      conclui apenas em extrair certidões do processo para que outros continuem a investigar
+      <START:PESSOA_INDIVIDUAL>Pinto da Costa<END>
+      .
+E, quanto a factos novos, indícios novos, provas recolhidas, nada.
+A suspeita «gravíssima» mantém-se rigorosamente a mesma
+      <START:TEMPO_TEMPO_CALEND>de há um ano atrás<END>
+      :
+      <START:TEMPO_TEMPO_CALEND>em 2004<END>
+      , o
+      
+        <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+        de
+        <START:PESSOA_INDIVIDUAL>José Mourinho<END>
+      
+      , já virtual campeão nacional, com alguns onze pontos de avanço sobre o segundo classificado, o
+      <START:PESSOA_GRUPOMEMBRO>Benfica<END>
+      , <START:TEMPO_DURACAO>a semanas<END> de se tornar campeão europeu, terá subornado, com recurso a «meninas» o árbitro do encontro no
+      <START:LOCAL_HUMANO>Dragão<END>
+      contra o
+      <START:PESSOA_GRUPOMEMBRO>E.
+Amadora<END>
+      , em vias de despromoção, como forma de garantir a vitória no jogo --- parece que, de outra maneira, não conseguiriam ganhar.
+E é nisto que se gasta o tempo e o dinheiro dos contribuintes: não fazendo justiça, mas mantendo eternas as suspeitas que a tantos convém.
+Mas também a verdade é que, à luz do que está em causa---e é apenas isto--- só acredita, ou finge acreditar, quem quer.
+4.
+E, pé ante pé, o
+      <START:PESSOA_GRUPOMEMBRO>Sporting<END>
+      está a cinco pontos do
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      e poderá ficar a dois se,
+      <START:TEMPO_TEMPO_CALEND>domingo<END>
+      na
+      <START:LOCAL_HUMANO>Luz<END>
+      , a equipa de
+      <START:PESSOA_INDIVIDUAL>Adriaanse<END>
+      falhar mais uma vez num jogo decisivo.
+Dou-me conta, já
+      <START:TEMPO_TEMPO_CALEND>há um tempo<END>
+      , que muito pouco ou quase nada tenho escrito sobre o
+      <START:PESSOA_GRUPOMEMBRO>Sporting<END>
+      esta época.
+A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o
+      <START:PESSOA_GRUPOMEMBRO>Sporting<END>
+      tenha futebol para ser campeão nacional, esta época.
+Estão em segundo lugar, já só a cinco pontos e ainda vão receber o
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      em
+      <START:LOCAL_HUMANO>Alvalade<END>
+      ?
+Pois, é facto.
+Mas, mesmo assim, não me convencem.
+Ainda
+      <START:TEMPO_TEMPO_CALEND>esta semana<END>
+      o que vi, contra o
+      <START:PESSOA_GRUPOMEMBRO>Paços de Ferreira<END>
+      e em
+      <START:LOCAL_HUMANO>Alvalade<END>
+      , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro <START:TEMPO_TEMPO_CALEND>depois da hora<END>.
+Um
+      <START:VALOR_CLASSIFICACAO>3-0<END>
+      absolutamente enganador, num jogo que não mereceu sequer ganhar.
+Como disse, é possível que ainda tenha de engolir esta opinião.
+Mas, se isso acontecer, é porque o
+      <START:PESSOA_GRUPOMEMBRO>FC Porto<END>
+      entregou o ouro ao bandido.
+©
+      Miguel Sousa Tavares
+      -
+      
+        Jornal "A Bola"
+        
+      -
+      21.02.2006
     
-<START:ABSTRACCAO_ESTADO> Doença de Chagas <END>    
-1.
-NOÇÕES GERAIS.
-Histórico <START:PESSOA_INDIVIDUAL> Carlos Chagas <END> : A <START:ABSTRACCAO_ESTADO> doença de Chagas <END> ou tripanosomíase americana foi descoberta pelo médico sanitarista <START:PESSOA_INDIVIDUAL> Carlos Justiniano Ribeiro das Chagas <END> - <START:PESSOA_INDIVIDUAL> Carlos Chagas <END> - <START:TEMPO_TEMPO_CALEND> em 1909 <END> .
-Este brasileiro descobriu a doença e descreveu praticamente todos os seus aspectos.
-Quando <START:PESSOA_INDIVIDUAL> Carlos Chagas <END> realizava uma campanha contra a malária que atingia operários na construção de um trecho da  <START:LOCAL_HUMANO> Estrada de Ferro Central <END> do <START:LOCAL_HUMANO> Brasil <END> , ao norte de <START:LOCAL_HUMANO> Minas Gerais <END> , ao fazer exames de uma menina doente, encontrou tripanosomos em seu sangue.
-Ao examinar posteriormente as fezes de insetos existentes na região e o sangue de animais mamíferos, constatou também a presença dos mesmos parasitas.
-Desta forma, <START:PESSOA_INDIVIDUAL> Carlos Chagas <END> pode descrever o agente causador, o transmissor e o modo de transmissão da doença, como também comprovar a existência de vertebrados que são reservatórios silvestres e domésticos do parasita, esclarecendo assim os aspectos básicos da epidemiologia da doença.
-Definição da doença: A <START:ABSTRACCAO_ESTADO> doença de Chagas <END> é uma infecção transmissível causada por um parasita que circula no sangue e ataca o coração, bem como órgãos do aparelho digestivo (esôfago e intestino).
-Sua transmissão exige a participação de um vetor, o triatomíneo conhecido pelo nome de barbeiro, fincão, chupança entre outras dependendo da região.
-É uma doença do continente americano (sul dos <START:LOCAL_HUMANO> Estados Unidos <END> até a <START:LOCAL_HUMANO> Argentina <END> ).
-Transmissores: São artrópodes da classe <START:COISA_CLASSE> Insecta <END> , ordem <START:COISA_CLASSE> Hemiptera <END> , família <START:COISA_CLASSE> Reduviidae <END> e subfamília <START:COISA_CLASSE> Triatominae <END> .
-Sugam sangue (hematofágos) em todas as fases de seu ciclo evolutivo.
-Vivem em média <START:TEMPO_DURACAO> entre um a dois anos <END> , com evolução de ovo, ninfa e adulto, com grande capacidade de reprodução e, dependendo da espécie, com intensa resistência ao jejum.
-Ecologia e distribuição.
-Os triatomíneos têm ampla distribuição geográfica no <START:LOCAL_HUMANO> Novo Mundo <END> , desde os <START:LOCAL_HUMANO> Estados Unidos <END> até o sul do <START:LOCAL_HUMANO> Chile <END> e <START:LOCAL_HUMANO> Argentina <END> , existindo espécies que são tipicamente silvestres; e das <START:VALOR_QUANTIDADE> 118 <END> espécies conhecidas, <START:VALOR_QUANTIDADE> 105 <END> são do <START:LOCAL_HUMANO> Novo Mundo <END> .
-Todas as espécies são vetoras em potencial para o <START:COISA_CLASSE> Trypanosoma cruzi <END> , mas seis têm importância epidemiológica na <START:LOCAL_HUMANO> América do Sul <END> : <START:COISA_CLASSE> Triatoma infestans <END> , <START:COISA_CLASSE> T. brasiliensis <END> , <START:COISA_CLASSE> T. dimidiata <END> , <START:COISA_CLASSE> T. sordida <END> , <START:COISA_CLASSE> P. megistus <END> e <START:COISA_CLASSE> Rhodnius prolixus <END> .
-A espécie vetora mais importante, devido ao seu hábito quase que estritamente doméstico e também com a mais extensa área de distribuição, é o <START:COISA_CLASSE> T. infestans <END> , encontrado na <START:LOCAL_HUMANO> Argentina <END> , <START:LOCAL_HUMANO> Bolívia <END> , <START:LOCAL_HUMANO> Brasil <END> , <START:LOCAL_HUMANO> Chile <END> , <START:LOCAL_HUMANO> Paraguai <END> , <START:LOCAL_HUMANO> Peru <END> e <START:LOCAL_HUMANO> Uruguai <END> .
-Em algumas localidades do sul do <START:LOCAL_HUMANO> Brasil <END> ( <START:LOCAL_HUMANO> Rio Grande do Sul <END> ), sul do <START:LOCAL_HUMANO> Peru <END> , <START:LOCAL_HUMANO> Bolívia <END> e algumas localidades do noroeste da <START:LOCAL_HUMANO> Argentina <END> , <START:COISA_CLASSE> T. infestans <END> também tem hábito peridoméstico, ocupando galinheiros, currais etc.
-As colônias em ecótopos artificias têm tendência a se concentrarem nas partes mais altas da parede.
-Neste gênero, <START:COISA_CLASSE> Triatoma <END> , um exemplo típico é dado pelo <START:COISA_CLASSE> T. arthurneivai <END> que, habita fendas de pedras e está associado a lagartos e roedores.
-É encontrado no <START:LOCAL_HUMANO> Brasil <END> nos estados da <START:LOCAL_HUMANO> Bahia <END> , <START:LOCAL_HUMANO> Minas Gerais <END> e <START:LOCAL_HUMANO> São Paulo <END> .
-No estado de <START:LOCAL_HUMANO> São Paulo <END> , Rodrigues et al.
-( <START:TEMPO_TEMPO_CALEND> 1992 <END> ) encontraram adultos da referida espécie em ecótopos artificiais e com infecção natural pelo <START:COISA_CLASSE> T. cruzi <END> .
-Ainda no <START:LOCAL_HUMANO> Brasil <END> , no estado do <START:LOCAL_HUMANO> Rio Grande do Sul <END> , no <START:LOCAL_HUMANO> Uruguai <END> e no norte da <START:LOCAL_HUMANO> Argentina <END> encontra-se outra espécie <START:COISA_CLASSE> T. rubrovaria <END> , tipicamente silvestre que convive com roedores em ambientes pedregosos.
-Apresenta alto índice de infecção natural e invade os domicílios principalmente <START:TEMPO_TEMPO_CALEND> no verão <END> .
-Na <START:LOCAL_HUMANO> Argentina <END> temos mais duas espécies deste grupo que são <START:COISA_CLASSE> T. eratyrusiformis <END> e <START:COISA_CLASSE> T. patagonica <END> : criam-se em lugares pedregosos e alimentam-se de pequenos roedores, mas atacam o homem e os animais domésticos <START:TEMPO_TEMPO_CALEND> à noite <END> .
-<START:COISA_CLASSE> T. brasiliensis <END> com altas taxas de infecção pelo <START:COISA_CLASSE> T. cruzi <END> é o vetor mais importante no nordeste do <START:LOCAL_HUMANO> Brasil <END> , e pode ser encontrado com alguma freqüência em domicílios.
-Tem hábitos silvestres e peridomiciliares, onde está associado com abrigo de cabras, galinheiros e ecótopos rochosos; no peridomicílio e domicílio tem as aves como principal fonte alimentar, seguidas por humanos.
-A segunda espécie vetora é <START:COISA_CLASSE> P. megistus <END> , sendo domiciliada em algumas regiões, peridomiciliar e silvestre em outras.
-Também tem vasta distribuição geográfica, distribui-se desde as <START:LOCAL_HUMANO> Guianas <END> até a <START:LOCAL_HUMANO> Argentina <END> .
-É a espécie responsável pelos focos mais intensos da endemia chagásica em <START:LOCAL_HUMANO> Minas Gerais <END> e <START:LOCAL_HUMANO> Bahia <END> ( <START:LOCAL_HUMANO> Brasil <END> ).
-Tem hábito silvestre no centro do <START:LOCAL_HUMANO> Brasil <END> e leste do <START:LOCAL_HUMANO> Paraguai <END> e está associado a <START:COISA_CLASSE> Didelpbideos <END> , motivo pelo qual os índices de infecção para <START:COISA_CLASSE> T. cruzi <END> são elevados.
-Invadem <START:TEMPO_FREQUENCIA> ocasionalmente <END> domicílios e peridomicílios onde se colonizam com facilidade.
-<START:COISA_CLASSE> P. geniculatus <END> , espécie silvestre que também invade <START:TEMPO_FREQUENCIA> ocasionalmente <END> ecótopos artificiais e tem ampla distribuição geográfica, esta associada a animais com hábitos terrestres (buracos), como é o caso dos tatus.
-Pode-se citar ainda o <START:COISA_CLASSE> P. diasi <END> com distribuição na <START:LOCAL_HUMANO> Bolívia <END> e <START:LOCAL_HUMANO> Brasil <END> nos estados de <START:LOCAL_HUMANO> Goiás <END> , <START:LOCAL_HUMANO> Minas Gerais <END> , <START:LOCAL_HUMANO> São Paulo <END> e <START:LOCAL_HUMANO> Bahia <END> , ocorrendo neste último estado na região da caatinga.
-<START:COISA_CLASSE> P lutzi <END> no nordeste brasileiro e <START:COISA_CLASSE> P. tupynambai <END> no <START:LOCAL_HUMANO> Rio Grande do Sul <END> e <START:LOCAL_HUMANO> Uruguai <END> são espécies que <START:TEMPO_TEMPO_CALEND> nos últimos anos <END> têm sido encontradas <START:TEMPO_FREQUENCIA> com freqüência <END> nas habitações humanas.
-<START:COISA_CLASSE> T. sordida <END> geralmente é encontrada em ecótopos silvestres e no peridomicílio, invade com freqüência o domicílio, mas é considerada espécie secundária.
-Tem distribuição no <START:LOCAL_HUMANO> Brasil Central <END> (cerrado), partes do <START:LOCAL_HUMANO> Paraguai <END> .
-noroeste da <START:LOCAL_HUMANO> Argentina <END> , <START:LOCAL_HUMANO> Uruguai <END> e <START:LOCAL_HUMANO> Bolívia <END> .
-Tem sido encontrada com baixa taxa de infecção natural, a qual está associada a roedores.
-<START:COISA_CLASSE> T. dimidiata <END> freqüenta o domicílio e é encontrada em diversas tocas silvestres, tais como rocas, grutas ocupadas por morcegos e ocos de arvores, sendo um importante vetor da <START:LOCAL_HUMANO> América Central <END> , <START:LOCAL_HUMANO> México <END> , <START:LOCAL_HUMANO> Colômbia <END> , <START:LOCAL_HUMANO> Equador <END> e norte do <START:LOCAL_HUMANO> Peru <END> .
-Outro gênero que pertence a este grupo, cujos adultos invadem ecótopos artificiais, são algumas espécies de <START:COISA_CLASSE> Rhodnius <END> , principalmente <START:COISA_CLASSE> R. domesticus <END> , que é encontrado na região litorânea do <START:LOCAL_HUMANO> Brasil <END> , <START:COISA_CLASSE> R. pictipes <END> nas regiões norte e centro-oeste do <START:LOCAL_HUMANO> Brasil <END> e o <START:COISA_CLASSE> R. brethesi <END> , com distribuição no norte do <START:LOCAL_HUMANO> Brasil <END> e <START:LOCAL_HUMANO> Venezuela <END> , tem hábitos silvestres e habita palmeiras de piaçaba ( <START:COISA_CLASSE> Leopoldinia piassaba <END> ), ataca o homem com avidez e, <START:TEMPO_TEMPO_CALEND> nos últimos anos <END> , tem invadido <START:TEMPO_FREQUENCIA> com freqüência <END> ecótopos artificiais.
-<START:COISA_CLASSE> R. prolixus <END> é a espécie vetora mais importante da <START:LOCAL_HUMANO> Colômbia <END> e <START:LOCAL_HUMANO> Venezuela <END> , onde tem hábito doméstico, sendo responsável pela transmissão natural da <START:ABSTRACCAO_ESTADO> Doença de Chagas <END> .
-Também é importante em algumas partes da <START:LOCAL_HUMANO> América Central <END> , particularmente em <START:LOCAL_HUMANO> El Salvador <END> , <START:LOCAL_HUMANO> Guatemala <END> e <START:LOCAL_HUMANO> Honduras <END> .
-No ambiente domiciliar, <START:COISA_CLASSE> R. prolixus <END> alimenta-se principalmente de sangue humano e de aves, embora utilize também, como fonte alimentar, cães e gatos.
-No ambiente silvestre, faz uso de marsupiais e roedores como fonte de alimento.
-<START:COISA_CLASSE> R. pallescens <END> é importante vetora no <START:LOCAL_HUMANO> Panamá <END> , invade casas <START:TEMPO_FREQUENCIA> com freqüência <END> formando colônias e é encontrada também no peridomicílio e em ambientes silvestres em palmeiras.
-As populações domésticas na área central do <START:LOCAL_HUMANO> Panamá <END> têm como fonte alimentar o homem ( <START:VALOR_QUANTIDADE> 59% <END> ), seguido por marsupiais e aves domésticas.
-No <START:LOCAL_HUMANO> Velho Mundo <END> , são <START:VALOR_QUANTIDADE> 13 <END> as espécies descritas, necessitando de esclarecimentos epidemiológicos.
-Não se encontrou nenhuma infectada pelo <START:COISA_CLASSE> T. cruzi <END> .
-A espécie mais conhecida dentre estas é <START:COISA_CLASSE> Triatoma rubrofasciata <END> , que é cosmopolita e encontrada em regiões portuárias.
---DOCSTART--
-    
-<START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> : influências e afinidades no seu labor lingüístico-filológico    
-( <START:PESSOA_INDIVIDUAL> Evanildo Bechara <END> <START:ORGANIZACAO_INSTITUICAO> UERJ <END> / <START:ORGANIZACAO_INSTITUICAO> UFF <END> )    
-Vem-se, a pouco e pouco, compondo o quadro da história das idéias e das atividades dos lingüistas, filólogos e gramáticos brasileiros.
-A partir de um primeiro e fragmentário levantamento, por falta de informações, de <START:PESSOA_INDIVIDUAL> José Leite de Vasconcelos <END> , e do bem mais circunstanciado Breve retrospecto sobre o ensino da Língua Portuguesa , redigido por <START:PESSOA_INDIVIDUAL> Maximino Maciel <END> <START:TEMPO_TEMPO_CALEND> em novembro de 1910 <END> e que vem como apêndice à sua <START:OBRA_REPRODUZIDA> Gramática Descritiva <END> , vem-se avolumando, em vários centros universitários brasileiros, a pesquisa de informações sobre o tema, de modo que, dentro de pouco, já se pode elaborar um manual bastante rico e informativo sobre essas idéias e atividades.
-Circunscrevendo-se, pela facilidade de informações diretas, ao que se vem fazendo no <START:LOCAL_HUMANO> Rio de Janeiro <END> , cabe menção a um ou dois capítulos da 1.ª série dos  <START:OBRA_REPRODUZIDA> Estudos Filológicos <END> de <START:PESSOA_INDIVIDUAL> Antenor Nascentes <END> , saídos <START:TEMPO_TEMPO_CALEND> em 1939 <END> , e, mais recentemente, os levantamentos de <START:PESSOA_INDIVIDUAL> Sílvio Elia <END> , nos <START:OBRA_REPRODUZIDA> Ensaios de Filologia e Lingüística <END> .
-Depois de um primeiro momento de visão panorâmica, surgem os estudos especiais de autor: <START:OBRA_REPRODUZIDA> M. Said Ali <END> (de <START:PESSOA_INDIVIDUAL> Evanildo Bechara <END> ), <START:OBRA_REPRODUZIDA> J. Mattoso Câmara Jr. <END> (de <START:PESSOA_INDIVIDUAL> Carlos Eduardo Falcão Uchôa <END> ), <START:OBRA_REPRODUZIDA> Clóvis Monteiro <END> (de <START:PESSOA_INDIVIDUAL> Jayr Calhau <END> ), <START:OBRA_REPRODUZIDA> Olmar Guterres da Silveira <END> (de <START:PESSOA_INDIVIDUAL> Horácio Rolim de Freitas <END> ), o exaustivo estudo sobre <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> (de <START:PESSOA_INDIVIDUAL> Maximiano de Carvalho e Silva <END> ), sem contar as análises percucientes de <START:PESSOA_INDIVIDUAL> Joaquim Mattoso Câmara Jr. <END> acerca da obra de <START:PESSOA_INDIVIDUAL> M. Said Ali <END> e <START:PESSOA_INDIVIDUAL> João Ribeiro <END> , reunidos nos <START:OBRA_REPRODUZIDA> Dispersos <END> .
-Só para a referência de uma importante contribuição de <START:LOCAL_HUMANO> São Paulo <END> ( <START:ORGANIZACAO_INSTITUICAO> USP <END> - <START:TEMPO_TEMPO_CALEND> 1998 <END> ), cabe menção a recente tese de livre-docência de <START:PESSOA_INDIVIDUAL> Valter Kehdi <END> <START:OBRA_REPRODUZIDA> A Morfologia e a Sintaxe Portuguesas na Obra de J. Mattoso Câmara Jr <END> .
-Em linhas gerais, depois que os estudos lingüísticos no <START:LOCAL_HUMANO> Brasil <END> se puderam beneficiar da contribuição mais moderna da <START:LOCAL_HUMANO> Europa <END> e da <START:LOCAL_HUMANO> América <END> , traçam-se cinco gerações de representantes bem delineadas das quais só trataremos das três primeiras, porque na última delas se inserem a atividade e a produção de <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , sobre quem queremos <START:TEMPO_TEMPO_CALEND> hoje <END> vos falar.
-Na primeira, inserem-se, entre outros, <START:PESSOA_INDIVIDUAL> M. Said Ali <END> , <START:PESSOA_INDIVIDUAL> João Ribeiro <END> , <START:PESSOA_INDIVIDUAL> Pacheco da Silva Júnior <END> , <START:PESSOA_INDIVIDUAL> Maximino Maciel <END> .
-Uma segunda, com <START:PESSOA_INDIVIDUAL> Mário Barreto <END> , <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> , <START:PESSOA_INDIVIDUAL> Antenor Nascentes <END> , <START:PESSOA_INDIVIDUAL> José Oiticica <END> , <START:PESSOA_INDIVIDUAL> Clóvis Monteiro <END> ; uma terceira, com <START:PESSOA_INDIVIDUAL> J. Mattoso Câmara Jr. <END> , <START:PESSOA_INDIVIDUAL> Serafim da Silva Neto <END> , <START:PESSOA_INDIVIDUAL> Sílvio Elia <END> , <START:PESSOA_INDIVIDUAL> Gladstone Chaves de Melo <END> , <START:PESSOA_INDIVIDUAL> Celso Cunha <END> , <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> .
-<START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , nascido no <START:PESSOA_INDIVIDUAL> Rio de Janeiro <END> <START:TEMPO_TEMPO_CALEND> a 15 de outubro de 1915 <END> e, nesta mesma cidade, falecido <START:TEMPO_TEMPO_CALEND> a 7 de março de 1999 <END> , conheceu um amplo quadro de atividades como filólogo, diplomata, político, acadêmico, enciclopedista, dicionarista, bibliólogo, ensaísta, crítico literário, teórico da literatura, tradutor, jornalista, perito em gastronomia: numa palavra, um humanista.
-Um universo tão multifacetado quanto este permite a execução de um livro de macroscopia de vida, como esse dedicado, com muita justiça, aos <START:VALOR_QUANTIDADE> 80 anos <END> de <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , cuja trajetória triunfal pode ser resumida nesse título feliz do depoimento do diplomata e musicólogo <START:PESSOA_INDIVIDUAL> Vasco Mariz <END> : um processo administrativo-ideológico.
-É o que foi a vida de <START:PESSOA_INDIVIDUAL> Houaiss <END> : nada se fez de improviso ou por acaso.
-Operário disciplinado, cada degrau de sua ascensão era impulsionado pela força do seu projeto ideológico de bem servir a quem dele precisasse, e, na ponta última desse projeto, bem servir a seu país.
-Mas de toda esta trajetória, de todo esse processo administrativo-ideológico nos dão conta os estudos e depoimentos sobre o homem e sobre suas obras enfeixados na miscelânea em honra aos <START:VALOR_QUANTIDADE> 80 anos <END> de <START:PESSOA_INDIVIDUAL> Houaiss <END> .
-Temos aí um retrato de corpo inteiro levantado na visão macroscópica do objeto estudado.
-Todavia, é hora de descermos às minúncias e de percorrer as estradas vicinais que vão desembocar na grande avenida, na grande estrada percorrida pelos ilustres colaboradores de <START:OBRA_REPRODUZIDA> Uma Vida <END> .
-E esses fragmentos, aparentemente desinteressantes e desprovidos de valor, nos permitem juntar certos dados menores para melhor conhecer o gigante retratado <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> .
-Sinto-me em condições favoráveis para fazer esse exercício de crítica construtiva na reunião de alguns dados fragmentários que julgo importantes para uma visão aprofundada do nosso <START:PESSOA_INDIVIDUAL> Houaiss <END> , porque convivi - para pouca alegria e regozijo meu - porque convivi, repito, pouco com ele, se por convivência queremos aludir à proximidade da presença física.
-<START:TEMPO_FREQUENCIA> Permanentemente <END> estava eu com <START:PESSOA_INDIVIDUAL> Houaiss <END> na sua produção lingüístico-filológica refletida e plasmada nos seus livros, nos seus artigos, nas suas conferências.
-E, como éramos joeiradores da mesma seara, percebia com mais nitidez as afinidades com suas fontes de formação e informações, percebendo suas ligações intelectuais mais próximas - percebendo ou supondo perceber -, ainda que se manifestassem, quase sempre, mais elaboradas e mais contundentes do que suas fontes originais, detectava matrizes que honravam os mestres e dignificavam o discípulo.
-Nessa pesquisa de recolher as peças soltas para compor o quadro definitivo, há questões que se impõem pela sua curiosidade.
-Uma delas, por exemplo, está na opção de <START:PESSOA_INDIVIDUAL> Houaiss <END> de matricular-se, na <START:ORGANIZACAO_INSTITUICAO> Faculdade Nacional de Filosofia <END> , no <START:ABSTRACCAO_DISCIPLINA> Curso de Letras Clássicas <END> , para licenciar-se em disciplinas, como <START:ABSTRACCAO_DISCIPLINA> Grego <END> e o <START:ABSTRACCAO_DISCIPLINA> Latim <END> , disciplinas que durante toda a sua vida de produção científica não ocuparam o lugar que normalmente seria esperado.
-É certo que <START:PESSOA_INDIVIDUAL> Houaiss <END> lecionou <START:ABSTRACCAO_DISCIPLINA> Latim <END> , ao lado da <START:ABSTRACCAO_DISCIPLINA> Língua Portuguesa <END> ; é certo também que o conhecimento dos idiomas clássicos esteve na raiz de seu trabalho lexicográfico, dicionarístico e enciclopédístico, mas não tivemos o nosso homenageado a editar textos de grego e latim ou a tratar especificamente de questões de língua ou de literatura clássicas.
-Um interessante episódio de sua vida, narrada por <START:PESSOA_INDIVIDUAL> Maximiano de Carvalho e Silva <END> no livro sobre <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> , revela-nos o quanto já estudava e conhecia de latim, mesmo antes de ingressar na <START:ORGANIZACAO_INSTITUICAO> Faculdade <END> .
-Abrira a  <START:ORGANIZACAO_ADMINISTRACAO> Prefeitura <END> do <START:LOCAL_HUMANO> Distrito Federal <END> , <START:TEMPO_TEMPO_CALEND> em 1936 <END> , concurso para preenchimento de uma vaga de <START:ABSTRACCAO_DISCIPLINA> Português <END> no seu quadro de magistério.
-Inscreveram-se <START:VALOR_QUANTIDADE> 23 <END> candidatos, entre os quais <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> .
-Ponto sorteado: a ortografia portuguesa e seus fundamentos históricos.
-Na comissão examinadora estavam <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> (presidente), <START:PESSOA_INDIVIDUAL> Daltro Santos <END> e <START:PESSOA_INDIVIDUAL> Marieta Castagnino da Mota <END> .
-Corrigidas as provas, foram selecionados <START:VALOR_QUANTIDADE> 6 <END> candidatos, e de um sétimo, porque escrevera mais de trinta péginas sobre ortografia latina; se pensou em não aprová-lo, sob o pretexto de ter fugido do assunto.
-Aí interveio em favor do candidato o <START:PESSOA_INDIVIDUAL> presidente Sousa da Silveira <END> , argumentando que, quem escreveu tanto sobre ortografia latina, se lhe sobrasse tempo, teria feito outra boa exposição acerca da ortografia portuguesa e seus fundamentos históricos.
-E assim foram <START:VALOR_QUANTIDADE> 7 <END> os candidatos aprovados, tendo alcançado o <START:VALOR_CLASSIFICACAO> 1.º <END> lugar no concurso o nosso saudoso <START:PESSOA_INDIVIDUAL> Sílvio Elia <END> .
-Pensando no tema e conversando com pessoas bem informadas, podemos propor umas tantas razões da matrícula nesse <START:ABSTRACCAO_DISCIPLINA> Curso de Letras Clássicas <END> .
-Mas são meras conjecturas, uma vez que <START:PESSOA_INDIVIDUAL> Houaiss <END> , segundo me parece, nunca o explicitou, nem clara nem implicitamente.
-A primeira proposta aponta a influência de seu <START:PESSOA_INDIVIDUAL> professor Ernesto Faria <END> na <START:ORGANIZACAO_INSTITUICAO> Escola Amaro Cavalcanti <END> , onde concluiu seu curso de perito-contador.
-Como sabemos, <START:PESSOA_INDIVIDUAL> Ernesto Faria <END> foi excelente professor de latim, entusiasta do ensino clássico, autor de livros na suas especialidade e um grande propagandista do magistério do latim entre seus alunos, quer no curso secundário, quer no curso superior.
-Mas há duas fortes objeções a essa primeira tentativa de explicação: <START:PESSOA_INDIVIDUAL> Houaiss <END> freqüentou uma escola pública secundária <START:TEMPO_TEMPO_CALEND> no tempo <END> em que ela atraía verdadeiros mestres de nível universitário, e na <START:ORGANIZACAO_INSTITUICAO> Amaro Cavalcanti <END> <START:PESSOA_INDIVIDUAL> Houaiss <END> tivera professores dessa estirpe, como <START:PESSOA_INDIVIDUAL> Clóvis Monteiro <END> e <START:PESSOA_INDIVIDUAL> Mattoso Câmara Jr. <END> , que, a prevalecer e explicação por influência de seus mestres, melhor o iriam levar a matricular-se no <START:ABSTRACCAO_DISCIPLINA> Curso de Letras Neolatinas <END> .
-A segunda objeção é que à turma de <START:PESSOA_INDIVIDUAL> Houaiss <END> na <START:ORGANIZACAO_INSTITUICAO> FNF <END> pertenciam <START:PESSOA_INDIVIDUAL> Celso Cunha <END> e <START:PESSOA_INDIVIDUAL> Olavo Nascentes <END> , que não tinham podido sofrer a influência de <START:PESSOA_INDIVIDUAL> Ernesto Faria <END> na <START:ORGANIZACAO_INSTITUICAO> Escola Amaro Cavalcanti <END> .
-Como <START:PESSOA_INDIVIDUAL> Houaiss <END> , <START:PESSOA_INDIVIDUAL> Celso Cunha <END> também não se dedicou especificamente à pesquisa e à produção na área clássica, a competir com sua importante elaboração de obras no domínio da <START:ABSTRACCAO_DISCIPLINA> Língua Portuguesa <END> .
-<START:PESSOA_INDIVIDUAL> Olavo Nascentes <END> , filho de nosso mestre e saudoso amigo <START:PESSOA_INDIVIDUAL> Antenor Nascentes <END> , excetuando a tradução da <START:OBRA_REPRODUZIDA> Gramática Latina <END> do notável lingüista e filólogo chileno <START:PESSOA_INDIVIDUAL> Rodolfo Oroz <END> , também nada produziu relativo ao grego e ao latim.
-À semelhança de <START:PESSOA_INDIVIDUAL> Houaiss <END> e <START:PESSOA_INDIVIDUAL> Celso <END> , sua participação nessa área limitou-se ao magistério do latim.
-Não custa lembrar que, por essa fase inicial da <START:ORGANIZACAO_INSTITUICAO> FNF <END> , e antes dela, na  <START:ORGANIZACAO_INSTITUICAO> Universidade <END> do <START:LOCAL_HUMANO> Distrito Federal <END> ( <START:ORGANIZACAO_INSTITUICAO> UDF <END> ), brilhavam nela os nomes de <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> , <START:PESSOA_INDIVIDUAL> José Oiticica <END> e <START:PESSOA_INDIVIDUAL> Antenor Nascentes <END> , que, sem dúvida, constituiriam mais uma razão para que <START:PESSOA_INDIVIDUAL> Houaiss <END> , <START:PESSOA_INDIVIDUAL> Celso <END> e <START:PESSOA_INDIVIDUAL> Olavo <END> fizessem o <START:ABSTRACCAO_DISCIPLINA> Curso de Letras Neolatinas <END> .
-Outra plausível explicação para a matrícula em <START:ABSTRACCAO_DISCIPLINA> Letras Clássicas <END> se deve ao fato de se tratar de um curso de largo e profundo prestígio cultural dentro das universidades do mundo inteiro e por um aspecto especial de nele, àquela época inicial dos estudos superiores no <START:LOCAL_HUMANO> Brasil <END> , contar com uma plêiade de mestres europeus, de renome internacional, que vieram ao <START:LOCAL_HUMANO> Brasil <END> , convidados por <START:PESSOA_INDIVIDUAL> Afrânio Peixoto <END> em nome do nosso <START:ORGANIZACAO_ADMINISTRACAO> Governo <END> , para lançar as raízes nessa área de estudos universitários: <START:PESSOA_INDIVIDUAL> Jean Bourciez <END> , <START:PESSOA_INDIVIDUAL> Jacques Perret <END> , <START:PESSOA_INDIVIDUAL> Eugène Albertini <END> , <START:PESSOA_INDIVIDUAL> Georges Millardet <END> .
-Por aí se vê o que de interessante comportam as indagações dessas pequenas facetas, dessa análise microscópica necessária e importante para se fixarem, com maior detalhe, os traços do retrato de corpo inteiro de um talento como <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , e mesmo de boa parte da história cultural dos intelectuais e artistas do <START:LOCAL_HUMANO> Brasil <END> .
-Neste exercício de investigação microscópica das vertentes e fontes que impulsionaram <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , ao largo de sua atividade como lingüista e filólogo - atividade desdobrada no labor lexicográfico, dicionarístico, enciclopédico, ecdótico e de crítica literária -, além, está claro, de seus dotes natos e inclinações pessoais, desejo agora trazer à luz e à consideração dos meus benévolos ouvintes a figura de <START:PESSOA_INDIVIDUAL> José Oiticica <END> que, dentre a trindade que reinava na fase inicial de nossos cursos superiores de letras, poderia ser o menos indicado para, à primeira vista, estabelecer tantos pontos de contacto com <START:PESSOA_INDIVIDUAL> Houaiss <END> .
-E, quiçá, não só pontos de contactos, mas evidentes afinidades, que não se devem reduzir, a meu ver, ao plano do ideal político, pois que, neste aspecto, por informação do irmão <START:PESSOA_INDIVIDUAL> Maurício Houaiss <END> , este ideal deriva da influência do <START:PESSOA_INDIVIDUAL> Professor Pascoal Leme <END> que "tinha "idéias" que logo o apaixonaram, acrescidas do influxo de um colega seu pouco mais velho, <START:PESSOA_INDIVIDUAL> Reinaldo Machado <END> , cujo pai, <START:PESSOA_INDIVIDUAL> José Alves Machado <END> , foi <START:TEMPO_DURACAO> por longo tempo <END> mestre de ambos em matéria de anarquismo"1 .
-<START:PESSOA_INDIVIDUAL> Sílvio Elia <END> , na sua contribuição ao livro acima citado, levanta a ponta desta afinidade a que me refiro, mas, como não era propósito seu, ficou apenas no seguinte pormenor:    
-"Foi nessa oportunidade que três amigos seus [de <START:PESSOA_INDIVIDUAL> Houaiss <END> ], que também haviam participado e sido aprovados no referido concurso [para preencher vagas de <START:PESSOA_CARGO> Professor <END>  da antiga  <START:ORGANIZACAO_INSTITUICAO> Prefeitura <END> do <START:LOCAL_HUMANO> Distrito Federal <END> , <START:TEMPO_TEMPO_CALEND> em 1935 <END> ], <START:PESSOA_INDIVIDUAL> Rocha Lima <END> , <START:PESSOA_INDIVIDUAL> Matos Peixoto <END> e o autor destas linhas, se reuniram para alugarem uma sala no centro da cidade, com o fito de atenderem a alunos particulares (...) Aí não só cumpríamos os nossos deveres profissionais, mas ainda nos reuníamos para trocar idéias sobre problemas do ensino, indagar das novas tendências da filosofia e da lingüística e, last but not least, perdermos em alguns dedos de amenidades e questões de momento.
-Foi então que se aproximou de nós um mestre que todos admirávamos e respeitávamos: <START:PESSOA_INDIVIDUAL> José Oiticica <END> .
-Veio trazer-nos a experiência do seu trabalho didático, de sua larga cultura, a vivência do seu amor ao estudo e aos estudantes.
-<START:PESSOA_INDIVIDUAL> José Oiticica <END> , numa época em que os estudos lingüísticos estavam engolfados nas águas do historicismo, volta-se, em bases mentalistas, para a investigação dos fatos da língua portuguesa, antecipando-se assim ao que viria a ser apanágio da lingüística moderna: a perspectiva sincrônica nos estudos da linguagem.
-Tome-se para exemplo o seu inovador <START:OBRA_REPRODUZIDA> Manual de Análise <END> , infelizmente e injustamente esquecido em nossos cursos universitários.
-Para vaidade nossa, <START:PESSOA_INDIVIDUAL> mestre Oiticica <END> preparava nova edição desse seu livro e queria ouvir a voz crítica da nossa geração sobre o que fizera e o que seria passível de correção e aperfeiçoamento.
-Imagine-se o nosso desvanecimento por sermos assim contemplados por um dos mais autorizados catedráticos do tradicional baluarte da cultura humanística em nosso país, o <START:ORGANIZACAO_INSTITUICAO> Colégio Pedro II <END> .
-<START:PESSOA_INDIVIDUAL> Oiticica <END> foi generoso conosco.
-Deixou estas palavras inscritas na "Advertência desta edição", que reproduzo da 5.ª ed. refundida:    
-E apresso-me em consignar aqui meu profundo reconhecimento aos jovens professores <START:PESSOA_INDIVIDUAL> Almir Câmara de Matos Peixoto <END> , <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , <START:PESSOA_INDIVIDUAL> Sílvio Elia <END> e <START:PESSOA_INDIVIDUAL> Rocha Lima <END> , por muitas preciosas sugestões, levando-me a emendas sérias, modificações de quadros e acuramento na disposição geral.2    
-A citação é de caso pensado longa pela importância de dados biográficos que encerra e por me ensejar partir daí para levantar alguns véus da trama de influências e afinidades que se podem estabelecer entre o nosso <START:PESSOA_INDIVIDUAL> Houaiss <END> e <START:PESSOA_INDIVIDUAL> José Oiticica <END> , restringindo-me, como anunciara <START:TEMPO_TEMPO_CALEND> antes <END> , ao campo das atividades lingüístico-filológicas de ambos.
-Da confluência de características inatas de <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> com a possível participação da presença de <START:PESSOA_INDIVIDUAL> Oiticica <END> , aponto em primeiro lugar, como traço comum a ambos, a preocupação da sistematização dos fatos estudados.
-<START:PESSOA_INDIVIDUAL> Oiticica <END> era um sistematizador por excelência; suas análises em geral confluíam para quadros sinóticos ou esquemas.
-Daí é o próprio mestre do <START:ORGANIZACAO_INSTITUICAO> Pedro II <END> que estabelece, neste sentido, sua relação com outro sistematizador nesses estudos de linguagem que foi <START:PESSOA_INDIVIDUAL> Maximino Maciel <END> , catedrático de <START:ABSTRACCAO_DISCIPLINA> Língua Portuguesa <END> do <START:ORGANIZACAO_INSTITUICAO> Colégio Militar <END> , autor de uma <START:COISA_CLASSE> Gramática Descritiva <END> , muito em voga no ensino <START:TEMPO_TEMPO_CALEND> entre 1887 a 1930 <END> , mais ou menos, <START:TEMPO_TEMPO_CALEND> depois <END> caída injustamente no esquecimento e <START:TEMPO_GENERICO> hoje <END> objeto de teses de pós-graduação em nossas universidades, pelo que apresentava de intuições transformadas em lições da lingüística moderna.
-Nos prefácios e em notas de rodapé, entre outras oportunidades, <START:PESSOA_INDIVIDUAL> José Oiticica <END> ressalta essa contribuição de <START:PESSOA_INDIVIDUAL> Maximino <END> .
-Na última palestra de uma série proferida em <START:LOCAL_HUMANO> São Paulo <END> , na <START:LOCAL_HUMANO> Rádio Cruzeiro do Sul <END> , <START:TEMPO_TEMPO_CALEND> na década de 40 <END> , refere-se à contribuição do gramático sergipano e a importância da sistematização do desenvolvimento dos programas escolares e de sua aplicação na experiência pedagógica desenvolvida no <START:ORGANIZACAO_INSTITUICAO> Colégio Latino-Americano <END> de propriedade de <START:PESSOA_INDIVIDUAL> Oiticica <END> , <START:TEMPO_TEMPO_CALEND> entre 1905 e 1908 <END> .
-Foi a característica de sistematização na vida e na obra de <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> que me fez considerar atrás uma síntese feliz dessa atividade o título do depoimento de <START:PESSOA_INDIVIDUAL> Vasco Mariz <END> : " <START:ABSTRACCAO_NOME> Um processo administrativo-ideológico <END> ".
-Vale recordar que, na referência aos jovens professores que colaboraram na revisão do <START:OBRA_REPRODUZIDA> Manual de Análise <END> , <START:PESSOA_INDIVIDUAL> Oiticica <END> alude a "modificações de quadros" e ao "acuramento na disposição geral", duas facetas de uma qualidade central que se chama "sistematização".
-O segundo elo entre <START:PESSOA_INDIVIDUAL> Oiticica <END> e <START:PESSOA_INDIVIDUAL> Houaiss <END> está no interesse da descrição do sistema fonético do português, especialmente do português do <START:LOCAL_HUMANO> Brasil <END> .
-<START:PESSOA_INDIVIDUAL> José Oiticica <END> , depois de trabalhar para uma tese de concurso ao <START:ORGANIZACAO_INSTITUICAO> Colégio Pedro II <END> acerca da língua de <START:PESSOA_INDIVIDUAL> Camões <END> , apresenta à <START:PESSOA_GRUPOIND> Congregação <END> , <START:TEMPO_TEMPO_CALEND> em 1916 <END> , a 1.ª série de seu <START:OBRA_REPRODUZIDA> Estudos de Fonologia <END> que, incontestavelmente, abre novo caminho nesse domínio da descrição lingüística entre nós.
-<START:PESSOA_INDIVIDUAL> Houaiss <END> sempre cultivou a preocupação da descrição fonética, tanto ligado ao <START:PESSOA_INDIVIDUAL> Oiticica <END> quanto a <START:PESSOA_INDIVIDUAL> Nascentes <END> - outro notável cultor dos estudos fonéticos -, e o ponto mais alto dessa atividade está consubstanciado na exaustiva elaboração da <START:OBRA_REPRODUZIDA> Tentativa de Descrição do Sistema Vocálico do Português Culto na Área Dita Carioca <END> , <START:TEMPO_TEMPO_CALEND> em 1959 <END> e das Normas da pronúncia normal do Brasil  aprovadas pelo <START:ACONTECIMENTO_ORGANIZADO> Primeiro Congresso Brasileiro de Língua Falada no Teatro <END> , realizado <START:TEMPO_TEMPO_CALEND> em 1956 <END> , em <START:LOCAL_HUMANO> Salvador <END> ( <START:LOCAL_HUMANO> Bahia <END> ).
-Só um sistematizador empreende, como empreendeu <START:PESSOA_INDIVIDUAL> Houaiss <END> , o caminho para o dicionário, para a enciclopédia, para a crítica textual.
-Sem alusões pejorativas, tivemos, no campo da erudição dicionarística, quatro gigantes na seara: o <START:PESSOA_INDIVIDUAL> Padre Augusto Magne <END> , <START:PESSOA_INDIVIDUAL> Antenor Nascentes <END> , <START:PESSOA_INDIVIDUAL> Aurélio Buarque de Holanda <END> e <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> .
-O sonhador entre eles, o <START:PESSOA_INDIVIDUAL> Padre Magne <END> , deixou-nos inacabados excelentes dicionários no âmbito do português e do latim; os sistematizadores, e disciplinados, os demais, chegaram com sucesso ao fim de seus projetos lexicográficos.
-Também <START:PESSOA_INDIVIDUAL> Oiticica <END> empreendeu a elaboração de um <START:OBRA_PLANO> Novo Dicionário Popular da Língua Portuguesa Prosódico e Ortográfico <END> que, apesar dos seus <START:VALOR_QUANTIDADE> 16 <END> fascículos, ficou incompleto, por falta de recursos para prossegui-lo.
-O trato com a língua e seu léxico está presente em <START:PESSOA_INDIVIDUAL> Oiticica <END> e em <START:PESSOA_INDIVIDUAL> Houaiss <END> , o que leva os dois a defender a necessidade da riqueza vocabular.
-As seguintes palavras são do velho mestre do <START:ORGANIZACAO_INSTITUICAO> Colégio Pedro II <END> , mas <START:PESSOA_INDIVIDUAL> Houaiss <END> poderia subscrevê-las com prazer e com assentimento:    
-O primeiro mister do escritor é apreender o sistema vocabular de sua língua.
-Tal apreensão há de fazer-se em dois sentidos: extensão e profundidade.
-Ora, o vocabulário das línguas civilizadas cresce <START:TEMPO_FREQUENCIA> todo dia <END> , rapidamente em extensão, quase inteira, no setor técnico, industrial principalmente.
-Novas cousas, novos produtos; novas máquinas, novos nomes.3    
-Ou mais adiante:    
-O estudo penetrante do vocabulário nos dois sentidos apontados capacita o escritor de exprimir tudo com a máxima propriedade.
-Potência vocabular e riqueza de dicção constituem os dois tesouros essenciais do escritor.
-Foi esse o alforje de um <START:PESSOA_INDIVIDUAL> Camilo Castelo Branco <END> , singular milagre literário.4    
-Dos grandes mestres do idioma com quem <START:PESSOA_INDIVIDUAL> Houaiss <END> conviveu como aluno e discípulo - <START:PESSOA_INDIVIDUAL> Oiticica <END> , <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> e <START:PESSOA_INDIVIDUAL> Antenor Nascentes <END> - só o primeiro possuía esse desvanecimento pela riqueza vocabular, como também o praticava nos seus escritos, em prosa ou poesia.
-<START:PESSOA_INDIVIDUAL> Oiticica <END> debruçou-se nos escritores de léxico pujante, fichando seu arsenal vocabular, como, segundo suas declarações, fez de autores portugueses ( <START:PESSOA_INDIVIDUAL> Camilo <END> e <START:PESSOA_INDIVIDUAL> Aquilino Ribeiro <END> ) e brasileiros ( <START:PESSOA_INDIVIDUAL> Rui <END> , <START:PESSOA_INDIVIDUAL> Euclides <END> e <START:PESSOA_INDIVIDUAL> Coelho Neto <END> ).
-Defende este último de maneira veemente: «Houve quem acoimasse <START:PESSOA_INDIVIDUAL> Coelho Neto <END> de maníaco nesse ponto, glosando-se que inventava as histórias para empregar certos vocábulos.
-Não me parece real a coima.
-O que reconheço é serem seus vocábulos empregados com perfeita precisão».5    
-Léxico extenso e profundo não se há de confundir com exuberância desenfreada, catadupa lexical que camba para a verborragia.
-<START:PESSOA_INDIVIDUAL> Oiticica <END> condena-o, ainda que venha sob a chancela de um bom autor:    
-Finalmente, há também, o vocabulário destrambelhado, sem regra nem medida, felizmente raro ou ímpar.
-É o de <START:PESSOA_INDIVIDUAL> Fialho de Almeida <END> .
-Nem sua centelha inconfundível logrou salvá-lo.6    
-Outra estreita afinidade entre essas duas inteligências - <START:PESSOA_INDIVIDUAL> Houaiss <END> e <START:PESSOA_INDIVIDUAL> Oiticica <END> ou <START:PESSOA_INDIVIDUAL> Oiticica <END> e <START:PESSOA_INDIVIDUAL> Houaiss <END> - é o respeito à língua padrão, à norma culta, apanágio da <START:ABSTRACCAO_IDEIA> Cultura <END> , que, longe de ser entendida como antiliberal e aprofundadora das diferenças sociais, é tida como um ponto ideal a ser atingido pela ação da escola e das diversas agências de cultura de que dispõe a sociedade.
-Ambos eram devotos da disciplina gramatical.
-Tal orientação coincide com a de um dos maiores teóricos da linguagem <START:TEMPO_GENERICO> dos nossos dias <END> .
-<START:PESSOA_INDIVIDUAL> Eugenio Coseriu <END> , em resumo de uma conferência no <START:LOCAL_HUMANO> Liceu Literário Português <END> , assim se manifesta:    
-Na lingüística atual considera-se <START:TEMPO_FREQUENCIA> com freqüência <END> só a língua falada 'primária' (espontânea ou 'usual') como 'natural' e 'livre', ao mesmo tempo que a língua exemplar (ou 'língua padrão') e a forma literária desta se consideram como 'artificiais' e 'impostas'.
-Por conseguinte, consideram-se também só a gramática descritiva 'objetivista' como realmente científica e a gramática normativa como expressão sem fundamento científico duma atitude antiliberal e dogmática.
-Trata de erros e confusões teóricas que procedem da concepção positivista vulgar da linguagem e da <START:ABSTRACCAO_DISCIPLINA> Lingüística <END> .
-Na realidade e, portanto, na boa teoria, a língua literária representa o grau mais alto da dimensão deôntica (o 'dever ser') da língua; e a gramática normativa é a manifestação metalingüística explícita desta dimensão.7    
-Sem compará-lo a <START:PESSOA_INDIVIDUAL> Oiticica <END> , <START:PESSOA_INDIVIDUAL> Sílvio Elia <END> , no seu estudo sobre <START:PESSOA_INDIVIDUAL> Houaiss <END> , chamou-nos a atenção para este aspecto do pensamento lingüístico-pedagógico-político do nosso homenageado.
-Como <START:PESSOA_INDIVIDUAL> Oiticica <END> , <START:PESSOA_INDIVIDUAL> Houaiss <END> não perfilhou a tese populista para quem, no dizer de <START:PESSOA_INDIVIDUAL> Sílvio <END> , "a língua errada do povo" era a forma autêntica da fala brasileira.
-Nisto, <START:PESSOA_INDIVIDUAL> Oiticica <END> enquanto anarquista, e <START:PESSOA_INDIVIDUAL> Houaiss <END> enquanto socialista, tocam numa e mesma tecla.
-Como bem resumiu <START:PESSOA_INDIVIDUAL> Sílvio Elia <END> , «Pode, por conseguinte, o homem, ser racional e livre que é, melhorar, aperfeiçoar o seu comportamento por um processo chamado "educação" (...) A escola, no que tange ao ensino da língua portuguesa, ministrará, portanto, ao aluno os conhecimentos necessários para o domínio satisfatório do padrão culto do idioma pátrio».8    
-Neste particular, <START:PESSOA_INDIVIDUAL> Oiticica <END> , tão fiel à sua noção de ordem e de perfeição idiomática, não aceitou os "futuristas".
-<START:PESSOA_INDIVIDUAL> Houaiss <END> , mais jovem e mais bem aparelhado para receber as mudanças, soube melhor compreender o modernismo e futurismo, sem renegar - como fizera <START:PESSOA_INDIVIDUAL> Oiticica <END> - seu partidarismo de uma sociedade baseada na ordem, no belo, na estética.
-Também <START:PESSOA_INDIVIDUAL> Houaiss <END> se aproximava das atividades de <START:PESSOA_INDIVIDUAL> Oiticica <END> no que toca a uma permanente e intensa atuação como crítico literário, labor que não praticavam, com regularidade, <START:PESSOA_INDIVIDUAL> Nascentes <END> nem <START:PESSOA_INDIVIDUAL> Sousa da Silveira <END> .
-Curioso é que até neste domínio <START:PESSOA_INDIVIDUAL> Houaiss <END> se aproxima de <START:PESSOA_INDIVIDUAL> Oiticica <END> , pois que a crítica literária entre eles assinala o domínio de menor relevo e importância de suas atividades.
-Eis aqui uma pálida amostra do que se pode fazer de análise microscópica na obra lingüístico-filológica de <START:PESSOA_INDIVIDUAL> Antônio Houaiss <END> , nas suas aproximações com seus mestres e contemporâneos.
-A <START:PESSOA_INDIVIDUAL> Houaiss <END> se podem bem aplicar as palavras com que <START:PESSOA_INDIVIDUAL> Oiticica <END> se definia a si mesmo, no seu último livro de sonetos <START:OBRA_REPRODUZIDA> Fonte Perene <END> ( <START:TEMPO_TEMPO_CALEND> 1954 <END> ):    
-sou da raça pagã dos <START:PESSOA_GRUPOMEMBRO> Prometeus <END> ...    
-guardo em mim as grandezas do indescrito,    
-e a vontade divina de ser <START:PESSOA_INDIVIDUAL> Deus <END> .
---DOCSTART--
-    
-    <START:LOCAL_HUMANO> New York <END>   ,   <START:LOCAL_HUMANO> New York <END>         
- <START:TEMPO_TEMPO_CALEND> No mês passado <END> , o    presidente da <START:ORGANIZACAO_ADMINISTRACAO> Câmara <END>   de   <START:LOCAL_HUMANO> Nova Iorque <END>  , <START:PESSOA_INDIVIDUAL> Michael Bloomberg <END> , decidiu entregar o cartão de militante do <START:ORGANIZACAO_INSTITUICAO> Partido Conservador <END> .
-O gesto foi entendido como o arregaçar de mangas para entrar na corrida presidencial numa candidatura independente.
-E se ele avançar, as mais recentes sondagens indicam que o boletim de voto das eleições <START:TEMPO_TEMPO_CALEND> de 2008 <END> podem ter três rostos ligados à " <START:LOCAL_HUMANO> Big Apple <END> ": <START:PESSOA_INDIVIDUAL> Hillary Clinton <END> , senadora pelo estado de <START:LOCAL_HUMANO> Nova Iorque <END> , <START:PESSOA_INDIVIDUAL> Rudy Giuliani <END> , o republicano que já foi <START:PESSOA_CARGO> presidente da Câmara <END>  da cidade, e <START:PESSOA_INDIVIDUAL> Michael Bloomberg <END> , o homem que sucedeu a <START:PESSOA_INDIVIDUAL> Giuliani <END> no cargo.
-Este cenário deverá irritar solenemente a classe política de cidades como <START:LOCAL_HUMANO> Boston <END> , <START:LOCAL_HUMANO> St. Louis <END> , <START:LOCAL_HUMANO> Chicago <END> , ou <START:LOCAL_HUMANO> Los Angeles <END> , que nunca viram com agrado a intromissão de políticos nova-iorquinos nos assuntos presidenciais.
-Aliás, os últimos sete presidentes eleitos vieram de regiões no <START:LOCAL_HUMANO> Sul <END> ou do <START:LOCAL_HUMANO> Oeste <END> , e ser oriundo do <START:LOCAL_HUMANO> Nordeste <END> americano passou a ser quase considerado uma garantia de derrota eleitoral (que o digam <START:PESSOA_INDIVIDUAL> Dukakis <END> ou <START:PESSOA_INDIVIDUAL> Kerry <END> ).
-Como recordava um artigo num recente número da revista <START:LOCAL_VIRTUAL> New Yorker <END> , <START:PESSOA_POVO> Nova Iorque <END> já não via uma coisa assim <START:TEMPO_TEMPO_CALEND> desde 1951 <END> , quando, no campeonato de basebol, as equipas de <START:ORGANIZACAO_INSTITUICAO> Brooklin Dodgers <END> e dos <START:ORGANIZACAO_INSTITUICAO> New York Giants <END> disputaram o "play off" para decidir quem iria à final com os <START:PESSOA_GRUPOMEMBRO> New York Yankees <END> (que acabaram vencedores da " <START:ACONTECIMENTO_ORGANIZADO> World Séries <END> ").
-Para uma eventual candidatura, <START:PESSOA_INDIVIDUAL> Bloomberg <END> nem sequer está preocupado com o facto de arrancar tarde, numas eleições em que as primárias servem para angariar fundos (em anteriores eleições, o também magnata dos "media" já gastou <START:VALOR_MOEDA> mais de 160 milhões de dólares <END> do seu bolso, e tem muitos mais para gastar).
-Além disso, <START:PESSOA_INDIVIDUAL> Bloomberg <END> conta com o efeito de subida de popularidade dos independentes nos <START:LOCAL_HUMANO> EUA <END> .
-Os estudos dizem que <START:VALOR_QUANTIDADE> cerca de 40% <END> dos eleitores não tem simpatia por nenhum dos partidos.
-E este dado torna o estatuto de independente muito atraente -- um fenómeno semelhante ao verificado com a candidatura de <START:PESSOA_INDIVIDUAL> Manuel Alegre <END> , nas últimas presidenciais portuguesas, ou com aquilo que esperam conseguir <START:PESSOA_INDIVIDUAL> Helena Roseta <END> e <START:PESSOA_INDIVIDUAL> Carmona Rodrigues <END> nas próximas eleições intercalares para a  <START:ORGANIZACAO_ADMINISTRACAO> Câmara <END> de <START:LOCAL_HUMANO> Lisboa <END> .
---DOCSTART--
-    
- O <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> e nós.
-Teria mesmo algo a ver?
-<START:ABSTRACCAO_NOME> Ku <END> , palavra e não palavrão, parece vir do mais puro vernáculo do <START:ABSTRACCAO_NOME> Kimbundo <END> ( <START:ABSTRACCAO_NOME> MataKu <END> =nádegas, assento plural de ritaku), principal língua falada em <START:LOCAL_HUMANO> Luanda <END> , <START:LOCAL_HUMANO> Angola <END> (da qual falamos centenas de vocábulos, sem saber - inclusive <START:ABSTRACCAO_NOME> Ku <END> , certo?)
-O sentido figurado da palavra é, exatamente, o mesmo que usamos no <START:LOCAL_HUMANO> Brasil <END> : <START:ABSTRACCAO_NOME> Bunda <END> (palavra aliás, oriunda também do mesmo <START:ABSTRACCAO_NOME> Kimbundo <END> ), literalmente traduzida para o portugês também como nádegas.
-O sentido da expressão <START:ABSTRACCAO_NOME> Kuduro <END> poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece: <START:ABSTRACCAO_NOME> Kuduro <END> = <START:ABSTRACCAO_NOME> Bunda <END> imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo.
-Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.
-Contudo, dança livre que é, no <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> também se pode rebolar, é claro, basta querer.
-Dito isto, o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> , inserido no âmbito da cultura <START:ABSTRACCAO_DISCIPLINA> Hip Hop <END> , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o <START:ABSTRACCAO_DISCIPLINA> Funk <END> carioca e o <START:ABSTRACCAO_DISCIPLINA> Kwaito <END> (da <START:LOCAL_HUMANO> África do Sul <END> ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na <START:LOCAL_HUMANO> América do Norte <END> .
-Mas o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> também é um símbolo dos mais fortes, <START:TEMPO_TEMPO_CALEND> neste momento <END> , da enorme capacidade da resistência cultural das populações não-brancas, do <START:TEMPO_GENERICO> outrora <END> chamado <START:ABSTRACCAO_NOME> Terceiro Mundo <END> , diante da pressão globalizante, sinônimo evidente de aculturação.
-Kuduro Checkup    
- No <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> angolano - e vejam vocês mesmos que coisa curiosa!
-- os passos do mix, da fusão com o break, são o mais puro e carioca dos <START:ABSTRACCAO_DISCIPLINA> Sambas <END> .
-Incrível!
-Acreditem, mas, os <START:PESSOA_GRUPOMEMBRO> Pupilos do Kuduro <END> , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa <START:PESSOA_GRUPOMEMBRO> Ala dos Malandrinhos <END> dançava lá <START:TEMPO_TEMPO_CALEND> naqueles bem passados anos 60 <END> .
-Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos <START:ABSTRACCAO_DISCIPLINA> Sambas <END> .
-Pode?
-Teria sido aquela minha saudosa rapaziada de <START:LOCAL_HUMANO> Padre Miguel <END> a inventora do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> ?
-Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais.
-Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho <START:COISA_CLASSE> Sampler <END> , por exemplo).
-Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do Mocinho poderia ser atribuído a sociedade neoliberal globalizada, ao <START:ABSTRACCAO_DISCIPLINA> Capitalismo <END> em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.
-Besteira.
-Baita injustiça, sobretudo.
-Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.
-O <START:COISA_CLASSE> Sampler <END> e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes.
-Se disponíveis estiverem, ferramentas de cultura serão.
-Se não estiverem, outras ferramentas se inventarão.
-Aliás, o que um <START:COISA_CLASSE> Sampler <END> faz mesmo?
-Não muda nada.
-Copia.
-E haja periferia e miséria para samplear.
-A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.
-Vírus no sistema.
-O Mocinho verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.
-----------------------    
-Inside the Kuduro    
-(em português não ficaria melhor não)    
- Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo.
-É esta a célula rítmica base, a matriz, o <START:COISA_SUBSTANCIA> DNA <END> , sobre o qual se criará os sons que bem entendermos.
-Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.
-No caso do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava <START:TEMPO_TEMPO_CALEND> nos anos 70 <END> , <START:TEMPO_TEMPO_CALEND> 80 <END> de <START:ABSTRACCAO_DISCIPLINA> Kabetula <END> , um ritmo muito popular em <START:LOCAL_HUMANO> Luanda <END> , semelhante ao <START:ABSTRACCAO_DISCIPLINA> Semba <END> , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> é uma variação do <START:ABSTRACCAO_DISCIPLINA> Kuzukuta <END> , ritmo popular do carnaval angolano).
-Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do <START:LOCAL_HUMANO> Brasil <END> ,  <START:TEMPO_TEMPO_CALEND> desde, pelo menos, o século 19 <END> ), tipicamente urbanos que são, vieram, provavelmente, do <START:ABSTRACCAO_DISCIPLINA> Kaduke <END> , espécie de <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> surgido na cidade de <START:LOCAL_HUMANO> Ambaça <END> ( <START:LOCAL_HUMANO> Mbaka <END> ), grande centro urbano e comercial (!)
-lá <START:TEMPO_TEMPO_CALEND> pelos idos de 1880 <END> (veja <START:OBRA_REPRODUZIDA> Capello e Ivens <END> ), <START:TEMPO_TEMPO_CALEND> no tempo <END> da colonização portuguesa em <START:LOCAL_HUMANO> Angola <END>        
- Este <START:ABSTRACCAO_DISCIPLINA> Kaduke <END> , talvez tenha gerado, a partir do mesmo processo, no <START:LOCAL_HUMANO> Brasil <END> colonial, o <START:ABSTRACCAO_DISCIPLINA> Kalundu <END> que, mesclado à danças européias como a <START:ABSTRACCAO_DISCIPLINA> Polka <END> e a <START:ABSTRACCAO_DISCIPLINA> Mazurka <END> (espécies de danças de periferia brancas, populares na <START:LOCAL_HUMANO> Europa <END>   central), deram numa dança popularíssima na <START:LOCAL_HUMANO> Corte <END> brasileira (um <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> colonial) chamada de <START:ABSTRACCAO_NOME> Lundu <END> .
-Pois não é que o <START:ABSTRACCAO_DISCIPLINA> Kaduke <END> , o <START:ABSTRACCAO_DISCIPLINA> Kalundu <END> e talvez até mesmo o <START:ABSTRACCAO_DISCIPLINA> Jongo <END> formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente <START:TEMPO_GENERICO> hoje <END> no <START:LOCAL_HUMANO> Brasil <END> como <START:ABSTRACCAO_DISCIPLINA> Samba <END> ?
-Viram só?
-<START:ABSTRACCAO_DISCIPLINA> Kuduro <END> e <START:ABSTRACCAO_DISCIPLINA> Samba <END> : Tudo a ver.
-Fenômeno recorrente, efetivamente, existem manifestações como o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> em todas as periferias do mundo.
-Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de <START:ABSTRACCAO_DISCIPLINA> Break Dance <END> , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.
-Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do <START:LOCAL_HUMANO> Rio <END> , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros, <START:PESSOA_INDIVIDUAL> James Brown <END> e <START:PESSOA_INDIVIDUAL> Michael Jackson <END> ?
-Há break sim, mas, um pouquinho só.
-Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?
-Ora, é evidente que, olhando detidamente os movimentos de dança deste <START:ABSTRACCAO_DISCIPLINA> Funk Carioca <END> , iremos encontrar a mesma filosofia coreográfica do <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás, <START:TEMPO_GENERICO> hoje <END> banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).
-Assim como na <START:LOCAL_HUMANO> África <END> e no <START:LOCAL_HUMANO> Brasil <END> , na <START:LOCAL_HUMANO> Índia <END> , no <START:LOCAL_HUMANO> Afeganistão <END> , na <START:LOCAL_HUMANO> Indonésia <END> , a fórmula beat futurista somado à tradição, se repetirá.
-Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá.
-Para nós brasileiros, por exemplo, o <START:ABSTRACCAO_DISCIPLINA> Kuduro <END> pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante <START:ABSTRACCAO_IDEIA> Periferia <END> .
-Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê.
-Somos do <START:LOCAL_VIRTUAL> Overmundo <END> , o pá!
-O Bicho, o vírus da maçã.
-Y love you <START:LOCAL_HUMANO> Angola <END> !
-(Em tempo: Em terra de cego, quem tem um olho, infelizmente é...
-caolho.)
---DOCSTART--
-    
-A MÚSICA É A MENSAGEM    
- Por <START:PESSOA_INDIVIDUAL> Hari Kunzru <END>        
- A relação do tecno com o binômio homem-máquina, no diálogo com <START:PESSOA_INDIVIDUAL> Jeff Mills <END> , o legendário produtor de tecno de <START:LOCAL_HUMANO> Detroit <END> nos leva a impressionantes insights do impacto que a terceira onda tem causado na paisagem contemporânea.
-<START:LOCAL_HUMANO> Detroit <END> , essa "cidade portátil", virtualizada na minimalista batida de um sequenciador automático, profetiza em sua música - que já nos deu a <START:ORGANIZACAO_EMPRESA> Motown <END> , <START:PESSOA_GRUPOMEMBRO> Stooges <END> , e <START:PESSOA_GRUPOMEMBRO> MC5 <END> - o zeitgeist <START:TEMPO_TEMPO_CALEND> deste início de milênio <END> .
-Uma Cidade Difícil    
- <START:LOCAL_HUMANO> Detroit <END> tem <START:TEMPO_DURACAO> por longo tempo <END> sido um lugar de referência na imaginação sônica.
-Com o fim da escravatura, ela se tornou, como <START:LOCAL_HUMANO> Chicago <END> , um das estações ferroviárias do êxodo negro na direção do norte.
-As ferrovias atuavam como artérias culturais, trasmitindo pessoas e formas culturais do profundo sul de <START:LOCAL_HUMANO> New Orleans <END> e o rural <START:LOCAL_HUMANO> Delta do Mississipi <END> , pelo centro-oeste e para o iluminado mundo novo urbano dos <START:LOCAL_FISICO> Grandes Lagos <END> .
-No processo o som acústico do    <START:ABSTRACCAO_DISCIPLINA> Blues <END> do   <START:LOCAL_FISICO> Delta <END>  foi exposto ao ruído das linhas de produção industrial, e se transmutou no boogie de trem a vapor, de chão de fábrica do <START:ABSTRACCAO_DISCIPLINA> Rythm'n'Blues <END> elétrico.
-O    <START:ABSTRACCAO_DISCIPLINA> Blues <END>   de   <START:LOCAL_HUMANO> Basin Street <END>  vira a <START:ABSTRACCAO_DISCIPLINA> Pegada da Cidade Motor <END> ( <START:ABSTRACCAO_DISCIPLINA> Motor City Stomp <END> ).
-Quando do boom <START:TEMPO_TEMPO_CALEND> dos anos sessenta <END> , <START:LOCAL_HUMANO> Detroit <END> era sinônimo das esperançosas ficções-soul <START:TEMPO_DURACAO> de três minutos <END> da <START:ORGANIZACAO_EMPRESA> Motown <END> , um selo cuja ética produtivista e apelo de mercado massificado foi sempre um irônico espelho da cultura da <START:ORGANIZACAO_EMPRESA> Ford <END> e da <START:ORGANIZACAO_EMPRESA> General Motors <END> que dominava as vidas de seu jovem público negro.
-O povo da <START:ORGANIZACAO_EMPRESA> Motown <END> deu seus primeiros passos dançando nas ruas, mas, à medida que <START:TEMPO_GENERICO> os 70 <END> iam passando, eles foram gradualmente reduzidos a viver só para a cidade.
-<START:TEMPO_TEMPO_CALEND> Durante os desolados anos Reagan <END>  , <START:LOCAL_HUMANO> Detroit <END> parecia uma zona morta, um símbolo do fim da velha ordem industrial.
-Mas <START:TEMPO_TEMPO_CALEND> pelo começo dos noventa <END> a decadente cidade, tendo absorvido o trauma da crise do petróleo e a recessão mundial, reinventou-se como o imaginário e sombrio coração de uma nova cultura urbana global.
-O tecno de <START:LOCAL_HUMANO> Detroit <END> é o som da cidade.
-Não das pessoas da cidade, mas da própria cidade.
-Os humanos, se eles ainda estão vivos mesmo, foram totalmente cooptados pela máquina urbana, absorvidos em seus processos, seus corpos disciplinados pelos ritmos implacáveis dela.
-Não é exagero dizer que este estilo, com seus frios tons sintéticos e batidas rápidas e rígidas de quatro-por-quatro teve provavelmente mais influencia no tipo de música que soa pelo mundo do que qualquer outro gênero desde o <START:ABSTRACCAO_DISCIPLINA> Blues <END> .
-Transmissões do Futuro:    
- A síntese de <START:ABSTRACCAO_IDEIA> Detroit <END> de grooves de trance funk e futurismo disco europeu foi realizada por um surpreendentemente pequeno círculo de produtores, que começaram seus experimentos <START:TEMPO_TEMPO_CALEND> em meados dos 80 <END> .
-As estórias de <START:PESSOA_GRUPOMEMBRO> Cybotron <END> , <START:PESSOA_GRUPOMEMBRO> Model 500 <END> e a transição da disco para o eletro-funk para o tecno foram muito bem contadas em outras paragens por escritores como <START:PESSOA_INDIVIDUAL> Matthew Collin <END> ( <START:OBRA_REPRODUZIDA> Altered State <END> ) e <START:PESSOA_INDIVIDUAL> Kodwo Eshun <END> ( <START:OBRA_REPRODUZIDA> More Brilliant Than The Sun: Adventures In Sonic Fiction <END> ).
-Um dos pioneiros foi <START:PESSOA_INDIVIDUAL> Jeff Mills <END> , que, como produtor e DJ, tem semeado o som de <START:LOCAL_HUMANO> Durban <END> a <START:LOCAL_HUMANO> Tóquio <END> , e a ele não se deveria atribuir pouca responsabilidade pelo fato de que seres urbanos de todo o mundo agora vivam numa paisagem midiática onde enxutas batidas eletrônicas servem como trilha sonora para tudo, desde idas ao shopping e suas experiências com drogas, a noites em casa em frente da tv.
-<START:PESSOA_INDIVIDUAL> Mills <END> é um homem calmo, um tipo parecido com um pássaro, com uma cara ossuda e longos dedos.
-Quando está na cabine ele usa três picapes, <START:TEMPO_FREQUENCIA> raramente <END> tocando um vinil <START:TEMPO_DURACAO> por mais de um minuto <END> , e <START:TEMPO_FREQUENCIA> frequentemente <END> abrindo todos os três canais ao mesmo tempo; filtrando o som, logo uma picape toca a linha de baixo, o segundo a linha do meio e o terceiro a linha principal.
-Seu envolvimento com as máquinas é tão intenso, tão concentrado que, como ele se lança do mixer para a picape, <START:PESSOA_INDIVIDUAL> Mills <END> o DJ parece evidentemente um componente de uma assemblage homem-máquina, um sistema que inclui público, <START:COISA_CLASSE> PA <END> , o aparato completo da produção de vinis, e o <START:COISA_CLASSE> Stylus <END> de cartucho, cuja sensibilidade ele aprimorou de forma que o cartucho produza um triplo zumbido raivoso e metálico.
-Não é surpreendente que quando <START:PESSOA_INDIVIDUAL> Mills <END> descreve a experiencia de fazer música num estúdio, ele está preocupado com a frustração que sente quando "a mensagem" (para <START:PESSOA_INDIVIDUAL> Mills <END> música é sempre "a mensagem", ou "comunicação") é perdida ou degradada na transmissão da mente para o <START:COISA_CLASSE> DAT <END> .
-"O produtor tem de transferir o que ele está pensando para suas mãos e então para a máquina," ele explica.
-"Quanto melhor o produtor, mais clara será a imagem.
-É uma tradução de minhas mãos para a máquina.
-E é aí normalmente onde ela [a máquina], se perde."
-De certa forma este é um sentimento padrão, um anseio expresso por todo artista desde que os românticos começaram a lamentar a lacuna entre a inspiração e o artefato.
-Mas o anseio de <START:PESSOA_INDIVIDUAL> Mills <END> por uma simbiose mais próxima com seus instrumentos deriva para um desejo pela cyborguização, pela integração física.
-"O que eu tenho esperança", ele diz, "é de que alguém crie um sequenciador que traduza o que você está pensando para um teclado ou gerador de som.
-Muitas idéias ficam perdidas porque não podemos fazer com que nossas máquinas realizem exatamente o que nós pensamos."
-Para uma cultura musical dominante que está acostumada a tratar álbuns como "obras", objetos invioláveis que contém algum tipo de essência artística, a concepção de <START:PESSOA_INDIVIDUAL> Mills <END> sobre música pode parecer estranha.
-"Depois que faz o álbum", ele diz, "você põe a idéia nas mãos do DJ e é ele quem decide remodelar essa mensagem no momento mais oportuno ou da melhor forma."
-Ele parece pensar a obra musical como processo, como fluxo de informação, abrindo um canal entre produtor e público dançante.
-A linguagem de mensagens, comunicações e comunicados oficiais e oficiosos de <START:PESSOA_INDIVIDUAL> Mills <END> é parte da teologia que guia o tecno de <START:LOCAL_HUMANO> Detroit <END> : a estória do circuito informacional que corre do futuro para o presente, do <START:ABSTRACCAO_IDEIA> Claro Amanhã <END> dos cruzadores pesados drexciyanos, de <START:COISA_CLASSE> OVNIs <END> ('você provavelmente verá um voando...') e dos anéis de <START:COISA_OBJECTO> Saturno <END> , diretamente de volta para as rôtas rotas <START:TEMPO_TEMPO_CALEND> de hoje <END> .
-É um circuito que canaliza energia através do corpo do produtor para seu estúdio, energia que posteriormente sai pelo <START:COISA_CLASSE> PA <END> e se distribui sobre a pista de dança.
-<START:ABSTRACCAO_IDEIA> Detroit <END> mesma é uma picape satélite, coletando e amplificando o futuro-potencial, transmitindo-o perpassando carros enferrujados nas ruas da cidade... <START:PESSOA_INDIVIDUAL> Mills <END> : "Para mim, [minha música é] sobre fazer as pesoas sentirem que elas estão num tempo à frente deste tempo presente.
-Como se você estivesse ouvindo alguém falar numa língua que você não entende, ou se encontrasse numa vizinhança desconhecida.
-Isso quer dizer tirar você da sua base, deixando o ouvinte desarmado."
-Ao contrário de alguns outros produtores, o futuro criado por <START:PESSOA_INDIVIDUAL> Mills <END> não é um sonho em ficção científica de puro cromo.
-É um "verfremdungseffekt", a desorientação do potencial puro.
-O ataque das batidas de <START:ABSTRACCAO_IDEIA> Detroit <END> é apenas um assalto pra tirar as defesas, forçando os ouvintes a se abrirem para a mensagem.
---DOCSTART--
-    
- Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada <START:TEMPO_TEMPO_CALEND> desde antes de 7000 a.C. <END> em <START:LOCAL_HUMANO> Mehrgarh <END> na <START:LOCAL_HUMANO> Índia <END> , situado <START:TEMPO_GENERICO> nos dias de hoje <END> no <START:LOCAL_HUMANO> Paquistão <END> .
-A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos.
-É ainda extremamente popular <START:TEMPO_GENERICO> hoje <END> .
-Trata-se de uma rocha e não de um mineral porque é composto de vários minerais.
-A primeira parte do nome, lápis, em latim significa pedra.
-A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito <START:ABSTRACCAO_NOME> Raja Warta <END> significando anel, vida do rei.
-Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra.
-A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos.
-História    
- No    antigo   <START:LOCAL_HUMANO> Egito <END> o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo).
-As escavações egípcias que datam <START:TEMPO_TEMPO_CALEND> de 3000 a.C. <END> continham milhares de artigos como jóia, muitos feitos de lápis.
-Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho.
-Como inscrito no capítulo 140 do <START:OBRA_REPRODUZIDA> Livro dos Mortos <END> egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder.
-<START:TEMPO_FREQUENCIA> No último dia do mês <END> , oferecia-se este olho simbólico, porque se acreditava que, <START:TEMPO_TEMPO_CALEND> nesse dia <END> , um ser supremo colocou tal imagem em sua cabeça.
-Os antigos túmulos reais sumérios de <START:LOCAL_HUMANO> Ur <END> , situados perto do rio <START:LOCAL_FISICO> Eufrates <END> no baixo <START:LOCAL_HUMANO> Iraque <END> , continham <START:VALOR_QUANTIDADE> mais de 6000 <END> estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro.
-Estes artefatos vieram indubitavelmente do material minado em <START:LOCAL_HUMANO> Badakhshan <END> no norte do <START:LOCAL_HUMANO> Afeganistão <END> .
-Curiosidades    
- É a pedra oficial do anel de formatura dos psicologos, assim considerada <START:TEMPO_TEMPO_CALEND> a partir de 31 de março de 2006 <END> , pela resolução Nº 002/2006, do <START:ORGANIZACAO_INSTITUICAO> Conselho Federal de Psicologia <END> brasileiro.
---DOCSTART--
-    
- Ali, só me lembro de ser eu.
-Mas talvez houvesse outros, da família <START:PESSOA_GRUPOIND> Xara Brasil <END> , que eram as pessoas ali principais, e eram realmente ... não me lembro.
-Agora outros meninos em <START:LOCAL_HUMANO> Lisboa <END> , ou iam para as piscinas, de <START:LOCAL_HUMANO> Algés <END> e <START:LOCAL_HUMANO> Dafundo <END>  , e outras coisas assim.
-D: Mas conta lá ... como é que aprendeste a nadar, que é engraçado    
- Aprendi a nadar, como digo, com esse velho lobo do mar que se tinha tornado banheiro da praia de <START:LOCAL_FISICO> S. Bernardino <END> ; tinha um chapéu mole assim amachucado, um fato de macaco, e uma cabaça à cintura e ele puxav... agarrava-me assim no queixo, com a mão, e depois dizia-me os movimentos que eu devia fazer, nadar é claro, os bálticos, não é?
-E foi assim que eu aprendi.
-D: ele atirava-te para a água com a cabaça?
-Como?
-Não, a cabaça ele andava ali sempre com ela, como banheiro... era bóia, a cabaça servia de bóia    
-D: então ele atirava-te à água...
-Não, ali à borda de água!
-à borda, primeiro começava-se à borda de água... mas com altura suficiente para eu já poder nadar.
-E ele pegava-me assim pelo queixo para me ajudar, e nadava de bruços, claro!
-nadava de bruços    
-D: Mas <START:TEMPO_TEMPO_CALEND> depois <END> ... <START:TEMPO_TEMPO_CALEND> depois <END> ... tornaste-te uma grande nadadora    
- <START:TEMPO_TEMPO_CALEND> Depois <END> ...na dita praia de <START:LOCAL_FISICO> S. Bernardino <END> , e depois na <START:LOCAL_FISICO> Praia das Maçãs <END> , tornei-me uma grande nadadora é uma maneira um bocadinho... como hei-de dizer?
-pouco rigorosa de dizer.
-Eu era uma nadadora de muita resistência.
-De fundo, digamos.
-Mas sempre com aquele estilo, que passou de bruços para agulha, e que realmente me fazia avançar muito, mas eu não sabia outro estilo, nunca nadei de braçada, crawl...        
-D: Até longe!
-<START:LOCAL_FISICO> S. Bernardino <END> não ia longe, mas... na <START:LOCAL_FISICO> Praia das Maçãs <END> ia.
-Até tão longe que a minha mãe da praia não me via!
-Só que havia um barco, uma chata... um bocado... entre o sítio onde eu estava e a praia que era para nos mostrar, a mim e ao <START:PESSOA_INDIVIDUAL> Caldeira Pires <END> , que era... que éramos os únicos que tínhamos essa autorização para ir assim longe numa determinada direcção ... em <START:LOCAL_FISICO> S. Bernardino <END> , a única avaria foi na <START:LOCAL_FISICO> Berlenga <END> , também.
-Parece que estava fadada para as tais aventuras da <START:LOCAL_FISICO> Berlenga <END> !
-Porque aí, na <START:LOCAL_FISICO> Berlenga <END> , formos numa excursão organizada pelo ... <START:PESSOA_INDIVIDUAL> Xara Brasil <END> e por um senhor que era <START:PESSOA_CARGO> governador de Peniche <END>  ou qualquer coisa assim... ou <START:PESSOA_CARGO> presidente da Câmara <END>  , para homenagear uma figura nobre que era um arquiduque austríaco... e fizeram        
-D: Estava lá?
-Estava, estava em <START:LOCAL_HUMANO> Portugal <END> , e  foi lá parece, casar com uma senhora que era a <START:PESSOA_CARGO> rainha da Boémia <END>  e que ... tinha um filho.
-Mas isto foi <START:TEMPO_TEMPO_CALEND> muito mais tarde <END> , foi aos <START:VALOR_QUANTIDADE> quinze anos <END> ... ou <START:VALOR_QUANTIDADE> dezasseis <END> , porqu nós fomos.
-Não íamos nunca seguidamente para um sítio, não é?
-ìamos um aano  para uma praia, <START:TEMPO_GENERICO> outro ano <END> para outra...        
-D: Ah, nunca iam para o mesmo sítio...
-Não.
-Foi por isso que o meu pai nunca aceitou fazer uma praia na  Areia Branca  !Porque ele tinha tido a possibilidade de comprar terreno baratíssimo e fazer a segunda casa da <START:LOCAL_HUMANO> Areia Branca <END> !
-Ele não queria um sítio fixo que o obrigasse a...      
+  
 
   --DOCSTART--
+    
+
+      <START:ORGANIZACAO_ADMINISTRACAO>China<END>
+      vai desenvolver nova geração de telemóveis
+      <START:TEMPO_TEMPO_CALEND>em 2008<END>
+    
+    
+
+      A
+      <START:ORGANIZACAO_ADMINISTRACAO>China<END>
+      vai desenvolver telemóveis de banda larga «de nova geração»
+      <START:TEMPO_TEMPO_CALEND>em 2008<END>
+      , informa
+      <START:TEMPO_TEMPO_CALEND>hoje<END>
+      a imprensa estatal.
+O
+      <START:ORGANIZACAO_ADMINISTRACAO>Conselho de Estado<END>
+      aprovou o plano de pesquisa da tecnologia de terceira geração, usando os padrões de redes nacionais
+      <START:COISA_CLASSE>TD-SCDMA<END>
+      .
+A estreia poderá acontecer durante os
+       <START:ACONTECIMENTO_ORGANIZADO>Jogos Olímpicos<END> <START:TEMPO_TEMPO_CALEND>de 2008<END>
+      .
+O programa de desenvolvimento «estará de acordo com as tendências da tecnologia da informação e ajudará a melhorar a inovação e competitividade mundial das empresas chinesas», disse o
+      <START:PESSOA_CARGO>ministro da Indústria da Informação<END>
+      ,
+      <START:PESSOA_INDIVIDUAL>Wang Xundong<END>
+      , citado pela agência
+      <START:ORGANIZACAO_EMPRESA>Xinhua<END>
+      .
+Segundo
+      <START:PESSOA_INDIVIDUAL>Wang<END>
+      , este será um dos principais temas da pesquisa tecnológica chinesa
+      <START:TEMPO_TEMPO_CALEND>em 2008<END>
+      , juntamente com o desenvolvimento de microprocessadores e circuitos integrados, entre outros.
+A tecnologia
+      <START:COISA_CLASSE>TD-SCDMA<END>
+      é desenvolvida integralmente pela
+      <START:ORGANIZACAO_ADMINISTRACAO>China<END>
+      , em oposição aos padrões norte-americanos (
+      <START:COISA_CLASSE>CDMA 2000<END>
+      ) e europeus (
+      <START:COISA_CLASSE>WCDMA<END>
+      ).
+Ainda não há data para a concessão de licenças para telemóveis
+      <START:COISA_CLASSE>3G<END>
+      , que serão disputadas entre as quatro grandes operadoras de comunicações fixas e móveis do país:
+      <START:ORGANIZACAO_EMPRESA>China Telecom<END>
+      ,
+      <START:ORGANIZACAO_EMPRESA>China Netcom<END>
+      ,
+      <START:ORGANIZACAO_EMPRESA>China Mobile<END>
+      e
+      <START:ORGANIZACAO_EMPRESA>China Unicom<END>
+      .
+--DOCSTART--
+    
+<START:ACONTECIMENTO_ORGANIZADO>Cavalo-marinho<END> <START:ACONTECIMENTO_ORGANIZADO>Boi PIntado<END>, <START:TEMPO_GENERICO>o dia de Reis<END>  e a <START:OBRA_PLANO>Lei Rouanet<END>, <START:LOCAL_HUMANO>Recife<END>, <START:LOCAL_HUMANO>PE<END> · <START:TEMPO_TEMPO_CALEND>05/1<END>
+    
+
+      <START:PESSOA_INDIVIDUAL>Rosa Campello<END>
+      ·
+      <START:LOCAL_HUMANO>Recife<END>
+      (
+      <START:LOCAL_HUMANO>PE<END>
+      ) ·
+      <START:TEMPO_TEMPO_CALEND>31/12/2007<END>
+      <START:TEMPO_TEMPO_CALEND>11:18<END>
+      ·
+      <START:VALOR_QUANTIDADE>137<END>
+      votos
+    
+    
+
+      Celebração <START:TEMPO_GENERICO>ao Dia de Reis<END> 
+      , evento que acontece sempre
+      <START:TEMPO_TEMPO_CALEND>dia 06 de janeiro<END>
+      , estaremos antecipando-o um pouco,
+      <START:TEMPO_TEMPO_CALEND>para o dia 05 de janeiro de 2008<END>
+      , e com motivos de sobra para comemorá-lo:
+      <START:PESSOA_INDIVIDUAL>Mestre Grimário<END>
+      acaba de receber incentivo para finalizar seu CD
+      <START:OBRA_REPRODUZIDA>CAVALO-MARINHO BOI PINTADO<END>
+      , o qual tem a participação especial das crianças do
+      <START:ORGANIZACAO_INSTITUICAO>Ponto de Cultura<END>
+      do
+      <START:ORGANIZACAO_INSTITUICAO>MOVIMENTO PRÓ-CRIANÇA<END>
+      através da
+      <START:OBRA_PLANO>Lei Rouanet<END>
+      !!!!!!!!!!!!!!!!!!!!!!!!
+A Empresa socialmente responsável , é a
+      <START:ORGANIZACAO_EMPRESA>STN - SISTEMA DE TRANSMISSÃO DO NORDESTE<END> 
+      .
+    
+    
+
+      "
+<START:ABSTRACCAO_DISCIPLINA>CAVALO-MARINHO<END>
+      , Uma Dança Dramática Brasileira:
+    
+    
+
+      <START:ABSTRACCAO_DISCIPLINA>Cavalo-marinho<END>
+      , uma tradição folclórica do ciclo <START:TEMPO_GENERICO>de Natal<END> 
+      , é a versão pernambucana do
+      <START:ABSTRACCAO_DISCIPLINA>Bumba-meu-Boi<END>
+      .
+Encontrado em toda parte do
+      <START:LOCAL_HUMANO>Brasil<END>
+      , o
+      <START:ABSTRACCAO_DISCIPLINA>Bumba-meu-boi<END>
+      é uma dança dramática que tem como elemento principal a morte e ressurreição do boi mágico.
+Uma apresentação de cavalo-marinho abrange música vocal, dança, cenas dramáticas, ação, poesia improvisada, música instrumental, máscaras e fantasias.
+No interior, para o norte do
+      <START:LOCAL_HUMANO>Recife<END>
+      , apresenta-se durante a safra da cana-de-açúcar(
+      <START:TEMPO_TEMPO_CALEND>agosto a janeiro<END>
+      ).
+O enredo do
+      <START:ABSTRACCAO_DISCIPLINA>Cavalo-marinho<END>
+      concentra-se em torno do
+      <START:PESSOA_CARGO>Capitão<END>
+      , um proprietário rural que tinha deixado suas terras sob o controle de
+      <START:PESSOA_INDIVIDUAL>Mateus<END>
+      e
+      <START:PESSOA_INDIVIDUAL>Sebastião<END>
+      , dois vaqueiros.
+O
+      <START:PESSOA_CARGO>Capitão<END>
+      deseja celebrar a volta dele às suas terras, mas, os vaqueiros não deixam.
+O
+      <START:PESSOA_CARGO>Capitão<END>
+      manda um
+      <START:PESSOA_CARGO>Soldado<END>
+      tirar a licença à força, e ele consegue, após muita confusão cômica e pancadas altas, mas, sem dor, das bexigas de boi que o
+      <START:PESSOA_INDIVIDUAL>Mateus<END>
+      e o
+      <START:PESSOA_INDIVIDUAL>Sebastião<END>
+      usam como armas e instrumentos musicais.
+Agora é a vez do
+      <START:PESSOA_INDIVIDUAL>Mestre Ambrósio<END>
+      , que imita todas as personagens do folguedo, que continua com uma longa seqüência de danças pelo
+      <START:PESSOA_CARGO>Capitão<END>
+      e seus
+      <START:PESSOA_GRUPOIND>Galantes<END>
+      , uma guarda de honra.
+Entre elas, são danças em homenagem aos
+      <START:PESSOA_GRUPOMEMBRO>Reis Magos<END>
+      , que compartilha temas musicais com as devoções de
+      <START:PESSOA_GRUPOCARGO>Reis<END>
+      no
+      <START:LOCAL_HUMANO>Portugal<END>
+      , e uma para
+       <START:PESSOA_INDIVIDUAL>São Gonçalo<END> de <START:LOCAL_HUMANO>Amarante<END>
+      .
+Entram, em seguida, dezenas de personagens, cada uma das quais faz parte do mundo do engenho-de-açúcar.
+Entre elas, há personagens realísticas, como o
+      <START:PESSOA_INDIVIDUAL>Valentão<END>
+      , o
+      <START:PESSOA_INDIVIDUAL>Cangaceiro<END>
+      e o
+      <START:PESSOA_INDIVIDUAL>Vaqueiro<END>
+      - que fala na poesia do
+      <START:LOCAL_HUMANO>Sertão<END>
+      , e imaginárias- como o
+       <START:PESSOA_INDIVIDUAL>Caboclo<END> de <START:LOCAL_HUMANO>Urubá<END>
+      .
+A apresentação termina com a entrada, dança, morte e ressurreição do
+      <START:COISA_OBJECTO>Boi<END>
+      .
+O acompanhamento musical fica por conta do banco, um grupo de músicos que tocam
+      <START:COISA_OBJECTO>Rabeca<END> 
+      ,
+      <START:COISA_OBJECTO>Pandeiro<END> 
+      ,
+      <START:COISA_OBJECTO>Bage<END> 
+      (
+      <START:COISA_OBJECTO>Reco-reco<END> 
+      ) e
+      <START:COISA_OBJECTO>Mineiro<END> 
+      (
+      <START:COISA_OBJECTO>Ganzá<END> 
+      ).
+Os
+      <START:PESSOA_GRUPOMEMBRO>Percussionistas<END>
+      e,
+      <START:TEMPO_FREQUENCIA>às vezes<END>
+      , o
+      <START:PESSOA_INDIVIDUAL>Rabequeiro<END>
+      também cantam.
+Entre seqüências, se ouve toadas do vasto repertório, versos improvisados e música instrumental para dança.
+<START:TEMPO_TEMPO_CALEND>Durante os anos 90<END>
+      , o interesse no
+      <START:ABSTRACCAO_DISCIPLINA>Cavalo-marinho<END>
+      por parte do público da região metropolitana do
+      <START:LOCAL_HUMANO>Recife<END>
+      tem crescido muito, como parte de um ressurgimento de interesse na cultura popular em geral.
+Jovens visitam o interior para assistir a apresentações e para entrar no <START:ACONTECIMENTO_EVENTO>Mergulhão<END> - a dança de abertura do <START:ACONTECIMENTO_ORGANIZADO>Cavalo-marinho<END>, e existem diversos projetos de pesquisa e documentação" .
+Texto:
+      <START:PESSOA_INDIVIDUAL>John Murphy<END>
+      , Ph.D., Etnomusicólogo e professor de música na
+      <START:ORGANIZACAO_INSTITUICAO>Western Illinois University<END>
+      (
+      <START:TEMPO_TEMPO_CALEND>até 2001<END>
+      ) e a
+      <START:ORGANIZACAO_INSTITUICAO>University of North Texas<END>
+      (
+      à partir de Agosto de 2001
+      ).
+--DOCSTART--
+
+
+História do <START:COISA_CLASSE>RFID<END>
+
+
+A tecnologia de <START:COISA_CLASSE>RFID<END> tem suas raízes nos sistemas de radares utilizados na <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>.
+Os alemães, japoneses, americanos e ingleses utilizavam radares -- que foram descobertos <START:TEMPO_TEMPO_CALEND>em 1937<END> por <START:PESSOA_INDIVIDUAL>Sir Robert Alexander Watson-Watt<END>, um físico escocês -- para avisá-los com antecedência de aviões enquanto eles ainda estavam bem distantes.
+O problema era identificar dentre esses aviões qual era inimigo e qual era aliado.
+Os alemães então descobriram que se os seus pilotos girassem seus aviões quando estivessem retornando à base iriam modificar o sinal de rádio que seria refletido de volta ao radar.
+Esse método simples alertava os técnicos responsáveis pelo radar que se tratava de aviões alemães (esse foi, essencialmente, considerado o primeiro sistema passivo de <START:COISA_CLASSE>RFID<END>).
+Sob o comando de <START:PESSOA_INDIVIDUAL>Watson-Watt<END>, que liderou um projeto secreto, os ingleses desenvolveram o primeiro identificador activo de amigo ou inimigo  (IFF -- Identify Friend or Foe) .
+Foi colocado um transmissor em cada avião britânico.
+Quando esses transmissores recebiam sinais das estações de radar no solo, começavam a transmitir um sinal de resposta, que identificava o aeroplano como   Friendly   (amigo).
+Os <START:COISA_CLASSE>RFID<END> funcionam no mesmo princípio básico.
+Um sinal é enviado a um transponder, o qual é ativado e reflete de volta o sinal (sistema passivo) ou transmite seu próprio sinal (sistemas ativos).
+Avanços na área de radares e de comunicação <START:COISA_CLASSE>RF<END> (<START:COISA_CLASSE>Radio Frequency<END>) continuaram <START:TEMPO_DURACAO>através das décadas de 50 e 60<END>.
+Cientistas e acadêmicos dos <START:LOCAL_HUMANO>Estados Unidos<END>, <START:LOCAL_HUMANO>Europa<END> e <START:LOCAL_HUMANO>Japão<END> realizaram pesquisas e apresentaram estudos explicando como a energia <START:COISA_CLASSE>RF<END> poderia ser utilizada para identificar objetos remotamente...
+Companhias começaram a comercializar sistemas antifurto que utilizavam ondas de rádio para determinar se um item havia sido roubado ou pago normalmente.
+Era o advento das tags (etiquetas) denominadas de "etiquetas de vigilância eletrônica" as quais ainda são utilizadas <START:TEMPO_TEMPO_CALEND>até hoje<END>.
+Cada etiqueta utiliza um bit.
+Se a pessoa paga pela mercadoria, o bit é posto em off ou 0.
+E os sensores não dispararão o alarme.
+Caso o contrário, o bit continua em on ou 1, e caso a mercadoria saia através dos sensores, um alarme será disparado.
+--DOCSTART--
+
 
 Quadrinhos e pop art - É neste processo de renovação da sociedade norte-americana que a pop art ganha um impulso e, de certa forma, contribui para que os quadrinhos voltem de novo a ser tratados como coisa séria.
 Os artistas procuravam demolir a rigidez e a seriedade das artes plásticas através de ícones da sociedade ocidental.
-Garrafas de <START:COISA_CLASSE> Coca Cola <END> , latas de sopa, símbolos gráficos usados em estações de metrô eram usados em associações livres que permitiam o estabelecimento de relações simbólicas e afetivas com as obras em questão.
+Garrafas de <START:COISA_CLASSE>Coca Cola<END>, latas de sopa, símbolos gráficos usados em estações de metrô eram usados em associações livres que permitiam o estabelecimento de relações simbólicas e afetivas com as obras em questão.
 Era uma arte que se valia da repetição de signos conhecidos no intuito de buscar uma identificação com o público a que ela se destinava.
 A idéia era eliminar as barreiras entre as culturas erudita e popular.
 Sendo assim, é compreensível que os grandes nomes da pop art utilizassem também as histórias em quadrinhos como um elemento a mais dentro de seus trabalhos.
-Afinal, a linguagem das <START:COISA_CLASSE> HQs <END> , um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem.
+Afinal, a linguagem das <START:COISA_CLASSE>HQs<END>, um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem.
 Além do que, graficamente, eles dispunham de inúmeras referências que serviriam de parâmetro para os pintores pop.
-Isso pode ser visto na obra de <START:PESSOA_INDIVIDUAL> Roy Lichtenstein <END> e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de <START:PESSOA_INDIVIDUAL> Andy Warhol <END> .
-Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de <START:PESSOA_INDIVIDUAL> Marilyn Monroe <END> , <START:PESSOA_INDIVIDUAL> Mao Tsé Tung <END> e <START:PESSOA_INDIVIDUAL> James Dean <END> - do que propriamente por se comportar como um quadrinhista tradicional.
-Ao levar para as galerias a estética das <START:COISA_CLASSE> HQs <END> , a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido <START:TEMPO_TEMPO_CALEND> na década de 50 <END> .
-Claro que isso não seria possível sem a renovação promovida pelos <START:ABSTRACCAO_DISCIPLINA> Comix <END> .
+Isso pode ser visto na obra de <START:PESSOA_INDIVIDUAL>Roy Lichtenstein<END> e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de <START:PESSOA_INDIVIDUAL>Andy Warhol<END>.
+Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de <START:PESSOA_INDIVIDUAL>Marilyn Monroe<END>, <START:PESSOA_INDIVIDUAL>Mao Tsé Tung<END> e <START:PESSOA_INDIVIDUAL>James Dean<END> - do que propriamente por se comportar como um quadrinhista tradicional.
+Ao levar para as galerias a estética das <START:COISA_CLASSE>HQs<END>, a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido <START:TEMPO_TEMPO_CALEND>na década de 50<END>.
+Claro que isso não seria possível sem a renovação promovida pelos <START:ABSTRACCAO_DISCIPLINA>Comix<END>.
 Com a pop art os quadrinhos passaram a ser aceitos por uma camada mais intelectualizada da sociedade.
-<START:PESSOA_INDIVIDUAL> Jules Feiffer <END> tem suas tiras publicadas nas páginas da elitista New Yorker.
-Na <START:LOCAL_HUMANO> Europa <END> , <START:PESSOA_INDIVIDUAL> François Truffaut <END> , <START:PESSOA_INDIVIDUAL> Alain Resnais <END> , <START:PESSOA_INDIVIDUAL> Federico Fellini <END> e <START:PESSOA_INDIVIDUAL> Umberto Eco <END> , teorizam sobre as <START:COISA_CLASSE> HQs <END> e declaram seu amor aos quadrinistas norte-americanos.
+<START:PESSOA_INDIVIDUAL>Jules Feiffer<END> tem suas tiras publicadas nas páginas da elitista New Yorker.
+Na <START:LOCAL_HUMANO>Europa<END>, <START:PESSOA_INDIVIDUAL>François Truffaut<END>, <START:PESSOA_INDIVIDUAL>Alain Resnais<END>, <START:PESSOA_INDIVIDUAL>Federico Fellini<END> e <START:PESSOA_INDIVIDUAL>Umberto Eco<END>, teorizam sobre as <START:COISA_CLASSE>HQs<END> e declaram seu amor aos quadrinistas norte-americanos.
 Com a benção da pop art, finalmente as histórias em quadrinhos viraram coisa de gente grande.
 A quebra de valores promovida pela pop art, pela contracultura, pelos comix e pela beat generation influenciou ainda o jornalismo e a literatura.
-<START:PESSOA_INDIVIDUAL> Hunter S. Thompson <END> e <START:PESSOA_INDIVIDUAL> Tom Wolfe <END> criam o "new journalism" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência.
-Se, por um lado, <START:PESSOA_INDIVIDUAL> Thompson <END> experimentou todos os tipos de substâncias legais e ilegais para escrever <START:OBRA_REPRODUZIDA> Fear &amp; Loathing in Las Vegas <END> , um relato de suas maluquices na capital mundial do jogo, <START:PESSOA_INDIVIDUAL> Wolfe <END> desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das <START:COISA_CLASSE> HQs <END> .
+<START:PESSOA_INDIVIDUAL>Hunter S. Thompson<END> e <START:PESSOA_INDIVIDUAL>Tom Wolfe<END> criam o "new journalism" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência.
+Se, por um lado, <START:PESSOA_INDIVIDUAL>Thompson<END> experimentou todos os tipos de substâncias legais e ilegais para escrever <START:OBRA_REPRODUZIDA>Fear &amp; Loathing in Las Vegas<END>, um relato de suas maluquices na capital mundial do jogo, <START:PESSOA_INDIVIDUAL>Wolfe<END> desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das <START:COISA_CLASSE>HQs<END>.
 Inclusive com a utilização de onomatopéias: 
-"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da <START:LOCAL_HUMANO> Grande Estrada <END> a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar <START:TEMPO_FREQUENCIA> muitas vezes <END> em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da <START:LOCAL_HUMANO>Grande Estrada<END> a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar <START:TEMPO_FREQUENCIA>muitas vezes<END> em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
 eeeeeeeeeeeeeeeeeeeeeeeee - Nua em Pêlo cada vez mais esquisita enrolada na manta preta, tremendo e depois se levantando feito uma alma penada...
 ...É loucura, delírio, piração, fora da realidade, com metade do mesencéfalo repetindo
+
+
 VOCÊ ESTÁ MUITO DOIDO
+
+
 e a outra metade repetindo
-VOCÊ É <START:PESSOA_INDIVIDUAL> DEUS <END> ...
+
+
+VOCÊ É <START:PESSOA_INDIVIDUAL>DEUS<END> ...
+
+
 Homem home on the range, cuspindo e buzinando fonfonrofonfon aquela maldita ladainha ao microfone - Home...home...on the ra-a-a-a-a-ange..." 
-<START:PESSOA_INDIVIDUAL> Tom Wolfe <END> - O Teste do Ácido do Refresco Elétrico 
+
+
+<START:PESSOA_INDIVIDUAL>Tom Wolfe<END> - O Teste do Ácido do Refresco Elétrico 
+
+
 Essa foi a estética vigente dos primeiros textos da literatura underground norte-americana.
-Em livros como <START:OBRA_REPRODUZIDA> V <END> , <START:OBRA_REPRODUZIDA> O Leilão do Lote 49 <END> e <START:OBRA_REPRODUZIDA> Arco Íris da Gravidade <END> , todos publicados <START:TEMPO_TEMPO_CALEND> no período <END> que vai <START:TEMPO_TEMPO_CALEND> de 61 a 73 <END> , o escritor <START:PESSOA_INDIVIDUAL> Thomas Pynchon <END> <START:TEMPO_FREQUENCIA> freqüentemente <END> adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem <START:PESSOA_INDIVIDUAL> Homem Foguete <END> é claramente inspirado no <START:PESSOA_INDIVIDUAL> Capitão América <END> ), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos ( <START:ABSTRACCAO_NOME> Benny Profane <END> , <START:ABSTRACCAO_NOME> Oedipa <END> e <START:ABSTRACCAO_NOME> Mucho Maas <END> , <START:ABSTRACCAO_NOME> Pierce Inverarity <END> , <START:ABSTRACCAO_NOME> Fausto Magistral <END> , <START:ABSTRACCAO_NOME> Tyrone Slothrop <END> , <START:ABSTRACCAO_NOME> General Pudding <END> , <START:ABSTRACCAO_NOME> Pig Bodine <END> ...).
-Quem também se utiliza do humor quase infantil das <START:COISA_CLASSE> HQs <END> é <START:PESSOA_INDIVIDUAL> Kurt Vonnegut <END> em seu manifesto anti-militarista <START:OBRA_REPRODUZIDA> Matadouro 5 <END> e no experimental <START:OBRA_REPRODUZIDA> Timequake <END> .
+Em livros como <START:OBRA_REPRODUZIDA>V<END>, <START:OBRA_REPRODUZIDA>O Leilão do Lote 49<END> e <START:OBRA_REPRODUZIDA>Arco Íris da Gravidade<END>, todos publicados <START:TEMPO_TEMPO_CALEND>no período<END> que vai <START:TEMPO_TEMPO_CALEND>de 61 a 73<END>, o escritor <START:PESSOA_INDIVIDUAL>Thomas Pynchon<END> <START:TEMPO_FREQUENCIA>freqüentemente<END> adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem <START:PESSOA_INDIVIDUAL>Homem Foguete<END> é claramente inspirado no <START:PESSOA_INDIVIDUAL>Capitão América<END>), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos (<START:ABSTRACCAO_NOME>Benny Profane<END>, <START:ABSTRACCAO_NOME>Oedipa<END> e <START:ABSTRACCAO_NOME>Mucho Maas<END>, <START:ABSTRACCAO_NOME>Pierce Inverarity<END>, <START:ABSTRACCAO_NOME>Fausto Magistral<END>, <START:ABSTRACCAO_NOME>Tyrone Slothrop<END>, <START:ABSTRACCAO_NOME>General Pudding<END>, <START:ABSTRACCAO_NOME>Pig Bodine<END>...).
+Quem também se utiliza do humor quase infantil das <START:COISA_CLASSE>HQs<END> é <START:PESSOA_INDIVIDUAL>Kurt Vonnegut<END> em seu manifesto anti-militarista <START:OBRA_REPRODUZIDA>Matadouro 5<END> e no experimental <START:OBRA_REPRODUZIDA>Timequake<END>.
 Foi essa reciclagem da cultura de massa norte-americana e a sua junção com os valores emergentes da contracultura que permitiu o surgimento de uma narrativa genuinamente pós-moderna, um gênero que, além de bastante divertido, deixou fortes marcas na literatura norte-americana.
-<START:TEMPO_TEMPO_CALEND> Dos anos 60 até os dias de hoje <END> .
+<START:TEMPO_TEMPO_CALEND>Dos anos 60 até os dias de hoje<END>.
 Fonte: Kung Fu Lounge (http://kfl.blogspot.com/).
+--DOCSTART--
+    
+
+      COISAS DA SÁBADO 
+      : A DIFERENÇA ENTRE O
+      <START:COISA_CLASSE>JORNAL DE NOTÍCIAS<END>
+      E O
+      <START:COISA_CLASSE>DIÁRIO DE NOTÍCIAS<END>
+    
+    
+
+      <START:TEMPO_TEMPO_CALEND>No dia<END> em que a operação «
+      <START:ACONTECIMENTO_EVENTO>Noite Branca<END>
+      » começou a prender suspeitos de serem responsáveis pelo clima de violência no
+      <START:LOCAL_HUMANO>Porto<END>
+      , a comparação entre um jornal de
+      <START:LOCAL_HUMANO>Lisboa<END>
+      , o
+      <START:OBRA_REPRODUZIDA>Diário de Notícias<END>
+      , e um do
+      <START:LOCAL_HUMANO>Porto<END>
+      , o
+      <START:OBRA_REPRODUZIDA>Jornal de Notícias<END>
+      ,
+      <START:TEMPO_TEMPO_CALEND>no mesmo dia 17 de Dezembro<END>
+      , não podia ser mais significativa.
+O 
+      Diário de Notícias 
+      falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do
+      <START:ORGANIZACAO_INSTITUICAO>FCP<END>
+      , os
+      <START:PESSOA_GRUPOMEMBRO>Super Dragões<END>
+      .
+Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção.
+Onde eles apareciam era à frente da claque em filmes (a
+      <START:ORGANIZACAO_EMPRESA>SIC<END>
+      mostrou-os) e em fotos de segurança aos dirigentes do clube.
+No
+      <START:LOCAL_VIRTUAL>Jornal de Notícias<END>
+      tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença.
+De facto, o
+      <START:OBRA_REPRODUZIDA>Jornal de Notícias<END>
+      parece ser um jornal do
+      <START:LOCAL_HUMANO>Casaquistão<END>
+      tal é a ignorância do que se passa à sua volta.
+Mas não é, é mesmo do
+      <START:LOCAL_HUMANO>Porto<END>
+      e esse é que é o problema: é do
+      <START:LOCAL_HUMANO>Porto<END>
+      e cala.
+--DOCSTART--
+
+
+<START:TEMPO_TEMPO_CALEND>Em Dezembro<END> em <START:LOCAL_HUMANO>Lisboa<END>
+
+
+<START:PESSOA_INDIVIDUAL>Sócrates<END>: cimeira " <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> - <START:ORGANIZACAO_ADMINISTRACAO>África<END> não deve ser uma cimeira «sobre <START:PESSOA_INDIVIDUAL>Mugabe<END>» 
+
+
+A cimeira  <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> - <START:ORGANIZACAO_ADMINISTRACAO>África<END> , prevista <START:TEMPO_TEMPO_CALEND>para 8<END> e <START:TEMPO_TEMPO_CALEND>9 de Dezembro<END> em <START:LOCAL_HUMANO>Lisboa<END>, não deve ser uma cimeira sobre o  <START:PESSOA_CARGO>Presidente<END> do <START:LOCAL_HUMANO>Zimbabwe<END>, <START:PESSOA_INDIVIDUAL>Robert Mugabe<END>, defendeu <START:TEMPO_TEMPO_CALEND>hoje<END> <START:PESSOA_INDIVIDUAL>José Sócrates<END>, primeiro-ministro português e presidente em exercício da <START:LOCAL_HUMANO>União Europeia<END> (<START:LOCAL_HUMANO>UE<END>).
+«O que queremos é que esta cimeira entre a <START:ORGANIZACAO_ADMINISTRACAO>União Europeia<END> e <START:ORGANIZACAO_ADMINISTRACAO>África<END>, uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o <START:PESSOA_INDIVIDUAL>Presidente Robert Mugabe<END>», declarou <START:PESSOA_INDIVIDUAL>Sócrates<END> em <START:LOCAL_HUMANO>Singapura<END>, à margem da cimeira entre a <START:ORGANIZACAO_ADMINISTRACAO>UE<END> e os países do <START:LOCAL_HUMANO>Sudeste<END> asiático, segundo a   Lusa .
+O <START:ORGANIZACAO_ADMINISTRACAO>Zimbabwe<END> foi convidado para participar na cimeira, apesar da oposição do <START:ORGANIZACAO_ADMINISTRACAO>Reino Unido<END> que ameaçou boicotar a reunião se <START:PESSOA_INDIVIDUAL>Mugabe<END> estiver presente.
+«Esta é uma cimeira que não se realiza <START:TEMPO_DURACAO>há sete anos<END>, uma cimeira sobre os direitos do <START:PESSOA_GRUPOMEMBRO>Homem<END>, sobre as alterações climáticas, sobre as migrações, sobre os problemas da <START:LOCAL_HUMANO>União Europeia<END> e da <START:LOCAL_HUMANO>União Africana<END>», salientou <START:PESSOA_INDIVIDUAL>Sócrates<END>.
+«O objectivo é restaurar o diálogo político alargado com a <START:ORGANIZACAO_ADMINISTRACAO>África<END> e fazer não apenas uma estratégia da <START:ORGANIZACAO_ADMINISTRACAO>Europa<END> para a <START:ORGANIZACAO_ADMINISTRACAO>África<END> mas uma estratégia conjunta, pela primeira vez na história», lembrou.
+«Gostaria que esta cimeira não fosse apenas sobre um país ou sobre um dirigente», insistiu.

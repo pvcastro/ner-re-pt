@@ -348,7 +348,7 @@ até	adv	O
 na	pron-pers	O
 República	n	B-LOCAL
 Tcheca	n	I-LOCAL
-``	n	O
+''	n	O
 ,	,	O
 afirma	v-fin	O
 Fenger	n	B-PESSOA
@@ -405,7 +405,7 @@ site	n	O
 do	n	O
 Creative	n	B-ORGANIZACAO
 Commons	n	I-ORGANIZACAO
-``	n	O
+''	n	O
 ,	,	O
 diz	v-fin	O
 Christiansen	n	B-PESSOA
@@ -453,7 +453,7 @@ O	n	B-ACONTECIMENTO
 Mundo	n	I-ACONTECIMENTO
 da	n	I-ACONTECIMENTO
 Cerveja	n	I-ACONTECIMENTO
-``	n	O
+''	n	O
 ,	,	O
 com	prp	O
 os	art	O
@@ -1696,8 +1696,10 @@ de	prp	O
 Melhor	n	O
 Actor	n	O
 por	prp	O
-«Forrest	n	O
-Gump»	n	O
+«	«	O
+Forrest	n	O
+Gump	n	O
+»	»	O
 ?	?	O
 
 Como	n	O
@@ -1706,7 +1708,8 @@ chamava	v-fin	O
 o	art	O
 autor	n	O
 de	prp	O
-«Romeu	n	O
+«	«	O
+Romeu	n	O
 e	conj-c	O
 Julieta	n	O
 ''	n	O
@@ -1736,7 +1739,8 @@ ano	n	O
 foi	v-fin	O
 assassinado	v-pcp	O
 John	n	B-PESSOA
-F.	n	I-PESSOA
+F	n	I-PESSOA
+.	.	I-PESSOA
 Kennedy	n	I-PESSOA
 ?	?	O
 
@@ -1990,11 +1994,13 @@ foi	v-fin	O
 o	art	O
 realizador	n	O
 de	prp	O
-«E	n	O
+«	«	O
+E	n	O
 tudo	pron-indp	O
 o	art	O
 vento	n	O
-levou»	n	O
+levou	v-fin	O
+»	»	O
 ?	?	O
 
 Em	n	O
@@ -2005,11 +2011,13 @@ ele	pron-pers	O
 o	art	O
 Óscar	n	O
 por	prp	O
-«E	n	O
+«	«	O
+E	n	O
 tudo	pron-indp	O
 o	art	O
 vento	n	O
-levou»	n	O
+levou	v-fin	O
+»	»	O
 ?	?	O
 
 Como	n	O
@@ -2156,10 +2164,12 @@ lugar	n	O
 a	prp	O
 estreia	n	O
 de	prp	O
-«O	n	O
+«	«	O
+O	n	O
 Fantasma	n	O
 da	n	O
-Ópera»	n	O
+Ópera	n	O
+»	»	O
 de	prp	O
 Andrew	n	B-PESSOA
 Lloyd	n	I-PESSOA
@@ -2448,7 +2458,7 @@ Estudos	n	B-ACONTECIMENTO
 sobre	prp	I-ACONTECIMENTO
 a	art	I-ACONTECIMENTO
 Histeria	n	I-ACONTECIMENTO
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -2541,8 +2551,10 @@ Lisa	n	O
 Quanto	n	O
 dinheiro	n	O
 ganhou	v-fin	O
-«Parque	n	O
-Jurássico»	n	O
+«	«	O
+Parque	n	O
+Jurássico	n	O
+»	»	O
 de	prp	O
 Steven	n	B-PESSOA
 Spielberg	n	I-PESSOA
@@ -2780,11 +2792,13 @@ o	art	O
 autor	n	O
 da	n	O
 obra	n	O
-«A	n	O
+«	«	O
+A	n	O
 Última	n	O
 Tentação	n	O
 de	prp	O
-Cristo»	n	O
+Cristo	n	O
+»	»	O
 ?	?	O
 
 Quando	n	O
@@ -2875,9 +2889,11 @@ Quem	n	O
 realizou	v-fin	O
 o	art	O
 filme	n	O
-«Morte	n	O
+«	«	O
+Morte	n	O
 em	prp	O
-Veneza»	n	O
+Veneza	n	O
+»	»	O
 ?	?	O
 
 Onde	n	O
@@ -2955,9 +2971,11 @@ polícia	n	O
 no	pron-pers	O
 seu	pron-det	O
 livro	n	O
-«Assassino	n	O
+«	«	O
+Assassino	n	O
 sem	prp	O
-rosto»	n	O
+rosto	n	O
+»	»	O
 ?	?	O
 
 Diga	n	O
@@ -3257,10 +3275,12 @@ quantos	pron-det	O
 livros	n	O
 está	v-fin	O
 dividido	v-pcp	O
-«O	n	O
+«	«	O
+O	n	O
 Senhor	n	O
 dos	prop	O
-Anéis»	n	O
+Anéis	n	O
+»	»	O
 ?	?	O
 
 Onde	n	O
@@ -4514,6 +4534,7 @@ que	pron-indp	O
 era	v-fin	O
 o	art	O
 dr.	n	B-PESSOA
+
 Catanho	n	I-PESSOA
 de	prp	I-PESSOA
 Meneses	n	I-PESSOA
@@ -8397,9 +8418,11 @@ telemóveis	n	O
 de	prp	O
 banda	n	O
 larga	adj	O
-«de	n	O
-nova	n	O
-geração»	n	O
+«	«	O
+de	prp	O
+nova	adj	O
+geração	n	O
+»	»	O
 em	prp	B-TEMPO
 2008	n	I-TEMPO
 ,	,	O
@@ -8449,7 +8472,8 @@ O	n	O
 programa	n	O
 de	prp	O
 desenvolvimento	n	O
-«estará	n	O
+«	«	O
+estará	v-fin	O
 de	prp	O
 acordo	n	O
 com	prp	O
@@ -8470,7 +8494,8 @@ competitividade	n	O
 mundial	adj	O
 das	n	O
 empresas	n	O
-chinesas»	n	O
+chinesas	adj	O
+»	»	O
 ,	,	O
 disse	v-fin	O
 o	art	O
@@ -8990,6 +9015,7 @@ preparação	n	O
 dirigido	v-pcp	O
 pelo	n	O
 sr.	n	B-PESSOA
+
 Alfredo	n	I-PESSOA
 Silva	n	I-PESSOA
 ,	,	O
@@ -9041,8 +9067,7 @@ feito	v-pcp	O
 alguma	pron-det	O
 coisa	n	O
 na	pron-pers	O
-A.C.M	n	B-ORGANIZACAO
-.	.	I-ORGANIZACAO
+A.C.M.	n	B-ORGANIZACAO
 que	pron-indp	O
 por	prp	O
 não	adv	O
@@ -9089,12 +9114,13 @@ propaganda	n	O
 juntamente	adv	O
 com	prp	O
 os	art	O
-srs	n	B-PESSOA
-.	.	I-PESSOA
+srs.	n	B-PESSOA
+
 Eduardo	n	I-PESSOA
 Moreira	n	I-PESSOA
 ,	,	O
 Dr.	n	B-PESSOA
+
 João	n	I-PESSOA
 Gomes	n	I-PESSOA
 de	prp	I-PESSOA
@@ -9285,8 +9311,10 @@ uma	art	O
 pálida	n	O
 imitação	n	O
 dos	prop	O
-«red	n	O
-devils»	n	O
+«	«	O
+red	adj	O
+devils	n	O
+»	»	O
 de	prp	O
 um	art	O
 passado	n	O
@@ -9484,7 +9512,9 @@ foi	v-fin	O
 uma	art	O
 dessas	n	O
 inesperadas	n	O
-«revoluções»	n	O
+«	«	O
+revoluções	n	O
+»	»	O
 na	pron-pers	O
 formação	n	O
 da	n	O
@@ -9533,7 +9563,9 @@ Nereu	n	B-PESSOA
 ,	,	O
 ou	conj-c	O
 pela	n	O
-«épica»	n	O
+«	«	O
+épica	n	O
+»	»	O
 contratação	n	O
 de	prp	O
 Moretto	n	B-PESSOA
@@ -10090,7 +10122,9 @@ policial-mediático	n	O
 para	prp	O
 ouvir	v-inf	O
 o	art	O
-«suspeitíssimo»	n	O
+«	«	O
+suspeitíssimo	n	O
+»	»	O
 Pinto	n	B-PESSOA
 da	n	I-PESSOA
 Costa	n	I-PESSOA
@@ -10132,7 +10166,8 @@ de	prp	O
 investigação	n	O
 ,	,	O
 a	art	O
-«task	n	O
+«	«	O
+task	n	O
 force	n	O
 »	»	O
 judicial	adj	O
@@ -10173,7 +10208,9 @@ nada.	n	O
 
 A	n	O
 suspeita	v-fin	O
-«gravíssima»	n	O
+«	«	O
+gravíssima	adj	O
+»	»	O
 mantém-se	n	O
 rigorosamente	adv	O
 a	art	O
@@ -10227,7 +10264,9 @@ subornado	n	O
 com	prp	O
 recurso	n	O
 a	prp	O
-«meninas»	n	O
+«	«	O
+meninas	n	O
+»	»	O
 o	art	O
 árbitro	n	O
 do	n	O
@@ -12810,7 +12849,7 @@ pagam	v-fin	O
 R	n	B-VALOR
 $	n	I-VALOR
 7	num	I-VALOR
-``	n	O
+''	n	O
 ,	,	O
 afirmou	v-fin	O
 Bjornstjerne	n	B-PESSOA
@@ -13613,8 +13652,10 @@ Islão	n	B-ORGANIZACAO
 lançou	v-fin	O
 contra	prp	O
 os	art	O
-«não	n	O
-crentes»	n	O
+«	«	O
+não	adv	O
+crentes	adj	O
+»	»	O
 --	n	O
 -	-	O
 sejam	v-fin	O
@@ -13780,7 +13821,9 @@ pior	adj	O
 que	pron-indp	O
 as	art	O
 caricaturas	n	O
-«blasfemas»	n	O
+«	«	O
+blasfemas	n	O
+»	»	O
 para	prp	O
 o	art	O
 Islão	n	O
@@ -13998,8 +14041,11 @@ arma	n	O
 de	prp	O
 arremesso	n	O
 contra	prp	O
-«os	n	O
-infiéis».	n	O
+«	«	O
+os	art	O
+infiéis	n	O
+»	»	O
+.	.	O
 
 [	[	O
 ...	n	O
@@ -14302,7 +14348,9 @@ além	adv	O
 :	n	O
 a	prp	O
 nossa	pron-det	O
-«diplomacia»	n	O
+«	«	O
+diplomacia	n	O
+»	»	O
 não	adv	O
 tem	v-fin	O
 feito	v-pcp	O
@@ -15272,7 +15320,8 @@ desvaloriza	n	O
 tudo	pron-indp	O
 isso.	n	O
 
-«A	n	O
+«	«	O
+A	n	O
 história	n	O
 nem	conj-c	O
 sempre	adv	O
@@ -15297,7 +15346,8 @@ vamos	v-fin	O
 encontrar	v-inf	O
 um	art	O
 adversário	n	O
-forte.»	n	O
+forte.	n	O
+»	»	O
 Para	n	O
 facilitar	v-inf	O
 os	art	O
@@ -15314,7 +15364,8 @@ Figueira	n	B-LOCAL
 da	n	I-LOCAL
 Foz	n	I-LOCAL
 ,	,	O
-«mais	n	O
+«	«	O
+mais	adv	O
 adeptos	n	O
 da	n	O
 Académica	n	O
@@ -15322,7 +15373,8 @@ do	n	O
 que	pron-indp	O
 da	n	O
 Naval	n	O
-».	n	O
+»	»	O
+.	.	O
 
 
 
@@ -16868,7 +16920,7 @@ editora	n	O
 ``	n	O
 El	n	B-ORGANIZACAO
 Tatu	n	I-ORGANIZACAO
-``	n	O
+''	n	O
 de	prp	O
 Tim	n	B-PESSOA
 reedita	n	O
@@ -17309,6 +17361,7 @@ na	pron-pers	O
 corte	n	O
 de	prp	O
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 V	n	I-PESSOA
 .	.	O
@@ -17328,12 +17381,15 @@ Fernando	n	I-PESSOA
 de	prp	O
 Nápoles	n	B-LOCAL
 ,	,	O
-«para	n	O
+«	«	O
+para	prp	O
 reprimir	v-inf	O
 o	art	O
 furor	n	O
 dos	prop	O
-turcos».	n	O
+turcos	adj	O
+»	»	O
+.	.	O
 
 Esteve	n	O
 na	pron-pers	O
@@ -17404,6 +17460,7 @@ da	n	O
 guarda	n	O
 de	prp	O
 D.	n	B-PESSOA
+
 João	n	I-PESSOA
 II	n	I-PESSOA
 ,	,	O
@@ -17465,19 +17522,22 @@ reino	n	O
 de	prp	O
 Portugal	n	B-LOCAL
 ,	,	O
-«mais	n	O
+«	«	O
+mais	adv	O
 cheio	adj	O
 de	prp	O
 glórias	n	O
 que	pron-indp	O
 de	prp	O
-despojos»	n	O
+despojos	n	O
+»	»	O
 ,	,	O
 foi	v-fin	O
 bem	adv	O
 acolhido	n	O
 por	prp	O
 D.	n	B-PESSOA
+
 Manuel	n	I-PESSOA
 que	pron-indp	O
 em	prp	B-TEMPO
@@ -17707,7 +17767,8 @@ página	n	O
 23	num	O
 )	n	O
 que	pron-indp	O
-«foi	n	O
+«	«	O
+foi	v-fin	O
 amortalhado	n	O
 com	prp	O
 o	art	O
@@ -17786,7 +17847,9 @@ maio	n	I-TEMPO
 de	prp	I-TEMPO
 1566	n	I-TEMPO
 com	prp	O
-pompa».	n	O
+pompa	n	O
+»	»	O
+.	.	O
 
 
 
@@ -19223,11 +19286,13 @@ Sonae	n	B-ORGANIZACAO
 Distribuição	n	I-ORGANIZACAO
 ,	,	O
 a	art	O
-«decisão	n	O
+«	«	O
+decisão	n	O
 provável	adj	O
 de	prp	O
 não	adv	O
-oposição»	n	O
+oposição	n	O
+»	»	O
 ,	,	O
 que	pron-indp	O
 se	pron-pers	O
@@ -19535,7 +19600,8 @@ e	conj-c	O
 sentido	n	O
 de	prp	O
 Estado	n	O
-.»	n	O
+.	.	O
+»	»	O
 
 Habituei-me	n	O
 ,	,	O
@@ -19608,7 +19674,8 @@ dizer	v-inf	O
 a	art	O
 soluçar	n	O
 :	n	O
-«Ele	n	O
+«	«	O
+Ele	n	O
 vai	v-fin	O
 apresentar	v-inf	O
 uma	art	O
@@ -19742,7 +19809,9 @@ e	conj-c	O
 não	adv	O
 se	pron-pers	O
 diga	v-fin	O
-«treuze»	n	O
+«	«	O
+treuze	n	O
+»	»	O
 ,	,	O
 é-se	n	O
 barão.	n	O
@@ -19770,7 +19839,8 @@ escreveu	v-fin	O
 no	pron-pers	O
 PÚBLICO	n	O
 que	pron-indp	O
-«o	n	O
+«	«	O
+o	art	O
 problema	n	O
 do	n	O
 PSD	n	B-ORGANIZACAO
@@ -19785,7 +19855,9 @@ ou	conj-c	O
 dois	num	O
 dentro	adv	O
 de	prp	O
-si».	n	O
+si	pron-pers	O
+»	»	O
+.	.	O
 
 Não	n	O
 podia	v-fin	O
@@ -20547,8 +20619,7 @@ Mas	n	O
 George	n	B-PESSOA
 Steiner	n	I-PESSOA
 (	n	O
-G.S	n	B-PESSOA
-.	.	I-PESSOA
+G.S.	n	B-PESSOA
 )	n	O
 ,	,	O
 proferiu	n	O
@@ -20595,8 +20666,7 @@ Schindler	n	I-PESSOA
 
 Por	n	O
 mim	pron-pers	O
-G.S	n	B-PESSOA
-.	.	I-PESSOA
+G.S.	n	B-PESSOA
 que	pron-indp	O
 fique	v-fin	O
 pela	n	O
@@ -20664,8 +20734,7 @@ no	pron-pers	O
 mundo	n	O
 ...	n	O
 
-G.S	n	B-PESSOA
-.	.	I-PESSOA
+G.S.	n	B-PESSOA
 ,	,	O
 enquanto	adv	O
 aufere	n	O
@@ -20838,8 +20907,7 @@ Valorização	n	I-ORGANIZACAO
 de	prp	I-ORGANIZACAO
 Resíduos	n	I-ORGANIZACAO
 ,	,	I-ORGANIZACAO
-Lda	n	I-ORGANIZACAO
-.	.	I-ORGANIZACAO
+Lda.	n	I-ORGANIZACAO
 uma	art	O
 empresa	n	O
 dinamizadora	n	O
@@ -21094,7 +21162,8 @@ Ser	n	O
 e	conj-c	O
 o	art	O
 Tempo	n	O
-».	n	O
+»	»	O
+.	.	O
 
 -	-	O
 Quantas	n	O
@@ -21352,7 +21421,8 @@ Concelhos	n	O
 Portugueses	n	O
 --	n	O
 1995/2005	n	O
-».	n	O
+»	»	O
+.	.	O
 
 Em	n	O
 Portugal	n	B-LOCAL
@@ -24294,7 +24364,8 @@ mulher	n	O
 de	prp	O
 George	n	B-PESSOA
 H.	n	I-PESSOA
-W.	n	I-PESSOA
+W	n	I-PESSOA
+.	.	I-PESSOA
 Bush	n	I-PESSOA
 ?	?	O
 
@@ -25219,7 +25290,7 @@ Margarita	n	B-ACONTECIMENTO
 e	conj-c	I-ACONTECIMENTO
 o	art	I-ACONTECIMENTO
 Mestre	n	I-ACONTECIMENTO
-``	n	O
+''	n	O
 ?	?	O
 
 O	n	O
@@ -25918,7 +25989,7 @@ Quem	n	O
 ``	n	O
 Toninho	n	B-PESSOA
 Malvadeza	n	I-PESSOA
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -27061,6 +27132,7 @@ a	art	O
 sua	pron-det	O
 mãe	n	O
 D.	n	B-PESSOA
+
 Maria	n	I-PESSOA
 Magdalena	n	I-PESSOA
 Pinheiro	n	I-PESSOA
@@ -27122,6 +27194,7 @@ Tia	n	B-PESSOA
 Anica	n	I-PESSOA
 (	n	O
 D.	n	B-PESSOA
+
 Ana	n	I-PESSOA
 Luísa	n	I-PESSOA
 Pinheiro	n	I-PESSOA
@@ -28306,7 +28379,8 @@ Editora	n	O
 Oficinas	n	O
 a	prp	O
 Vapor	n	O
-».	n	O
+»	»	O
+.	.	O
 
 A	n	B-TEMPO
 partir	v-inf	I-TEMPO
@@ -29105,13 +29179,15 @@ agência	n	O
 Lusa	n	O
 ,	,	O
 acompanhando	v-ger	O
-«o	n	O
+«	«	O
+o	art	O
 percurso	n	O
 da	n	O
 decadência	n	O
 ,	,	O
 da	n	O
-perdição»	n	O
+perdição	n	O
+»	»	O
 ,	,	O
 do	n	O
 autarca	n	O
@@ -29129,7 +29205,8 @@ de	prp	O
 um	art	O
 favor.	n	O
 
-«Neste	n	O
+«	«	O
+Neste	n	O
 caso	conj-s	O
 a	art	O
 personagem	n	O
@@ -29147,7 +29224,8 @@ toda	pron-det	O
 a	art	O
 dignidade	n	O
 e	conj-c	O
-reputação»	n	O
+reputação	n	O
+»	»	O
 ,	,	O
 compara	v-fin	O
 António-Pedro	n	B-PESSOA
@@ -29158,13 +29236,16 @@ porque	conj-s	O
 é	v-fin	O
 um	art	O
 tema	n	O
-«recorrente	n	O
+«	«	O
+recorrente	n	O
 na	pron-pers	O
 literatura	n	O
 e	conj-c	O
 na	pron-pers	O
 ficção	n	O
-ocidental».	n	O
+ocidental	adj	O
+»	»	O
+.	.	O
 
 «	«	O
 Call	n	O
@@ -29878,8 +29959,8 @@ América	n	I-LOCAL
 Latina	n	I-LOCAL
 .	.	O
 
-Av	n	B-LOCAL
-.	.	I-LOCAL
+Av.	n	B-LOCAL
+
 Auro	n	I-LOCAL
 Soares	n	I-LOCAL
 de	prp	I-LOCAL
@@ -31556,7 +31637,8 @@ os	art	O
 CTT	n	B-ORGANIZACAO
 adiantam	n	O
 que	pron-indp	O
-«os	n	O
+«	«	O
+os	art	O
 preços	n	O
 dos	prop	O
 serviços	n	O
@@ -35796,6 +35878,7 @@ outras	pron-det	O
 coisas	n	O
 ,	,	O
 Dr.	n	B-PESSOA
+
 Werthan	n	I-PESSOA
 ,	,	O
 ``	n	O
@@ -35945,6 +36028,7 @@ juntos	adv	O
 .	.	O
 
 Dr.	n	B-PESSOA
+
 Frederick	n	I-PESSOA
 Werthan	n	I-PESSOA
 -	-	O
@@ -35986,6 +36070,7 @@ o	art	O
 livro	n	O
 do	n	O
 Dr.	n	B-PESSOA
+
 Werthan	n	I-PESSOA
 ,	,	O
 o	art	O
@@ -36681,7 +36766,8 @@ telemóveis	n	O
 que	pron-indp	O
 criaram	v-fin	O
 uma	art	O
-joint-venture»	n	O
+joint-venture	n	O
+»	»	O
 para	prp	O
 estimular	v-inf	O
 o	art	O
@@ -37492,7 +37578,8 @@ autor	n	O
 oulipiano	n	O
 é	v-fin	O
 um	art	O
-«rato	n	O
+«	«	O
+rato	n	O
 que	pron-indp	O
 constrói	v-fin	O
 o	art	O
@@ -37501,7 +37588,9 @@ do	n	O
 qual	pron-det	O
 se	pron-pers	O
 propõe	v-fin	O
-sair».	n	O
+sair	v-inf	O
+»	»	O
+.	.	O
 
 Um	n	O
 labirinto	n	O
@@ -39960,9 +40049,11 @@ dimensão	n	O
 internacional	adj	O
 ,	,	O
 sem	prp	O
-«forças	n	O
+«	«	O
+forças	n	O
 de	prp	O
-bloqueio»	n	O
+bloqueio	n	O
+»	»	O
 na	pron-pers	O
 Presidência	n	O
 ,	,	O
@@ -40095,9 +40186,11 @@ na	pron-pers	O
 RTP	n	O
 e	conj-c	O
 nos	pron-pers	O
-«momentos-	n	O
+«	«	O
+momentos-	n	O
 ''	n	O
-Chávez»	n	O
+Chávez	n	O
+»	»	O
 .	.	O
 
 Os	n	O
@@ -40115,7 +40208,9 @@ estudar	v-inf	O
 novas	adj	O
 fórmulas	n	O
 para	prp	O
-«comunicar»	n	O
+«	«	O
+comunicar	v-inf	O
+»	»	O
 ,	,	O
 que	pron-indp	O
 a	art	O
@@ -40230,7 +40325,9 @@ entre	prp	O
 sectores	n	O
 conservadores	n	O
 e	conj-c	O
-«modernizadores»	n	O
+«	«	O
+modernizadores	n	O
+»	»	O
 ,	,	O
 o	art	O
 que	pron-indp	O
@@ -40261,8 +40358,11 @@ o	art	O
 Simplex	n	O
 e	conj-c	O
 as	art	O
-«Novas	n	O
-Oportunidades».	n	O
+«	«	O
+Novas	n	O
+Oportunidades	n	O
+»	»	O
+.	.	O
 
 O	n	O
 que	pron-indp	O
@@ -41465,7 +41565,8 @@ ele	pron-pers	O
 me	pron-pers	O
 advertiu.	n	O
 
-«Põe-te	n	O
+«	«	O
+Põe-te	n	O
 com	prp	O
 brincadeiras	n	O
 e	conj-c	O
@@ -41496,7 +41597,8 @@ palavras	n	O
 exactas	adj	O
 dele.	n	O
 
-«Tinha	n	O
+«	«	O
+Tinha	n	O
 razão	n	O
 ,	,	O
 Herman	n	B-PESSOA
@@ -41721,6 +41823,7 @@ que	conj-s	O
 criticar	v-inf	O
 o	art	O
 prof.	n	B-PESSOA
+
 Marcelo	n	I-PESSOA
 é	v-fin	O
 fazer	v-inf	O
@@ -41732,6 +41835,7 @@ Sim	n	O
 O	n	O
 próprio	adj	O
 prof.	n	B-PESSOA
+
 Marcelo	n	I-PESSOA
 diz	v-fin	O
 que	conj-s	O
@@ -41771,15 +41875,18 @@ sketch	n	O
 sobre	prp	O
 o	art	O
 prof.	n	B-PESSOA
+
 Marcelo	n	I-PESSOA
 ,	,	O
 diz	v-fin	O
 que	conj-s	O
 ,	,	O
-«em	n	O
+«	«	O
+em	prp	O
 plena	adj	O
 campanha	n	O
-eleitoral»	n	O
+eleitoral	adj	O
+»	»	O
 quisemos	n	O
 ´ridicularizar	n	O
 os	art	O
@@ -41791,12 +41898,15 @@ lados	n	O
 em	prp	O
 confronto	n	O
 no	pron-pers	O
-referendo».	n	O
+referendo	n	O
+»	»	O
+.	.	O
 
 Primeiro	n	O
 ,	,	O
 o	art	O
 prof.	n	B-PESSOA
+
 Marcelo	n	I-PESSOA
 não	adv	O
 representa	v-fin	O
@@ -41824,6 +41934,7 @@ rábula	n	O
 sobre	prp	O
 o	art	O
 prof.	n	B-PESSOA
+
 Marcelo	n	I-PESSOA
 foi	v-fin	O
 transmitida	v-pcp	O
@@ -41851,10 +41962,12 @@ que	pron-indp	O
 fizemos	v-fin	O
 o	art	O
 sketch	n	O
-«em	n	O
+«	«	O
+em	prp	O
 plena	adj	O
 campanha	n	O
-eleitoral»	n	O
+eleitoral	adj	O
+»	»	O
 é	v-fin	O
 ,	,	O
 portanto	adv	O
@@ -41932,7 +42045,8 @@ Rodrigo	n	B-PESSOA
 Moita	n	I-PESSOA
 de	prp	I-PESSOA
 Deus	n	I-PESSOA
-.»	n	O
+.	.	O
+»	»	O
 Quero	n	O
 agradecer	v-inf	O
 ,	,	O
@@ -42722,6 +42836,7 @@ como	adv	O
 Boston	n	B-LOCAL
 ,	,	O
 St.	n	B-LOCAL
+
 Louis	n	I-LOCAL
 ,	,	O
 Chicago	n	B-LOCAL
@@ -43945,9 +44060,11 @@ Em	n	O
 que	pron-indp	O
 ano	n	O
 publicou	v-fin	O
-«Bouvard	n	O
+«	«	O
+Bouvard	n	O
 e	conj-c	O
-Pécuchet»	n	O
+Pécuchet	n	O
+»	»	O
 ?	?	O
 
 Lista	n	O
@@ -44005,7 +44122,8 @@ Rodriguez	n	O
 Quem	n	O
 é	v-fin	O
 Philip	n	B-PESSOA
-J.	n	I-PESSOA
+J	n	I-PESSOA
+.	.	I-PESSOA
 Fry	n	I-PESSOA
 ?	?	O
 
@@ -44744,8 +44862,10 @@ Em	n	O
 que	pron-indp	O
 museu	n	O
 estão	v-fin	O
-«As	n	O
-Meninas»	n	O
+«	«	O
+As	n	O
+Meninas	n	O
+»	»	O
 de	prp	O
 Velasques	n	B-PESSOA
 ?	?	O
@@ -44899,9 +45019,11 @@ a	prp	O
 duração	n	O
 do	n	O
 filme	n	O
-«A	n	O
+«	«	O
+A	n	O
 Nona	n	O
-Porta»	n	O
+Porta	n	O
+»	»	O
 ?	?	O
 
 Com	n	O
@@ -44988,10 +45110,12 @@ espaço	n	O
 
 Quem	n	O
 realizou	v-fin	O
-«O	n	O
+«	«	O
+O	n	O
 Dia	n	O
 da	n	O
-Besta»	n	O
+Besta	n	O
+»	»	O
 ?	?	O
 
 Quem	n	O
@@ -45318,7 +45442,8 @@ são	v-fin	O
 os	art	O
 protagonistas	n	O
 de	prp	O
-«O	n	O
+«	«	O
+O	n	O
 Bom	n	O
 ,	,	O
 o	art	O
@@ -45541,10 +45666,12 @@ a	prp	O
 distribuidora	n	O
 do	n	O
 filme	n	O
-«O	n	O
+«	«	O
+O	n	O
 Planeta	n	O
 dos	prop	O
-Macacos»	n	O
+Macacos	n	O
+»	»	O
 que	pron-indp	O
 estreou	v-fin	O
 em	prp	B-TEMPO
@@ -45631,10 +45758,12 @@ actor	n	O
 principal	adj	O
 do	n	O
 filme	n	O
-«Tarzan	n	O
+«	«	O
+Tarzan	n	O
 ,	,	O
 o	art	O
-Homem-Macaco»	n	O
+Homem-Macaco	n	O
+»	»	O
 ?	?	O
 
 Quanto	n	O
@@ -48138,7 +48267,7 @@ Pessoa	n	I-ACONTECIMENTO
 Portadora	n	I-ACONTECIMENTO
 de	prp	I-ACONTECIMENTO
 Deficiência	n	I-ACONTECIMENTO
-``	n	O
+''	n	O
 ,	,	O
 o	art	O
 IBAP	n	B-ORGANIZACAO
@@ -48780,8 +48909,7 @@ Holcim	n	B-ORGANIZACAO
 Brasil	n	I-ORGANIZACAO
 )	n	I-ORGANIZACAO
 S.	n	I-ORGANIZACAO
-A	n	I-ORGANIZACAO
-.	.	I-ORGANIZACAO
+A.	n	I-ORGANIZACAO
 
 Vitae	n	B-ORGANIZACAO
 --	n	O
@@ -49881,6 +50009,7 @@ Pedro	n	I-PESSOA
 I	n	I-PESSOA
 e	conj-c	O
 D.	n	B-PESSOA
+
 Pedro	n	I-PESSOA
 II	n	I-PESSOA
 e	conj-c	O
@@ -49919,6 +50048,7 @@ de	prp	O
 caligrafia	n	O
 de	prp	O
 D.	n	B-PESSOA
+
 Pedro	n	I-PESSOA
 II	n	I-PESSOA
 ;	;	O
@@ -50981,14 +51111,17 @@ liquidez	n	O
 verificada	v-pcp	O
 nos	pron-pers	O
 mercados	n	O
-financeiros».	n	O
+financeiros	adj	O
+»	»	O
+.	.	O
 
 No	n	O
 entanto	n	O
 ,	,	O
 salienta	v-fin	O
 ,	,	O
-«à	n	O
+«	«	O
+à	n	O
 medida	n	O
 que	pron-indp	O
 os	art	O
@@ -51006,7 +51139,9 @@ de	prp	O
 empresas	n	O
 na	pron-pers	O
 bolsa	n	O
-portuguesa».	n	O
+portuguesa	adj	O
+»	»	O
+.	.	O
 
 O	n	O
 Santander	n	B-ORGANIZACAO
@@ -51501,7 +51636,8 @@ A	n	O
 Vice-Reitora	n	O
 ,	,	O
 Isabel	n	B-PESSOA
-P.	n	I-PESSOA
+P	n	I-PESSOA
+.	.	I-PESSOA
 Martins	n	I-PESSOA
 .	.	O
 
@@ -52504,7 +52640,8 @@ próximo	adj	I-TEMPO
 ano	n	I-TEMPO
 .	.	O
 
-«Aprovámos	n	O
+«	«	O
+Aprovámos	n	O
 o	art	O
 decreto	n	O
 que	pron-indp	O
@@ -53205,6 +53342,7 @@ Bragança	n	O
 pediu	v-fin	O
 a	prp	O
 D.	n	B-PESSOA
+
 Manuel	n	I-PESSOA
 uma	art	O
 recompensa	n	O
@@ -54375,6 +54513,7 @@ Covilhã	n	B-LOCAL
 ,	,	O
 1450	n	B-TEMPO
 ?	?	I-TEMPO
+
 --	n	I-TEMPO
 -	-	I-TEMPO
 1530	n	I-TEMPO
@@ -54412,6 +54551,7 @@ seu	pron-det	O
 amo	v-fin	O
 ,	,	O
 D.	n	B-PESSOA
+
 Juan	n	I-PESSOA
 de	prp	I-PESSOA
 Guzman	n	I-PESSOA
@@ -54458,6 +54598,7 @@ Covilhã	n	I-PESSOA
 ,	,	O
 convida-o	n	O
 D.	n	B-PESSOA
+
 Juan	n	I-PESSOA
 de	prp	I-PESSOA
 Gusman	n	I-PESSOA
@@ -54489,6 +54630,7 @@ em	prp	B-TEMPO
 ,	,	O
 acompanha	v-fin	O
 D.	n	B-PESSOA
+
 Juan	n	I-PESSOA
 a	prp	O
 Lisboa	n	B-LOCAL
@@ -54503,6 +54645,7 @@ Portugal	n	B-LOCAL
 .	.	O
 
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 simpatiza	n	O
 com	prp	O
@@ -54520,6 +54663,7 @@ língua	n	O
 árabe	adj	O
 e	conj-c	O
 D.	n	B-PESSOA
+
 Juan	n	I-PESSOA
 cede	v-fin	O
 a	prp	O
@@ -54549,6 +54693,7 @@ de	prp	O
 esporas	n	O
 de	prp	O
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 V	n	I-PESSOA
 .	.	O
@@ -54574,6 +54719,7 @@ Em	n	B-TEMPO
 1476	n	I-TEMPO
 acompanha	v-fin	O
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 V	n	I-PESSOA
 na	pron-pers	O
@@ -54586,6 +54732,7 @@ tentativa	n	O
 fracassada	v-pcp	O
 de	prp	O
 D.	n	B-PESSOA
+
 João	n	I-PESSOA
 de	prp	O
 reclamar	v-inf	O
@@ -54612,6 +54759,7 @@ em	prp	O
 iria	v-fin	O
 acompanhar	v-inf	O
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 na	pron-pers	O
 jornada	n	O
@@ -54640,6 +54788,7 @@ rejeitado.	n	O
 Entretanto	n	O
 ,	,	O
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 abdica	n	O
 do	n	O
@@ -54647,6 +54796,7 @@ trono	n	O
 ,	,	O
 para	prp	O
 D.	n	B-PESSOA
+
 João	n	I-PESSOA
 II	n	I-PESSOA
 .	.	O
@@ -54678,6 +54828,7 @@ que	pron-indp	O
 conspiravam	n	O
 contra	prp	O
 D.	n	B-PESSOA
+
 João	n	I-PESSOA
 II	n	I-PESSOA
 ,	,	O
@@ -54685,6 +54836,7 @@ conseguindo	v-ger	O
 identificar	v-inf	O
 o	art	O
 D.	n	B-PESSOA
+
 Diogo	n	I-PESSOA
 ,	,	O
 duque	n	O
@@ -54692,6 +54844,7 @@ de	prp	O
 Viseu	n	O
 e	conj-c	O
 D.	n	B-PESSOA
+
 Garcia	n	I-PESSOA
 de	prp	I-PESSOA
 Meneses	n	I-PESSOA
@@ -56398,8 +56551,8 @@ sueco	n	O
 Quando	n	O
 é	v-fin	O
 que	conj-s	O
-F.H	n	B-PESSOA
-.	.	I-PESSOA
+F.H.	n	B-PESSOA
+
 Cardoso	n	I-PESSOA
 tomou	v-fin	O
 posse	n	O
@@ -57036,6 +57189,7 @@ a	art	O
 morte	n	O
 de	prp	O
 D.	n	B-PESSOA
+
 Afonso	n	I-PESSOA
 Henriques	n	I-PESSOA
 ?	?	O
@@ -58537,14 +58691,16 @@ como	adv	O
 quando	adv	O
 se	pron-pers	O
 fazem	v-fin	O
-«revoluções	n	O
+«	«	O
+revoluções	n	O
 pela	n	O
 metade	n	O
 cava-se	n	O
 o	art	O
 seu	pron-det	O
 próprio	adj	O
-túmulo»	n	O
+túmulo	n	O
+»	»	O
 (	n	O
 dizia	v-fin	O
 Saint	n	B-PESSOA
@@ -58638,7 +58794,9 @@ partidos	n	O
 que	pron-indp	O
 atingem	v-fin	O
 uma	art	O
-«stasis»	n	O
+«	«	O
+stasis	n	O
+»	»	O
 interna	adj	O
 onde	adv	O
 que	conj-s	O
@@ -58751,7 +58909,9 @@ partido	n	O
 cuja	pron-det	O
 força	n	O
 é	v-fin	O
-«civil»	n	O
+«	«	O
+civil	adj	O
+»	»	O
 ,	,	O
 mesmo	adv	O
 que	conj-s	O
@@ -59021,9 +59181,11 @@ entusiasmada.	n	O
 Vasco	n	B-PESSOA
 Uva	n	I-PESSOA
 :	n	O
-«Honrámos	n	O
+«	«	O
+Honrámos	n	O
 o	art	O
-país»	n	O
+país	n	O
+»	»	O
 
 Um	n	O
 dos	prop	O
@@ -59109,6 +59271,7 @@ Escócia	n	O
 ,	,	O
 em	prp	O
 St.	n	B-LOCAL
+
 Etienne	n	I-LOCAL
 .	.	O
 
@@ -59156,8 +59319,10 @@ da	n	O
 UE	n	B-ORGANIZACAO
 e	conj-c	O
 a	art	O
-«competente	n	O
-liderança»	n	O
+«	«	O
+competente	n	O
+liderança	n	O
+»	»	O
 do	n	O
 primeiro-ministro	n	O
 ,	,	O
@@ -59249,13 +59414,15 @@ Barroso	n	I-PESSOA
 lembrou	v-fin	O
 que	conj-s	O
 o	art	O
-«sucesso	n	O
+«	«	O
+sucesso	n	O
 político	adj	O
 tem	v-fin	O
 agora	adv	O
 de	prp	O
 ser	v-inf	O
-concretizado»	n	O
+concretizado	v-pcp	O
+»	»	O
 com	prp	O
 a	art	O
 ratificação	n	O
@@ -59472,6 +59639,7 @@ o	art	O
 título	n	O
 de	prp	O
 D.	n	B-PESSOA
+
 João	n	I-PESSOA
 IV	n	I-PESSOA
 (	n	O

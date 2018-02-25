@@ -1,86 +1,367 @@
 --DOCSTART--
- <START:ORGANIZACAO_ADMINISTRACAO> Reino Unido <END> quer proibir <START:OBRA_REPRODUZIDA> Tintim <END>        
- <START:TEMPO_TEMPO_CALEND> 12/Julho/2007 <END> · <START:VALOR_QUANTIDADE> 182 <END> Comentários        
- A <START:ORGANIZACAO_INSTITUICAO> Comissão pela Igualdade Racial <END> , do governo britânico, pediu que as livrarias interrompam a venda de <START:OBRA_REPRODUZIDA> Tintim na África <END>  , segundo álbum em quadrinhos de uma das séries mais populares do mundo.
-O livro é racista.
-Profundamente racista.
-Colonialista ao limite.
-Publicado <START:TEMPO_TEMPO_CALEND> em 1930 <END> , em <START:OBRA_REPRODUZIDA> Tintin au Congo <END>  negros são burros qual portas e são chamados de macacos.
-O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por <START:PESSOA_INDIVIDUAL> Georges Remi <END> , que se assinava <START:ABSTRACCAO_NOME> Hergé <END> .
-No <START:LOCAL_HUMANO> Reino Unido <END> , <START:OBRA_REPRODUZIDA> Tintim na África <END>  é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista.
-Traz na capa um alerta.
-Já velho, antes de morrer, <START:PESSOA_INDIVIDUAL> Hergé <END> falou da obra.
-"Quando jovem, disse, "fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo.
-Ele listava <START:OBRA_REPRODUZIDA> Tintim na África <END>  entre seus pecados de juventude.
-<START:PESSOA_INDIVIDUAL> Hergé <END> é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos.
-Inclua-se na lista sua obra prima, <START:OBRA_REPRODUZIDA> Tintim no Tibete <END> , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar <START:PESSOA_INDIVIDUAL> Chang <END> , seu amigo chinês, único sobrevivente de um acidente de avião.
-O livro, <START:TEMPO_TEMPO_CALEND> de 1960 <END> , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.
-O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda.
-<START:OBRA_REPRODUZIDA> Tintim na África <END>  faz parte de uma coleção de <START:VALOR_QUANTIDADE> 23 <END> álbuns.
-Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo <START:TEMPO_TEMPO_CALEND> nos anos 1930 <END> .
-Se o racismo nos incomoda <START:TEMPO_TEMPO_CALEND> hoje <END> , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o <START:ACONTECIMENTO_EFEMERIDE> Holocausto <END> e <START:PESSOA_INDIVIDUAL> Luther King <END> , remodelaram nossa percepção do mundo.
-Esquecer que o racismo era natural <START:TEMPO_TEMPO_CALEND> há oitenta anos <END> é desdenhar do esforço envolvido em dominá-lo.
-Se deixamos de ler os registros cotidianos <START:TEMPO_TEMPO_CALEND> daquele tempo <END> - como <START:OBRA_REPRODUZIDA> Tintim na África <END>  -, estimulamos este esquecimento.
-Nenhuma obra deve ser lida ignorando a época na qual foi escrita.
-O intervalo entre <START:OBRA_REPRODUZIDA> Tintim na África <END>  e <START:OBRA_REPRODUZIDA> Tintim no Tibete <END>  mostra ao leitor de <START:PESSOA_INDIVIDUAL> Hergé <END> a mudança do autor.
-Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.
-Mas como cresceu entre um e outro.
+
+História do <START:COISA_CLASSE>RFID<END>
+
+
+A tecnologia de <START:COISA_CLASSE>RFID<END> tem suas raízes nos sistemas de radares utilizados na <START:ACONTECIMENTO_EFEMERIDE>Segunda Guerra Mundial<END>.
+Os alemães, japoneses, americanos e ingleses utilizavam radares -- que foram descobertos <START:TEMPO_TEMPO_CALEND>em 1937<END> por <START:PESSOA_INDIVIDUAL>Sir Robert Alexander Watson-Watt<END>, um físico escocês -- para avisá-los com antecedência de aviões enquanto eles ainda estavam bem distantes.
+O problema era identificar dentre esses aviões qual era inimigo e qual era aliado.
+Os alemães então descobriram que se os seus pilotos girassem seus aviões quando estivessem retornando à base iriam modificar o sinal de rádio que seria refletido de volta ao radar.
+Esse método simples alertava os técnicos responsáveis pelo radar que se tratava de aviões alemães (esse foi, essencialmente, considerado o primeiro sistema passivo de <START:COISA_CLASSE>RFID<END>).
+Sob o comando de <START:PESSOA_INDIVIDUAL>Watson-Watt<END>, que liderou um projeto secreto, os ingleses desenvolveram o primeiro identificador activo de amigo ou inimigo  (IFF -- Identify Friend or Foe) .
+Foi colocado um transmissor em cada avião britânico.
+Quando esses transmissores recebiam sinais das estações de radar no solo, começavam a transmitir um sinal de resposta, que identificava o aeroplano como   Friendly   (amigo).
+Os <START:COISA_CLASSE>RFID<END> funcionam no mesmo princípio básico.
+Um sinal é enviado a um transponder, o qual é ativado e reflete de volta o sinal (sistema passivo) ou transmite seu próprio sinal (sistemas ativos).
+Avanços na área de radares e de comunicação <START:COISA_CLASSE>RF<END> (<START:COISA_CLASSE>Radio Frequency<END>) continuaram <START:TEMPO_DURACAO>através das décadas de 50 e 60<END>.
+Cientistas e acadêmicos dos <START:LOCAL_HUMANO>Estados Unidos<END>, <START:LOCAL_HUMANO>Europa<END> e <START:LOCAL_HUMANO>Japão<END> realizaram pesquisas e apresentaram estudos explicando como a energia <START:COISA_CLASSE>RF<END> poderia ser utilizada para identificar objetos remotamente...
+Companhias começaram a comercializar sistemas antifurto que utilizavam ondas de rádio para determinar se um item havia sido roubado ou pago normalmente.
+Era o advento das tags (etiquetas) denominadas de "etiquetas de vigilância eletrônica" as quais ainda são utilizadas <START:TEMPO_TEMPO_CALEND>até hoje<END>.
+Cada etiqueta utiliza um bit.
+Se a pessoa paga pela mercadoria, o bit é posto em off ou 0.
+E os sensores não dispararão o alarme.
+Caso o contrário, o bit continua em on ou 1, e caso a mercadoria saia através dos sensores, um alarme será disparado.
 --DOCSTART--
     
- Preço do barril de crude chegou ao nível histórico de <START:VALOR_MOEDA> 100 dólares <END>        
- <START:TEMPO_TEMPO_CALEND> 03.01.2008 <END> - <START:TEMPO_TEMPO_CALEND> 08h46 <END>        
- Por <START:PESSOA_INDIVIDUAL> Lurdes Ferreira <END>        
- <START:TEMPO_TEMPO_CALEND> Às 17h30 <END> <START:TEMPO_TEMPO_CALEND> de ontem <END> em <START:LOCAL_HUMANO> Lisboa <END> , a vaga especulativa do mercado do petróleo convergiu com as previsões <START:TEMPO_TEMPO_CALEND> dos últimos meses <END> que davam como certa a chegada do preço do crude aos <START:VALOR_MOEDA> 100 dólares <END> .
-As projecções tornaram-se realidade, <START:TEMPO_TEMPO_CALEND> ao fim de um ano <END> em que o preço desta matéria subiu <START:VALOR_QUANTIDADE> 58 por cento <END> e que foi também o maior aumento anual <START:TEMPO_TEMPO_CALEND> da última década <END> .
-O recorde histórico verificou-se na bolsa mercantil de <START:LOCAL_HUMANO> Nova Iorque <END> , com a transacção do crude de tipo leve, de referência para o mercado dos <START:LOCAL_HUMANO> EUA <END> , com entrega <START:TEMPO_TEMPO_CALEND> para Fevereiro <END> , a pular mais de três dólares numa só sessão e a bater na marca histórica dos <START:VALOR_MOEDA> 100 dólares <END> .
-Baixou pouco depois para os <START:VALOR_MOEDA> 99,17 dólares <END> .
-Em <START:LOCAL_HUMANO> Londres <END> , o    <START:COISA_CLASSE> Brent do Mar do Norte <END>    , também com entrega <START:TEMPO_TEMPO_CALEND> para Fevereiro <END> , subiu igualmente mais de três dólares e passou pela primeira vez o patamar dos <START:VALOR_MOEDA> 97 dólares <END> .
-O novo máximo histórico ficou em <START:VALOR_MOEDA> 97,74 dólares <END> .
-A onda de violência na <START:LOCAL_HUMANO> Nigéria <END> e a instabilidade no <START:LOCAL_HUMANO> Paquistão <END> são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude <START:TEMPO_TEMPO_CALEND> nos últimos anos <END> .
-Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista ( <START:PESSOA_POVO> China <END> , que já é o segundo maior consumidor do mundo, e a <START:PESSOA_POVO> Índia <END> ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a <START:ORGANIZACAO_ADMINISTRACAO> OPEP <END> , em aumentar significativamente a sua produção.
-Outras são conjunturais: temperaturas frias do pico <START:TEMPO_GENERICO> do Inverno <END> ; e a descida das reservas dos <START:LOCAL_HUMANO> EUA <END> , o maior mercado consumidor do mundo.
-Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.
-"Vamos aqui ficar [no patamar dos <START:VALOR_MOEDA> 100 dólares <END> ], enquanto houver um desequilíbrio entre a oferta e a procura", afirmou à <START:PESSOA_GRUPOMEMBRO> France Presse <END> o analista do mercado de capitais da <START:ORGANIZACAO_EMPRESA> BMO <END> , <START:PESSOA_INDIVIDUAL> Bart Melek <END> .
-Para este desequilíbrio contribui agora a nova vaga de violência da <START:LOCAL_HUMANO> Nigéria <END> , país que <START:TEMPO_TEMPO_CALEND> nos últimos anos <END> já perdeu <START:VALOR_QUANTIDADE> 25 por cento <END> da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos <START:LOCAL_HUMANO> EUA <END> .
-Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de <START:VALOR_QUANTIDADE> 12 <END> pessoas <START:TEMPO_TEMPO_CALEND> na passagem de ano <END> , é agora superior ao que foi <START:TEMPO_TEMPO_CALEND> nos últimos meses <END> .
-E contribui também a situação geopolítica no <START:LOCAL_HUMANO> Paquistão <END> , <START:TEMPO_TEMPO_CALEND> uma semana depois <END> do assassinado de <START:PESSOA_INDIVIDUAL> Benazir Bhuto <END> - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.
-A situação destes dois países "provocou o regresso de muito capital especulativo ao mercado", segundo o <START:PESSOA_CARGO> presidente da Ritterbusch &amp; Associates <END>  , <START:PESSOA_INDIVIDUAL> Jim Ritterbusch <END> , citado pela <START:LOCAL_VIRTUAL> Reuters <END> .
-Mas estes não são os únicos dois países em turbulência geopolítica.
-É também o <START:LOCAL_HUMANO> Quénia <END> , "ao lado da <START:LOCAL_HUMANO> Nigéria <END> , que se incendeia", diz <START:PESSOA_INDIVIDUAL> Moncef Kaabi <END> , da <START:ORGANIZACAO_EMPRESA> Natixis <END> , é também a <START:LOCAL_HUMANO> Turquia <END> , com as operações contra os separatistas curdos no <START:LOCAL_HUMANO> Norte <END> , justificando que mercados como o do petróleo "traduzem a inquietação e a incerteza dos investidores".
-Por outro lado, os <START:ORGANIZACAO_ADMINISTRACAO> EUA <END> deverão anunciar ainda <START:TEMPO_TEMPO_CALEND> hoje <END> a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, <START:TEMPO_FREQUENCIA> pela sétima semana consecutiva <END> , desta vez em <START:VALOR_QUANTIDADE> 1,8 milhões <END> de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da  Reuters  .
-O preço actual do petróleo ficou agora mais próximo do pico de <START:VALOR_MOEDA> 100 dólares <END> <START:TEMPO_TEMPO_CALEND> de 1980 <END> provocado pela guerra entre o <START:ORGANIZACAO_ADMINISTRACAO> Irão <END> e o <START:ORGANIZACAO_ADMINISTRACAO> Iraque <END> , dois países-membros da <START:ORGANIZACAO_INSTITUICAO> OPEP <END> .
-O preço de então ajustado à inflação representa <START:TEMPO_TEMPO_CALEND> hoje <END> <START:VALOR_MOEDA> 101,7 dólares <END> .
-A convicção dominante no mercado, a avaliar pelos analistas contactados pela <START:PESSOA_MEMBRO> Reuters <END> , é a de que o preço desta matéria-prima continuará provavelmente a subir <START:TEMPO_TEMPO_CALEND> nos próximos cinco anos <END> , a não ser que o crescimento económico abrande e abrande também a procura de combustível.
-A pressão para a subida de preços que se verifica <START:TEMPO_TEMPO_CALEND> desde 2002 <END> continua a ter condições para manter o ritmo: algumas regiões fora da <START:ORGANIZACAO_INSTITUICAO> OPEP <END> , nomeadamente o mar do  <START:LOCAL_FISICO> Norte <END> , têm a sua produção em declínio, a <START:ORGANIZACAO_ADMINISTRACAO> China <END> mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.
-Para analistas como <START:PESSOA_INDIVIDUAL> Kris Voorspools <END> , da <START:ORGANIZACAO_EMPRESA> Fortis <END> , em <START:LOCAL_HUMANO> Bruxelas <END> , o "preço do petróleo pode continuar a subir", por se estar perante o "simples fundamento da oferta e da procura".
-Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por <START:PESSOA_INDIVIDUAL> Nauman Barakat <END> ,    <START:PESSOA_CARGO> vice-presidente da Macquarie Futures <END>    dos <START:LOCAL_HUMANO> EUA <END> .
---DOCSTART--
 
-<START:ACONTECIMENTO_EFEMERIDE> Terramoto de 1755 <END>
-O <START:ACONTECIMENTO_EFEMERIDE> Terramoto <END>
-O sismo fez-se sentir <START:TEMPO_TEMPO_CALEND> na manhã de 1 de Novembro de 1755 <END> , <START:TEMPO_GENERICO> dia <END> que coincide com o feriado <START:TEMPO_TEMPO_CALEND> do Dia de Todos-os-Santos <END> .
-O epicentro não é conhecido com exactidão, havendo diversos sismólogos que propõem locais distanciados de centenas de quilómetros.
-No entanto, todos convergem para um epicentro no mar, <START:VALOR_QUANTIDADE> entre 150 a 500 quilómetros <END> a sudoeste de <START:LOCAL_HUMANO> Lisboa <END> .
-Devido a um forte sismo, ocorrido <START:TEMPO_TEMPO_CALEND> em 1969 <END> no <START:LOCAL_FISICO> Banco de Gorringe <END> , este local tem sido apontado como tendo forte probabilidade de aí se ter situado o epicentro <START:TEMPO_TEMPO_CALEND> em 1755 <END> .
-Relatos da época afirmam que os abalos foram sentidos, consoante o local, <START:TEMPO_DURACAO> durante entre 6 minutos a 2 horas e meia <END> , causando fissuras enormes de que ainda <START:TEMPO_GENERICO> hoje <END> há vestígios em <START:LOCAL_HUMANO> Lisboa <END> .
-Com os vários desmoronamentos os sobreviventes procuraram refúgio na zona portuária e assistiram ao recuo das águas, revelando o fundo do mar cheio de destroços de navios e cargas perdidas.
-<START:TEMPO_TEMPO_CALEND> Poucas dezenas de minutos depois <END> , um tsunami, que actualmente se supõe ter atingido <START:VALOR_QUANTIDADE> 20 metros <END> de altura, fez submergir o porto e o centro da cidade.
-Nas áreas que não foram afectadas pelo tsunami, o fogo logo se alastrou, e os incêndios duraram pelo menos cinco dias.
-Todos tinham fugido e não havia quem o apagasse.
-<START:LOCAL_HUMANO> Lisboa <END> não foi a única cidade portuguesa afectada pela catástrofe.
-Todo o sul de <START:LOCAL_HUMANO> Portugal <END> , nomeadamente o <START:LOCAL_HUMANO> Algarve <END> , foi atingido e a destruição foi generalizada.
-As ondas de choque do sismo foram sentidas por toda a <START:LOCAL_HUMANO> Europa <END> e norte da <START:LOCAL_HUMANO> África <END> .
-Os maremotos originados pela movimentação tectónica varreram desde do norte de <START:LOCAL_HUMANO> África <END> até ao norte da <START:LOCAL_HUMANO> Europa <END> , nomeadamente até à <START:LOCAL_HUMANO> Finlândia <END> e através do <START:LOCAL_FISICO> Atlântico <END> , afectando locais tão longínquos como <START:LOCAL_HUMANO> Martinica <END> e <START:LOCAL_HUMANO> Barbados <END> .
-De uma população de <START:VALOR_QUANTIDADE> 275 mil <END> habitantes em <START:LOCAL_HUMANO> Lisboa <END> , crê-se que <START:VALOR_QUANTIDADE> 90 mil <END> morreram[2].
-Outros <START:VALOR_QUANTIDADE> 10 mil <END> foram vitimados em <START:LOCAL_HUMANO> Marrocos <END> .
-<START:VALOR_QUANTIDADE> Cerca de 85% <END> das construções de <START:LOCAL_HUMANO> Lisboa <END> foram destruídas, incluindo palácios famosos e bibliotecas, conventos e igrejas, hospitais e todas as estruturas.
-Várias construções que sofreram poucos danos pelo terramoto foram destruídas pelo fogo que se seguiu ao abalo sísmico.
-A recém construída <START:OBRA_ARTE> Casa da Ópera <END> , aberta apenas <START:TEMPO_TEMPO_CALEND> seis meses antes <END> , foi totalmente consumida pelo fogo.
-O <START:OBRA_ARTE> Palácio Real <END> , que se situava na margem do <START:LOCAL_FISICO> Tejo <END> , onde <START:TEMPO_GENERICO> hoje <END> existe o <START:LOCAL_HUMANO> Terreiro do Paço <END> , foi destruído pelos abalos sísmicos e pelo tsunami.
-Dentro, a biblioteca de <START:VALOR_QUANTIDADE> 70 mil <END> volumes e centenas de obras de arte, incluindo pinturas de <START:PESSOA_INDIVIDUAL> Ticiano <END> , <START:PESSOA_INDIVIDUAL> Rubens <END> , e <START:PESSOA_INDIVIDUAL> Correggio <END> , foram perdidas.
-O precioso <START:OBRA_REPRODUZIDA> Arquivo Real <END> com documentos relativos à exploração oceânica e outros documentos antigos também foram perdidos.
-O terramoto destruiu ainda as maiores igrejas de <START:LOCAL_HUMANO> Lisboa <END> , especialmente a <START:OBRA_ARTE> Catedral de Santa Maria <END> , e as <START:OBRA_ARTE> Basílicas de São Paulo <END> , <START:OBRA_ARTE> Santa Catarina <END> , <START:OBRA_ARTE> São Vicente de Fora <END> , e a da <START:OBRA_ARTE> Misericórdia <END> .
-As ruínas do <START:OBRA_ARTE> Convento do Carmo <END> ainda <START:TEMPO_GENERICO> hoje <END> podem ser visitadas no centro da cidade.
-O túmulo de <START:PESSOA_INDIVIDUAL> Nuno Álvares Pereira <END> , nesse convento, perdeu-se também.
-O <START:LOCAL_HUMANO> Hospital Real de Todos os Santos <END> foi consumido pelos fogos e centenas de pacientes morreram queimados.
-Registos históricos das viagens de <START:PESSOA_INDIVIDUAL> Vasco da Gama <END> e <START:PESSOA_INDIVIDUAL> Cristóvão Colombo <END> foram perdidos, e incontáveis construções foram arrasadas (incluindo muitos exemplares da arquitectura <START:TEMPO_TEMPO_CALEND> do período Manuelino <END> em <START:LOCAL_HUMANO> Portugal <END> ).
+      ONDE ESTÁ O
+      <START:ABSTRACCAO_DISCIPLINA>PSD<END>
+      ?
+É só uma questão de tempo até os jornais começarem a perguntar onde está o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      , onde está
+      <START:PESSOA_INDIVIDUAL>Menezes<END>
+      , onde está a oposição vinda do partido que é suposto "liderá-la", que não se vê em parte nenhuma.
+O
+      <START:ORGANIZACAO_INSTITUICAO>PP<END>
+      , o
+      <START:ORGANIZACAO_INSTITUICAO>PCP<END>
+      e o
+      <START:ORGANIZACAO_INSTITUICAO>BE<END>
+      , nalguns casos mesmo alguns raros dissidentes do
+      <START:ABSTRACCAO_DISCIPLINA>PS<END>
+      socrático, têm criticado o
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      , enquanto o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      passa entre as sombras, ou ficando pura e simplesmente silencioso, ou murmurando umas críticas de circunstância que ninguém ouve, ou, em muitos casos, concordando com o
+      <START:ORGANIZACAO_INSTITUICAO>Governo<END>
+      e o
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      .
+O único "não" sonoro que se ouviu foi a recusa do empréstimo à
+       <START:ORGANIZACAO_ADMINISTRACAO>Câmara<END> de <START:LOCAL_HUMANO>Lisboa<END>
+      , acompanhado por uma condução política que primou pela completa inépcia.
+Esse é daqueles que mais valia não se ter ouvido, sem com isso dizer que
+      <START:PESSOA_INDIVIDUAL>Costa<END>
+      tinha razão, que não a tinha.
+A pergunta do "onde está" é tradicional na comunicação social e nalguns casos foi feita com estragos consideráveis, como aconteceu com
+      <START:PESSOA_INDIVIDUAL>Vítor Constâncio<END>
+      à frente do
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      .
+A pergunta em si é pouco relevante, porque o que a comunicação social quer é festa e, quando acha que não a tem, clama por actores no palco.
+Admito que os tempos agora não estarão como estavam <START:TEMPO_TEMPO_CALEND>no tempo<END> de <START:PESSOA_INDIVIDUAL>Constâncio<END>
+      , nem a dedicação carinhosa da comunicação social ao
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      é idêntica à que
+      na época 
+      prodigalizava ao
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      , cujo estado a preocupava.
+Mas, quando vier a pergunta, será mais para a coreografia do que para a substância, porque esta está há muito respondida:
+      <START:TEMPO_DURACAO>de há uns tempos a esta parte<END>
+      , o
+      <START:PESSOA_GRUPOMEMBRO>PSD<END>
+      está onde está o
+      <START:PESSOA_GRUPOMEMBRO>PS<END>
+      .
+A razão pela qual o
+      <START:PESSOA_GRUPOMEMBRO>PSD<END>
+      se ausentou para parte incerta foi explicada na pouco noticiada conferência de imprensa "oferecedora de pactos", antecedendo o debate parlamentar de "primeira oportunidade" entre
+      <START:PESSOA_INDIVIDUAL>Sócrates<END>
+      e
+      <START:PESSOA_INDIVIDUAL>Santana Lopes<END>
+      .
+Desde aí que se conhecem as razões de substância para este já longo silêncio: o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      aproximou-se politicamente do
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      como nunca esteve <START:TEMPO_TEMPO_CALEND>antes<END>, ao ponto de se oferecer para co-governar em praticamente todas as áreas.
+Na conferência e em declarações avulsas - da política externa à política europeia, passando pela defesa, segurança interna e legislação eleitoral, e acabando no célebre "pacto das obras públicas", a que se soma o "pacto da justiça" vindo <START:TEMPO_TEMPO_CALEND>do tempo<END> de <START:PESSOA_INDIVIDUAL>Marques Mendes<END>
+      -, o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      faz uma abdicação da diferença, da alteridade, da oposição.
+O que nos é dito é que
+      <START:TEMPO_TEMPO_CALEND>em Janeiro<END>
+      tudo vai mudar, aparecerão propostas e tomadas de posição, vai começar a oposição "a sério", quando estiverem gabinetes e assessores a funcionar.
+É um pouco bizarro que se anuncie um tempo de adiamento da oposição, uma paragem para uma retoma anunciada, quando
+      <START:TEMPO_TEMPO_CALEND>antes<END>
+      tudo era tempo urgente.
+<START:PESSOA_INDIVIDUAL>Menezes<END>
+      criticava
+      <START:PESSOA_INDIVIDUAL>Marques Mendes<END>
+      por não fazer oposição
+      <START:TEMPO_FREQUENCIA>dia a dia<END>
+      ,
+      <START:TEMPO_FREQUENCIA>minuto a minuto<END>
+      , fogosa, ardente, caso a caso, para o que, dizia, não faltavam temas nem razões e que "com ele" isso iria mudar radicalmente.
+Já não me refiro às idas às fábricas que encerraram - entretanto já encerraram várias -, mas a um estilo prometido de pathos oposicionista, comunhão com o povo e de entusiasmo militante, que, de todo, não se vê.
+Não é que o estilo prometido fosse bom, mas foi o que foi prometido, antes deste enorme esforço de respeitabilidade fabricado por agências de comunicação.
+Estas flutuações matam o flutuante, mas, infelizmente, são o que é normal, quando se actua para uma sociedade do espectáculo.
+Permitam-me por isso que duvide da ofensiva putativa
+      <START:TEMPO_TEMPO_CALEND>de Janeiro<END>
+      , porque a diferença não se faz com mais ou menos "estudos", "porta-vozes" ou "governos-sombra".
+Faz-se em primeiro lugar com políticas e não faltaram ocasiões
+      <START:TEMPO_TEMPO_CALEND>nos últimos meses<END>
+      para se ser firme e duro com a política de um governo que está a empobrecer-nos a todos em nome de um modelo "social" que não tem futuro.
+Isto, na hipótese de o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      ter um modelo diferente, que só pode ser mais liberal, mesmo que só moderadamente liberal, o que já não era mau.
+Quando dois partidos se colam tanto que pouco se diferenciam, o que sobra para a luta política tende a ser incidental, conjuntural: esta nomeação, aquela opção por
+      <START:LOCAL_HUMANO>Ferreira de Cima<END>
+      em vez de ser por
+      <START:LOCAL_HUMANO>Ferreira de Baixo<END>
+      e várias variantes de questões "fracturantes", que em muitos casos são distracções dos problemas centrais de poder político e remetem para agendas em que nem sequer é líquido que o
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      e o poder político devam entrar.
+Este "bloco central" político esteve sempre dentro do
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      , como esteve e está no
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      e é uma sobrevivência de laços de interesses profundos representados nos dois partidos e que, depois, encontra expressão no rastro salazarista antidemocrático dos consensos.
+<START:TEMPO_TEMPO_CALEND>Nos primeiros anos<END>
+      da democracia, este "bloco central" concentrava-se em exercer o poder através da economia nacionalizada
+      <START:TEMPO_GENERICO>pós-1975<END>
+      , daí poder ser representado simbolicamente na cena real de responsáveis dos dois partidos reunidos a distribuir os lugares de gestores públicos nas empresas: estes dois são para mim, este fica para ti, este vai para a
+      <START:ORGANIZACAO_EMPRESA>TAP<END>
+      e dou-te dois na
+      <START:ORGANIZACAO_EMPRESA>CP<END>
+      , mas este da
+      <START:ORGANIZACAO_EMPRESA>EDP<END>
+      não pode ser comparado como este na
+      <START:ORGANIZACAO_EMPRESA>Imprensa Nacional<END>
+      , etc., etc.
+Este tipo de partilhas que durou
+      <START:TEMPO_TEMPO_CALEND>até há muito pouco tempo<END>
+      e em muitas áreas, a começar nas autarquias e nas empresas municipalizadas, ainda está longe de ter acabado.
+Mas o "bloco central de interesses" evoluiu com a economia, e adaptou-se às privatizações, deslocou-se para fora do
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      e foi para os grupos económicos, para os bancos, as seguradoras, as empresas de construção civil, etc., etc.
+Quase que se pode formular uma regra simples: quanto mais depender um grupo económico de decisões do governo para conduzir a sua actividade empresarial, tanto maior é a presença deste "bloco central de interesses" no seu seio.
+A deslocação do
+      <START:ORGANIZACAO_ADMINISTRACAO>Estado<END>
+      para o privado significa que os mecanismos de influência tendem a deslocar-se de fora para dentro, a centrar-se na mediação de negócios, assentes em empresas de consultadoria e em grandes escritórios de advogados, que todos sabem serem as portas certas para chegar ao governo, este e os anteriores.
+Quando um partido político, ainda por cima na oposição, se demarca deste jogo de interesses instalado, as suas lideranças são sujeitas a um processo que começa pela descredibilização e acaba na tentativa de expulsar os incontroláveis.
+<START:PESSOA_INDIVIDUAL>Marcelo Rebelo de Sousa<END>
+      , <START:TEMPO_TEMPO_CALEND>num momento<END> da sua liderança, quando contestou alguns grandes negócios, foi sujeito a essa campanha.
+É verdade que no
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      há a presença deste "bloco central", mas há também uma tradição de ruptura que,
+      no passado, tornou o partido na principal força reformista em
+      <START:LOCAL_HUMANO>Portugal<END>
+      .
+O
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      foi crucial na defesa da democracia política
+      <START:TEMPO_TEMPO_CALEND>em 1975<END>
+      , o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      foi crucial na normalização democrática.
+Sem o
+      <START:ORGANIZACAO_INSTITUICAO>PSD<END>
+      , na fórmula da
+      <START:ORGANIZACAO_INSTITUICAO>AD<END>
+      de
+      <START:PESSOA_INDIVIDUAL>Sá Carneiro<END>
+      , não se iria tão longe e tão cedo no fim da presença militar na tutela da democracia.
+Sem
+      <START:PESSOA_INDIVIDUAL>Cavaco Silva<END>
+      não haveria uma cultura de "bom governo", o fim da
+      <START:OBRA_PLANO>Constituição<END>
+      socializante na economia, o retorno à economia de mercado, o boom de infra-estruturas, a democratização do ensino, uma modernização imperfeita mas real do país.
+Ambos associaram um programa de reformas à alteração das condições políticas dominantes em momentos desejados e sentidos como de ruptura:
+      <START:PESSOA_INDIVIDUAL>Sá Carneiro<END>
+      e
+      <START:PESSOA_INDIVIDUAL>Freitas do Amaral<END>
+      mostraram que outros partidos podiam governar
+      <START:LOCAL_HUMANO>Portugal<END>
+      que não apenas o
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      , e
+      <START:PESSOA_INDIVIDUAL>Cavaco<END>
+      abriu caminho para as maiorias absolutas como condição de governabilidade.
+Se estamos no caminho do bonnet blanc, blanc bonnet, como dizem os franceses, esta é a melhor receita para matar o lado reformista do
+      <START:ORGANIZACAO_ADMINISTRACAO>PSD<END>
+      , o de
+      <START:PESSOA_INDIVIDUAL>Sá Carneiro<END>
+      e
+      <START:PESSOA_INDIVIDUAL>Cavaco Silva<END>
+      .
+Sem esse lado reformista, o
+      <START:ABSTRACCAO_DISCIPLINA>PSD<END>
+      ficará tão próximo do
+      <START:ORGANIZACAO_ADMINISTRACAO>Governo<END>
+      e do
+      <START:ORGANIZACAO_INSTITUICAO>PS<END>
+      que, à luz de um, não se vê a sombra do outro.
+E nem de holofote a laser, banhado no mais forte néon,
+      <START:PESSOA_INDIVIDUAL>Diógenes<END>
+      encontrará qualquer homem na cidade.
+--DOCSTART--
+    
+
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      MANTÉM EM SEGREDO ARMAS NÃO-LETAIS
+    
+    
+
+      <START:PESSOA_INDIVIDUAL>Debora MacKenzie<END>
+      , da
+      <START:ORGANIZACAO_EMPRESA>New Scientist<END>
+      (www.newscientist.com)
+    
+    
+
+      Bactérias que comem estradas e edifícios.
+Biocatalizadores que decompõem combustíveis e plásticos.
+Dispositivos que corroem secretamente o alumínio e outros metais.
+Estes são apenas uns poucos exemplos de armas não letais que os
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      tentaram, ou estão a tentar, desenvolver.
+Mas quão próximas estas armas estarão da realidade nunca poderemos saber.
+A
+      <START:ORGANIZACAO_INSTITUICAO>US National Academy of Sciences<END>
+      (
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      ) recusa-se a liberar dúzias de relatórios que propõem ou descrevem seu desenvolvimento, embora os documentos devam estar nos registRos públicos.
+A academia justifica sua reticência sem precedentes mencionando preocupações com segurança <START:TEMPO_TEMPO_CALEND>após o 11 de Setembro<END> .
+Mas pessoas experientes pensam que a razão real é que as investigações violam tanto a lei dos <START:LOCAL_HUMANO>EUA<END> como tratados internacionais sobre armas químicas e bacteriológicas.
+Os documentos em causa foram colecionados <START:TEMPO_TEMPO_CALEND>no ano passado<END> por um painel de cientistas acadêmicos e industriais organizado pela <START:ORGANIZACAO_INSTITUICAO>NAS<END> para avaliar recentes investigações de armas não letais para o <START:ORGANIZACAO_INSTITUICAO>Joint Non-Lethal Weapons Program<END> (<START:ORGANIZACAO_INSTITUICAO>JNLWP<END>), do <START:ORGANIZACAO_ADMINISTRACAO>Pentágono<END>.
+Os <START:ORGANIZACAO_ADMINISTRACAO>EUA<END> ganharam um interesse acrescido pelas armas não letais após a sua desastrosa missão pacificadora na <START:LOCAL_HUMANO>Somália<END>, <START:TEMPO_TEMPO_CALEND>em 1993<END>, quando civis amotinados mataram soldados americanos.
+O painel, cujo relatório deve sair
+      <START:TEMPO_TEMPO_CALEND>até ao fim deste ano<END>
+      , colecionou
+      <START:VALOR_QUANTIDADE>147<END>
+      relatórios e propostas de investigadores, muitos deles financiados pelo
+      <START:ORGANIZACAO_INSTITUICAO>JNLWP<END>
+      .
+Um grupo no
+      <START:LOCAL_HUMANO>Oak Ridge National Laboratory<END>
+      , no
+      <START:LOCAL_HUMANO>Tennessee<END>
+      , por exemplo, propõe utilizar campos eletromagnéticos intensos a fim de produzir efeitos que vão "desde a interrupção da memória de curto prazo à total perda de controlo voluntário das funções corporais".
+Outros propõem armas de energia dirigida.
+<START:TEMPO_TEMPO_CALEND>Em Março<END>
+      , como é habitual com estudos não-classificados da
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      , eles foram depositados no
+      <START:LOCAL_VIRTUAL>Public Access Records Office<END>
+      da academia, e os seus títulos foram divulgados (ver abaixo).
+"Estes documentos são supostos serem públicos", afirma
+      <START:PESSOA_INDIVIDUAL>Ed Hammond<END>
+      do
+      <START:PESSOA_GRUPOMEMBRO>Sunshine Project<END>
+      , um grupo que faz campanha contra armas biológicas.
+Quando ele pediu ao serviço de registros para ver
+      <START:VALOR_QUANTIDADE>77<END>
+      dos documentos, este concordou em cedê-los.
+"Mas
+      <START:TEMPO_TEMPO_CALEND>dois dias depois<END>
+      a
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      retirou os documentos", conta
+      <START:PESSOA_INDIVIDUAL>Hammond<END>
+      . "
+<START:PESSOA_INDIVIDUAL>Kevin Hale<END>
+      , o responsável de segurança da
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      , disse-me que era porque alguém havia exprimido preocupação".
+Quem o fez não é claro.
+A pressão restritiva não parece ter vindo da própria
+      <START:ORGANIZACAO_INSTITUICAO>JNLWP<END>
+      , porque
+      <START:TEMPO_TEMPO_CALEND>na semana passada<END>
+      esta enviou a
+      <START:PESSOA_INDIVIDUAL>Hammond<END>
+      oito documentos que ele havia requerido, incluindo três que estavam na lista da
+      <START:ORGANIZACAO_INSTITUICAO>NAS<END>
+      .
+<START:ORGANIZACAO_EMPRESA>New Scientist<END>
+      não pode contatar
+      <START:PESSOA_INDIVIDUAL>Hale<END>
+      .
+"Ainda estamos a formular a nossa resposta às pessoas da
+      <START:PESSOA_GRUPOMEMBRO>Sunshine<END>
+      ", foi tudo que um assistente disse.
+Mas os poucos relatórios que
+      <START:PESSOA_INDIVIDUAL>Hammond<END>
+      obteve constituem uma leitura interessante.
+<START:TEMPO_TEMPO_CALEND>Mais de um ano atrás<END>
+      , 
+      New Scientist 
+      revelou que responsáveis superiores da
+      <START:ORGANIZACAO_INSTITUICAO>JNLWP<END>
+      pretendiam reescrever os tratados de armas químicas e biológicas a fim de terem mais liberdade para desenvolverem armas não letais (
+      <START:TEMPO_TEMPO_CALEND>16 Dezembro 2000<END>
+      , pg.
+4).
+Os relatórios tornavam claro que investigações que violam os tratados foram efetuadas
+      <START:TEMPO_TEMPO_CALEND>desde os anos 1990<END>
+      .
+Um pedido de financiamento feito
+      <START:TEMPO_TEMPO_CALEND>em 1998<END>
+      pelo
+      <START:ORGANIZACAO_INSTITUICAO>Office of Naval Research<END>
+      propõe a criação de micro-organismos geneticamente projetados que corroeriam estradas e pistas de decolagem, e produziriam "deterioração de partes metálicas, revestimentos e lubrificantes de armas, veículos e equipamento de apoio, bem como combustíveis.
+O plano era isolar genes para enzimas que atacam materiais como
+      <START:COISA_CLASSE>Kevlar<END>
+      , asfalto, cimentos, pinturas ou lubrificantes, e colocá-los dentro de micróbios que os expulsariam em grandes quantidades.
+As bactérias deveriam ser projetadas para se auto-destruírem depois de despejarem a sua carga de destruição.
+Não é claro quantas destas idéias foram realmente realizadas.
+Mas o grupo já patenteou um microorganismo que decomporia poliuretano, "um componente vulgar das tintas de navios e aviões", incluindo revestimentos anti-radar secretos.
+Outra proposta
+      <START:TEMPO_TEMPO_CALEND>de 1998<END>
+      , de um laboratório de biotecnologia da base de
+      <START:LOCAL_HUMANO>Brooks<END>
+      da
+      <START:ORGANIZACAO_INSTITUICAO>Força Aérea<END>
+      , próxima de
+      <START:LOCAL_HUMANO>San Antonio<END>
+      no
+      <START:LOCAL_HUMANO>Texas<END>
+      , era refinar "biocatalizadores anti-material" já em desenvolvimento.
+Um deles envolvia uma bactéria derivada que decompunha moléculas orgânicas como combustíveis e plásticos.
+As propostas afirmam que tais substâncias estão isentas das restrições relativas à guerra biológica.
+Mas isso não é verdade, argumenta
+      <START:PESSOA_INDIVIDUAL>Mark Wheelis<END>
+      da
+       <START:ORGANIZACAO_INSTITUICAO>Universidade<END> da <START:LOCAL_HUMANO>California<END>
+      ,
+      <START:LOCAL_HUMANO>Davis<END>
+      .
+A
+       <START:OBRA_PLANO>Convenção das Armas Biológicas e Tóxicas<END> <START:TEMPO_TEMPO_CALEND>de 1972<END>
+      proíbe o "desenvolvimento, produção, armazenagem ou aquisição de agentes biológicos ou toxinas" se não forem para finalidades pacíficas.
+Além disso,
+      <START:TEMPO_TEMPO_CALEND>no ano passado<END>
+      os próprios
+      <START:ORGANIZACAO_ADMINISTRACAO>EUA<END>
+      introduziram uma lei banindo a posse de bio-armas, inclusive micróbios concebidos para atacarem materiais.
+Os documentos retidos também incluem propostas para usar bombas fétidas, sedativos e derivados do ópio como armas, os quais
+      <START:PESSOA_INDIVIDUAL>Wheelis<END>
+      considera que transgrediriam a  <START:OBRA_PLANO>Convenção das Armas Químicas<END> <START:TEMPO_TEMPO_CALEND>de 1992<END>
+      .
+Esta convenção proíbe "qualquer produto químico... que possa causar morte, incapacidade temporária ou dano permanente".
+_______________
+    
+
+
+      Copyright ©
+      New Scientist 2002
+      .
+For fair use only.
+A URL deste artigo é: www.globalresearch.ca/ .
+Texto extraído do site português
+      <START:LOCAL_VIRTUAL>Resistir<END>
+      (www.resistir.info).

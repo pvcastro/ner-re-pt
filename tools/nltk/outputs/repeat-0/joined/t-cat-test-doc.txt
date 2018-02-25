@@ -2201,7 +2201,8 @@ próximo	I-TEMPO
 ano	I-TEMPO
 .	O
 --SENTENCE--	--SENTENCE--
-«Aprovámos	O
+«	O
+Aprovámos	O
 o	O
 decreto	O
 que	O
@@ -3730,7 +3731,7 @@ filme	O
 filhos	I-OBRA
 de	I-OBRA
 Francisco	I-OBRA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Quais	O
@@ -4336,8 +4337,8 @@ sueco	O
 Quando	O
 é	O
 que	O
-F.H	B-PESSOA
-.	I-PESSOA
+F.H.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Cardoso	I-PESSOA
 tomou	O
 posse	O
@@ -4975,6 +4976,7 @@ a	O
 morte	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 ?	O
@@ -5521,6 +5523,7 @@ Covilhã	B-LOCAL
 ,	O
 1450	B-TEMPO
 ?	I-TEMPO
+--SENTENCE--	I-TEMPO
 --	I-TEMPO
 -	I-TEMPO
 1530	I-TEMPO
@@ -5558,6 +5561,7 @@ seu	O
 amo	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Guzman	I-PESSOA
@@ -5604,6 +5608,7 @@ Covilhã	I-PESSOA
 ,	O
 convida-o	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 de	I-PESSOA
 Gusman	I-PESSOA
@@ -5635,6 +5640,7 @@ em	B-TEMPO
 ,	O
 acompanha	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 a	O
 Lisboa	B-LOCAL
@@ -5649,6 +5655,7 @@ Portugal	B-LOCAL
 .	O
 --SENTENCE--	--SENTENCE--
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 simpatiza	O
 com	O
@@ -5666,6 +5673,7 @@ língua	O
 árabe	O
 e	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Juan	I-PESSOA
 cede	O
 a	O
@@ -5695,6 +5703,7 @@ de	O
 esporas	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 .	O
@@ -5720,6 +5729,7 @@ Em	B-TEMPO
 1476	I-TEMPO
 acompanha	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 V	I-PESSOA
 na	O
@@ -5732,6 +5742,7 @@ tentativa	O
 fracassada	O
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 de	O
 reclamar	O
@@ -5758,6 +5769,7 @@ em	O
 iria	O
 acompanhar	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 na	O
 jornada	O
@@ -5786,6 +5798,7 @@ rejeitado.	O
 Entretanto	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 abdica	O
 do	O
@@ -5793,6 +5806,7 @@ trono	O
 ,	O
 para	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 .	O
@@ -5824,6 +5838,7 @@ que	O
 conspiravam	O
 contra	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 João	I-PESSOA
 II	I-PESSOA
 ,	O
@@ -5831,6 +5846,7 @@ conseguindo	O
 identificar	O
 o	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Diogo	I-PESSOA
 ,	O
 duque	B-PESSOA
@@ -5838,6 +5854,7 @@ de	I-PESSOA
 Viseu	I-PESSOA
 e	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Garcia	I-PESSOA
 de	I-PESSOA
 Meneses	I-PESSOA
@@ -6328,7 +6345,8 @@ Tsunamis	I-OBRA
 e	O
 afirmou	O
 que	O
-«A	O
+«	O
+A	O
 Comissão	B-ORGANIZACAO
 é	O
 convidada	O
@@ -6357,7 +6375,8 @@ Mediterrâneo	B-LOCAL
 e	O
 o	O
 Atlântico	B-LOCAL
-».	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 Mais	O
 recentemente	O
@@ -7172,8 +7191,10 @@ poderiam	O
 ser	O
 utilizados	O
 como	O
-«último	O
-recurso»	O
+«	O
+último	O
+recurso	O
+»	O
 ,	O
 após	O
 esgotamento	O
@@ -7305,7 +7326,8 @@ do	O
 Conselho	B-ORGANIZACAO
 em	O
 matéria	O
-«de	O
+«	O
+de	O
 prevenção	O
 ,	O
 de	O
@@ -7317,10 +7339,12 @@ de	O
 resposta	O
 a	O
 atentados	O
-terroristas»	O
+terroristas	O
+»	O
 e	O
 o	O
-«programa	O
+«	O
+programa	O
 de	O
 solidariedade	O
 da	O
@@ -7546,7 +7570,9 @@ inclusão	O
 do	O
 sector	O
 do	O
-«nuclear»	O
+«	O
+nuclear	O
+»	O
 no	O
 âmbito	O
 da	O
@@ -8982,7 +9008,7 @@ Grândola	B-OBRA
 ,	I-OBRA
 Vila	I-OBRA
 Morena	I-OBRA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Onde	O
@@ -8996,7 +9022,8 @@ Rodriguez	I-COISA
 Quem	O
 é	O
 Philip	B-PESSOA
-J.	I-PESSOA
+J	I-PESSOA
+.	I-PESSOA
 Fry	I-PESSOA
 ?	O
 --SENTENCE--	--SENTENCE--
@@ -9877,7 +9904,7 @@ tonto	I-OBRA
 de	I-OBRA
 la	I-OBRA
 ley	I-OBRA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Que	O
@@ -10324,7 +10351,7 @@ Mau	I-OBRA
 e	I-OBRA
 o	I-OBRA
 Vilão	I-OBRA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Quantas	O
@@ -10916,6 +10943,7 @@ em	B-TEMPO
 1131	I-TEMPO
 por	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Telo	I-PESSOA
 (	O
 São	B-PESSOA
@@ -10997,6 +11025,7 @@ Nos	B-TEMPO
 tempos	I-TEMPO
 de	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 ,	O
@@ -11030,6 +11059,7 @@ fato	O
 de	O
 que	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Afonso	I-PESSOA
 Henriques	I-PESSOA
 e	O
@@ -11037,6 +11067,7 @@ seu	O
 sucessor	O
 ,	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Sancho	I-PESSOA
 I	I-PESSOA
 ,	O
@@ -11196,6 +11227,7 @@ parente	O
 seu	O
 (	O
 D.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Bento	I-PESSOA
 de	I-PESSOA
 Camões	I-PESSOA
@@ -12760,6 +12792,7 @@ outras	O
 coisas	O
 ,	O
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 ``	O
@@ -12909,6 +12942,7 @@ juntos	O
 .	O
 --SENTENCE--	--SENTENCE--
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Frederick	I-PESSOA
 Werthan	I-PESSOA
 -	O
@@ -12950,6 +12984,7 @@ o	O
 livro	O
 do	O
 Dr.	B-PESSOA
+--SENTENCE--	I-PESSOA
 Werthan	I-PESSOA
 ,	O
 o	O
@@ -13700,19 +13735,19 @@ na	O
 compilação	O
 ``	O
 Feedback	B-OBRA
-``	O
+''	O
 incluiu	O
 os	O
 temas	O
 ``	O
 Senhores	B-OBRA
 Politicos	I-OBRA
-``	O
+''	O
 ,	O
 Não	B-OBRA
 Vales	I-OBRA
 Nada	I-OBRA
-``	O
+''	O
 e	O
 ``	O
 Está	B-OBRA
@@ -13720,7 +13755,7 @@ a	I-OBRA
 andar	I-OBRA
 de	I-OBRA
 Mota	I-OBRA
-``	O
+''	O
 (	O
 um	O
 instrumental	O
@@ -13731,22 +13766,22 @@ instrumental	O
 Tu	B-OBRA
 ò	I-OBRA
 Bófia	I-OBRA
-``	O
+''	O
 ,	O
 ``	O
 Não	B-OBRA
 Vales	I-OBRA
 Nada	I-OBRA
-``	O
+''	O
 ,	O
 ``	O
 Angústia	B-OBRA
-``	O
+''	O
 ,	O
 ``	O
 Senhores	B-OBRA
 Politicos	I-OBRA
-``	O
+''	O
 eram	O
 temas	O
 fortíssimos	O
@@ -13772,7 +13807,7 @@ do	O
 álbum	O
 ``	O
 Censurados	B-OBRA
-``	O
+''	O
 1990	B-TEMPO
 .	O
 --SENTENCE--	--SENTENCE--
@@ -13832,7 +13867,7 @@ o	O
 album	O
 ``	O
 Confusão	B-OBRA
-``	O
+''	O
 e	O
 passam	O
 os	B-TEMPO
@@ -13847,7 +13882,7 @@ sai	O
 o	O
 ``	O
 Sopa	B-OBRA
-``	O
+''	O
 com	O
 o	O
 single	O
@@ -13867,7 +13902,7 @@ Estou	B-OBRA
 agarrado	I-OBRA
 a	I-OBRA
 ti	I-OBRA
-``	O
+''	O
 .	O
 --SENTENCE--	--SENTENCE--
 O	B-TEMPO
@@ -13893,7 +13928,7 @@ Afonso	I-PESSOA
 Filhos	B-OBRA
 da	I-OBRA
 Madrugada	I-OBRA
-``	O
+''	O
 com	O
 a	O
 reedição	O
@@ -13904,7 +13939,7 @@ O	B-OBRA
 que	I-OBRA
 faz	I-OBRA
 falta	I-OBRA
-``	O
+''	O
 .	O
 --SENTENCE--	--SENTENCE--
 Em	B-TEMPO
@@ -13914,7 +13949,7 @@ editora	O
 ``	O
 El	B-ORGANIZACAO
 Tatu	I-ORGANIZACAO
-``	O
+''	O
 de	O
 Tim	B-PESSOA
 reedita	O
@@ -13922,11 +13957,11 @@ os	O
 albuns	O
 ``	O
 Censurados	B-OBRA
-``	O
+''	O
 e	O
 ``	O
 Sopa	B-OBRA
-``	O
+''	O
 .	O
 --SENTENCE--	--SENTENCE--
 Em	B-TEMPO
@@ -13955,7 +13990,7 @@ XX	B-OBRA
 Anos	I-OBRA
 XX	I-OBRA
 Bandas	I-OBRA
-``	O
+''	O
 .	O
 --SENTENCE--	--SENTENCE--
 Participaram	O
@@ -14000,7 +14035,7 @@ banda	O
 Censurados	B-OBRA
 Até	I-OBRA
 Morrer	I-OBRA
-``	O
+''	O
 ,	O
 escrita	O
 por	O
@@ -15071,7 +15106,8 @@ deve	O
 ser	O
 uma	O
 cimeira	O
-«sobre	O
+«	O
+sobre	O
 Mugabe	B-PESSOA
 »	O
 --SENTENCE--	--SENTENCE--
@@ -15125,7 +15161,8 @@ UE	B-LOCAL
 )	O
 .	O
 --SENTENCE--	--SENTENCE--
-«O	O
+«	O
+O	O
 que	O
 queremos	O
 é	O
@@ -15211,7 +15248,8 @@ Mugabe	B-PESSOA
 estiver	O
 presente.	O
 --SENTENCE--	--SENTENCE--
-«Esta	O
+«	O
+Esta	O
 é	O
 uma	O
 cimeira	O
@@ -15256,7 +15294,8 @@ salientou	O
 Sócrates	B-PESSOA
 .	O
 --SENTENCE--	--SENTENCE--
-«O	O
+«	O
+O	O
 objectivo	O
 é	O
 restaurar	O
@@ -15287,11 +15326,13 @@ pela	O
 primeira	O
 vez	O
 na	O
-história»	O
+história	O
+»	O
 ,	O
 lembrou.	O
 --SENTENCE--	--SENTENCE--
-«Gostaria	O
+«	O
+Gostaria	O
 que	O
 esta	O
 cimeira	O
@@ -15304,7 +15345,8 @@ país	O
 ou	O
 sobre	O
 um	O
-dirigente»	O
+dirigente	O
+»	O
 ,	O
 insistiu.	O
 --SENTENCE--	--SENTENCE--
@@ -15612,7 +15654,7 @@ gratuito	O
 e	O
 à	O
 Wikipedia	B-ABSTRACCAO
-``	O
+''	O
 ,	O
 diz	O
 o	O
@@ -15661,7 +15703,7 @@ até	O
 na	O
 República	B-LOCAL
 Tcheca	I-LOCAL
-``	O
+''	O
 ,	O
 afirma	O
 Fenger	B-PESSOA
@@ -15718,7 +15760,7 @@ site	O
 do	O
 Creative	B-ORGANIZACAO
 Commons	I-ORGANIZACAO
-``	O
+''	O
 ,	O
 diz	O
 Christiansen	B-PESSOA
@@ -15735,7 +15777,7 @@ o	O
 Free	B-COISA
 Beer	I-COISA
 Kit	I-COISA
-``	O
+''	O
 ,	O
 uma	O
 mesa	O
@@ -15766,7 +15808,7 @@ O	B-ACONTECIMENTO
 Mundo	I-ACONTECIMENTO
 da	I-ACONTECIMENTO
 Cerveja	I-ACONTECIMENTO
-``	O
+''	O
 ,	O
 com	O
 os	O
@@ -15798,7 +15840,7 @@ máquinas	O
 ``	O
 Counter-Game	B-COISA
 Strategies	I-COISA
-``	O
+''	O
 (	O
 estratégias	O
 de	O
@@ -15926,7 +15968,7 @@ Free	B-ABSTRACCAO
 Beer	I-ABSTRACCAO
 Pub	I-ABSTRACCAO
 Quiz	I-ABSTRACCAO
-``	O
+''	O
 ,	O
 na	O
 qual	O
@@ -17731,7 +17773,8 @@ os	O
 CTT	B-ORGANIZACAO
 adiantam	O
 que	O
-«os	O
+«	O
+os	O
 preços	O
 dos	O
 serviços	O
@@ -18405,13 +18448,15 @@ agência	O
 Lusa	B-PESSOA
 ,	O
 acompanhando	O
-«o	O
+«	O
+o	O
 percurso	O
 da	O
 decadência	O
 ,	O
 da	O
-perdição»	O
+perdição	O
+»	O
 ,	O
 do	O
 autarca	O
@@ -18429,7 +18474,8 @@ de	O
 um	O
 favor.	O
 --SENTENCE--	--SENTENCE--
-«Neste	O
+«	O
+Neste	O
 caso	O
 a	O
 personagem	O
@@ -18447,7 +18493,8 @@ toda	O
 a	O
 dignidade	O
 e	O
-reputação»	O
+reputação	O
+»	O
 ,	O
 compara	O
 António-Pedro	B-PESSOA
@@ -18458,13 +18505,16 @@ porque	O
 é	O
 um	O
 tema	O
-«recorrente	O
+«	O
+recorrente	O
 na	O
 literatura	O
 e	O
 na	O
 ficção	O
-ocidental».	O
+ocidental	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 «	O
 Call	B-OBRA
@@ -18664,9 +18714,11 @@ dimensão	O
 internacional	O
 ,	O
 sem	O
-«forças	O
+«	O
+forças	O
 de	O
-bloqueio»	O
+bloqueio	O
+»	O
 na	O
 Presidência	B-PESSOA
 ,	O
@@ -18799,9 +18851,11 @@ na	O
 RTP	B-COISA
 e	O
 nos	O
-«momentos-	O
+«	O
+momentos-	O
 ''	O
-Chávez»	O
+Chávez	O
+»	O
 .	O
 --SENTENCE--	--SENTENCE--
 Os	O
@@ -18819,7 +18873,9 @@ estudar	O
 novas	O
 fórmulas	O
 para	O
-«comunicar»	O
+«	O
+comunicar	O
+»	O
 ,	O
 que	O
 a	O
@@ -18934,7 +18990,9 @@ entre	O
 sectores	O
 conservadores	O
 e	O
-«modernizadores»	O
+«	O
+modernizadores	O
+»	O
 ,	O
 o	O
 que	O
@@ -18968,7 +19026,8 @@ as	O
 «	O
 Novas	B-OBRA
 Oportunidades	I-OBRA
-».	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 O	O
 que	O

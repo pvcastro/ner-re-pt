@@ -3169,7 +3169,8 @@ desvaloriza	O
 tudo	O
 isso.	O
 --SENTENCE--	--SENTENCE--
-«A	O
+«	O
+A	O
 história	O
 nem	O
 sempre	O
@@ -3194,7 +3195,8 @@ vamos	O
 encontrar	O
 um	O
 adversário	O
-forte.»	O
+forte.	O
+»	O
 Para	O
 facilitar	O
 os	O
@@ -3211,7 +3213,8 @@ Figueira	B-LOCAL_HUMANO
 da	I-LOCAL_HUMANO
 Foz	I-LOCAL_HUMANO
 ,	O
-«mais	O
+«	O
+mais	O
 adeptos	O
 da	O
 Académica	B-PESSOA_GRUPOMEMBRO
@@ -3219,7 +3222,8 @@ do	O
 que	O
 da	O
 Naval	B-PESSOA_GRUPOMEMBRO
-».	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 --DOCSTART--	--DOCSTART--
 --SENTENCE--	--SENTENCE--
@@ -5451,6 +5455,7 @@ na	O
 corte	O
 de	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Afonso	I-PESSOA_INDIVIDUAL
 V	I-PESSOA_INDIVIDUAL
 .	O
@@ -5470,12 +5475,15 @@ Fernando	I-PESSOA_INDIVIDUAL
 de	O
 Nápoles	B-LOCAL_HUMANO
 ,	O
-«para	O
+«	O
+para	O
 reprimir	O
 o	O
 furor	O
 dos	O
-turcos».	O
+turcos	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 Esteve	O
 na	O
@@ -5546,6 +5554,7 @@ da	O
 guarda	O
 de	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 João	I-PESSOA_INDIVIDUAL
 II	I-PESSOA_INDIVIDUAL
 ,	O
@@ -5607,19 +5616,22 @@ reino	O
 de	O
 Portugal	B-LOCAL_HUMANO
 ,	O
-«mais	O
+«	O
+mais	O
 cheio	O
 de	O
 glórias	O
 que	O
 de	O
-despojos»	O
+despojos	O
+»	O
 ,	O
 foi	O
 bem	O
 acolhido	O
 por	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Manuel	I-PESSOA_INDIVIDUAL
 que	O
 em	B-TEMPO_TEMPO_CALEND
@@ -5849,7 +5861,8 @@ página	O
 23	O
 )	O
 que	O
-«foi	O
+«	O
+foi	O
 amortalhado	O
 com	O
 o	O
@@ -5928,7 +5941,9 @@ maio	I-TEMPO_TEMPO_CALEND
 de	I-TEMPO_TEMPO_CALEND
 1566	I-TEMPO_TEMPO_CALEND
 com	O
-pompa».	O
+pompa	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 --DOCSTART--	--DOCSTART--
 --SENTENCE--	--SENTENCE--
@@ -6028,7 +6043,7 @@ duo	O
 Flanders	B-PESSOA_GRUPOMEMBRO
 e	I-PESSOA_GRUPOMEMBRO
 Swann	I-PESSOA_GRUPOMEMBRO
-``	O
+''	O
 ,	O
 que	O
 instrumento	O
@@ -6521,7 +6536,7 @@ no	O
 Concerto	B-OBRA_REPRODUZIDA
 para	I-OBRA_REPRODUZIDA
 Violoncelo	I-OBRA_REPRODUZIDA
-``	O
+''	O
 de	O
 Elgar	B-PESSOA_INDIVIDUAL
 que	O
@@ -7014,7 +7029,7 @@ o	O
 Brilliant	B-ACONTECIMENTO_ORGANIZADO
 Invader	I-ACONTECIMENTO_ORGANIZADO
 '95	I-ACONTECIMENTO_ORGANIZADO
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Além	O
@@ -7206,7 +7221,7 @@ os	O
 ``	O
 All	B-PESSOA_GRUPOMEMBRO
 Blacks	I-PESSOA_GRUPOMEMBRO
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Quem	O
@@ -7261,7 +7276,7 @@ o	O
 iate	O
 ``	O
 Geronimo	B-COISA_OBJECTO
-``	O
+''	O
 .	O
 --SENTENCE--	--SENTENCE--
 Quem	O
@@ -7312,7 +7327,7 @@ canção	O
 ``	O
 Dancing	B-OBRA_REPRODUZIDA
 Queen	I-OBRA_REPRODUZIDA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Quantas	O
@@ -7361,7 +7376,8 @@ nos	O
 EUA	B-LOCAL_HUMANO
 trabalhava	O
 Aldrich	B-PESSOA_INDIVIDUAL
-H.	I-PESSOA_INDIVIDUAL
+H	I-PESSOA_INDIVIDUAL
+.	I-PESSOA_INDIVIDUAL
 Ames	I-PESSOA_INDIVIDUAL
 ?	O
 --SENTENCE--	--SENTENCE--
@@ -7436,7 +7452,7 @@ que	O
 são	O
 ``	O
 Frosties	B-COISA_CLASSE
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Que	O
@@ -7727,7 +7743,7 @@ comem	O
 os	O
 ``	O
 Walkers	B-COISA_CLASSE
-``	O
+''	O
 desta	O
 marca	O
 todos	B-TEMPO_FREQUENCIA
@@ -8293,14 +8309,17 @@ liquidez	O
 verificada	O
 nos	O
 mercados	O
-financeiros».	O
+financeiros	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 No	O
 entanto	O
 ,	O
 salienta	O
 ,	O
-«à	O
+«	O
+à	O
 medida	O
 que	O
 os	O
@@ -8318,7 +8337,9 @@ de	O
 empresas	O
 na	O
 bolsa	O
-portuguesa».	O
+portuguesa	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 O	O
 Santander	B-ORGANIZACAO_EMPRESA
@@ -8472,8 +8493,7 @@ eletrônicas	O
 e	O
 desenvolvimento	O
 de	O
-sistemas	O
-.	O
+sistemas.	O
 OperFit	B-COISA_CLASSE
 ,	O
 Adm	O
@@ -8553,8 +8573,7 @@ http	O
 --SENTENCE--	--SENTENCE--
 Croma	B-ORGANIZACAO_EMPRESA
 Eletrônica	I-ORGANIZACAO_EMPRESA
-Ltda	I-ORGANIZACAO_EMPRESA
-.	I-ORGANIZACAO_EMPRESA
+Ltda.	I-ORGANIZACAO_EMPRESA
 -	O
 Componentes	O
 eletrônicos	O
@@ -9591,7 +9610,8 @@ Ser	I-OBRA_REPRODUZIDA
 e	I-OBRA_REPRODUZIDA
 o	I-OBRA_REPRODUZIDA
 Tempo	I-OBRA_REPRODUZIDA
-».	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 -	O
 Quantas	O
@@ -10480,7 +10500,8 @@ e	O
 sentido	O
 de	O
 Estado	O
-.»	O
+.	O
+»	O
 --SENTENCE--	--SENTENCE--
 Habituei-me	O
 ,	O
@@ -10553,7 +10574,8 @@ dizer	O
 a	O
 soluçar	O
 :	O
-«Ele	O
+«	O
+Ele	O
 vai	O
 apresentar	O
 uma	O
@@ -10687,7 +10709,9 @@ e	O
 não	O
 se	O
 diga	O
-«treuze»	O
+«	O
+treuze	O
+»	O
 ,	O
 é-se	O
 barão.	O
@@ -10715,7 +10739,8 @@ escreveu	O
 no	O
 PÚBLICO	B-LOCAL_VIRTUAL
 que	O
-«o	O
+«	O
+o	O
 problema	O
 do	O
 PSD	B-ORGANIZACAO_INSTITUICAO
@@ -10730,7 +10755,9 @@ ou	O
 dois	O
 dentro	O
 de	O
-si».	O
+si	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 Não	O
 podia	O
@@ -10885,8 +10912,10 @@ uma	O
 pálida	O
 imitação	O
 dos	O
-«red	O
-devils»	O
+«	O
+red	O
+devils	O
+»	O
 de	O
 um	O
 passado	O
@@ -11084,7 +11113,9 @@ foi	O
 uma	O
 dessas	O
 inesperadas	O
-«revoluções»	O
+«	O
+revoluções	O
+»	O
 na	O
 formação	O
 da	O
@@ -11133,7 +11164,9 @@ Nereu	B-PESSOA_INDIVIDUAL
 ,	O
 ou	O
 pela	O
-«épica»	O
+«	O
+épica	O
+»	O
 contratação	O
 de	O
 Moretto	B-PESSOA_INDIVIDUAL
@@ -11690,7 +11723,9 @@ policial-mediático	O
 para	O
 ouvir	O
 o	O
-«suspeitíssimo»	O
+«	O
+suspeitíssimo	O
+»	O
 Pinto	B-PESSOA_INDIVIDUAL
 da	I-PESSOA_INDIVIDUAL
 Costa	I-PESSOA_INDIVIDUAL
@@ -11732,7 +11767,8 @@ de	O
 investigação	O
 ,	O
 a	O
-«task	O
+«	O
+task	O
 force	O
 »	O
 judicial	O
@@ -11773,7 +11809,9 @@ nada.	O
 --SENTENCE--	--SENTENCE--
 A	O
 suspeita	O
-«gravíssima»	O
+«	O
+gravíssima	O
+»	O
 mantém-se	O
 rigorosamente	O
 a	O
@@ -11827,7 +11865,9 @@ subornado	O
 com	O
 recurso	O
 a	O
-«meninas»	O
+«	O
+meninas	O
+»	O
 o	O
 árbitro	O
 do	O
@@ -11837,6 +11877,7 @@ Dragão	B-LOCAL_HUMANO
 contra	O
 o	O
 E.	B-PESSOA_GRUPOMEMBRO
+--SENTENCE--	I-PESSOA_GRUPOMEMBRO
 Amadora	I-PESSOA_GRUPOMEMBRO
 ,	O
 em	O
@@ -15079,7 +15120,8 @@ autor	O
 oulipiano	O
 é	O
 um	O
-«rato	O
+«	O
+rato	O
 que	O
 constrói	O
 o	O
@@ -15088,7 +15130,9 @@ do	O
 qual	O
 se	O
 propõe	O
-sair».	O
+sair	O
+»	O
+.	O
 --SENTENCE--	--SENTENCE--
 Um	O
 labirinto	O
@@ -15795,7 +15839,7 @@ por	O
 ``	O
 Forrest	B-OBRA_REPRODUZIDA
 Gump	I-OBRA_REPRODUZIDA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Quem	O
@@ -16080,7 +16124,7 @@ filme	O
 ``	O
 Pulp	B-OBRA_REPRODUZIDA
 Fiction	I-OBRA_REPRODUZIDA
-``	O
+''	O
 no	O
 Festival	B-ACONTECIMENTO_ORGANIZADO
 de	O
@@ -16213,7 +16257,7 @@ Ace	B-OBRA_REPRODUZIDA
 Ventura	I-OBRA_REPRODUZIDA
 em	I-OBRA_REPRODUZIDA
 África	I-OBRA_REPRODUZIDA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Que	O
@@ -16579,7 +16623,7 @@ que	O
 Ace	B-PESSOA_GRUPOMEMBRO
 of	I-PESSOA_GRUPOMEMBRO
 Base	I-PESSOA_GRUPOMEMBRO
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 De	O
@@ -16759,7 +16803,7 @@ e	I-OBRA_REPRODUZIDA
 a	I-OBRA_REPRODUZIDA
 Lâmpada	I-OBRA_REPRODUZIDA
 Mágica	I-OBRA_REPRODUZIDA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 O	O
@@ -17487,7 +17531,7 @@ série	O
 televisiva	O
 ``	O
 Batman	B-OBRA_REPRODUZIDA
-``	O
+''	O
 ?	O
 --SENTENCE--	--SENTENCE--
 Onde	O
@@ -17665,7 +17709,7 @@ obra	O
 ``	O
 Guaraná	B-OBRA_ARTE
 Power	I-OBRA_ARTE
-``	O
+''	O
 ,	O
 do	O
 coletivo	O
@@ -17781,7 +17825,7 @@ pagam	O
 R	B-VALOR_MOEDA
 $	I-VALOR_MOEDA
 7	I-VALOR_MOEDA
-``	O
+''	O
 ,	O
 afirmou	O
 Bjornstjerne	B-PESSOA_INDIVIDUAL
@@ -18321,8 +18365,10 @@ da	O
 UE	B-ORGANIZACAO_ADMINISTRACAO
 e	O
 a	O
-«competente	O
-liderança»	O
+«	O
+competente	O
+liderança	O
+»	O
 do	O
 primeiro-ministro	O
 ,	O
@@ -18414,13 +18460,15 @@ Barroso	I-PESSOA_INDIVIDUAL
 lembrou	O
 que	O
 o	O
-«sucesso	O
+«	O
+sucesso	O
 político	O
 tem	O
 agora	O
 de	O
 ser	O
-concretizado»	O
+concretizado	O
+»	O
 com	O
 a	O
 ratificação	O
@@ -19078,6 +19126,7 @@ Covilhã	B-LOCAL_HUMANO
 ,	O
 1450	B-TEMPO_TEMPO_CALEND
 ?	I-TEMPO_TEMPO_CALEND
+--SENTENCE--	I-TEMPO_TEMPO_CALEND
 --	I-TEMPO_TEMPO_CALEND
 -	I-TEMPO_TEMPO_CALEND
 1530	I-TEMPO_TEMPO_CALEND
@@ -19115,6 +19164,7 @@ seu	O
 amo	O
 ,	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Juan	I-PESSOA_INDIVIDUAL
 de	I-PESSOA_INDIVIDUAL
 Guzman	I-PESSOA_INDIVIDUAL
@@ -19161,6 +19211,7 @@ Covilhã	I-PESSOA_INDIVIDUAL
 ,	O
 convida-o	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Juan	I-PESSOA_INDIVIDUAL
 de	I-PESSOA_INDIVIDUAL
 Gusman	I-PESSOA_INDIVIDUAL
@@ -19192,6 +19243,7 @@ em	B-TEMPO_TEMPO_CALEND
 ,	O
 acompanha	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Juan	I-PESSOA_INDIVIDUAL
 a	O
 Lisboa	B-LOCAL_HUMANO
@@ -19206,6 +19258,7 @@ Portugal	B-LOCAL_HUMANO
 .	O
 --SENTENCE--	--SENTENCE--
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Afonso	I-PESSOA_INDIVIDUAL
 simpatiza	O
 com	O
@@ -19223,6 +19276,7 @@ língua	O
 árabe	O
 e	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Juan	I-PESSOA_INDIVIDUAL
 cede	O
 a	O
@@ -19252,6 +19306,7 @@ de	O
 esporas	O
 de	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Afonso	I-PESSOA_INDIVIDUAL
 V	I-PESSOA_INDIVIDUAL
 .	O
@@ -19277,6 +19332,7 @@ Em	B-TEMPO_TEMPO_CALEND
 1476	I-TEMPO_TEMPO_CALEND
 acompanha	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Afonso	I-PESSOA_INDIVIDUAL
 V	I-PESSOA_INDIVIDUAL
 na	O
@@ -19289,6 +19345,7 @@ tentativa	O
 fracassada	O
 de	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 João	I-PESSOA_INDIVIDUAL
 de	O
 reclamar	O
@@ -19315,6 +19372,7 @@ em	O
 iria	O
 acompanhar	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Afonso	I-PESSOA_INDIVIDUAL
 na	O
 jornada	O
@@ -19343,6 +19401,7 @@ rejeitado.	O
 Entretanto	O
 ,	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Afonso	I-PESSOA_INDIVIDUAL
 abdica	O
 do	O
@@ -19350,6 +19409,7 @@ trono	O
 ,	O
 para	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 João	I-PESSOA_INDIVIDUAL
 II	I-PESSOA_INDIVIDUAL
 .	O
@@ -19381,6 +19441,7 @@ que	O
 conspiravam	O
 contra	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 João	I-PESSOA_INDIVIDUAL
 II	I-PESSOA_INDIVIDUAL
 ,	O
@@ -19388,6 +19449,7 @@ conseguindo	O
 identificar	O
 o	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Diogo	I-PESSOA_INDIVIDUAL
 ,	O
 duque	B-PESSOA_CARGO
@@ -19395,6 +19457,7 @@ de	I-PESSOA_CARGO
 Viseu	I-PESSOA_CARGO
 e	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Garcia	I-PESSOA_INDIVIDUAL
 de	I-PESSOA_INDIVIDUAL
 Meneses	I-PESSOA_INDIVIDUAL
@@ -21042,8 +21105,7 @@ Holcim	B-ORGANIZACAO_EMPRESA
 Brasil	I-ORGANIZACAO_EMPRESA
 )	I-ORGANIZACAO_EMPRESA
 S.	I-ORGANIZACAO_EMPRESA
-A	I-ORGANIZACAO_EMPRESA
-.	I-ORGANIZACAO_EMPRESA
+A.	I-ORGANIZACAO_EMPRESA
 --SENTENCE--	--SENTENCE--
 Vitae	B-ORGANIZACAO_INSTITUICAO
 --	O
@@ -22143,6 +22205,7 @@ Pedro	I-PESSOA_INDIVIDUAL
 I	I-PESSOA_INDIVIDUAL
 e	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Pedro	I-PESSOA_INDIVIDUAL
 II	I-PESSOA_INDIVIDUAL
 e	O
@@ -22181,6 +22244,7 @@ de	O
 caligrafia	O
 de	O
 D.	B-PESSOA_INDIVIDUAL
+--SENTENCE--	I-PESSOA_INDIVIDUAL
 Pedro	I-PESSOA_INDIVIDUAL
 II	I-PESSOA_INDIVIDUAL
 ;	O

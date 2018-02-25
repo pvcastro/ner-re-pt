@@ -164,8 +164,10 @@ não	adv	O
 é	v-fin	O
 a	prp	O
 tal	pron-det	O
-«geração	n	O
-rasca»	n	O
+«	«	O
+geração	n	O
+rasca	n	O
+»	»	O
 ,	,	O
 tendo	v-ger	O
 objectivos	n	O
@@ -350,8 +352,8 @@ Perdida	n	I-PESSOA_GRUPOMEMBRO
 
 Hardclub	n	B-LOCAL_HUMANO
 (	n	O
-V.N	n	B-LOCAL_HUMANO
-.	.	I-LOCAL_HUMANO
+V.N.	n	B-LOCAL_HUMANO
+
 Gaia	n	I-LOCAL_HUMANO
 .	.	O
 )	n	O
@@ -394,8 +396,8 @@ Março	n	B-ACONTECIMENTO_ORGANIZADO
 Jovem	n	I-ACONTECIMENTO_ORGANIZADO
 2006	n	I-ACONTECIMENTO_ORGANIZADO
 (	n	O
-C.M	n	B-LOCAL_HUMANO
-.	.	I-LOCAL_HUMANO
+C.M.	n	B-LOCAL_HUMANO
+
 Seixal	n	I-LOCAL_HUMANO
 )	n	O
 com	prp	O
@@ -459,7 +461,8 @@ intitulado	v-pcp	O
 Rebobina	n	B-ABSTRACCAO_NOME
 e	conj-c	I-ABSTRACCAO_NOME
 Pensa	n	I-ABSTRACCAO_NOME
-».	n	O
+»	»	O
+.	.	O
 
 Notícias	n	O
 recentes/projectos	n	O
@@ -1982,8 +1985,8 @@ América	n	B-LOCAL_HUMANO
 Latina	n	I-LOCAL_HUMANO
 .	.	O
 
-Av	n	B-LOCAL_HUMANO
-.	.	I-LOCAL_HUMANO
+Av.	n	B-LOCAL_HUMANO
+
 Auro	n	I-LOCAL_HUMANO
 Soares	n	I-LOCAL_HUMANO
 de	prp	I-LOCAL_HUMANO
@@ -2207,6 +2210,7 @@ Teatro	n	B-ORGANIZACAO_INSTITUICAO
 Mariinski	n	I-ORGANIZACAO_INSTITUICAO
 de	prp	O
 S.	n	B-LOCAL_HUMANO
+
 Petersburgo	n	I-LOCAL_HUMANO
 e	conj-c	O
 The	n	B-PESSOA_GRUPOMEMBRO
@@ -2650,6 +2654,7 @@ de	prp	I-OBRA_REPRODUZIDA
 Natal	n	I-OBRA_REPRODUZIDA
 de	prp	O
 J.	n	B-PESSOA_INDIVIDUAL
+
 S.	n	I-PESSOA_INDIVIDUAL
 Bach	n	I-PESSOA_INDIVIDUAL
 pela	n	O
@@ -2938,8 +2943,7 @@ eletrônicas	adj	O
 e	conj-c	O
 desenvolvimento	n	O
 de	prp	O
-sistemas	n	O
-.	.	O
+sistemas.	n	O
 OperFit	n	B-COISA_CLASSE
 ,	,	O
 Adm	n	O
@@ -3019,8 +3023,7 @@ http	n	O
 
 Croma	n	B-ORGANIZACAO_EMPRESA
 Eletrônica	n	I-ORGANIZACAO_EMPRESA
-Ltda	n	I-ORGANIZACAO_EMPRESA
-.	.	I-ORGANIZACAO_EMPRESA
+Ltda.	n	I-ORGANIZACAO_EMPRESA
 -	-	O
 Componentes	n	O
 eletrônicos	adj	O
@@ -4366,6 +4369,7 @@ outras	pron-det	O
 coisas	n	O
 ,	,	O
 Dr.	n	B-PESSOA_INDIVIDUAL
+
 Werthan	n	I-PESSOA_INDIVIDUAL
 ,	,	O
 ``	n	O
@@ -4515,6 +4519,7 @@ juntos	adv	O
 .	.	O
 
 Dr.	n	B-PESSOA_INDIVIDUAL
+
 Frederick	n	I-PESSOA_INDIVIDUAL
 Werthan	n	I-PESSOA_INDIVIDUAL
 -	-	O
@@ -4556,6 +4561,7 @@ o	art	O
 livro	n	O
 do	n	O
 Dr.	n	B-PESSOA_INDIVIDUAL
+
 Werthan	n	I-PESSOA_INDIVIDUAL
 ,	,	O
 o	art	O
@@ -5231,9 +5237,11 @@ telemóveis	n	O
 de	prp	O
 banda	n	O
 larga	adj	O
-«de	n	O
-nova	n	O
-geração»	n	O
+«	«	O
+de	prp	O
+nova	adj	O
+geração	n	O
+»	»	O
 em	prp	B-TEMPO_TEMPO_CALEND
 2008	n	I-TEMPO_TEMPO_CALEND
 ,	,	O
@@ -5283,7 +5291,8 @@ O	n	O
 programa	n	O
 de	prp	O
 desenvolvimento	n	O
-«estará	n	O
+«	«	O
+estará	v-fin	O
 de	prp	O
 acordo	n	O
 com	prp	O
@@ -5304,7 +5313,8 @@ competitividade	n	O
 mundial	adj	O
 das	n	O
 empresas	n	O
-chinesas»	n	O
+chinesas	adj	O
+»	»	O
 ,	,	O
 disse	v-fin	O
 o	art	O
@@ -5439,7 +5449,8 @@ deve	v-fin	O
 ser	v-inf	O
 uma	art	O
 cimeira	n	O
-«sobre	n	O
+«	«	O
+sobre	prp	O
 Mugabe	n	B-PESSOA_INDIVIDUAL
 »	»	O
 
@@ -5493,7 +5504,8 @@ UE	n	B-LOCAL_HUMANO
 )	n	O
 .	.	O
 
-«O	n	O
+«	«	O
+O	n	O
 que	pron-indp	O
 queremos	v-fin	O
 é	v-fin	O
@@ -5579,7 +5591,8 @@ Mugabe	n	B-PESSOA_INDIVIDUAL
 estiver	v-fin	O
 presente.	n	O
 
-«Esta	n	O
+«	«	O
+Esta	n	O
 é	v-fin	O
 uma	art	O
 cimeira	n	O
@@ -5624,7 +5637,8 @@ salientou	v-fin	O
 Sócrates	n	B-PESSOA_INDIVIDUAL
 .	.	O
 
-«O	n	O
+«	«	O
+O	n	O
 objectivo	n	O
 é	v-fin	O
 restaurar	v-inf	O
@@ -5655,11 +5669,13 @@ pela	n	O
 primeira	adj	O
 vez	n	O
 na	pron-pers	O
-história»	n	O
+história	n	O
+»	»	O
 ,	,	O
 lembrou.	n	O
 
-«Gostaria	n	O
+«	«	O
+Gostaria	n	O
 que	pron-indp	O
 esta	pron-det	O
 cimeira	n	O
@@ -5672,7 +5688,8 @@ país	n	O
 ou	conj-c	O
 sobre	prp	O
 um	art	O
-dirigente»	n	O
+dirigente	n	O
+»	»	O
 ,	,	O
 insistiu.	n	O
 
@@ -7101,7 +7118,7 @@ A	n	B-OBRA_REPRODUZIDA
 Lista	n	I-OBRA_REPRODUZIDA
 de	prp	I-OBRA_REPRODUZIDA
 Schindler	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -7128,7 +7145,7 @@ de	prp	O
 Romeu	n	B-OBRA_REPRODUZIDA
 e	conj-c	I-OBRA_REPRODUZIDA
 Julieta	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quantos	n	O
@@ -7155,7 +7172,8 @@ ano	n	O
 foi	v-fin	O
 assassinado	v-pcp	O
 John	n	B-PESSOA_INDIVIDUAL
-F.	n	I-PESSOA_INDIVIDUAL
+F	n	I-PESSOA_INDIVIDUAL
+.	.	I-PESSOA_INDIVIDUAL
 Kennedy	n	I-PESSOA_INDIVIDUAL
 ?	?	O
 
@@ -7233,7 +7251,7 @@ não-publicado	n	O
 Cruz	n	B-OBRA_REPRODUZIDA
 sem	prp	I-OBRA_REPRODUZIDA
 Amor	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Em	n	O
@@ -7447,7 +7465,7 @@ tudo	pron-indp	I-OBRA_REPRODUZIDA
 o	art	I-OBRA_REPRODUZIDA
 vento	n	I-OBRA_REPRODUZIDA
 levou	v-fin	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 O	n	O
@@ -7840,7 +7858,7 @@ will	n	I-OBRA_REPRODUZIDA
 always	n	I-OBRA_REPRODUZIDA
 love	n	I-OBRA_REPRODUZIDA
 you	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 O	n	O
@@ -7873,7 +7891,7 @@ Estudos	n	B-ACONTECIMENTO_EVENTO
 sobre	prp	I-ACONTECIMENTO_EVENTO
 a	art	I-ACONTECIMENTO_EVENTO
 Histeria	n	I-ACONTECIMENTO_EVENTO
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -7980,7 +7998,7 @@ escreveu	v-fin	O
 ``	n	O
 Mein	n	B-OBRA_REPRODUZIDA
 Kampf	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -8256,9 +8274,11 @@ O	n	O
 que	pron-indp	O
 é	v-fin	O
 a	prp	O
-«Rota	n	O
+«	«	O
+Rota	n	O
 da	n	O
-Prata»	n	O
+Prata	n	O
+»	»	O
 ?	?	O
 
 Onde	n	O
@@ -9311,11 +9331,13 @@ Sonae	n	B-ORGANIZACAO_EMPRESA
 Distribuição	n	I-ORGANIZACAO_EMPRESA
 ,	,	O
 a	art	O
-«decisão	n	O
+«	«	O
+decisão	n	O
 provável	adj	O
 de	prp	O
 não	adv	O
-oposição»	n	O
+oposição	n	O
+»	»	O
 ,	,	O
 que	pron-indp	O
 se	pron-pers	O
@@ -10332,7 +10354,7 @@ de	prp	O
 ``	n	O
 Advogado	n	B-ABSTRACCAO_IDEIA
 Público	n	I-ABSTRACCAO_IDEIA
-``	n	O
+''	n	O
 adotado	n	O
 pelo	n	O
 IBAP	n	B-ORGANIZACAO_INSTITUICAO
@@ -11010,7 +11032,7 @@ Pessoa	n	I-OBRA_REPRODUZIDA
 Portadora	n	I-OBRA_REPRODUZIDA
 de	prp	I-OBRA_REPRODUZIDA
 Deficiência	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Primeiro	n	B-OBRA_REPRODUZIDA
@@ -11019,7 +11041,7 @@ Brasileiro	n	I-OBRA_REPRODUZIDA
 de	prp	I-OBRA_REPRODUZIDA
 Advocacia	n	I-OBRA_REPRODUZIDA
 Pública	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 e	conj-c	O
 ``	n	O
 Temas	n	B-OBRA_REPRODUZIDA
@@ -11028,7 +11050,7 @@ Direito	n	I-OBRA_REPRODUZIDA
 Ambiental	n	I-OBRA_REPRODUZIDA
 e	conj-c	I-OBRA_REPRODUZIDA
 Urbanístico	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 todos	pron-det	O
 pela	n	O
@@ -11068,7 +11090,7 @@ Público	n	I-OBRA_REPRODUZIDA
 André	n	I-OBRA_REPRODUZIDA
 Franco	n	I-OBRA_REPRODUZIDA
 Montoro	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 pela	n	O
 Editora	n	B-ORGANIZACAO_EMPRESA
@@ -11734,7 +11756,7 @@ dos	prop	I-ABSTRACCAO_NOME
 de	prp	I-ABSTRACCAO_NOME
 Advocacia	n	I-ABSTRACCAO_NOME
 Pública	n	I-ABSTRACCAO_NOME
-``	n	O
+''	n	O
 ,	,	O
 oferece	v-fin	O
 as	art	O
@@ -11900,7 +11922,7 @@ Advocacia	n	B-OBRA_REPRODUZIDA
 Pública	n	I-OBRA_REPRODUZIDA
 em	prp	I-OBRA_REPRODUZIDA
 Debate	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 também	adv	O
 disponíveis	adj	O
@@ -11963,7 +11985,7 @@ Pública	n	I-ABSTRACCAO_DISCIPLINA
 Tendências	n	I-ABSTRACCAO_DISCIPLINA
 e	conj-c	I-ABSTRACCAO_DISCIPLINA
 Desafios	n	I-ABSTRACCAO_DISCIPLINA
-``	n	O
+''	n	O
 e	conj-c	O
 o	art	O
 Deputado	n	B-PESSOA_INDIVIDUAL
@@ -11988,7 +12010,7 @@ frente	n	I-ABSTRACCAO_DISCIPLINA
 ao	prp	I-ABSTRACCAO_DISCIPLINA
 Poder	n	I-ABSTRACCAO_DISCIPLINA
 Público	n	I-ABSTRACCAO_DISCIPLINA
-``	n	O
+''	n	O
 .	.	O
 
 No	n	O
@@ -12063,7 +12085,7 @@ Pessoa	n	I-OBRA_REPRODUZIDA
 Portadora	n	I-OBRA_REPRODUZIDA
 de	prp	I-OBRA_REPRODUZIDA
 Deficiência	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 e	conj-c	O
 promover	v-inf	O
 o	art	O
@@ -12079,7 +12101,7 @@ Pessoa	n	I-ACONTECIMENTO_ORGANIZADO
 Portadora	n	I-ACONTECIMENTO_ORGANIZADO
 de	prp	I-ACONTECIMENTO_ORGANIZADO
 Deficiência	n	I-ACONTECIMENTO_ORGANIZADO
-``	n	O
+''	n	O
 ,	,	O
 o	art	O
 IBAP	n	B-ORGANIZACAO_INSTITUICAO
@@ -13384,7 +13406,7 @@ Parceria	n	B-OBRA_PLANO
 para	prp	I-OBRA_PLANO
 a	art	I-OBRA_PLANO
 Paz	n	I-OBRA_PLANO
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -13405,7 +13427,7 @@ O	n	B-OBRA_REPRODUZIDA
 Senhor	n	I-OBRA_REPRODUZIDA
 dos	prop	I-OBRA_REPRODUZIDA
 Anéis	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Como	n	O
@@ -13416,7 +13438,8 @@ mulher	n	O
 de	prp	O
 George	n	B-PESSOA_INDIVIDUAL
 H.	n	I-PESSOA_INDIVIDUAL
-W.	n	I-PESSOA_INDIVIDUAL
+W	n	I-PESSOA_INDIVIDUAL
+.	.	I-PESSOA_INDIVIDUAL
 Bush	n	I-PESSOA_INDIVIDUAL
 ?	?	O
 
@@ -13592,7 +13615,7 @@ Transfronteiriços	n	I-OBRA_PLANO
 de	prp	I-OBRA_PLANO
 Resíduos	n	I-OBRA_PLANO
 Perigosos	n	I-OBRA_PLANO
-``	n	O
+''	n	O
 ?	?	O
 
 A	n	O
@@ -13604,7 +13627,7 @@ termo	n	O
 ``	n	O
 Les	n	B-ABSTRACCAO_NOME
 Six	n	I-ABSTRACCAO_NOME
-``	n	O
+''	n	O
 em	prp	O
 música	n	O
 ?	?	O
@@ -14103,7 +14126,7 @@ filme	n	O
 ``	n	O
 Caro	n	B-OBRA_REPRODUZIDA
 Diário	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 O	n	O
@@ -14181,7 +14204,7 @@ filme	n	O
 ``	n	O
 Toy	n	B-OBRA_REPRODUZIDA
 Story	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Qual	n	O
@@ -14228,7 +14251,7 @@ escreveu	v-fin	O
 ``	n	O
 Ecce	n	B-OBRA_REPRODUZIDA
 Homo	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quando	n	O
@@ -14617,7 +14640,7 @@ do	n	O
 filme	n	O
 ``	n	O
 Heimat	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Qual	n	O
@@ -14963,7 +14986,7 @@ quem	pron-indp	O
 ``	n	O
 O	n	B-OBRA_REPRODUZIDA
 Capital	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Diga	n	O
@@ -15027,7 +15050,7 @@ escreveu	v-fin	O
 ``	n	O
 A	n	B-OBRA_REPRODUZIDA
 Capital	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -15035,7 +15058,7 @@ escreveu	v-fin	O
 ``	n	O
 O	n	B-OBRA_REPRODUZIDA
 Idiota	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -15043,7 +15066,7 @@ Quem	n	O
 ``	n	O
 Toninho	n	B-PESSOA_INDIVIDUAL
 Malvadeza	n	I-PESSOA_INDIVIDUAL
-``	n	O
+''	n	O
 ?	?	O
 
 Quem	n	O
@@ -15062,7 +15085,7 @@ escreveu	v-fin	O
 ``	n	O
 Os	n	B-OBRA_REPRODUZIDA
 Persas	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Desde	n	O
@@ -16094,7 +16117,7 @@ no	pron-pers	O
 ``	n	O
 Chapéu	n	B-LOCAL_HUMANO
 Mangueira	n	I-LOCAL_HUMANO
-``	n	O
+''	n	O
 ?	?	O
 
 -	-	O
@@ -16361,7 +16384,7 @@ meio	adv	O
 ``	n	O
 Linha	n	B-COISA_CLASSE
 Direta	n	I-COISA_CLASSE
-``	n	O
+''	n	O
 e	conj-c	O
 umas	pron-det	O
 fotos	n	O
@@ -16409,7 +16432,7 @@ Ramos	n	I-PESSOA_INDIVIDUAL
 Ó	n	B-OBRA_REPRODUZIDA
 pái	n	I-OBRA_REPRODUZIDA
 ó	in	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 .	.	O
 
 -	-	O
@@ -16990,7 +17013,7 @@ designada	n	O
 ``	n	O
 Eu	n	B-ABSTRACCAO_NOME
 contribuo	n	I-ABSTRACCAO_NOME
-``	n	O
+''	n	O
 ,	,	O
 onde	adv	O
 os	art	O
@@ -17045,7 +17068,8 @@ Vila	n	B-LOCAL_HUMANO
 do	n	I-LOCAL_HUMANO
 Conde	n	I-LOCAL_HUMANO
 :	n	O
-«Tudo	n	O
+«	«	O
+Tudo	n	O
 começou	v-fin	O
 quando	adv	O
 os	art	O
@@ -17108,7 +17132,8 @@ se	pron-pers	O
 acrescentaram	n	O
 muitas	pron-det	O
 outras	pron-det	O
-medidas.»	n	O
+medidas.	n	O
+»	»	O
 
 Também	n	O
 Vítor	n	B-PESSOA_INDIVIDUAL
@@ -17152,7 +17177,8 @@ bicicleta	n	O
 ou	conj-c	O
 o	art	O
 transporte	n	O
-público.»	n	O
+público.	n	O
+»	»	O
 
 Obrigada	n	O
 ao	prp	O
@@ -17892,15 +17918,19 @@ Triatoma	n	B-COISA_CLASSE
 infestans	n	I-COISA_CLASSE
 ,	,	O
 T.	n	B-COISA_CLASSE
+
 brasiliensis	n	I-COISA_CLASSE
 ,	,	O
 T.	n	B-COISA_CLASSE
+
 dimidiata	n	I-COISA_CLASSE
 ,	,	O
 T.	n	B-COISA_CLASSE
+
 sordida	n	I-COISA_CLASSE
 ,	,	O
 P.	n	B-COISA_CLASSE
+
 megistus	n	I-COISA_CLASSE
 e	conj-c	O
 Rhodnius	n	B-COISA_CLASSE
@@ -17934,6 +17964,7 @@ distribuição	n	O
 é	v-fin	O
 o	art	O
 T.	n	B-COISA_CLASSE
+
 infestans	n	I-COISA_CLASSE
 ,	,	O
 encontrado	v-pcp	O
@@ -17981,6 +18012,7 @@ da	n	O
 Argentina	n	B-LOCAL_HUMANO
 ,	,	O
 T.	n	B-COISA_CLASSE
+
 infestans	n	I-COISA_CLASSE
 também	adv	O
 tem	v-fin	O
@@ -18022,6 +18054,7 @@ típico	adj	O
 dado	v-pcp	O
 pelo	n	O
 T.	n	B-COISA_CLASSE
+
 arthurneivai	n	I-COISA_CLASSE
 que	pron-indp	O
 ,	,	O
@@ -18080,6 +18113,7 @@ infecção	n	O
 natural	adj	O
 pelo	n	O
 T.	n	B-COISA_CLASSE
+
 cruzi	n	I-COISA_CLASSE
 .	.	O
 
@@ -18106,6 +18140,7 @@ encontra-se	n	O
 outra	pron-det	O
 espécie	n	O
 T.	n	B-COISA_CLASSE
+
 rubrovaria	n	I-COISA_CLASSE
 ,	,	O
 tipicamente	adv	O
@@ -18144,9 +18179,11 @@ grupo	n	O
 que	pron-indp	O
 são	v-fin	O
 T.	n	B-COISA_CLASSE
+
 eratyrusiformis	n	I-COISA_CLASSE
 e	conj-c	O
 T.	n	B-COISA_CLASSE
+
 patagonica	n	I-COISA_CLASSE
 :	n	O
 criam-se	n	O
@@ -18172,6 +18209,7 @@ noite	n	I-TEMPO_TEMPO_CALEND
 .	.	O
 
 T.	n	B-COISA_CLASSE
+
 brasiliensis	n	I-COISA_CLASSE
 com	prp	O
 altas	adj	O
@@ -18180,6 +18218,7 @@ de	prp	O
 infecção	n	O
 pelo	n	O
 T.	n	B-COISA_CLASSE
+
 cruzi	n	I-COISA_CLASSE
 é	v-fin	O
 o	art	O
@@ -18242,6 +18281,7 @@ espécie	n	O
 vetora	n	O
 é	v-fin	O
 P.	n	B-COISA_CLASSE
+
 megistus	n	I-COISA_CLASSE
 ,	,	O
 sendo	v-ger	O
@@ -18318,6 +18358,7 @@ de	prp	O
 infecção	n	O
 para	prp	O
 T.	n	B-COISA_CLASSE
+
 cruzi	n	I-COISA_CLASSE
 são	v-fin	O
 elevados.	n	O
@@ -18334,6 +18375,7 @@ com	prp	O
 facilidade.	n	O
 
 P.	n	B-COISA_CLASSE
+
 geniculatus	n	I-COISA_CLASSE
 ,	,	O
 espécie	n	O
@@ -18373,6 +18415,7 @@ citar	n	O
 ainda	adv	O
 o	art	O
 P.	n	B-COISA_CLASSE
+
 diasi	n	I-COISA_CLASSE
 com	prp	O
 distribuição	n	O
@@ -18409,6 +18452,7 @@ nordeste	n	O
 brasileiro	adj	O
 e	conj-c	O
 P.	n	B-COISA_CLASSE
+
 tupynambai	n	I-COISA_CLASSE
 no	pron-pers	O
 Rio	n	B-LOCAL_HUMANO
@@ -18433,6 +18477,7 @@ habitações	n	O
 humanas.	n	O
 
 T.	n	B-COISA_CLASSE
+
 sordida	n	I-COISA_CLASSE
 geralmente	adv	O
 é	v-fin	O
@@ -18497,6 +18542,7 @@ a	prp	O
 roedores.	n	O
 
 T.	n	B-COISA_CLASSE
+
 dimidiata	n	I-COISA_CLASSE
 freqüenta	n	O
 o	art	O
@@ -18563,6 +18609,7 @@ Rhodnius	n	B-COISA_CLASSE
 ,	,	O
 principalmente	adv	O
 R.	n	B-COISA_CLASSE
+
 domesticus	n	I-COISA_CLASSE
 ,	,	O
 que	pron-indp	O
@@ -18575,6 +18622,7 @@ do	n	O
 Brasil	n	B-LOCAL_HUMANO
 ,	,	O
 R.	n	B-COISA_CLASSE
+
 pictipes	n	I-COISA_CLASSE
 nas	pron-pers	O
 regiões	n	O
@@ -18586,6 +18634,7 @@ Brasil	n	B-LOCAL_HUMANO
 e	conj-c	O
 o	art	O
 R.	n	B-COISA_CLASSE
+
 brethesi	n	I-COISA_CLASSE
 ,	,	O
 com	prp	O
@@ -18629,6 +18678,7 @@ ecótopos	n	O
 artificiais.	n	O
 
 R.	n	B-COISA_CLASSE
+
 prolixus	n	I-COISA_CLASSE
 é	v-fin	O
 a	prp	O
@@ -18682,6 +18732,7 @@ ambiente	adj	O
 domiciliar	n	O
 ,	,	O
 R.	n	B-COISA_CLASSE
+
 prolixus	n	I-COISA_CLASSE
 alimenta-se	n	O
 principalmente	adv	O
@@ -18720,6 +18771,7 @@ de	prp	O
 alimento.	n	O
 
 R.	n	B-COISA_CLASSE
+
 pallescens	n	I-COISA_CLASSE
 é	v-fin	O
 importante	adj	O
@@ -18794,6 +18846,7 @@ nenhuma	pron-det	O
 infectada	n	O
 pelo	n	O
 T.	n	B-COISA_CLASSE
+
 cruzi	n	I-COISA_CLASSE
 .	.	O
 
@@ -23087,7 +23140,7 @@ categoria	n	O
 Lost	n	B-ABSTRACCAO_DISCIPLINA
 in	n	I-ABSTRACCAO_DISCIPLINA
 Translation	n	I-ABSTRACCAO_DISCIPLINA
-``	n	O
+''	n	O
 vai	v-fin	O
 para	prp	O
 worms	n	O
@@ -24699,7 +24752,7 @@ Grândola	n	B-OBRA_REPRODUZIDA
 ,	,	I-OBRA_REPRODUZIDA
 Vila	n	I-OBRA_REPRODUZIDA
 Morena	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Onde	n	O
@@ -24713,7 +24766,8 @@ Rodriguez	n	I-COISA_OBJECTO
 Quem	n	O
 é	v-fin	O
 Philip	n	B-PESSOA_INDIVIDUAL
-J.	n	I-PESSOA_INDIVIDUAL
+J	n	I-PESSOA_INDIVIDUAL
+.	.	I-PESSOA_INDIVIDUAL
 Fry	n	I-PESSOA_INDIVIDUAL
 ?	?	O
 
@@ -25594,7 +25648,7 @@ tonto	n	I-OBRA_REPRODUZIDA
 de	prp	I-OBRA_REPRODUZIDA
 la	prop	I-OBRA_REPRODUZIDA
 ley	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Que	n	O
@@ -26041,7 +26095,7 @@ Mau	n	I-OBRA_REPRODUZIDA
 e	conj-c	I-OBRA_REPRODUZIDA
 o	art	I-OBRA_REPRODUZIDA
 Vilão	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ?	?	O
 
 Quantas	n	O
@@ -26660,9 +26714,11 @@ dimensão	n	O
 internacional	adj	O
 ,	,	O
 sem	prp	O
-«forças	n	O
+«	«	O
+forças	n	O
 de	prp	O
-bloqueio»	n	O
+bloqueio	n	O
+»	»	O
 na	pron-pers	O
 Presidência	n	B-PESSOA_GRUPOCARGO
 ,	,	O
@@ -26795,9 +26851,11 @@ na	pron-pers	O
 RTP	n	B-COISA_CLASSE
 e	conj-c	O
 nos	pron-pers	O
-«momentos-	n	O
+«	«	O
+momentos-	n	O
 ''	n	O
-Chávez»	n	O
+Chávez	n	O
+»	»	O
 .	.	O
 
 Os	n	O
@@ -26815,7 +26873,9 @@ estudar	v-inf	O
 novas	adj	O
 fórmulas	n	O
 para	prp	O
-«comunicar»	n	O
+«	«	O
+comunicar	v-inf	O
+»	»	O
 ,	,	O
 que	pron-indp	O
 a	art	O
@@ -26930,7 +26990,9 @@ entre	prp	O
 sectores	n	O
 conservadores	n	O
 e	conj-c	O
-«modernizadores»	n	O
+«	«	O
+modernizadores	n	O
+»	»	O
 ,	,	O
 o	art	O
 que	pron-indp	O
@@ -26964,7 +27026,8 @@ as	art	O
 «	«	O
 Novas	n	B-OBRA_PLANO
 Oportunidades	n	I-OBRA_PLANO
-».	n	O
+»	»	O
+.	.	O
 
 O	n	O
 que	pron-indp	O
@@ -28640,7 +28703,8 @@ e	conj-c	O
 sentido	n	O
 de	prp	O
 Estado	n	O
-.»	n	O
+.	.	O
+»	»	O
 
 Habituei-me	n	O
 ,	,	O
@@ -28713,7 +28777,8 @@ dizer	v-inf	O
 a	art	O
 soluçar	n	O
 :	n	O
-«Ele	n	O
+«	«	O
+Ele	n	O
 vai	v-fin	O
 apresentar	v-inf	O
 uma	art	O
@@ -28847,7 +28912,9 @@ e	conj-c	O
 não	adv	O
 se	pron-pers	O
 diga	v-fin	O
-«treuze»	n	O
+«	«	O
+treuze	n	O
+»	»	O
 ,	,	O
 é-se	n	O
 barão.	n	O
@@ -28875,7 +28942,8 @@ escreveu	v-fin	O
 no	pron-pers	O
 PÚBLICO	n	B-LOCAL_VIRTUAL
 que	pron-indp	O
-«o	n	O
+«	«	O
+o	art	O
 problema	n	O
 do	n	O
 PSD	n	B-ORGANIZACAO_INSTITUICAO
@@ -28890,7 +28958,9 @@ ou	conj-c	O
 dois	num	O
 dentro	adv	O
 de	prp	O
-si».	n	O
+si	pron-pers	O
+»	»	O
+.	.	O
 
 Não	n	O
 podia	v-fin	O
@@ -29358,7 +29428,8 @@ A	n	O
 Vice-Reitora	n	B-PESSOA_CARGO
 ,	,	O
 Isabel	n	B-PESSOA_INDIVIDUAL
-P.	n	I-PESSOA_INDIVIDUAL
+P	n	I-PESSOA_INDIVIDUAL
+.	.	I-PESSOA_INDIVIDUAL
 Martins	n	I-PESSOA_INDIVIDUAL
 .	.	O
 
@@ -30302,13 +30373,15 @@ agência	n	O
 Lusa	n	B-PESSOA_GRUPOMEMBRO
 ,	,	O
 acompanhando	v-ger	O
-«o	n	O
+«	«	O
+o	art	O
 percurso	n	O
 da	n	O
 decadência	n	O
 ,	,	O
 da	n	O
-perdição»	n	O
+perdição	n	O
+»	»	O
 ,	,	O
 do	n	O
 autarca	n	O
@@ -30326,7 +30399,8 @@ de	prp	O
 um	art	O
 favor.	n	O
 
-«Neste	n	O
+«	«	O
+Neste	n	O
 caso	conj-s	O
 a	art	O
 personagem	n	O
@@ -30344,7 +30418,8 @@ toda	pron-det	O
 a	art	O
 dignidade	n	O
 e	conj-c	O
-reputação»	n	O
+reputação	n	O
+»	»	O
 ,	,	O
 compara	v-fin	O
 António-Pedro	n	B-PESSOA_INDIVIDUAL
@@ -30355,13 +30430,16 @@ porque	conj-s	O
 é	v-fin	O
 um	art	O
 tema	n	O
-«recorrente	n	O
+«	«	O
+recorrente	n	O
 na	pron-pers	O
 literatura	n	O
 e	conj-c	O
 na	pron-pers	O
 ficção	n	O
-ocidental».	n	O
+ocidental	adj	O
+»	»	O
+.	.	O
 
 «	«	O
 Call	n	B-OBRA_REPRODUZIDA
@@ -32408,7 +32486,7 @@ gratuito	adj	O
 e	conj-c	O
 à	n	O
 Wikipedia	n	B-ABSTRACCAO_IDEIA
-``	n	O
+''	n	O
 ,	,	O
 diz	v-fin	O
 o	art	O
@@ -32457,7 +32535,7 @@ até	adv	O
 na	pron-pers	O
 República	n	B-LOCAL_HUMANO
 Tcheca	n	I-LOCAL_HUMANO
-``	n	O
+''	n	O
 ,	,	O
 afirma	v-fin	O
 Fenger	n	B-PESSOA_INDIVIDUAL
@@ -32514,7 +32592,7 @@ site	n	O
 do	n	O
 Creative	n	B-ORGANIZACAO_INSTITUICAO
 Commons	n	I-ORGANIZACAO_INSTITUICAO
-``	n	O
+''	n	O
 ,	,	O
 diz	v-fin	O
 Christiansen	n	B-PESSOA_INDIVIDUAL
@@ -32531,7 +32609,7 @@ o	art	O
 Free	n	B-COISA_CLASSE
 Beer	n	I-COISA_CLASSE
 Kit	n	I-COISA_CLASSE
-``	n	O
+''	n	O
 ,	,	O
 uma	art	O
 mesa	n	O
@@ -32562,7 +32640,7 @@ O	n	B-ACONTECIMENTO_EVENTO
 Mundo	n	I-ACONTECIMENTO_EVENTO
 da	n	I-ACONTECIMENTO_EVENTO
 Cerveja	n	I-ACONTECIMENTO_EVENTO
-``	n	O
+''	n	O
 ,	,	O
 com	prp	O
 os	art	O
@@ -32594,7 +32672,7 @@ máquinas	n	O
 ``	n	O
 Counter-Game	n	B-COISA_CLASSE
 Strategies	n	I-COISA_CLASSE
-``	n	O
+''	n	O
 (	n	O
 estratégias	n	O
 de	prp	O
@@ -32722,7 +32800,7 @@ Free	n	B-ABSTRACCAO_NOME
 Beer	n	I-ABSTRACCAO_NOME
 Pub	n	I-ABSTRACCAO_NOME
 Quiz	n	I-ABSTRACCAO_NOME
-``	n	O
+''	n	O
 ,	,	O
 na	pron-pers	O
 qual	pron-det	O
@@ -33142,6 +33220,7 @@ a	art	O
 sua	pron-det	O
 mãe	n	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Maria	n	I-PESSOA_INDIVIDUAL
 Magdalena	n	I-PESSOA_INDIVIDUAL
 Pinheiro	n	I-PESSOA_INDIVIDUAL
@@ -33203,6 +33282,7 @@ Tia	n	B-PESSOA_INDIVIDUAL
 Anica	n	I-PESSOA_INDIVIDUAL
 (	n	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Ana	n	I-PESSOA_INDIVIDUAL
 Luísa	n	I-PESSOA_INDIVIDUAL
 Pinheiro	n	I-PESSOA_INDIVIDUAL
@@ -34140,6 +34220,7 @@ Robert	n	I-ABSTRACCAO_NOME
 Anon	n	I-ABSTRACCAO_NOME
 e	conj-c	O
 H.	n	B-ABSTRACCAO_NOME
+
 M.	n	I-ABSTRACCAO_NOME
 F.	n	I-ABSTRACCAO_NOME
 Lecher	n	I-ABSTRACCAO_NOME
@@ -34387,7 +34468,8 @@ Editora	n	I-ABSTRACCAO_NOME
 Oficinas	n	I-ABSTRACCAO_NOME
 a	prp	I-ABSTRACCAO_NOME
 Vapor	n	I-ABSTRACCAO_NOME
-».	n	O
+»	»	O
+.	.	O
 
 A	n	B-TEMPO_TEMPO_CALEND
 partir	v-inf	I-TEMPO_TEMPO_CALEND
@@ -36255,7 +36337,7 @@ uns	pron-det	O
 
 (	n	O
 ``	n	O
-``	n	B-OBRA_REPRODUZIDA
+''	n	B-OBRA_REPRODUZIDA
 Os	n	I-OBRA_REPRODUZIDA
 alienígenas	n	I-OBRA_REPRODUZIDA
 estão	v-fin	I-OBRA_REPRODUZIDA
@@ -38816,8 +38898,10 @@ Islão	n	B-ORGANIZACAO_INSTITUICAO
 lançou	v-fin	O
 contra	prp	O
 os	art	O
-«não	n	O
-crentes»	n	O
+«	«	O
+não	adv	O
+crentes	adj	O
+»	»	O
 --	n	O
 -	-	O
 sejam	v-fin	O
@@ -38983,7 +39067,9 @@ pior	adj	O
 que	pron-indp	O
 as	art	O
 caricaturas	n	O
-«blasfemas»	n	O
+«	«	O
+blasfemas	n	O
+»	»	O
 para	prp	O
 o	art	O
 Islão	n	B-ABSTRACCAO_DISCIPLINA
@@ -39201,8 +39287,11 @@ arma	n	O
 de	prp	O
 arremesso	n	O
 contra	prp	O
-«os	n	O
-infiéis».	n	O
+«	«	O
+os	art	O
+infiéis	n	O
+»	»	O
+.	.	O
 
 [	[	O
 ...	n	O
@@ -39505,7 +39594,9 @@ além	adv	O
 :	n	O
 a	prp	O
 nossa	pron-det	O
-«diplomacia»	n	O
+«	«	O
+diplomacia	n	O
+»	»	O
 não	adv	O
 tem	v-fin	O
 feito	v-pcp	O
@@ -39655,7 +39746,8 @@ incrível	adj	O
 do	n	O
 Mundial	n	B-ACONTECIMENTO_ORGANIZADO
 até	prp	O
-agora»	n	O
+agora	adv	O
+»	»	O
 e	conj-c	O
 ,	,	O
 de	prp	O
@@ -39684,7 +39776,9 @@ que	pron-indp	O
 se	pron-pers	O
 vê	v-fin	O
 um	art	O
-«gigante»	n	O
+«	«	O
+gigante	n	O
+»	»	O
 de	prp	O
 1,84	n	B-VALOR_QUANTIDADE
 metros	n	I-VALOR_QUANTIDADE
@@ -39715,13 +39809,17 @@ Logo	n	O
 ele	pron-pers	O
 ,	,	O
 que	pron-indp	O
-«é	n	O
+«	«	O
+é	v-fin	O
 difícil	adj	O
 ir	v-inf	O
 às	n	O
-lágrimas».	n	O
+lágrimas	n	O
+»	»	O
+.	.	O
 
-«Senti	n	O
+«	«	O
+Senti	n	O
 tanta	pron-det	O
 coisa.	n	O
 
@@ -39765,14 +39863,16 @@ compuseram-se.	n	O
 
 Deu-me	n	O
 muitas	pron-det	O
-ganas»	n	O
+ganas	n	O
+»	»	O
 ,	,	O
 explicou	v-fin	O
 Cordeiro	n	B-PESSOA_INDIVIDUAL
 ,	,	O
 prosseguindo	n	O
 :	n	O
-«Assim	n	O
+«	«	O
+Assim	n	O
 como	adv	O
 a	art	O
 Nova	n	B-PESSOA_GRUPOMEMBRO
@@ -39790,7 +39890,8 @@ com	prp	O
 '	'	O
 A	n	B-OBRA_REPRODUZIDA
 Portuguesa	n	I-OBRA_REPRODUZIDA
-'.»	n	O
+'.	n	O
+»	»	O
 
 Esforço	n	O
 
@@ -39815,7 +39916,8 @@ veterinário	n	O
 e	conj-c	O
 inspector	n	O
 sanitário	adj	O
-«saía	n	O
+«	«	O
+saía	v-fin	O
 do	n	O
 trabalho	n	O
 ``	n	O
@@ -39837,9 +39939,11 @@ da	n	I-TEMPO_TEMPO_CALEND
 uma	art	I-TEMPO_TEMPO_CALEND
 da	n	I-TEMPO_TEMPO_CALEND
 madrugada	n	I-TEMPO_TEMPO_CALEND
-».	n	O
+»	»	O
+.	.	O
 
-«Aconteceu	n	O
+«	«	O
+Aconteceu	n	O
 ter	v-inf	O
 de	prp	O
 me	pron-pers	O
@@ -39849,7 +39953,8 @@ levantar	v-inf	O
 horas	n	I-TEMPO_TEMPO_CALEND
 para	prp	O
 ir	v-inf	O
-trabalhar»	n	O
+trabalhar	v-inf	O
+»	»	O
 ,	,	O
 conta.	n	O
 
@@ -39874,7 +39979,8 @@ da	n	O
 carreira	n	O
 internacional.	n	O
 
-«É	n	O
+«	«	O
+É	n	O
 complicado	v-pcp	O
 conciliar	v-inf	O
 a	art	O
@@ -39883,7 +39989,8 @@ Nacional	n	O
 com	prp	O
 a	art	O
 carreira	n	O
-profissional»	n	O
+profissional	adj	O
+»	»	O
 ,	,	O
 justifica	v-fin	O
 o	art	O
@@ -39901,7 +40008,8 @@ de	prp	I-LOCAL_VIRTUAL
 Honra	n	I-LOCAL_VIRTUAL
 .	.	O
 
-«Há	n	O
+«	«	O
+Há	n	O
 muitas	pron-det	O
 dificuldades.	n	O
 
@@ -39926,7 +40034,8 @@ Maio	n	I-TEMPO_TEMPO_CALEND
 ,	,	O
 e	conj-c	O
 isso	pron-indp	O
-notou-se»	n	O
+notou-se	n	O
+»	»	O
 ,	,	O
 explicou	v-fin	O
 com	prp	O
@@ -39945,9 +40054,13 @@ trazer-nos	n	O
 um	art	O
 Cordeiro	n	B-PESSOA_INDIVIDUAL
 mais	adv	O
-«chorão».	n	O
+«	«	O
+chorão	n	O
+»	»	O
+.	.	O
 
-«Vai	n	O
+«	«	O
+Vai	n	O
 haver	v-inf	O
 choradeira	n	O
 no	pron-pers	O
@@ -39958,7 +40071,8 @@ fim	n	O
 ,	,	O
 o	art	O
 tempo	n	O
-todo»	n	O
+todo	pron-det	O
+»	»	O
 ,	,	O
 promete	v-fin	O
 ,	,	O
@@ -39969,12 +40083,15 @@ pilar	n	O
 ,	,	O
 que	pron-indp	O
 vai	v-fin	O
-«continuar	n	O
+«	«	O
+continuar	v-inf	O
 na	pron-pers	O
 Académica	n	B-ORGANIZACAO_INSTITUICAO
 enquanto	adv	O
 der	v-fin	O
-gozo».	n	O
+gozo	n	O
+»	»	O
+.	.	O
 
 
 
@@ -40035,8 +40152,10 @@ uma	art	O
 pálida	n	O
 imitação	n	O
 dos	prop	O
-«red	n	O
-devils»	n	O
+«	«	O
+red	adj	O
+devils	n	O
+»	»	O
 de	prp	O
 um	art	O
 passado	n	O
@@ -40234,7 +40353,9 @@ foi	v-fin	O
 uma	art	O
 dessas	n	O
 inesperadas	n	O
-«revoluções»	n	O
+«	«	O
+revoluções	n	O
+»	»	O
 na	pron-pers	O
 formação	n	O
 da	n	O
@@ -40283,7 +40404,9 @@ Nereu	n	B-PESSOA_INDIVIDUAL
 ,	,	O
 ou	conj-c	O
 pela	n	O
-«épica»	n	O
+«	«	O
+épica	n	O
+»	»	O
 contratação	n	O
 de	prp	O
 Moretto	n	B-PESSOA_INDIVIDUAL
@@ -40840,7 +40963,9 @@ policial-mediático	n	O
 para	prp	O
 ouvir	v-inf	O
 o	art	O
-«suspeitíssimo»	n	O
+«	«	O
+suspeitíssimo	n	O
+»	»	O
 Pinto	n	B-PESSOA_INDIVIDUAL
 da	n	I-PESSOA_INDIVIDUAL
 Costa	n	I-PESSOA_INDIVIDUAL
@@ -40882,7 +41007,8 @@ de	prp	O
 investigação	n	O
 ,	,	O
 a	art	O
-«task	n	O
+«	«	O
+task	n	O
 force	n	O
 »	»	O
 judicial	adj	O
@@ -40923,7 +41049,9 @@ nada.	n	O
 
 A	n	O
 suspeita	v-fin	O
-«gravíssima»	n	O
+«	«	O
+gravíssima	adj	O
+»	»	O
 mantém-se	n	O
 rigorosamente	adv	O
 a	art	O
@@ -40977,7 +41105,9 @@ subornado	n	O
 com	prp	O
 recurso	n	O
 a	prp	O
-«meninas»	n	O
+«	«	O
+meninas	n	O
+»	»	O
 o	art	O
 árbitro	n	O
 do	n	O
@@ -40987,6 +41117,7 @@ Dragão	n	B-LOCAL_HUMANO
 contra	prp	O
 o	art	O
 E.	n	B-PESSOA_GRUPOMEMBRO
+
 Amadora	n	I-PESSOA_GRUPOMEMBRO
 ,	,	O
 em	prp	O
@@ -43700,8 +43831,7 @@ Mas	n	O
 George	n	B-PESSOA_INDIVIDUAL
 Steiner	n	I-PESSOA_INDIVIDUAL
 (	n	O
-G.S	n	B-PESSOA_INDIVIDUAL
-.	.	I-PESSOA_INDIVIDUAL
+G.S.	n	B-PESSOA_INDIVIDUAL
 )	n	O
 ,	,	O
 proferiu	n	O
@@ -43748,8 +43878,7 @@ Schindler	n	I-PESSOA_INDIVIDUAL
 
 Por	n	O
 mim	pron-pers	O
-G.S	n	B-PESSOA_INDIVIDUAL
-.	.	I-PESSOA_INDIVIDUAL
+G.S.	n	B-PESSOA_INDIVIDUAL
 que	pron-indp	O
 fique	v-fin	O
 pela	n	O
@@ -43817,8 +43946,7 @@ no	pron-pers	O
 mundo	n	O
 ...	n	O
 
-G.S	n	B-PESSOA_INDIVIDUAL
-.	.	I-PESSOA_INDIVIDUAL
+G.S.	n	B-PESSOA_INDIVIDUAL
 ,	,	O
 enquanto	adv	O
 aufere	n	O
@@ -45690,7 +45818,8 @@ ele	pron-pers	O
 me	pron-pers	O
 advertiu.	n	O
 
-«Põe-te	n	O
+«	«	O
+Põe-te	n	O
 com	prp	O
 brincadeiras	n	O
 e	conj-c	O
@@ -45721,7 +45850,8 @@ palavras	n	O
 exactas	adj	O
 dele.	n	O
 
-«Tinha	n	O
+«	«	O
+Tinha	n	O
 razão	n	O
 ,	,	O
 Herman	n	B-PESSOA_INDIVIDUAL
@@ -45946,6 +46076,7 @@ que	conj-s	O
 criticar	v-inf	O
 o	art	O
 prof.	n	B-PESSOA_INDIVIDUAL
+
 Marcelo	n	I-PESSOA_INDIVIDUAL
 é	v-fin	O
 fazer	v-inf	O
@@ -45957,6 +46088,7 @@ Sim	n	B-ABSTRACCAO_DISCIPLINA
 O	n	O
 próprio	adj	O
 prof.	n	B-PESSOA_INDIVIDUAL
+
 Marcelo	n	I-PESSOA_INDIVIDUAL
 diz	v-fin	O
 que	conj-s	O
@@ -45996,15 +46128,18 @@ sketch	n	O
 sobre	prp	O
 o	art	O
 prof.	n	B-PESSOA_INDIVIDUAL
+
 Marcelo	n	I-PESSOA_INDIVIDUAL
 ,	,	O
 diz	v-fin	O
 que	conj-s	O
 ,	,	O
-«em	n	O
+«	«	O
+em	prp	O
 plena	adj	O
 campanha	n	O
-eleitoral»	n	O
+eleitoral	adj	O
+»	»	O
 quisemos	n	O
 ´ridicularizar	n	O
 os	art	O
@@ -46016,12 +46151,15 @@ lados	n	O
 em	prp	O
 confronto	n	O
 no	pron-pers	O
-referendo».	n	O
+referendo	n	O
+»	»	O
+.	.	O
 
 Primeiro	n	O
 ,	,	O
 o	art	O
 prof.	n	B-PESSOA_INDIVIDUAL
+
 Marcelo	n	I-PESSOA_INDIVIDUAL
 não	adv	O
 representa	v-fin	O
@@ -46049,6 +46187,7 @@ rábula	n	O
 sobre	prp	O
 o	art	O
 prof.	n	B-PESSOA_INDIVIDUAL
+
 Marcelo	n	I-PESSOA_INDIVIDUAL
 foi	v-fin	O
 transmitida	v-pcp	O
@@ -46076,10 +46215,12 @@ que	pron-indp	O
 fizemos	v-fin	O
 o	art	O
 sketch	n	O
-«em	n	O
+«	«	O
+em	prp	O
 plena	adj	O
 campanha	n	O
-eleitoral»	n	O
+eleitoral	adj	O
+»	»	O
 é	v-fin	O
 ,	,	O
 portanto	adv	O
@@ -46157,7 +46298,8 @@ Rodrigo	n	B-PESSOA_INDIVIDUAL
 Moita	n	I-PESSOA_INDIVIDUAL
 de	prp	I-PESSOA_INDIVIDUAL
 Deus	n	I-PESSOA_INDIVIDUAL
-.»	n	O
+.	.	O
+»	»	O
 Quero	n	O
 agradecer	v-inf	O
 ,	,	O
@@ -46452,6 +46594,7 @@ da	n	O
 praia	n	O
 de	prp	O
 S.	n	B-LOCAL_FISICO
+
 Bernardino	n	I-LOCAL_FISICO
 ;	;	O
 tinha	v-fin	O
@@ -46629,6 +46772,7 @@ dita	v-pcp	O
 praia	n	O
 de	prp	O
 S.	n	B-LOCAL_FISICO
+
 Bernardino	n	I-LOCAL_FISICO
 ,	,	O
 e	conj-c	O
@@ -46714,6 +46858,7 @@ longe	adv	O
 !	!	O
 
 S.	n	B-LOCAL_FISICO
+
 Bernardino	n	I-LOCAL_FISICO
 não	adv	O
 ia	v-fin	O
@@ -46796,6 +46941,7 @@ direcção	n	O
 ...	n	O
 em	prp	O
 S.	n	B-LOCAL_FISICO
+
 Bernardino	n	I-LOCAL_FISICO
 ,	,	O
 a	art	O
@@ -49149,7 +49295,7 @@ de	prp	I-OBRA_REPRODUZIDA
 Saint	n	I-OBRA_REPRODUZIDA
 Julien	n	I-OBRA_REPRODUZIDA
 l'Hospitalier	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 trabalhos	n	O
 ignorados	n	O
@@ -49277,7 +49423,7 @@ o	art	O
 título	n	O
 ``	n	O
 Abstraccionismo	n	B-ABSTRACCAO_NOME
-``	n	O
+''	n	O
 ,	,	O
 que	pron-indp	O
 serão	v-fin	O
@@ -49405,8 +49551,10 @@ da	n	O
 UE	n	B-ORGANIZACAO_ADMINISTRACAO
 e	conj-c	O
 a	art	O
-«competente	n	O
-liderança»	n	O
+«	«	O
+competente	n	O
+liderança	n	O
+»	»	O
 do	n	O
 primeiro-ministro	n	O
 ,	,	O
@@ -49498,13 +49646,15 @@ Barroso	n	I-PESSOA_INDIVIDUAL
 lembrou	v-fin	O
 que	conj-s	O
 o	art	O
-«sucesso	n	O
+«	«	O
+sucesso	n	O
 político	adj	O
 tem	v-fin	O
 agora	adv	O
 de	prp	O
 ser	v-inf	O
-concretizado»	n	O
+concretizado	v-pcp	O
+»	»	O
 com	prp	O
 a	art	O
 ratificação	n	O
@@ -49764,19 +49914,19 @@ na	pron-pers	O
 compilação	n	O
 ``	n	O
 Feedback	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 incluiu	n	O
 os	art	O
 temas	n	O
 ``	n	O
 Senhores	n	B-OBRA_REPRODUZIDA
 Politicos	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 Não	n	B-OBRA_REPRODUZIDA
 Vales	n	I-OBRA_REPRODUZIDA
 Nada	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 e	conj-c	O
 ``	n	O
 Está	n	B-OBRA_REPRODUZIDA
@@ -49784,7 +49934,7 @@ a	prp	I-OBRA_REPRODUZIDA
 andar	v-inf	I-OBRA_REPRODUZIDA
 de	prp	I-OBRA_REPRODUZIDA
 Mota	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 (	n	O
 um	art	O
 instrumental	n	O
@@ -49795,22 +49945,22 @@ instrumental	n	O
 Tu	n	B-OBRA_REPRODUZIDA
 ò	n	I-OBRA_REPRODUZIDA
 Bófia	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Não	n	B-OBRA_REPRODUZIDA
 Vales	n	I-OBRA_REPRODUZIDA
 Nada	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Angústia	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 ``	n	O
 Senhores	n	B-OBRA_REPRODUZIDA
 Politicos	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 eram	v-fin	O
 temas	n	O
 fortíssimos	n	O
@@ -49836,7 +49986,7 @@ do	n	O
 álbum	n	O
 ``	n	O
 Censurados	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 1990	num	B-TEMPO_TEMPO_CALEND
 .	.	O
 
@@ -49896,7 +50046,7 @@ o	art	O
 album	n	O
 ``	n	O
 Confusão	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 e	conj-c	O
 passam	v-fin	O
 os	art	B-TEMPO_DURACAO
@@ -49911,7 +50061,7 @@ sai	v-fin	O
 o	art	O
 ``	n	O
 Sopa	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 com	prp	O
 o	art	O
 single	n	O
@@ -49931,7 +50081,7 @@ Estou	n	B-OBRA_REPRODUZIDA
 agarrado	v-pcp	I-OBRA_REPRODUZIDA
 a	prp	I-OBRA_REPRODUZIDA
 ti	pron-pers	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 .	.	O
 
 O	n	B-TEMPO_TEMPO_CALEND
@@ -49957,7 +50107,7 @@ Afonso	n	I-PESSOA_INDIVIDUAL
 Filhos	n	B-OBRA_REPRODUZIDA
 da	n	I-OBRA_REPRODUZIDA
 Madrugada	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 com	prp	O
 a	art	O
 reedição	n	O
@@ -49968,7 +50118,7 @@ O	n	B-OBRA_REPRODUZIDA
 que	pron-indp	I-OBRA_REPRODUZIDA
 faz	v-fin	I-OBRA_REPRODUZIDA
 falta	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 .	.	O
 
 Em	n	B-TEMPO_TEMPO_CALEND
@@ -49978,7 +50128,7 @@ editora	n	O
 ``	n	O
 El	n	B-ORGANIZACAO_EMPRESA
 Tatu	n	I-ORGANIZACAO_EMPRESA
-``	n	O
+''	n	O
 de	prp	O
 Tim	n	B-PESSOA_INDIVIDUAL
 reedita	n	O
@@ -49986,11 +50136,11 @@ os	art	O
 albuns	n	O
 ``	n	O
 Censurados	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 e	conj-c	O
 ``	n	O
 Sopa	n	B-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 .	.	O
 
 Em	n	B-TEMPO_TEMPO_CALEND
@@ -50019,7 +50169,7 @@ XX	n	B-OBRA_REPRODUZIDA
 Anos	n	I-OBRA_REPRODUZIDA
 XX	n	I-OBRA_REPRODUZIDA
 Bandas	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 .	.	O
 
 Participaram	n	O
@@ -50064,7 +50214,7 @@ banda	n	O
 Censurados	n	B-OBRA_REPRODUZIDA
 Até	n	I-OBRA_REPRODUZIDA
 Morrer	n	I-OBRA_REPRODUZIDA
-``	n	O
+''	n	O
 ,	,	O
 escrita	v-pcp	O
 por	prp	O
@@ -50092,6 +50242,7 @@ Covilhã	n	B-LOCAL_HUMANO
 ,	,	O
 1450	n	B-TEMPO_TEMPO_CALEND
 ?	?	I-TEMPO_TEMPO_CALEND
+
 --	n	I-TEMPO_TEMPO_CALEND
 -	-	I-TEMPO_TEMPO_CALEND
 1530	n	I-TEMPO_TEMPO_CALEND
@@ -50129,6 +50280,7 @@ seu	pron-det	O
 amo	v-fin	O
 ,	,	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Juan	n	I-PESSOA_INDIVIDUAL
 de	prp	I-PESSOA_INDIVIDUAL
 Guzman	n	I-PESSOA_INDIVIDUAL
@@ -50175,6 +50327,7 @@ Covilhã	n	I-PESSOA_INDIVIDUAL
 ,	,	O
 convida-o	n	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Juan	n	I-PESSOA_INDIVIDUAL
 de	prp	I-PESSOA_INDIVIDUAL
 Gusman	n	I-PESSOA_INDIVIDUAL
@@ -50206,6 +50359,7 @@ em	prp	B-TEMPO_TEMPO_CALEND
 ,	,	O
 acompanha	v-fin	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Juan	n	I-PESSOA_INDIVIDUAL
 a	prp	O
 Lisboa	n	B-LOCAL_HUMANO
@@ -50220,6 +50374,7 @@ Portugal	n	B-LOCAL_HUMANO
 .	.	O
 
 D.	n	B-PESSOA_INDIVIDUAL
+
 Afonso	n	I-PESSOA_INDIVIDUAL
 simpatiza	n	O
 com	prp	O
@@ -50237,6 +50392,7 @@ língua	n	O
 árabe	adj	O
 e	conj-c	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Juan	n	I-PESSOA_INDIVIDUAL
 cede	v-fin	O
 a	prp	O
@@ -50266,6 +50422,7 @@ de	prp	O
 esporas	n	O
 de	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Afonso	n	I-PESSOA_INDIVIDUAL
 V	n	I-PESSOA_INDIVIDUAL
 .	.	O
@@ -50291,6 +50448,7 @@ Em	n	B-TEMPO_TEMPO_CALEND
 1476	n	I-TEMPO_TEMPO_CALEND
 acompanha	v-fin	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Afonso	n	I-PESSOA_INDIVIDUAL
 V	n	I-PESSOA_INDIVIDUAL
 na	pron-pers	O
@@ -50303,6 +50461,7 @@ tentativa	n	O
 fracassada	v-pcp	O
 de	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 João	n	I-PESSOA_INDIVIDUAL
 de	prp	O
 reclamar	v-inf	O
@@ -50329,6 +50488,7 @@ em	prp	O
 iria	v-fin	O
 acompanhar	v-inf	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Afonso	n	I-PESSOA_INDIVIDUAL
 na	pron-pers	O
 jornada	n	O
@@ -50357,6 +50517,7 @@ rejeitado.	n	O
 Entretanto	n	O
 ,	,	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Afonso	n	I-PESSOA_INDIVIDUAL
 abdica	n	O
 do	n	O
@@ -50364,6 +50525,7 @@ trono	n	O
 ,	,	O
 para	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 João	n	I-PESSOA_INDIVIDUAL
 II	n	I-PESSOA_INDIVIDUAL
 .	.	O
@@ -50395,6 +50557,7 @@ que	pron-indp	O
 conspiravam	n	O
 contra	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 João	n	I-PESSOA_INDIVIDUAL
 II	n	I-PESSOA_INDIVIDUAL
 ,	,	O
@@ -50402,6 +50565,7 @@ conseguindo	v-ger	O
 identificar	v-inf	O
 o	art	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Diogo	n	I-PESSOA_INDIVIDUAL
 ,	,	O
 duque	n	B-PESSOA_CARGO
@@ -50409,6 +50573,7 @@ de	prp	I-PESSOA_CARGO
 Viseu	n	I-PESSOA_CARGO
 e	conj-c	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Garcia	n	I-PESSOA_INDIVIDUAL
 de	prp	I-PESSOA_INDIVIDUAL
 Meneses	n	I-PESSOA_INDIVIDUAL
@@ -50611,9 +50776,11 @@ entusiasmada.	n	O
 Vasco	n	B-PESSOA_INDIVIDUAL
 Uva	n	I-PESSOA_INDIVIDUAL
 :	n	O
-«Honrámos	n	O
+«	«	O
+Honrámos	n	O
 o	art	O
-país»	n	O
+país	n	O
+»	»	O
 
 Um	n	O
 dos	prop	O
@@ -50699,6 +50866,7 @@ Escócia	n	B-PESSOA_GRUPOMEMBRO
 ,	,	O
 em	prp	O
 St.	n	B-LOCAL_HUMANO
+
 Etienne	n	I-LOCAL_HUMANO
 .	.	O
 
@@ -52749,7 +52917,8 @@ Concelhos	n	I-OBRA_PLANO
 Portugueses	n	I-OBRA_PLANO
 --	n	I-OBRA_PLANO
 1995/2005	n	I-OBRA_PLANO
-».	n	O
+»	»	O
+.	.	O
 
 Em	n	O
 Portugal	n	B-LOCAL_HUMANO
@@ -53032,6 +53201,7 @@ preparação	n	O
 dirigido	v-pcp	O
 pelo	n	O
 sr.	n	B-PESSOA_INDIVIDUAL
+
 Alfredo	n	I-PESSOA_INDIVIDUAL
 Silva	n	I-PESSOA_INDIVIDUAL
 ,	,	O
@@ -53083,8 +53253,7 @@ feito	v-pcp	O
 alguma	pron-det	O
 coisa	n	O
 na	pron-pers	O
-A.C.M	n	B-ORGANIZACAO_INSTITUICAO
-.	.	I-ORGANIZACAO_INSTITUICAO
+A.C.M.	n	B-ORGANIZACAO_INSTITUICAO
 que	pron-indp	O
 por	prp	O
 não	adv	O
@@ -53131,12 +53300,13 @@ propaganda	n	O
 juntamente	adv	O
 com	prp	O
 os	art	O
-srs	n	B-PESSOA_INDIVIDUAL
-.	.	I-PESSOA_INDIVIDUAL
+srs.	n	B-PESSOA_INDIVIDUAL
+
 Eduardo	n	I-PESSOA_INDIVIDUAL
 Moreira	n	I-PESSOA_INDIVIDUAL
 ,	,	O
 Dr.	n	B-PESSOA_INDIVIDUAL
+
 João	n	I-PESSOA_INDIVIDUAL
 Gomes	n	I-PESSOA_INDIVIDUAL
 de	prp	I-PESSOA_INDIVIDUAL
@@ -53452,7 +53622,7 @@ até	prp	B-TEMPO_TEMPO_CALEND
 ao	prp	I-TEMPO_TEMPO_CALEND
 último	adj	I-TEMPO_TEMPO_CALEND
 dia	n	I-TEMPO_TEMPO_CALEND
-``	n	O
+''	n	O
 .	.	O
 
 O	n	O
@@ -54680,14 +54850,16 @@ como	adv	O
 quando	adv	O
 se	pron-pers	O
 fazem	v-fin	O
-«revoluções	n	O
+«	«	O
+revoluções	n	O
 pela	n	O
 metade	n	O
 cava-se	n	O
 o	art	O
 seu	pron-det	O
 próprio	adj	O
-túmulo»	n	O
+túmulo	n	O
+»	»	O
 (	n	O
 dizia	v-fin	O
 Saint	n	B-PESSOA_INDIVIDUAL
@@ -54781,7 +54953,9 @@ partidos	n	O
 que	pron-indp	O
 atingem	v-fin	O
 uma	art	O
-«stasis»	n	O
+«	«	O
+stasis	n	O
+»	»	O
 interna	adj	O
 onde	adv	O
 que	conj-s	O
@@ -54894,7 +55068,9 @@ partido	n	O
 cuja	pron-det	O
 força	n	O
 é	v-fin	O
-«civil»	n	O
+«	«	O
+civil	adj	O
+»	»	O
 ,	,	O
 mesmo	adv	O
 que	conj-s	O
@@ -55100,6 +55276,7 @@ o	art	O
 título	n	O
 de	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 João	n	I-PESSOA_INDIVIDUAL
 IV	n	I-PESSOA_INDIVIDUAL
 (	n	O
@@ -57025,8 +57202,7 @@ Holcim	n	B-ORGANIZACAO_EMPRESA
 Brasil	n	I-ORGANIZACAO_EMPRESA
 )	n	I-ORGANIZACAO_EMPRESA
 S.	n	I-ORGANIZACAO_EMPRESA
-A	n	I-ORGANIZACAO_EMPRESA
-.	.	I-ORGANIZACAO_EMPRESA
+A.	n	I-ORGANIZACAO_EMPRESA
 
 Vitae	n	B-ORGANIZACAO_INSTITUICAO
 --	n	O
@@ -58126,6 +58302,7 @@ Pedro	n	I-PESSOA_INDIVIDUAL
 I	n	I-PESSOA_INDIVIDUAL
 e	conj-c	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Pedro	n	I-PESSOA_INDIVIDUAL
 II	n	I-PESSOA_INDIVIDUAL
 e	conj-c	O
@@ -58164,6 +58341,7 @@ de	prp	O
 caligrafia	n	O
 de	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Pedro	n	I-PESSOA_INDIVIDUAL
 II	n	I-PESSOA_INDIVIDUAL
 ;	;	O
@@ -59342,6 +59520,7 @@ Bragança	n	I-PESSOA_CARGO
 pediu	v-fin	O
 a	prp	O
 D.	n	B-PESSOA_INDIVIDUAL
+
 Manuel	n	I-PESSOA_INDIVIDUAL
 uma	art	O
 recompensa	n	O
@@ -60613,7 +60792,8 @@ Tsunamis	n	I-OBRA_PLANO
 e	conj-c	O
 afirmou	v-fin	O
 que	conj-s	O
-«A	n	O
+«	«	O
+A	n	O
 Comissão	n	B-ORGANIZACAO_ADMINISTRACAO
 é	v-fin	O
 convidada	v-pcp	O
@@ -60642,7 +60822,8 @@ Mediterrâneo	n	B-LOCAL_FISICO
 e	conj-c	O
 o	art	O
 Atlântico	n	B-LOCAL_FISICO
-».	n	O
+»	»	O
+.	.	O
 
 Mais	n	O
 recentemente	adv	O
@@ -61457,8 +61638,10 @@ poderiam	v-fin	O
 ser	v-inf	O
 utilizados	v-pcp	O
 como	adv	O
-«último	n	O
-recurso»	n	O
+«	«	O
+último	adj	O
+recurso	n	O
+»	»	O
 ,	,	O
 após	prp	O
 esgotamento	n	O
@@ -61590,7 +61773,8 @@ do	n	O
 Conselho	n	B-ORGANIZACAO_ADMINISTRACAO
 em	prp	O
 matéria	n	O
-«de	n	O
+«	«	O
+de	prp	O
 prevenção	n	O
 ,	,	O
 de	prp	O
@@ -61602,10 +61786,12 @@ de	prp	O
 resposta	n	O
 a	prp	O
 atentados	n	O
-terroristas»	n	O
+terroristas	adj	O
+»	»	O
 e	conj-c	O
 o	art	O
-«programa	n	O
+«	«	O
+programa	n	O
 de	prp	O
 solidariedade	n	O
 da	n	O
@@ -61831,7 +62017,9 @@ inclusão	n	O
 do	n	O
 sector	n	O
 do	n	O
-«nuclear»	n	O
+«	«	O
+nuclear	adj	O
+»	»	O
 no	pron-pers	O
 âmbito	n	O
 da	n	O
@@ -61917,7 +62105,8 @@ telemóveis	n	O
 que	pron-indp	O
 criaram	v-fin	O
 uma	art	O
-joint-venture»	n	O
+joint-venture	n	O
+»	»	O
 para	prp	O
 estimular	v-inf	O
 o	art	O
@@ -62069,7 +62258,7 @@ obra	n	O
 ``	n	O
 Guaraná	n	B-OBRA_ARTE
 Power	n	I-OBRA_ARTE
-``	n	O
+''	n	O
 ,	,	O
 do	n	O
 coletivo	adj	O
@@ -62185,7 +62374,7 @@ pagam	v-fin	O
 R	n	B-VALOR_MOEDA
 $	n	I-VALOR_MOEDA
 7	num	I-VALOR_MOEDA
-``	n	O
+''	n	O
 ,	,	O
 afirmou	v-fin	O
 Bjornstjerne	n	B-PESSOA_INDIVIDUAL
@@ -62731,7 +62920,8 @@ próximo	adj	I-TEMPO_TEMPO_CALEND
 ano	n	I-TEMPO_TEMPO_CALEND
 .	.	O
 
-«Aprovámos	n	O
+«	«	O
+Aprovámos	n	O
 o	art	O
 decreto	n	O
 que	pron-indp	O
@@ -65649,6 +65839,7 @@ de	prp	O
 autor	n	O
 :	n	O
 M.	n	B-OBRA_REPRODUZIDA
+
 Said	n	I-OBRA_REPRODUZIDA
 Ali	n	I-OBRA_REPRODUZIDA
 (	n	O
@@ -65658,6 +65849,7 @@ Bechara	n	I-PESSOA_INDIVIDUAL
 )	n	O
 ,	,	O
 J.	n	B-OBRA_REPRODUZIDA
+
 Mattoso	n	I-OBRA_REPRODUZIDA
 Câmara	n	I-OBRA_REPRODUZIDA
 Jr.	n	I-OBRA_REPRODUZIDA
@@ -65720,6 +65912,7 @@ da	n	O
 obra	n	O
 de	prp	O
 M.	n	B-PESSOA_INDIVIDUAL
+
 Said	n	I-PESSOA_INDIVIDUAL
 Ali	n	I-PESSOA_INDIVIDUAL
 e	conj-c	O
@@ -65843,6 +66036,7 @@ entre	prp	O
 outros	pron-det	O
 ,	,	O
 M.	n	B-PESSOA_INDIVIDUAL
+
 Said	n	I-PESSOA_INDIVIDUAL
 Ali	n	I-PESSOA_INDIVIDUAL
 ,	,	O
@@ -65883,6 +66077,7 @@ terceira	adj	O
 ,	,	O
 com	prp	O
 J.	n	B-PESSOA_INDIVIDUAL
+
 Mattoso	n	I-PESSOA_INDIVIDUAL
 Câmara	n	I-PESSOA_INDIVIDUAL
 Jr.	n	I-PESSOA_INDIVIDUAL
@@ -68149,7 +68344,7 @@ Mariz	n	I-PESSOA_INDIVIDUAL
 Um	n	B-ABSTRACCAO_NOME
 processo	n	I-ABSTRACCAO_NOME
 administrativo-ideológico	n	I-ABSTRACCAO_NOME
-``	n	O
+''	n	O
 .	.	O
 
 Vale	n	O
@@ -68756,7 +68951,8 @@ de	prp	O
 maneira	n	O
 veemente	n	O
 :	n	O
-«Houve	n	O
+«	«	O
+Houve	n	O
 quem	pron-indp	O
 acoimasse	n	O
 Coelho	n	B-PESSOA_INDIVIDUAL
@@ -68793,7 +68989,9 @@ vocábulos	n	O
 empregados	n	O
 com	prp	O
 perfeita	v-pcp	O
-precisão».5	n	O
+precisão	n	O
+»	»	O
+.5	n	O
 
 Léxico	n	O
 extenso	adj	O
@@ -69200,7 +69398,8 @@ resumiu	v-fin	O
 Sílvio	n	B-PESSOA_INDIVIDUAL
 Elia	n	I-PESSOA_INDIVIDUAL
 ,	,	O
-«Pode	n	O
+«	«	O
+Pode	n	O
 ,	,	O
 por	prp	O
 conseguinte	n	O
@@ -69261,7 +69460,9 @@ padrão	n	O
 culto	n	O
 do	n	O
 idioma	n	O
-pátrio».8	n	O
+pátrio	n	O
+»	»	O
+.8	n	O
 
 Neste	n	O
 particular	adj	O

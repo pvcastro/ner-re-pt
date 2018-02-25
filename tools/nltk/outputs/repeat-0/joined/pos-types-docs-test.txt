@@ -1,8 +1,11 @@
+--DOCSTART--	n
+--SENTENCE--	n
 New	n
 York	n
 ,	,
 New	n
 York	n
+--SENTENCE--	n
 No	n
 mês	n
 passado	v-pcp
@@ -28,6 +31,7 @@ do	n
 Partido	n
 Conservador	n
 .	.
+--SENTENCE--	n
 O	n
 gesto	n
 foi	v-fin
@@ -45,6 +49,7 @@ presidencial	adj
 numa	n
 candidatura	n
 independente.	n
+--SENTENCE--	n
 E	n
 se	pron-pers
 ele	pron-pers
@@ -111,6 +116,7 @@ a	prp
 Giuliani	n
 no	pron-pers
 cargo.	n
+--SENTENCE--	n
 Este	n
 cenário	n
 deverá	v-fin
@@ -125,6 +131,7 @@ como	adv
 Boston	n
 ,	,
 St.	n
+--SENTENCE--	n
 Louis	n
 ,	,
 Chicago	n
@@ -146,6 +153,7 @@ nova-iorquinos	n
 nos	pron-pers
 assuntos	n
 presidenciais.	n
+--SENTENCE--	n
 Aliás	n
 ,	,
 os	art
@@ -187,6 +195,7 @@ ou	conj-c
 Kerry	n
 )	n
 .	.
+--SENTENCE--	n
 Como	n
 recordava	n
 um	art
@@ -255,6 +264,7 @@ Séries	n
 ``	n
 )	n
 .	.
+--SENTENCE--	n
 Para	n
 uma	art
 eventual	adj
@@ -314,6 +324,7 @@ para	prp
 gastar	v-inf
 )	n
 .	.
+--SENTENCE--	n
 Além	n
 disso	n
 ,	,
@@ -331,6 +342,7 @@ independentes	adj
 nos	pron-pers
 EUA	n
 .	.
+--SENTENCE--	n
 Os	n
 estudos	n
 dizem	v-fin
@@ -348,6 +360,7 @@ por	prp
 nenhum	pron-det
 dos	prop
 partidos.	n
+--SENTENCE--	n
 E	n
 este	pron-det
 dado	n
@@ -397,19 +410,27 @@ Câmara	n
 de	prp
 Lisboa	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Afonso	n
 de	prp
 Albuquerque	n
+--SENTENCE--	n
 Biografia	n
+--SENTENCE--	n
 Foi	n
 educado	n
 na	pron-pers
 corte	n
 de	prp
 D.	n
+--SENTENCE--	n
 Afonso	n
 V	n
 .	.
+--SENTENCE--	n
 Partiu	n
 na	pron-pers
 esquadra	n
@@ -425,12 +446,16 @@ Fernando	n
 de	prp
 Nápoles	n
 ,	,
-«para	n
+«	«
+para	prp
 reprimir	v-inf
 o	art
 furor	n
 dos	prop
-turcos».	n
+turcos	adj
+»	»
+.	.
+--SENTENCE--	n
 Esteve	n
 na	pron-pers
 expedição	n
@@ -457,6 +482,7 @@ cidade	n
 de	prp
 Larache	n
 .	.
+--SENTENCE--	n
 Foi	n
 estribeiro-mor	n
 do	n
@@ -475,6 +501,7 @@ guerras	n
 com	prp
 Castela	n
 .	.
+--SENTENCE--	n
 Esteve	n
 assim	adv
 nas	pron-pers
@@ -498,6 +525,7 @@ da	n
 guarda	n
 de	prp
 D.	n
+--SENTENCE--	n
 João	n
 II	n
 ,	,
@@ -509,6 +537,7 @@ Arzila	n
 em	prp
 1495	n
 .	.
+--SENTENCE--	n
 Em	n
 6	num
 de	prp
@@ -550,6 +579,7 @@ comerciais	adj
 com	prp
 Coulão	n
 .	.
+--SENTENCE--	n
 De	n
 regresso	n
 ao	prp
@@ -557,19 +587,22 @@ reino	n
 de	prp
 Portugal	n
 ,	,
-«mais	n
+«	«
+mais	adv
 cheio	adj
 de	prp
 glórias	n
 que	pron-indp
 de	prp
-despojos»	n
+despojos	n
+»	»
 ,	,
 foi	v-fin
 bem	adv
 acolhido	n
 por	prp
 D.	n
+--SENTENCE--	n
 Manuel	n
 que	pron-indp
 em	prp
@@ -600,6 +633,7 @@ Francisco	n
 de	prp
 Almeida	n
 .	.
+--SENTENCE--	n
 Neste	n
 posto	v-pcp
 ,	,
@@ -624,6 +658,7 @@ tributária	adj
 de	prp
 Portugal	n
 .	.
+--SENTENCE--	n
 Em	n
 1510	n
 toma	v-fin
@@ -653,6 +688,7 @@ com	prp
 a	art
 China	n
 .	.
+--SENTENCE--	n
 Em	n
 Fevereiro	n
 de	prp
@@ -670,6 +706,7 @@ tomar	v-inf
 Áden	n
 sem	prp
 êxito.	n
+--SENTENCE--	n
 Com	n
 a	prp
 construção	n
@@ -700,6 +737,7 @@ comercial	adj
 da	n
 Índia	n
 .	.
+--SENTENCE--	n
 Em	n
 1514	n
 na	pron-pers
@@ -746,6 +784,7 @@ criar	v-inf
 uma	art
 raça	n
 luso-indiana.	n
+--SENTENCE--	n
 O	n
 seu	pron-det
 prestígio	n
@@ -761,6 +800,7 @@ Português	n
 no	pron-pers
 Oriente	n
 .	.
+--SENTENCE--	n
 Jaz	n
 em	prp
 local	n
@@ -771,6 +811,7 @@ Goa	n
 na	pron-pers
 India	n
 ?	?
+--SENTENCE--	n
 Ora	n
 ,	,
 quando	adv
@@ -791,7 +832,8 @@ página	n
 23	num
 )	n
 que	pron-indp
-«foi	n
+«	«
+foi	v-fin
 amortalhado	n
 com	prp
 o	art
@@ -830,6 +872,7 @@ conquista	n
 de	prp
 Malaca	n
 .	.
+--SENTENCE--	n
 Passados	n
 51	num
 anos	n
@@ -869,7 +912,13 @@ maio	n
 de	prp
 1566	n
 com	prp
-pompa».	n
+pompa	n
+»	»
+.	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 São	n
 os	art
 produtores	n
@@ -898,6 +947,7 @@ para	prp
 um	art
 destino	n
 correctos.	n
+--SENTENCE--	n
 Para	n
 isso	pron-indp
 é	v-fin
@@ -941,6 +991,7 @@ permitam	v-fin
 rentabilizar	v-inf
 os	art
 resíduos.	n
+--SENTENCE--	n
 É	n
 neste	n
 contexto	n
@@ -955,8 +1006,7 @@ Valorização	n
 de	prp
 Resíduos	n
 ,	,
-Lda	n
-.	.
+Lda.	n
 uma	art
 empresa	n
 dinamizadora	n
@@ -973,6 +1023,7 @@ resíduos	n
 industriais	adj
 e	conj-c
 urbanos.	n
+--SENTENCE--	n
 É	n
 uma	art
 empresa	n
@@ -1012,6 +1063,7 @@ uma	art
 forma	n
 ambientalmente	n
 correcta.	n
+--SENTENCE--	n
 Oferecendo	n
 um	art
 serviço	n
@@ -1037,6 +1089,10 @@ Global	n
 de	prp
 Resíduos	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 FAZER	n
 A	n
 FESTA	n
@@ -1071,6 +1127,7 @@ a	prp
 falar	v-inf
 com	prp
 ele.	n
+--SENTENCE--	n
 A	n
 generalidade	n
 dos	prop
@@ -1086,6 +1143,7 @@ PPM	n
 ouve	v-fin
 a	prp
 minha.	n
+--SENTENCE--	n
 Enfim	n
 ,	,
 cada	pron-det
@@ -1116,6 +1174,7 @@ que	pron-indp
 o	art
 Messias	n
 .	.
+--SENTENCE--	n
 Talvez	n
 seja	v-fin
 bom	adj
@@ -1124,6 +1183,7 @@ o	art
 que	pron-indp
 se	pron-pers
 passa.	n
+--SENTENCE--	n
 O	n
 povo	n
 português	adj
@@ -1144,6 +1204,7 @@ qualquer	pron-det
 espécie	n
 de	prp
 poder.	n
+--SENTENCE--	n
 Mas	n
 a	prp
 verdade	n
@@ -1163,6 +1224,7 @@ respeita	v-fin
 a	prp
 outras	pron-det
 pessoas.	n
+--SENTENCE--	n
 Eu	n
 sei	v-fin
 que	conj-s
@@ -1190,6 +1252,7 @@ que	pron-indp
 o	art
 PPM	n
 .	.
+--SENTENCE--	n
 É	n
 uma	art
 coisa	n
@@ -1207,6 +1270,7 @@ bocadinho	n
 mais	adv
 de	prp
 poder.	n
+--SENTENCE--	n
 E	n
 essa	pron-det
 gente	n
@@ -1284,6 +1348,7 @@ Artur	n
 Jorge	n
 )	n
 .	.
+--SENTENCE--	n
 É	n
 isso	pron-indp
 que	pron-indp
@@ -1323,6 +1388,7 @@ Rebelo	n
 de	prp
 Sousa	n
 .	.
+--SENTENCE--	n
 Em	n
 tempos	n
 ,	,
@@ -1371,6 +1437,7 @@ de	prp
 intimidar	n
 sem	prp
 aparecer.	n
+--SENTENCE--	n
 Na	n
 semana	n
 passada	v-pcp
@@ -1384,6 +1451,7 @@ gostaria	v-fin
 e	conj-c
 dei-lhe	n
 razão.	n
+--SENTENCE--	n
 Decidimos	n
 fazer	v-inf
 uma	art
@@ -1394,6 +1462,7 @@ espécie	n
 dissimulada	n
 de	prp
 censura.	n
+--SENTENCE--	n
 Ontem	n
 ,	,
 uma	art
@@ -1413,6 +1482,7 @@ Provedor	n
 do	n
 Espectador	n
 .	.
+--SENTENCE--	n
 Respondi	n
 que	pron-indp
 não	adv
@@ -1420,6 +1490,7 @@ não	adv
 e	conj-c
 não	adv
 menti.	n
+--SENTENCE--	n
 Da	n
 RTP	n
 e	conj-c
@@ -1434,9 +1505,11 @@ qualquer	pron-det
 espécie	n
 de	prp
 pressão.	n
+--SENTENCE--	n
 Quem	n
 sobra	v-fin
 ?	?
+--SENTENCE--	n
 No	n
 entender	v-inf
 do	n
@@ -1454,6 +1527,7 @@ no	pron-pers
 da	n
 Armada	n
 .	.
+--SENTENCE--	n
 Fizemos	n
 uma	art
 rábula	n
@@ -1476,6 +1550,7 @@ no	pron-pers
 da	n
 Armada	n
 .	.
+--SENTENCE--	n
 Mandei	n
 uma	art
 mensagem	n
@@ -1496,6 +1571,7 @@ no	pron-pers
 da	n
 Armada	n
 .	.
+--SENTENCE--	n
 E	n
 dei-lhe	n
 razão	n
@@ -1512,7 +1588,9 @@ que	pron-indp
 ele	pron-pers
 me	pron-pers
 advertiu.	n
-«Põe-te	n
+--SENTENCE--	n
+«	«
+Põe-te	n
 com	prp
 brincadeiras	n
 e	conj-c
@@ -1542,7 +1620,9 @@ as	art
 palavras	n
 exactas	adj
 dele.	n
-«Tinha	n
+--SENTENCE--	n
+«	«
+Tinha	n
 razão	n
 ,	,
 Herman	n
@@ -1551,6 +1631,7 @@ Herman	n
 disse-lhe	n
 eu	pron-pers
 agora.	n
+--SENTENCE--	n
 Há	n
 ,	,
 no	pron-pers
@@ -1565,6 +1646,7 @@ pode	v-fin
 intrigar	n
 o	art
 leitor.	n
+--SENTENCE--	n
 Se	n
 eu	pron-pers
 já	adv
@@ -1588,21 +1670,25 @@ sentiu	v-fin
 retratado	n
 agora	adv
 ?	?
+--SENTENCE--	n
 Boa	n
 pergunta	n
 ,	,
 leitor.	n
+--SENTENCE--	n
 Vagamente	n
 insultuosa	n
 ,	,
 mas	conj-c
 boa.	n
+--SENTENCE--	n
 Eu	n
 respondo	n
 :	n
 por	prp
 duas	num
 razões.	n
+--SENTENCE--	n
 Primeiro	n
 ,	,
 porque	conj-s
@@ -1629,6 +1715,7 @@ não	adv
 são	v-fin
 as	art
 minhas.	n
+--SENTENCE--	n
 Segundo	n
 ,	,
 porque	conj-s
@@ -1661,6 +1748,7 @@ como	adv
 isso	pron-indp
 )	n
 perfilha.	n
+--SENTENCE--	n
 Aliás	n
 ,	,
 a	art
@@ -1675,6 +1763,7 @@ nem	conj-c
 é	v-fin
 só	adv
 dele.	n
+--SENTENCE--	n
 Já	n
 tinha	v-fin
 sido	v-pcp
@@ -1691,6 +1780,7 @@ Salazar	n
 e	conj-c
 Cunhal	n
 .	.
+--SENTENCE--	n
 Ou	n
 em	prp
 relação	n
@@ -1703,6 +1793,7 @@ Luís	n
 Filipe	n
 Vieira	n
 .	.
+--SENTENCE--	n
 Ou	n
 em	prp
 relação	n
@@ -1713,6 +1804,7 @@ e	conj-c
 Doce	n
 Fugitiva	n
 .	.
+--SENTENCE--	n
 Mas	n
 dizem-me	n
 que	pron-indp
@@ -1721,6 +1813,7 @@ intelectualmente	n
 desonesto	n
 falar	v-inf
 nisto.	n
+--SENTENCE--	n
 Parece	n
 que	pron-indp
 o	art
@@ -1747,12 +1840,14 @@ argumento	n
 espantoso	adj
 )	n
 .	.
+--SENTENCE--	n
 Ou	n
 dizer	v-inf
 que	conj-s
 criticar	v-inf
 o	art
 prof.	n
+--SENTENCE--	n
 Marcelo	n
 é	v-fin
 fazer	v-inf
@@ -1760,9 +1855,11 @@ campanha	n
 pelo	n
 Sim	n
 .	.
+--SENTENCE--	n
 O	n
 próprio	adj
 prof.	n
+--SENTENCE--	n
 Marcelo	n
 diz	v-fin
 que	conj-s
@@ -1793,6 +1890,7 @@ campanha	n
 pelo	n
 Sim	n
 .	.
+--SENTENCE--	n
 PPM	n
 ,	,
 referindo-se	n
@@ -1801,15 +1899,18 @@ sketch	n
 sobre	prp
 o	art
 prof.	n
+--SENTENCE--	n
 Marcelo	n
 ,	,
 diz	v-fin
 que	conj-s
 ,	,
-«em	n
+«	«
+em	prp
 plena	adj
 campanha	n
-eleitoral»	n
+eleitoral	adj
+»	»
 quisemos	n
 ´ridicularizar	n
 os	art
@@ -1821,17 +1922,22 @@ lados	n
 em	prp
 confronto	n
 no	pron-pers
-referendo».	n
+referendo	n
+»	»
+.	.
+--SENTENCE--	n
 Primeiro	n
 ,	,
 o	art
 prof.	n
+--SENTENCE--	n
 Marcelo	n
 não	adv
 representa	v-fin
 o	art
 Não	n
 .	.
+--SENTENCE--	n
 Ele	n
 mesmo	pron-det
 ,	,
@@ -1843,6 +1949,7 @@ há	v-fin
 vários	pron-det
 Nãos	n
 .	.
+--SENTENCE--	n
 Segundo	n
 ,	,
 a	art
@@ -1851,6 +1958,7 @@ rábula	n
 sobre	prp
 o	art
 prof.	n
+--SENTENCE--	n
 Marcelo	n
 foi	v-fin
 transmitida	v-pcp
@@ -1862,6 +1970,7 @@ dia	n
 de	prp
 Janeiro	n
 .	.
+--SENTENCE--	n
 A	n
 campanha	n
 começou	v-fin
@@ -1871,15 +1980,18 @@ terça-feira	n
 dia	n
 30	num
 .	.
+--SENTENCE--	n
 Dizer	n
 que	pron-indp
 fizemos	v-fin
 o	art
 sketch	n
-«em	n
+«	«
+em	prp
 plena	adj
 campanha	n
-eleitoral»	n
+eleitoral	adj
+»	»
 é	v-fin
 ,	,
 portanto	adv
@@ -1900,6 +2012,7 @@ dizer	n
 :	n
 é	v-fin
 mentira.	n
+--SENTENCE--	n
 Não	n
 posso	v-fin
 deixar	v-inf
@@ -1937,6 +2050,7 @@ ao	prp
 24	num
 Horas	n
 .	.
+--SENTENCE--	n
 Pode	n
 ,	,
 mas	conj-c
@@ -1955,7 +2069,8 @@ Rodrigo	n
 Moita	n
 de	prp
 Deus	n
-.»	n
+.	.
+»	»
 Quero	n
 agradecer	v-inf
 ,	,
@@ -1971,6 +2086,7 @@ o	art
 que	pron-indp
 eu	pron-pers
 disse.	n
+--SENTENCE--	n
 Já	n
 é	v-fin
 mais	adv
@@ -1984,6 +2100,7 @@ registo	n
 a	prp
 evolução	n
 democrática.	n
+--SENTENCE--	n
 Agradeço	n
 ainda	adv
 mais	adv
@@ -2016,6 +2133,7 @@ poderei	n
 vir	v-inf
 a	art
 dizer.	n
+--SENTENCE--	n
 Uma	n
 nota	n
 final	adj
@@ -2037,11 +2155,13 @@ sempre	adv
 o	art
 mesmo	pron-det
 sentido.	n
+--SENTENCE--	n
 Normalmente	n
 ,	,
 comento-as	n
 aqui	adv
 mesmo.	n
+--SENTENCE--	n
 Na	n
 televisão	n
 e	conj-c
@@ -2063,6 +2183,7 @@ que	pron-indp
 diz	v-fin
 coisas	n
 ridículas.	n
+--SENTENCE--	n
 Enquanto	n
 o	art
 PPM	n
@@ -2085,6 +2206,7 @@ apenas	adv
 aqui	adv
 no	pron-pers
 blog.	n
+--SENTENCE--	n
 Por	n
 isso	pron-indp
 ,	,
@@ -2135,13 +2257,20 @@ satirizar	n
 o	art
 PPM	n
 .	.
+--SENTENCE--	n
 Há	n
 mais	adv
 Marias	n
 na	pron-pers
 Terra	n
 .	.
+--SENTENCE--	n
 RAP	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 O	n
 Pai	n
 Natal	n
@@ -2151,6 +2280,7 @@ Jorge	n
 e	conj-c
 o	art
 BCP	n
+--SENTENCE--	n
 O	n
 Governo	n
 russo	adj
@@ -2175,6 +2305,7 @@ não	adv
 existe	v-fin
 ``	n
 .	.
+--SENTENCE--	n
 O	n
 argumento	n
 é	v-fin
@@ -2187,6 +2318,7 @@ para	prp
 as	art
 criancinhas	n
 russas.	n
+--SENTENCE--	n
 Conclusão	n
 :	n
 o	art
@@ -2203,6 +2335,7 @@ as	art
 criancinhas	n
 também	adv
 acreditem.	n
+--SENTENCE--	n
 Artur	n
 Jorge	n
 foi	v-fin
@@ -2224,6 +2357,7 @@ seis	num
 meses	n
 sem	prp
 treinador.	n
+--SENTENCE--	n
 Tendo	n
 em	prp
 atenção	n
@@ -2272,12 +2406,14 @@ no	pron-pers
 Pai	n
 Natal	n
 .	.
+--SENTENCE--	n
 E	n
 Artur	n
 Jorge	n
 também	adv
 ,	,
 claro.	n
+--SENTENCE--	n
 Por	n
 outro	pron-det
 lado	n
@@ -2304,6 +2440,7 @@ do	n
 Pai	n
 Natal	n
 .	.
+--SENTENCE--	n
 Carlos	n
 Santos	n
 Ferreira	n
@@ -2340,6 +2477,7 @@ banco	n
 do	n
 Estado	n
 .	.
+--SENTENCE--	n
 Por	n
 isso	pron-indp
 ,	,
@@ -2362,6 +2500,7 @@ no	pron-pers
 Pai	n
 Natal	n
 .	.
+--SENTENCE--	n
 Não	n
 lhe	pron-pers
 passa	v-fin
@@ -2419,6 +2558,7 @@ título	n
 de	prp
 IRC	n
 .	.
+--SENTENCE--	n
 Se	n
 Santos	n
 Ferreira	n
@@ -2443,6 +2583,7 @@ todos	pron-det
 nós	pron-pers
 ,	,
 contribuintes.	n
+--SENTENCE--	n
 Porque	n
 quanto	adv
 menos	adv
@@ -2466,6 +2607,7 @@ buscar-nos	n
 dinheiro	n
 aos	n
 bolsos.	n
+--SENTENCE--	n
 Por	n
 outras	pron-det
 palavras	n
@@ -2485,8 +2627,14 @@ são	v-fin
 os	art
 contribuintes	n
 portugueses.	n
+--SENTENCE--	n
 Nicolau	n
 Santos	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 COISAS	n
 DA	n
 SÁBADO	n
@@ -2503,6 +2651,7 @@ O	n
 DIÁRIO	n
 DE	n
 NOTÍCIAS	n
+--SENTENCE--	n
 No	n
 dia	n
 em	prp
@@ -2562,6 +2711,7 @@ podia	v-fin
 ser	v-inf
 mais	adv
 significativa.	n
+--SENTENCE--	n
 O	n
 Diário	n
 de	prp
@@ -2596,6 +2746,7 @@ os	art
 Super	n
 Dragões	n
 .	.
+--SENTENCE--	n
 Na	n
 verdade	n
 nenhum	pron-det
@@ -2630,6 +2781,7 @@ tinham	v-fin
 merecido	n
 muita	pron-det
 atenção.	n
+--SENTENCE--	n
 Onde	n
 eles	pron-pers
 apareciam	v-fin
@@ -2654,6 +2806,7 @@ aos	n
 dirigentes	adj
 do	n
 clube.	n
+--SENTENCE--	n
 No	n
 Jornal	n
 de	prp
@@ -2681,6 +2834,7 @@ singular	adj
 a	prp
 essa	pron-det
 pertença.	n
+--SENTENCE--	n
 De	n
 facto	n
 ,	,
@@ -2705,6 +2859,7 @@ passa	v-fin
 à	n
 sua	pron-det
 volta.	n
+--SENTENCE--	n
 Mas	n
 não	adv
 é	v-fin
@@ -2726,8 +2881,14 @@ do	n
 Porto	n
 e	conj-c
 cala.	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Prioridades	n
+--SENTENCE--	n
 1.	num
+--SENTENCE--	n
 Revisão	n
 do	n
 mecanismo	n
@@ -2735,6 +2896,7 @@ comunitário	adj
 de	prp
 protecção	n
 civil	adj
+--SENTENCE--	n
 Desde	n
 2005	n
 ,	,
@@ -2777,6 +2939,7 @@ Protecção	n
 Civil	n
 recentemente	adv
 aprovado.	n
+--SENTENCE--	n
 O	n
 acordo	n
 político	adj
@@ -2799,6 +2962,7 @@ o	art
 processo	n
 de	prp
 revisão.	n
+--SENTENCE--	n
 Com	n
 a	prp
 adopção	n
@@ -2839,6 +3003,7 @@ resposta	n
 a	prp
 emergências	n
 graves.	n
+--SENTENCE--	n
 As	n
 principais	adj
 novidades	n
@@ -2885,11 +3050,14 @@ módulos	n
 de	prp
 protecção	n
 civil.	n
+--SENTENCE--	n
 2.	adj
+--SENTENCE--	n
 Sistemas	n
 de	prp
 Alerta	n
 Precoce	n
+--SENTENCE--	n
 A	n
 necessidade	n
 de	prp
@@ -2915,6 +3083,7 @@ em	prp
 diversas	pron-det
 ocasiões	n
 .	.
+--SENTENCE--	n
 Em	n
 particular	adj
 ,	,
@@ -2934,7 +3103,8 @@ Tsunamis	n
 e	conj-c
 afirmou	v-fin
 que	conj-s
-«A	n
+«	«
+A	n
 Comissão	n
 é	v-fin
 convidada	v-pcp
@@ -2963,7 +3133,9 @@ Mediterrâneo	n
 e	conj-c
 o	art
 Atlântico	n
-».	n
+»	»
+.	.
+--SENTENCE--	n
 Mais	n
 recentemente	adv
 ,	,
@@ -3002,6 +3174,7 @@ e	conj-c
 estabelecimento	n
 de	prp
 interligações.	n
+--SENTENCE--	n
 Para	n
 contribuir	v-inf
 para	prp
@@ -3048,6 +3221,7 @@ qual	pron-det
 se	pron-pers
 procurou	v-fin
 :	n
+--SENTENCE--	n
 -	-
 discutir	v-inf
 o	art
@@ -3060,6 +3234,7 @@ sistemas	n
 de	prp
 alerta	adj
 ;	;
+--SENTENCE--	n
 -	-
 identificar	v-inf
 lacunas	n
@@ -3095,6 +3270,7 @@ as	art
 lacunas	n
 identificadas	v-pcp
 ;	;
+--SENTENCE--	n
 -	-
 debater	v-inf
 assuntos	n
@@ -3117,6 +3293,7 @@ alerta	adj
 a	prp
 nível	n
 europeu.	n
+--SENTENCE--	n
 Com	n
 base	n
 nas	pron-pers
@@ -3159,6 +3336,7 @@ de	prp
 de	prp
 Dezembro	n
 .	.
+--SENTENCE--	n
 Um	n
 desses	n
 documentos	n
@@ -3218,6 +3396,7 @@ o	art
 risco	n
 de	prp
 tsunamis.	n
+--SENTENCE--	n
 Ambos	n
 os	art
 documentos	n
@@ -3235,13 +3414,16 @@ e	conj-c
 dos	prop
 Estados-Membros	n
 .	.
+--SENTENCE--	n
 3.	n
+--SENTENCE--	n
 Cooperação	n
 com	prp
 Países	n
 do	n
 Mediterrâneo	n
 Sul	n
+--SENTENCE--	n
 No	n
 campo	n
 da	n
@@ -3265,6 +3447,7 @@ na	pron-pers
 região	n
 Euro-Mediterrânica	n
 .	.
+--SENTENCE--	n
 Estes	n
 riscos	n
 estão	v-fin
@@ -3287,6 +3470,7 @@ também	adv
 ,	,
 ameaças	n
 terroristas.	n
+--SENTENCE--	n
 Por	n
 outro	pron-det
 lado	n
@@ -3347,6 +3531,7 @@ mútua	adj
 durante	prp
 emergências	n
 passadas.	n
+--SENTENCE--	n
 Existe	n
 ,	,
 pois	conj-s
@@ -3384,6 +3569,7 @@ parceiros	n
 do	n
 Mediterrâneo	n
 .	.
+--SENTENCE--	n
 Assim	n
 ,	,
 pretendeu-se	n
@@ -3422,6 +3608,7 @@ precoce	adj
 ou	conj-c
 exercícios	n
 conjuntos.	n
+--SENTENCE--	n
 De	n
 forma	n
 a	prp
@@ -3470,6 +3657,7 @@ da	n
 União	n
 Europeia	n
 .	.
+--SENTENCE--	n
 Essa	n
 reunião	n
 permitiu	v-fin
@@ -3527,12 +3715,15 @@ de	prp
 Protecção	n
 Civil	n
 .	.
+--SENTENCE--	n
 4.	n
+--SENTENCE--	n
 Consenso	n
 Europeu	n
 sobre	prp
 Ajuda	n
 Humanitária	n
+--SENTENCE--	n
 Na	n
 sequência	n
 de	prp
@@ -3566,6 +3757,7 @@ sobre	prp
 Ajuda	n
 Humanitária	n
 .	.
+--SENTENCE--	n
 Tal	n
 documento	n
 contém	n
@@ -3600,6 +3792,7 @@ aconselhamento	n
 em	prp
 Julho	n
 .	.
+--SENTENCE--	n
 Após	n
 intensas	n
 negociações	n
@@ -3650,6 +3843,7 @@ em	prp
 tempo	n
 de	prp
 paz.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -3678,12 +3872,15 @@ ser	v-inf
 considerado	v-pcp
 como	adv
 excepcional.	n
+--SENTENCE--	n
 5.	n
+--SENTENCE--	n
 Revisão	n
 das	n
 Directrizes	n
 de	prp
 Oslo	n
+--SENTENCE--	n
 As	n
 Directrizes	n
 de	prp
@@ -3720,6 +3917,7 @@ em	prp
 tempo	n
 de	prp
 paz.	n
+--SENTENCE--	n
 Aquando	n
 da	n
 última	adj
@@ -3751,8 +3949,10 @@ poderiam	v-fin
 ser	v-inf
 utilizados	v-pcp
 como	adv
-«último	n
-recurso»	n
+«	«
+último	adj
+recurso	n
+»	»
 ,	,
 após	prp
 esgotamento	n
@@ -3760,6 +3960,7 @@ de	prp
 outras	pron-det
 alternativas	n
 civis.	n
+--SENTENCE--	n
 Conscientes	n
 de	prp
 que	pron-indp
@@ -3804,6 +4005,7 @@ junto	adv
 da	n
 UN/OCHA	n
 .	.
+--SENTENCE--	n
 Em	n
 particular	adj
 ,	,
@@ -3825,6 +4027,7 @@ Estados-Membros	n
 sobre	prp
 esta	pron-det
 matéria.	n
+--SENTENCE--	n
 Nesta	n
 sequência	n
 ,	,
@@ -3869,16 +4072,20 @@ de	prp
 Protecção	n
 Civil	n
 .	.
+--SENTENCE--	n
 6.	n
+--SENTENCE--	n
 Infra-estruturas	n
 críticas	adj
+--SENTENCE--	n
 As	n
 conclusões	n
 do	n
 Conselho	n
 em	prp
 matéria	n
-«de	n
+«	«
+de	prp
 prevenção	n
 ,	,
 de	prp
@@ -3890,10 +4097,12 @@ de	prp
 resposta	n
 a	prp
 atentados	n
-terroristas»	n
+terroristas	adj
+»	»
 e	conj-c
 o	art
-«programa	n
+«	«
+programa	n
 de	prp
 solidariedade	n
 da	n
@@ -3944,6 +4153,7 @@ as	art
 Infra-estruturas	n
 Críticas	n
 .	.
+--SENTENCE--	n
 Neste	n
 sentido	n
 ,	,
@@ -4018,6 +4228,7 @@ em	prp
 outro	pron-det
 Estado-Membro	n
 .	.
+--SENTENCE--	n
 Na	n
 sequência	n
 dos	prop
@@ -4054,6 +4265,7 @@ introduzidas	v-pcp
 pelas	n
 diversas	adj
 delegações.	n
+--SENTENCE--	n
 O	n
 balanço	n
 final	adj
@@ -4072,6 +4284,7 @@ parte	n
 das	n
 reservas	n
 existentes.	n
+--SENTENCE--	n
 Embora	n
 exista	v-fin
 consenso	n
@@ -4115,7 +4328,9 @@ inclusão	n
 do	n
 sector	n
 do	n
-«nuclear»	n
+«	«
+nuclear	adj
+»	»
 no	pron-pers
 âmbito	n
 da	n
@@ -4141,6 +4356,7 @@ Oficiais	n
 de	prp
 Ligação	n
 .	.
+--SENTENCE--	n
 Neste	n
 contexto	n
 foi	v-fin
@@ -4159,10 +4375,15 @@ de	prp
 5/6	n
 Dezembro	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Biografia	n
 de	prp
 Dead	n
 Fish	n
+--SENTENCE--	n
 Dead	n
 Fish	n
 é	v-fin
@@ -4182,7 +4403,9 @@ Santo	n
 ,	,
 Brasil	n
 .	.
+--SENTENCE--	n
 História	n
+--SENTENCE--	n
 Tudo	n
 começou	v-fin
 em	prp
@@ -4199,6 +4422,7 @@ Skate	n
 em	prp
 Vitória	n
 .	.
+--SENTENCE--	n
 Mesmo	n
 sem	prp
 saber	v-inf
@@ -4221,6 +4445,7 @@ skate	n
 principalmente	adv
 Hardcore	n
 .	.
+--SENTENCE--	n
 Em	n
 1995	num
 lançam	v-fin
@@ -4249,6 +4474,7 @@ capixaba	n
 Lona	n
 Records	n
 .	.
+--SENTENCE--	n
 Após	n
 o	art
 ``	n
@@ -4269,6 +4495,7 @@ Afasia	n
 em	prp
 2001	n
 .	.
+--SENTENCE--	n
 Giuliano	n
 ,	,
 até	prp
@@ -4304,6 +4531,7 @@ gravado	v-pcp
 em	prp
 2000	num
 .	.
+--SENTENCE--	n
 Alguns	n
 guitarristas	n
 de	prp
@@ -4345,6 +4573,7 @@ Hóspede	n
 Aditive	n
 )	n
 .	.
+--SENTENCE--	n
 Em	n
 2003	num
 gravaram	n
@@ -4359,6 +4588,7 @@ em	prp
 São	n
 Paulo	n
 .	.
+--SENTENCE--	n
 Murilo	n
 ,	,
 o	art
@@ -4374,6 +4604,7 @@ banda	n
 que	pron-indp
 ameaça	v-fin
 acabar.	n
+--SENTENCE--	n
 No	n
 fim	n
 do	n
@@ -4391,6 +4622,7 @@ gravadora	n
 a	art
 Deckdisc	n
 .	.
+--SENTENCE--	n
 A	n
 banda	n
 aceita	v-fin
@@ -4424,6 +4656,7 @@ e	conj-c
 Um	n
 ``	n
 .	.
+--SENTENCE--	n
 Em	n
 2004	num
 ,	,
@@ -4458,6 +4691,7 @@ Dead	n
 Fish	n
 ``	n
 .	.
+--SENTENCE--	n
 Em	n
 2006	n
 ,	,
@@ -4499,6 +4733,7 @@ Tapes	n
 ``	n
 .	.
 ``	n
+--SENTENCE--	n
 Demo	n
 Tapes	n
 ``	n
@@ -4521,6 +4756,10 @@ do	n
 início	n
 da	n
 carreira.	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Fim	n
 de	prp
 ano	n
@@ -4529,9 +4768,11 @@ uísque	n
 barato	adj
 no	pron-pers
 Rio	n
+--SENTENCE--	n
 Caro	n
 leitor	n
 :	n
+--SENTENCE--	n
 Por	n
 favor	n
 ,	,
@@ -4544,6 +4785,7 @@ barato	adj
 ,	,
 uísque	n
 vagabundo.	n
+--SENTENCE--	n
 É	n
 uísque	n
 bom	adj
@@ -4557,6 +4799,7 @@ de	prp
 preço	n
 baixo	adj
 mesmo.	n
+--SENTENCE--	n
 Venho	n
 notando	n
 isso	pron-indp
@@ -4564,6 +4807,7 @@ nos	pron-pers
 últimos	adj
 meses	n
 .	.
+--SENTENCE--	n
 Deve	n
 ser	v-inf
 por	prp
@@ -4595,6 +4839,7 @@ sair	v-inf
 caro	adj
 no	pron-pers
 balcão.	n
+--SENTENCE--	n
 Aquele	n
 ``	n
 ouro	n
@@ -4621,6 +4866,7 @@ está	v-fin
 deixando	v-ger
 de	prp
 existir.	n
+--SENTENCE--	n
 Com	n
 a	prp
 garrafa	n
@@ -4659,6 +4905,7 @@ regado	n
 do	n
 puro	adj
 scotch.	n
+--SENTENCE--	n
 O	n
 Belmonte	n
 da	n
@@ -4672,6 +4919,7 @@ exemplo	n
 é	v-fin
 um	art
 desses.	n
+--SENTENCE--	n
 Por	n
 R	n
 $	n
@@ -4688,6 +4936,7 @@ Walker	n
 Red	n
 Label	n
 .	.
+--SENTENCE--	n
 E	n
 a	prp
 régua	n
@@ -4707,11 +4956,13 @@ alguns	pron-det
 bares	n
 por	prp
 aí.	n
+--SENTENCE--	n
 Nada	n
 mal	adv
 ,	,
 não	adv
 ?	?
+--SENTENCE--	n
 Para	n
 você	pron-pers
 ,	,
@@ -4765,6 +5016,7 @@ R	n
 $	n
 12,50	n
 .	.
+--SENTENCE--	n
 Uma	n
 diferença	n
 exorbitante	n
@@ -4772,6 +5024,7 @@ de	prp
 preço	n
 e	conj-c
 quantidade.	n
+--SENTENCE--	n
 E	n
 por	prp
 que	pron-indp
@@ -4782,10 +5035,12 @@ você	pron-pers
 há	v-fin
 de	prp
 perguntar.	n
+--SENTENCE--	n
 Puro	n
 preconceito	n
 ,	,
 amigo.	n
+--SENTENCE--	n
 Os	n
 donos	n
 do	n
@@ -4800,6 +5055,7 @@ de	prp
 rico	adj
 ,	,
 coitados.	n
+--SENTENCE--	n
 Mas	n
 ,	,
 para	prp
@@ -4815,6 +5071,7 @@ sendo	v-ger
 riscada	n
 do	n
 mapa.	n
+--SENTENCE--	n
 Até	n
 quando	adv
 o	art
@@ -4823,6 +5080,7 @@ deixar	v-inf
 ,	,
 claro	adv
 ...	n
+--SENTENCE--	n
 Outros	n
 exemplos	n
 de	prp
@@ -4836,6 +5094,7 @@ cidade	n
 do	n
 Rio	n
 :	n
+--SENTENCE--	n
 -	-
 Aboim	n
 ,	,
@@ -4863,6 +5122,7 @@ marcas	n
 diferentes	adj
 de	prp
 scotch.	n
+--SENTENCE--	n
 As	n
 mais	adv
 baratas	n
@@ -4884,6 +5144,7 @@ sempre	adv
 na	pron-pers
 tala	n
 larga.	n
+--SENTENCE--	n
 -	-
 Azeitona	n
 &	conj-c
@@ -4910,6 +5171,7 @@ Sul	n
 do	n
 Rio	n
 .	.
+--SENTENCE--	n
 Uma	n
 dose	n
 caprichadíssima	n
@@ -4926,6 +5188,7 @@ R	n
 $	n
 7	num
 .	.
+--SENTENCE--	n
 E	n
 ainda	adv
 vem	v-fin
@@ -4938,6 +5201,7 @@ Azeitona	n
 ,	,
 o	art
 dono.	n
+--SENTENCE--	n
 -	-
 Bar	n
 do	n
@@ -4968,6 +5232,7 @@ $	n
 9	num
 a	prp
 dose.	n
+--SENTENCE--	n
 Espetáculo	n
 que	pron-indp
 melhora	n
@@ -4985,6 +5250,7 @@ pastel	n
 serve	v-fin
 tudo	pron-indp
 dobrado.	n
+--SENTENCE--	n
 E	n
 o	art
 mesmo	pron-det
@@ -5000,6 +5266,7 @@ R	n
 $	n
 4,50	n
 .	.
+--SENTENCE--	n
 -	-
 Bar	n
 Barata	n
@@ -5040,6 +5307,7 @@ blea	n
 prateleira	n
 de	prp
 uísques.	n
+--SENTENCE--	n
 -	-
 Bar	n
 Vieira	n
@@ -5080,6 +5348,7 @@ $	n
 ,	,
 no	pron-pers
 capricho.	n
+--SENTENCE--	n
 -	-
 BotecoTaco	n
 ,	,
@@ -5101,6 +5370,7 @@ templo	n
 carioca	adj
 dos	prop
 notívagos.	n
+--SENTENCE--	n
 Doses	n
 cavalares	n
 de	prp
@@ -5115,19 +5385,27 @@ R	n
 $	n
 10	num
 .	.
+--SENTENCE--	n
 Conhece	n
 outros	pron-det
 ?	?
+--SENTENCE--	n
 Indique	n
 aqui	adv
 ,	,
 caro	adj
 leitor.	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Terramoto	n
 de	prp
 1755	n
+--SENTENCE--	n
 O	n
 Terramoto	n
+--SENTENCE--	n
 O	n
 sismo	n
 fez-se	n
@@ -5152,6 +5430,7 @@ Dia	n
 de	prp
 Todos-os-Santos	n
 .	.
+--SENTENCE--	n
 O	n
 epicentro	n
 não	adv
@@ -5171,6 +5450,7 @@ de	prp
 centenas	n
 de	prp
 quilómetros.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -5192,6 +5472,7 @@ sudoeste	n
 de	prp
 Lisboa	n
 .	.
+--SENTENCE--	n
 Devido	n
 a	prp
 um	art
@@ -5225,6 +5506,7 @@ epicentro	n
 em	prp
 1755	n
 .	.
+--SENTENCE--	n
 Relatos	n
 da	n
 época	n
@@ -5261,6 +5543,7 @@ vestígios	n
 em	prp
 Lisboa	n
 .	.
+--SENTENCE--	n
 Com	n
 os	art
 vários	pron-det
@@ -5292,6 +5575,7 @@ navios	n
 e	conj-c
 cargas	n
 perdidas.	n
+--SENTENCE--	n
 Poucas	n
 dezenas	pron-det
 de	prp
@@ -5321,6 +5605,7 @@ o	art
 centro	n
 da	n
 cidade.	n
+--SENTENCE--	n
 Nas	n
 áreas	n
 que	pron-indp
@@ -5344,6 +5629,7 @@ pelo	n
 menos	adv
 cinco	num
 dias.	n
+--SENTENCE--	n
 Todos	n
 tinham	v-fin
 fugido	v-pcp
@@ -5353,6 +5639,7 @@ havia	v-fin
 quem	pron-indp
 o	art
 apagasse.	n
+--SENTENCE--	n
 Lisboa	n
 não	adv
 foi	v-fin
@@ -5363,6 +5650,7 @@ portuguesa	adj
 afectada	n
 pela	n
 catástrofe.	n
+--SENTENCE--	n
 Todo	n
 o	art
 sul	n
@@ -5380,6 +5668,7 @@ a	art
 destruição	n
 foi	v-fin
 generalizada.	n
+--SENTENCE--	n
 As	n
 ondas	n
 de	prp
@@ -5397,6 +5686,7 @@ norte	n
 da	n
 África	n
 .	.
+--SENTENCE--	n
 Os	n
 maremotos	n
 originados	n
@@ -5433,6 +5723,7 @@ Martinica	n
 e	conj-c
 Barbados	n
 .	.
+--SENTENCE--	n
 De	n
 uma	art
 população	n
@@ -5452,6 +5743,7 @@ morreram	v-fin
 2	num
 ]	]
 .	.
+--SENTENCE--	n
 Outros	n
 10	num
 mil	num
@@ -5460,6 +5752,7 @@ vitimados	n
 em	prp
 Marrocos	n
 .	.
+--SENTENCE--	n
 Cerca	n
 de	prp
 85	num
@@ -5486,6 +5779,7 @@ e	conj-c
 todas	pron-det
 as	art
 estruturas.	n
+--SENTENCE--	n
 Várias	n
 construções	n
 que	pron-indp
@@ -5504,6 +5798,7 @@ seguiu	v-fin
 ao	prp
 abalo	n
 sísmico.	n
+--SENTENCE--	n
 A	n
 recém	n
 construída	v-pcp
@@ -5522,6 +5817,7 @@ totalmente	adv
 consumida	v-pcp
 pelo	n
 fogo.	n
+--SENTENCE--	n
 O	n
 Palácio	n
 Real	n
@@ -5550,6 +5846,7 @@ sísmicos	adj
 e	conj-c
 pelo	n
 tsunami.	n
+--SENTENCE--	n
 Dentro	n
 ,	,
 a	art
@@ -5577,6 +5874,7 @@ Correggio	n
 ,	,
 foram	v-fin
 perdidas.	n
+--SENTENCE--	n
 O	n
 precioso	adj
 Arquivo	n
@@ -5594,6 +5892,7 @@ antigos	adj
 também	adv
 foram	v-fin
 perdidos.	n
+--SENTENCE--	n
 O	n
 terramoto	n
 destruiu	v-fin
@@ -5631,6 +5930,7 @@ a	art
 da	n
 Misericórdia	n
 .	.
+--SENTENCE--	n
 As	n
 ruínas	n
 do	n
@@ -5646,6 +5946,7 @@ no	pron-pers
 centro	n
 da	n
 cidade.	n
+--SENTENCE--	n
 O	n
 túmulo	n
 de	prp
@@ -5658,6 +5959,7 @@ convento	n
 ,	,
 perdeu-se	n
 também.	n
+--SENTENCE--	n
 O	n
 Hospital	n
 Real	n
@@ -5675,6 +5977,7 @@ de	prp
 pacientes	n
 morreram	v-fin
 queimados.	n
+--SENTENCE--	n
 Registos	n
 históricos	adj
 das	n
@@ -5707,12 +6010,17 @@ em	prp
 Portugal	n
 )	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Uma	n
 foto	n
 para	prp
 lá	adv
 da	n
 verdade	n
+--SENTENCE--	n
 A	n
 fotografia	n
 mais	adv
@@ -5747,6 +6055,7 @@ em	prp
 crise	n
 de	prp
 autenticidade.	n
+--SENTENCE--	n
 Há	n
 anos	n
 que	pron-indp
@@ -5766,6 +6075,7 @@ Capa	n
 ou	conj-c
 não	adv
 encenada.	n
+--SENTENCE--	n
 Agora	n
 um	art
 documentário	n
@@ -5818,6 +6128,7 @@ dia	n
 de	prp
 Setembro	n
 .	.
+--SENTENCE--	n
 As	n
 dúvidas	n
 levantadas	v-pcp
@@ -5825,6 +6136,7 @@ prendem-se	n
 com	prp
 factos	n
 investigados.	n
+--SENTENCE--	n
 Hugo	n
 Doménech	n
 ,	,
@@ -5854,6 +6166,7 @@ e	conj-c
 recolheram	v-fin
 depoimentos	n
 locais.	n
+--SENTENCE--	n
 No	n
 filme	n
 prevalece	v-fin
@@ -5910,6 +6223,7 @@ morto	v-pcp
 naquele	n
 dia	n
 .	.
+--SENTENCE--	n
 O	n
 facto	n
 de	prp
@@ -5950,6 +6264,7 @@ mais	adv
 confusão	n
 na	pron-pers
 história.	n
+--SENTENCE--	n
 Por	n
 outro	pron-det
 lado	n
@@ -5971,6 +6286,7 @@ antes	adv
 e	conj-c
 depois	adv
 .	.
+--SENTENCE--	n
 Apesar	n
 de	prp
 se	pron-pers
@@ -5983,6 +6299,7 @@ feitas	v-pcp
 no	pron-pers
 mesmo	adv
 local.	n
+--SENTENCE--	n
 O	n
 biógrafo	n
 de	prp
@@ -6033,6 +6350,7 @@ de	prp
 Robert	n
 Capa	n
 .	.
+--SENTENCE--	n
 A	n
 fotografia	n
 foi	v-fin
@@ -6071,9 +6389,11 @@ a	art
 informação	n
 !	!
 )	n
+--SENTENCE--	n
 na	pron-pers
 LIFE	n
 .	.
+--SENTENCE--	n
 Na	n
 edição	n
 da	n
@@ -6103,6 +6423,7 @@ então	adv
 vanguardista	n
 de	prp
 fotohistória.	n
+--SENTENCE--	n
 Esta	n
 polémica	n
 acaba	v-fin
@@ -6111,6 +6432,7 @@ ser	v-inf
 um	art
 pouco	adv
 redundante.	n
+--SENTENCE--	n
 Capa	n
 era	v-fin
 de	prp
@@ -6126,6 +6448,7 @@ no	pron-pers
 cenário	n
 de	prp
 guerra.	n
+--SENTENCE--	n
 Fotografou	n
 por	prp
 dentro	adv
@@ -6162,6 +6485,7 @@ Maio	n
 de	prp
 1954	n
 .	.
+--SENTENCE--	n
 Como	n
 curiosidade	n
 passou	v-fin
@@ -6197,25 +6521,34 @@ do	n
 antigo	adj
 Sete	n
 .	.
+--SENTENCE--	n
 [	[
 ...	n
 ]	]
+--SENTENCE--	n
 Luiz	n
 Carvalho	n
 ,	,
 fotojornalista	n
 do	n
 Expresso	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 O	n
 Kuduro	n
 e	conj-c
 nós.	n
+--SENTENCE--	n
 Teria	n
 mesmo	pron-det
 algo	pron-indp
 a	art
 ver	v-inf
 ?	?
+--SENTENCE--	n
 Ku	n
 ,	,
 palavra	n
@@ -6265,6 +6598,7 @@ Ku	n
 certo	adj
 ?	?
 )	n
+--SENTENCE--	n
 O	n
 sentido	n
 figurado	n
@@ -6301,6 +6635,7 @@ portugês	n
 também	adv
 como	adv
 nádegas.	n
+--SENTENCE--	n
 O	n
 sentido	n
 da	n
@@ -6359,6 +6694,7 @@ inclusive	adv
 é	v-fin
 muito	adv
 significativo.	n
+--SENTENCE--	n
 Algo	n
 como	adv
 uma	art
@@ -6384,6 +6720,7 @@ são	v-fin
 extremamente	adv
 ,	,
 rebolativas.	n
+--SENTENCE--	n
 Contudo	n
 ,	,
 dança	n
@@ -6403,6 +6740,7 @@ claro	adj
 ,	,
 basta	v-fin
 querer.	n
+--SENTENCE--	n
 Dito	n
 isto	pron-indp
 ,	,
@@ -6486,6 +6824,7 @@ América	n
 do	n
 Norte	n
 .	.
+--SENTENCE--	n
 Mas	n
 o	art
 Kuduro	n
@@ -6525,8 +6864,10 @@ sinônimo	n
 evidente	adj
 de	prp
 aculturação.	n
+--SENTENCE--	n
 Kuduro	n
 Checkup	n
+--SENTENCE--	n
 No	n
 Kuduro	n
 angolano	adj
@@ -6539,6 +6880,7 @@ que	pron-indp
 coisa	n
 curiosa	adj
 !	!
+--SENTENCE--	n
 -	-
 os	art
 passos	n
@@ -6560,8 +6902,10 @@ carioca	adj
 dos	prop
 Sambas	n
 .	.
+--SENTENCE--	n
 Incrível	n
 !	!
+--SENTENCE--	n
 Acreditem	n
 ,	,
 mas	conj-c
@@ -6599,6 +6943,7 @@ passados	v-pcp
 anos	n
 60	num
 .	.
+--SENTENCE--	n
 Os	n
 braços	n
 e	conj-c
@@ -6624,8 +6969,10 @@ desbragado	n
 dos	prop
 Sambas	n
 .	.
+--SENTENCE--	n
 Pode	n
 ?	?
+--SENTENCE--	n
 Teria	n
 sido	v-pcp
 aquela	pron-det
@@ -6640,6 +6987,7 @@ inventora	n
 do	n
 Kuduro	n
 ?	?
+--SENTENCE--	n
 Alguns	n
 pesquisadores	n
 tentam	v-fin
@@ -6689,6 +7037,7 @@ danças	n
 e	conj-c
 gêneros	n
 musicais.	n
+--SENTENCE--	n
 Os	n
 reis	prop
 da	n
@@ -6709,6 +7058,7 @@ por	prp
 exemplo	n
 )	n
 .	.
+--SENTENCE--	n
 Apenas	n
 uma	art
 opinião	n
@@ -6751,11 +7101,14 @@ tecnológico	adj
 que	pron-indp
 ele	pron-pers
 propicia.	n
+--SENTENCE--	n
 Besteira.	n
+--SENTENCE--	n
 Baita	n
 injustiça	n
 ,	,
 sobretudo.	n
+--SENTENCE--	n
 Não	n
 há	v-fin
 nada	pron-indp
@@ -6774,6 +7127,7 @@ velha	adj
 vitrola	n
 hi	n
 fi.	n
+--SENTENCE--	n
 O	n
 Sampler	n
 e	conj-c
@@ -6795,6 +7149,7 @@ registro	n
 ,	,
 meros	adj
 suportes.	n
+--SENTENCE--	n
 Se	n
 disponíveis	adj
 estiverem	v-fin
@@ -6803,6 +7158,7 @@ ferramentas	n
 de	prp
 cultura	n
 serão.	n
+--SENTENCE--	n
 Se	n
 não	adv
 estiverem	v-fin
@@ -6811,6 +7167,7 @@ outras	pron-det
 ferramentas	n
 se	pron-pers
 inventarão.	n
+--SENTENCE--	n
 Aliás	n
 ,	,
 o	art
@@ -6820,10 +7177,13 @@ Sampler	n
 faz	v-fin
 mesmo	adv
 ?	?
+--SENTENCE--	n
 Não	n
 muda	v-fin
 nada.	n
+--SENTENCE--	n
 Copia.	n
+--SENTENCE--	n
 E	n
 haja	v-fin
 periferia	n
@@ -6831,6 +7191,7 @@ e	conj-c
 miséria	n
 para	prp
 samplear.	n
+--SENTENCE--	n
 A	n
 grande	adj
 sacação	n
@@ -6904,9 +7265,11 @@ ou	conj-c
 de	prp
 futuro	n
 radiante.	n
+--SENTENCE--	n
 Vírus	n
 no	pron-pers
 sistema.	n
+--SENTENCE--	n
 O	n
 Mocinho	n
 verdadeiro	adj
@@ -6925,6 +7288,7 @@ mas	conj-c
 sim	adv
 o	art
 homem.	n
+--SENTENCE--	n
 --	n
 --	n
 --	n
@@ -6936,9 +7300,11 @@ homem.	n
 --	n
 --	n
 --	n
+--SENTENCE--	n
 Inside	n
 the	n
 Kuduro	n
+--SENTENCE--	n
 (	n
 em	prp
 português	n
@@ -6947,6 +7313,7 @@ ficaria	v-fin
 melhor	adj
 não	adv
 )	n
+--SENTENCE--	n
 Senão	n
 vejamos	n
 :	n
@@ -6971,6 +7338,7 @@ de	prp
 caixa	n
 e	conj-c
 contratempo.	n
+--SENTENCE--	n
 É	n
 esta	pron-det
 a	art
@@ -6994,6 +7362,7 @@ sons	n
 que	pron-indp
 bem	adv
 entendermos.	n
+--SENTENCE--	n
 Poderia	n
 ser	v-inf
 um	art
@@ -7017,6 +7386,7 @@ usar	v-inf
 um	art
 som	n
 gravado.	n
+--SENTENCE--	n
 No	n
 caso	conj-s
 do	n
@@ -7099,6 +7469,7 @@ carnaval	n
 angolano	adj
 )	n
 .	.
+--SENTENCE--	n
 Ficou	n
 tudo	pron-indp
 em	prp
@@ -7165,6 +7536,7 @@ comercial	adj
 (	n
 !	!
 )	n
+--SENTENCE--	n
 lá	adv
 pelos	n
 idos	v-pcp
@@ -7184,6 +7556,7 @@ colonização	n
 portuguesa	adj
 em	prp
 Angola	n
+--SENTENCE--	n
 Este	n
 Kaduke	n
 ,	,
@@ -7245,6 +7618,7 @@ chamada	v-pcp
 de	prp
 Lundu	n
 .	.
+--SENTENCE--	n
 Pois	n
 não	adv
 é	v-fin
@@ -7280,9 +7654,11 @@ Brasil	n
 como	adv
 Samba	n
 ?	?
+--SENTENCE--	n
 Viram	n
 só	adv
 ?	?
+--SENTENCE--	n
 Kuduro	n
 e	conj-c
 Samba	n
@@ -7290,6 +7666,7 @@ Samba	n
 Tudo	n
 a	prp
 ver.	n
+--SENTENCE--	n
 Fenômeno	n
 recorrente	n
 ,	,
@@ -7306,6 +7683,7 @@ as	art
 periferias	n
 do	n
 mundo.	n
+--SENTENCE--	n
 Decupando	n
 a	prp
 estrutura	n
@@ -7358,6 +7736,7 @@ existentes	adj
 na	pron-pers
 cultura	n
 local.	n
+--SENTENCE--	n
 Alguém	n
 já	adv
 parou	v-fin
@@ -7413,6 +7792,7 @@ e	conj-c
 Michael	n
 Jackson	n
 ?	?
+--SENTENCE--	n
 Há	n
 break	n
 sim	adv
@@ -7422,6 +7802,7 @@ mas	conj-c
 um	art
 pouquinho	n
 só.	n
+--SENTENCE--	n
 Há	n
 desconjuntamento	n
 de	prp
@@ -7450,6 +7831,7 @@ os	art
 outros	pron-det
 passos	n
 ?	?
+--SENTENCE--	n
 Ora	n
 ,	,
 é	v-fin
@@ -7505,6 +7887,7 @@ das	n
 milícias	n
 )	n
 .	.
+--SENTENCE--	n
 Assim	n
 como	adv
 na	pron-pers
@@ -7532,6 +7915,7 @@ tradição	n
 ,	,
 se	conj-s
 repetirá.	n
+--SENTENCE--	n
 Uma	n
 lógica	adj
 planetária	adj
@@ -7544,6 +7928,7 @@ global	adj
 periférica	adj
 se	pron-pers
 estabelecerá.	n
+--SENTENCE--	n
 Para	n
 nós	pron-pers
 brasileiros	adj
@@ -7603,6 +7988,7 @@ e	conj-c
 pujante	n
 Periferia	n
 .	.
+--SENTENCE--	n
 Como	n
 ,	,
 facilmente	adv
@@ -7626,6 +8012,7 @@ circula	v-fin
 como	adv
 um	art
 bambolê.	n
+--SENTENCE--	n
 Somos	n
 do	n
 Overmundo	n
@@ -7633,6 +8020,7 @@ Overmundo	n
 o	art
 pá	n
 !	!
+--SENTENCE--	n
 O	n
 Bicho	n
 ,	,
@@ -7640,11 +8028,13 @@ o	art
 vírus	n
 da	n
 maçã.	n
+--SENTENCE--	n
 Y	n
 love	n
 you	n
 Angola	n
 !	!
+--SENTENCE--	n
 (	n
 Em	n
 tempo	n
@@ -7662,9 +8052,14 @@ olho	n
 infelizmente	adv
 é	v-fin
 ...	n
+--SENTENCE--	n
 caolho	n
 .	.
 )	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Distribuição	n
 de	prp
 jornais	n
@@ -7673,6 +8068,7 @@ quase	adv
 duplicou	v-fin
 este	pron-det
 ano	n
+--SENTENCE--	n
 O	n
 número	n
 de	prp
@@ -7711,6 +8107,7 @@ divulgados	v-pcp
 pela	n
 APCT	n
 .	.
+--SENTENCE--	n
 A	n
 subida	n
 deveu-se	n
@@ -7754,6 +8151,7 @@ gratuitos	adj
 que	pron-indp
 já	adv
 existiam.	n
+--SENTENCE--	n
 Entre	n
 os	art
 mais	adv
@@ -7787,6 +8185,7 @@ os	art
 180	num
 mil	num
 .	.
+--SENTENCE--	n
 Com	n
 este	pron-det
 aumento	n
@@ -7824,6 +8223,7 @@ por	prp
 cento	n
 )	n
 .	.
+--SENTENCE--	n
 A	n
 maior	adj
 subida	n
@@ -7857,6 +8257,7 @@ os	art
 22	num
 mil	num
 exemplares.	n
+--SENTENCE--	n
 Refira-se	n
 que	pron-indp
 os	art
@@ -7880,25 +8281,35 @@ Bola	n
 o	art
 Sexta-feira	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Autor	n
 Mensagem	n
+--SENTENCE--	n
 joseep	n
+--SENTENCE--	n
 Site	n
 Admin	n
+--SENTENCE--	n
 Registo	n
 :	n
 12	num
 Apr	n
 2005	n
+--SENTENCE--	n
 Mensagens	n
 :	n
 4	num
+--SENTENCE--	n
 Local/Origem	n
 :	n
 Lisboa	n
 (	n
 Portugal	n
 )	n
+--SENTENCE--	n
 Colocada	n
 :	n
 Quarta-feira	n
@@ -7917,6 +8328,7 @@ Registo	n
 tem	v-fin
 vantagens	n
 )	n
+--SENTENCE--	n
 Gostaria	n
 muito	adv
 ,	,
@@ -7947,6 +8359,7 @@ simples	adj
 ,	,
 querem	v-fin
 ver.	n
+--SENTENCE--	n
 1º-Vão	n
 ao	prp
 cabeçalho	n
@@ -7962,11 +8375,13 @@ REGISTAR-SE	n
 ,	,
 e	conj-c
 seleccionam.	n
+--SENTENCE--	n
 2º-	n
 Aceitam	n
 o	art
 contrato	n
 ,	,
+--SENTENCE--	n
 3º	adj
 Preenchem	n
 o	art
@@ -7986,6 +8401,7 @@ vosso	pron-det
 e-mail	n
 )	n
 .	.
+--SENTENCE--	n
 4º	adj
 Vão	n
 ao	prp
@@ -8023,6 +8439,7 @@ IMPORTANTE	n
 dúvidas	n
 contactem-me	n
 )	n
+--SENTENCE--	n
 5º	adj
 -	-
 Quando	n
@@ -8046,19 +8463,24 @@ vosso	pron-det
 USERNAME	n
 e	conj-c
 PASS.	n
+--SENTENCE--	n
 Qualquer	n
 dúvida	n
 contactem	n
 !	!
+--SENTENCE--	n
 _________________	n
+--SENTENCE--	n
 Um	n
 abraço	n
 ,	,
+--SENTENCE--	n
 José	n
 Eduardo	n
 Pires	n
-Ass	n
-.	.
+--SENTENCE--	n
+Ass.	n
+--SENTENCE--	n
 de	prp
 Acólitos	n
 da	n
@@ -8066,6 +8488,11 @@ Paróquia	n
 de	prp
 Santo	n
 Eugénio	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Questões	n
 Frequentemente	n
 Perguntadas	n
@@ -8076,17 +8503,20 @@ Questions	n
 (	n
 FAQ	n
 )	n
+--SENTENCE--	n
 Instituto	n
 Brasileiro	n
 de	prp
 Advocacia	n
 Pública	n
+--SENTENCE--	n
 Questões	n
 frequentemente	adv
 perguntadas	n
 (	n
 FAQ	n
 )	n
+--SENTENCE--	n
 (	n
 Atenção	n
 :	n
@@ -8102,12 +8532,14 @@ abril	n
 de	prp
 2000	num
 .	.
+--SENTENCE--	n
 Algumas	n
 respostas	n
 ainda	adv
 não	adv
 foram	v-fin
 redigidas.	n
+--SENTENCE--	n
 Participe	n
 desta	n
 construção	n
@@ -8127,24 +8559,29 @@ ibap	n
 ibap.org	n
 )	n
 .	.
+--SENTENCE--	n
 1	num
 -	-
 APOSENTADOS/AS	n
+--SENTENCE--	n
 2	num
 -	-
 ESTAGIÁRIOS/AS	n
+--SENTENCE--	n
 3	num
 -	-
 ADVOGADOS/AS	n
 PÚBLICOS/AS	n
 EM	n
 ATIVIDADE	n
+--SENTENCE--	n
 4	num
 -	-
 ESTRUTURA	n
 ORGANIZACIONAL	n
 DO	n
 IBAP	n
+--SENTENCE--	n
 5	num
 -	-
 ATIVIDADES	n
@@ -8152,17 +8589,20 @@ DO	n
 IBAP	n
 VIA	n
 INTERNET	n
+--SENTENCE--	n
 6	num
 -	-
 PUBLICAÇÕES	n
 DO	n
 IBAP	n
+--SENTENCE--	n
 7	num
 -	-
 EVENTOS	n
 REALIZADOS/APOIADOS	n
 PELO	n
 IBAP	n
+--SENTENCE--	n
 8	num
 -	-
 IBAP	n
@@ -8173,18 +8613,23 @@ NOSSAS	n
 LUTAS	n
 E	n
 CAMPANHAS	n
+--SENTENCE--	n
 1	num
 -	-
 APOSENTADOS/AS	n
+--SENTENCE--	n
 1.1.	n
+--SENTENCE--	n
 Já	n
 estou	v-fin
 aposentado/a.	n
+--SENTENCE--	n
 Posso	n
 associar-me	n
 ao	prp
 IBAP	n
 ?	?
+--SENTENCE--	n
 Sim	n
 ,	,
 desde	prp
@@ -8198,7 +8643,9 @@ de	prp
 Advogado/a	n
 Público/a	n
 .	.
+--SENTENCE--	n
 1.2.	n
+--SENTENCE--	n
 Posso	n
 continuar	v-inf
 associado/a	n
@@ -8207,7 +8654,9 @@ quando	adv
 me	pron-pers
 aposentar	n
 ?	?
+--SENTENCE--	n
 Sim.	n
+--SENTENCE--	n
 O	n
 associado	v-pcp
 não	adv
@@ -8220,6 +8669,7 @@ de	prp
 aposentaria	n
 (	n
 art.	n
+--SENTENCE--	n
 4	num
 ,	,
 inc.	n
@@ -8230,6 +8680,7 @@ Estatuto	n
 Social	n
 )	n
 .	.
+--SENTENCE--	n
 Lembramos	n
 que	pron-indp
 diversos	pron-det
@@ -8243,13 +8694,17 @@ diretoria	n
 ,	,
 encontram-se	n
 aposentados.	n
+--SENTENCE--	n
 1.3.	n
+--SENTENCE--	n
 Associados	n
 aposentados	v-pcp
 pagam	v-fin
 mensalidades	n
 ?	?
+--SENTENCE--	n
 Sim.	n
+--SENTENCE--	n
 A	n
 situação	n
 do	n
@@ -8265,6 +8720,7 @@ do	n
 associado	v-pcp
 em	prp
 exercício.	n
+--SENTENCE--	n
 Pode	n
 ele	pron-pers
 candidatar-se	n
@@ -8301,6 +8757,7 @@ os	art
 seus	pron-det
 direitos	n
 associativos.	n
+--SENTENCE--	n
 Eventualmente	n
 ,	,
 se	conj-s
@@ -8327,19 +8784,25 @@ Financeira	n
 do	n
 IBAP	n
 .	.
+--SENTENCE--	n
 2	num
 -	-
 ESTAGIÁRIOS/AS	n
+--SENTENCE--	n
 2.1.	n
+--SENTENCE--	n
 Estagiário/a	n
 de	prp
 Direito	n
 pode	v-fin
 associar-se	n
 ?	?
+--SENTENCE--	n
 Sim.	n
+--SENTENCE--	n
 O	n
 art.	n
+--SENTENCE--	n
 3	num
 ,	,
 inciso	n
@@ -8385,12 +8848,16 @@ qualidade	n
 de	prp
 associados	n
 estagiários.	n
+--SENTENCE--	n
 2.2.	n
+--SENTENCE--	n
 Estagiários/as	n
 pagam	v-fin
 mensalidades	n
 ?	?
+--SENTENCE--	n
 Não.	n
+--SENTENCE--	n
 Não	n
 obstante	n
 inexista	n
@@ -8458,13 +8925,16 @@ Conselho	n
 Assessor	n
 (	n
 art.	n
+--SENTENCE--	n
 11	num
 do	n
 Estatuto	n
 Social	n
 )	n
 .	.
+--SENTENCE--	n
 2.3.	n
+--SENTENCE--	n
 Existem	n
 estagiários	n
 a	prp
@@ -8473,6 +8943,7 @@ do	n
 próprio	adj
 IBAP	n
 ?	?
+--SENTENCE--	n
 Atualmente	n
 ,	,
 não	adv
@@ -8480,6 +8951,7 @@ não	adv
 abril/2000	n
 )	n
 .	.
+--SENTENCE--	n
 Todavia	n
 ,	,
 nada	pron-indp
@@ -8507,13 +8979,16 @@ um	art
 corpo	n
 de	prp
 estagiários.	n
+--SENTENCE--	n
 3	num
 -	-
 ADVOGADOS/AS	n
 PÚBLICOS/AS	n
 EM	n
 ATIVIDADE	n
+--SENTENCE--	n
 3.1.	n
+--SENTENCE--	n
 Qual	n
 é	v-fin
 o	art
@@ -8522,11 +8997,12 @@ de	prp
 ``	n
 Advogado	n
 Público	n
-``	n
+''	n
 adotado	n
 pelo	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 São	n
 Advogados	n
 Públicos	n
@@ -8592,6 +9068,7 @@ e	conj-c
 fundacional	n
 (	n
 Art.	n
+--SENTENCE--	n
 3°	n
 ,	,
 §	n
@@ -8621,7 +9098,9 @@ do	n
 Brasil	n
 )	n
 .	.
+--SENTENCE--	n
 3.2.	n
+--SENTENCE--	n
 Qual	n
 é	v-fin
 o	art
@@ -8629,6 +9108,7 @@ valor	n
 das	n
 mensalidades	n
 ?	?
+--SENTENCE--	n
 Desde	n
 o	art
 dia	n
@@ -8651,6 +9131,7 @@ vinte	num
 reais	adj
 )	n
 .	.
+--SENTENCE--	n
 Nos	n
 débitos	n
 automáticos	n
@@ -8673,13 +9154,16 @@ relativo	adj
 a	prp
 taxa	n
 bancária.	n
+--SENTENCE--	n
 4	num
 -	-
 ESTRUTURA	n
 ORGANIZACIONAL	n
 DO	n
 IBAP	n
+--SENTENCE--	n
 4.1.	n
+--SENTENCE--	n
 Onde	n
 é	v-fin
 a	prp
@@ -8687,6 +9171,7 @@ sede	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 A	n
 sede	n
 do	n
@@ -8723,7 +9208,9 @@ Paulo	n
 /	/
 SP	n
 .	.
+--SENTENCE--	n
 4.2.	n
+--SENTENCE--	n
 Os	n
 diretores	n
 do	n
@@ -8739,7 +9226,9 @@ de	prp
 seu	pron-det
 mandato	n
 ?	?
+--SENTENCE--	n
 Não.	n
+--SENTENCE--	n
 Todos	n
 os	art
 diretores	n
@@ -8759,7 +9248,9 @@ como	adv
 Advogados	n
 Públicos	n
 .	.
+--SENTENCE--	n
 4.3.	n
+--SENTENCE--	n
 Quem	n
 é	v-fin
 o	art
@@ -8767,6 +9258,7 @@ presidente	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 A	n
 Diretoria	n
 do	n
@@ -8774,6 +9266,7 @@ IBAP	n
 tem	v-fin
 estrutura	n
 colegiada.	n
+--SENTENCE--	n
 A	n
 Diretoria	n
 Nacional	n
@@ -8796,7 +9289,9 @@ em	prp
 Assembléia	n
 Geral	n
 .	.
+--SENTENCE--	n
 4.4.	n
+--SENTENCE--	n
 Qual	n
 é	v-fin
 a	prp
@@ -8810,6 +9305,7 @@ pagamento	n
 das	n
 mensalidades	n
 ?	?
+--SENTENCE--	n
 Os	n
 associados	n
 regulares	n
@@ -8833,6 +9329,7 @@ dois	num
 reais	adj
 )	n
 .	.
+--SENTENCE--	n
 Desse	n
 total	adj
 ,	,
@@ -8858,6 +9355,7 @@ débito	n
 automático	adj
 em	prp
 conta.	n
+--SENTENCE--	n
 A	n
 verba	n
 destina-se	n
@@ -8910,7 +9408,9 @@ com	prp
 os	art
 objetivos	n
 estatutários.	n
+--SENTENCE--	n
 4.5.	n
+--SENTENCE--	n
 Onde	n
 se	pron-pers
 acha	v-fin
@@ -8921,6 +9421,7 @@ Social	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 O	n
 Estatuto	n
 Social	n
@@ -8933,7 +9434,9 @@ Estatuto	n
 Social	n
 do	n
 IBAP.	n
+--SENTENCE--	n
 4.6.	n
+--SENTENCE--	n
 Como	n
 posso	v-fin
 obter	v-inf
@@ -8944,6 +9447,7 @@ Social	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 A	n
 íntegra	n
 do	n
@@ -8959,6 +9463,7 @@ home-page	n
 http	n
 :	n
 //www.ibap.org/estatuto.htm	n
+--SENTENCE--	n
 5	num
 -	-
 ATIVIDADES	n
@@ -8966,7 +9471,9 @@ DO	n
 IBAP	n
 VIA	n
 INTERNET	n
+--SENTENCE--	n
 5.1.	n
+--SENTENCE--	n
 Preciso	n
 estar	v-inf
 conectado/a	n
@@ -8977,6 +9484,7 @@ participar	v-inf
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 Não	n
 obstante	n
 seja	v-fin
@@ -9012,6 +9520,7 @@ acesso	n
 a	prp
 essa	pron-det
 facilidade.	n
+--SENTENCE--	n
 Não	n
 há	v-fin
 absolutamente	adv
@@ -9029,7 +9538,9 @@ desenvolvidas	v-pcp
 pelo	n
 IBAP	n
 .	.
+--SENTENCE--	n
 5.2.	n
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
@@ -9040,6 +9551,7 @@ Debates	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 Listas	n
 de	prp
 debates	n
@@ -9056,6 +9568,7 @@ escrever	v-inf
 sobre	prp
 determinado	v-pcp
 assunto.	n
+--SENTENCE--	n
 Os	n
 associados	n
 inscritos	adj
@@ -9082,6 +9595,7 @@ inscritos	adj
 na	pron-pers
 mesma	pron-det
 lista.	n
+--SENTENCE--	n
 Eventualmente	n
 ,	,
 o	art
@@ -9093,7 +9607,9 @@ lista	n
 apenas	adv
 como	adv
 leitor.	n
+--SENTENCE--	n
 5.3.	n
+--SENTENCE--	n
 Como	n
 faço	v-fin
 para	prp
@@ -9105,6 +9621,7 @@ Debates	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 As	n
 informações	n
 básicas	adj
@@ -9120,12 +9637,15 @@ home-page	n
 http	n
 :	n
 //www.ibap.org/listas/insc_listas.htm	n
+--SENTENCE--	n
 6	num
 -	-
 PUBLICAÇÕES	n
 DO	n
 IBAP	n
+--SENTENCE--	n
 6.1.	n
+--SENTENCE--	n
 Quais	n
 são	v-fin
 as	art
@@ -9134,6 +9654,7 @@ editadas	n
 pelo	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 O	n
 IBAP	n
 já	adv
@@ -9154,7 +9675,7 @@ Pessoa	n
 Portadora	n
 de	prp
 Deficiência	n
-``	n
+''	n
 ,	,
 ``	n
 Primeiro	n
@@ -9163,7 +9684,7 @@ Brasileiro	n
 de	prp
 Advocacia	n
 Pública	n
-``	n
+''	n
 e	conj-c
 ``	n
 Temas	n
@@ -9172,7 +9693,7 @@ Direito	n
 Ambiental	n
 e	conj-c
 Urbanístico	n
-``	n
+''	n
 ,	,
 todos	pron-det
 pela	n
@@ -9185,6 +9706,7 @@ gratuitamente	adv
 aos	n
 associados	n
 regulares.	n
+--SENTENCE--	n
 No	n
 mês	n
 de	prp
@@ -9211,7 +9733,7 @@ Público	n
 André	n
 Franco	n
 Montoro	n
-``	n
+''	n
 ,	,
 pela	n
 Editora	n
@@ -9224,6 +9746,7 @@ gratuita	adj
 para	prp
 associados	n
 regulares.	n
+--SENTENCE--	n
 Além	n
 de	prp
 livros	n
@@ -9252,6 +9775,7 @@ em	prp
 sua	pron-det
 nona	n
 edição.	n
+--SENTENCE--	n
 A	n
 partir	v-inf
 de	prp
@@ -9282,6 +9806,7 @@ gratuitamente	adv
 aos	n
 associados	n
 regulares.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 também	adv
@@ -9295,7 +9820,9 @@ Debate	n
 ,	,
 consiscia	n
 Internet.	n
+--SENTENCE--	n
 6.2.	n
+--SENTENCE--	n
 Como	n
 faço	v-fin
 para	prp
@@ -9307,6 +9834,7 @@ edição	n
 do	n
 IBAP	n
 ?	?
+--SENTENCE--	n
 Todas	n
 as	art
 colaborações	n
@@ -9321,6 +9849,7 @@ da	n
 Comissão	n
 Editorial	n
 .	.
+--SENTENCE--	n
 Os	n
 associados	n
 poderão	v-fin
@@ -9349,13 +9878,16 @@ IBAP	n
 ,	,
 em	prp
 disquete.	n
+--SENTENCE--	n
 7	num
 -	-
 EVENTOS	n
 REALIZADOS/APOIADOS	n
 PELO	n
 IBAP	n
+--SENTENCE--	n
 7.1.	n
+--SENTENCE--	n
 Que	n
 eventos	n
 já	adv
@@ -9365,6 +9897,7 @@ IBAP	n
 até	prp
 hoje	adv
 ?	?
+--SENTENCE--	n
 Estamos	n
 arquivando	n
 em	prp
@@ -9375,6 +9908,7 @@ os	art
 eventos	n
 já	adv
 realizados.	n
+--SENTENCE--	n
 Neste	n
 endereço	n
 ,	,
@@ -9391,7 +9925,9 @@ e	conj-c
 Coongressos	n
 já	adv
 realizados	v-pcp
+--SENTENCE--	n
 7.2.	n
+--SENTENCE--	n
 Quais	n
 eventos	n
 planeja	v-fin
@@ -9399,6 +9935,7 @@ o	art
 IBAP	n
 realizar	v-fin
 ?	?
+--SENTENCE--	n
 Estamos	n
 inserindo	n
 em	prp
@@ -9409,6 +9946,7 @@ programação	n
 dos	prop
 próximos	adj
 eventos.	n
+--SENTENCE--	n
 Aqui	n
 ,	,
 você	pron-pers
@@ -9423,7 +9961,9 @@ Cursos	n
 Semiinários	n
 e	conj-c
 Congressos	n
+--SENTENCE--	n
 7.3.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 realiza	v-fin
@@ -9435,6 +9975,7 @@ de	prp
 São	n
 Paulo	n
 ?	?
+--SENTENCE--	n
 Os	n
 eventos	n
 promovidos	v-pcp
@@ -9458,6 +9999,7 @@ localiza	prop
 sua	pron-det
 sede	n
 social.	n
+--SENTENCE--	n
 O	n
 I	n
 Congresso	n
@@ -9478,6 +10020,7 @@ Jordão	n
 /	/
 SP	n
 .	.
+--SENTENCE--	n
 O	n
 II	n
 Congresso	n
@@ -9491,6 +10034,7 @@ Lourenço	n
 /	/
 MG	n
 .	.
+--SENTENCE--	n
 O	n
 III	n
 Congresso	n
@@ -9505,6 +10049,7 @@ Salvador	n
 /	/
 BA	n
 .	.
+--SENTENCE--	n
 O	n
 IV	n
 Congresso	n
@@ -9527,6 +10072,7 @@ Rio	n
 de	prp
 Janeiro	n
 .	.
+--SENTENCE--	n
 As	n
 atividades	n
 desenvolvidas	v-pcp
@@ -9540,6 +10086,7 @@ pelos	n
 Coordenadores	n
 Regionais	n
 .	.
+--SENTENCE--	n
 8	num
 -	-
 IBAP	n
@@ -9550,7 +10097,9 @@ NOSSAS	n
 LUTAS	n
 E	n
 CAMPANHAS	n
+--SENTENCE--	n
 8.1.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 é	v-fin
@@ -9560,9 +10109,11 @@ algum	pron-det
 partido	n
 político	adj
 ?	?
+--SENTENCE--	n
 R	n
 :	n
 Não.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 não	adv
@@ -9570,6 +10121,7 @@ tem	v-fin
 vinculação	n
 partidária	adj
 alguma.	n
+--SENTENCE--	n
 Não	n
 há	v-fin
 ,	,
@@ -9583,6 +10135,7 @@ político	adj
 com	prp
 neutralidade	n
 política.	n
+--SENTENCE--	n
 Para	n
 a	prp
 implementação	n
@@ -9693,6 +10246,7 @@ da	n
 Administração	n
 Pública	n
 .	.
+--SENTENCE--	n
 O	n
 IBAP	n
 atua	v-fin
@@ -9720,7 +10274,9 @@ do	n
 Advogado	n
 Público	n
 .	.
+--SENTENCE--	n
 8.2.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 é	v-fin
@@ -9730,6 +10286,7 @@ alguma	pron-det
 entidade	n
 internacional	adj
 ?	?
+--SENTENCE--	n
 R	n
 :	n
 Não	n
@@ -9762,7 +10319,9 @@ vínculo	n
 com	prp
 entidades	n
 internacionais.	n
+--SENTENCE--	n
 8.3.	n
+--SENTENCE--	n
 O	n
 que	pron-indp
 o	art
@@ -9778,6 +10337,7 @@ de	prp
 Advocacia	n
 Pública	n
 ?	?
+--SENTENCE--	n
 R	n
 :	n
 A	n
@@ -9820,6 +10380,7 @@ de	prp
 Advocacia	n
 Pública	n
 .	.
+--SENTENCE--	n
 O	n
 editorial	adj
 do	n
@@ -9827,6 +10388,7 @@ Boletim	n
 Advocacia	n
 Pública	n
 n.	n
+--SENTENCE--	n
 1	num
 ,	,
 intitulado	v-pcp
@@ -9837,7 +10399,7 @@ dos	prop
 de	prp
 Advocacia	n
 Pública	n
-``	n
+''	n
 ,	,
 oferece	v-fin
 as	art
@@ -9848,6 +10410,7 @@ nossa	pron-det
 linha	n
 de	prp
 atuação.	n
+--SENTENCE--	n
 Esse	n
 tema	n
 abriu	v-fin
@@ -9882,6 +10445,7 @@ ano	n
 de	prp
 1995	num
 .	.
+--SENTENCE--	n
 No	n
 dia	n
 25	num
@@ -9964,6 +10528,7 @@ Direito	n
 da	n
 USP	n
 .	.
+--SENTENCE--	n
 O	n
 evento	n
 encontra-se	n
@@ -9978,6 +10543,7 @@ regulares	n
 do	n
 IBAP	n
 .	.
+--SENTENCE--	n
 A	n
 palestra	n
 da	n
@@ -9999,13 +10565,14 @@ Advocacia	n
 Pública	n
 em	prp
 Debate	n
-``	n
+''	n
 ,	,
 também	adv
 disponíveis	adj
 para	prp
 associados	n
 regulares.	n
+--SENTENCE--	n
 Em	n
 1997	num
 ,	,
@@ -10061,7 +10628,7 @@ Pública	n
 Tendências	n
 e	conj-c
 Desafios	n
-``	n
+''	n
 e	conj-c
 o	art
 Deputado	n
@@ -10086,8 +10653,9 @@ frente	n
 ao	prp
 Poder	n
 Público	n
-``	n
+''	n
 .	.
+--SENTENCE--	n
 No	n
 âmbito	n
 judicial	adj
@@ -10130,7 +10698,9 @@ da	n
 Fazenda	n
 Nacional	n
 .	.
+--SENTENCE--	n
 8.4.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 na	pron-pers
@@ -10145,6 +10715,7 @@ Portadora	n
 de	prp
 Deficiência	n
 .	.
+--SENTENCE--	n
 Além	n
 de	prp
 publicar	v-inf
@@ -10157,7 +10728,7 @@ Pessoa	n
 Portadora	n
 de	prp
 Deficiência	n
-``	n
+''	n
 e	conj-c
 promover	v-inf
 o	art
@@ -10173,7 +10744,7 @@ Pessoa	n
 Portadora	n
 de	prp
 Deficiência	n
-``	n
+''	n
 ,	,
 o	art
 IBAP	n
@@ -10196,7 +10767,9 @@ publicações	n
 links	n
 e	conj-c
 legislação.	n
+--SENTENCE--	n
 8.5.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 na	pron-pers
@@ -10206,7 +10779,9 @@ defesa	n
 do	n
 Meio	n
 Ambiente	n
+--SENTENCE--	n
 8.6.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 e	conj-c
@@ -10217,7 +10792,9 @@ Gênero	n
 (	n
 Mulher	n
 )	n
+--SENTENCE--	n
 8.7.	n
+--SENTENCE--	n
 O	n
 IBAP	n
 na	pron-pers
@@ -10227,9 +10804,15 @@ erradicação	n
 do	n
 trabalho	n
 infantil	adj
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Bibliografia	n
 de	prp
 Censurados	n
+--SENTENCE--	n
 Os	n
 Censurados	n
 nasceram	v-fin
@@ -10273,6 +10856,7 @@ ainda	adv
 Fred	n
 Valsassina	n
 .	.
+--SENTENCE--	n
 Os	n
 Censurados	n
 começaram	v-fin
@@ -10280,7 +10864,9 @@ por	prp
 tocar	v-inf
 ao	prp
 vivo.	n
+--SENTENCE--	n
 Muito.	n
+--SENTENCE--	n
 As	n
 letras	n
 ,	,
@@ -10304,6 +10890,7 @@ da	n
 era	v-fin
 Cavaquista	n
 .	.
+--SENTENCE--	n
 O	n
 primeiro	adj
 registo	n
@@ -10314,19 +10901,19 @@ na	pron-pers
 compilação	n
 ``	n
 Feedback	n
-``	n
+''	n
 incluiu	n
 os	art
 temas	n
 ``	n
 Senhores	n
 Politicos	n
-``	n
+''	n
 ,	,
 Não	n
 Vales	n
 Nada	n
-``	n
+''	n
 e	conj-c
 ``	n
 Está	n
@@ -10334,32 +10921,33 @@ a	prp
 andar	v-inf
 de	prp
 Mota	n
-``	n
+''	n
 (	n
 um	art
 instrumental	n
 )	n
 .	.
+--SENTENCE--	n
 ''	n
 Tu	n
 ò	n
 Bófia	n
-``	n
+''	n
 ,	,
 ``	n
 Não	n
 Vales	n
 Nada	n
-``	n
+''	n
 ,	,
 ``	n
 Angústia	n
-``	n
+''	n
 ,	,
 ``	n
 Senhores	n
 Politicos	n
-``	n
+''	n
 eram	v-fin
 temas	n
 fortíssimos	n
@@ -10385,9 +10973,10 @@ do	n
 álbum	n
 ``	n
 Censurados	n
-``	n
+''	n
 1990	num
 .	.
+--SENTENCE--	n
 Este	n
 disco	n
 é	v-fin
@@ -10435,6 +11024,7 @@ das	n
 prestações	n
 dos	prop
 músicos.	n
+--SENTENCE--	n
 Em	n
 1991	num
 editam	n
@@ -10443,7 +11033,7 @@ o	art
 album	n
 ``	n
 Confusão	n
-``	n
+''	n
 e	conj-c
 passam	v-fin
 os	art
@@ -10451,13 +11041,14 @@ anos	n
 seguintes	adj
 na	pron-pers
 estrada.	n
+--SENTENCE--	n
 Em	n
 1993	num
 sai	v-fin
 o	art
 ``	n
 Sopa	n
-``	n
+''	n
 com	prp
 o	art
 single	n
@@ -10477,8 +11068,9 @@ Estou	n
 agarrado	v-pcp
 a	prp
 ti	pron-pers
-``	n
+''	n
 .	.
+--SENTENCE--	n
 O	n
 ano	n
 de	prp
@@ -10502,7 +11094,7 @@ Afonso	n
 Filhos	n
 da	n
 Madrugada	n
-``	n
+''	n
 com	prp
 a	art
 reedição	n
@@ -10513,8 +11105,9 @@ O	n
 que	pron-indp
 faz	v-fin
 falta	n
-``	n
+''	n
 .	.
+--SENTENCE--	n
 Em	n
 1998	num
 a	prp
@@ -10522,7 +11115,7 @@ editora	n
 ``	n
 El	n
 Tatu	n
-``	n
+''	n
 de	prp
 Tim	n
 reedita	n
@@ -10530,12 +11123,13 @@ os	art
 albuns	n
 ``	n
 Censurados	n
-``	n
+''	n
 e	conj-c
 ``	n
 Sopa	n
-``	n
+''	n
 .	.
+--SENTENCE--	n
 Em	n
 1999	num
 os	art
@@ -10562,8 +11156,9 @@ XX	n
 Anos	n
 XX	n
 Bandas	n
-``	n
+''	n
 .	.
+--SENTENCE--	n
 Participaram	n
 na	pron-pers
 tourné	n
@@ -10592,6 +11187,7 @@ não	adv
 voltando	v-ger
 nunca	adv
 mais.	n
+--SENTENCE--	n
 Em	n
 2006	n
 é	v-fin
@@ -10605,7 +11201,7 @@ banda	n
 Censurados	n
 Até	n
 Morrer	n
-``	n
+''	n
 ,	,
 escrita	v-pcp
 por	prp
@@ -10615,9 +11211,14 @@ e	conj-c
 Renato	n
 Conteiro	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 História	n
 protege	v-fin
 Briosa	n
+--SENTENCE--	n
 CONIMBRICENSES	n
 VENCEU	n
 NA	n
@@ -10628,6 +11229,7 @@ NAS	n
 DUAS	n
 ÚLTIMAS	n
 ÉPOCAS	n
+--SENTENCE--	n
 Naval	n
 e	conj-c
 Académica	n
@@ -10640,6 +11242,7 @@ olhar	v-inf
 para	prp
 a	art
 tradição.	n
+--SENTENCE--	n
 É	n
 que	pron-indp
 a	art
@@ -10694,6 +11297,7 @@ posicionada	n
 na	pron-pers
 Liga	n
 .	.
+--SENTENCE--	n
 No	n
 ano	n
 passado	v-pcp
@@ -10714,7 +11318,9 @@ Domingos	n
 desvaloriza	n
 tudo	pron-indp
 isso.	n
-«A	n
+--SENTENCE--	n
+«	«
+A	n
 história	n
 nem	conj-c
 sempre	adv
@@ -10725,6 +11331,7 @@ não	adv
 há	v-fin
 jogos	n
 iguais.	n
+--SENTENCE--	n
 Aliás	n
 ,	,
 a	art
@@ -10738,7 +11345,8 @@ vamos	v-fin
 encontrar	v-inf
 um	art
 adversário	n
-forte.»	n
+forte.	n
+»	»
 Para	n
 facilitar	v-inf
 os	art
@@ -10755,7 +11363,8 @@ Figueira	n
 da	n
 Foz	n
 ,	,
-«mais	n
+«	«
+mais	adv
 adeptos	n
 da	n
 Académica	n
@@ -10763,7 +11372,12 @@ do	n
 que	pron-indp
 da	n
 Naval	n
-».	n
+»	»
+.	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Tabaco	n
 :	n
 Associação	n
@@ -10773,6 +11387,7 @@ de	prp
 presidente	n
 da	n
 ASAE	n
+--SENTENCE--	n
 O	n
 presidente	n
 da	n
@@ -10788,9 +11403,11 @@ CPPT	n
 )	n
 considerou	v-fin
 hoje	adv
-«um	n
+«	«
+um	art
 exemplo	n
-lamentável»	n
+lamentável	adj
+»	»
 o	art
 facto	n
 de	prp
@@ -10821,6 +11438,7 @@ lei	n
 do	n
 Tabaco	n
 .	.
+--SENTENCE--	n
 António	n
 Nunes	n
 ,	,
@@ -10884,6 +11502,7 @@ dia	n
 de	prp
 Janeiro	n
 .	.
+--SENTENCE--	n
 Em	n
 explicações	n
 ao	prp
@@ -10896,7 +11515,8 @@ que	conj-s
 a	art
 nova	adj
 lei	n
-«não	n
+«	«
+não	adv
 proíbe	v-fin
 expressamente	adv
 o	art
@@ -10907,7 +11527,8 @@ e	conj-c
 nas	pron-pers
 salas	n
 de	prp
-jogos»	n
+jogos	n
+»	»
 ,	,
 justificando	v-ger
 com	prp
@@ -10935,6 +11556,7 @@ ao	prp
 consumo	n
 de	prp
 tabaco.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -10960,7 +11582,8 @@ e	conj-c
 salas	n
 de	prp
 jogo	n
-«sendo	n
+«	«
+sendo	v-ger
 locais	adj
 fechados	v-pcp
 não	adv
@@ -10974,7 +11597,8 @@ no	pron-pers
 da	n
 aplicação	n
 a	prp
-lei»	n
+lei	n
+»	»
 ,	,
 além	adv
 de	prp
@@ -10983,11 +11607,16 @@ abrangidos	v-pcp
 na	pron-pers
 lei	n
 por	prp
-«serem	n
-locais	adj
+«	«
+serem	v-inf
+locais	n
 de	prp
-trabalho».	n
-«Trata-se	n
+trabalho	n
+»	»
+.	.
+--SENTENCE--	n
+«	«
+Trata-se	n
 de	prp
 uma	art
 daquelas	n
@@ -11007,7 +11636,8 @@ face	n
 de	prp
 uma	art
 dependência	n
-grave»	n
+grave	adj
+»	»
 ,	,
 disse	v-fin
 à	n
@@ -11026,6 +11656,7 @@ Tabagismo	n
 Luís	n
 Rebelo	n
 .	.
+--SENTENCE--	n
 Luís	n
 Rebelo	n
 desvalorizou	v-fin
@@ -11047,9 +11678,12 @@ de	prp
 António	n
 Nunes	n
 a	prp
-«um	n
-automatismo»	n
+«	«
+um	art
+automatismo	n
+»	»
 inconsciente.	n
+--SENTENCE--	n
 Sobre	n
 as	art
 dúvidas	n
@@ -11074,9 +11708,11 @@ considerou	v-fin
 que	conj-s
 a	art
 legislação	n
-«é	n
-clara»	n
-quanto	adv
+«	«
+é	v-fin
+clara	adj
+»	»
+quanto	pron-det
 à	n
 proibição	n
 de	prp
@@ -11087,7 +11723,9 @@ e	conj-c
 salas	n
 de	prp
 jogos.	n
-«Não	n
+--SENTENCE--	n
+«	«
+Não	n
 pode	v-fin
 haver	v-inf
 dúvidas	n
@@ -11104,9 +11742,11 @@ entidades	n
 responsáveis	adj
 pela	n
 sua	pron-det
-fiscalização»	n
+fiscalização	n
+»	»
 ,	,
 disse.	n
+--SENTENCE--	n
 Sobre	n
 os	art
 primeiros	adj
@@ -11133,18 +11773,24 @@ lei	n
 está	v-fin
 a	prp
 ter	v-inf
-«uma	n
-óptima»	n
+«	«
+uma	art
+óptima	adj
+»	»
 aplicação	n
 com	prp
-«a	n
+«	«
+a	art
 generalidade	n
 dos	prop
 fumadores	n
 a	prp
 compreender	v-inf
 a	art
-proibição».	n
+proibição	n
+»	»
+.	.
+--SENTENCE--	n
 A	n
 lei	n
 do	n
@@ -11180,6 +11826,7 @@ dia	n
 de	prp
 Janeiro	n
 .	.
+--SENTENCE--	n
 A	n
 Lusa	n
 tentou	v-fin
@@ -11200,6 +11847,10 @@ até	prp
 ao	prp
 momento	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Mundial	n
 :	n
 Rui	n
@@ -11208,6 +11859,7 @@ e	conj-c
 Lobos	n
 arrepiam	n
 franceses	adj
+--SENTENCE--	n
 NÃO	n
 FOI	n
 SÓ	n
@@ -11220,6 +11872,7 @@ PUXOU	n
 PELAS	n
 EMOÇÕES	n
 FORTES	n
+--SENTENCE--	n
 Os	n
 homens	n
 também	adv
@@ -11243,6 +11896,7 @@ Escócia	n
 -	-
 Portugal	n
 .	.
+--SENTENCE--	n
 As	n
 imagens	n
 emocionaram	v-fin
@@ -11251,6 +11905,7 @@ País	n
 mas	conj-c
 não	adv
 só.	n
+--SENTENCE--	n
 No	n
 bloco	n
 informativo	n
@@ -11278,7 +11933,8 @@ incrível	adj
 do	n
 Mundial	n
 até	prp
-agora»	n
+agora	adv
+»	»
 e	conj-c
 ,	,
 de	prp
@@ -11297,6 +11953,7 @@ os	art
 Lobos	n
 a	prp
 chorarem.	n
+--SENTENCE--	n
 Não	n
 é	v-fin
 todos	pron-det
@@ -11306,7 +11963,9 @@ que	pron-indp
 se	pron-pers
 vê	v-fin
 um	art
-«gigante»	n
+«	«
+gigante	n
+»	»
 de	prp
 1,84	n
 metros	n
@@ -11318,6 +11977,7 @@ chorar	v-inf
 como	adv
 uma	art
 criança.	n
+--SENTENCE--	n
 Mas	n
 Rui	n
 Cordeiro	n
@@ -11331,18 +11991,25 @@ impressionou	v-fin
 a	prp
 cantar	v-inf
 hino.	n
+--SENTENCE--	n
 Logo	n
 ele	pron-pers
 ,	,
 que	pron-indp
-«é	n
+«	«
+é	v-fin
 difícil	adj
 ir	v-inf
 às	n
-lágrimas».	n
-«Senti	n
+lágrimas	n
+»	»
+.	.
+--SENTENCE--	n
+«	«
+Senti	n
 tanta	pron-det
 coisa.	n
+--SENTENCE--	n
 O	n
 hino	n
 sempre	adv
@@ -11361,6 +12028,7 @@ cantamos	n
 ,	,
 gritamos	n
 !	!
+--SENTENCE--	n
 Depois	n
 entre	prp
 o	art
@@ -11379,16 +12047,19 @@ quase	adv
 vazias	adj
 ,	,
 compuseram-se.	n
+--SENTENCE--	n
 Deu-me	n
 muitas	pron-det
-ganas»	n
+ganas	n
+»	»
 ,	,
 explicou	v-fin
 Cordeiro	n
 ,	,
 prosseguindo	n
 :	n
-«Assim	n
+«	«
+Assim	n
 como	adv
 a	art
 Nova	n
@@ -11406,8 +12077,11 @@ com	prp
 '	'
 A	n
 Portuguesa	n
-'.»	n
+'.	n
+»	»
+--SENTENCE--	n
 Esforço	n
+--SENTENCE--	n
 Durante	n
 o	art
 apuramento	n
@@ -11418,6 +12092,7 @@ dos	prop
 que	pron-indp
 mais	adv
 sofreu.	n
+--SENTENCE--	n
 Sempre	n
 que	pron-indp
 havia	v-fin
@@ -11428,7 +12103,8 @@ veterinário	n
 e	conj-c
 inspector	n
 sanitário	adj
-«saía	n
+«	«
+saía	v-fin
 do	n
 trabalho	n
 ``	n
@@ -11450,8 +12126,11 @@ da	n
 uma	art
 da	n
 madrugada	n
-».	n
-«Aconteceu	n
+»	»
+.	.
+--SENTENCE--	n
+«	«
+Aconteceu	n
 ter	v-inf
 de	prp
 me	pron-pers
@@ -11461,12 +12140,15 @@ levantar	v-inf
 horas	n
 para	prp
 ir	v-inf
-trabalhar»	n
+trabalhar	v-inf
+»	»
 ,	,
 conta.	n
+--SENTENCE--	n
 Adeus	n
 à	n
 Selecção	n
+--SENTENCE--	n
 O	n
 último	adj
 jogo	n
@@ -11483,7 +12165,9 @@ derradeiro	adj
 da	n
 carreira	n
 internacional.	n
-«É	n
+--SENTENCE--	n
+«	«
+É	n
 complicado	v-pcp
 conciliar	v-inf
 a	art
@@ -11492,7 +12176,8 @@ Nacional	n
 com	prp
 a	art
 carreira	n
-profissional»	n
+profissional	adj
+»	»
 ,	,
 justifica	v-fin
 o	art
@@ -11509,9 +12194,12 @@ Divisão	n
 de	prp
 Honra	n
 .	.
-«Há	n
+--SENTENCE--	n
+«	«
+Há	n
 muitas	pron-det
 dificuldades.	n
+--SENTENCE--	n
 Mesmo	n
 com	prp
 o	art
@@ -11533,12 +12221,14 @@ Maio	n
 ,	,
 e	conj-c
 isso	pron-indp
-notou-se»	n
+notou-se	n
+»	»
 ,	,
 explicou	v-fin
 com	prp
 alguma	pron-det
 mágoa.	n
+--SENTENCE--	n
 Assim	n
 ,	,
 o	art
@@ -11551,8 +12241,13 @@ trazer-nos	n
 um	art
 Cordeiro	n
 mais	adv
-«chorão».	n
-«Vai	n
+«	«
+chorão	n
+»	»
+.	.
+--SENTENCE--	n
+«	«
+Vai	n
 haver	v-inf
 choradeira	n
 no	pron-pers
@@ -11563,7 +12258,8 @@ fim	n
 ,	,
 o	art
 tempo	n
-todo»	n
+todo	pron-det
+»	»
 ,	,
 promete	v-fin
 ,	,
@@ -11574,16 +12270,24 @@ pilar	n
 ,	,
 que	pron-indp
 vai	v-fin
-«continuar	n
+«	«
+continuar	v-inf
 na	pron-pers
 Académica	n
 enquanto	adv
 der	v-fin
-gozo».	n
+gozo	n
+»	»
+.	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Uma	n
 nação	n
 de	prp
 pedintes	n
+--SENTENCE--	n
 O	n
 PRESIDENTE	n
 Sarkozy	n
@@ -11613,6 +12317,7 @@ fim	n
 de	prp
 2008	n
 .	.
+--SENTENCE--	n
 O	n
 Presidente	n
 ou	conj-c
@@ -11626,6 +12331,7 @@ ou	conj-c
 as	art
 duas	num
 coisas.	n
+--SENTENCE--	n
 Depois	n
 do	n
 falhanço	n
@@ -11686,6 +12392,7 @@ débeis	n
 o	art
 menos	adv
 adequado.	n
+--SENTENCE--	n
 Tony	n
 Blair	n
 ,	,
@@ -11736,12 +12443,14 @@ ele	pron-pers
 pode	v-fin
 ser	v-inf
 resolvido.	n
+--SENTENCE--	n
 Blair	n
 não	adv
 sabe	v-fin
 o	art
 que	pron-indp
 diz.	n
+--SENTENCE--	n
 A	n
 verdade	n
 é	v-fin
@@ -11794,6 +12503,7 @@ israelitas	adj
 ,	,
 Gaza	n
 .	.
+--SENTENCE--	n
 Anos	n
 e	conj-c
 anos	n
@@ -11818,6 +12528,7 @@ uma	art
 nação	n
 de	prp
 pedintes.	n
+--SENTENCE--	n
 Gaza	n
 subvive	n
 das	n
@@ -11849,6 +12560,7 @@ das	n
 Nações	n
 Unidas	n
 .	.
+--SENTENCE--	n
 Nenhuma	n
 nação	n
 palestiniana	adj
@@ -11882,6 +12594,7 @@ povo	n
 e	conj-c
 esse	pron-det
 território.	n
+--SENTENCE--	n
 No	n
 terreno	n
 ,	,
@@ -11891,6 +12604,7 @@ pior	adj
 situação	n
 de	prp
 sempre.	n
+--SENTENCE--	n
 O	n
 Hamas	n
 a	prp
@@ -11908,6 +12622,7 @@ manda	v-fin
 na	pron-pers
 Cisjordânia	n
 .	.
+--SENTENCE--	n
 Sarkozy	n
 ,	,
 e	conj-c
@@ -11963,6 +12678,7 @@ popular	adj
 em	prp
 Gaza	n
 .	.
+--SENTENCE--	n
 Se	n
 realizassem	v-fin
 eleições	n
@@ -11995,6 +12711,7 @@ onde	adv
 o	art
 Hamas	n
 ganhou.	n
+--SENTENCE--	n
 Abbas	n
 pode	v-fin
 fingir	v-inf
@@ -12041,6 +12758,7 @@ e	conj-c
 Jerusalém	n
 Oriental	n
 .	.
+--SENTENCE--	n
 Abbas	n
 ,	,
 arrastando-se	n
@@ -12098,6 +12816,7 @@ Ocidente	n
 e	conj-c
 um	art
 traidor.	n
+--SENTENCE--	n
 Os	n
 israelitas	adj
 sabem	v-fin
@@ -12117,6 +12836,7 @@ quimera	n
 do	n
 road	n
 map.	n
+--SENTENCE--	n
 Israel	n
 ,	,
 sabendo	v-ger
@@ -12185,6 +12905,7 @@ sua	pron-det
 supremacia	n
 militar	adj
 assegura.	n
+--SENTENCE--	n
 O	n
 Hamas	n
 está	v-fin
@@ -12196,6 +12917,7 @@ em	prp
 administrar	v-inf
 a	art
 resistência.	n
+--SENTENCE--	n
 Israel	n
 só	adv
 seria	v-fin
@@ -12242,6 +12964,7 @@ força	n
 do	n
 lobby	n
 judeu.	n
+--SENTENCE--	n
 Nenhum	n
 candidato	n
 democrata	adj
@@ -12258,6 +12981,7 @@ este	pron-det
 estado	n
 de	prp
 coisas.	n
+--SENTENCE--	n
 A	n
 posição	n
 da	n
@@ -12281,6 +13005,7 @@ política	adj
 a	prp
 mais	pron-det
 contraproducente.	n
+--SENTENCE--	n
 A	n
 Europa	n
 prefere	v-fin
@@ -12303,6 +13028,7 @@ numa	n
 nação	n
 de	prp
 pedintes.	n
+--SENTENCE--	n
 A	n
 velha	adj
 e	conj-c
@@ -12344,6 +13070,7 @@ israelitas	n
 por	prp
 má	adj
 consciência.	n
+--SENTENCE--	n
 Sabe	n
 também	adv
 que	conj-s
@@ -12370,6 +13097,7 @@ dessa	n
 opressão	n
 lhe	pron-pers
 pertence.	n
+--SENTENCE--	n
 Como	n
 contribui	v-fin
 para	prp
@@ -12406,6 +13134,7 @@ Solanas	n
 o	art
 exemplo	n
 acabado.	n
+--SENTENCE--	n
 A	n
 rematar	v-inf
 o	art
@@ -12415,6 +13144,7 @@ a	art
 Europa	n
 passa	v-fin
 cheques.	n
+--SENTENCE--	n
 Os	n
 palestinianos	adj
 habituaram-se	n
@@ -12447,6 +13177,7 @@ a	art
 uma	art
 compensação	n
 monetária.	n
+--SENTENCE--	n
 Muitos	n
 milhões	n
 acabam	v-fin
@@ -12466,6 +13197,7 @@ bolsos	n
 de	prp
 uma	art
 oligarquia.	n
+--SENTENCE--	n
 Tanto	n
 dinheiro	n
 não	adv
@@ -12479,6 +13211,7 @@ não	adv
 estão	v-fin
 à	n
 venda.	n
+--SENTENCE--	n
 Os	n
 palestinianos	adj
 vêem	v-fin
@@ -12504,6 +13237,7 @@ ou	conj-c
 Jihad	n
 Islâmica	n
 .	.
+--SENTENCE--	n
 Em	n
 Gaza	n
 ,	,
@@ -12512,6 +13246,7 @@ crianças	n
 querem	v-fin
 ser	v-inf
 mártires.	n
+--SENTENCE--	n
 E	n
 sem	prp
 Gaza	n
@@ -12520,9 +13255,15 @@ não	adv
 haverá	v-fin
 Palestina	n
 .	.
+--SENTENCE--	n
 Clara	n
 Ferreira	n
 Alves	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Camacho	n
 ganhou	v-fin
 sempre	adv
@@ -12533,6 +13274,7 @@ não	adv
 ao	prp
 FC	n
 Porto	n
+--SENTENCE--	n
 AS	n
 ESTATÍSTICAS	n
 DO	n
@@ -12542,6 +13284,7 @@ SÁBADO	n
 QUANTO	n
 À	n
 LIGA	n
+--SENTENCE--	n
 Se	n
 as	art
 estatísticas	n
@@ -12559,6 +13302,7 @@ de	prp
 sábado	n
 com	prp
 optimismo.	n
+--SENTENCE--	n
 O	n
 espanhol	adj
 soma	n
@@ -12584,6 +13328,7 @@ Benfica	n
 em	prp
 2002/2003	n
 .	.
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -12606,6 +13351,7 @@ Porto	n
 para	prp
 o	art
 campeonato.	n
+--SENTENCE--	n
 Em	n
 três	num
 ``	n
@@ -12648,6 +13394,7 @@ em	prp
 2003/2004	n
 )	n
 .	.
+--SENTENCE--	n
 O	n
 espanhol	adj
 está	v-fin
@@ -12684,6 +13431,7 @@ em	prp
 1-1	num
 )	n
 .	.
+--SENTENCE--	n
 Na	n
 mesma	pron-det
 temporada	n
@@ -12708,6 +13456,7 @@ casa	n
 por	prp
 1-0	num
 .	.
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -12734,6 +13483,7 @@ título	n
 da	n
 sua	pron-det
 carreira.	n
+--SENTENCE--	n
 A	n
 16	num
 de	prp
@@ -12796,6 +13546,7 @@ AS	n
 Mónaco	n
 )	n
 .	.
+--SENTENCE--	n
 Por	n
 seu	pron-det
 lado	n
@@ -12855,10 +13606,15 @@ Luz	n
 1-1	num
 )	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Novidades	n
 na	pron-pers
 Macworld	n
 2007	n
+--SENTENCE--	n
 Apple	n
 lançou	v-fin
 o	art
@@ -12871,6 +13627,7 @@ esperado	v-pcp
 dos	prop
 últimos	adj
 tempos	n
+--SENTENCE--	n
 Sempre	n
 é	v-fin
 o	art
@@ -12888,6 +13645,7 @@ dos	prop
 últimos	adj
 meses	n
 .	.
+--SENTENCE--	n
 A	n
 Apple	n
 ,	,
@@ -12915,6 +13673,7 @@ na	pron-pers
 área	n
 das	n
 telecomunicações.	n
+--SENTENCE--	n
 O	n
 novo	adj
 telemóvel	n
@@ -12930,6 +13689,7 @@ um	art
 leitor	n
 multimédia	adj
 portátil.	n
+--SENTENCE--	n
 Funciona	n
 com	prp
 o	art
@@ -12958,6 +13718,7 @@ ou	conj-c
 os	art
 vídeos	n
 preferidos.	n
+--SENTENCE--	n
 O	n
 anúncio	n
 foi	v-fin
@@ -12989,6 +13750,7 @@ apresentar	v-inf
 as	art
 suas	pron-det
 novidades.	n
+--SENTENCE--	n
 Como	n
 de	prp
 costume	v-fin
@@ -13014,7 +13776,9 @@ fãs	n
 da	n
 Apple	n
 .	.
+--SENTENCE--	n
 ``	n
+--SENTENCE--	n
 De	n
 vez	n
 em	prp
@@ -13026,6 +13790,7 @@ revolucionário	n
 que	pron-indp
 muda	v-fin
 tudo.	n
+--SENTENCE--	n
 É	n
 sorte	n
 se	pron-pers
@@ -13053,6 +13818,7 @@ disse	v-fin
 Steve	n
 Jobs	n
 .	.
+--SENTENCE--	n
 O	n
 novo	adj
 telefone	n
@@ -13098,6 +13864,7 @@ de	prp
 500	num
 dólares	n
 .	.
+--SENTENCE--	n
 À	n
 Europa	n
 chegará	v-fin
@@ -13113,6 +13880,7 @@ só	adv
 em	prp
 2008	n
 .	.
+--SENTENCE--	n
 Tem	n
 uma	art
 câmara	n
@@ -13131,6 +13899,7 @@ com	prp
 centímetros	n
 de	prp
 diagonal.	n
+--SENTENCE--	n
 Nos	n
 EUA	n
 ,	,
@@ -13144,6 +13913,7 @@ rede	n
 Cingular	n
 Wireless	n
 .	.
+--SENTENCE--	n
 O	n
 seu	pron-det
 desenvolvimento	n
@@ -13166,6 +13936,7 @@ maiores	adj
 inovações	n
 da	n
 empresa.	n
+--SENTENCE--	n
 O	n
 facto	n
 de	prp
@@ -13193,6 +13964,7 @@ funções	n
 habituais	adj
 naquelas	n
 máquinas.	n
+--SENTENCE--	n
 Permitirá	n
 aceder	v-inf
 ao	prp
@@ -13208,12 +13980,17 @@ mapas	n
 do	n
 Google	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Indústria	n
 e	conj-c
 Comércio	n
 :	n
 Informática	n
 :	n
+--SENTENCE--	n
 Consultoria	n
 e	conj-c
 Sistemas	n
@@ -13234,8 +14011,7 @@ eletrônicas	adj
 e	conj-c
 desenvolvimento	n
 de	prp
-sistemas	n
-.	.
+sistemas.	n
 OperFit	n
 ,	,
 Adm	n
@@ -13246,9 +14022,11 @@ white	prop
 e	conj-c
 Life	n
 sport	n
+--SENTENCE--	n
 http	n
 :	n
 //www.rml.com.br	n
+--SENTENCE--	n
 CooperSis	n
 Informática	n
 -	-
@@ -13270,9 +14048,11 @@ com	prp
 o	art
 que	pron-indp
 tem	v-fin
+--SENTENCE--	n
 http	n
 :	n
 //www.airtonmolena.com.br	n
+--SENTENCE--	n
 Credi-Telemática	n
 Eletro-Eletrônicos	n
 -	-
@@ -13294,6 +14074,7 @@ informática	n
 e	conj-c
 de	prp
 telefonia.	n
+--SENTENCE--	n
 Configurações	n
 personalizadas	n
 e	conj-c
@@ -13303,13 +14084,14 @@ novidades	n
 são	v-fin
 encontradas	v-pcp
 aqui.	n
+--SENTENCE--	n
 http	n
 :	n
 //www.credi.com.br	n
+--SENTENCE--	n
 Croma	n
 Eletrônica	n
-Ltda	n
-.	.
+Ltda.	n
 -	-
 Componentes	n
 eletrônicos	adj
@@ -13341,9 +14123,11 @@ PABX	n
 21	num
 )	n
 2233-0030	n
+--SENTENCE--	n
 http	n
 :	n
 //www.divulgacao.com.br/croma	n
+--SENTENCE--	n
 Darun	n
 Informática	n
 -	-
@@ -13363,9 +14147,11 @@ automação	n
 comercial	adj
 e	conj-c
 suprimentos.	n
+--SENTENCE--	n
 http	n
 :	n
 //www.darun.com.br	n
+--SENTENCE--	n
 Desenhos	n
 em	prp
 Cad	n
@@ -13392,6 +14178,7 @@ para	prp
 engenharia	n
 ,	,
 etc.	adv
+--SENTENCE--	n
 Se	n
 seu	pron-det
 Windows	n
@@ -13404,9 +14191,11 @@ direito	n
 mande	n
 um	art
 e-mail	n
+--SENTENCE--	n
 http	n
 :	n
 //www.marckservice.cjb.net/	n
+--SENTENCE--	n
 Desenvolvimentos	n
 de	prp
 projetos	n
@@ -13430,9 +14219,11 @@ a	prp
 oferta	n
 da	n
 concorrência	n
+--SENTENCE--	n
 http	n
 :	n
 //www.projetoseletronicos.hpg.com.br	n
+--SENTENCE--	n
 DHCP	n
 Informática	n
 -	-
@@ -13441,6 +14232,7 @@ de	prp
 equipamentos	n
 de	prp
 informática.	n
+--SENTENCE--	n
 Trabalha	n
 com	prp
 placas	n
@@ -13484,9 +14276,11 @@ de	prp
 som	n
 ,	,
 fax.	n
+--SENTENCE--	n
 http	n
 :	n
 //www.dhcp.com.br	n
+--SENTENCE--	n
 Di	n
 Bello	n
 Informática	n
@@ -13520,9 +14314,11 @@ software	n
 suprimentos	n
 e	conj-c
 manutenção	n
+--SENTENCE--	n
 http	n
 :	n
 //www.webspace.com.br/dibello	n
+--SENTENCE--	n
 Diacon	n
 Informática	n
 -	-
@@ -13538,11 +14334,18 @@ e	conj-c
 desenvolvimento	n
 de	prp
 sistemas.	n
+--SENTENCE--	n
 http	n
 :	n
 //www.diacon.com.br	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Direitos	n
 Fundamentais	n
+--SENTENCE--	n
 Pöttering	n
 ,	,
 Sócrates	n
@@ -13555,6 +14358,7 @@ Direitos	n
 Fundamentais	n
 da	n
 UE	n
+--SENTENCE--	n
 Os	n
 Presidentes	n
 do	n
@@ -13600,6 +14404,7 @@ Lisboa	n
 na	pron-pers
 capital	n
 portuguesa.	n
+--SENTENCE--	n
 Os	n
 três	num
 salientaram	n
@@ -13636,6 +14441,7 @@ direitos	n
 e	conj-c
 valores	n
 fundamentais.	n
+--SENTENCE--	n
 ''	n
 Trata-se	n
 de	prp
@@ -13689,6 +14495,7 @@ da	n
 União	n
 Europeia	n
 .	.
+--SENTENCE--	n
 Relembrando	n
 o	art
 ``	n
@@ -13734,6 +14541,7 @@ a	art
 segurança	n
 ''	n
 .	.
+--SENTENCE--	n
 ''	n
 Com	n
 a	prp
@@ -13761,6 +14569,7 @@ de	prp
 uma	art
 Europa	n
 unida.	n
+--SENTENCE--	n
 Somos	n
 essencialmente	adv
 uma	art
@@ -13782,6 +14591,7 @@ Europeia	n
 ``	n
 ,	,
 declarou.	n
+--SENTENCE--	n
 Hans-Gert	n
 PÖTTERING	n
 destacou	v-fin
@@ -13821,6 +14631,7 @@ identidade	n
 europeia	adj
 ''	n
 .	.
+--SENTENCE--	n
 ''	n
 Sem	n
 estes	pron-det
@@ -13834,6 +14645,7 @@ teria	v-fin
 futuro	n
 ''	n
 .	.
+--SENTENCE--	n
 Dentro	n
 e	conj-c
 fora	adv
@@ -13856,6 +14668,7 @@ humanos	adj
 ''	n
 ,	,
 concluiu.	n
+--SENTENCE--	n
 Também	n
 o	art
 Presidente	n
@@ -13885,7 +14698,9 @@ integração	n
 europeia	adj
 ''	n
 .	.
+--SENTENCE--	n
 ``	n
+--SENTENCE--	n
 A	n
 partir	v-inf
 de	prp
@@ -13918,6 +14733,7 @@ comum	adj
 da	n
 UE	n
 .	.
+--SENTENCE--	n
 Um	n
 património	n
 ético	adj
@@ -13933,12 +14749,14 @@ na	pron-pers
 civilização	n
 europeia	adj
 !	!
+--SENTENCE--	n
 ''	n
 ,	,
 afirmou	v-fin
 o	art
 Primeiro-Ministro	n
 português.	n
+--SENTENCE--	n
 Manifestando-se	n
 ``	n
 muito	adv
@@ -14005,6 +14823,7 @@ e	conj-c
 aplicados	v-pcp
 ''	n
 .	.
+--SENTENCE--	n
 A	n
 Carta	n
 ``	n
@@ -14022,6 +14841,7 @@ e	conj-c
 aplicarem	n
 quotidianamente	adv
 .	.
+--SENTENCE--	n
 Só	n
 assim	adv
 seremos	v-fin
@@ -14053,6 +14873,7 @@ dos	prop
 cidadãos	n
 ''	n
 .	.
+--SENTENCE--	n
 Para	n
 SÓCRATES	n
 ,	,
@@ -14089,6 +14910,7 @@ universalmente	adv
 respeitados	v-pcp
 ''	n
 .	.
+--SENTENCE--	n
 Expressando	n
 ainda	adv
 a	art
@@ -14153,6 +14975,7 @@ ainda	adv
 não	adv
 estar	v-inf
 acabada.	n
+--SENTENCE--	n
 ''	n
 O	n
 combate	v-fin
@@ -14184,6 +15007,7 @@ sindicatos	n
 ,	,
 dos	prop
 cidadãos.	n
+--SENTENCE--	n
 A	n
 sua	pron-det
 defesa	n
@@ -14218,6 +15042,7 @@ pertencer	v-inf
 ''	n
 ,	,
 concluiu.	n
+--SENTENCE--	n
 Também	n
 o	art
 Presidente	n
@@ -14261,6 +15086,7 @@ e	conj-c
 paz	n
 ''	n
 .	.
+--SENTENCE--	n
 ''	n
 A	n
 Carta	n
@@ -14273,6 +15099,7 @@ cultura	n
 dos	prop
 direitos	n
 fundamentais.	n
+--SENTENCE--	n
 Comprometemo-nos	n
 ,	,
 sobretudo	adv
@@ -14283,6 +15110,7 @@ os	art
 nossos	pron-det
 próprios	adj
 direitos.	n
+--SENTENCE--	n
 Pode	n
 parecer	v-inf
 fácil	adj
@@ -14304,6 +15132,7 @@ quotidiano	adj
 salientou	v-fin
 BARROSO	n
 .	.
+--SENTENCE--	n
 ''	n
 Trata-se	n
 de	prp
@@ -14318,6 +15147,7 @@ se	pron-pers
 deve	v-fin
 sentir	v-inf
 orgulhosa.	n
+--SENTENCE--	n
 É	n
 particularmente	adv
 importante	adj
@@ -14332,6 +15162,7 @@ dividia	n
 por	prp
 regimes	n
 ditatoriais.	n
+--SENTENCE--	n
 Se	n
 conjugarmos	n
 esforços	n
@@ -14355,6 +15186,7 @@ valores	n
 ''	n
 ,	,
 concluiu.	n
+--SENTENCE--	n
 Depois	n
 de	prp
 a	art
@@ -14376,6 +15208,7 @@ hemiciclo	n
 de	prp
 Estrasburgo	n
 .	.
+--SENTENCE--	n
 A	n
 cerimónia	n
 de	prp
@@ -14409,6 +15242,7 @@ Tratado	n
 de	prp
 Lisboa	n
 .	.
+--SENTENCE--	n
 Os	n
 protestos	n
 foram	v-fin
@@ -14459,6 +15293,7 @@ afirmou	v-fin
 José	n
 SÓCRATES	n
 .	.
+--SENTENCE--	n
 O	n
 líder	n
 do	n
@@ -14497,6 +15332,7 @@ desta	n
 maneira	n
 ''	n
 .	.
+--SENTENCE--	n
 No	n
 mesmo	pron-det
 registo	n
@@ -14540,6 +15376,7 @@ era	v-fin
 Hitler	n
 ``	n
 .	.
+--SENTENCE--	n
 Do	n
 grupo	n
 ALDE	n
@@ -14598,6 +15435,7 @@ futebol	n
 ''	n
 ,	,
 afirmou.	n
+--SENTENCE--	n
 Francis	n
 WURTZ	n
 ,	,
@@ -14641,6 +15479,7 @@ esta	pron-det
 ''	n
 ,	,
 afirmou.	n
+--SENTENCE--	n
 Também	n
 o	art
 co-presidente	n
@@ -14701,6 +15540,7 @@ são	v-fin
 desagradáveis	adj
 ''	n
 .	.
+--SENTENCE--	n
 Da	n
 mesma	pron-det
 forma	n
@@ -14720,6 +15560,7 @@ o	art
 permissível	n
 ''	n
 .	.
+--SENTENCE--	n
 Do	n
 grupo	n
 IND/DEM	n
@@ -14755,10 +15596,13 @@ parte	n
 da	n
 vida	n
 democrática.	n
+--SENTENCE--	n
 Consultar	n
+--SENTENCE--	n
 http	n
 :	n
 //www.eu2007.pt/UE/vPT/Noticias_Documentos/20071212DiscursoPM.htm	n
+--SENTENCE--	n
 Discurso	n
 de	prp
 José	n
@@ -14772,6 +15616,11 @@ Carta	n
 dos	prop
 Direitos	n
 Fundamentais	n
+--SENTENCE--	n
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 O	n
 jardim	n
 de	prp
@@ -14794,8 +15643,10 @@ de	prp
 Tom	n
 Tykwer	n
 )	n
+--SENTENCE--	n
 Roberto	n
 Azoubel	n
+--SENTENCE--	n
 (	n
 Este	n
 texto	n
@@ -14824,6 +15675,7 @@ a	art
 literatura	n
 .	.
 )	n
+--SENTENCE--	n
 Uma	n
 das	n
 tarefas	n
@@ -14848,9 +15700,12 @@ mais	adv
 tarde	adv
 .	.
 ''	n
+--SENTENCE--	n
 Walter	n
 Benjamim	n
+--SENTENCE--	n
 I1.	n
+--SENTENCE--	n
 Com	n
 o	art
 desenvolvimento	n
@@ -14894,6 +15749,7 @@ grande	adj
 difusão	n
 no	pron-pers
 mundo.	n
+--SENTENCE--	n
 Tal	n
 difusão	n
 levou	v-fin
@@ -14928,6 +15784,7 @@ escrito	v-pcp
 em	prp
 1936	num
 .	.
+--SENTENCE--	n
 O	n
 texto	n
 de	prp
@@ -14956,6 +15813,7 @@ se	pron-pers
 espalha	n
 pelo	n
 planeta.	n
+--SENTENCE--	n
 Proponho-me	n
 neste	n
 texto	n
@@ -14974,6 +15832,7 @@ decorrer	v-inf
 do	n
 seu	pron-det
 corpo.	n
+--SENTENCE--	n
 Para	n
 tal	pron-det
 empreitada	n
@@ -15022,7 +15881,9 @@ roteirista	n
 Tom	n
 Tykwer	n
 .	.
+--SENTENCE--	n
 II	n
+--SENTENCE--	n
 Para	n
 chegarmos	n
 ao	prp
@@ -15036,6 +15897,7 @@ por	prp
 Italo	n
 Calvino	n
 .	.
+--SENTENCE--	n
 No	n
 capítulo	n
 chamado	v-pcp
@@ -15098,6 +15960,7 @@ escritura	n
 poder	n
 ser	v-inf
 múltipla.	n
+--SENTENCE--	n
 No	n
 decorrer	v-inf
 do	n
@@ -15115,6 +15978,7 @@ que	pron-indp
 ocorrem	v-fin
 na	pron-pers
 literatura.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -15152,6 +16016,7 @@ se	pron-pers
 serve	v-fin
 como	adv
 ilustração.	n
+--SENTENCE--	n
 Segundo	n
 Calvino	n
 (	n
@@ -15210,6 +16075,7 @@ cada	pron-det
 evento	n
 ''	n
 .	.
+--SENTENCE--	n
 E	n
 mais	adv
 adiante	adv
@@ -15276,6 +16142,7 @@ CALVINO	n
 :123	n
 )	n
 .	.
+--SENTENCE--	n
 Outros	n
 romancistas	n
 como	adv
@@ -15322,6 +16189,7 @@ etc	adv
 .	.
 )	n
 .	.
+--SENTENCE--	n
 Mas	n
 ,	,
 de	prp
@@ -15355,6 +16223,7 @@ conto	n
 de	prp
 Borges	n
 .	.
+--SENTENCE--	n
 Chegamos	n
 assim	adv
 a	art
@@ -15367,6 +16236,7 @@ que	pron-indp
 se	pron-pers
 Bifurcam	n
 .	.
+--SENTENCE--	n
 O	n
 conto	n
 ,	,
@@ -15399,6 +16269,7 @@ sua	pron-det
 missão	n
 de	prp
 espionagem.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -15425,6 +16296,7 @@ noções	n
 acerca	adv
 do	n
 tempo.	n
+--SENTENCE--	n
 No	n
 início	n
 ,	,
@@ -15467,6 +16339,7 @@ agora	adv
 ,	,
 precisamente	adv
 agora.	n
+--SENTENCE--	n
 Séculos	n
 de	prp
 séculos	n
@@ -15505,6 +16378,7 @@ BORGES,1995	n
 94	num
 )	n
 .	.
+--SENTENCE--	n
 Em	n
 seguida	v-pcp
 ,	,
@@ -15550,6 +16424,7 @@ CALVINO	n
 N	n
 )	n
 .	.
+--SENTENCE--	n
 Por	n
 último	adj
 ,	,
@@ -15576,6 +16451,7 @@ que	pron-indp
 nos	pron-pers
 interessa	v-fin
 aqui.	n
+--SENTENCE--	n
 Veremos	n
 abaixo	adv
 como	adv
@@ -15589,6 +16465,7 @@ se	pron-pers
 apresenta	v-fin
 no	pron-pers
 conto.	n
+--SENTENCE--	n
 Ao	n
 chegar	v-inf
 numa	n
@@ -15624,6 +16501,7 @@ por	prp
 Ts'ui	n
 Pen	n
 .	.
+--SENTENCE--	n
 Este	n
 ,	,
 que	pron-indp
@@ -15668,6 +16546,7 @@ labirinto	n
 e	conj-c
 um	art
 livro.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -15688,6 +16567,7 @@ são	v-fin
 o	art
 mesmo	pron-det
 objeto.	n
+--SENTENCE--	n
 A	n
 chave	n
 para	prp
@@ -15742,6 +16622,10 @@ BORGES	n
 94	num
 )	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Por	n
 que	pron-indp
 não	adv
@@ -15757,9 +16641,11 @@ relógios	n
 de	prp
 Sol	n
 ?	?
+--SENTENCE--	n
 :	n
 :	n
 2007-12-13	n
+--SENTENCE--	n
 Telescópios	n
 ,	,
 brinquedos	n
@@ -15808,6 +16694,7 @@ Astronomia	n
 e	conj-c
 Ciência	n
 .	.
+--SENTENCE--	n
 Organizada	n
 pelo	n
 Núcleo	n
@@ -15878,6 +16765,7 @@ nas	pron-pers
 escolas	n
 do	n
 concelho.	n
+--SENTENCE--	n
 ''	n
 A	n
 feira	n
@@ -15933,7 +16821,9 @@ astrónoma	n
 Rosa	n
 Doran	n
 .	.
+--SENTENCE--	n
 ``	n
+--SENTENCE--	n
 Sexta-feira	n
 estão	v-fin
 previstas	v-pcp
@@ -15975,6 +16865,7 @@ astronomia	n
 ''	n
 ,	,
 acrescentou.	n
+--SENTENCE--	n
 No	n
 sábado	n
 o	art
@@ -16044,9 +16935,11 @@ desenvolvido	v-pcp
 para	prp
 o	art
 efeito.	n
+--SENTENCE--	n
 Sol	n
 para	prp
 Todos	n
+--SENTENCE--	n
 Haverá	n
 observação	n
 nocturna	adj
@@ -16073,6 +16966,7 @@ para	prp
 Todos	n
 ``	n
 .	.
+--SENTENCE--	n
 ''	n
 O	n
 Observatório	n
@@ -16160,6 +17054,7 @@ do	n
 clima	n
 ''	n
 .	.
+--SENTENCE--	n
 Segundo	n
 a	prp
 responsável	adj
@@ -16202,12 +17097,15 @@ reconhecidos	v-pcp
 pelo	n
 grande	adj
 público.	n
+--SENTENCE--	n
 [	[
 ...	n
 ]	]
+--SENTENCE--	n
 A	n
 Nossa	n
 Galáxia	n
+--SENTENCE--	n
 O	n
 NUCLIO	n
 vai	v-fin
@@ -16240,6 +17138,7 @@ junto	adv
 da	n
 comunidade	n
 escolar.	n
+--SENTENCE--	n
 De	n
 acordo	n
 com	prp
@@ -16264,6 +17163,7 @@ vinte	num
 mil	num
 euros	n
 .	.
+--SENTENCE--	n
 Durante	n
 a	prp
 feira	n
@@ -16292,6 +17192,7 @@ autor	n
 Nuno	n
 Crespo	n
 .	.
+--SENTENCE--	n
 Ainda	n
 no	pron-pers
 sábado	n
@@ -16350,6 +17251,7 @@ no	pron-pers
 Universo	n
 ``	n
 .	.
+--SENTENCE--	n
 No	n
 domingo	n
 está	v-fin
@@ -16391,6 +17293,7 @@ outros	pron-det
 materiais	adj
 de	prp
 observação.	n
+--SENTENCE--	n
 A	n
 iniciativa	n
 termina	v-fin
@@ -16416,12 +17319,18 @@ assinala	v-fin
 em	prp
 2009	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Restauração	n
 da	n
 Independência	n
+--SENTENCE--	n
 Guerra	n
 da	n
 Restauração	n
+--SENTENCE--	n
 Finalmente	n
 ,	,
 um	art
@@ -16463,6 +17372,7 @@ o	art
 título	n
 de	prp
 D.	n
+--SENTENCE--	n
 João	n
 IV	n
 (	n
@@ -16479,6 +17389,7 @@ Dinastia	n
 de	prp
 Bragança	n
 .	.
+--SENTENCE--	n
 O	n
 esforço	n
 nacional	adj
@@ -16522,6 +17433,7 @@ definitivo	adj
 em	prp
 1668	n
 .	.
+--SENTENCE--	n
 Esses	n
 anos	n
 foram	v-fin
@@ -16569,6 +17481,7 @@ consolidação	n
 política	adj
 e	conj-c
 administrativa.	n
+--SENTENCE--	n
 Paralelamente	n
 ,	,
 as	art
@@ -16600,6 +17513,7 @@ o	art
 poder	n
 atlântico	n
 português.	n
+--SENTENCE--	n
 No	n
 entanto	n
 ,	,
@@ -16617,6 +17531,7 @@ posse	n
 dos	prop
 Habsburgo	n
 .	.
+--SENTENCE--	n
 Devido	n
 a	prp
 estarem	v-inf
@@ -16637,6 +17552,10 @@ cana-de-açúcar	n
 do	n
 Brasil	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Cavalo-marinho	n
 Boi	n
 PIntado	n
@@ -16655,6 +17574,7 @@ Recife	n
 PE	n
 ·	n
 05/1	n
+--SENTENCE--	n
 Rosa	n
 Campello	n
 ·	n
@@ -16668,6 +17588,7 @@ PE	n
 ·	n
 137	n
 votos	n
+--SENTENCE--	n
 Celebração	n
 ao	prp
 Dia	n
@@ -16762,6 +17683,7 @@ Rouanet	n
 !	!
 !	!
 !	!
+--SENTENCE--	n
 A	n
 Empresa	n
 socialmente	adv
@@ -16777,7 +17699,9 @@ TRANSMISSÃO	n
 DO	n
 NORDESTE	n
 .	.
+--SENTENCE--	n
 ``	n
+--SENTENCE--	n
 CAVALO-MARINHO	n
 ,	,
 Uma	n
@@ -16785,6 +17709,7 @@ Dança	n
 Dramática	n
 Brasileira	n
 :	n
+--SENTENCE--	n
 Cavalo-marinho	n
 ,	,
 uma	art
@@ -16802,6 +17727,7 @@ pernambucana	n
 do	n
 Bumba-meu-Boi	n
 .	.
+--SENTENCE--	n
 Encontrado	n
 em	prp
 toda	pron-det
@@ -16827,6 +17753,7 @@ ressurreição	n
 do	n
 boi	n
 mágico.	n
+--SENTENCE--	n
 Uma	n
 apresentação	n
 de	prp
@@ -16851,6 +17778,7 @@ instrumental	adj
 máscaras	n
 e	conj-c
 fantasias.	n
+--SENTENCE--	n
 No	n
 interior	n
 ,	,
@@ -16872,6 +17800,7 @@ a	prp
 janeiro	n
 )	n
 .	.
+--SENTENCE--	n
 O	n
 enredo	n
 do	n
@@ -16900,6 +17829,7 @@ Sebastião	n
 ,	,
 dois	num
 vaqueiros.	n
+--SENTENCE--	n
 O	n
 Capitão	n
 deseja	v-fin
@@ -16917,6 +17847,7 @@ os	art
 vaqueiros	n
 não	adv
 deixam.	n
+--SENTENCE--	n
 O	n
 Capitão	n
 manda	v-fin
@@ -16961,6 +17892,7 @@ armas	n
 e	conj-c
 instrumentos	n
 musicais.	n
+--SENTENCE--	n
 Agora	n
 é	v-fin
 a	prp
@@ -16995,6 +17927,7 @@ uma	art
 guarda	n
 de	prp
 honra.	n
+--SENTENCE--	n
 Entre	n
 elas	pron-pers
 ,	,
@@ -17026,6 +17959,7 @@ Gonçalo	n
 de	prp
 Amarante	n
 .	.
+--SENTENCE--	n
 Entram	n
 ,	,
 em	prp
@@ -17045,6 +17979,7 @@ do	n
 mundo	n
 do	n
 engenho-de-açúcar.	n
+--SENTENCE--	n
 Entre	n
 elas	pron-pers
 ,	,
@@ -17077,6 +18012,7 @@ Caboclo	n
 de	prp
 Urubá	n
 .	.
+--SENTENCE--	n
 A	n
 apresentação	n
 termina	v-fin
@@ -17092,6 +18028,7 @@ ressurreição	n
 do	n
 Boi	n
 .	.
+--SENTENCE--	n
 O	n
 acompanhamento	n
 musical	adj
@@ -17121,6 +18058,7 @@ Mineiro	n
 Ganzá	n
 )	n
 .	.
+--SENTENCE--	n
 Os	n
 Percussionistas	n
 e	conj-c
@@ -17132,6 +18070,7 @@ o	art
 Rabequeiro	n
 também	adv
 cantam.	n
+--SENTENCE--	n
 Entre	n
 seqüências	n
 ,	,
@@ -17149,6 +18088,7 @@ música	n
 instrumental	adj
 para	prp
 dança.	n
+--SENTENCE--	n
 Durante	n
 os	art
 anos	n
@@ -17183,6 +18123,7 @@ cultura	n
 popular	adj
 em	prp
 geral.	n
+--SENTENCE--	n
 Jovens	n
 visitam	n
 o	art
@@ -17214,6 +18155,7 @@ e	conj-c
 documentação	n
 ''	n
 .	.
+--SENTENCE--	n
 Texto	n
 :	n
 John	n
@@ -17249,6 +18191,10 @@ de	prp
 2001	n
 )	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 AdC	n
 dá	v-fin
 aprovação	n
@@ -17259,6 +18205,7 @@ Carrefour	n
 Portugal	n
 pela	n
 Sonae	n
+--SENTENCE--	n
 A	n
 Autoridade	n
 da	n
@@ -17293,6 +18240,7 @@ dois	num
 supermercados	n
 Modelo	n
 .	.
+--SENTENCE--	n
 Além	n
 da	n
 alienação	n
@@ -17354,6 +18302,7 @@ Autoridade	n
 da	n
 Concorrência	n
 .	.
+--SENTENCE--	n
 A	n
 entidade	n
 liderada	v-pcp
@@ -17374,17 +18323,20 @@ Sonae	n
 Distribuição	n
 ,	,
 a	art
-«decisão	n
+«	«
+decisão	n
 provável	adj
 de	prp
 não	adv
-oposição»	n
+oposição	n
+»	»
 ,	,
 que	pron-indp
 se	pron-pers
 tornou	v-fin
 agora	adv
 efectiva.	n
+--SENTENCE--	n
 A	n
 Sonae	n
 Distribuição	n
@@ -17434,6 +18386,7 @@ Coimbra	n
 e	conj-c
 Portimão	n
 .	.
+--SENTENCE--	n
 Entre	n
 os	art
 compromissos	n
@@ -17480,6 +18433,7 @@ coimbra	prop
 e	conj-c
 Portimão	n
 .	.
+--SENTENCE--	n
 No	n
 mercado	n
 relevante	adj
@@ -17546,6 +18500,7 @@ comunicado	n
 da	n
 AdC	n
 .	.
+--SENTENCE--	n
 No	n
 Grande	n
 Porto	n
@@ -17591,12 +18546,17 @@ menos	adv
 metros	n
 quadrados	n
 .	.
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Onde	n
 ficam	v-fin
 as	art
 Ilhas	n
 Marquesas	n
 ?	?
+--SENTENCE--	n
 De	n
 que	pron-indp
 organização	n
@@ -17607,18 +18567,21 @@ Solana	n
 era	v-fin
 secretário-geral	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 a	prp
 EFTA	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
 foi	v-fin
 criada	v-pcp
 ?	?
+--SENTENCE--	n
 Que	n
 cinco	num
 países	n
@@ -17636,6 +18599,7 @@ entrou	v-fin
 em	prp
 vigor	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 o	art
@@ -17644,6 +18608,7 @@ banco	n
 do	n
 Japão	n
 ?	?
+--SENTENCE--	n
 A	n
 que	pron-indp
 companhia	n
@@ -17658,11 +18623,13 @@ Dezembro	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Michael	n
 Jackson	n
 ?	?
+--SENTENCE--	n
 Diga	n
 um	art
 dos	prop
@@ -17672,6 +18639,7 @@ de	prp
 Michael	n
 Jackson	n
 ?	?
+--SENTENCE--	n
 Com	n
 quem	pron-indp
 é	v-fin
@@ -17684,6 +18652,7 @@ Maio	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Qual	n
 era	v-fin
 a	prp
@@ -17692,6 +18661,7 @@ de	prp
 Ayrton	n
 Senna	n
 ?	?
+--SENTENCE--	n
 Quantas	n
 vezes	n
 é	v-fin
@@ -17702,12 +18672,14 @@ campeão	n
 do	n
 mundo	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
 ele	pron-pers
 morreu	v-fin
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 circuito	n
@@ -17718,6 +18690,7 @@ que	conj-s
 ele	pron-pers
 morreu	v-fin
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17728,6 +18701,7 @@ comunista	adj
 do	n
 Afeganistão	n
 ?	?
+--SENTENCE--	n
 Quem	n
 era	v-fin
 o	art
@@ -17741,6 +18715,7 @@ antes	adv
 dessa	n
 queda	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 casamentos	n
 ocurreram	n
@@ -17749,12 +18724,14 @@ Grã-Bretanha	n
 em	prp
 1993	num
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 o	art
 IRA	n
 ?	?
+--SENTENCE--	n
 Contra	n
 que	pron-indp
 aeroporto	n
@@ -17769,6 +18746,7 @@ morteiro	n
 em	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17779,6 +18757,7 @@ Ponte	n
 da	n
 Normandia	n
 ?	?
+--SENTENCE--	n
 Quando	n
 ocorreu	v-fin
 o	art
@@ -17789,11 +18768,13 @@ em	prp
 Los	n
 Angeles	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Paul	n
 Touvier	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17804,6 +18785,7 @@ de	prp
 Paul	n
 Touvier	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17817,6 +18799,7 @@ para	prp
 o	art
 Ruanda	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17830,6 +18813,7 @@ presidência	n
 da	n
 Argélia	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17842,6 +18826,7 @@ entrou	v-fin
 em	prp
 vigor	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 ano	n
@@ -17849,6 +18834,7 @@ nasceu	v-fin
 Richard	n
 Nixon	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17863,10 +18849,12 @@ por	prp
 um	art
 incêndio	n
 ?	?
+--SENTENCE--	n
 Onde	n
 fica	v-fin
 Lillehammer	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -17878,6 +18866,7 @@ presidente	n
 do	n
 Chile	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 ano	n
@@ -17890,6 +18879,7 @@ na	pron-pers
 Academia	n
 Francesa	n
 ?	?
+--SENTENCE--	n
 Que	n
 bispo	n
 foi	v-fin
@@ -17903,6 +18893,7 @@ Fevereiro	n
 de	prp
 1995	num
 ?	?
+--SENTENCE--	n
 Em	n
 França	n
 ,	,
@@ -17918,10 +18909,12 @@ Maio	n
 de	prp
 1995	num
 ?	?
+--SENTENCE--	n
 Onde	n
 fica	v-fin
 Balcarce	n
 ?	?
+--SENTENCE--	n
 Que	n
 famoso	adj
 condutor	n
@@ -17931,6 +18924,7 @@ retirou	v-fin
 em	prp
 1958	num
 ?	?
+--SENTENCE--	n
 Quem	n
 ganhou	v-fin
 o	art
@@ -17941,6 +18935,7 @@ Nações	n
 em	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quem	n
 ganhou	v-fin
 o	art
@@ -17952,8 +18947,9 @@ por	prp
 ``	n
 Forrest	n
 Gump	n
-``	n
+''	n
 ?	?
+--SENTENCE--	n
 Quem	n
 ganhou	v-fin
 o	art
@@ -17962,6 +18958,7 @@ Goncourt	n
 em	prp
 1995	num
 ?	?
+--SENTENCE--	n
 Quem	n
 ganhou	v-fin
 o	art
@@ -17972,6 +18969,7 @@ actor	n
 em	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quem	n
 se	pron-pers
 suicidou	v-fin
@@ -17982,6 +18980,7 @@ Abril	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Que	n
 duas	num
 personalidades	n
@@ -17996,11 +18995,13 @@ Cannes	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quantos	n
 habitantes	n
 tem	v-fin
 Catmandu	n
 ?	?
+--SENTENCE--	n
 A	n
 que	pron-indp
 partido	n
@@ -18009,6 +19010,7 @@ pertence	v-fin
 Thérèse	n
 Aillaud	n
 ?	?
+--SENTENCE--	n
 Ela	n
 é	v-fin
 deputada	n
@@ -18016,6 +19018,7 @@ por	prp
 que	pron-indp
 região	n
 ?	?
+--SENTENCE--	n
 Quem	n
 foi	v-fin
 eleito	v-pcp
@@ -18031,6 +19034,7 @@ Maio	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quem	n
 se	pron-pers
 tornou	v-fin
@@ -18046,6 +19050,7 @@ Julho	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quais	n
 as	art
 cinco	num
@@ -18069,6 +19074,7 @@ aniversário	n
 do	n
 Dia-D	n
 ?	?
+--SENTENCE--	n
 Quem	n
 era	v-fin
 presidente	n
@@ -18078,6 +19084,7 @@ Europeia	n
 em	prp
 1995	num
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
@@ -18090,6 +19097,7 @@ Ducruet	n
 se	pron-pers
 casaram	n
 ?	?
+--SENTENCE--	n
 Quantas	n
 pessoas	n
 estavam	v-fin
@@ -18103,6 +19111,7 @@ escritor	n
 Elias	n
 Canetti	n
 ?	?
+--SENTENCE--	n
 Qual	n
 o	art
 endereço	n
@@ -18114,6 +19123,7 @@ do	n
 Sri	n
 Lanka	n
 ?	?
+--SENTENCE--	n
 Que	n
 aconteceu	v-fin
 na	pron-pers
@@ -18129,12 +19139,14 @@ Agosto	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quantas	n
 pessoas	n
 morreram	v-fin
 no	pron-pers
 terramoto	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 quilómetros	n
 são	v-fin
@@ -18143,6 +19155,7 @@ Orão	n
 a	prp
 Macara	n
 ?	?
+--SENTENCE--	n
 Um	n
 míssil	n
 ASMP	n
@@ -18158,12 +19171,14 @@ velocidade	n
 do	n
 som	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 a	prp
 FPLP	n
 ?	?
+--SENTENCE--	n
 Quem	n
 era	v-fin
 considerado	v-pcp
@@ -18171,6 +19186,7 @@ chefe	n
 do	n
 grupo	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 país	n
@@ -18178,6 +19194,7 @@ fica	v-fin
 Beit	n
 Liqya	n
 ?	?
+--SENTENCE--	n
 A	n
 que	pron-indp
 cidade	n
@@ -18199,12 +19216,14 @@ aos	n
 direitos	n
 humanos	adj
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Sir	n
 Winston	n
 Churchill	n
 ?	?
+--SENTENCE--	n
 Que	n
 prémio	n
 ganhou	v-fin
@@ -18213,23 +19232,26 @@ filme	n
 ``	n
 Pulp	n
 Fiction	n
-``	n
+''	n
 no	pron-pers
 Festival	n
 de	prp
 Cannes	n
 ?	?
+--SENTENCE--	n
 Quem	n
 realizou	v-fin
 esse	pron-det
 filme	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 o	art
 actor	n
 principal	adj
 ?	?
+--SENTENCE--	n
 Quantos	n
 habitantes	n
 tem	v-fin
@@ -18237,6 +19259,7 @@ a	prp
 União	n
 Soviética	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 poços	n
 tiveram	v-fin
@@ -18252,6 +19275,7 @@ oleoduto	n
 na	pron-pers
 Sibéria	n
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
@@ -18261,6 +19285,7 @@ aeroporto	n
 de	prp
 Irkutsk	n
 ?	?
+--SENTENCE--	n
 Que	n
 dois	num
 bancos	n
@@ -18272,6 +19297,7 @@ o	art
 banco	n
 Tokyo-Mitsubishi	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 quilómetros	n
 separam	n
@@ -18279,6 +19305,7 @@ Kikwit	n
 de	prp
 Kinshasa	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 filme	n
@@ -18291,6 +19318,7 @@ Girardot	n
 em	prp
 1971	num
 ?	?
+--SENTENCE--	n
 De	n
 que	pron-indp
 doença	n
@@ -18301,12 +19329,14 @@ sofre	v-fin
 desde	prp
 2006	n
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
 ela	pron-pers
 nasceu	v-fin
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
@@ -18314,6 +19344,7 @@ a	prp
 aceleração	n
 centrífuga	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 significa	v-fin
@@ -18321,6 +19352,7 @@ a	prp
 sigla	n
 WIA	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 ano	n
@@ -18333,19 +19365,22 @@ Ace	n
 Ventura	n
 em	prp
 África	n
-``	n
+''	n
 ?	?
+--SENTENCE--	n
 Que	n
 vírus	n
 atingiu	v-fin
 o	art
 Zaire	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 Geographos	n
 ?	?
+--SENTENCE--	n
 Que	n
 avião	n
 civil	adj
@@ -18357,6 +19392,7 @@ longo	adj
 sem	prp
 escalas	n
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
@@ -18376,6 +19412,7 @@ um	art
 avião	n
 civil	adj
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -18386,6 +19423,7 @@ levado	v-pcp
 a	prp
 cabo	n
 ?	?
+--SENTENCE--	n
 Que	n
 nome	n
 se	pron-pers
@@ -18396,6 +19434,7 @@ inflamação	n
 dos	prop
 gânglios	n
 ?	?
+--SENTENCE--	n
 Quais	n
 são	v-fin
 os	art
@@ -18407,6 +19446,7 @@ Arsenal	n
 Football	n
 Club	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -18415,6 +19455,7 @@ clube	n
 foi	v-fin
 fundado	v-pcp
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 estádio	n
@@ -18433,12 +19474,14 @@ Agosto	n
 de	prp
 2006	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 lugares	n
 tem	v-fin
 o	art
 estádio	n
 ?	?
+--SENTENCE--	n
 Com	n
 que	pron-indp
 Prémio	n
@@ -18450,6 +19493,7 @@ Heaney	n
 foi	v-fin
 galardoado	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 estados	n
 ratificaram	n
@@ -18468,11 +19512,13 @@ Novembro	n
 de	prp
 1989	num
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Arsène	n
 Wenger	n
 ?	?
+--SENTENCE--	n
 De	n
 que	pron-indp
 equipa	n
@@ -18485,6 +19531,7 @@ treinador	n
 em	prp
 1987	num
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 ano	n
@@ -18496,6 +19543,7 @@ Adidas	n
 Group	n
 AG	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 a	prp
@@ -18504,6 +19552,7 @@ sua	pron-det
 de	prp
 trabalho	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 a	prp
@@ -18512,6 +19561,7 @@ do	n
 Monte	n
 Rosa	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 litros	n
 de	prp
@@ -18523,6 +19573,7 @@ ano	n
 pela	n
 EBS	n
 ?	?
+--SENTENCE--	n
 De	n
 que	pron-indp
 país	n
@@ -18532,6 +19583,7 @@ Il	n
 Sung	n
 presidente	n
 ?	?
+--SENTENCE--	n
 As	n
 amêndoas	n
 são	v-fin
@@ -18541,6 +19593,7 @@ de	prp
 que	pron-indp
 árvore	n
 ?	?
+--SENTENCE--	n
 De	n
 onde	adv
 é	v-fin
@@ -18549,11 +19602,13 @@ ela	pron-pers
 é	v-fin
 originária	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Charles-Ange	n
 Ginésy	n
 ?	?
+--SENTENCE--	n
 De	n
 que	pron-indp
 município	n
@@ -18564,6 +19619,7 @@ também	adv
 é	v-fin
 presidente	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 grupo	n
@@ -18574,12 +19630,14 @@ ele	pron-pers
 tem	v-fin
 assento	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 a	prp
 febre-amarela	n
 ?	?
+--SENTENCE--	n
 Que	n
 ferry-boat	n
 famoso	adj
@@ -18588,6 +19646,7 @@ no	pron-pers
 Mar	n
 Báltico	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 país	n
@@ -18602,6 +19661,7 @@ Julho	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 A	n
 que	pron-indp
 horas	n
@@ -18619,12 +19679,14 @@ Julho	n
 de	prp
 2006	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 mortos	adj
 causou	v-fin
 esse	pron-det
 acidente	n
 ?	?
+--SENTENCE--	n
 A	n
 que	pron-indp
 velocidade	n
@@ -18632,6 +19694,7 @@ circulava	n
 o	art
 metro	prop
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -18645,6 +19708,7 @@ refugiados	n
 do	n
 Ruanda	n
 ?	?
+--SENTENCE--	n
 Que	n
 slalom	n
 é	v-fin
@@ -18659,6 +19723,7 @@ Fevereiro	n
 de	prp
 1994	num
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
@@ -18666,8 +19731,9 @@ que	pron-indp
 Ace	n
 of	n
 Base	n
-``	n
+''	n
 ?	?
+--SENTENCE--	n
 De	n
 que	pron-indp
 cidade	n
@@ -18675,6 +19741,7 @@ cidade	n
 este	pron-det
 grupo	n
 ?	?
+--SENTENCE--	n
 Quem	n
 são	v-fin
 os	art
@@ -18685,6 +19752,7 @@ compõem	v-fin
 o	art
 grupo	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 o	art
@@ -18694,17 +19762,20 @@ alto	adj
 do	n
 mundo	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 Asandros	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 o	art
 irmão	n
 dele	n
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
@@ -18712,6 +19783,7 @@ Danny	n
 Barker	n
 morreu	v-fin
 ?	?
+--SENTENCE--	n
 Quem	n
 foi	v-fin
 nomeado	v-pcp
@@ -18725,6 +19797,7 @@ Dezembro	n
 de	prp
 1995	num
 ?	?
+--SENTENCE--	n
 Que	n
 quatro	num
 planetas	n
@@ -18737,10 +19810,12 @@ principalmente	adv
 de	prp
 gás	n
 ?	?
+--SENTENCE--	n
 Diga	n
 um	art
 corpo	n
 celeste.	n
+--SENTENCE--	n
 De	n
 que	pron-indp
 é	v-fin
@@ -18752,6 +19827,7 @@ atmosfera	n
 da	n
 Lua	n
 ?	?
+--SENTENCE--	n
 Em	n
 informática	n
 ,	,
@@ -18760,6 +19836,7 @@ que	pron-indp
 é	v-fin
 Alien	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 a	prp
@@ -18770,6 +19847,7 @@ aviação	n
 em	prp
 França	n
 ?	?
+--SENTENCE--	n
 Que	n
 cinco	num
 companhias	n
@@ -18786,6 +19864,7 @@ a	art
 Air	n
 France	n
 ?	?
+--SENTENCE--	n
 Em	n
 quantos	pron-det
 países	n
@@ -18801,6 +19880,7 @@ seus	pron-det
 voos	n
 diários	adj
 ?	?
+--SENTENCE--	n
 Que	n
 companhia	n
 detém	v-fin
@@ -18812,6 +19892,7 @@ da	n
 Air	n
 France	n
 ?	?
+--SENTENCE--	n
 Que	n
 conto	n
 célebre	adj
@@ -18830,14 +19911,16 @@ e	conj-c
 a	art
 Lâmpada	n
 Mágica	n
-``	n
+''	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 a	prp
 AIEA	n
 ?	?
+--SENTENCE--	n
 Que	n
 prémio	n
 é	v-fin
@@ -18845,6 +19928,7 @@ recebeu	v-fin
 em	prp
 2005	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 cidade	n
@@ -18853,6 +19937,7 @@ encontrar	v-inf
 essa	pron-det
 agência	n
 ?	?
+--SENTENCE--	n
 Qual	n
 foi	v-fin
 o	art
@@ -18864,6 +19949,7 @@ ano	n
 de	prp
 2004	num
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -18877,12 +19963,14 @@ mundo	n
 de	prp
 râguebi	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 a	prp
 MNEF	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -18898,6 +19986,7 @@ escândalo	n
 da	n
 MNEF	n
 ?	?
+--SENTENCE--	n
 Segundo	n
 Jean	n
 Michel	n
@@ -18911,6 +20000,7 @@ no	pron-pers
 seu	pron-det
 escritório	n
 ?	?
+--SENTENCE--	n
 Qual	n
 era	v-fin
 a	prp
@@ -18919,6 +20009,7 @@ de	prp
 Marylin	n
 Monroe	n
 ?	?
+--SENTENCE--	n
 Que	n
 vaivém	n
 pôs	v-fin
@@ -18929,6 +20020,7 @@ Ulisses	n
 em	prp
 órbita	n
 ?	?
+--SENTENCE--	n
 Que	n
 idade	n
 tinha	v-fin
@@ -18941,22 +20033,26 @@ corpo	n
 foi	v-fin
 encontrado	v-pcp
 ?	?
+--SENTENCE--	n
 Quem	n
 era	v-fin
 Bernard	n
 Laroche	n
 ?	?
+--SENTENCE--	n
 Que	n
 juiz	n
 acusou	v-fin
 Christine	n
 Villemin	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 Alcatel	n
 ?	?
+--SENTENCE--	n
 Que	n
 companhia	n
 foi	v-fin
@@ -18967,6 +20063,7 @@ Azaria	n
 em	prp
 1898	n
 ?	?
+--SENTENCE--	n
 Com	n
 que	pron-indp
 grupo	n
@@ -18980,6 +20077,7 @@ Março	n
 de	prp
 2006	n
 ?	?
+--SENTENCE--	n
 Quem	n
 era	v-fin
 o	art
@@ -18991,11 +20089,13 @@ de	prp
 a	prp
 1995	num
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 Assédic	n
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -19008,6 +20108,7 @@ cantora	n
 americana	adj
 Anastacia	n
 ?	?
+--SENTENCE--	n
 Desde	n
 a	prp
 saída	n
@@ -19023,6 +20124,7 @@ que	conj-s
 Anastacia	n
 vendeu	v-fin
 ?	?
+--SENTENCE--	n
 Quando	n
 é	v-fin
 que	conj-s
@@ -19031,6 +20133,7 @@ Chirac	n
 foi	v-fin
 assassinado	v-pcp
 ?	?
+--SENTENCE--	n
 Que	n
 jogador	n
 espanhol	adj
@@ -19040,12 +20143,14 @@ Garros	n
 em	prp
 1994	num
 ?	?
+--SENTENCE--	n
 Quantos	n
 habitantes	n
 tem	v-fin
 a	prp
 Alemanha	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 quilómetros	n
 de	prp
@@ -19056,6 +20161,7 @@ Alemanha	n
 em	prp
 1998	num
 ?	?
+--SENTENCE--	n
 Em	n
 Novembro	n
 de	prp
@@ -19069,6 +20175,7 @@ desemprego	n
 na	pron-pers
 Alemanha	n
 ?	?
+--SENTENCE--	n
 Qual	n
 era	v-fin
 a	prp
@@ -19079,6 +20186,7 @@ antes	adv
 do	n
 euro	n
 ?	?
+--SENTENCE--	n
 Num	n
 relógio	n
 ,	,
@@ -19091,12 +20199,14 @@ para	prp
 as	art
 horas	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 o	art
 amianto	n
 ?	?
+--SENTENCE--	n
 Qual	n
 a	prp
 primeira	adj
@@ -19109,6 +20219,7 @@ expostas	v-pcp
 ao	prp
 amianto	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
@@ -19117,23 +20228,27 @@ administrador	n
 de	prp
 rede	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Allan	n
 Frederick	n
 Jacobsen	n
 ?	?
+--SENTENCE--	n
 Por	n
 que	pron-indp
 clube	n
 joga	v-fin
 ?	?
+--SENTENCE--	n
 Quanto	n
 é	v-fin
 que	conj-s
 ele	pron-pers
 pesa	n
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 árvore	n
@@ -19141,17 +20256,20 @@ crescem	v-fin
 os	art
 morangos	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 Amira	n
 Casar	n
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
 ela	pron-pers
 nasceu	v-fin
 ?	?
+--SENTENCE--	n
 Em	n
 que	pron-indp
 filme	n
@@ -19163,6 +20281,7 @@ com	prp
 Richard	n
 Anconina	n
 ?	?
+--SENTENCE--	n
 Como	n
 se	pron-pers
 chama	v-fin
@@ -19171,6 +20290,7 @@ presidente	n
 das	n
 Filipinas	n
 ?	?
+--SENTENCE--	n
 Que	n
 barragem	n
 seria	v-fin
@@ -19183,6 +20303,7 @@ tivesse	v-fin
 sido	v-pcp
 construída	v-pcp
 ?	?
+--SENTENCE--	n
 Qual	n
 era	v-fin
 o	art
@@ -19191,12 +20312,14 @@ estimado	v-pcp
 do	n
 projecto	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 meses	n
 tem	v-fin
 numa	n
 semana	n
 ?	?
+--SENTENCE--	n
 Que	n
 agência	n
 está	v-fin
@@ -19212,12 +20335,14 @@ emprego	n
 em	prp
 França	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 colaboradores	n
 tem	v-fin
 a	prp
 ANPE	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 que	conj-s
@@ -19227,12 +20352,14 @@ agência	n
 desde	prp
 2005	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 um	art
 afixo	n
 ?	?
+--SENTENCE--	n
 Quem	n
 foi	v-fin
 assassinado	v-pcp
@@ -19247,6 +20374,7 @@ aos	n
 73	num
 anos	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 a	prp
@@ -19256,18 +20384,21 @@ francesa	adj
 em	prp
 população	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 habitantes	n
 tem	v-fin
 essa	pron-det
 região	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 o	art
 Filival	n
 ?	?
+--SENTENCE--	n
 Em	n
 quantas	pron-det
 províncias	n
@@ -19276,6 +20407,7 @@ dividido	v-pcp
 o	art
 Afeganistão	n
 ?	?
+--SENTENCE--	n
 Que	n
 língua	n
 é	v-fin
@@ -19286,6 +20418,7 @@ da	n
 população	n
 afegã	adj
 ?	?
+--SENTENCE--	n
 Quantas	n
 escolas	n
 havia	v-fin
@@ -19294,6 +20427,7 @@ Afeganistão	n
 em	prp
 2003	num
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
@@ -19301,6 +20435,7 @@ o	art
 ácido	n
 desoxirribonucleico	n
 ?	?
+--SENTENCE--	n
 Que	n
 sigla	n
 se	pron-pers
@@ -19310,6 +20445,7 @@ designar	v-inf
 essa	pron-det
 molécula	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 o	art
@@ -19318,12 +20454,14 @@ nome	n
 do	n
 Alabama	n
 ?	?
+--SENTENCE--	n
 Quantos	n
 condados	n
 tem	v-fin
 o	art
 Alabama	n
 ?	?
+--SENTENCE--	n
 Que	n
 estado	n
 fica	v-fin
@@ -19332,6 +20470,7 @@ norte	n
 do	n
 Alabama	n
 ?	?
+--SENTENCE--	n
 Que	n
 organismo	n
 gere	v-fin
@@ -19342,6 +20481,7 @@ desemprego	n
 em	prp
 França	n
 ?	?
+--SENTENCE--	n
 Que	n
 organização	n
 se	pron-pers
@@ -19352,6 +20492,7 @@ sobrevivência	n
 dos	prop
 patos	n
 ?	?
+--SENTENCE--	n
 Quem	n
 é	v-fin
 que	conj-s
@@ -19365,6 +20506,7 @@ em	prp
 Las	n
 Vegas	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
@@ -19372,6 +20514,7 @@ uma	art
 árvore	n
 coral	n
 ?	?
+--SENTENCE--	n
 Que	n
 altura	n
 pode	v-fin
@@ -19379,6 +20522,7 @@ esta	pron-det
 árvore	n
 atingir	v-inf
 ?	?
+--SENTENCE--	n
 Quanto	n
 é	v-fin
 que	conj-s
@@ -19386,11 +20530,13 @@ pesa	n
 uma	art
 maçã	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 á	n
 AFNOR	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 o	art
@@ -19401,12 +20547,14 @@ nos	pron-pers
 Estados	n
 Unidos	n
 ?	?
+--SENTENCE--	n
 O	n
 que	pron-indp
 é	v-fin
 uma	art
 alergia	n
 ?	?
+--SENTENCE--	n
 Que	n
 outro	pron-det
 nome	n
@@ -19416,6 +20564,7 @@ a	prp
 uma	art
 alergia	n
 ?	?
+--SENTENCE--	n
 Em	n
 1980	num
 ,	,
@@ -19429,6 +20578,7 @@ atingida	v-pcp
 por	prp
 elas	pron-pers
 ?	?
+--SENTENCE--	n
 Que	n
 alergia	n
 afecta	v-fin
@@ -19439,6 +20589,7 @@ de	prp
 das	n
 crianças	n
 ?	?
+--SENTENCE--	n
 Qual	n
 é	v-fin
 a	prp
@@ -19447,6 +20598,7 @@ do	n
 Monte	n
 Claro	n
 ?	?
+--SENTENCE--	n
 Quais	n
 eram	v-fin
 os	art
@@ -19457,6 +20609,7 @@ dois	num
 irmãos	n
 Piccard	n
 ?	?
+--SENTENCE--	n
 Qual	n
 deles	n
 descobriu	v-fin
@@ -19464,6 +20617,7 @@ o	art
 urânio	n
 235	n
 ?	?
+--SENTENCE--	n
 Que	n
 duas	num
 profissões	n
@@ -19471,6 +20625,7 @@ teve	v-fin
 este	pron-det
 último	adj
 ?	?
+--SENTENCE--	n
 Que	n
 personagem	n
 é	v-fin
@@ -19484,19 +20639,22 @@ série	n
 televisiva	adj
 ``	n
 Batman	n
-``	n
+''	n
 ?	?
+--SENTENCE--	n
 Onde	n
 é	v-fin
 que	conj-s
 ele	pron-pers
 morreu	v-fin
 ?	?
+--SENTENCE--	n
 Que	n
 idade	n
 tinha	v-fin
 ele	pron-pers
 ?	?
+--SENTENCE--	n
 A	n
 que	pron-indp
 movimento	n
@@ -19506,10 +20664,16 @@ a	prp
 Arlette	n
 Laguiller	n
 ?	?
+--SENTENCE--	n
+--DOCSTART--	n
+--SENTENCE--	n
+--SENTENCE--	n
 Nuno	n
 Álvares	n
 Pereira	n
+--SENTENCE--	n
 Biografia	n
+--SENTENCE--	n
 Nuno	n
 Álvares	n
 Pereira	n
@@ -19525,6 +20689,7 @@ concelho	n
 da	n
 Sertã	n
 .	.
+--SENTENCE--	n
 Era	n
 filho	n
 de	prp
@@ -19538,6 +20703,7 @@ Gonçalves	n
 do	n
 Carvalhal	n
 .	.
+--SENTENCE--	n
 Casou	n
 com	prp
 Leonor	n
@@ -19558,6 +20724,7 @@ concelho	n
 de	prp
 Azambuja	n
 .	.
+--SENTENCE--	n
 Quando	n
 o	art
 rei	n
@@ -19604,6 +20771,7 @@ de	prp
 Avis	n
 à	n
 coroa.	n
+--SENTENCE--	n
 Apesar	n
 de	prp
 ser	v-inf
@@ -19628,6 +20796,7 @@ independência	n
 para	prp
 os	art
 castelhanos.	n
+--SENTENCE--	n
 Depois	n
 da	n
 primeira	adj
@@ -19659,6 +20828,7 @@ Conde	n
 de	prp
 Ourém	n
 .	.
+--SENTENCE--	n
 O	n
 génio	n
 militar	adj
@@ -19673,6 +20843,7 @@ Batalha	n
 de	prp
 Aljubarrota	n
 .	.
+--SENTENCE--	n
 O	n
 génio	n
 militar	adj
@@ -19687,6 +20858,7 @@ Batalha	n
 de	prp
 Aljubarrota	n
 .	.
+--SENTENCE--	n
 A	n
 6	num
 de	prp
@@ -19707,6 +20879,7 @@ Rei	n
 de	prp
 Portugal	n
 .	.
+--SENTENCE--	n
 Esta	n
 posição	n
 de	prp
@@ -19720,6 +20893,7 @@ altura	n
 em	prp
 Castela	n
 .	.
+--SENTENCE--	n
 João	n
 de	prp
 Castela	n
@@ -19736,6 +20910,7 @@ sua	pron-det
 mulher	n
 Beatriz	n
 .	.
+--SENTENCE--	n
 Álvares	n
 Pereira	n
 toma	v-fin
@@ -19763,6 +20938,7 @@ no	pron-pers
 Norte	n
 do	n
 país.	n
+--SENTENCE--	n
 A	n
 14	num
 de	prp
@@ -19799,6 +20975,7 @@ as	art
 30,000	n
 tropas	n
 castelhanas.	n
+--SENTENCE--	n
 A	n
 batalha	n
 viria	v-fin
@@ -19818,6 +20995,7 @@ consolidação	n
 da	n
 independência	n
 portuguesa.	n
+--SENTENCE--	n
 Finda	n
 a	prp
 ameaça	n
@@ -19839,6 +21017,7 @@ Arraiolos	n
 e	conj-c
 Barcelos	n
 .	.
+--SENTENCE--	n
 Entre	n
 1385	n
 e	conj-c
@@ -19877,6 +21056,7 @@ vizinho	adj
 de	prp
 novos	adj
 ataques.	n
+--SENTENCE--	n
 Do	n
 seu	pron-det
 casamento	n
@@ -19920,6 +21100,7 @@ actual	adj
 casa	n
 real	adj
 portuguesa.	n
+--SENTENCE--	n
 Lembrado	n
 como	adv
 um	art
