@@ -1,775 +1,246 @@
 --DOCSTART--
-Neste campeonato aprendi mais, e sei que tenho muito que aprender, ganhou <START:PESSOA>Marcos Mata<END> representante de <START:LOCAL>Lisboa<END>, cadete da <START:ORGANIZACAO>ACM<END> da mesma cidade, ganhou e ganhou bem, foi merecido o triunfo.
-Em Basket Ball também perdemos, e infelizmente sem as características do Ping Pong, na segunda parte eu e <START:PESSOA>Vilarinho Cardoso<END>, tivemos que substituir dois jogadores caprichosos, e sem o menor intuito de honrar não a terra em que nasceram, mas sim a que representavam, perdemos por <START:VALOR>33-12<END> salvo erro.
-O ginásio da <START:ORGANIZACAO>ACM<END> de <START:LOCAL>Coimbra<END> , é o melhor que <START:TEMPO>até à data<END> tenho visto, assim como o seu pucking-ball, que é o único no género que existe em <START:LOCAL>Portugal<END>.
-Conservo algumas fotografias que tirei neste esplêndido passeio, em que gozamos muito, a única fotografia que até agora tirei a magnésio foi no ginásio aos dois grupos de Basket, que ficou regular.
-Comecei então a frequentar a igreja metodista ao <START:LOCAL>Mirante<END>, encontrando nesta religião a felicidade que já atráz falei depois de algum tempo e quando já convertido e conhecedor embora pouco da palavra de <START:PESSOA>Deus<END> dei o meu nome para a prova de membro comungante, <START:TEMPO>em Maio<END>, tenho frequentado um curso de preparação dirigido pelo <START:PESSOA>sr.
-Alfredo Silva<END>, entre outros que comigo frequentam este curso.
-Lembra-me <START:PESSOA>Paulo Costa<END>, <START:PESSOA>Alberto Carreira da Silva<END>, <START:PESSOA>Maria Luísa Costa<END>, etc.
-<START:PESSOA>Deus<END> tem-me auxiliado na compreensão destes grandes problemas morais e espitituais e brevemente farei a minha profissão de fé.
-Tenho feito alguma coisa na <START:ORGANIZACAO>A.C.M.<END> que por não ter tomado notas desde o princípio me esqueceram, e por não terem valor deixo de as mencionar.
-Tratando-se da criação de uma <START:ORGANIZACAO>Federação de Basket Ball<END>, fui indicado também para fazer parte da comissão de propaganda, juntamente com os <START:PESSOA>srs.
-Eduardo Moreira<END>, <START:PESSOA>Dr.
-João Gomes de Oliveira<END>, <START:PESSOA>Artur Araújo<END>, tendo feito relatos para a secção especial do Diário do Sport, tem havido vários desafios; faço parte do grupo do <START:ORGANIZACAO>Boxing Club<END> de <START:LOCAL>Portugal<END>.
-Como atraz já disse procuro auxiliar todas as organizações que do meu préstimo necessitam, faço parte do  <START:ORGANIZACAO>Orfeon<END> do <START:LOCAL>Mirante<END> a pedido das meninas <START:PESSOA>Luisa<END> e <START:PESSOA>Anita Costa<END>.
-Fui também à excursão realizada <START:TEMPO>no dia 24 de Junho<END>, a primeira que se realizou desde que sou sócio, e juntamente com <START:VALOR>57<END> pessoas fomos <START:TEMPO>nesse dia<END> até <START:LOCAL>Viana do Castelo<END>.
-Foi mais uma afirmação de amor dada pela família evangélica é com saudade que me recordo desses bons momentos passados em que <START:PESSOA>Deus<END> nos ajudou correndo tudo admiravelmente.
+Nesta quarta-feira, 5/7, às 17h no <START:LOCAL>Salao Nobre do Museu de Astronomia e Ciencias Afins<END> (<START:ORGANIZACAO>Mast<END>).
+Para abrir o evento, que faz parte da comemoracao dos 15 anos do <START:ORGANIZACAO>Museu<END>, foi convidado a vice-diretora do <START:ORGANIZACAO>Istituto e Museo di Storia della Scienza<END>, de <START:LOCAL>Florenca<END>, <START:LOCAL>Itália<END>, <START:PESSOA>Mara Miniati<END>, que fala sobre «Emprego tecnologias modernas para a valorização do património e difusão da cultura cientifica».
+No mesmo dia tambem serao inaugurados três terminais de acesso ao publico, patrocinados pela <START:ORGANIZACAO>Fundacao Vitae<END>, contendo um catálogo eletronico que permite ao visitante conhecer a historia da instituticao, o acervo museologico e as suas colecoes.
+Endereco do <START:ORGANIZACAO>Mast<END>: <START:LOCAL>r.
+General Bruce, 586, Sao Cristovao, RJ<END>
+Fone:589-4965
+Visite o NOVO DataGramaZero de JUNHO: Perspectivas da Informacao ou
+
+
 --DOCSTART--
+Incêndio afecta restaurante
 
-Que percentagem do orçamento da <START:ORGANIZACAO>União Europeia<END> se destina à agricultura?
-Quantos países são oficialmente candidatos à adesão à <START:ORGANIZACAO>Otan<END>?
-Que sinfonia compôs <START:PESSOA>Beethoven<END> <START:TEMPO>em 1824<END>?
-Que país não é membro da <START:ORGANIZACAO>ONU<END>?
-Quem se pensa ter participado na tentativa de assassínio de <START:PESSOA>Juan Carlos<END> <START:TEMPO>em 1995<END>?
-Quem era o pai de <START:PESSOA>Isabel II<END>?
-Quem foi  chanceler da <START:LOCAL>Alemanha<END> <START:TEMPO>de 1974 a 1982<END>?
-Quando ocorreu a coroação oficial de <START:PESSOA>Isabel II<END>?
-Em que ano foi proposta pela primeira vez a "Parceria para a Paz"?
-Quem comandou a Insurreição de Varsóvia?
-Quem escreveu a epopeia fantástica "O Senhor dos Anéis"?
-Como se chama a mulher de <START:PESSOA>George H. W. Bush<END>?
-Como se chama a primeira mulher a escalar o Evereste sem máscara de oxigénio?
-Quem ficou conhecido como o "chanceler de ferro"?
-Em que ano foi assassinado <START:PESSOA>Martin Luther King<END>?
-Em que cidade nasceu <START:PESSOA>Wolfgang Amadeus Mozart<END>?
-Quantos estados tem a <START:LOCAL>Alemanha<END>?
-Quem é <START:PESSOA>Stephen Hawking<END>?
-O que é o hapkido?
-Quem se tornou chanceler após ter sido ministro-presidente da <START:LOCAL>Renânia-Palatinado<END>?
-Que rei morreu <START:TEMPO>em 1718<END>?
-Em que ano morreu <START:PESSOA>Charles de Gaulle<END>?
-Qual é a altura da Torre Eiffel?
-O que é o top quark?
-De acordo com o modelo "standard", quais são as três partículas elementares da física?
-Que proporção do leite vendido é usado com cereais ao pequeno-almoço?
-Em que ano teve lugar o Desembarque da Normandia?
-Quando foi assinada a "Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos"?
-A que se refere o termo "Les Six" em música?
-A quem pertencia <START:LOCAL>Nice<END> <START:TEMPO>de 1814 a 1860<END>?
-Qual é a sigla da <START:ORGANIZACAO>Administração Federal de Aviação<END>?
-O que é o GI Joe?
-Qual a estrutura cujo afundamento causou controvérsia na cimeira dos <START:ORGANIZACAO>G7<END> em <START:LOCAL>Halifax<END>?
-Quem foi <START:PESSOA>Alexander Graham Bell?<END> 
-
-Quem é <START:PESSOA>Danuta Walesa<END>?
-Quem é <START:PESSOA>Vigdís Finnbogadóttir<END>?
-Quem eram os cossacos?
-O que é o ECU verde?
-O que é o dracma?
-Quem preside à <START:ORGANIZACAO>RAI<END>?
-Quem é o director de operações da <START:ORGANIZACAO>NASA<END>?
-Em que ano se afundou o Titanic?
-Em que data é que os <START:ORGANIZACAO>Estados Unidos<END> invadiram o <START:LOCAL>Haiti<END>?
-Em que ano foi a Revolução de Outubro?
-Em que ano ocorreu a retirada de <START:LOCAL>Dunquerque<END>?
-Onde é a sede da <START:ORGANIZACAO>Interpol<END>?
-Onde é que <START:PESSOA>Braque<END> e <START:PESSOA>Picasso<END> trabalharam juntos?
-De que organização era <START:PESSOA>Sergio Balanzino<END> secretário-geral?
-De que estúdio cinematográfico foi <START:PESSOA>Cedric Gibbons<END> director artístico?
-Quantos habitantes tem <START:LOCAL>Longyearbyen<END>?
-Qual o principal componente da aspirina?
-Com que bicicleta bateu <START:PESSOA>Miguel Induráin<END> o recorde da hora?
-Quem venceu a <START:ACONTECIMENTO>Volta a França<END> <START:TEMPO>em 1988<END>?
-A que organização aderiu a <START:ORGANIZACAO>Grécia<END> <START:TEMPO>em 1952<END>?
-Quantos países visitou <START:PESSOA>Nixon<END> <START:TEMPO>entre 1953 e 1959<END>?
-Que cargo ocupava <START:PESSOA>François Mitterrand<END> ao ingressar no hospital de <START:LOCAL>Cochin<END> ?
-Quais são as três repúblicas bálticas?
-Quais são as três repúblicas soviéticas eslavas?
-O que é o Challenger?
-Quem é <START:PESSOA>Ernesto Zedillo Ponce de León<END>?
-Quem era primeiro-ministro britânico antes de <START:PESSOA>John Major<END>?
-Quem é <START:PESSOA>Boris Becker<END>?
-Em que filme de <START:PESSOA>Kevin Reynolds<END> actuou <START:PESSOA>Kevin Costner<END>?
-Onde se realizaram os  <START:ACONTECIMENTO>Jogos Olímpicos<END> <START:TEMPO>de 1993<END>?
-Que tipo de bombas foram usadas pelo IRA no ataque a <START:LOCAL>Heathrow<END> <START:TEMPO>em 1994<END>?
-O que é um Chinook?
-Quem é o  presidente do <START:LOCAL>Egipto<END>?
-Onde morreu <START:PESSOA>Kurt Cobain<END>?
-Quantos telespectadores seguiram a final do  <START:ACONTECIMENTO>Campeonato do Mundo de Futebol<END> <START:TEMPO>de 1994<END>?
-O que é o KMT?
-Que cromossoma está na origem do mongolismo?
-Quem era  presidente da <START:LOCAL>Chechénia<END> <START:TEMPO>em 1994<END>?
-Quem foi o primeiro homem na Lua?
-A que partido pertence <START:PESSOA>Mahfoudh Nahnah<END>?
-Diga o nome de um filme realizado por <START:PESSOA>Claude Lanzmann<END>?
-Onde fica a cidadezinha de <START:LOCAL>Neftegorsk<END>?
-De que grupo é presidente <START:PESSOA>Claude Bébéar<END>?
-Quem é <START:PESSOA>Jacques Diouf<END>?
-O que significa NLW?
-O que é a Parceria para a Paz?
-A que partido pertence <START:PESSOA>Petru Luchinski<END>?
-Que festival de cinema atribui o "Urso de Ouro"?
-Quem é o diretor do filme "Caro Diário"?
-O que é a UNHCR?
-Que valor adjudicou o <START:ORGANIZACAO>Canadá<END> para a remoção das armas atómicas ucranianas?
-Onde é que morreu <START:PESSOA>Ayrton Senna<END>?
-Em que país foi aprovada uma lei que proíbe a publicidade ao tabaco?
-Onde ocorreram casos de febre aftosa?
-Quando aderirão à  <START:ORGANIZACAO>União Europeia<END> a <START:ORGANIZACAO>Áustria<END>, a <START:ORGANIZACAO>Suécia<END> e a <START:ORGANIZACAO>Finlândia<END>?
-Que estúdio produziu o filme "Toy Story"?
-Qual é a terceira maior cidade da <START:LOCAL>Baviera<END>?
-Quem era o capitão do Ajax <START:TEMPO>em 1994<END>?
-O que são os otakus?
-O que é o CD-i?
-Em que cidade é que <START:PESSOA>Nietzsche<END> escreveu "Ecce Homo"?
-Quando viveu <START:PESSOA>Ludwig Wittgenstein<END>?
-Quem foi votado o futebolista do ano na <START:LOCAL>Bélgica<END> <START:TEMPO>em 1995<END>?
-Onde é a nova sede da <START:ORGANIZACAO>Nederlandse Gasunie<END>?
-Em que museu foi exibida <START:TEMPO>em 1994<END> uma exposição sobre <START:PESSOA>Mondriaan<END>?
-Quando foram as <START:LOCAL>Antilhas Holandesas<END> legalmente equiparadas aos <START:LOCAL>Países Baixos<END>?
-Descreva o <START:LOCAL>World Trade Center<END>.
-O que é um samovar?
-O que é a Bundesgrenzschutz?
-O que é a Generalitat?
-O que é a Iaaf?
-Quem eram os pictos?
-O que era o Granma?
-O que é "<START:ACONTECIMENTO>Margarita e o Mestre<END>"?
-O que é Nauru?
-O que é Roque Santeiro?
-O que é a Mona Lisa?
-O que é a cachupa?
-O que é a Marselhesa?
-O que é kabuki?
-O que é o comunismo gulash?
-O que é o cirílico?
-O que é o efeito de estufa?
-O que é o fauvismo?
-O que é o xelim?
-O que é um mujique?
-O que é um ornitorrinco?
-O que é um sátrapa?
-Que sabe sobre o aikido?
-Quem foi <START:PESSOA>Amílcar Cabral<END>?
-Quem foi <START:PESSOA>Qin Shi Huang<END>?
-Que país foi abalado por um terramoto <START:TEMPO>em Agosto de 94<END>?
-O que é que foi anexado após a Guerra dos Seis Dias?
-Em que cidade é que fica o <START:LOCAL>Roque Santeiro<END>?
-Em que estado fica <START:LOCAL>Porto Alegre<END>?
-Onde fica <START:LOCAL>Beslan<END>?
-Onde fica a <START:LOCAL>Grande Hanish<END>?
-Onde fica o <START:LOCAL>Banat<END>?
-Onde ganharam os Abba o <START:ACONTECIMENTO>Festival da Eurovisão<END>?
-Onde naufragou o Marika-7?
-Onde é que fica a represa Ataturk?
-Qual a capital do <START:LOCAL>Estado Livre de Orange<END>?
-Qual é a cidade santa xiita?
-Que país tomou a <START:LOCAL>Grande Hanish<END>?
-Onde foi apunhalado <START:PESSOA>Naguib Mahfouz<END>?
-Em quanto é que foi multado <START:PESSOA>John Fashanu<END>?
-Em que lugar ficou <START:PESSOA>Paulo de Carvalho<END> no <START:ACONTECIMENTO>Festival da Eurovisão<END>?
-Qual é a duração do filme "Heimat"?
-Qual é a área do Oceano Pacífico?
-Qual é o recorde mundial do salto em altura?
-Quanta cerveja bebe um brasileiro <START:TEMPO>anualmente<END>?
-Quanto mede <START:PESSOA>Sergei Yuran<END>?
-Quanto pesa <START:PESSOA>Romário<END>?
-Quantos estados tem o <START:LOCAL>Brasil<END>?
-Quantos é que eram os Beatles?
-Que percentagem da população do <START:LOCAL>Québec<END> fala francês?
-Que população tem <START:LOCAL>Amiens<END>?
-A que dinastia pertencia <START:PESSOA>Gengis Khan<END>?
-Como se chama a companhia ferroviária francesa?
-A quem foi conquistada <START:LOCAL>Lisboa<END> <START:TEMPO>em 1147<END>?
-Contra que clube jogou o Marítimo <START:TEMPO>a 2 de Abril de 1995<END>?
-De que equipa é treinador <START:PESSOA>Johann Cruyff<END>?
-De que selecção é <START:PESSOA>Ravelli<END> é o guarda-redes?
-Quem foram os adversários do Boavista na  <START:ACONTECIMENTO>Taça UEFA<END> <START:TEMPO>de 1994<END>?
-Diga um jornal norueguês.
-Onde trabalha <START:PESSOA>José Rodrigues Filho<END>?
-Que povo foi convertido Ã  ortodoxia durante a Idade Média?
-Que hospital fica em <START:LOCAL>Matosinhos<END>?
-<START:PESSOA>Ravelli<END> é o goleiro de que seleção?
-Qual o actual nome do <START:LOCAL>Ceilão<END>?
-Que competição se realizou pela primeira vez <START:TEMPO>em 1896<END>?
-Qual foi o resultado do <START:ACONTECIMENTO>Itália-Nigéria<END>  no  <START:ACONTECIMENTO>Campeonato do Mundo<END> <START:TEMPO>de 1994<END>?
-Em que desporto é <START:ACONTECIMENTO>Torneio das Cinco Nações<END>?
-Em que língua está escrito o Alcorão?
-Em que telenovela aparece o prefeito <START:PESSOA>Odorico<END>?
-Diga um livro de <START:PESSOA>Júlio Verne<END>.
-Que edifício foi erigido <START:TEMPO>no século 12<END>?
-Que guerra durou <START:TEMPO>de 1865 a 1870<END>?
-Para que instrumento são os concertos de <START:PESSOA>Chopin<END>?
-Qual a língua mais falada no <START:LOCAL>Québec<END>?
-Qual a nacionalidade de <START:PESSOA>Geoffrey Oryema<END>?
-Qual a religião oficial da <START:LOCAL>Tailândia<END>?
-Qual é o planeta vermelho?
-Que corpo celeste é Toutatis?
-Que ensina <START:PESSOA>Vital do Rego<END>?
-Quem venceu o open da <START:LOCAL>Austrália<END> <START:TEMPO>em 1995<END>?
-De quem é "O Capital"?
-Diga um jogador francês do Manchester United.
-Quem salvou judeus durante a Segunda Guerra Mundial?
-Diga um escritor chinês.
-Diga um  Herói da <START:LOCAL>União Soviética<END>.
-Mencione um membro da <START:ORGANIZACAO>Academia Francesa<END>.
-Quem foi  presidente da <START:LOCAL>Suíça<END> <START:TEMPO>no ano de 1995<END>?
-Quem criou Spirou?
-Quem escreveu "A Capital"?
-Quem escreveu "O Idiota"?
-Quem é "<START:PESSOA>Toninho Malvadeza<END>"?
-Quem é o sogro de <START:PESSOA>Mohammad Khalifa<END>?
-Quem é que escreveu "Os Persas"?
-Desde quando é <START:ORGANIZACAO>Portugal<END> uma república?
-Quando houve uma erupção do Vesúvio?
-Quando reinou <START:PESSOA>Isabel I<END>?
-Quando teve lugar a primeira edição da <START:ACONTECIMENTO>Taça Davis<END>?
-Quando viveu <START:PESSOA>Franz Liszt<END>?
-Quando é que <START:PESSOA>Cleópatra<END> se suicidou?
-Quando é que a <START:ORGANIZACAO>URSS<END> invadiu a Manchúria?
+Um incêndio destruiu parcialmente um restaurante ontem de madrugada na zona da <START:LOCAL>Foz<END>, na cidade do <START:LOCAL>Porto<END>, informaram os bombeiros locais.
+O fogo, que se iniciou cerca das 02h30 horas e só foi dado como extinto às 05h20, ocorreu no restaurante "<START:ORGANIZACAO>Porto Fino<END>", na rua <START:LOCAL>Padrão<END>.
+As chamas, cujas causas são ainda desconhecidas, foram combatidas por 44 bombeiros, com o apoio de quinze viaturas.
+--DOCSTART--
+ E depois da <START:LOCAL>Bélgica<END> regressou a <START:LOCAL>Portugal<END>?
+Fiz o doutoramento e depois estive na <START:ORGANIZACAO>Faculdade de Filosofia<END>.
+Fui três vezes director da <START:ORGANIZACAO>Faculdade de Filosofia<END> e depois vim para a <START:ORGANIZACAO>Universidade do Minho<END>, fui vice-reitor e reitor.
+E eu que nunca quis governar tive essa pouca sorte.
+Quando eu saí foi uma libertação.
+Eu gosto é de investigar, tenho muito gosto nisso.
+O pobre do reitor anda a resolver problemas que aparecem não sabe Deus quando nem como.
+Agora a universidade está mais desenvolvida, mas naquele tempo ainda era pior.
+Ia quase todas as semanas para <START:LOCAL>Lisboa<END> para resolver os problemas.
+Isso ajudou-me muito porque conheci o <START:ORGANIZACAO>Ministério da Educação<END> por dentro, porque bater à porta falsa é perder tempo, procurar bater à porta que nos interessa.
+E conheci o <START:ORGANIZACAO>Ministério da Educação<END> e isso deu-me muito jeito porque sabia lá quem mandava e quem resolvia os problemas e quem os impedia.
+Mas eu tinha que ir a <START:LOCAL>Lisboa<END>, e essas viajens pela estrada antiga, a comer nesses restaurantes das estradas miseráveis, geralmente com uns azeites que já tinham servido no outro dia.
+Eu dáva-me mal com essas comidas e andar sempre para trás e para diante para resolver qualquer problema.
+Foi muito doloroso nesse aspecto.
+Na universidade não.
+Aqui tínhamos uma boa equipa, éramos amigos e trabalhávamos.
+A <START:ORGANIZACAO>Universidade do Minho<END> tem uma equipa boa desde o princípio.
+Pela primeira vez candidata-se um reitor que não é da equipa.
+Este reitor ainda foi da comissão instaladora, assim como o <START:PESSOA>Machado dos Santos<END>.
+Agora pela primeira vez vai a reitor uma pessoa que já não é da equipa inicial.
+O que também é bom.
+é bom que se vá desenvolvendo, mas quer dizer que a equipa era muito unida e trabalhou com gosto, com sacrifício, mas trabalhou com gosto, contra tudo e contra todos porque é muito difícil vencer <START:ORGANIZACAO>Lisboa<END>.
+Começamos as aulas um ano mais cedo do que o que tínhamos planeado.
+Olhe aqui no <START:LOCAL>Largo do Paço<END> coemçaram as aulas, nesta sala que agora está dividida, tinha outra na entrada, aí onde está o correiro e o salão medieval.
+Começamos as aulas um ano mais cedo, ainda não tínhamos feitos os pavilhões na <START:LOCAL>D .Pedro V<END>, depois é que passou para <START:LOCAL>Gualtar<END>.
+Começamos as aulas um ano mais cedo porque havia em <START:LOCAL>Lisboa<END>, nós começamos em Fevereiro de 1974 e dois meses depois veio o 24 de Abril, passou-se bastantes dificuldades.
+Êxitos por um lado e dificuldades por outro e uma delas é que o ministro queria acabar com as universidades novas, só a <START:ORGANIZACAO>Universidade Nova de Lisboa<END> é que havia de existir.
+E nós que não tínhamos alunos, os alunos são uma força, começamos um ano mais cedo para ter alunos para poder a nossa voz ser mais forte.
+E de facto, a coisa acabou, essa ideia de acabar com a <START:ORGANIZACAO>Universidade do Minho<END> acabou, até pelo contrário.
+Mas quanto mais cedo, até nestas instalações, mas foi assim que começou.
+Eu fui dos primeiros professores a dar aulas ali, onde estão agora as <START:ORGANIZACAO>Relações Públicas<END>.
+Ali dei a primeira aula, ainda me lembro disso.
+Mas começou a leccionar na <START:ORGANIZACAO>Faculdade de Filosofia<END>?
+Foi em 1952/52.
+Eu sei que fiz o meu doutoramento em Novembro e em Julho do ano seguinte foi nomeado director.
+Como era a <START:ORGANIZACAO>Faculdade de Filosofia<END> nessa altura?
+A <START:ORGANIZACAO>Faculdade de Filosofia<END> em biblioteca estava muito bem e em muito bom estado, era das melhores bibliotecas de Filosofia de <START:LOCAL>Portugal<END>.
+Está muito em dia porque aproveitamos quando durante a guerra o escudo valia muito, o escudo valia 4 pesetas, hoje uma peseta vale uns escudos.
+Eu sei que na altura nós em <START:LOCAL>Granada<END> pagávamos 7 pesetas por dia.
+Para nós uma peseta custava 4 tostões.
+E foi nessa altura que se formou a biblioteca, comprávamos os livros muito baratos.
+Tem um conjunto de professores muito bons.
+Morreu aqui há dias o professor de Filosofia da Ciência, que era o melhor professor de Filosofia e Ciência em <START:LOCAL>Portugal<END>, <START:PESSOA>Passo Sousa Alves<END>.
+Os outros professores já morreram todos, de facto, mas era um grupo de professores muito bons e impôs-se a <START:LOCAL>Portugal<END>.
+O primeiro congresso de Filosofia em <START:LOCAL>Portugal<END>, foi feito aqui em 1955 e vieram cá todas as universidades e como tínhamos medo que algumas não viessem, convidamos alguns estrangeiros.
+Mas felizmente vieram.
+Estávamos 400 congressistas e foi quando eles pensaram em fundar no estado a <START:ORGANIZACAO>Faculdade de Filosofia<END>, que não existia a de História e Filosofia separada.
+Precisamente hoje já estão.
 --DOCSTART--
     
-ARQUITETURA E HISTÓRIA
+
+TROPA DE ELITE, OSSO DURO DE ROER, PEGA UM PEGA GERAL, TAMBÉM VAI PEGAR VOCÊ!
+Ontem, na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas.
+Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas.
+Continuei rumo à sessão das 19h no <START:LOCAL>Espaço de Cinema<END> em <START:LOCAL>Botafogo<END>.
+Trinta passos adiante parei e lembrei do recente caso "Tropa de Elite: o filme tinha vazado no pirata, e desde o início da semana estava sendo vendido nas ruas do <START:LOCAL>Rio<END>.
+Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia.
+Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso.
+Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata.
+Logo encontrei dois títulos nacionais:Xuxa Gêmeas e Ó paí ó .
+Perguntei se ele tinha Tropa de Elite, o rapaz branquelo, com cara de rapper zona sul, boné e bermudão Billabong respondeu:
+
     
 
-      A partir do
-      <START:LOCAL>Forte de Santiago<END>
-      , na
-      Ponta do Calabouço
-      , a evolução do conjunto arquitetônico do
-      <START:LOCAL>Museu<END>
-      acompanhou a trajetória urbana da cidade do
-      <START:LOCAL>Rio de Janeiro<END>
-      .
-À fortificação inicial veio se juntar a
-      Casa do Trem
-      , destinada à guarda do "trem de artilharia", conjunto de apetrechos bélicos usados na defesa da cidade, e,
-      <START:TEMPO>mais tarde<END>
-      , o
-      Arsenal de Guerra
-      .
-<START:TEMPO>No início do século XX<END>
-      o
-      Arsenal
-      é transferido para a
-      Ponta do Caju
-      , abrindo o caminho para a adaptação do conjunto para suas novas funções :
-      <START:LOCAL>Pavilhão das Grandes Indústrias<END>
-      da "
-      <START:ACONTECIMENTO>Exposição Internacional de 1922<END> 
-      ".
-Por determinação do
-      <START:PESSOA>Presidente Epitácio Pessoa<END>
-      , o
-      <START:LOCAL>Pavilhão<END>
-      abrigou, em duas de suas salas, o núcleo inicial do
-      <START:ORGANIZACAO>Museu Histórico Nacional<END>
-      .
-Com o encerramento da
-      <START:ACONTECIMENTO>Exposição<END>
-      , o
-      <START:LOCAL>Museu<END>
-      veio ocupando progressivamente toda a área.
-PATROCINADORES
+- Com certeza!
+Tem sim.
+Quis saber mais sobre o filme, como se só tivesse ouvido falar através do burburinho das ruas:
+
     
 
-     <START:ORGANIZACAO>Ministério da Cultura<END>
-    
+- Ah, esse não é o filme que teve os armamentos roubados no "Chapéu Mangueira"?
+- É esse mesmo.
+É com o <START:PESSOA>Olavo<END> da novela.
+- Que <START:PESSOA>Olavo<END>?
+- O <START:PESSOA>Wagner<END>, <START:PESSOA>Wagner Moura<END>.
+- Ah legal, então é esse mesmo.
+Quanto é?
+- É cinco.
+- E a qualidade é boa?
+- É sim, é DVD mesmo, não é VCD não.
+Mídia roxinha!
+- Tá completo ne?
+Não falta cena não!?
+- Completo!
+- Beleza então, se a qualidade não for boa eu volto aqui amanhã e troco.
+- Tranqüilo, tá garantido.
+E tava mesmo.
+A qualidade realmente era perfeita, som e imagem de primeira, cartelas e intertítulos em inglês!
+Só faltaram os créditos finais.
+Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de PM  à paisana.
+Ficou ali, meio de esguelha, prestando atenção, e eu, ao lado, esperando o produto.
+Parecia que a conversa alheia fechava alguma combinação.
+Cutuquei:
+
     
 
-      <START:ORGANIZACAO>Instituto do Patrimônio Histórico e Artístico Nacional<END>
-    
+- E aê, tem o Tropa de Elite ou não?
+- perguntei de novo, querendo sair logo pro cinema.
+- Tem sim.
+Sai um Tropa aí - disse o branquelo pro chapa.
+O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia Tropa de Elite escrito com uma fonte meio "Linha Direta" e umas fotos não identificáveis que deviam reproduzir cenas do filme.
+Dentro vinha o DVD da "mídia roxinha", abri pra constatar.
+Me entregou logo dizendo:
+
     
 
-      <START:ORGANIZACAO>Associação dos Amigos do Museu Histórico Nacional<END>
-    
-    
+- Também tem aquele ali, com o <START:PESSOA>Lázaro Ramos<END>, "Ó pái ó".
+- Ó Paí ó , to ligado, esse eu já vi - o que não era verdade, só para não estender mais a transação.
+- Também tem o Caixa Dois, sabe qual é?
+- Sei sim, mas hoje só quero o Tropa mesmo - já quase íntimo do filme do <START:PESSOA>Padilha<END>.
+Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por 5 pratas, menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os Bopes, roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como <START:PESSOA>Tulé Peak<END> (diretor de arte), <START:PESSOA>Braulio Mantovani<END> (roteirista) e <START:PESSOA>Daniel Rezende<END> (montador) - não por acaso, o mesmo trio ternura por trás de Cidade de Deus -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc.
+Uma trabalheira danada.
+E depois de tudo isso, ver um pedaço mutilado do seu "filho" de 3 anos parar na mão de geral por 5 real (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na 16ª versão da montagem).
+É um caso inédito para o cinema brasileiro, e talvez para a <START:ORGANIZACAO>Polícia<END> também.
+Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora "não-ação" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história.
+O vazamento da cópia já está sendo investigado pela própria <START:ORGANIZACAO>Polícia<END>.
+Haja metalinguagem cinematográfica!
+Resta saber como isso vai repercutir daqui pra frente.
+Vai ser bom ou não?
+Quem pode ter certeza sobre o que o <START:PESSOA>diretor José Padilha<END> diz à Folha de S. Paulo: "que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro."
+Ou será que o boca a boca vai fazer o filme estourar?
+Vai virar reportagem do Fantástico?
+Ganhar as páginas policiais dos jornais mais uma vez?
+Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda.
+O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador.
+Um thriller que combina a crueza esquemática de Notícias de uma guerra particular  e a cinematografia exuberante de Cidade de Deus.
+Esse é só o começo de uma grande História que vem por aí.
+Em breve, num cinema perto de você.
+--DOCSTART--
+V ENCONTRO NACIONAL DE PESQUISA EM CIÊNCIA DA INFORMAÇÃO (V ENANCIB)
 
-      <START:ORGANIZACAO>Banco Nacional de Desenvolvimento Econômico e Social<END>
-    
-    
+<START:LOCAL>Belo Horizonte<END>, 10
+  a 14 de novembro de 2003
 
-      <START:ORGANIZACAO>Caixa Econômica Federal<END>
-    
-    
+Primeiro anúncio e chamada de trabalhos
 
-      <START:ORGANIZACAO>Holcim (Brasil) S. A.<END>
-    
-    
+A <START:ORGANIZACAO>Associação Nacional de Pesquisa e Pós-Graduação em ciência da Informação e Biblioteconomia<END>
+ (<START:ORGANIZACAO>ANCIB<END>) e a  <START:ORGANIZACAO>Escola de Ciência da Informação da Universidade Federal de Minas Gerais<END>
+ (<START:ORGANIZACAO>ECI-UFMG<END>) convidam os pesquisadores que atuam na área de ciência da informação para refletir
+em sobre os rumos da área e a apresentarem suas pesquisas.
+***
 
-      <START:ORGANIZACAO>Vitae<END>
-      --
-    
-    
+Normas para apresentação de trabalhos
 
-      Recuperar a arquitetura original, ampliar espaços destinados ao público, aprimorar os serviços oferecidos aos visitantes, democratizar o acesso dos mais diversos segmentos da sociedade e viabilizar uma circulação e um percurso adequados ao discurso museográfico: essas foram as diretrizes que nortearam o "
-      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006
-      ", concluído
-      <START:TEMPO>em 19 de maio de 2006<END>
-      .
-A primeira fase das obras, totalmente financiada pelo
-      <START:ORGANIZACAO>Ministério da Cultura<END>
-      num total de
-      <START:VALOR>R$ 1.980.000,00<END>
-      , foi inaugurada
-      <START:TEMPO>dia 9 de setembro de 2004<END>
-      , com a presença do
-      
-        Primeiro Ministro
-        de
-<START:LOCAL>Portugal<END>
-      
-      ,
-      <START:PESSOA>Pedro Santana Lopes<END>
-      , da
-      
-        Ministra da Cultura de <START:LOCAL>Portugal<END>
-      ,
-      <START:PESSOA>Maria João Bustorff Silva<END>
-      , e do
-      Ministro de Estado da Cultura
-      ,
-      <START:PESSOA>Gilberto Passos Gil Moreira<END>
-      , já que
-      <START:TEMPO>nesta data<END>
-      foi aberta a exposição internacional «
-      <START:ACONTECIMENTO>Artes Tradicionais de Portugal<END>
-      », promovida pela
-      <START:ORGANIZACAO>Fundação Gulbenkian<END>.
-Iniciada
-      <START:TEMPO>em dezembro de 2003<END>
-      , a primeira fase das obras incluiu a recuperação de uma área de
-      <START:VALOR>1.500 metros quadrados<END>
-      que estavam completamente sem uso
-      <START:TEMPO>há mais de trinta anos<END>
-      e apresentavam um avançado processo de deteriorização.
-Nesse local, foram instalados os novos acessos ao circuito de exposições (escadas rolantes e elevador para portadores de necessidades especiais) e os espaços para atendimento ao público - guarda volumes, cafeteria, sanitários públicos e bilheteria - além de áreas para serviços internos.
-A partir da assinatura de contrato entre o
-      <START:ORGANIZACAO>Museu Histórico Nacional<END>
-      , a
-      <START:ORGANIZACAO>Associação dos Amigos do Museu Histórico Nacional<END>
-      e a
-      <START:ORGANIZACAO>Caixa Econômica Federal<END>
-      realizada
-      <START:TEMPO>no dia 26 de novembro de 2004<END>
-      , foram liberados recursos no valor de
-      <START:VALOR>R$ 1.900.000,00<END>
-      para o início da segunda fase das obras ainda
-      <START:TEMPO>em dezembro de 2005<END>
-      .
-Nesse etapa foi desmontada a laje construída
-      <START:TEMPO>em 1940<END>
-      , quando parte do conjunto arquitetônico era utilizada pelo
-      <START:ORGANIZACAO>Ministério da Agricultura<END>
-      , para abrigar um canteiro de experiências agrícolas e que gerava no pavimento térreo uma área de insalubridade que comprometia a integridade física do acervo sob a guarda do
-      <START:ORGANIZACAO>Museu<END>
-      .
-Essa obra foi fundamental para resgatar a arquitetura original
-      <START:TEMPO>de 1922<END>
-      , devolvendo ao público um belíssimo pátio interno interligado aos
-      <START:LOCAL>Pátios da Minerva<END>
-      e dos
-      <START:LOCAL>Canhões<END>
-      e um espaço nobre para exposições, além de permitir que parte da
-      Reserva Técnica
-      seja vista, sem prejudicar a segurança do acervo.
-Com uma área de
-      <START:VALOR>2.000 metros<END>
-      , o novo pátio recebeu o nome de
-      Gustavo Barroso
-      , numa homenagem ao fundador e primeiro diretor do <START:ORGANIZACAO>Museu Histórico Nacional<END> 
+As pesquisas a serem apresentadas devem estar em
+consonância com a temática proposta para o V ENANCIB, Informação, Conhecimento e Transdisciplinaridade, bem como se enquadrarem nos temas dos grupos de estudo da <START:ORGANIZACAO>ANCIB<END>, a
+saber:
+1.
+Informação Tecnológica e para Negócios;
+2.
+Representação do Conhecimento/Indexação/Teoria da Classificação;
+3.
+Novas Tecnologias/Redes de Informação/Educação à Distância;
+4.
+Informação e Sociedade/Ação Cultural;
+5.
+Comunicação e Produção Científica/Literatura Cinzenta
+6.
+Formação Profissional e Mercado de Trabalho;
+7.
+Planejamento e Gestão de Sistemas/Inteligência Competitiva;
+8.
+Epistemologia da Ciência da Informação.
+Os trabalhos deverão ser entregues em texto integral, observando-se tanto a
+estrutura conceitual e a pertinência com a Ciência da Informação, quanto a
+estrutura formal do texto, que visa a publicação dos anais:
 
-      .
-Com o patrocínio da
-      <START:ORGANIZACAO>HOLCIM (Brasil) S. A .<END>
-      foram recuperados
-      <START:VALOR>1.000 metros quadrados<END>
-      de galerias voltadas para o
-      <START:LOCAL>Pátio Gustavo Barroso<END>
-      para a implantação da exposição permanente "
-      Do Móvel Ao Automóvel: Transitando pela História
-      ", reunindo a preciosa coleção de meios de transportes terrestres do
-      <START:ORGANIZACAO>Museu Histórico Nacional<END>
-      em sua totalidade, a partir de restauração viabilizada graças a
-      <START:ORGANIZACAO>Vitae - Apoio à Cultura, Educação e Promoção Social<END>
-      .
-Com recursos do
-      <START:ORGANIZACAO>Ministério da Cultura<END>
-      foram concluidas as obras da terceira fase do «
-      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 
-      " com o objetivo de ampliar o auditório, visando dobrar a capacidade de atendimento de cem para duzentos lugares e, possibilitando a um maior número de interessados o acesso aos cursos e seminários promovidos pelo
-      <START:ORGANIZACAO>Museu<END>
-      .
-Ainda com recursos do
-      <START:ORGANIZACAO>Ministério da Cultura<END>
-      , o
-      <START:LOCAL>Pátio dos Canhões<END>
-      foi reformado, contando com o apoio do
-       <START:ORGANIZACAO>Arsenal de Guerra<END> do <START:LOCAL>Rio<END>
-      e do
-      <START:ORGANIZACAO>Instituto Benjamin Constant<END>
-      para a confecção das novas legendas das peças expostas, inclusive em braille.
-Com o patrocínio do
-      <START:ORGANIZACAO>Banco Nacional de Desenvolvimento Econômico e Social<END>
-      , essa etapa incluiu, ainda, a recuperação de três amplas galerias de exposição permanente situadas no segundo andar, além da realização de obras estruturais no terceiro andar, onde funciona a
-      <START:ORGANIZACAO>Administração<END>
-      .
-As galerias revitalizadas com os recursos do
-      <START:ORGANIZACAO>BNDES<END>
-      abrigam o multivídeo panorâmico "
-      A Trajetória de um museu
-      ", que apresenta o
-      <START:LOCAL>Museu Histórico Nacional<END>
-      ao visitante, e a exposição "
-      <START:ACONTECIMENTO>Oreretama<END>
-      ", que abre pela primeira vez no
-      <START:LOCAL>Museu Histórico Nacional<END>
-      um espaço permanente dedicado ao índio brasileiro. "
-<START:ACONTECIMENTO>Oreretama<END>
-      » apresenta também uma ambientação representando uma gruta do sítio arqueológico da
-      Serra da Capivara
-      e os sambaquis do litoral, incluindo objetos retirados de sítios do
-      <START:LOCAL>Estado do Rio de Janeiro<END>
-      .
-Com o "
-      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 
-      ", o
-      <START:ORGANIZACAO>Museu Histórico Nacional<END>
-      segue a tendência mundial dos grandes museus nacionais de se adequarem às necessidades impostas pelo aumento do fluxo de visitantes e à valorização das instituições culturais
-      <START:TEMPO>nesse novo milênio<END>
-      .
-A solenidade do término das obras do "
-      Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006
-      " foi realizada
-      <START:TEMPO>no dia 19 de maio de 2006<END>
-      , no âmbito das comemorações
-      <START:TEMPO>do Dia Internacional<END> de Museus 
-      , com a presença do
-      Ministro de Estado da Cultura
-      ,
-      <START:PESSOA>Gilberto Passos Gil Moreira<END>
-      .
-ARQUIVO HISTÓRICO
-    
+· estrutura conceitual:
 
-      O
-      <START:ORGANIZACAO>Museu Histórico Nacional<END>
-      oferece ao público
-      <START:LOCAL>Arquivo Histórico<END>
-      , com
-      <START:VALOR>50.000<END>
-      documentos iconográficos e manuscritos sobre a história do
-      Brasil
-      , e
-      <START:LOCAL>Biblioteca<END>
-      com
-      <START:VALOR>57.000<END>
-      obras versando sobre história, história da arte, museologia, heraldica, numismática, genealogia e moda.
-Oferece, ainda, o
-      <START:ORGANIZACAO>Centro de Referência Luso-Brasileiro<END>
-      , ligado ao
-      <START:ORGANIZACAO>Arquivo Histórico<END>
-      e criado
-      <START:TEMPO>em 1998<END>
-      , no âmbito das comemorações dos
-      <START:VALOR>500 anos<END>
-      da chegada dos portugueses ao
-      <START:LOCAL>Brasil<END>
-      .
-O
-      Arquivo
-      pode ser consultado
-      <START:TEMPO>de segunda a sexta-feira<END>
-      ,
-      <START:TEMPO>das 10h às 16h30m<END>
-      , mediante agendamento prévio através do telefone (0xx21) 2550-9268.
-O
-      <START:ORGANIZACAO>Museu<END>
-      mantém, ainda,
-      <START:ORGANIZACAO>Arquivo Institucional<END>
-      sobre a trajetória do próprio
-      <START:LOCAL>Museu Histórico Nacional<END>
-      , com documentos, fotografias, impressos, recortes de jornal, etc.
-As fotos utilizadas para ilustrar o item "
-      ARQUITETURA E HISTÓRIA
-      " integram este acervo.
-O
-      <START:LOCAL>Arquivo Institucional<END>
-      é aberto a consultas, mediante agendamento prévio através do telefone 21-25509265.
-Retrato do
-      <START:PESSOA>Imperador D. Pedro II<END>
-    
-    
+ .
+abrangência e pertinência do conteúdo;
+ .
+clareza e articulação dos conceitos e idéias;
+ .
+atualização dos conceitos.
+· estrutura formal:
 
-      Fotografia
-      <START:PESSOA>Francisco Pesce<END>
-      ,
-      <START:TEMPO>1888<END>
-      O
-      <START:LOCAL>Arquivo Histórico<END>
-      reúne importantes documentos manuscritos e iconográficos referentes à nossa história e divididos em coleções, como a "
-      Coleção Família Imperial
-      ", compreendendo
-      <START:VALOR>1.445<END>
-      documentos de diversas procedências, relacionados aos
-      <START:PESSOA>Imperadores D. Pedro I<END>
-      e
-      <START:PESSOA>D.
-Pedro II<END>
-      e respectivos familiares.
-São gravuras e álbuns de fotografias com retratos da realeza e nobreza da época, vistas de cidades brasileiras e estrangeiras e documentos pessoais, como os exercícios de caligrafia de
-      <START:PESSOA>D.
-Pedro II<END>
-      ; de correspondência entre membros da família imperial e outros, além de homenagens como poesias, sonetos, hinos ou músicas dedicados a membros da família.
-<START:PESSOA>Ântonio Carlos Gomes<END>
-    
-    
+ .
+serão selecionadas pesquisas que apresentem pelo menos uma das seguintes especificidades:
+   1. estar concluída
+   2. encontrar-se em fase de análise de dados
+   3. ser financiada;
 
-      Il
-      Guarany
-    
-    
+ .
+indicação do grupo temático ao qual a pesquisa se enquadra;
+ .
+adequação do trabalho às normas da <START:ORGANIZACAO>ABNT<END>: NBR6022 (Apresentação de artigos em publicações
+  periódicas);NBR6028 (Resumos); NBR6023 (Referências	 bibliográficas - elaboração);
+ .
+a inclusão de tabelas, gráficos e ilustrações deverá obedecer às Normas de apresentação   tabular, do <START:ORGANIZACAO>IBGE<END>;
+ .
+o (s) nome (s) do (s) principal (is) pesquisador (es) deverá (ão) remeter para nota de rodapé a  identificação do título maior, vínculo institucional e e-mail;
+ .
+os trabalhos deverão ter de 10 a 20 páginas, digitadas em programa Word,
+  fonte Times New Roman, tamanho 12, espaço duplo, sem paginação.
+Entrega dos trabalhos
 
-      Folha de rosto da
-      Partitura
-    
-    
+Os trabalhos poderão ser enviados:
+ · via Internet, para o endereço: ancib@eci.ufmg.br, ou
+ · em disquete devidamente etiquetado e uma cópia impressa para o endereço:
+   <START:ORGANIZACAO>Comissão de Avaliação de Trabalhos ENANCIB<END>
+   <START:ORGANIZACAO>Escola de Ciência da Informação da UFMG<END>
+   Caixa Postal 1606 30.161-970 <START:LOCAL>Belo HorizonteMG<END>
+ · prazo para entrega: 30 de abril de 2003
 
-      O
-      <START:ORGANIZACAO>Arquivo Histórico<END>
-      preserva, ainda, importante coleção referente ao compositor brasileiro
-      <START:PESSOA>Ântonio Carlos Gomes<END>
-      , que inclui o primeiro volume da partitura original de um de seus primeiros trabalhos, a ópera "
-      Joana de Flandres
-      ".
-Formada a partir de diversas doações, a coleção reúne
-      <START:VALOR>216<END>
-      documentos, entre desenhos de cenários, cartas, fotografias, partituras originais e libretos de algumas obras como "
-      Condor
-      ", "
-      Morena
-      " e "
-      Colombo
-      ", preciosos para uma melhor compreensão do trabalho de
-      <START:PESSOA>Carlos Gomes<END>
-      , cuja obra de maior sucesso, "
-      O Guarani
-      ", estreou no
-      <START:LOCAL>Teatro Scala<END> de <START:LOCAL>Milão<END>
-        
-      <START:TEMPO>em 1870<END>
-      , sendo encenada em diversos países.
-A
-      Coleção Eusébio de Queirós
-      engloba
-      <START:VALOR>350<END>
-      documentos, sobretudo correspondências trocadas entre políticos e seus familiares, versando, principalmente, sobre a repressão ao tráfico negreiro e temas políticos e judiciais.
-Magistrado e político brasileiro, nascido em
-      <START:LOCAL>Angola<END>
-      <START:TEMPO>em 1812<END>
-      ,
-      <START:PESSOA>Eusébio de Queirós Coutinho Matoso da Câmara<END>
-      exerceu o cargo de
-      Ministro da Justiça
-      <START:TEMPO>de 1848 a 1852<END>
-      , destacando-se como autor de duas importantes leis do
-      <START:ORGANIZACAO>Império<END>
-      : a
-      lei 556
-      , que criava o
-      Código Comercial
-      , e o
-      decreto 708
-      , que estabelecia medidas para a repressão ao tráfico de africanos.
-Missão Salesiana
-      em
-      <START:LOCAL>Mato Grosso<END>
-      ,
-      <START:TEMPO>1908<END>
-    
-    
-Meninas bororos freqüentam a escola
-    
 
-      Documentação pessoal, álbuns de fotografias e documentos cartográficos compõem a "
-     Coleção Miguel Calmon Du Pin e Almeida
-      ", engenheiro e político brasileiro, que ocupou o cargo de
-      Ministro de Viação e Obras Públicas
-      no
-      <START:ORGANIZACAO>Governo Afonso Pena<END>
-      ,
-      <START:TEMPO>entre 1906 e 1909<END>
-      e de
-      Ministro da Agricultura
-      no mandato de
-      <START:PESSOA>Artur Bernardes<END>
-      ,
-      <START:TEMPO>de 1922 a 1926<END>
-      .
-As fotografias documentam as principais obras que significaram a incorporação dos ideais de progresso e modernização pelo
-      <START:ORGANIZACAO>Brasil<END>
-      <START:TEMPO>no começo do século XX<END>
-      , assim como as diversas áreas indígenas encontradas ao longo deste trabalho.
-Aquarelas de
-      <START:PESSOA>Sophia Jobim<END>
-      para Ilustrar suas aulas de indumentária
-    
-    
-
-      A moda também faz parte do
-      <START:ORGANIZACAO>Arquivo Histórico<END>
-      .
-Quem pesquisa a indumentária civil e militar não pode deixar de consultar as coleções "
-      Sophia Jobim Magno de Carvalho
-      " e "
-      Uniformes Militares
-      ".
-Museóloga e desenhista,
-      <START:PESSOA>Sophia Jobim<END>
-      lecionava na
-      <START:ORGANIZACAO>Escola Nacional de Belas Artes<END>
-      a disciplina de
-      Indumentária Histórica
-      .
-Através de suas constantes viagens pelo mundo, colecionou um vasto acervo de trajes típicos, fundando,
-      <START:TEMPO>em 1960<END>
-      , o primeiro
-      
-        <START:LOCAL>Museu de Indumentária Histórica e Antigüidades da América Latina<END>
-        
-      em sua residência no bairro carioca de
-      <START:LOCAL>Santa Teresa<END>
-      .
-Toda a coleção
-      Sophia Jobim
-      é doada ao
-      <START:ORGANIZACAO>Museu<END>
-      após a sua morte.
-Os trajes típicos são preservados na
-      <START:LOCAL>Reserva Técnica<END>
-      , os livros na
-      <START:LOCAL>Biblioteca<END>
-      e os
-      <START:VALOR>1.124<END>
-      documentos textuais e iconográficos, inclusive livros de receitas de pratos regionais e álbuns de fotografia de eventos relacionados à trajetória da titular da coleção, estão à disposição do pesquisador no
-      <START:LOCAL>Arquivo Histórico<END>
-      .
-Já a coleção de uniformes militares é composta por
-      <START:VALOR>836<END>
-      documentos iconográficos, dos quais destacam-se
-      <START:VALOR>228<END>
-      aquarelas de autoria de
-      <START:PESSOA>José Wasth Rodrigues<END>
-      ; álbuns de aquarelas,
-      <START:TEMPO>do século XVIII<END>
-      , de uniformes militares
-      do período colonial
-      e de desenhos copiados de modelos de uniformes existentes no
-      
-        <START:ORGANIZACAO>Arquivo Histórico e Colonial<END>
-        de
-        <START:LOCAL>Lisboa<END>
-      
-      .
-O valor documental destas obras reside na constituição dos traços da indumentária militar brasileira,
-      do período colonial ao republicano
-      , tornando-se fonte de consulta obrigatória com relação a este tema.
-<START:PESSOA>Juan Gutierrez<END>
-    
-    
-
-      Documentou a
-      Revolta da Armada
-      (
-      <START:TEMPO>1893/94<END>
-      )
-    
-    
-
-      <START:VALOR>Cerca de 10.200<END>
-      fotografias, entre as quais os primeiros processos fotográficos, como daguerreótipos e ambrotipos, integram o acervo do
-      <START:ORGANIZACAO>Arquivo Histórico<END>
-      .
-São fotografias de
-      <START:PESSOA>Marc Ferrez<END>
-      e
-      <START:PESSOA>Augusto Malta<END>
-      , além de cartões postais de diversas épocas.
-Destaque para a "
-      Coleção Juan Gutierrez
-      ".
-Fotógrafo espanhol,
-      <START:PESSOA>Gutierrez<END>
-      atuou no
-      <START:LOCAL>Rio de Janeiro<END>
-      <START:TEMPO>entre 1880 e 1890<END>
-      .
-Documentou a
-      Revolta da Armada
-      (
-      <START:TEMPO>1893/94<END>
-      ), retratando as fortificações, os soldados e o armamento utilizado sem, contudo, apresentar cenas do embate.
-Suas lentes captaram, ainda, vistas de vários bairros da antiga cidade do
-      <START:LOCAL>Rio de Janeiro<END>
-      , reproduzindo sua arquitetura e seu cotidiano.
-Conheça toda a coleção de fotografias de
-      <START:PESSOA>Gutierrez<END>
-      em nossa
-      Galeria Virtual
-      .
-Desenhos, gravuras e aquarelas de importantes artistas como
-      <START:PESSOA>Rugendas<END>
-      ,
-      <START:PESSOA>Debret<END>
-      ,
-      <START:PESSOA>Norfini<END>
-      e
-      <START:PESSOA>Reis Carvalho<END>
-      , retratam cidades e paisagens brasileiras
-      <START:TEMPO>ao longo dos séculos XIX<END> e <START:TEMPO>XX<END>
-      , estando também preservados no
-      <START:ORGANIZACAO>Arquivo Histórico<END>
-      .
-<START:PESSOA>Nair de Teffé<END>
-    
-    
-
-      Dita
-      Rian
-      (
-      <START:TEMPO>1886-1981<END>
-      )
-    
-    
-Caricatura
-    
-
-      Outra curiosa coleção pertencente ao acervo do
-      <START:ORGANIZACAO>Museu<END>
-      é formada por
-      <START:VALOR>26<END>
-      caricaturas de
-      <START:PESSOA>Rian<END>
-      , entre as quais as dos
-      <START:PESSOA>Presidentes Juscelino Kubitsckek<END>
-      ,
-      <START:PESSOA>Eurico Gaspar Dutra<END>
-      ,
-      <START:PESSOA>João Café Filho<END>
-      e
-      <START:PESSOA>Humberto de Alencar Castelo Branco<END>
-      .
-Os traços irônicos de
-      <START:PESSOA>Rian<END>
-      fixaram, sobretudo, personalidades políticas e figuras da alta sociedade.
-<START:PESSOA>Rian<END>
-      , na realidade
-      <START:PESSOA>Nair de Teffé<END>
-      , já era conhecida caricaturista ao casar-se,
-      <START:TEMPO>em 1913<END>
-      , com o então
-      Presidente da República
-      ,
-      <START:PESSOA>Hermes da Fonseca<END>
-      .
-Com trabalhos publicados em revistas nacionais e estrangeiras, como o
-      Semanário Fon-Fon
-      ,
-      Le Rire
-      e a
-      Gazeta de Notícias
-      , escandalizou
-      <START:TEMPO>muitas vezes<END>
-      o
-     Palácio do Catete
-      com suas atitudes excêntricas.
+--DOCSTART--
+<START:ORGANIZACAO>Isotexsa - Impermeabilização para a Construção Civil, Lda<END> ::::::..
+Última actualização: 09-01-2003
+Nº de visitas:
+Localização | Contacto | Produtos | Obras | Técnica | Tempo
+Exclusividade em <START:LOCAL>Portugal<END>
+Uma empresa com força para investir neste novo produto.
+É o que comprova a entrevista da semana com o Gerente da Isotexsa, <START:PESSOA>Fernando Domingues<END>.
+Sorry, your browser doesn't support Java(tm).
+Sorry, your browser doesn't support Java(tm).
+Sorry, your browser doesn't support Java(tm).
+Sorry, your browser doesn't support Java(tm).
+Era uma vez ...
+Fundada e iniciada a actividade em 1971, foi uma das primeiras empresas a representar produtos da <START:ORGANIZACAO>TEXSA Portuguesa<END>, dando origem assim ao seu nome Isotexsa.
+Situada em <START:LOCAL>Leiria<END>, com um capital social de 7.481,97 euros, inicia o mercado do distrito de <START:LOCAL>Santarém<END> e posteriormente, <START:LOCAL>Leiria<END> e <START:LOCAL>Coimbra<END>.
+Poucos anos depois, passa a gastar produtos de outros fornecedores nacionais e internacionais onde alarga a sua actividade a todo o país.
+Em 1986, houve uma reestruturação da empresa e um dos sócios vende a sua quota.
+A <START:ORGANIZACAO>Isotexsa<END> fica com dois sócios e o capital social é aumentado para 49.879,79 euros.
+Em 1989, a empresa é adquirida pelos actuais sócios gerentes, <START:PESSOA>Fernando Domingues<END>, sua esposa <START:PESSOA>Cremilde Domingues<END> e filhos, aumentando o capital social para 124.699,48 euros.
+Hoje, a <START:ORGANIZACAO>Isotexsa<END> conta com 30 colaboradores especializados na aplicação e gestão da mesma.
+Tem como principal objectivo, a qualidade de vida nos edifícios, onde o morador é cada vez mais exigente e merecedor de toda a informação, por parte dos projectistas, promotores, instaladoras e construtores.
+Com o sector de mercado na Construção Civil, Obras Públicas, Condomínios e obras particulares, a <START:ORGANIZACAO>Isotexsa<END> comercializa e aplica os seus produtos, em todo o continente e arquipélagos.
+by - <START:ORGANIZACAO>Netpage<END> - Copyright © 2002 - Todos os direitos reservados

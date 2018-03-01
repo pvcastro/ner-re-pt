@@ -23,7 +23,7 @@ folds = [dataset[i:(i + fold_size)] for i in xrange(0, len(dataset), fold_size)]
 for i in range(len(folds)):
 	out_tree_str = "<?xml version='1.0' encoding='ISO-8859-1'?>\n"
 	out_tree_str += "<!DOCTYPE colHAREM>\n"
-	out_tree_str += "<colHAREM versao=\"Segundo_dourada_com_relacoes_14Abril2010\">\n"
+	out_tree_str += "<colHAREM versao=\"Harem_1_e_Harem_2\">\n"
 	out_tree_str += "</colHAREM>"
 
 	out_tree_train = etree.fromstring(out_tree_str)

@@ -24,7 +24,8 @@ def strip_tags_without_cat(tree,tag):
   etree.strip_tags(tree, deltag)  
 
 def filter_dataset(tree):
-  categorias = ['OBRA','COISA','ABSTRACCAO','OUTRO']
+  #Todos: 'ABSTRACCAO','OUTRO','LOCAL','ACONTECIMENTO','TEMPO','PESSOA','OBRA','ORGANIZACAO','VALOR','COISA'
+  categorias = ['OBRA','COISA','ABSTRACCAO','OUTRO','ACONTECIMENTO','VALOR','TEMPO']
   tipos = ['CARGO','GRUPOCARGO','GRUPOMEMBRO','MEMBRO','GRUPOIND','POVO', 'EFEMERIDE','VIRTUAL']
   subtipos = ['REGIAO','OUTRO','AGUAMASSA','AGUACURSO','RELEVO','PLANETA','ADMINISTRACAO']
 

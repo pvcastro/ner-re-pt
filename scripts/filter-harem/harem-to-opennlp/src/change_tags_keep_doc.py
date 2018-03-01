@@ -19,6 +19,8 @@ newdata = newdata.replace("</EM>","<END>")
 # Sentence per P tag 
 newdata = newdata.replace("<P>",'\n')
 newdata = newdata.replace("</P>",'')
+newdata = newdata.replace("<p>",'\n')
+newdata = newdata.replace("</p>",'')
 
 #######################
 # Ignore DOC tags

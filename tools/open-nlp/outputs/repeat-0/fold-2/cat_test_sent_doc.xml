@@ -1,1107 +1,959 @@
 --DOCSTART--
-<START:PESSOA>Superflex<END> lança cerveja "pública"
-    
-<START:TEMPO>29 de Novembro de 2007<END>
-    
-Matéria publicada originalmente na <START:LOCAL>Folha<END> online
-    
-<START:PESSOA>FABIO CYPRIANO<END> DA
-    
-<START:PESSOA>REPORTAGEM LOCAL<END>
-    
-Uma nova marca de cerveja é lançada, <START:TEMPO>hoje<END>, na galeria <START:LOCAL>Vermelho<END>: a <START:COISA>Free Beer<END>.
-Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da <START:COISA>Free Beer<END> está estampada sua receita.
-A <START:ABSTRACCAO>Free Beer<END> é a nova ação do coletivo dinamarquês <START:PESSOA>Superflex<END>, composto por <START:PESSOA>Bjornstjerne Reuter Christiansen<END>, <START:PESSOA>Jakob Fenger<END> e <START:PESSOA>Rasmus Nielsen<END>.
-<START:TEMPO>No ano passado<END>, o grupo trouxe polêmica à  <START:ACONTECIMENTO>27ª Bienal<END> de <START:LOCAL>São Paulo<END> com o <START:COISA>Guaraná Power<END>, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte.
-Apesar do veto, o <START:COISA>Guaraná Power<END>, feito em colaboração com a  <START:ORGANIZACAO>Cooperativa de Agricultores<END> da <START:LOCAL>Região de Maués<END>, na <START:LOCAL>Amazônia<END>, chegou a ser distribuído em museus e na própria <START:LOCAL>Vermelho<END>, durante a <START:ACONTECIMENTO>Bienal<END>.
-"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado", conta <START:PESSOA>Fenger<END>.
-"Free software"
-    
-A <START:COISA>Free Beer<END> surgiu <START:TEMPO>em 2004<END>, numa parceria com estudantes da  <START:ORGANIZACAO>Universidade<END> de <START:LOCAL>Copenhague<END>.
-"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo", conta <START:PESSOA>Nielsen<END>.
-"Por isso, a <START:ABSTRACCAO>Free Beer<END> tem sido comparada ao <START:ABSTRACCAO>Linux<END> [sistema operacional gratuito] e à <START:ABSTRACCAO>Wikipedia<END>", diz o artista.
-Quem quiser produzir e comercializar a <START:COISA>Free Beer<END> pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita.
-"Já há <START:COISA>Free Beer<END> sendo produzida na <START:LOCAL>Inglaterra<END>, nos <START:LOCAL>Estados Unidos<END>, na <START:LOCAL>Dinamarca<END> e até na <START:LOCAL>República Tcheca<END>", afirma <START:PESSOA>Fenger<END>.
-No <START:LOCAL>Brasil<END>, a <START:COISA>Free Beer<END> está sendo produzida pela <START:ORGANIZACAO>Cervejaria Germânia<END>, que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.
-"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do <START:ORGANIZACAO>Creative Commons<END>", diz <START:PESSOA>Christiansen<END>.
-Na <START:LOCAL>Vermelho<END>, o <START:PESSOA>Superflex<END> apresenta o "<START:COISA>Free Beer Kit<END>", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop "<START:ACONTECIMENTO>O Mundo da Cerveja<END>", com os especialistas <START:PESSOA>Cilene Saorin<END> e <START:PESSOA>Arnaldo Ribeiro<END>, <START:TEMPO>no próximo dia 15 de dezembro<END>, <START:TEMPO>às 14 h<END>.
-O grupo exibe também nove máquinas "<START:COISA>Counter-Game Strategies<END>" (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria.
-"<START:PESSOA>Mark Getty<END> afirma que "a propriedade intelectual é o petróleo <START:TEMPO>do século 21<END>'", conta <START:PESSOA>Christiansen<END>, "portanto, estamos tratando de um tema muito sério.
-Afinal, quantas guerras não foram realizadas por conta do petróleo?".
-<START:TEMPO>No próximo sábado<END>, <START:TEMPO>às 16h<END>, <START:PESSOA>Ronaldo Lemos<END>, <START:PESSOA>diretor do Creative Commons<END>  no <START:LOCAL>Brasil<END>, irá participar de um debate com os membros do <START:PESSOA>Superflex<END>, na <START:LOCAL>Vermelho<END>, e logo após será realizada uma gincana intitulada "<START:ABSTRACCAO>Free Beer Pub Quiz<END>", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.
+Olá!
+Sou o <START:PESSOA>Diogo<END>, tenho <START:VALOR> 16 anos<END> e decidi criar esta página por mim, mas mais pela minha causa.
+Antes de falar da minha causa, vou tentar falar um pouco de mim: Nasci <START:TEMPO>a 18 de Fevereiro de 1984<END>.
+Moro no <START:LOCAL>Porto<END> e estudo no <START:VALOR>11º<END> ano(<START:ABSTRACCAO>Economia<END>).Pratico equitação(tornou-se a <START:VALOR>5º<END> máxima da minha vida), adoro história e não perco um bom documentário.
+Adoro cinema e prefiro filmes de <START:ABSTRACCAO>Drama<END> ou "<START:ABSTRACCAO>Históricos<END>".
+<START:PESSOA>Deus<END>, a <START:ABSTRACCAO>Pátria<END>, O <START:PESSOA>Rei<END>, a <START:ABSTRACCAO>Família<END> e a equitação são as máximas da minha vida e a minha causa incere-se na <START:VALOR>2º<END> e na <START:VALOR>3º<END> máxima.
+Sou contra o federaliamo Europeu (mas a favor da comunidade europeia das nações) e sou monárquico.
+Ao contrário do que muitos pensam não herdei a vontade de ser <START:PESSOA>Monárquico<END>, pois na minha família não há um único monárquico a não ser eu.
+Contudo sou descendente de família Nobre pelo lado da minha mãe, mas nem por isso a minha família se torna <START:PESSOA>Monárquica<END>.
+Com isto entende-se que para ser <START:PESSOA>Monárquico<END> basta preferir a <START:ABSTRACCAO>Instituição Real<END> em deterioração da <START:ABSTRACCAO>Republicana<END>, não é preciso pertencer a famílias aristocráticas(como muitos pensam e mal, aproveitando-se disso para nos criticar).
+Podia dizer muito mais á cerca de mim e da minha causa, mas como não percebo muito de internet, vou perquisar mais um pouco para ver como é a estrutura da página, mais tarde falo mais de mim e da minha causa.
+Com os melhores cumprimentos e Saudações Monárquicas:
+<START:PESSOA>Diogo Costa V.
+T. Pereira<END>
+
+
 --DOCSTART--
-    
-<START:ACONTECIMENTO>Cavalo-marinho<END> <START:ACONTECIMENTO>Boi PIntado<END>, <START:TEMPO>o dia de Reis<END>  e a <START:OBRA>Lei Rouanet<END>, <START:LOCAL>Recife<END>, <START:LOCAL>PE<END> · <START:TEMPO>05/1<END>
-    
+<START:ORGANIZACAO>México<END> prende assessor de deputado do <START:ORGANIZACAO>PRI<END>
+Das agências internacionais
+A polícia mexicana prendeu ontem um funcionário da <START:ORGANIZACAO>Câmara<END> por suspeita de envolvimento no assassinato do secretário-geral do <START:ORGANIZACAO>Partido Revolucionário Institucional<END> (<START:ORGANIZACAO>PRI<END>, governista ), <START:PESSOA>José Francisco Ruiz Massieu<END>, <START:VALOR>48<END>, ocorrido quarta-feira na <START:LOCAL>Cidade do México<END>.
+<START:PESSOA>Fernando Rodríguez González<END>, assessor do deputado <START:PESSOA>Manuel Mu¤oz Rocha<END>, do <START:ORGANIZACAO>PRI<END>, teria hospedado o assassino na capital enquanto o crime era preparado.
+<START:PESSOA>Rodríguez<END> foi implicado por <START:PESSOA>Daniel Aguilar Treviño<END>, <START:VALOR>28<END>, que foi preso em flagrante minutos após o crime e confessou ontem.
+<START:PESSOA>Aguilar<END> que "não fuma, não bebe e é analfabeto", segundo a polícia disparou contra <START:PESSOA>Ruiz<END> com uma submetralhadora <START:COISA>Uzi<END> na avenida <START:LOCAL>Paseo de la Reforma<END> (centro).
+A arma travou após o primeiro tiro, que atingiu <START:PESSOA>Ruiz<END> no pescoço.
+Vinte pessoas já foram detidas sob suspeita de envolvimento no atentado.
+<START:PESSOA>Carlos Angel Cantú Narvaez<END> seria quem contratou <START:PESSOA>Aguilar<END> para cometer o crime, por <START:VALOR>50 mil pesos<END> (<START:VALOR>US$ 15 mil<END>), e teria estado com ele no momento do assassinato.
+Outra hipótese levantada ontem é a de vingança pessoal.
+<START:PESSOA>Rubio<END> foi condenado a partir de investigação ordenada por <START:PESSOA>Ruiz<END>, então governador de <START:LOCAL>Guerrero<END>.
+Pesquisa de opinião publicada ontem pelos jornais "<START:LOCAL>Reforma<END>", da capital, e "<START:LOCAL>El Norte<END>", de <START:LOCAL>Monterrey<END>, diz que <START:VALOR>29%<END> dos entrevistados acreditam que <START:PESSOA>Ruiz<END> foi morto por ordem da "velha guarda" do <START:ORGANIZACAO>PRI<END> (no poder <START:TEMPO>desde 1929<END>).
+Para <START:VALOR>72%<END>, o crime está relacionado ao assassinato de <START:PESSOA>Luis Donaldo Colosio<END>, candidato presidencial do <START:ORGANIZACAO>PRI<END>, <START:TEMPO>em 23 de março<END>.
+Dos <START:VALOR>920<END> entrevistados, <START:VALOR>15%<END> culpam os cartéis do narcotráfico e <START:VALOR>14%<END> responsabilizam o <START:PESSOA>presidente Carlos Salinas de Gortari<END> ou alguém próximo a ele.
+A hipótese de envolvimento dos cartéis da droga está relacionada ao fato de um dos irmãos de <START:PESSOA>Ruiz<END>, <START:PESSOA>Mario<END>, ser o <START:PESSOA>subprocurador-geral da República<END> encarregado do combate ao narcotráfico.
+Os <START:VALOR>299<END> deputados eleitos pelo <START:ORGANIZACAO>PRI<END> para a próxima legislatura escolheram ontem <START:PESSOA>Humberto Roque Villanueva<END> para substituir <START:PESSOA>Ruiz<END> como líder da bancada.
+Em <START:LOCAL>Brasília<END>, o <START:PESSOA>Itamaraty<END> divulgou mensagem enviada a <START:PESSOA>Salinas<END> pelo <START:PESSOA>presidente Itamar Franco<END>, "repudiando mais esse ato de violência absurda".
+--DOCSTART--
+DUAS EXPOSIÇÕES EM <START:LOCAL>PORTUGAL<END>
 
-      <START:PESSOA>Rosa Campello<END>
-      ·
-      <START:LOCAL>Recife<END>
-      (
-      <START:LOCAL>PE<END>
-      ) ·
-      <START:TEMPO>31/12/2007<END>
-      <START:TEMPO>11:18<END>
-      ·
-      <START:VALOR>137<END>
-      votos
-    
-    
+<START:PESSOA>TERESA REBELO<END>
 
-      Celebração <START:TEMPO>ao Dia de Reis<END> 
-      , evento que acontece sempre
-      <START:TEMPO>dia 06 de janeiro<END>
-      , estaremos antecipando-o um pouco,
-      <START:TEMPO>para o dia 05 de janeiro de 2008<END>
-      , e com motivos de sobra para comemorá-lo:
-      <START:PESSOA>Mestre Grimário<END>
-      acaba de receber incentivo para finalizar seu CD
-      <START:OBRA>CAVALO-MARINHO BOI PINTADO<END>
-      , o qual tem a participação especial das crianças do
-      <START:ORGANIZACAO>Ponto de Cultura<END>
-      do
-      <START:ORGANIZACAO>MOVIMENTO PRÓ-CRIANÇA<END>
-      através da
-      <START:OBRA>Lei Rouanet<END>
-      !!!!!!!!!!!!!!!!!!!!!!!!
-A Empresa socialmente responsável , é a
-      <START:ORGANIZACAO>STN - SISTEMA DE TRANSMISSÃO DO NORDESTE<END> 
-      .
-    
-    
+O PASSADO DA IMPRENSA EM <START:LOCAL>MACAU<END>
+Desta exposição "<START:ACONTECIMENTO>200 Anos de Jornalismo Português em Macau<END>" saímos com a certeza de que os portugueses foram os grandes impulsionadores do jornalismo na <START:LOCAL>China<END> e no <START:LOCAL>Extremo Oriente<END>, exercendo <START:ORGANIZACAO>Macau<END> um papel fundamental em todo este processo
 
-      "
-<START:ABSTRACCAO>CAVALO-MARINHO<END>
-      , Uma Dança Dramática Brasileira:
-    
-    
+Promovida pela <START:ORGANIZACAO>Missão de Macau<END>, <START:ORGANIZACAO>Instituto Cultural e Gabinete de Comunicação Social de Macau<END>, a exposição está instalada por agora na <START:LOCAL>Torre do Tombo<END>, em <START:LOCAL>Lisboa<END>, mas <START:TEMPO>depois de 15 de Setembro<END> será transferida para o <START:LOCAL>Museu da Imprensa<END> no <START:LOCAL>Porto<END>.
+Conscientes de que vamos entrar na era do passado, não por já sabermos de antemão que o peso da imprensa portuguesa no território está pendente do futuro, mas porque entramos na <START:LOCAL>Torre do Tombo<END>, somos logo informados de que o primeiro jornal impresso do continente chinês e da <START:LOCAL>Ásia Oriental<END> segundo a moderna tecnologia da época, em caracteres móveis metálicos, foi "<START:OBRA>A Abelha da China<END>", uma publicação surgida <START:TEMPO>em 1822<END>, escrita em português, com uma opinião crítica e política da realidade de <START:LOCAL>Macau<END>.
+Como bem podemos ver exposto e ler no exemplar fac-similado que nos é oferecido, o primeiro número deste jornal mostra-nos que o seu objectivo jornalístico era divulgar os ideais do liberalismo saídos da <START:OBRA>Constituição<END> <START:TEMPO>de 22<END>, justapostos aos limites castradores da administração então vigente.
+Depois do "<START:OBRA>Abelha da China<END>" apareceram nove jornais portugueses, todos eles mencionados nesta mostra, sendo muito mais demorado o surgimento do primeiro jornal chinês pela mão de um macaense, com o nome de "<START:ABSTRACCAO>Ching- Hai Tsung Pao<END>" ou "<START:ABSTRACCAO>O Echo Macaense<END>".
+Fundado <START:TEMPO>em 1893<END>, publicado em versão chinesa e portuguesa, este jornal foi o veículo das doutrinas revolucionárias do líder histórico <START:PESSOA>Sun Iat Sen<END> que, tanto pelo seu carisma político como pela sua colaboração em vários jornais de <START:LOCAL>Macau<END>, tem reservados nesta exposição vários lugares de destaque.
+Aliás, são várias as figuras mediáticas de <START:LOCAL>Macau<END> mencionadas em jeito de referência temática e outra delas é <START:PESSOA>Monsenhor Manuel Teixeira<END> a quem se presta homenagem por ser o português mais antigo no território a assinar uma coluna num jornal e pela sua obra <START:OBRA>A Imprensa Portuguesa no Extremo Oriente<END> em que dá notícia do número de títulos de jornais impressos em português no <START:LOCAL>Oriente<END>, títulos como "<START:ABSTRACCAO>O Português<END>" ou "<START:ABSTRACCAO>O Petardo<END>", que eram jornais de <START:LOCAL>Hong Kong<END> impressos em <START:LOCAL>Macau<END> (ler artigo na <START:OBRA>Revista Macau, n.º 47, Março 96<END>).
+São cerca de <START:VALOR>90<END> os títulos dos jornais que registaram os acontecimentos dos últimos dois séculos de presença portuguesa no local, muitos deles expostos na <START:LOCAL>Torre do Tombo<END> numa panóplia de vitrinas, que provam que <START:LOCAL>Macau<END> exerceu influência determinante em todo o processo jornalístico português a <START:LOCAL>Oriente<END>.
+Se a conservação dos títulos portugueses impressos foi quase inexistente ao longo de todos estes anos, o mesmo aconteceu com a <START:ABSTRACCAO>Imprensa Chinesa<END>, e o que resta para a realização duma <START:OBRA>História da Imprensa em Macau<END> esteve guardado nos arquivos da <START:ORGANIZACAO>Biblioteca do Leal Senado<END> e na <START:ORGANIZACAO>Biblioteca Sir Robert Ho Tung<END>.
+Liberdade de imprensa e censura
 
-      <START:ABSTRACCAO>Cavalo-marinho<END>
-      , uma tradição folclórica do ciclo <START:TEMPO>de Natal<END> 
-      , é a versão pernambucana do
-      <START:ABSTRACCAO>Bumba-meu-Boi<END>
-      .
-Encontrado em toda parte do
-      <START:LOCAL>Brasil<END>
-      , o
-      <START:ABSTRACCAO>Bumba-meu-boi<END>
-      é uma dança dramática que tem como elemento principal a morte e ressurreição do boi mágico.
-Uma apresentação de cavalo-marinho abrange música vocal, dança, cenas dramáticas, ação, poesia improvisada, música instrumental, máscaras e fantasias.
-No interior, para o norte do
-      <START:LOCAL>Recife<END>
-      , apresenta-se durante a safra da cana-de-açúcar(
-      <START:TEMPO>agosto a janeiro<END>
-      ).
-O enredo do
-      <START:ABSTRACCAO>Cavalo-marinho<END>
-      concentra-se em torno do
-      <START:PESSOA>Capitão<END>
-      , um proprietário rural que tinha deixado suas terras sob o controle de
-      <START:PESSOA>Mateus<END>
-      e
-      <START:PESSOA>Sebastião<END>
-      , dois vaqueiros.
-O
-      <START:PESSOA>Capitão<END>
-      deseja celebrar a volta dele às suas terras, mas, os vaqueiros não deixam.
-O
-      <START:PESSOA>Capitão<END>
-      manda um
-      <START:PESSOA>Soldado<END>
-      tirar a licença à força, e ele consegue, após muita confusão cômica e pancadas altas, mas, sem dor, das bexigas de boi que o
-      <START:PESSOA>Mateus<END>
-      e o
-      <START:PESSOA>Sebastião<END>
-      usam como armas e instrumentos musicais.
-Agora é a vez do
-      <START:PESSOA>Mestre Ambrósio<END>
-      , que imita todas as personagens do folguedo, que continua com uma longa seqüência de danças pelo
-      <START:PESSOA>Capitão<END>
-      e seus
-      <START:PESSOA>Galantes<END>
-      , uma guarda de honra.
-Entre elas, são danças em homenagem aos
-      <START:PESSOA>Reis Magos<END>
-      , que compartilha temas musicais com as devoções de
-      <START:PESSOA>Reis<END>
-      no
-      <START:LOCAL>Portugal<END>
-      , e uma para
-       <START:PESSOA>São Gonçalo<END> de <START:LOCAL>Amarante<END>
-      .
-Entram, em seguida, dezenas de personagens, cada uma das quais faz parte do mundo do engenho-de-açúcar.
-Entre elas, há personagens realísticas, como o
-      <START:PESSOA>Valentão<END>
-      , o
-      <START:PESSOA>Cangaceiro<END>
-      e o
-      <START:PESSOA>Vaqueiro<END>
-      - que fala na poesia do
-      <START:LOCAL>Sertão<END>
-      , e imaginárias- como o
-       <START:PESSOA>Caboclo<END> de <START:LOCAL>Urubá<END>
-      .
-A apresentação termina com a entrada, dança, morte e ressurreição do
-      <START:COISA>Boi<END>
-      .
-O acompanhamento musical fica por conta do banco, um grupo de músicos que tocam
-      <START:COISA>Rabeca<END> 
-      ,
-      <START:COISA>Pandeiro<END> 
-      ,
-      <START:COISA>Bage<END> 
-      (
-      <START:COISA>Reco-reco<END> 
-      ) e
-      <START:COISA>Mineiro<END> 
-      (
-      <START:COISA>Ganzá<END> 
-      ).
-Os
-      <START:PESSOA>Percussionistas<END>
-      e,
-      <START:TEMPO>às vezes<END>
-      , o
-      <START:PESSOA>Rabequeiro<END>
-      também cantam.
-Entre seqüências, se ouve toadas do vasto repertório, versos improvisados e música instrumental para dança.
-<START:TEMPO>Durante os anos 90<END>
-      , o interesse no
-      <START:ABSTRACCAO>Cavalo-marinho<END>
-      por parte do público da região metropolitana do
-      <START:LOCAL>Recife<END>
-      tem crescido muito, como parte de um ressurgimento de interesse na cultura popular em geral.
-Jovens visitam o interior para assistir a apresentações e para entrar no <START:ACONTECIMENTO>Mergulhão<END> - a dança de abertura do <START:ACONTECIMENTO>Cavalo-marinho<END>, e existem diversos projetos de pesquisa e documentação" .
-Texto:
-      <START:PESSOA>John Murphy<END>
-      , Ph.D., Etnomusicólogo e professor de música na
-      <START:ORGANIZACAO>Western Illinois University<END>
-      (
-      <START:TEMPO>até 2001<END>
-      ) e a
-      <START:ORGANIZACAO>University of North Texas<END>
-      (
-      à partir de Agosto de 2001
-      ).
+Bem lembrado nesta mostra está o primeiro acto de censura à <START:ABSTRACCAO>Imprensa<END> em <START:ORGANIZACAO>Macau<END>.
+<START:TEMPO>Em 1824<END>, uma ordem do governo local publicada na "<START:LOCAL>Gazeta de Macau<END>" ordenava um auto-de-fé ao número <START:VALOR>L<END> do "<START:OBRA>Abelha da China<END>" classificando-o de "infame", "mandando-o dilacerar e queimar" por "artigo de ofício ".
+Ficamos a saber que nem sempre foi evidente a liberdade de expressão jornalística em <START:LOCAL>Macau<END> ; durante a <START:ACONTECIMENTO>II Guerra Mundial<END> tanto a <START:ABSTRACCAO>Imprensa Portuguesa<END> como a  <START:ABSTRACCAO>Chinesa<END>  eram controladas por censores japoneses e, para ilustrar isto, reparamos nos exemplares expostos, a forma como os jornais chineses reagiam ao lápis da censura: frequentes vezes, em substituição do texto reprimido, punham cruzes ou deixavam espaços em branco.
+Depois da revolução <START:TEMPO>de Abril<END>, referenciada não só nos jornais portugueses mas também nos jornais chineses fixados num painel próprio, notamos que o jornalismo que se fez em <START:LOCAL>Macau<END> conheceu um certo florescimento, mas é certo que, passados tantos anos sobre o <START:ACONTECIMENTO>25 de Abril<END> e as suas conquistas, fala--se agora na existência de outro tipo de censura naquela pequena parcela da <START:LOCAL>China<END>, por ventura tanto ou tão mais castradora da liberdade de expressão: a auto-censura jornalística, talvez mais frequente na imprensa chinesa.
+A exposição pretende ilustrar uma certa herança de liberdade, tolerância e pluralismo que os portugueses vão deixar quando transferirem a administração do território para a <START:ORGANIZACAO>China<END>.
+A isto, o director do <START:ORGANIZACAO>Gabinete de Comunicação Social do Governo de Macau<END>, <START:PESSOA>Afonso Camões<END>, afirma na brochura da exposição : "o futuro da liberdade de <START:ABSTRACCAO>Imprensa<END> em <START:ORGANIZACAO>Macau<END> dependerá, em boa medida, daqueles que a exercem hoje.
+Mas caberá sempre lembrar aos potenciais fautores que as liberdades de expressão e de imprensa estão salvaguardadas na <START:OBRA>Lei Básica<END> que há-de vigorar <START:TEMPO>para lá de 1999<END>."
+Mais perto do presente
+
+Mais perto do passado, do presente e do futuro está a <START:ORGANIZACAO>Revista MacaU<END>, em predominante destaque na exposição tanto pela quantidade de revistas expostas e para consulta como pela qualidade dos artigos expostos que cobrem os acontecimentos mais relevantes dos últimos anos no <START:LOCAL>Território<END>.
+Esta revista mostra ser uma referência fundamental na <START:ABSTRACCAO>Imprensa<END> local tanto pelo seu papel dinamizador do registo dos acontecimentos sociais e políticos em <START:LOCAL>Macau<END> para o futuro, como pelo esforço de registo histórico sobre a Presença dos <START:PESSOA>Portugueses<END> em todo o <START:LOCAL>Oriente<END> ao longo dos séculos.
+Assuntos como a <START:ABSTRACCAO>Unificação do Território<END>, o <START:ABSTRACCAO>Ecumenismo Religioso<END>, a <START:ABSTRACCAO>Construção do Aeroporto<END> ou o <START:ABSTRACCAO>Sistema de Ensino em Macau<END> caminham lado a lado com outros assuntos não menos importantes para a nossa <START:ABSTRACCAO>História<END> no <START:LOCAL>Território<END>, como os trabalhos publicados na revista sobre "<START:OBRA>A Sociedade da Rosa<END>" ou "<START:OBRA>A Oferta dum Leão ao Imperador da China no séc.
+XVII<END>".Todos estes assuntos são tratados pela importância que têm para a memória colectiva de <START:LOCAL>Macau<END> junto da diáspora portuguesa e das comunidades macaenses espalhadas pelo mundo e justificam por si só a relevância com que estão expostos na <START:LOCAL>Torre do Tombo<END>.
+Actualmente existem oito jornais chineses em <START:LOCAL>Macau<END>, destacando-se os dois mais importantes que são o "<START:OBRA>Ou Mun<END>" e o "<START:OBRA>Va Kio<END>" e não esquecendo que apenas são aí tratados os acontecimentos portugueses com repercussões directas na população local.
+Na <START:ABSTRACCAO>Imprensa<END> portuguesa, destacam-se até pelos exemplares existentes para consulta na exposição os diários "<START:OBRA>Jornal Tribuna de Macau<END>", "<START:OBRA>Macau Hoje<END>" e "<START:OBRA>Futuro de Macau<END>" assim como os semanários "<START:OBRA>Ponto Final<END>" e "<START:OBRA>O Clarim<END>".
+São estes actualmente os jornais impressos que constituem o quadro editorial de <START:LOCAL>Macau<END>, mas cuja sobrevivência é indissociável da importância que a comunidade portuguesa terá no futuro naquele território.
+A salientar também o convite à navegação pela <START:LOCAL>Internet<END>, em que os visitantes podem consultar uma base de dados, a <START:LOCAL>Página Oficial de Macau<END> e a <START:LOCAL>Página da Lusa<END> entre outras.
+Para salvaguardar a memória desta exposição foi editada uma brochura sobre o evento, embora seja indiscutível que há matéria histórica para a publicação de um verdadeiro almanaque sobre a <START:ABSTRACCAO>História da Imprensa em Macau<END>.
+Se é certo que em <START:VALOR>200 anos<END> de <START:ABSTRACCAO>Jornalismo<END> exposto conseguimos perceber a importância da <START:ABSTRACCAO>Imprensa Portuguesa<END> em <START:LOCAL>Macau<END>, tão certo não será seguramente a sua relevância depois da transferência do território para a <START:ORGANIZACAO>China<END>.
+Caixa:
+<START:ACONTECIMENTO>ORIENTE/OCIDENTE<END>: <START:LOCAL>MACAU<END> NO <START:LOCAL>PORTO<END>
+
+"<START:ACONTECIMENTO>Oriente/Ocidente: Artistas de Macau<END>" é o título da exposição patente no <START:LOCAL>Porto<END> <START:TEMPO>entre 18 de Junho passado e 12 deste mês de Julho<END>, no edifício do antigo <START:LOCAL>Mercado Ferreira Borges<END>.
+A iniciativa, espécie de reencontro entre duas cidades geminadas pelos respectivos municípios, coube ao <START:ORGANIZACAO>Leal Senado de Macau<END> e à <START:ORGANIZACAO>Câmara Municipal do Porto<END> e reuniu um conjunto de <START:VALOR>144<END> obras de <START:VALOR>34<END> artistas, abrangendo as áreas da <START:ABSTRACCAO>Pintura<END>, do <START:ABSTRACCAO>Desenho<END>, da <START:ABSTRACCAO>Ilustração<END>, da <START:ABSTRACCAO>Gravura<END>, da <START:ABSTRACCAO>Fotografia<END> e do <START:ABSTRACCAO>Design Gráfico<END>.
+A abertura do evento contou com a presença de <START:PESSOA>Fernando Gomes<END>, presidente da <START:ORGANIZACAO>Câmara Municipal do Porto<END>, e do vereador <START:PESSOA>Wan Chun<END>, em representação de <START:PESSOA>Sales Marques<END>, <START:PESSOA>presidente do Leal Senado<END>, a qual foi enriquecida com um pequeno concerto em que os instrumentistas <START:PESSOA>Wong On Yuen<END> e <START:PESSOA>António Ferro<END>, tocando ehru e viola-baixo, respectivamente, interpretaram várias peças editadas no disco compacto <START:OBRA>Sinais de Yuanju<END>.
+O amplo espaço das três naves do recinto, cujo edifício data de finais do século passado e foi recuperado há alguns anos para receber eventos de natureza diversificada, acolheu com dignidade aquela exposição, comissariada por <START:PESSOA>António Andrade<END>, o qual considera ter-se conseguido ´uma amostragem bastante representativa do desenvolvimento alcançado pelas artes plásticas contemporâneas de <START:LOCAL>Macau<END>".
+<START:PESSOA>F.A.<END>
+
+
+--DOCSTART--
+VEJA NA TV e COMPRE AQUI PELA METADE DO PREÇO
+Detalhes
+Na TV por <START:VALOR>R$ 399,00<END>
+Aqui por <START:VALOR>6<END> de <START:VALOR>R$ 33,00<END>  clique aqui e veja mais
+Para se descadastrar de nosso mailing, clique aqui.
+Todos nossas campanhas de <START:ABSTRACCAO>E-Mail Marketing<END> contam com sistema automático de descadastramento de e-mails.
+Esta promoção tem válidade de uma semana ou até acabarem os estoques.
 --DOCSTART--
     
 
-      O
-      <START:ABSTRACCAO>Kuduro<END>
-      e nós.
-Teria mesmo algo a ver?
-<START:ABSTRACCAO>Ku<END>
-      , palavra e não palavrão, parece vir do mais puro vernáculo do
-      <START:ABSTRACCAO>Kimbundo<END>
-      (
-      <START:ABSTRACCAO>MataKu<END>
-      =nádegas, assento plural de ritaku), principal língua falada em
-      <START:LOCAL>Luanda<END>
-      ,
-      <START:LOCAL>Angola<END>
-      (da qual falamos centenas de vocábulos, sem saber - inclusive
-      <START:ABSTRACCAO>Ku<END>
-      , certo?)
-O sentido figurado da palavra é, exatamente, o mesmo que usamos no
-      <START:LOCAL>Brasil<END>
-      :
-      <START:ABSTRACCAO>Bunda<END>
-      (palavra aliás, oriunda também do mesmo
-      <START:ABSTRACCAO>Kimbundo<END>
-      ), literalmente traduzida para o portugês também como nádegas.
-O sentido da expressão
-      <START:ABSTRACCAO>Kuduro<END>
-      poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece:
-      <START:ABSTRACCAO>Kuduro<END>
-      =
-      <START:ABSTRACCAO>Bunda<END>
-      imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo.
-Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.
-Contudo, dança livre que é, no
-      <START:ABSTRACCAO>Kuduro<END>
-      também se pode rebolar, é claro, basta querer.
-Dito isto, o
-      <START:ABSTRACCAO>Kuduro<END>
-      , inserido no âmbito da cultura
-      <START:ABSTRACCAO>Hip Hop<END>
-      , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o
-      <START:ABSTRACCAO>Funk<END>
-      carioca e o
-      <START:ABSTRACCAO>Kwaito<END>
-      (da
-      <START:LOCAL>África do Sul<END>
-      ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na
-      <START:LOCAL>América do Norte<END>
-      .
-Mas o
-      <START:ABSTRACCAO>Kuduro<END>
-      também é um símbolo dos mais fortes,
-      <START:TEMPO>neste momento<END>
-      , da enorme capacidade da resistência cultural das populações não-brancas, do <START:TEMPO>outrora<END> chamado
-      <START:ABSTRACCAO>Terceiro Mundo<END>
-      , diante da pressão globalizante, sinônimo evidente de aculturação.
-Kuduro Checkup
+
+      Preço do barril de crude chegou ao nível histórico de
+      <START:VALOR>100 dólares<END>
     
 
-      No
-      <START:ABSTRACCAO>Kuduro<END>
-      angolano - e vejam vocês mesmos que coisa curiosa!
-- os passos do mix, da fusão com o break, são o mais puro e carioca dos
-      <START:ABSTRACCAO>Sambas<END>
-      .
-Incrível!
-Acreditem, mas, os
-      <START:PESSOA>Pupilos do Kuduro<END>
-      , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa
-      <START:PESSOA>Ala dos Malandrinhos<END>
-      dançava lá
-      <START:TEMPO>naqueles bem passados anos 60<END>
-      .
-Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos
-      <START:ABSTRACCAO>Sambas<END>
-      .
-Pode?
-Teria sido aquela minha saudosa rapaziada de
-      <START:LOCAL>Padre Miguel<END>
-      a inventora do
-      <START:ABSTRACCAO>Kuduro<END>
-      ?
-Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do
-      <START:ABSTRACCAO>Kuduro<END>
-      por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais.
-Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho
-      <START:COISA>Sampler<END>
-      , por exemplo).
-Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do
-      <START:OUTRO>Mocinho<END>
-      poderia ser atribuído a sociedade neoliberal globalizada, ao
-      <START:ABSTRACCAO>Capitalismo<END>
-      em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.
-Besteira.
-Baita injustiça, sobretudo.
-Não há nada de novo nesta praia deserta, neste giro do prato de velha vitrola hi fi.
-O
-      <START:COISA>Sampler<END>
-      e sucedâneos são, neste contexto, apenas instrumentos musicais, meios, facilitadores de registro, meros suportes.
-Se disponíveis estiverem, ferramentas de cultura serão.
-Se não estiverem, outras ferramentas se inventarão.
-Aliás, o que um
-      <START:COISA>Sampler<END>
-      faz mesmo?
-Não muda nada.
-Copia.
-E haja periferia e miséria para samplear.
-A grande sacação (e isto vem desde que o mundo é mundo) é , portanto, a capacidade do homem de tirar leite das pedras, resistir sem esmorecer jamais, reinventando linguagens, recriando sempre a partir de dados do cotidiano, subvertendo referências e sentidos comunicativos, extraídos de seu passado mais remoto, cimentando os degraus do presente, sem ilusões de modernidades vãs ou de futuro radiante.
-Vírus no sistema.
-O
-      <START:OUTRO>Mocinho<END>
-      verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.
-----------------------
-    
-Inside the Kuduro
-    
-(em português não ficaria melhor não)
     
 
-      Senão vejamos: Em todos os gêneros citados (entre outros), a alma do negócio é um som de caixa e contratempo.
-É esta a célula rítmica base, a matriz, o
-      <START:COISA>DNA<END>
-      , sobre o qual se criará os sons que bem entendermos.
-Poderia ser um humano baterista lá no fundo, marcando a batida, mas, fica bem mais econômico usar um som gravado.
-No caso do
-      <START:ABSTRACCAO>Kuduro<END>
-      clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava
-      <START:TEMPO>nos anos 70<END>
-      ,
-      <START:TEMPO>80<END>
-      de
-      <START:ABSTRACCAO>Kabetula<END>
-      , um ritmo muito popular em
-      <START:LOCAL>Luanda<END>
-      , semelhante ao
-      <START:ABSTRACCAO>Semba<END>
-      , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o
-      <START:ABSTRACCAO>Kuduro<END>
-      é uma variação do
-      <START:ABSTRACCAO>Kuzukuta<END>
-      , ritmo popular do carnaval angolano).
-Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do
-      <START:LOCAL>Brasil<END>
-      , 
-      <START:TEMPO>desde, pelo menos, o século 19<END>
-      ), tipicamente urbanos que são, vieram, provavelmente, do
-      <START:ABSTRACCAO>Kaduke<END>
-      , espécie de
-      <START:ABSTRACCAO>Kuduro<END>
-      surgido na cidade de
-      <START:LOCAL>Ambaça<END>
-      (
-      <START:LOCAL>Mbaka<END>
-      ), grande centro urbano e comercial (!)
-lá
-      <START:TEMPO>pelos idos de 1880<END>
-      (veja
-      <START:OBRA>Capello e Ivens<END>
-      ), <START:TEMPO>no tempo<END> da colonização portuguesa em
-      <START:LOCAL>Angola<END>
-    
+
+      <START:TEMPO>03.01.2008<END>
+      -
+      <START:TEMPO>08h46<END>
     
 
-      Este
-      <START:ABSTRACCAO>Kaduke<END>
-      , talvez tenha gerado, a partir do mesmo processo, no
-      <START:LOCAL>Brasil<END>
-      colonial, o
-      <START:ABSTRACCAO>Kalundu<END>
-      que, mesclado à danças européias como a
-      <START:ABSTRACCAO>Polka<END>
-      e a
-      <START:ABSTRACCAO>Mazurka<END>
-      (espécies de danças de periferia brancas, populares na
-      <START:LOCAL>Europa<END>
-        central), deram numa dança popularíssima na
-      <START:LOCAL>Corte<END>
-      brasileira (um
-      <START:ABSTRACCAO>Kuduro<END>
-      colonial) chamada de
-      <START:ABSTRACCAO>Lundu<END>
-      .
-Pois não é que o
-      <START:ABSTRACCAO>Kaduke<END>
-      , o
-      <START:ABSTRACCAO>Kalundu<END>
-      e talvez até mesmo o
-      <START:ABSTRACCAO>Jongo<END>
-      formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente
-      <START:TEMPO>hoje<END>
-      no
-      <START:LOCAL>Brasil<END>
-      como
-      <START:ABSTRACCAO>Samba<END>
-      ?
-Viram só?
-<START:ABSTRACCAO>Kuduro<END>
-      e
-      <START:ABSTRACCAO>Samba<END>
-      : Tudo a ver.
-Fenômeno recorrente, efetivamente, existem manifestações como o
-      <START:ABSTRACCAO>Kuduro<END>
-      em todas as periferias do mundo.
-Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de
-      <START:ABSTRACCAO>Break Dance<END>
-      , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.
-Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do
-      <START:LOCAL>Rio<END>
-      , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros,
-      <START:PESSOA>James Brown<END>
-      e
-      <START:PESSOA>Michael Jackson<END>
-      ?
-Há break sim, mas, um pouquinho só.
-Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?
-Ora, é evidente que, olhando detidamente os movimentos de dança deste
-      <START:ABSTRACCAO>Funk Carioca<END>
-      , iremos encontrar a mesma filosofia coreográfica do
-      <START:ABSTRACCAO>Kuduro<END>
-      , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás,
-      <START:TEMPO>hoje<END>
-      banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).
-Assim como na
-      <START:LOCAL>África<END>
-      e no
-      <START:LOCAL>Brasil<END>
-      , na
-      <START:LOCAL>Índia<END>
-      , no
-      <START:LOCAL>Afeganistão<END>
-      , na
-      <START:LOCAL>Indonésia<END>
-      , a fórmula beat futurista somado à tradição, se repetirá.
-Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá.
-Para nós brasileiros, por exemplo, o
-      <START:ABSTRACCAO>Kuduro<END>
-      pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante
-      <START:ABSTRACCAO>Periferia<END>
-      .
-Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê.
-Somos do
-      <START:LOCAL>Overmundo<END>
-      , o pá!
-O Bicho, o vírus da maçã.
-Y love you
-      <START:LOCAL>Angola<END>
-      !
-(Em tempo: Em terra de cego, quem tem um olho, infelizmente é...
-caolho.)
---DOCSTART--
-
-
-<START:PESSOA>Camacho<END> ganhou sempre a <START:PESSOA>Jesualdo<END> mas não ao <START:PESSOA>FC Porto<END>
-
-
-AS ESTATÍSTICAS DO CLÁSSICO DE SÁBADO QUANTO À LIGA	
-
-
-Se as estatísticas quiserem dizer alguma coisa, <START:PESSOA>Camacho<END> pode encarar o clássico <START:TEMPO>de sábado<END> com optimismo.
-O espanhol soma por vitórias os <START:VALOR>3<END> jogos frente a <START:PESSOA>Jesualdo Ferreira<END>, técnico ao qual sucedeu no comando do <START:PESSOA>Benfica<END>, <START:TEMPO>em 2002/2003<END>.
-No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o <START:PESSOA>FC Porto<END> para o campeonato.
-Em três "duelos", face a <START:PESSOA>Jesualdo<END>, então ao comando do <START:PESSOA>Sp.Braga<END>, <START:PESSOA>Camacho<END> venceu <START:TEMPO>por duas vezes<END> como visitante (<START:VALOR>3-1<END> <START:TEMPO>em 2002/2003<END> e 3-0 <START:TEMPO>em 2003/2004<END>) e uma como anfitrião (<START:VALOR>2-0<END> <START:TEMPO>em 2003/2004<END>).
-O espanhol está 100 por cento vitorioso face a <START:PESSOA>Jesualdo<END>, mas nunca enceu o <START:PESSOA>FC Porto<END> para o campeonato, tendo como melhor registo o empate na <START:LOCAL>Luz<END>, <START:TEMPO>em 2003/2004<END> (<START:VALOR>1-1<END>).
-Na mesma temporada, <START:PESSOA>Camacho<END> perdeu no <START:LOCAL>FC Porto<END> por <START:VALOR>2-0<END> e, na anterior, já tinha perdido em casa por <START:VALOR>1-0<END>.
-No entanto, pesar de não ter qualquer triunfo no campeonato, o espanhol conquistou frente aos "dragões" o único título da sua carreira.
-<START:TEMPO>A 16 de Maio de 2004<END>, na final da  <START:ACONTECIMENTO>Taça<END> de <START:LOCAL>Portugal<END>, o <START:PESSOA>FC Porto<END> adiantou-se, por <START:PESSOA>Derlei<END>, mas o grego <START:PESSOA>Fyssas<END> empatou e, no prolongamento, <START:PESSOA>Simão<END> derrotou o "onze" de <START:PESSOA>José Mourinho<END>, que,  <START:TEMPO>10 dias depois<END> , viria a vencer a <START:ACONTECIMENTO>Liga dos Campeões<END> (<START:VALOR>3-0<END> ao <START:PESSOA>AS Mónaco<END>).
-Por seu lado, <START:PESSOA>Jesualdo Ferreira<END> tem um balanço negativo nos confrontos com o <START:PESSOA>Benfica<END>, com quatro vitórias, três empates e cinco derrotas (<START:VALOR>13-19<END> em golos), mas nunca perdeu ao comando do <START:PESSOA>FC Porto<END>: "a época passada, venceu no <START:LOCAL>Dragão<END> (<START:VALOR>3-2<END>) e empatou na <START:LOCAL>Luz<END> (<START:VALOR>1-1<END>).
---DOCSTART--
-    
-P: Então tu passaste uma infância muito sozinha?
-Bem, na província, <START:TEMPO>às vezes<END> brincava com outros meninos filhos do ... ou doutras pessoas do tribunal, ou da rua, até.
-Brincava... Ali, em
-      <START:LOCAL>Alenquer<END>
-      .
-Porque <START:TEMPO>depois<END> viemos, voltámos para
-      <START:LOCAL>Lisboa<END>
-      , o meu pai esteve então, se não me engano, como ... chefe de gabinete do 
-      <START:PESSOA>Ministro da Justiça<END>
-      , por isso, voltámos, que era o
-      <START:PESSOA>dr.
-Catanho de Meneses<END>
-      .
-Voltámos para
-      <START:LOCAL>Lisboa<END>
-      e foi quando saímos de
-      <START:LOCAL>Santa Quitéria<END>
-      para a
-      <START:LOCAL>Rua Sampaio Pina<END>
-      .
-E na
-      <START:LOCAL>Rua Sampaio Pina<END>
-      , que era ao lado do
-      <START:LOCAL>Rádio Clube Português<END>
-      , a casa que ainda existe <START:TEMPO>hoje<END> e faz esquina para a rua <START:LOCAL>Castilho<END>
-      , no primeiro andar, então alugámos essa casa, e aí então é que eu comecei foi a aprender o alemão com uma preceptora alemã, que era... que vinha <START:TEMPO>três vezes por semana<END>, dar-me lição de alemão.
-Não estava lá em casa, havia preceptoras internas, que estavam dentro, que eram internas, estavam lá, nas casas dos respectivos alunos, mas aquela senhora, a
-      <START:PESSOA>Kaethe Goethe<END>
-      , não.
-Vinha
-      <START:TEMPO>três vezes por semana<END>
-      dar-me a lição de alemão.
-D: E tu gostavas?
-Gostava!
-Tinha uns livros assim muito engraçados, que ainda
-      <START:TEMPO>hoje<END>
-      conheces, que conservo.
-D: E ela era professora?
-Ela era professora mesmo, ou?
-Era professora, quero dizer ela veio para
-      <START:LOCAL>Portugal<END>
-      dar aulas.
-Não sei se veio interna para uma casa e <START:TEMPO>depois<END> deixou, estava...
-    
-    
-D: Mas enfim, não é uma senhora alemã que dava umas aulinhas para ... para
     
 
-      Não, ela era uma senhora que tinha vindo da
-      <START:LOCAL>Alemanha<END>
-      só para ser professora, e tinha... tinha-se instalado numa casa que era o lar das... das professoras de alemão, que havia
-      <START:TEMPO>nessa altura<END>
-      , na
-      <START:LOCAL>Avenida<END>
-      , perto da
-      <START:LOCAL>Praça da Alegria<END>
-      .
-Lembro-me de ela lá me ter levado e tenho aí até fotografias de um cão, desse dito lar, a querer abraçar-me, coisa que eu não gostei nada, como continuo a não gostar de abraços de cão.
-D: Mas já tinhas o
-      <START:COISA>Sirius<END>
-      ...
-Não, o
-      <START:COISA>Sirius<END>
-      veio
-      <START:TEMPO>muitíssimo mais tarde<END>
-      .
-Não, na
-      <START:LOCAL>Sampaio Pina<END>
-      não tinha o
-      <START:COISA>Sirius<END>
-      , não tinha cão nenhum.
-D: Então tinhas a tua mãe, como professora de tudo o resto e a senhora
-    
-
-      Pois, o resto, tinha grandes amigas sempre.
-Constante, até era, mais até que as minhas primas... tinha as minhas primas, e tinha a
-      <START:PESSOA>Joaninha Sampaio e Melo<END>
-      , que era filha da maior amiga da minha mãe, da
-      <START:LOCAL>Lourinhã<END>
-      .
---DOCSTART--
-
-
-O  <START:ACONTECIMENTO>Tour<END> de <START:LOCAL>França<END> <START:TEMPO>de 2009<END>  vai começar no <START:LOCAL>Mónaco<END> com um contra-relógio de <START:VALOR>15 quilómetros<END>, numa etapa que também terminará no principado monegasco.
-O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de <START:ABSTRACCAO>Fórmula 1<END>.
-"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <START:PESSOA>Christian Prudhomme<END> como justificação para a decisão.
-O  <START:ACONTECIMENTO>Tour<END> de <START:LOCAL>França<END> voltará assim ao <START:LOCAL>Mónaco<END>, <START:TEMPO>depois de 45 anos<END>  ausente.
---DOCSTART--
-
-
-A fama do <START:COISA>Prius<END>
-
-
-<START:TEMPO>Durante o ano passado<END> o nome <START:ABSTRACCAO>Toyota Prius<END> esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.
-Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome <START:ABSTRACCAO>Prius<END> tornou-se um sinónimo de híbrido Nos <START:LOCAL>Estados Unidos da America<END> foram vendidos <START:TEMPO>em 2004<END> <START:VALOR>mais de 50 mil<END> unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de <START:COISA>Prius<END> a serem vendidos em segunda mão ao mesmo preço que um novo.
-Um habitáculo simples, confortável e espaçoso.
-Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de <START:LOCAL>Hollywood<END>.
-<START:PESSOA>Cameron Diaz<END>, <START:PESSOA>Leonardo DiCaprio<END> ou <START:PESSOA>Will Ferrell<END> são três dos muitos nomes famosos que possuem um <START:COISA>Toyota Prius<END>.
-Economia e performance
-
-
-Em cidade o <START:COISA>Prius<END> consome apenas <START:VALOR>4,3 litros<END> a cada <START:VALOR>100km<END>, tornando-o num dos automóveis mais económicos do mercado.
-Estamos claro a falar dum motor <START:COISA>1.5 VVT-i <END> com apenas <START:VALOR>78cv<END>, que aliado ao sistema <START:COISA>HSD<END> (<START:COISA>Hybrid Synergy Drive<END>) aumenta a sua potência para <START:VALOR>110cv<END>.
-<START:VALOR>Dos 0 aos 100km/h<END> o <START:COISA>Prius<END> demora <START:TEMPO>cerca de 11 segundos<END>.
-A <START:ORGANIZACAO>Toyota<END> afirma que, apesar destas prestações conseguiram reduzir em <START:VALOR>89%<END> as emissões libertadas, comparando a um veículo novo a gasolina.
---DOCSTART--
-    
-TERROR, POP ART E CONTRACULTURA
-    
-
-      A história dos quadrinhos, de
-      <START:PESSOA>Bill Gaines<END>
-      a
-      <START:PESSOA>Roy Lichtenstein<END>
-    
-    
 
       Por
-      <START:PESSOA>Vladimir Cunha<END>
-      (yoyodine@hotmail.com)
-    
+      <START:PESSOA>Lurdes Ferreira<END>
     
 
-      <START:TEMPO>Até 1947<END>
-      , o jovem
-      <START:PESSOA>William M.Gaines<END>
-      não passava de um bon-vivant dedicado única e exclusivamente às coisas boas do mundo.
-Mas só
-      <START:TEMPO>até 1947<END>
-      , pois
-      <START:TEMPO>naquele mesmo ano<END>
-      sua vida mudaria drasticamente após a morte de sua mãe num acidente de barco.
-Profundamente abatido com a tragédia, seu pai,
-      <START:PESSOA>Max Gaines<END>
-      , resolveu retirar-se dos negócios e passou para o filho a missão de tocar adiante a empresa da família, a editora de quadrinhos religiosos
-      <START:ORGANIZACAO>Educational Comics<END>
+    
+
+
+      Às <START:TEMPO>17h30<END>
+      de ontem
+      em
+      <START:LOCAL>Lisboa<END>
+      , a vaga especulativa do mercado do petróleo convergiu com as previsões
+      dos últimos meses
+      que davam como certa a chegada do preço do crude aos
+      <START:VALOR>100 dólares<END>
       .
-O único problema é que quadrinhos religiosos não eram exatamente um gênero de sucesso entre a molecada, que preferia as aventuras do
-      <START:OBRA>Capitão América<END>
-      às adaptações carolas de passagens do
-      <START:OBRA>Novo Testamento<END>
-      , daí ser compreensível que a
-      <START:ORGANIZACAO>Educational Comics<END>
-      estivesse em sérias dificuldades financeiras.
-Entretanto, o destino de
-      <START:PESSOA>Gaines<END>
-      tomaria um rumo inesperado quando ele cruzou o caminho de
-      <START:PESSOA>Al Feldstein<END>
-      , um talentoso artista freelancer em começo de carreira e que, assim como o ex-playboy, adorava aventuras de terror e mistério.
-Descobertas as afinidades, a dupla juntou as forças e criou duas histórias:
-      <START:OBRA>A Cripta do Terror<END>
-      e
-      <START:OBRA>A Câmara do Horror<END>
+As projecções tornaram-se realidade,
+      ao fim de um ano
+      em que o preço desta matéria subiu
+      <START:VALOR>58 por cento<END>
+      e que foi também o maior aumento anual
+      da última década
       .
-E já que pior do que estava não podia ficar,
-      <START:PESSOA>Gaines<END>
-      aproveitou a editora que herdara do pai e lançou os dois títulos no mercado.
-Nasciam aí os quadrinhos de terror e a lendária
-      <START:COISA>EC Comics<END>
-      .
-A publicação bolada por
-      <START:PESSOA>Gaines<END>
-      e
-      <START:PESSOA>Feldstein<END>
-      , batizada com o apropriado título de
-      <START:ABSTRACCAO>Tales From the Crypt<END>
-      , tornou-se um sucesso espetacular entre crianças e adolescentes e motivo de choque para os norte-americanos adultos.
-Jamais o cidadão comum - classe média, branco, suburbano e fiel defensor do
-      <START:ABSTRACCAO>American Way of Life<END>
-      como o caminho mais curto para o
-      <START:ABSTRACCAO>Paraíso<END>
-      - iria permitir que seus filhos passassem o tempo lendo histórias sobre aberrações, trapaças, assassinatos, bruxaria, exorcismo e magia-negra.
-O mundo permitido era aquele idealizado nas pinturas de
-      <START:PESSOA>Norman Rockwell<END>
-      , do garoto loiro de cabelo escovinha, das ceias <START:TEMPO>do Dia de Ação de Graças<END> 
-      e das bandeirantes de rosto corado.
-A
-      <START:PESSOA>América<END>
-      mergulhava no sonho da prosperidade capitalista, numa vida melhor através da química e no seu estabelecimento como superpotência econômica e militar.
-Encarar o lado feio e bizarro da vida não estava nos planos de ninguém.
-Exceto da molecada, que, dos cafundós do
-      <START:LOCAL>Arkansas<END>
-      ao centro de
+O recorde histórico verificou-se na bolsa mercantil de
       <START:LOCAL>Nova Iorque<END>
-      , fazia a fortuna de
-      <START:PESSOA>Gaines<END>
-      comprando qualquer coisa que tivesse o selo
-      <START:COISA>EC Comics<END>
-      estampado na capa.
-Isso aconteceu porque
-      <START:PESSOA>Bill Gaines<END>
-      criou uma identificação imediata com o público ao se apropriar da linguagem radiofônica - todas as histórias eram apresentadas por um narrador, geralmente o
-      <START:PESSOA>Zelador da Cripta<END>
-      , a
-      <START:PESSOA>Bruxa Velha<END>
-      ou o
-      <START:PESSOA>Guardião da Câmara<END>
-      - e também porque arrebanhou um time de artistas de primeira para atingir, nas páginas da revista, o clima de demência que as histórias pediam.
-Assim como
-      <START:PESSOA>Will Eisner<END>
-      , os desenhistas
-      <START:PESSOA>Jack Davis<END>
+      , com a transacção do crude de tipo leve, de referência para o mercado dos
+      <START:LOCAL>EUA<END>
+      , com entrega
+      para <START:TEMPO>Fevereiro<END>
+      , a pular mais de três dólares numa só sessão e a bater na marca histórica dos
+      <START:VALOR>100 dólares<END>
+      .
+Baixou pouco depois para os
+      <START:VALOR>99,17 dólares<END>
+      .
+Em
+      <START:LOCAL>Londres<END>
+      , o
+      
+        <START:COISA>Brent do Mar do Norte<END>
+        
+      , também com entrega
+      para <START:TEMPO>Fevereiro<END>
+      , subiu igualmente
+      mais de três dólares
+      e passou pela primeira vez o patamar dos
+      <START:VALOR>97 dólares<END>
+      .
+O novo máximo histórico ficou em
+      <START:VALOR>97,74 dólares<END>
+      .
+A onda de violência na
+      <START:LOCAL>Nigéria<END>
+      e a instabilidade no
+      <START:LOCAL>Paquistão<END>
+      são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude
+      nos últimos anos
+      .
+Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista (
+      <START:PESSOA>China<END>
+      , que já é o segundo maior consumidor do mundo, e a
+      <START:PESSOA>Índia<END>
+      ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a
+      <START:ORGANIZACAO>OPEP<END>
+      , em aumentar significativamente a sua produção.
+Outras são conjunturais: temperaturas frias do pico
+      do <START:TEMPO>Inverno<END>
+      ; e a descida das reservas dos
+      <START:LOCAL>EUA<END>
+      , o maior mercado consumidor do mundo.
+Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.
+"Vamos aqui ficar [no patamar dos
+      <START:VALOR>100 dólares<END>
+      ], enquanto houver um desequilíbrio entre a oferta e a procura", afirmou à
+      <START:PESSOA>France Presse<END>
+      o analista do mercado de capitais da
+      <START:ORGANIZACAO>BMO<END>
       ,
-      <START:PESSOA>Frank Frazetta<END>
-      ,
-      <START:PESSOA>Johnny Craig<END>
-      e
-      <START:PESSOA>Graham "Ghastly" Ingels<END>
-      tinham um traço sombrio e carregado de dramaticidade.
-Houve também tendência em distorcer certas expressões faciais na tentativa de transpor para o papel a loucura interna de cada personagem.
-<START:OBRA>Tales From The Crypt<END>
-      impressionava também por sua logomarca ao mostrar a palavra "
-      <START:ABSTRACCAO>Crypt<END>
-      " grafada de tal forma que dava a impressão de estar apodrecendo.
-O sucesso da
-      <START:COISA>EC Comics<END>
-      nas bancas, levou
-      <START:PESSOA>Gaines<END>
-      a ampliar sua linha de "produtos".
-Na esteira do sucesso de
-      <START:OBRA>Tales From The Crypt<END>
-      , foram lançados
-      <START:OBRA>The Vault Of Horror<END>
-      ,
-      <START:OBRA>Crime SuspenStories<END>
-      ,
-      <START:OBRA>The Haunt of Fear<END>
-      e
-      <START:OBRA>Shock SuspenStories<END>
+      <START:PESSOA>Bart Melek<END>
       .
-Aproveitando a maré boa,
-      <START:PESSOA>Gaines<END>
-      adaptou as histórias do conhecido autor
-      <START:PESSOA>Ray Bradbury<END>
-      e jogou no mercado
-      <START:OBRA>Weird Science<END>
-      e
-      <START:OBRA>Weird Fantasy<END>
-      , publicações que misturavam suspense e terror a uma ficção científica um pouco mais pessimista, semelhante a de escritores como
-      <START:PESSOA>Phillip K.Dick<END>
-      e
-      <START:PESSOA>William Gibson<END>
-      .
-Não contente em se tornar o novo rei dos quadrinhos - desbancado as
-      <START:COISA>HQs<END>
-      de super-hérois, que, depois de
-      <START:OBRA>Tales From The Crypt<END>
-      , entraram em decadência -
-      <START:PESSOA>Gaines<END>
-      aventurou-se pelo campo do humor.
-<START:TEMPO>Em 1952<END>
-      chegava às bancas a
-      <START:COISA>MAD Magazine<END>
-      , o mais novo empreendimento da
-      <START:ORGANIZACAO>EC Comics<END>
-      , editada pelo escritor e desenhista
-      <START:PESSOA>Harvey Kurtzman<END>
-      .
-O grande mérito da
-      <START:COISA>MAD Magazine<END>
-      trazer para as <START:COISA>HQs<END> um humor anárquico, satírico e, principalmente, judeu.
-Ainda em sua primeira fase - reconhecidamente a melhor de todas - ela destruiu sem dó nem piedade todo e qualquer ícone da cultura de massa norte-americana.
-<START:PESSOA>Flash Gordon<END>
-      virou
-      <START:ABSTRACCAO>Flesh Garden<END>
-      (
-      <START:ABSTRACCAO>Jardim de Carne<END>
-      ), um brutamontes com zero de
-      <START:OUTRO>QI<END> 
-      , e
-      <START:PESSOA>Batman<END>
-      foi transformando em um anão vampiro que vivia tentando agarrar a
-      <START:PESSOA>Mulher Maravilha<END>
-      .
-São notáveis também as sátiras feitas ao
-      <START:PESSOA>Superman<END>
-      (
-      <START:PESSOA>Superduperman<END>
-      e a charge
-        <START:OUTRO>Supermarket<END>
-      , sobre um supermercado exclusivo para heróis) e as adaptações de contos de fadas, todas elas temperadas por uma certa dosa de perversão sexual.
-A
-      <START:COISA>MAD<END>
-      merece ainda um capítulo à parte sobre sua produção gráfica, pois foi nela que floresceu o talento de
-      <START:PESSOA>Wallace Wood<END>
-      ;
-      <START:PESSOA>Basil Wolverton<END>
-      , especialista em desenhar monstros deformados, e
-      <START:PESSOA>Bill Elder<END>
-      , os responsáveis pela "cara" da fase clássica da revista.
-Para se ter uma idéia de como a coisa era pesada para época, o slogan da
-      <START:COISA>MAD<END>
-      era uma provocação absurda: "MAD Magazine: Humor In a Jugular Vein!!
-", frase que, nos anúncios da revista, aparecia escrita sob uma
-      <START:OBRA>Monalisa<END>
-      deformada criada por
-      <START:PESSOA>Basil Wolverton<END>
-      .
-A festa duraria pouco e, logo,
-      <START:TEMPO>a década de 50<END>
-      seria conhecida como um dos períodos mais sem-graça da história das
-      <START:COISA>HQs<END>
-      .
-Apesar de algumas coisas maravilhosas, como
-      <START:OBRA>Pogo<END>
-      , de
-      <START:PESSOA>Walt Kelly<END>
-      , e
-      <START:OBRA>Ferdinando<END>
-      , as histórias em quadrinhos sofreram um duro golpe com o surgimento do macarthismo, da paranóia anti-comunista e com a publicação de
-      <START:OBRA>A Seducao dos Inocentes<END>
-      - livro do psiquiatra
-      <START:PESSOA>Frederic Werthan<END>
-      sobre os "malefícios" das
-      <START:COISA>HQs<END>
-      .
-Entre outras coisas,
-      <START:PESSOA>Dr.
-Werthan<END>
-      , "provava" que
-      <START:PESSOA>Batman<END>
-      e
-      <START:PESSOA>Robin<END>
-      mantinham um ardoroso caso homossexual:
-    
-    
-
-      "
-      <START:TEMPO>Constantemente<END>
-      eles se salvam um ao outro de ataques violentos de um número sem-fim de inimigos.
-Transmite-se a sensação de que nós, homens, devemos nos manter juntos porque há muitas criaturas malvadas que têm que ser exterminadas...
-      <START:TEMPO>Às vezes<END>
-      ,
-      <START:PESSOA>Batman<END>
-      acaba numa cama, ferido, e mostra-se o jovem
-      <START:PESSOA>Robin<END>
-      sentado ao seu lado.
-Em casa, levam uma vida idílica.
-São
-      <START:PESSOA>Bruce Wayne<END>
-      e
-      <START:PESSOA>Dick Grayson<END>
-      .
-<START:PESSOA>Bruce<END>
-      é descrito como um grã-fino e o relacionamento oficial é que
-      <START:PESSOA>Dick<END>
-      é pupilo de
-      <START:PESSOA>Bruce<END>
-      .
-Vivem em aposentos suntuosos com lindas flores em grandes vasos...
-      <START:PESSOA>Batman<END>
-      é,
-      <START:TEMPO>às vezes<END>
-      , mostrado num robe de chambre...é como um sonho de dois homossexuais vivendo juntos".
-<START:PESSOA>Dr.
-Frederick Werthan<END>
-      -
-      <START:OBRA>The Seduction of the Inocents<END>
-    
-    
-
-      Impelido pela caça às bruxas do
-      <START:PESSOA>Senador Joseph MacCarthy<END>
-      - cujo alvo foi, principalmente, atores, roteiristas e diretores de <START:LOCAL>Hollywood<END>
-      acusados de comunismo - e o livro do
-      <START:PESSOA>Dr.
-Werthan<END>
-      , o governo norte-americano tentou acabar com todo o tipo de publicação cujo conteúdo fosse considerado "imoral" ou "impróprio".
-A primeira a dançar foi a
-      <START:COISA>EC Comics<END>
-      .
-Todos seus títulos foram proibidos e a
-      <START:COISA>MAD<END>
-      passou a pegar menos pesado em suas sátiras e mudou de formato para poder continuar nas bancas.
-Outro caso célebre foi a perseguição que o criador de
-      <START:PESSOA>Ferdinando<END>
-      ,
-      <START:PESSOA>All Capp<END>
-      , sofreu por causa de uma história sobre os schmoos, um bichinho fictício semelhante a uma foca que se proliferava à velocidade da luz e tinha uma carne deliciosa, além de dar leite e pôr ovos.
-Na história, os
-      <START:PESSOA>Estados Unidos<END>
-      entram em polvorosa porque ninguém mais queria trabalhar, já que todo mundo tinha um schmoo em casa e não passava mais fome.
-Por isso, o schmoos foram considerados pelo governo como uma apologia ao comunismo e
-      <START:PESSOA>All Capp<END>
-      teve que tirá-los das aventuras de
-        <START:PESSOA>Ferdinando<END>
-      .
-O resultado mais triste da paranóia do
-      <START:PESSOA>Senador MacCarthy<END>
-      e do
-      <START:PESSOA>chefe do FBI<END> 
-      ,
-      <START:PESSOA>J Edgar Hoover<END>
-      , foi a criação do
-      <START:COISA>Comics Code<END>
-      , aquele selinho encontrado em todas as revistas comercializadas nos
+Para este desequilíbrio contribui agora a nova vaga de violência da
+      <START:LOCAL>Nigéria<END>
+      , país que
+      nos últimos anos
+      já perdeu
+      <START:VALOR>25 por cento<END>
+      da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos
       <START:LOCAL>EUA<END>
       .
-Sem ele, as publicações de quadrinhos não poderiam ser vendidas, o que levou as editoras a implantar a censura interna, acabando assim com a liberdade de criação de seus artistas.
-Apesar de algumas coisas legais aqui e ali, as
-      <START:COISA>HQs<END>
-      só saíram do marasmo
-      <START:TEMPO>no começo dos anos 60<END>
-      após o surgimento da literatura beat e das primeiras manifestações da contracultura.
-Criado em
-      <START:LOCAL>São Francisco<END>
-      , o movimento dos
-      <START:PESSOA>Comix<END>
-      deu um novo impulso criativo aos quadrinhos.
-Primeiro porque seus integrantes estavam num desbunde total e não estavam nem aí para a rígida moral norte-americana.
-Segundo porque as revistas dos
-      <START:ORGANIZACAO>Comix<END>
-      não eram vendidas em bancas e sim em lojinhas hippies, cujos donos não queriam nem saber se as ditas-cujas tinham ou não o famigerado
-      <START:COISA>Comics Code Aproval<END>
+Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de
+      <START:VALOR>12<END>
+      pessoas na passagem de ano, é agora superior ao que foi
+      nos últimos meses
       .
-É um período marcado pela negação à linguagem formal das
-      <START:COISA>HQs<END>
-      .
-Nos comix,
-      <START:TEMPO>por muitas vezes<END>
-      não havia uma seqüência lógica na narrativa.
-Uma historia poderia ser interrompida para dar vazão a algum experimentalismo gráfico ou não ter exatamente um roteiro.
-Poderiam ainda ser ácidas e demolidoras - como as notórias edições de
-      <START:OBRA>Air Pirates<END>
-      , de
-      <START:PESSOA>Dan O'Neil<END>
-      e
-      <START:PESSOA>Ted Richards<END>
-      , nas quais
-      <START:PESSOA>Mickey<END>
-      e
-      <START:PESSOA>Minie Mouse<END>
-      apareciam fazendo toda espécie de loucuras sexuais - ou simplesmente desagradáveis, principalmente em alguns momentos mais escatológicos da
-      <START:OBRA>Zap Comix<END>
-      , a primeira publicação underground do planeta.
-Entre os nomes do quadrinho underground, destacam-se
-      <START:PESSOA>Robert Crumb<END>
+E contribui também a situação geopolítica no
+      <START:LOCAL>Paquistão<END>
       ,
-      <START:PESSOA>Gilbert Shelton<END>
+      uma semana depois
+      do assassinado de
+      <START:PESSOA>Benazir Bhuto<END>
+      - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.
+A situação destes dois países "provocou o regresso de muito capital especulativo ao mercado", segundo o
+      <START:PESSOA>presidente da Ritterbusch &amp; Associates<END> 
       ,
-      <START:PESSOA>Robert Williams<END>
+      <START:PESSOA>Jim Ritterbusch<END>
+      , citado pela
+      <START:LOCAL>Reuters<END>
+      .
+Mas estes não são os únicos dois países em turbulência geopolítica.
+É também o
+      <START:LOCAL>Quénia<END>
+      , "ao lado da
+      <START:LOCAL>Nigéria<END>
+      , que se incendeia", diz
+      <START:PESSOA>Moncef Kaabi<END>
+      , da
+      <START:ORGANIZACAO>Natixis<END>
+      , é também a
+      <START:LOCAL>Turquia<END>
+      , com as operações contra os separatistas curdos no
+      <START:LOCAL>Norte<END>
+      , justificando que mercados como o do petróleo "traduzem a inquietação e a incerteza dos investidores".
+Por outro lado, os
+      <START:ORGANIZACAO>EUA<END>
+      deverão anunciar ainda
+      hoje
+      a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, pela sétima semana consecutiva, desta vez em
+      <START:VALOR>1,8 milhões<END>
+      de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da 
+      Reuters 
+      .
+O preço actual do petróleo ficou agora mais próximo do pico de
+      <START:VALOR>100 dólares<END>
+      de <START:TEMPO>1980<END>
+      provocado pela guerra entre o
+      <START:ORGANIZACAO>Irão<END>
+      e o
+      <START:ORGANIZACAO>Iraque<END>
+      , dois países-membros da
+      <START:ORGANIZACAO>OPEP<END>
+      .
+O preço de então ajustado à inflação representa
+      hoje
+      <START:VALOR>101,7 dólares<END>
+      .
+A convicção dominante no mercado, a avaliar pelos analistas contactados pela
+      <START:PESSOA>Reuters<END>
+      , é a de que o preço desta matéria-prima continuará provavelmente a subir
+      nos próximos cinco anos
+      , a não ser que o crescimento económico abrande e abrande também a procura de combustível.
+A pressão para a subida de preços que se verifica
+      desde <START:TEMPO>2002<END>
+      continua a ter condições para manter o ritmo: algumas regiões fora da
+      <START:ORGANIZACAO>OPEP<END>
+      , nomeadamente o mar do 
+      <START:LOCAL>Norte<END>
+      , têm a sua produção em declínio, a
+      <START:ORGANIZACAO>China<END>
+      mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.
+Para analistas como
+      <START:PESSOA>Kris Voorspools<END>
+      , da
+      <START:ORGANIZACAO>Fortis<END>
+      , em
+      <START:LOCAL>Bruxelas<END>
+      , o "preço do petróleo pode continuar a subir", por se estar perante o "simples fundamento da oferta e da procura".
+Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por
+      <START:PESSOA>Nauman Barakat<END>
       ,
-      <START:PESSOA>Skip Williamson<END>
-      e
-      <START:PESSOA>Ricky Griffin<END>
-      , litografista que fez a cabeça de toda uma geração com sua arte psicodélica e posters de
-      <START:PESSOA>Carlos Santana<END>
-      ,
-      <START:PESSOA>The Doors<END>
-      e
-      <START:PESSOA>Gratefull Dead<END>
-      .
-Os comix atraíram também uma parcela considerável de artistas da velha guarda.
-Cansado da censura do
-      <START:ABSTRACCAO>Comics Code<END>
-      e empolgado com o movimento,
-      <START:PESSOA>Will Eisner<END>
-      lança um gênero inédito: as novelas gráficas (
-      <START:OBRA>Um Contrato com Deus<END>
-      e
-      <START:OBRA>O Edifício<END>
-      ), uma mistura de literatura e quadrinhos com uma linguagem mais madura e bem mais experimental do que a usada na
-      <START:COISA>HQ<END>
-      tradicional.
-Outro veterano a pedir uma vaga no porão do quadrinho underground foi
-      <START:PESSOA>Harvey Kurtzman<END>
-      .
-À margem da indústria desde a instituição do
-      <START:ABSTRACCAO>Comics Code<END>
-      , ele voltou à cena com a revista
-      <START:COISA>Help<END>
-      , uma versão ainda mais pirada da
-      <START:COISA>MAD Magazine<END>
-      .
-Junto com ele vieram os bons companheiros de
-      <START:ORGANIZACAO>EC Comics<END>
-      <START:PESSOA>Bill Elder<END>
-      e
-      <START:PESSOA>Wallace Wood<END>
-      , que,
-      <START:TEMPO>nesse período<END>
-      , deu ao mundo a memorável
-      <START:OBRA>My World<END>
-      , uma fábula pessoal sobre a decadência moral dos
-      <START:PESSOA>Estados Unidos<END>
-      .
---DOCSTART--
-    
-
-      Biografia de
-      <START:PESSOA>Dead Fish<END>
-    
-    
-
-      <START:PESSOA>Dead Fish<END>
-      é uma banda de
-      <START:ABSTRACCAO>Hardcore<END>
-      de
-      <START:LOCAL>Vitória<END>
-      , cidade do estado do
-      <START:LOCAL>Espírito Santo<END>
-      ,
-      <START:LOCAL>Brasil<END>
-      .
-História
-    
-
-      Tudo começou
-      <START:TEMPO>em 1991<END>
-      com um grupo de amigos que andavam de Skate em
-      <START:LOCAL>Vitória<END>
-      .
-Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente
-      <START:ABSTRACCAO>Hardcore<END>
-      .
-<START:TEMPO>Em 1995<END>
-      lançam a demo-tape "
-      <START:OBRA>Re-Progresso<END>
-      " e
-      <START:TEMPO>três anos depois<END>
-      , seu primeiro
-      <START:COISA>CD Full-Lenght<END> 
-      , chamado "
-      <START:ABSTRACCAO>Sirva-se<END>
-      " pelo selo capixaba
-      <START:ORGANIZACAO>Lona Records<END>
-      .
-Após o "
-      <START:OBRA>Sirva-se<END>
-      ", lançaram "
-      <START:OBRA>Sonho Médio<END>
-      "
-      <START:TEMPO>em 1999<END>
-      e "
-      <START:OBRA>Afasia<END>
-      "
-      <START:TEMPO>em 2001<END>
-      .
-<START:PESSOA>Giuliano<END>
-      , até então guitarrista, resolveu deixar a banda,
-      <START:TEMPO>em 2002<END>
-      lançam o
-      <START:OBRA>Projeto Peixe Morto<END>
-      e
-      <START:TEMPO>no mesmo ano<END>
-      também lançam o
-      <START:OBRA>EP 2002<END>
-      , mas que foi gravado
-      <START:TEMPO>em 2000<END>
-      .
-Alguns guitarristas de bandas amigas do
-      <START:PESSOA>Dead Fish<END>
-      foram chamados para quebrar um galho, entre eles:
-      <START:PESSOA>Alexandre "Capilé"<END>
-     (
-      <START:PESSOA>Sugar Kane<END>
-      ),
-      <START:PESSOA>Philippe Fargnoli<END>
-      (
-      <START:PESSOA>Reffer<END>
-      ) e
-      <START:PESSOA>Tiago "Hóspede"<END>
-     (
-      <START:PESSOA>Aditive<END>
-      ).
-<START:TEMPO>Em 2003<END>
-      gravaram um
       
-        <START:COISA>CD Ao Vivo<END>
-        
-      no
-      <START:LOCAL>Hangar 110<END>
-      em
-      <START:LOCAL>São Paulo<END>
+        <START:PESSOA>vice-presidente da Macquarie Futures<END>
+         dos <START:LOCAL>EUA<END>
       .
-<START:PESSOA>Murilo<END>
-      , o outro guitarrista do
-      <START:PESSOA>Dead Fish<END>
-      , deixa a banda que ameaça acabar.
-<START:TEMPO>No fim do mesmo ano<END>
-      , eles recebem uma proposta de uma gravadora, a
-      <START:ORGANIZACAO>Deckdisc<END>
-      .
-A banda aceita a proposta, chama
-      <START:PESSOA>Philippe<END>
-      e
-      <START:PESSOA>Hóspede<END>
-      para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o "
-      <START:OBRA>Zero e Um<END>
-      ".
-<START:TEMPO>Em 2004<END>
-      , o
-      <START:PESSOA>Dead Fish<END>
-      ganha projeção nacional ao receber o prêmio
-      <START:OUTRO>Video Music Brasil<END>
-      de artista revelação, lançando seu primeiro DVD
-      , o "
-      <START:OBRA>MTV Apresenta: Dead Fish<END>
-      ".
-<START:TEMPO>Em 2006<END>
-      , lançam mais um disco pela mesma gravadora, chamado "
-      <START:ABSTRACCAO>Um Homem Só<END>
-      " e tem relançadas sua primeiras demo-tapes pelo selo
-      <START:COISA>Laja Records<END>
-      , sob o título de "
-      <START:ABSTRACCAO>Dead Fish - Demo Tapes<END>
-      ". "
-<START:OBRA>Demo Tapes<END>
-      " ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.
 --DOCSTART--
 
 
-<START:PESSOA>Afonso de Albuquerque<END>
+
+Lobotomia
 
 
-Biografia
 
 
-Foi educado na corte de <START:PESSOA>D.
-Afonso V<END>.
-Partiu na esquadra mandada <START:TEMPO>em 1480<END> em socorro do  <START:PESSOA>rei D. Fernando<END> de <START:LOCAL>Nápoles<END>, «para reprimir o furor dos turcos».
-Esteve na expedição <START:TEMPO>de 1489<END> para defender a fortaleza da <START:LOCAL>Graciosa<END>, situada da ilha que o rio <START:LOCAL>Luco<END> forma junto da cidade de <START:LOCAL>Larache<END>.
-Foi estribeiro-mor do <START:PESSOA>rei D. João II<END>, a quem <START:TEMPO>em 1476<END> acompanhou nas guerras com <START:ORGANIZACAO>Castela<END>.
-Esteve assim nas praças-fortes de <START:LOCAL>Arzila<END> e <START:LOCAL>Larache<END> (<START:LOCAL>Marrocos<END>) <START:TEMPO>em 1489<END>, e <START:TEMPO>em 1490<END> faz parte da guarda de <START:PESSOA>D.
-João II<END>, tendo voltado novamente a <START:LOCAL>Arzila<END> <START:TEMPO>em 1495<END>.
-<START:TEMPO>Em 6 de abril de 1503 <END>partiu para a <START:LOCAL>Índia<END> com o primo <START:PESSOA>Francisco de Albuquerque<END>, comandando cada qual três naus, tendo participado em várias batalhas, erguido a fortaleza em <START:LOCAL>Cochim<END> e estabelecido relações comerciais com <START:ORGANIZACAO>Coulão<END>.
-De regresso ao reino de <START:LOCAL>Portugal<END>, «mais cheio de glórias que de despojos», foi bem acolhido por <START:PESSOA>D.
-Manuel<END> que <START:TEMPO>em 1506<END> o tornou a enviar ao <START:LOCAL>Oriente<END> em companhia de <START:PESSOA>Tristão da Cunha<END> e nomeando-o governador da <START:LOCAL>Índia<END>  na sucessão do <START:PESSOA>vice-Rei D. Francisco de Almeida<END>.
-Neste posto, conquistou vários portos em <START:LOCAL>Omã<END> acabando por chegar à riquíssima cidade de <START:LOCAL>Ormuz<END>, que se tornou tributária de <START:LOCAL>Portugal<END>.
-<START:TEMPO>Em 1510<END> toma <START:LOCAL>Goa<END> ao turco <START:PESSOA>Hidalcão<END> e <START:TEMPO>em 1511<END> toma <START:LOCAL>Malaca<END>, abrindo aos portugueses o acesso às especiarias das <START:LOCAL>Molucas<END> e ao comércio com a <START:LOCAL>China<END>.
-<START:TEMPO>Em Fevereiro de 1513<END> <START:PESSOA>Albuquerque<END> parte para o estreito de <START:LOCAL>Bab-el-Mandebe<END>, tentando tomar <START:ORGANIZACAO>Áden<END> sem êxito.
-Com a construção da fortaleza de <START:LOCAL>Ormuz<END> <START:TEMPO>em 1515<END> concluiu o seu plano de domínio dos pontos estratégicos que permitiam o controlo marítimo e o monopólio comercial da <START:ORGANIZACAO>Índia<END>.
-<START:TEMPO>Em 1514<END> na <START:LOCAL>Índia<END> dedicou-se à administração e diplomacia, a concluir a paz com <START:ORGANIZACAO>Calecute<END>, a receber embaixadas de reis indianos e a consolidar e embelezar <START:ORGANIZACAO>Goa<END>, onde, por meio do casamento de portugueses com mulheres indígenas procura criar uma raça luso-indiana.
-O seu prestígio chegara ao auge criando as bases do <START:ORGANIZACAO>Império Português<END> no <START:LOCAL>Oriente<END> .
-Jaz em local desconhecido em <START:LOCAL>Goa<END>, na <START:LOCAL>India<END>?
-Ora, quando morreu, conta <START:PESSOA>Diogo Barbosa Machado<END> na <START:LOCAL>Bibliotheca Lusitana<END> (<START:LOCAL>Tomo I<END>, página 23) que «foi amortalhado com o manto da  Ordem militar de Santiago,  de que era comendador, sepultado na igreja de <START:LOCAL>Nossa Senhora da Serra<END> em <START:LOCAL>Goa<END>, que edificara em agradecimento do feliz sucesso da conquista de <START:LOCAL>Malaca<END>.
-<START:TEMPO>Passados 51 anos<END> , foi trasladado, como dispusera seu testamento, ao convento de  <START:LOCAL>Nossa Senhora da Graça<END> dos <START:ABSTRACCAO>Religiosos Eremitas de Santo Agostinho<END>  da corte, para onde foi conduzido <START:TEMPO>em 19 de maio de 1566<END> com pompa».
+História
+
+
+
+Foi desenvolvida em <START:TEMPO>1935<END> pelo médico neurologista português <START:PESSOA>António Egas Moniz<END> (<START:TEMPO>1874-1955<END>), em equipe com o cirurgião <START:PESSOA>Almeida Lima<END>, na  <START:LOCAL>Universidade<END> de <START:LOCAL>Lisboa<END>.
+<START:PESSOA>Egas Moniz<END> veio a receber com este trabalho o prêmio <START:OUTRO>Nobel da Medicina e Fisiologia<END> em <START:TEMPO>1949<END>.
+A <START:COISA>Leucotomia<END> foi a primeira técnica de <START:ABSTRACCAO>Psicocirurgia<END> ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica).
+Inicialmente foi usada para tratar depressão severa.
+<START:PESSOA>Egas Moniz<END> sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio.
+No entanto apesar de <START:VALOR>cerca de 6%<END> dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o <START:LOCAL>Japão<END> e os <START:LOCAL>Estados Unidos<END>.
+Neste último país foi popularizada pelo cirurgião <START:PESSOA>Walter Freeman<END>, que divulgou a técnica por todo o seu país, percorrendo o no seu <START:COISA>Lobotomobile<END>, e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas.
+Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos.
+A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento.
+<START:VALOR>Cerca de 50.000<END> doentes foram tratados só nos <START:LOCAL>Estados Unidos<END>.
+Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos.
+Durante muito tempo foi considerada algo injustamente como um episódio barbárico na história da <START:ABSTRACCAO>Psiquiatria<END>, sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.
+--DOCSTART--
+<START:PESSOA>Fernando Ferreira<END>
+[click for a page in english]
+<START:ORGANIZACAO>CMAF<END>- <START:ORGANIZACAO>Universidade de Lisboa<END> <START:LOCAL>Gabinete A2-31 Avenida Professor Gama Pinto, 2<END> Telefone do Gabinete: 217904893 P-1649-003 <START:LOCAL>Lisboa<END> Extensão interna: 4293 <START:LOCAL>Portugal<END> Email: ferferr@cii.fc.ul.pt <START:ORGANIZACAO>Departamento de Matemática<END> | <START:ORGANIZACAO>Faculdade de Ciências<END> | <START:ORGANIZACAO>Universidade de Lisboa<END> | <START:ORGANIZACAO>CMAF<END>
+Apresentação
+Bem vindos àminha página pessoal.
+Sou <START:PESSOA>Professor Associado<END> do <START:ORGANIZACAO>Departamento de Matemática da Universidade de Lisboa<END> e membro do <START:ORGANIZACAO>Centro de Matemática e Aplicações Fundamentais<END> - <START:ORGANIZACAO>CMAF<END>.
+Clique aqui para obter o meu CV.
+Interesses Académicos
+<START:ABSTRACCAO>Lógica Matemática<END>, em especial teorias fracas da aritmética e da análise.
+<START:ABSTRACCAO>Filosofia<END>  e <START:ABSTRACCAO>Fundamentos de Matemática<END> .
+Tenho um interesse amador (no sentido latino da palavra) por alguns problemas da <START:ABSTRACCAO>Filosofia Antiga<END> , particularmente no problema da falsidade em <START:ABSTRACCAO>Parménides<END> e <START:ABSTRACCAO>Platão<END>.
+Também escrevi alguns ensaios expositórios sobre temas da lógica: clique aqui para os ver.
+Ensino
+No presente semestre dou aulas teórico-práticas de <START:ABSTRACCAO>Álgebra 2<END>, cadeira do segundo ano das licenciaturas em <START:ABSTRACCAO>Matemática<END>.
+O <START:PESSOA>Professor José Perdigão Dias da Silva<END> éo regente da cadeira.
+No semestre passado fui responsável pelas cadeiras de <START:ABSTRACCAO>Topologia<END> e <START:ABSTRACCAO>Introdução àAnálise Funcional<END>, do terceiro ano das licenciaturas em <START:ABSTRACCAO>Matemática<END>, e de <START:ABSTRACCAO>Teoria da Demonstração<END>, do
+Mestrado em <START:ABSTRACCAO>Matemática<END>.
+No ano passado ensinei a cadeira de <START:ABSTRACCAO>Lógica Matemática<END> aos finalistas de <START:ABSTRACCAO>Matemática<END> e licenciaturas relacionadas.
+Clique aqui para
+ver a página desta cadeira.
+Também dei a cadeira <START:ABSTRACCAO>Lógica de Primeira-Ordem<END> ao primeiro ano das licenciaturas em <START:ABSTRACCAO>Informática<END> e <START:ABSTRACCAO>Engenharia da Linguagem e do Conhecimento<END>.
+A página web desta cadeira ainda se encontra disponível on-line em html://www.alf1.cii.fc.ul.pt/~ferferr/lpo.html.
+Também colaboro no Mestrado em <START:ABSTRACCAO>Filosofia da Linguagem e da Consciência<END> da <START:ORGANIZACAO>Faculdade de Letras<END>.
+Eventos
+<START:TEMPO>De 25 a 28 de Junho<END> decorrerá em <START:LOCAL>Lisboa<END>, no <START:LOCAL>CMAF<END>, a <START:ACONTECIMENTO>School on Real Algebraic and Analytic Geometry and O-minimal Structures<END> .
+Às quintas-feiras decorre o <START:ACONTECIMENTO>Seminário de Lógica Matemática<END> (<START:ACONTECIMENTO>SLM<END>), organizado por mim e pelo <START:PESSOA>Professor Narciso Garcia<END> do <START:ORGANIZACAO>Instituto Superior Técnico<END>.
+Se quiser ter notícias regulares sobre o <START:ACONTECIMENTO>SLM<END>, por favor contacte-me.
+Vária
+Sou co-editor da <START:OBRA>Disputatio<END> , uma revista de <START:ABSTRACCAO>Filosofia Analítica<END>.
 --DOCSTART--
 
 
-São os produtores de resíduos, nomeadamente os municípios, associações de municípios e industriais responsáveis por encaminhar os resíduos de uma forma e para um destino correctos.
-Para isso é fundamental a sua associação a empresas especializadas que lhes garantam o cumprimento das exigências feitas pelas normas ambientais, que lhes disponibilizem experiência e conhecimentos técnicos e que ao mesmo tempo lhes ofereçam meios que lhes permitam rentabilizar os resíduos.
-É neste contexto que surge a <START:ORGANIZACAO>ECOMAIS - Recolha e Valorização de Resíduos, Lda.<END> uma empresa dinamizadora na área do ambiente direccionada para a área dos resíduos industriais e urbanos.
-É uma empresa licenciada de acordo com as exigências estabelecidas, especializada na prestação contínua de serviços e na procura de soluções para os seus clientes, de modo a satisfazer as suas necessidades de uma forma ambientalmente correcta.
-Oferecendo um serviço diversificado, eficaz, rápido e completo na área dos resíduos, torna-se o parceiro ideal na <START:ABSTRACCAO>Gestão Global de Resíduos<END>.
+
+O  <START:ACONTECIMENTO>Tour<END> de <START:LOCAL>França<END> de <START:TEMPO>2009<END>  vai começar no <START:LOCAL>Mónaco<END> com um contra-relógio de <START:VALOR>15 quilómetros<END>, numa etapa que também terminará no principado monegasco.
+O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de <START:ABSTRACCAO>Fórmula 1<END>.
+"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica" foram apontados por <START:PESSOA>Christian Prudhomme<END> como justificação para a decisão.
+O  <START:ACONTECIMENTO>Tour<END> de <START:LOCAL>França<END> voltará assim ao <START:LOCAL>Mónaco<END>, depois de <START:VALOR>45 anos<END> ausente.
+--DOCSTART--
+Memória oral dos idosos
+Depoimento de <START:PESSOA>Lázara Matos de Camargo<END>
+<START:ORGANIZACAO>Centro Cultural Três Rios<END> da <START:ORGANIZACAO>Secretaria da Cultura<END>
+<START:LOCAL>São Paulo<END>, <START:TEMPO>9 de outubro de 1992<END>
+Realização <START:ORGANIZACAO>Museu da Pessoa<END>
+Entrevista número <START:VALOR>12<END>
+Transcrito por <START:PESSOA>Mariana Fontes<END>
+
+P - <START:PESSOA>Dona Lázara<END>, nós já conversamos um pouco com a senhora lá na outra sala e já temos algumas informações, mas a gente gostaria de confirmar alguns dados que a senhora já nos deu.
+O nome da senhora completo, por favor.
+R- <START:ABSTRACCAO>Lázara de Matos Camargo<END>.
+P - Qual a data do seu nascimento?
+R- <START:TEMPO>17/4/24<END>.
+P - A senhora nasceu aonde?
+R- <START:LOCAL>Tijupá<END>.
+P - <START:LOCAL>Estado de São Paulo<END>?
+R- <START:LOCAL>Estado de São Paulo<END>.
+P - Qual o endereço da senhora hoje?
+R- <START:LOCAL>Rua Joaquim Alves Diniz<END>, 704.
+P - <START:LOCAL>São Paulo<END> capital?
+R- <START:LOCAL>Vila São Francisco<END>, <START:LOCAL>São Paulo<END>.
+P - Agora a gente vai tentar lembrar de coisas de sua vida, seu passado e eu queria começar com o seu pai, o nome do seu pai, o nome da sua mãe; quem foram essas pessoas e local de nascimento do pai, da mãe.
+Bem.
+Local de nascimento do meu pai, eu não sei, mas é <START:LOCAL>Estado de São Paulo<END>.
+P - E como era o nome dele?
+R- <START:ABSTRACCAO>Gabriel Tolinho de Matos<END>.
+P - E da sua mãe?
+R-<START:ABSTRACCAO>Francisca Maria da Conceição<END>.
+P - E ela nasceu aonde?
+Também no <START:LOCAL>Estado de São Paulo<END>?
+R- Nasceu numa cidade perto daqui, <START:LOCAL>Conchas<END>.
+Já ouviu falar?
+P - Sei, sei.
+Perto de <START:LOCAL>Laranjal Paulista<END>, <START:LOCAL>Conchas<END>, <START:LOCAL>Tatuí<END>, aquela região.
+E os avós, a senhora sabe o nome deles, de que local eles eram?
+R- O meu avô paterno era <START:ABSTRACCAO>Paulino<END>.
+P - De onde ele era?
+R- Também da mesma região.
+A minha avó era <START:ABSTRACCAO>Ana<END>.
+Meu avô materno era <START:ABSTRACCAO>Salvador<END>, <START:ABSTRACCAO>Salvador Teles<END>, este eu estou lembrando.
+E minha avó materna, <START:ABSTRACCAO>Maria Teles<END>.
+P - Eram todos da mesma região?
+R- Todos.
+P - A família já está lá a muito tempo naquela região?
+R- É.
+Eles morreram aqui, mas nasceram e se criaram e casaram, criaram seus filhos lá.
+P - Como era a vida lá na cidade em <START:LOCAL>Conchas<END>, quando a senhora era pequena?
+Como é que se vivia lá, como era sua infância?
+Ah, muito feliz, porque criança é sempre feliz, não tem problema, se tem não é da criança, é dos outros, né, então muito feliz, porém pobre, né, mas saudável e feliz.
+P - Viviam na cidade ou na roça?
+R- Uma hora na roça, outra hora na cidade mas sempre por ali por perto, a gente sempre mudava.
+P - Era sítio?
+R- Era um pouco no sítio, um pouco na fazenda, outro na cidade, a gente tava sempre mudando, meu pai gostava de mudar.
+E eu também!
+Moro três anos numa casa, estou louca de vontade de mudar já.
+P - Que beleza!
+R- Não mudo porque aqui não tem jeito.
+Tenho uma casa e tenho vontade de vender e comprar outra, só para mudar.
+Mudar minha cama, mudar minhas coisas, parece que é tão gostoso na primeira noite que a gente vai dormir, que não tá naquela velha lá, tá na outra.
+P - E quando a senhora era pequena gostava quando o pai fazia as mudanças?
+R- Gostava.
+Gostava.
+P - E ele trabalhava com o que?
+R- Na roça e carpinteiro também.
+P - E a mãe da senhora?
+R- Minha mãe sempre em casa, cuidando de nós, cuidando de tudo.
+P - Eram muitos irmãos?
+R- Eram sete.
+P - Sete irmãos, homens e mulheres?
+R- Bom, não.
+Sete irmãs e dois irmãos, me lembro bem agora.
+P - São nove.
+Bastante gente.
+E lá na cidade, a senhora estudou na cidade mesmo, lá em <START:LOCAL>Conchas<END>?
+R- Estudava em <START:LOCAL>Fartura<END>.
+Não em <START:LOCAL>Conchas<END> foi só mamãe.
+P - Em <START:LOCAL>Fartura<END>.
+E qual escola era?
+R- Só no <START:ORGANIZACAO>Grupo Escolar de Fartura<END>.
+P - Ficou lá até que época?
+R- <START:TEMPO>Até 50<END>.
+P - Casou lá?
+E Quem era seu marido?
+Casei lá.
+<START:PESSOA>Lázaro Vieira de Camargo<END>.
+P - Ele era também da região?
+Quer dizer, era <START:PESSOA>Lázaro<END> ele, <START:PESSOA>Lázara<END> a senhora...
+
+R- Sim.
+Os dois nomão feio se ajeitou.
+O mesmo nome.
+P - E como é que foi a adolescência, como é que conheceu o namorado, como é que vivia na cidade?
+R- Andando, paras as festinhas, para os bailinhos, cineminha, essas coisa aí.
+Praça no jardim da cidade, em frente à <START:LOCAL>Matriz<END>.
+P - A senhora trabalhava nessa cidade?
+R- Não, quase não trabalhava não.
+P - Só estudava?
+R- É, bom, estudei só um pouco também, mas não fazia muita coisa não.
+Ajudava minha mãe em casa.
+P - E seu marido, quando a senhora casou?
+Em que época, em que ano?
+Eu casei em <START:TEMPO>1940, 12 de outubro<END> ; Ish, tá perto de fazer <START:VALOR>52 anos<END>.
+P - Tá pertinho, segunda-feira.
+E conheceu ele lá na cidade, na praça?
+R- Na praça.
+P - E como era esse passeio na praça, como era a vida lá na praça?
+R- Andando, tomando sorvete, conversando.
+P - A senhora falou que sua família lá era um pouco pobre, o seu pai tinha terras?
+Como é que era, conta isso...
+
+R- Bom, tinha terras, mas você sabe, tendo terras não é rico, porque dinheiro não se tinha, né, então pobre mesmo.
+P - O que que ele plantava?
+R- Arroz, feijão, milho, batata doce, amendoim, essas coisas aí.
+P - E a senhora trabalhava na roça também?
+R- Eu ia lá para a roça, mas eu fazia mais é bagunça.
+Eu era igual moleque.
+P - Era igual a que?
+R- Moleque.
+Eu acompanhava o meu irmão, meu irmão muito trabalhador na roça, eu acompanhava ele, tudo que ele fazia de brincadeira e malvadeza, era comigo mesmo.
+P - Que tipo de malvadeza a senhora gostava de fazer?
+R- Ah, em trilha, assim, tinha um monte de mato, a gente amarrava um negocinho lá, a pessoa passava e caía um tombão.
+E a gente ficava escondido, eu e meu irmão.
+Ninguém via, o pai mandou nós cortar capim para as cavaladas lá, nós fomos.
+Mas chegando lá, meu irmão brigou com outros meninos e aquele facão que meu pai deu para a gente cortar o capim, ele em
+vez de cortar capim, começou a brigar com os outros: "É porque eu sou valente, vem aqui" e começou a fazer assim com o facão.
+Tudo coisa de <START:VALOR>11 anos<END>, <START:VALOR>12 anos<END>.
+De repente o facão escapou e foi para o mato.
+E agora para achar?
+Ele chorava e chamava eu: "Venha me ajudar!"
+E eu dava risada, "Você não era valente ué?
+Como é que você tava fazendo com o facão assim para assustar os outros?"
+E o medo de apanhar, né, meu pai, ele era...
+
+P - Ele era muito severo?
+R- Não, ele quase não...a gente também respeitava muito, né?
+Meu pai ele segurava, não deixava a gente ir para as festas.
+Mas eu ia, porque depois que eles dormiam, eu pulava a janela.
+Eu ia e depois antes de ficar de dia, eu já pulava a janela e dormia.
+Ficava bem lá dormindo.
+Mas era só eu, os outros não faziam assim não.
+Eu e meu irmão que era assim.
+Hoje eu sou uma pessoa de tanta responsabilidade, pode confiar em mim porque eu tenho mesmo muita responsabilidade.
+Conto tudo do meu dever, sou até boba de tão honesta, meu irmão também.
+P - Mas fazer isso não significava ser desonesta, significava ser esperto, né, para se divertir.
+R- É, gostava de pegar faca de ponta e falava para mim: "Quanto você aposta comigo que eu acerto a ponta da faca naquele caldeirão lá?
+", o caldeirão que estava pendurado.
+E furava o caldeirão.
+P - Nossa!
+R- Era malvadeza.
+P - E sua mãe, não dizia quando via?
+A minha mãe era muito boa.
+Meu era bravo para nós e para minha mãe também.
+P - Era bravo como?
+R- Ah, bravo, exigente, queria tudo certinho, a gente não podia fazer coisa errada, mas só que a gente fazia, mesmo assim.
+Mas a minha mãe, nossa, era um respeito para ele.
+Mas ele era bom sim, ele era bom.
+Eu lembro que eu ia nas festas de noite, depois eu vinha aqui montada no pescoço de meu pai, quando eu era pequena, quando cansava.
+Então era muito bom.
+P - E qual eram as festas que a senhora gostava mais?
+R- A gente ia em tudo, porque quando tem pouco, tudo que tem a gente vai, né?
+A gente vai no casamento, a gente ia no batizado, a gente ia no baile, a gente ia na festa junina; de fogueira, de quentão, de tanta coisa; de baile de sanfona, tudo isso a gente ia quando a gente era criança.
+Depois que fiquei moça eu ia também; mas depois que eu fiquei moça meu pai já não gostava que eu fosse, ele deixava algumas vezes, mas quando ele não deixava eu ia do mesmo jeito!
+Só se fosse muito longe, mas se fosse perto, não.
+Esperava todo mundo dormir, depois pulava a janela e ia.
+P - E as outras irmãs eram mais calmas?
+R- Mais calmas, era só eu que era assim.
+P - E essas irmãs também casaram?
+R- Casaram, casaram.
+P - Lá mesmo no interior?
+É, Lá mesmo no interior tem duas, três irmãs que já morreram, uma é mais nova que eu, as outras duas é mais velhas.
+P - E seu marido era também da mesma cidade, ele trabalhava em que?
+R- Da mesma cidade.
+P - E fazia o que, qual atividade?
+R- Ele tinha um sítio pequeno, ele plantava as coisas dele.
+P - Ah, ele plantava.
+E quando a senhora casou, foi morar no sítio com ele?
+R- Fui morar no sítio com ele.
+P - E viveu muitos anos lá no sítio?
+R- Uns <START:VALOR>20 anos<END>.
+P - Como foi que a senhora conheceu o seu marido?
+A senhora lembra do dia?
+R- Ah, o dia não dá para lembrar.
+P - Mais ou menos assim, por onde ele andava?
+R- Você diz o dia, ou o lugar?
+P - O lugar.
+R- Ah, o lugar lá da cidade de <START:LOCAL>Fartura<END>, onde a gente se ajuntava, tudo os jovens de um lugar, de outro, era bom, divertido igual hoje, né, gostoso era muito saudável tudo, né?
+P - E namorou muitos anos?
+R- Não naquele tempo a gente namorava e já logo casava.
+Acho que eu namorei uns quatro ou cinco meses e já foi o casamento.
+P - E como é que foi o casamento?
+R- Ah, festa, comida...
+
+P - Conta a festa, tudo o que a senhora lembra deste casamento.
+R- Era leitão assado, frango assado, aquele monte de comida.
+Baile, baile de sanfona, violão, cavaquinho, muito bonito.
+E o casamento, a gente morava numa chácara pertinho da cidade, né, e nós fomos a pé casar, fomos a pé.
+Era bem pertinho.
+P - Casou na igreja, depois voltou para a casa, para a festa?
+R- É, casei na igreja, depois voltei para a casa.
+A gente ficou só um pouquinho na festa, depois voltei para casa porque a gente já estava com tudo pronto, né?
+Viajar, lua de mel, isso não era com nós não, porque a gente não podia.
+Como fazem hoje, hoje os casamentos é mais bonito, apesar de durar pouco.
+P - Bom, é preferível então...
+
+R- Apesar de durar pouco, é tudo mais bonito.
+P - Outra coisa, lá nesse período que a senhora morou <START:VALOR>20 anos<END>, os seus filhos nasceram todos nessa época?
+R- Nasceram.
+Foram um atrás do outro.
+P - E quantos filhos foram?
+R- Sete.
+P - Sete.
+E quais são os nomes destes filhos?
+R- <START:ABSTRACCAO>Maria Inês<END>, <START:ABSTRACCAO>Maria Teresa<END>, <START:ABSTRACCAO>Maria Clara<END>, <START:ABSTRACCAO>Maria de Fátima<END>, <START:ABSTRACCAO>Ana Maria<END>, <START:ABSTRACCAO>Maria Benedita<END> e <START:ABSTRACCAO>José<END>.
+P - O mais novo é o <START:PESSOA>José<END>?
+R- O mais velho que é o <START:PESSOA>José<END>.
+P - Ah, então primeiro veio o filho, depois as filhas.
+E eles viveram todo o tempo lá com a senhora?
+R- Viveram.
+P - E nessa época como era a sua vida de casada?
+R- Casada?
+P - Como era a vida de casada lá no sítio com as crianças?
+R- Ah, mais ou menos, sabe, não era boa como no tempo de minha mãe e meu pai; quando eu casei já não...Dava para a gente viver.
+P - A senhora não era apaixonada por seu marido?
+R- Era, mas depois ele começou a beber aí acabou todas as paixão, pulou tudo pela janela.
+P - Ele fazia que tipo de trabalho?
+R- Trabalhava em roça, plantava as coisa, ele é trabalhador sim, dessas coisas aí não podia me queixar, amoroso com as crianças, mas tinha mania de beber, então já não era muito bom.
+P - Era perto da cidade onde a senhora tinha o sítio?
+R- Era bem perto.
+P - E as crianças estudavam?
+R- As crianças estudavam.
+Ia a pé para a cidade.
+P - Então era bem perto.
+Porque a senhora saiu de lá depois desses anos todos?
+R- Porque a minha mãe depois mudou para <START:LOCAL>São Paulo<END>, a minha irmã; fiquei com vontade também.
+P - Nessa época a senhora já era viúva, ou não?
+R- Ainda não.
+P - Ele veio também?
+R- Veio mas depois foi embora.
+Foi embora e deixou nós aqui.
+P - Aí ficou a senhora com os filhos aqui.
+E já eram crianças grandes aqui.
+R- Já.
+Era pouca coisa um mais velho que o outro.
+Cresceu quase de uma vez, casou um atrás do outro também.
+P - A senhora veio morar em <START:LOCAL>São Paulo<END> onde?
+R- No <START:LOCAL>Bairro do Limão<END>.
+P - Que ano a senhora chegou no <START:LOCAL>Bairro do Limão<END>?
+R- <START:TEMPO>Em 60<END>.
+P - E ficou muitos anos no <START:LOCAL>Bairro do Limão<END> ou não?
+<START:TEMPO>Em 68<END> eu fui para <START:LOCAL>Osasco<END>.
+P - Quando o seu marido foi é que foi que a senhora fez para viver?
+R- Trabalhava de dia e de noite.
+P - A senhora tinha trabalhado antes?
+R- Já, mas não tanto.
+Trabalhei muito, muito mesmo.
+P - Que tipo de trabalho a senhora fazia?
+R- Eu trabalhava numa lavanderia, mas eu fazia faxina.
+Depois mudei, fui trabalhar numa pensão também fazendo faxina.
+Tudo o meu trabalho era esse.
+Aí depois eu trabalhava assim, mas eu tinha um trabalho na <START:LOCAL>Vinte e Cinco de Março<END>, ali num prédio <START:LOCAL>959<END> o número do prédio.
+Ali eu trabalhava e o prédio era inteirinho de comércio eu saía do meu trabalho e vinha trabalhar a noite ali, o comércio ia embora aí eu limpava a escadaria.
+Além da escadaria, tinha um moço bailarino que morava naquelas quitinete, ali era época do comércio mas tinha umas quitinete, coisinha assim pequenininho, ele pedia para mim limpar, eu ganhava mais um pouquinho dele, ganhava um salário mínimo na limpeza, assim que eu fui fazendo.
+P - E as crianças ficavam com quem?
+R- Eles ficavam com eles mesmo.
+P - E alguns já trabalhavam para ajudar a casa?
+R- O mais velho, trabalhava muito já logo aprendeu a trabalhar de funileiro, foi trabalhar na <START:ORGANIZACAO>Carroceria Graça<END> lá na <START:LOCAL>Vila Leopoldina<END>, me ajudou bastante.
+E tinha uma menina que era mais velha aquela lá cuidava da casa, cuidava das crianças, levava as crianças na escola, buscava, depois ia para o ginásio de noite.
+P - Era duro!
+R- Era, mas...
+
+P - A senhora vinha do <START:LOCAL>Limão<END> para trabalhar...
+
+R- Nas <START:LOCAL>Perdizes<END>.
+P - Vinha como, como é que a senhora fazia, tinha ônibus?
+R- Ônibus.
+Descia na <START:LOCAL>Barra Funda<END>.
+P - Sábado e domingo o que a senhora fazia?
+R- Uh, imagina.
+Lavava roupa, hoje que é uma festa.
+<START:PESSOA>Marina<END> me conheceu lá no bairro, hoje chama <START:LOCAL>Vila Lapa<END>.
+Mas nos tempos que as criança...só trabalhava.
+Sábado e domingo eu limpava a casa, eu lavava a roupa.
+No mesmo prédio que eu trabalhava lá na <START:LOCAL>Vinte e Cinco de Março<END>, tinha umas fábricas de lenço, uns lenço fininho de náilon, sobrava muito aqueles pedacinho eu levava para fazer acolchoado para as crianças, para as crianças não passar frio.
+E também levava as camisas do menino que era bailarino para lavar e passar em casa, para mim trazer para ele para ganhar um pouquinho mais.
+P - A senhora arrumava formas de...
+
+P - E a sua mãe e a sua irmã, onde é que estavam nessa hora?
+R- Também na mesma rua que eu, pertinho.
+Minha mãe dava uma mão, às vezes tinha que levar criança para tomar vacina, essas coisas.
+E sabe quem me ajudou também?
+O <START:ORGANIZACAO>Juizado de Menor<END>.
+P - Sim, porque a senhora ficou com as crianças menores.
+E que que ele fazia?
+Me dava dinheiro mensal, ia receber lá em <START:LOCAL>Pinheiros<END>, na <START:LOCAL>Rua Fradique Coutinho<END>.
+P - Mas a senhora recebia pensão do seu marido ou era pensão do juizado?
+R- Do juizado.
+P - E seu marido foi parar onde?
+R- Meu marido abandonou nós.
+P - E onde ele foi?
+R- Foi para o mesmo lugar que morava, <START:LOCAL>Fartura<END>.
+P - E a senhora nunca mais viu?
+R- Aqui trabalhei, consegui aposentar e graças a Deus, hoje não tenho problema nem de saúde nem nenhum.
+P - E ele nunca mandava pensão para ajudar os meninos?
+R- Não, nunca.
+P - Por isso que a senhora recebia do juizado.
+R- Por isso que eu recebia do juizado.
+Então eu recebia de quatro criança na mão, cada uma que fazia <START:VALOR>14<END> eles cortavam, assim foi.
+Depois quando ficou a outra que não tinha <START:VALOR>14<END> ainda eu fui lá e disse: "agora não vou mais receber não".
+Não quis mais.
+P - Porque?
+R- Por que já estava só uma, ia ficar pouquinho, não vou receber mais não.
+Mas eu não lembro quanto era de dinheiro, mas dava para mim comprar alguma coisa, já ajudava.
+P - Quando a senhora foi morar em <START:LOCAL>Osasco<END>, os filhos já estavam grandes?
+R- Estavam grandes.
+P - Mas solteiros ainda?
+R- É, solteiros, estavam grandes; não, já tinha uma casada.
+Lá eu morei um tempo, depois eu mudei para cá.
+P - Lá em <START:LOCAL>Osasco<END> a senhora trabalhava também?
+R- Trabalhava, nunca deixei de trabalhar.
+P - Fazendo o que, nessa época?
+R- Limpeza.
+P - Lá mesmo em <START:LOCAL>Osasco<END>, ou vinha fazer em <START:LOCAL>São Paulo<END>?
+R- Na cidade, nas <START:LOCAL>Perdizes<END> mesmo.
+P - De <START:LOCAL>Osasco<END> a senhora foi morar onde?
+R- Eu fui morar na <START:LOCAL>Vila de São Francisco<END>.
+P - E hoje a senhora mora lá com a família ou mora sozinha?
+A família.
+Com duas filhas.
+P - São solteiras?
+R- São.
+Ah, trabalhei também <START:TEMPO>de 70 a 80<END>, eu trabalhei de motorista de uma mulher.
+Ela tinha carro e ia trabalhar, entrava sete horas na <START:LOCAL>Penha<END>.
+Eu ia levar ela de madrugada para ficar trabalhando, de noite eu ia buscar.
+O marido dela morreu no carro junto comigo.
+Já passei tudo isso na vida.
+P - Como foi?
+R- Eu levava ela todo dia, mas ele não sei, gostava de ir também, levantava cedinho e ia junto; porque nenhum do dois guiava e ela já estava quase na hora de aposentar.
+Aí eu deixei ela, ela trabalhava numa pastelaria, então tinha que entrar muito cedo, deixei ela e depois viemos.
+E ele estava sentado atrás e ela sentada comigo, mas quando eu deixei ela eu falei: "Ah, senta aqui para frente, né, <START:PESSOA>Seu Irineu<END>, porque senão fica parecendo que eu sou chofer de praça".
+(riso) Parece que foi <START:PESSOA>Deus<END> que mandou eu fazer isso porque ele desceu e sentou na frente comigo.
+Mas depois ele estava aqui do meu lado e fazia com esta mão assim, na minha perna; aí eu pensei mal dele, ele ficou, aí eu olhei o rosto dele e ele estava com a cabeça baixa assim e caindo baba.
+O homem estava morrendo!
+Ainda tinha neblina, era muito cedinho.
+Vim correndo para o <START:ORGANIZACAO>Hospital Municipal do Tatuapé<END>, ali na <START:LOCAL>Celso Garcia<END> e socorreram ele e tudo, mas...aí então tive que explicar tudo para
+a patroa.
+P - Ah sim...
+
+R - Mas aí depois eles viram, né, tinha que morrer naquela hora e estava no carro comigo.
+P - Alem desse trabalho como motorista a senhora teve outros trabalhos diferentes?
+R- Não.
+Depois disso eu não trabalhei mais.
+P - E lá na <START:LOCAL>Zona Leste<END>, essas duas filhas solteiras, a casa é da senhora, é delas?
+R- É nossa.
+P - É de vocês.
+A senhora parou de trabalhar quando?
+Faz muito tempo?
+R- Faz tempo.
+Eu parei de trabalhar que eu comecei de trabalhar como motorista, né, eu ganhava mais ou menos; mas eu continuei pagando o <START:OBRA>INPS<END>;
+quando eu fiz <START:VALOR>65 anos<END> aposentei, aí não trabalhei nunca mais.
+P - Como é que é sua vida desde então?
+Melhorou, piorou?
+R- Melhorou.
+P - É?
+O que a senhora faz todo dia?
+R- Nada.
+P - Nada?
+Como é não fazer nada?
+R- Corro atrás das coisas, hoje eu fui lá na <START:LOCAL>Rua Augusta<END> atrás de um inventário de uma propriedade no interior.
+P - Faz quanto tempo que a senhora está aposentada?
+R- Desde... Três anos.
+P - Aí acorda vai ver uma conta, vai ver outra?
+R- Isso, vou pagar conta, vou pagar conta de telefone, vou lá levar para registrar o inventário, porque só agora que saiu o inventário.
+Fui no banco, fui em um banco, depois fui em outro banco.
+Essas coisas assim, né?
+Domingo eu vou na <START:LOCAL>Penha<END> dançar, naqueles bailes lá no <START:ORGANIZACAO>Círculo dos Trabalhadores<END>.
+P - A senhora faz parte desse grupo de pessoas idosas?
+R- Faço.
+P - E tem muitas festas, muitas atividades?
+R- Tem, tem festa junina, tem festa baile do <START:LOCAL>Havaí<END> todo ano <START:TEMPO>em novembro<END>; tem viagem, excursão.
+P - A senhora já fez alguma viagem com o grupo?
+R- Eu fui em <START:LOCAL>Aparecida<END>, só uma vez.
+Não viajo muito não.
+P - Gostou da viagem?
+R- Gostei.
+Sempre gosto de lá.
+P - O grupo é interessante?
+R- Ah, é!
+É tudo a mesma coisa, é tudo a mesma da mesma família.
+P - E são muitos?
+R- Ah, nem dá para saber quanto.
+P - E a sua família, como está agora?
+R- Bem, com saúde.
+P - Tem muitos netos?
+R- Tenho, até perdi a conta já.
+<START:VALOR>14<END> ou <START:VALOR>15<END>.
+P - Nossa!
+Muitos netos.
+Bisnetos, não?
+R- Bisneto também tenho.
+Deixa eu ver, tenho...acho que eu tenho seis.
+P - Seis bisnetos?
+É bastante gente.
+P - <START:PESSOA>Dona Lázara<END>, a senhora lembra qual foi a coisa na sua vida que mais lhe marcou?
+R- Lembro.
+P - Que que foi?
+R- É que eu tinha um namorado chamado <START:PESSOA>Alfredo<END>...que eu nunca amei ninguém na minha vida, homem, né, igual aquele lá.
+Antes do homem que eu casei.
+E ele, na última vez que eu vi, ele cutucou uma varinha e tirou umas folhinhas e deu para mim.
+Podia ter trazido, eu tenho a varinha.
+P - Ainda tem a varinha?
+R- Tenho, mas tá meio pó.
+P - Porque a senhora não casou com ele, o que aconteceu?
+R- Não sei, acho que meu irmão atrapalhou.
+Mas eu amo até hoje, se eu ver acho que eu agarro!
+(riso)
+
+P - E ele anda por onde?
+Não procurou descobrir não?
+R- Também!
+Tem dias que dá uma vontade de botar a boca no trombone, porque às vezes tá casado, tá velhinho, tá tudo, né, porque ele é mais velho que eu uns cinco anos; cinco não, uns quatro.
+P - E a senhora nunca deixou de pensar nele?
+R- Nunca, nenhum dia.
+Então essa varinha me marcou, me marcou, me gravou, me filmou, me tudo.
+Não esqueço nunca; mas é uma saudade bonita, gostosa.
+Uma coisa que não tem cura, né?
+(fim da fita)
+
+P - A senhora não tem  idéia de onde ele vive, nada?
+R- Ah, quando ele separou, né, foi para <START:LOCAL>Marília<END>.
+Mas como é que vou bater de porta em porta lá?
+Mas ele era muito bonito também, mas só que ele era meio preto.
+P - E foi por isso que seu irmão atrapalhou?
+Como é que foi isso, a senhora lembra?
+R- Não, não é por isso não porque meu irmão também gostava da irmã dele.
+A irmã dele não quis o meu irmão e meu irmão começou a brigar forte, a chutar cadeira, né, de não sei que, mas era de despeito porque a irmã dele o desprezou, então ele achava que não era justo, né, deve ser isso...não estou gostando de falar muito nisso não.
+P - Este tempo passou...
+
+R- Ah, é?
+Eu falo sinto bem, eu falo, acho gostoso de lembrar, as minhas filhas falam para mim: "Porque você não vai para o <START:PESSOA>Silvio Santos<END> e pede na <START:ORGANIZACAO>Porta da Esperança<END>?"
+Já assistiu?
+Então: "Porque não vai lá e acha o seu
+amado, nem que seja velhinho.
+"(riso)
+
+P - E as suas filhas sabem?
+R- Claro que sabem!
+P - E seu marido sabia?
+R- Não!
+Mas as filhas sabem, também porque também ele já não vive mais, então deixa saber, ué.
+Não tem mais problema!
+P - Agora me diga uma coisa, para a senhora mudar o assunto: lá na sua cidade tinha estação de rádio, ouvia rádio?
+R- Não.
+Tinha um...alto falante.
+Hoje acho que tem.
+P - Mas na época era auto falante, que ficava na praça.
+R- É, punha disco lá, cantava.
+P - E outra coisa, tinha jornalzinho, tinha revista, almanaque?
+O que que a senhora lia mais, almanaque, revista?
+R- Tinha.
+Revista.
+E ficava admirando aquelas moças bonitas que tinha na revista, que tinha vontade ser igual elas.
+P - E almanaque, tinha também?
+R- Tinha, <START:OBRA>Almanaque do Pensamento<END>.
+P - Como era <START:OBRA>Almanaque do Pensamento<END>?
+R- Não me lembro mais, sei que achava coisa da vida da gente, também achava de agricultura, também achava isso.
+Signo, não sei que lá mais, que nasceu em tal dia, tal coisa, não me lembro muito bem.
+Tinha também sobre agricultura, quando que planta, quando que colhe, que lua, essas coisas.
+E tinha o jornal.
+P - E dessa época, quando a senhora namorava ele, tem alguma música que a senhora lembra, que marca?
+R- Tem.
+P - Então, qual é a música?
+R- Do <START:PESSOA>Tonico<END> e do <START:PESSOA>Tinoco<END>, cantava lá no alto falante.
+P - Como era a música?
+R- Não era <START:PESSOA>Tonico<END> e <START:PESSOA>Tinoco<END> não, era...como é que era?
+"Sertanejo se eu pudesse, se papai do céu me desse um espaço para eu voar/Eu corria, eu corria, acabava com a tristeza só para não te ver chorar" É assim?
+"<START:OBRA>Saudade do Matão<END>" também, essa daí, mas a que mais é a "<START:OBRA>Sertaneja<END>".
+P - E outra coisa: qual é o maior sonho da senhora hoje?
+R- O meu sonho, ah, quero ter um carro, que eu não tenho.
+P - E não é encontrar o seu ex-namorado?
+R- Não, isso eu já desisti; ele pode ter uma família, pode não dar certo, né, porque se for uma pessoa como eu, entende, não fica com raiva, faz amizade até.
+Mas nem todo mundo são iguais, né?
+A gente não pode, não é preso.
+Porque se eu estou velhinha, ele também está e a mulher dele também deve estar; então é normal, se eu correr atrás de um velhinho, tem outra velhinha para ficar com ciúmes.
+Mas agora fosse eu, eu entedia.
+Bom, também não sei porque...
+
+P - Se a senhora tivesse que dizer alguma coisa para as pessoas, para os seus filhos, seus netos, seus bisnetos, para a geração mais nova que a senhora, o que que a senhora diria para eles hoje?
+R- O que eu diria ou o que que eu digo toda hora?
+P - Ou o que a senhora diz toda hora, melhor ainda.
+R- Que fuja da má companhia, que fuja das droga; que nem converse com gente estranha, que não pegue nem um doce, nenhuma bala na porta da escola.
+É isso que eu falo para todos os jovens; para os meus e para os dos outros, é isso que eu falo.
+P - Agora, me diga mais uma coisa: a senhora acha que foi importante ter registrado a sua história de vida hoje, aqui fazer esse depoimento?
+R- Acho, né, porque faz muito tempo que eu não converso assim com ninguém.
+Porque eu não converso com ninguém; eu não converso com ninguém, nem com vizinho, com ninguém.
+Então eu achei bom.
+Mas, sabe, não tem quem pergunte nada para mim, né?
+Só os netos que perguntam umas perguntinhas, eu respondo; às vezes nem espera eu dar a resposta e sai correndo.
+Então eu não converso.
+Só às vezes, quando eu encontro a minha irmã, então a gente conversa bastante, a gente sai junto, do contrário, ninguém conversa comigo.
+Eles, as vezes conversam e eu vou conversar também e meu papo é diferente, não interessa para eles, né, mas com os meus netos e com os amigos dos meus netos, eu falo quase todo dia, assim que eu tenho chance, eu estou dando conselho e falo: "Ainda não estou com <START:VALOR>100 anos<END>, mas eu já vivi <START:VALOR>100 anos<END>".
+Já sofri muito, tenho muito experiência, sou muito experimentada, muito sofrida, né, parece que eu tenho <START:VALOR>100 anos<END> de vida.
+P - Que que a senhora, hoje, depois desses <START:VALOR>100 anos<END> de vida, o que a senhora, se pudesse mudar alguma coisa na sua vida, o que a senhora mudaria?
+Que que eu mudaria?
+Só queria ter aquilo que falei para você, eu queria um carro, mas parece não dá para comprar, juntar dinheirinho, mas nunca que chega lá que dá, porque eu nunca tenho a quantia, o carro está lá mais para cima, então...
+
+P - A senhora gostaria de dizer mais alguma coisa para a gente gravar?
+R- Não sei, você que sabe, o que quiser perguntar, eu respondo.
+P - Tem alguma coisa que a senhora acha importante?
+P - O que o seu coração esteja com vontade de dizer mais alguma coisa?
+R- Por exemplo, eu posso fazer pergunta, assim?
+O que que tem aqui nessa casa?
+P - Aqui nesse prédio?
+Ah, tem atividades as mais variadas, tem cursos para músicos, para teatro, bailarino, tem vários cursos.
+R- Ensina a dançar?
+P - Ensina a dançar, inclusive tem um curso para terceira idade que ensina a dançar tango.
+R- E a gente consegue aprender?
+P - Consegue, a senhora tem vontade de fazer?
+Eu tenho vontade de aprender a dançar direitinho.
+P - <START:PESSOA>Dona Lázara<END>, muito obrigada pela ajuda, pelo trabalho da senhora e até uma outra ocasião.
+R- Desculpa aí viu?
+P - Não, nós é que agradecemos.
+--DOCSTART--
+<START:LOCAL>Projecto Vercial<END>
+<START:LOCAL>Projecto Vercial<END> A maior base de dados sobre literatura portuguesa Secções <START:PESSOA>Sophia de Mello Breyner Andresen<END> <START:ABSTRACCAO>Literatura Medieval<END>
+<START:ABSTRACCAO>Literatura Clássica<END>
+<START:ABSTRACCAO>Literatura Barroca<END>
+<START:ABSTRACCAO>Literatura Neoclássica<END>
+<START:ABSTRACCAO>Literatura Romântica<END>
+<START:ABSTRACCAO>Literatura Pós-Romântica<END>
+Correntes <START:TEMPO>do Século XX<END>
+<START:ABSTRACCAO>Literatura Actual<END>
+Nota Introdutória
+Índice de Autores
+Índice de Obras
+Outras Ligações
+Biblioteca Gráfica
+Letras &amp; Letras
+Curso de <START:ABSTRACCAO>Literatura<END>
+Fotos de <START:LOCAL>Portugal<END>
+Por favor, introduza a palavra ou
+expressão que deseja pesquisar:
+Obras integrais de autores portugueses
+<START:PESSOA>Sophia de Mello Breyner Andresen<END> nasceu no <START:LOCAL>Porto<END> <START:TEMPO>em 6 de Novembro de 1919<END>.
+Foi nessa cidade e na <START:LOCAL>Praia da Granja<END> que passou a sua infância e juventude.
+Frequentou <START:ABSTRACCAO>Filologia Clássica<END> na <START:ORGANIZACAO>Universidade de Lisboa<END>, mas não chegou a terminar o curso.
+Foi casada com o jornalista <START:PESSOA>Francisco Sousa Tavares<END> e mãe de cinco filhos, que a motivaram a escrever contos infantis.
+Motivos concretos e símbolos excepcionais para cantar
+o amor e o trágico da vida foi-os buscar ao mar e aos pinhais que contemplou na <START:LOCAL>Praia da Granja<END>; com a sua formação helenística, encontrou evocações do passado para sugerir transformações do futuro; pela sua constante atenção aos problemas do homem e do mundo, criou uma literatura de empenhamento social e político, de compromisso com o seu tempo e de denúncia da injustiça e da opressão.
+Foi agraciada com o <START:OUTRO>Prémio Camões<END> <START:TEMPO>em 1999<END>.
+Obras poéticas: <START:OBRA>Poesia<END> (<START:TEMPO>1944<END>), <START:OBRA>Dia do Mar<END> (<START:TEMPO>1947<END>), <START:OBRA>Coral<END>, (<START:TEMPO>1950<END>), <START:OBRA>No Tempo Dividido<END>, (<START:TEMPO>1954<END>), <START:OBRA>Mar Novo<END> (<START:TEMPO>1958<END>), <START:OBRA>Livro Sexto<END> (<START:TEMPO>1962<END>) <START:OBRA>Geografia<END> (<START:TEMPO>1967<END>) , <START:OBRA>Dual<END> (<START:TEMPO>1972<END>), <START:OBRA>Nome das Coisas<END> (<START:TEMPO>1977<END>), <START:OBRA>Musa<END> (<START:TEMPO>1994<END>), etc.
+Obras narrativas: <START:OBRA>O Cavaleiro da Dinamarca<END>, <START:OBRA>Contos Exemplares<END>, <START:OBRA>Histórias da Terra e do Mar<END>, <START:OBRA>A Floresta<END>, <START:OBRA>A Menina do Mar<END>, <START:OBRA>O Rapaz de Bronze<END>, <START:OBRA>A Fada Oriana<END> , etc.
+Voltar àpágina da <START:ABSTRACCAO>Literatura Actual<END>
+Pórtico | Nota Introdutória | Índice de Autores | Índice de Obras | Outras Ligações
+©1996-2002, <START:LOCAL>Projecto Vercial<END>.
+--DOCSTART--
+Agora vou-lhes descrever cada um dos planetas que acompanham a nossa <START:COISA>Terra<END>, em torno do <START:COISA>Sol<END>, desde que o mundo é mundo, e que são os grandes significadores astrológicos.
+<START:COISA>Júpiter<END>: o maior de todo o sistema; seu tamanho: <START:VALOR>12<END> vezes maior que a <START:COISA>Terra<END>.
+Sua revolução sideral (ou seja, em torno do <START:COISA>Sol<END>) é de <START:VALOR>12 anos<END>.
+Sua luz é azul e brilhante como <START:COISA>Vênus<END>.
+Tem <START:VALOR>11<END> satélites, sendo que três mais externos andam em sentido contrário aos outros.
+Existiam suposições de que esses três satélites fossem artificiais.
+Porém, a nave espacial <START:COISA>Surveyor<END> se aproximou o suficiente para poder pesquisá-los.
+A informação é de que possuem uma estrutura rochosa, de composição basáltica.
+<START:COISA>Plutão<END> apresenta muitos enigmas para a astronomia.
+Não se sabe se tem satélites e se ignora seu peso.
+Foi descoberto por cálculo matemático prévio, <START:TEMPO>em 18 de fevereiro de 1930<END>.
+As casas ou residências dos planetas, de que estamos falando, têm como referência os signos do zodíaco.
+O <START:COISA>Sol<END>, que é o grande rei dessa família, marca o signo regente de cada um de nós, conforme a casa que estiver visitando no dia do nosso nascimento.
+Assim, em cada ano, no mês de nosso aniversário, o <START:COISA>Sol<END> estará transitando na casa do nosso signo, ou seja, no nosso domicílio solar.
+<START:OUTRO>Touro<END> é o signo seguinte.
+O sol o visita <START:TEMPO>entre 21 de abril e 21 de maio<END>, domicílio de <START:COISA>Vênus<END>.
+Signo de terra, feminino e fixo.
+Já sabemos, portanto, que os planetas <START:COISA>Marte<END>, <START:COISA>Vênus<END>, e <START:COISA>Mercúrio<END> são os senhores dos três primeiros signos do zodíaco.
+Cabe interpretar agora os fatos emocionais que o posicionamento desses planetas poderia produzir.
+<START:COISA>Vênus<END>, Senhor de <START:OUTRO>Touro<END>, em <START:OUTRO>Aries<END>.
+<START:COISA>Vênus<END> é Senhor de <START:VALOR>2º<END> signo e também símbolo de aquisição no amor.
+Detesta estar na casa de <START:COISA>Marte<END>, tão enérgico, afiado, anguloso.
+<START:COISA>Vênus<END>, que não é impetuoso e tem linhas suaves, no elemento fogo fará com que o amor seja intenso, mas pouco feliz, pois vai adquirir a instabilidade e os excessos marcianos.
+Se tem urgência em começar, não se interessa em chegar ao fim, não permanece.
+O signo de <START:OUTRO>Câncer<END> é feminino, do elemento água, e seu Senhor é a <START:COISA>Lua<END>.
+Signo cardeal, simboliza o lar, e no corpo humano representa o estômago.
+O <START:VALOR>6º<END> signo é feminino da terra e sucedente.
+No corpo humano governa os intestinos e a saúde em geral.
+Signo do emprego e dos empregados, é governado por <START:COISA>Mercúrio<END>.
+O <START:VALOR>7º<END> signo é visitado pelo sol <START:TEMPO>entre 21 de setembro e 22 de outubro<END>, é cardeal, do ar, masculino.
+Domicílio de vênus, exerce autoridade sobre as leis, os contratos de longa duração (inclusive casamento).
+Confere sensibilidade para a beleza, mas também para a luta, e não raro os grandes generais são de libra.
+Estando em frente ao primeiro signo, <START:OUTRO>Libra<END> se refere ao relacionamento com o "tu".
+Não iremos colocar a posição de <START:COISA>Plutão<END>, pois nesse dia ele se encontrava em <START:OUTRO>Gêmeos<END>.
+<START:TEMPO>De 21 de janeiro a 21 de fevereiro<END> o <START:COISA>Sol<END> se encontra em aquário.
+Tem como regente <START:COISA>Urano<END> (tradicionalmente <START:COISA>Saturno<END>).
+Signo fixo, do ar e masculino.
+Gosta de novidades e ama a liberdade pessoal.
+É o <START:VALOR>11º<END> signo, científico por excelência, sobretudo na miniaturização e na eletrônica.
+Vamos agora enriquecer o nosso jogo, introduzindo a noção de ascendente.
+Assim como seu signo solar (<START:OUTRO>Aries<END>, touro etc. )
+é fixado pela data de nascimento, o seu ascendente é determinado pela hora em que você nasceu.
+Ao determinar a primeira casa (ascendente) pela hora do nascimento, o astrólogo fixará automaticamente as demais casas astrológicas, sempre no sentido anti-horário.
+Para calcular a ascendente, no entanto, sabemos que é necessário conhecer a hora do nascimento.
+Se você nasceu <START:TEMPO>no dia 22 de marco<END> <START:TEMPO>às 6 horas da manhã<END>, o seu ascendente é <START:OUTRO>Aries<END>, ou seja, o seu próprio signo solar.
+Digamos assim que o sol e o ascendente estão em conjunção:
+
+Apesar de no hemisfério <START:LOCAL>Sul<END>  nós visualizarmos o zênite ao norte, a interpretação astrológica é válida para os dois hemisférios.
 --DOCSTART--
     
+
 Uma nação de pedintes
+
     
+
 
       O
       <START:PESSOA>PRESIDENTE Sarkozy<END>
@@ -1111,7 +963,7 @@ Uma nação de pedintes
       <START:LOCAL>Paris<END>
       com uma frase grandiloquente sobre a necessidade urgente de criar um
       <START:ORGANIZACAO>Estado<END> palestiniano
-      <START:TEMPO>no fim de 2008<END>
+      no fim de <START:TEMPO>2008<END>
       .
 O
       <START:PESSOA>Presidente<END>
@@ -1121,7 +973,7 @@ Depois do falhanço esperado da cimeira de
       , um modo de
       <START:PESSOA>Condoleezza Rice<END>
       salvar a face e de a
-       <START:ORGANIZACAO>Administração<END>  americana
+      <START:ORGANIZACAO>Administração<END>  americana
       e a
       <START:ORGANIZACAO>Europa<END>
       continuarem a fingir que estão interessadas em resolver o conflito israelo-palestiniano e de lavarem as mãos de tudo o resto,
@@ -1134,7 +986,7 @@ Depois do falhanço esperado da cimeira de
       <START:LOCAL>Iraque<END>
       de braço dado com
       <START:PESSOA>Bush<END>
-      , continua a emitir piedades deste género, e diz que está <START:TEMPO>na altura<END> de resolver o problema e que ele pode ser resolvido.
+      , continua a emitir piedades deste género, e diz que está na altura de resolver o problema e que ele pode ser resolvido.
 <START:PESSOA>Blair<END>
       não sabe o que diz.
 A verdade é que não pode ser resolvido, já não pode, e não pode justamente nesta fase, quando os palestinianos têm não um mas dois governos e dois territórios, um ocupado pelos israelitas, a
@@ -1142,7 +994,7 @@ A verdade é que não pode ser resolvido, já não pode, e não pode justamente nesta
       , outro abandonado pelos israelitas e bombardeado pelos israelitas,
       <START:LOCAL>Gaza<END>
       .
-<START:TEMPO>Anos e anos<END>
+Anos e anos
       de destruição compulsiva de interlocutores, alguns moderados, e de opressão, fizeram do povo palestiniano uma nação de pedintes.
 <START:ORGANIZACAO>Gaza<END>
       subvive das esmolas iranianas, sauditas e dos
@@ -1267,8 +1119,8 @@ Como contribui para o problema sem contribuir para a solução, a
 A rematar o discurso, a
       <START:ORGANIZACAO>Europa<END>
       passa cheques.
-Os palestinianos habituaram-se a explorar esta fraqueza a seu favor e transformaram a sua reivindicação numa vitimização que lhes dá direito, <START:TEMPO>de tanto em tanto tempo<END>, a uma compensação monetária.
-Muitos milhões acabam, como <START:TEMPO>no tempo<END> de <START:PESSOA>Arafat<END>, em contas secretas e nos bolsos de uma oligarquia.
+Os palestinianos habituaram-se a explorar esta fraqueza a seu favor e transformaram a sua reivindicação numa vitimização que lhes dá direito, de tanto em tanto tempo, a uma compensação monetária.
+Muitos milhões acabam, como no tempo de <START:PESSOA>Arafat<END>, em contas secretas e nos bolsos de uma oligarquia.
 Tanto dinheiro não chega para comprar os palestinianos que não estão à venda.
 Os palestinianos vêem o
       <START:ABSTRACCAO>Muro<END>
@@ -1287,84 +1139,643 @@ E sem
       .
 <START:PESSOA>Clara Ferreira Alves<END>
     
+
   
 
   --DOCSTART--
+Quando foi para <START:LOCAL>Espanha<END> foi a primeira vez que saiu de casa dos seus pais ?
+Foi.
+Eu sempre gostei de aventuras.
+Este gostar de brincar e de aventuras é uma coisa que eu tenho de juventude, não sei porquê, talvez por sair muito cedo para <START:LOCAL>Linhais da Serra<END>, depois para a <START:LOCAL>Covilhã<END>.
+E em toda a parte tinha o meu grupo de amigos, com quem me dava bem, e também vi a ida para <START:LOCAL>Espanha<END> como uma aventura e disse: - «Vamos lá ver !»
+Como correu esse tempo que esteve em <START:LOCAL>Espanha<END> ?
+Olhe, não perdi o meu tempo, porque estudava, era o principal e depois, nós não gostávamos dos espanhóis.
+Eu vivi em <START:LOCAL>Espanha<END> em três partes.
+Espanha não é uma nação, é um conjunto de nações.
+Nós não gostamos é dos castelhanos.
+Nós quando falamos dos espanhóis, referimo-nos aos castelhanos.
+O meu pai também é da fronteira, ainda hoje não podem ver os castelhanos, porque o castelhano o que quer é mandar, quer sempre o pé em cima dos outros e ninguém aguenta isso.
+E olhe uma das razões porque se fundou <START:ORGANIZACAO>Portugal<END>, repare que <START:PESSOA>D.Afonso Henriques<END> vai por aí fora e a gente não sabe, nem ainda ninguém explicou, porque é que o português nunca quis ser castelhano.
+São psicologicamente diferentes.
+E o castelhano esteve à frente de <START:ORGANIZACAO>Espanha<END> e fez a união de <START:ORGANIZACAO>Espanha<END>.
+Em <START:LOCAL>Barcelona<END>, os catalães não podem com os castelhanos, e em <START:LOCAL>Bilbau<END> são os vascos que não podem com os castelhanos e os galegos também não, são mais nossos amigos do que dos castelhanos.
+Se <START:PESSOA>Filipe II<END> tem posto a capital em <START:LOCAL>Lisboa<END>, como ele pensou, e não pôs a capital em <START:LOCAL>Lisboa<END>, quando <START:ORGANIZACAO>Portugal<END> se uniu a <START:ORGANIZACAO>Espanha<END>, com medo da <START:ORGANIZACAO>Armada Inglesa<END>, e foi pôr <START:LOCAL>Madrid<END>, no meio de <START:LOCAL>Espanha<END>, onde não chegava a <START:ORGANIZACAO>Armada Inglesa<END>.
+Mas se ele tivesse posto em <START:LOCAL>Lisboa<END>, hoje éramos capazes de ser espanhóis porque os portugueses tem muito mais capacidade de unir os povos do que qualquer outra nação.
+Veja que os nosso impérios, o <START:LOCAL>Brasil<END> é tão grande com a <START:LOCAL>Europa<END> e não tem separatismos.
+O espanhol, o castelhano é <START:ABSTRACCAO>Colombia<END>, <START:ABSTRACCAO>Venezuela<END>, <START:ABSTRACCAO>Argentina<END>, tudo separado.
+E se arte portuguesa, é curioso que não é pelas armas que fazemos isso, e quando <START:TEMPO>em 1640<END>, os fidalgos em <START:LOCAL>Lisboa<END> proclamam a indepêndencia, o povo vai todo com eles e revolta-se.
+Nós sem <START:ORGANIZACAO>Marinha<END>, sem nada.
+O <START:ORGANIZACAO>Brasil<END>, a <START:ORGANIZACAO>África<END>, <START:ORGANIZACAO>Goa<END>, volta tudo sem <START:ORGANIZACAO>Marinha<END>.
+É esta arte dos portugueses em unir os povos, é uma coisa extraordinária e por isso, muitas vezes pergunto, como é que os romanos em três séculos acabaram com os lusitanos e uniram todos os povos e os àrabes estiveram cá sete séculos e não somos árabes ?
+Já me deram a explicação, é que os árabes ao princípio não eram fundamentalistas, vinham cá receber o tributo e iam-se embora, e como o tributo era menor que o dos visigodos não fez questão.
+Quando eles quiseram impor o islamismo já a reconquista ia por ai fora, já não conseguiram.
+Fizeram mártires em <START:LOCAL>Sevilha<END>, mas não conseguiram e foram postos de cá para fora.
+Isso são coisas interessantes e explicam muito da maneira de ser dos povos.
+Como eu estive na parte de <START:LOCAL>Castela<END> não me ligava muito com eles, ao passo que a minha vida em <START:LOCAL>Portugal<END>, eu vim para cá, para <START:LOCAL>Braga<END>, com <START:VALOR>18<END>/<START:VALOR>19 anos<END>.
+E a minha vida foi em <START:LOCAL>Braga<END>.
+Eu sou bracarense <START:TEMPO>desde 1934<END>.
+--DOCSTART--
+    
 
 
-<START:OBRA>Protocolo de Quioto<END> 
+      <START:PESSOA>HEIDEGGER<END>
+      e o 4-4-2: Foi,
+      ontem
+      , apresentado o livro «
+      <START:OBRA>Liderança - As Lições de José Mourinho<END>
+      » de
+      <START:PESSOA>Luís Lourenço<END>
+      , baseado na sua tese de mestrado.
+Segundo o autor,
+      <START:PESSOA>José Mourinho<END>
+      "é diferente por partir de um novo paradigma de pensamento, preconizado por
+      <START:PESSOA>Heidegger<END>
+      ou
+      <START:PESSOA>Morin<END>
+      , por exemplo, e o operacionalizar.
+Trata-se de um novo olhar para o
+      <START:ABSTRACCAO>Todo<END>
+      , que põe de parte a divisão e análise das partes e o pensamento cartesiano
+      de há quatro séculos
+      ".
+Cada vez que leio isto (e faço-o
+      várias vezes ao dia
+      , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de
+      <START:LOCAL>Stanford Bridge<END>
+      :
+    
+
+    
 
 
-<START:OBRA>Decreto 7/2002<END>, <START:TEMPO>de 25 de Março<END> que aprova o <START:OBRA>Protocolo de Quioto<END> à <START:OBRA>Convenção Quadro das Nações Unidas sobre Alterações Climáticas<END> 
-
-
-Documentos relacionados com o <START:OBRA>PNALE<END>
-
-
-Decisão da <START:ORGANIZACAO>Comissão Europeia<END> sobre o <START:OBRA>PNALE<END> português
-
-
-Comunicado de imprensa da <START:ORGANIZACAO>COMISSÃO<END> - "<START:OUTRO>Comércio de Emissões<END>: a <START:ORGANIZACAO>Comissão<END> deu o seu aval a mais oito planos, abrindo caminho para o início do <START:OUTRO>Comércio de Emissões<END> na data prevista" (IP/04/1250)
-
-
-<START:OBRA>Plano Nacional de Atribuição de Licenças de Emissão<END> - <START:OBRA>PNALE 2005-2007<END>  (versão notificada à <START:ORGANIZACAO>Comissão Europeia<END>)
-
-
-
-<START:OBRA>PNALE 2005-2007 - Relatório da Consulta Pública <END> 
-
-
-<START:OBRA>Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007<END>  
-
-
-Documentos relacionados com o <START:OUTRO>Comércio Europeu de Licenças de Emissão<END>
-
-
- Directiva 2003/87/CE do <START:ORGANIZACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO>Concelho<END>, <START:TEMPO>de 13 de Outubro de 2003<END>, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL>Comunidade<END> e que altera a Directiva 96/61/CE do <START:ORGANIZACAO>Conselho<END> 
-
-
-<START:OBRA>Decreto-Lei n.º 233/2004<END>, <START:TEMPO>de 14 de Dezembro<END>, alterado pelo <START:OBRA>Decreto-Lei n.º 243-A/2004<END>, <START:TEMPO>de 31 de Dezembro<END>, que estabelece o regime de comércio de licenças de gases com efeito de estufa na <START:LOCAL>União Europeia<END>
-
-
-<START:OBRA>Decisão da Comissão n.º 156/2004<END>, <START:TEMPO>de 29 de Janeiro de 2004<END>, que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa
-
-
-Regulamento (CE) n.º 2216/2004 da <START:ORGANIZACAO>Comissão<END> <START:TEMPO>de 21 de Dezembro de 2004<END>, relativo a um sistema de registos normalizado e protegido em conformidade com a <START:OBRA>Directiva 2003/87/CE<END> do <START:ORGANIZACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO>Conselho<END> e a <START:OBRA>Decisão n.º 280/2004/CE<END> do <START:ORGANIZACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO>Conselho<END>
-
-
-International Emissions Trading Association, "Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme" (em inglês)
-
-
- <START:OBRA>Directiva 2004/101/CE<END> do <START:ORGANIZACAO>Parlamento Europeu<END> e do <START:ORGANIZACAO>Conselho<END>, <START:TEMPO>de 27 de Outubro de 2004<END>, que altera a <START:OBRA>Directiva 2003/87/CE<END> relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na <START:LOCAL>Comunidade<END>, no que diz respeito aos mecanismos baseados em projectos do <START:OBRA>Protocolo de Quioto<END>
-
-
+      - Eh pá, o
+      <START:PESSOA>Chelsea<END>
+      não merecia ter empatado este jogo.
+- Pois não.
+Mas a primeira parte foi tão má que parecia que o
+      <START:PESSOA>Mourinho<END>
+      não tinha lido «
+      <START:OBRA>O Ser e o Tempo<END>
+      ».
+- Quantas vezes é que o
+      <START:PESSOA>Heidegger<END>
+      avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?
+- Exacto.
+Meu amigo, se é para ver a nossa equipa voltar ao pensamento cartesiano, não contes mais comigo para vir ao estádio.
+- Calma.
+Também tens que perceber que estava nevoeiro.
+Se calhar, por isso é que, durante a primeira parte, o
+      <START:PESSOA>Mourinho<END>
+      não conseguiu ver o
+      <START:ABSTRACCAO>Todo<END>
+      .
+--DOCSTART--
+C o m p r a s .
+.
+.
+COMPRAS As melhores compras incluem os pulôveres das <START:LOCAL>Ilhas Aran<END>, os produtos de lã ( jaquetas, coletes, boinas, chapéus, saias), os cristais de <START:LOCAL>Waterford<END>, as cerâmicas, o artesanato em linho e as jóias e bijuterias inspiradas nos desenhos do <START:OBRA>Book of Kells<END> e nos mitos celtas.
+As plantas locais e a vida selvagem também são inspiração para essa arte.
+O <START:LOCAL>Condado de Galway<END> produz o <START:COISA>Claddagh<END> ring "tradicional anel de noivado " feito em ouro, prata ou em pedras.
+Os artefatos religiosos também valem ser destacados.
+Ler é uma paixão nacional, portanto existem excelentes livrarias.
+Em <START:LOCAL>Dublin<END>, a maior é a <START:ORGANIZACAO>Eason and Son<END>,que tem uma variedade enorme da literatura irlandesa.
+Os instrumentos musicais são feitos em várias regiões, mas o <START:LOCAL>Condado de Clare<END> é conhecido como "the singing county".
+As harpas são especialmente feitas em <START:LOCAL>Dublin<END> e <START:LOCAL>Mayo<END>.
+Nào poderia esquecer, é claro do whiskey e de algumas guloseimas como as algas marinhas secas, que são comidas cruas ou misturadas na comida.
+Em <START:LOCAL>Dublin<END> passeie no shopping St.
+Stephen's Green, na <START:LOCAL>Grafton Street<END> e na a O'Connell Street.
+Tem muitas lojas para apreciar.
+Em <START:LOCAL>Waterford<END>, visite a fábrica de cristais <START:ORGANIZACAO>Waterford<END> (<START:ORGANIZACAO>Waterford Crystal Factory<END>), que foi fundada <START:TEMPO>em 1783<END> e fica a <START:VALOR>2,5 km<END> ao sul do centro da cidade.
+Você verá o processo de fabricação das peças.
+O linho irlandês é famoso no mundo todo e de alcance inigualado.
+Há uma variedade enorme que inclui colchas extravagantes, toalhas de mesa encaracoladas, guardanapos, etc.
+Enfeites em linho com finos entrelaços estão por toda a <START:LOCAL>Irlanda<END>, mas principalmente em <START:LOCAL>Limerick<END> e <START:LOCAL>Kenmare<END>.
+--DOCSTART--
+Da <START:ORGANIZACAO>Reportagem Local<END>
+Uma boa opção de programas para quem tem drive de <START:COISA>CD-ROM<END> no computador é a linha de fotos da <START:ORGANIZACAO>Corel<END>.
+Composta por <START:VALOR>250<END> títulos em CD, a linha <START:COISA>Corel Photo CD<END> funciona em <START:COISA>PC<END> e <START:COISA>Macintosh<END>.
+Entre os títulos disponíveis no <START:LOCAL>Brasil<END> estão "<START:COISA>Fireworks<END>", com fotos de fogos de artifício, "<START:COISA>The Artic<END>" (neve e gelo) e "<START:COISA>Aviation Photography<END>" (aviões).
+Cada CD, com cem fotos de uso livre, custa <START:VALOR>R$ 29<END> na <START:ORGANIZACAO>CI-Compucenter<END>.
+--DOCSTART--
+<START:PESSOA>Kusturica<END>
+«<START:OBRA>Underground<END>»
+O público e a imprensa que viram «<START:OBRA>Underground<END>», de <START:PESSOA>Emir Kusturica<END>, no último <START:ACONTECIMENTO>Festival de Cannes<END>, verão de certa forma um outro filme quando a obra de <START:PESSOA>Kusturica<END> estrear comercialmente.
+Confirmando o que já corria quando o filme foi exibido em <START:ACONTECIMENTO>Cannes<END>, o cineasta vai regressar à sala de montagem para cortar <START:VALOR>cerca de 20 minutos<END> a essa obra demencial que recebeu a <START:OUTRO>Palma de Ouro de Cannes<END>, ex-aequo com «<START:OBRA>O Olhar de Ulisses<END>», de <START:PESSOA>Theo Angelopoulos<END>.
+Os <START:VALOR>192 minutos<END> de «<START:OBRA>Underground<END>» -- mais de três horas -- deverão ser reduzidos a <START:VALOR>cerca de 170 minutos<END>.
+O lançamento comercial do filme do realizador da <START:LOCAL>ex-Jugoslávia<END> está agora previsto <START:TEMPO>para Outubro<END> ou <START:TEMPO>Novembro<END>.
 --DOCSTART--
 
 
-Escola lança quadrinhos em prol do meio ambiente
+
+ <START:LOCAL>Lisboa<END> - <START:LOCAL>Dakar<END>: <START:PESSOA>Carlos Sousa<END> ambiciona pódio
 
 
-Fonte: Press Release  (<START:TEMPO>28/10/2003<END>)
 
 
-A <START:ACONTECIMENTO>Expotec 2003<END>,  <START:ACONTECIMENTO>Feira de Ciências e Cultura<END> da <START:ORGANIZACAO>Escola Fortec<END>, reuniu <START:VALOR>mais de 2000<END> pessoas na unidade 4, em <START:LOCAL>São Vicente<END> - Feira de Ciências e Cultura da Escola Fortec.
-Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina <START:ABSTRACCAO>Noções básicas de Histórias em Quadrinhos<END>, da <START:ORGANIZACAO>Associação dos Artistas - Música e Arte<END>.
-O evento contou com o lançamento do <START:OBRA>Zine Expotec 2003 - Meio Ambiente<END>, ilustrações e mascotes criados pelos alunos.
-Além da exposição, cada aluno criou sua mascote que virou camiseta.
-A oficina foi coordenada por <START:PESSOA>Fábio Tatsubô<END> com a monitoria de <START:PESSOA>André Prata<END>.
-Links Relacionados: <START:LOCAL>HQ Nacional<END>
+PILOTO PORTUGUÊS NÃO ESCONDE DESEJO E ELOGIA ORGANIZAÇÃO
 
 
-<START:ORGANIZACAO>Editora Rocco<END> lança <START:OBRA>Mulheres Alteradas 5<END> (<START:TEMPO>09/06/05<END>)
 
 
-Lançamento do mangá <START:OBRA>Fruits Basket<END> no <START:ACONTECIMENTO>Anima Weekend<END> (<START:TEMPO>07/04/05<END>)
+O piloto português <START:PESSOA>Carlos Sousa<END> revelou que tem "capacidade para chegar ao pódio" dos automóveis na edição de <START:TEMPO>2008<END> do  <START:LOCAL>Lisboa<END> - <START:LOCAL>Dakar<END> cujo percurso foi hoje apresentado em <START:LOCAL>Lisboa<END>.
+<START:PESSOA>Carlos Sousa<END> acredita que este ano o rali vai ser mais duro.
+"Vai ser um percurso para os mais resistentes.
+É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo", afirmou o piloto da <START:PESSOA>Lagos Team<END>, que vai conduzir um <START:COISA>Volkswagen Touareg<END> idêntico aos de fábrica.
+Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: "Há <START:VALOR>15 ou mais<END> pilotos com hipóteses de chegar à vitória e ao pódio.
+As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela <START:LOCAL>Internet<END> , mas para os pilotos vai ser uma luta até ao último dia".
+O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical em <START:TEMPO>Setembro<END>.
+No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições dentro de mês e meio, quando começar o rali.
+--DOCSTART--
+ Foi a primeira vez que veio a <START:LOCAL>Braga<END>?
+Foi a primeira vez e comecei aqui os meus estudos superiores.
+Qual a primeira imagem que teve de <START:LOCAL>Braga<END>?
+Como era a cidade?
+Era pequeníssima.
+Este monumento, <START:LOCAL>Biblioteca Pública<END>, que é dos mais antigos, mais belos de <START:LOCAL>Braga<END> eram os <START:LOCAL>Jardins do Paço Episcopal<END>.
+Na parte de baixo tinha uma capela, que depois tiraram, e aqui em cima uma parede alta que já foi o <START:PESSOA>Santos Silva<END> que a deitou abaixo.
+E já lhe disse:"O senhor criou o melhor monumento de <START:LOCAL>Braga<END> que não se vê."
+Essa rua, <START:LOCAL>Rua Eça de Queirós<END>, não existia, foi tirada dos <START:LOCAL>Jardins<END> deste <START:LOCAL>Palácio<END>, que era Episcopal, depois passou para <START:ORGANIZACAO>Biblioteca Pública<END> e depois para a <START:ORGANIZACAO>Universidade do Minho<END>.
+Como é que era a cidade?
+A prática cultural começou a desenvolver-se com a <START:ORGANIZACAO>Faculdade de Filosofia<END> e tivemos aí congressos nacionais.
+Até é curioso que o congresso foi promovido pela <START:ORGANIZACAO>Faculdade de Filosofia<END>, mas foi aqui realizado porque aqui era a <START:LOCAL>Biblioteca Pública<END>, era o sítio onde tínhamos possibilidades de reunir as pessoas.
+Como fez a viagem de <START:LOCAL>Espanha<END> para <START:LOCAL>Braga<END>?
+De comboio.
+Como foi essa viajem?
+Recordo-me da primeira vez que fui para <START:LOCAL>Oia<END> porque foi a primeira vez que vi o mar, que eu sou do interior.
+Da <START:LOCAL>Covilhã<END> para <START:LOCAL>Espanha<END> e depois para aqui.
+Quando eu vim para aqui ainda me lembra que a viajem foi de noite e chegou-se de madrugada, já vínhamos do <START:LOCAL>Porto<END> para <START:LOCAL>Caminha<END>.
+Eu lembro-me que nesse dia à noite eu fui e procurei apanhar a água do mar, tocar o mar pela primeira vez.
+É curioso tinha eu já <START:VALOR>18 anos<END>.
+Coisa que agora é inconcebivel porque a juventude de agora tem mais mobilidade que tinha naquele tempo.
+Veio para <START:LOCAL>Braga<END> para estudar?
+Para estudar <START:ABSTRACCAO>Filosofia<END>.
+--DOCSTART--
 
 
-<START:PESSOA>Turma da Mônica<END> será estrela de campanha internacional de vacinação (<START:TEMPO>30/03/05<END>)
+
+<START:TEMPO>2008<END>: preços de bens e serviços sobem acima da inflação
 
 
-<START:COISA>HQs<END> de <START:PESSOA>Velta<END> disponíveis em CD-Rom (<START:TEMPO>22/03/05<END>)
 
 
-Folclore brasileiro em estilo mangá (<START:TEMPO>03/03/05<END>)
+Os preços de diversos bens e serviços vão aumentar, no próximo ano, acima da inflação de <START:VALOR>2,1%<END> prevista pelo <START:ORGANIZACAO>Governo<END> para <START:TEMPO>2008<END>, com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos.
+A electricidade vai aumentar, de acordo com a proposta da <START:ORGANIZACAO>Entidade Reguladora dos Serviços Energéticos<END> (<START:ORGANIZACAO>ERSE<END>), aprovada pelo <START:ORGANIZACAO>Conselho Tarifário<END>, <START:VALOR>2,9%<END>, em média, em <START:LOCAL>Portugal Continental<END>, <START:VALOR>2,6%<END> nos <START:LOCAL>Açores<END> e <START:VALOR>4,9%<END> na <START:LOCAL>Madeira<END>.
+A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de <START:VALOR>1,08 euros<END> no próximo ano, mas os clientes industriais sofrerão um aumento médio de <START:VALOR>3,0%<END>, com maior peso para os de muita alta tensão (<START:OUTRO>MAT<END>) e alta tensão (<START:OUTRO>AT<END>) que terão uma subida de <START:VALOR>3,9%<END>.
+Os clientes de média tensão (<START:OUTRO>MT<END>) terão um aumento de <START:VALOR>2,7%<END>, enquanto os de baixa tensão especial (<START:OUTRO>BTE<END>), normalmente pequenas empresas, terão um aumento de <START:VALOR>2,5%<END>.
+Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo <START:ORGANIZACAO>Governo<END> é o do pão, que deverá aumentar <START:VALOR>10 a 15%<END> em <START:TEMPO>Janeiro<END> ou <START:TEMPO>Fevereiro<END>, segundo contas feitas pela direcção da  <START:ORGANIZACAO>Associação dos Industriais de Panificação, Pastelaria e Similares<END> do <START:LOCAL>Norte<END> (<START:ORGANIZACAO>AIPAN<END>).
+Em declarações à agência <START:ORGANIZACAO>Lusa<END>, <START:PESSOA>António Fontes<END>, da <START:ORGANIZACAO>AIPAN<END>, disse que o preço do pão terá de aumentar para fazer face à subida de <START:VALOR>92%<END> registada ao longo de <START:TEMPO>2007<END> no preço da matéria-prima de base (farinha).
+Desde o último aumento do preço do pão, em <START:TEMPO>Janeiro de 2004<END>, o preço da farinha mais do que duplicou, o das leveduras subiu <START:VALOR>40%<END>, o da energia <START:VALOR>25%<END>, o do gás <START:VALOR>32%<END>, o do gasóleo <START:VALOR>70%<END> e os custos com pessoal <START:VALOR>14%<END>, explicou.
+O preço do arroz, cujo consumo per capita em <START:LOCAL>Portugal<END> é o mais alto da <START:LOCAL>Europa<END>, deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores.
+A <START:ORGANIZACAO>Associação Nacional dos Industriais de Arroz<END> (<START:ORGANIZACAO>ANIA<END>) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em <START:LOCAL>Portugal<END> um acréscimo do valor por tonelada de <START:VALOR>200 a 230 euros<END> em <START:TEMPO>2006<END> para <START:VALOR>280 a 290 euros<END> este ano.
+Nos transportes públicos, a subida é, em média, de <START:VALOR>3,9%<END>, e nas portagens das auto-estradas será de <START:VALOR>2,6%<END>, também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar "até <START:TEMPO>15 de Novembro<END> as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida.
+Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de <START:VALOR>5 cêntimos<END>.
+O tabaco também vai pesar mais na carteira: o <START:ORGANIZACAO>Governo<END> decidiu em <START:TEMPO>2005<END> que o <START:OUTRO>Imposto sobre o Tabaco<END> teria um aumento médio anual de <START:VALOR>15%<END> até <START:TEMPO>2009<END> e, a partir de <START:TEMPO>Janeiro de 2008<END>, um maço das marcas mais comercializadas poderá mesmo aumentar, em média, <START:VALOR>30 cêntimos<END>.
+Sem contas fechadas, os <START:ORGANIZACAO>CTT<END> adiantam que «os preços dos serviços de correios não vão aumentar já em <START:TEMPO>Janeiro<END>» e, na água, o <START:ORGANIZACAO>Instituto Regulador das Águas e Resíduos<END> (<START:ORGANIZACAO>IRAR<END>) diz que o procedimento para <START:TEMPO>2008<END> está actualmente em curso, prevendo-se a sua conclusão em <START:TEMPO>Janeiro<END>.
+Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas no momento do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município.
+Mas nem tudo são más notícias, tendo em conta que o <START:OUTRO>Salário Mínimo Nacional<END> vai aumentar, a partir do dia <START:TEMPO>1 de Janeiro<END>, <START:VALOR>5,7%<END>, para <START:VALOR>426 euros<END>.
+O valor fixado insere-se no acordo tripartido assinado no ano passado e que prevê uma evolução significativa do salário mínimo, de modo a atingir os <START:VALOR>450 euros<END> em <START:TEMPO>2009<END> e os <START:VALOR>500 euros<END> em <START:TEMPO>2011<END>.
+O "<START:OUTRO>Indexante de Apoios Sociais<END> (<START:OUTRO>IAS<END>), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos <START:VALOR>407,4 euros<END>, o que traduz um crescimento de <START:VALOR>2,4%<END>,  a partir de <START:TEMPO>Janeiro<END> do próximo ano, segundo as contas feitas pela agência <START:ORGANIZACAO>Lusa<END>.
+Em relação à actualização das pensões atribuídas pelo sistema de  <START:ORGANIZACAO>Segurança Social<END>, as pensões de valor igual ou inferior a <START:VALOR>1,5 IAS<END> (<START:VALOR>611,10 euros<END>) são actualizadas em <START:VALOR>2,7%<END>, as pensões <START:VALOR>entre 1,5 IAS e 6 IAS<END> tem uma actualização de <START:VALOR>2,17%<END> e as pensões de valor superior a <START:VALOR>6 IAS<END> tem um aumento de <START:VALOR>1,88%<END>.
+Estes valores foram calculados com base na lei 53-B/2006, de <START:TEMPO>29 de Dezembro<END>, que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de <START:ORGANIZACAO>Segurança Social<END>.
+--DOCSTART--
+O Maior Encontro de Empresários do Pais
+Divulgação - <START:ORGANIZACAO>K.L.A.
+Eventos Empresariais<END> [kla@emailserver.com.br ]
+
+<START:LOCAL>Hotel Blue Tree Park<END> - <START:LOCAL>Angra dos Reis<END> - <START:LOCAL>R.J.<END>
+
+<START:PESSOA>João Dória Jr<END>
+
+entrevista
+
+<START:PESSOA>Luiza Helena Trajano<END>
+
+<START:PESSOA>Superintendente do Magazine Luiza<END>
+
+<START:PESSOA>Alberto Saraiva<END> Fundador e <START:PESSOA>Presidente<END>
+
+da rede <START:ORGANIZACAO>Habib´s<END>
+
+<START:PESSOA>Maria Silvia Bastos<END> <START:PESSOA>Ex-Presidente da Companhia Siderúrgica Nacional<END>
+
+<START:PESSOA>Içami Tiba<END> Autor do Livro
+
+«<START:OBRA>Quem Ama Educa<END>»
+
+<START:PESSOA>Famili Schurmann<END> Família de Velejadores
+
+<START:PESSOA>Christina Carvalho Pinto<END> <START:PESSOA>Sócia-Presidente do Grupo Full Jazz Comunicação<END> <START:PESSOA>Prof.
+Mauro Halfeld<END> Colunista e Autor do livro
+«<START:OBRA>Investimentos<END>»
+
+<START:PESSOA>Paulo Kretley<END> <START:PESSOA>Presidente da Franklin Covey Brasil<END>
+
+Conhecimento: <START:VALOR>8<END> dos maiores especialistas do <START:LOCAL>País<END> trazem até você as mais modernas tendências em: <START:ABSTRACCAO>Empreendedorismo<END>, <START:ABSTRACCAO>Vantagens Competitivas<END>, <START:ABSTRACCAO>Marketing e Marcas<END>, <START:ABSTRACCAO>Planejamento Estratégico<END>, <START:ABSTRACCAO>Liderança<END>, <START:ABSTRACCAO>Gestão de Pessoas<END>.
+Negócios: Grande oportunidade para gerar negócios e novas parcerias com <START:VALOR>500<END> empresários e executivos de todo o <START:LOCAL>País<END>.
+Lazer: Um mundo à parte no <START:LOCAL>Blue Tree Park<END> em <START:LOCAL>Angra dos Reis - R.J.<END>: quadras de tênis, ski aquático, vela, fitness, shows noturnos, tudo isso e muito mais.
+<START:TEMPO>2 a 5 de outubro de 2003<END>
+
+<START:LOCAL>Blue Tree Park<END>
+
+<START:LOCAL>Angra dos Reis<END> - R.J.
+Gostaria de receber mais informações?
+clique aqui
+
+<START:LOCAL>Av.
+Paulista<END>, 1159 conj.
+<START:LOCAL>São Paulo<END>- SP
+
+Você está recebendo este e-mail gratuito através da conta projecto@informatics.sintef.no.Para cancelar o recebimento de mensagens clique aqui.
+--DOCSTART--
+Lembro-me que foi <START:TEMPO>a trinta e um de Janeiro<END>, pois o levámos para casa do <START:PESSOA>capitão Galho<END> (era a mais próxima) e o jovem degredado recebeu-nos à porta, num sólido e frio mutismo de mármore.
+Como sempre, no aniversário da sua desgraça, trazia vestido o uniforme de gala e o peito refulgia com o esplendor das medalhas.
+Após uma larga hesitação fez sinal para que entrássemos e ele próprio tratou de ir buscar uma esteira onde estendemos o morto.
+O padre chegou nessa altura, ainda compondo a batina e resfolegando como um cavalo marinho; vinha afogado em suor, vacilante e desgrenhado, maldizendo alto a inclemência do <START:COISA>Sol<END>.
+Ao ver o capitão deteve-se com uma expressão de sincero desgosto:
+ Merda!
+-- exclamou -- tinha-me esquecido que hoje é <START:TEMPO>trinta e um de Janeiro<END>.
+Só nos atrevemos a sair com o nosso morto, para o levar à igreja, depois que o <START:COISA>Sol<END> começou a enfraquecer e o ar se encheu do canto ansioso das cigarras.
+Cá fora aguardava-nos o inevitável cortejo de carpideiras, "velhas senhoras industriadas", como gostava de repetir <START:PESSOA>Quipangala<END>, "no muito antigo e piedoso ofício de prantear a dor alheia".
+Nessa mesma noite baptizámos o estranho com o nome de <START:ABSTRACCAO>Lázaro<END>, rezámos por sua alma uma missa breve e ao entardecer do dia seguinte levámo-lo a enterrar com festiva pompa e circunstância.
+A banda do carpinteiro <START:PESSOA>Brito<END> acompanhou o féretro à frente de toda a população da vila, tocando para conforto geral as severas mas gradáveis marchas do costume.
+Fez o elogio do morto o velho <START:PESSOA>Quipangala<END>, conhecido aquém e além matos pelo fulgor do seu verbo, pela côncava voz de catástrofe e pela solenidade que pesa em tudo quanto dizia, ainda que nada de extraordinário tivesse para dizer.
+Para agrado de <START:PESSOA>Deus Nosso Senhor<END> e perpétuo logro de <START:PESSOA>Satanás, o Maldito<END>, criou para <START:PESSOA>Lázaro<END> uma vida novinha em folha, pródiga em devoções e em virtudes.
+Alongou-se em metáforas de inusitado brilho, falando do defunto como de um amigo de infância, recordando-nos a sua meninice ingénua, o mancebo grave e belo que ele havia sido.
+Ouvindo-o falar chorámos com ele lágrimas autênticas, já <START:PESSOA>Lázaro<END> se fazia parente de todos, já com a sua morte se extinguia irremissivelmente algo de nós.
+Estávamos nisto quando principiou a crescer do rio um grande rumor de vozes.
+Ninguém se voltou ou desfez a compostura; mas em breve o alarido se tornou mais forte que a poderosa voz do orador e logo se fez tão claro que antes mesmo de vermos surgir os primeiros homens (eram serviçais que trabalhavam na construção da ponte) já todos tínhamos compreendido do que se tratava.
+Dessa vez o rio trouxera um cadáver de ossos acanhados, que podia ser de uma criança ou de uma mulher.
+Porém, este tinha já qualquer coisa de insensato: perdera quase inteiramente a cor, e o rosto (porque demasiado inchado?)
+não apresentava formas.
+Mesmo assim demos-lhe o nome de <START:ABSTRACCAO>Ofélia<END> e repetimos com ela o que fizéramos a <START:PESSOA>Lázaro<END>.
+Todavia a missa foi pobre e às exéquias faltou o lustro habitual.
+<START:PESSOA>Quipangala<END> tinha bebido em excesso e parecia um funâmbulo tentando a custo equilibrar-se nas altas pernas de garça.
+Ao invés do esperado elogio da morta quis produzir uma espécie de longa alegoria sobre a beleza da <START:ABSTRACCAO>Mulher<END>, mas depressa se tornou evidente que falava não da infeliz <START:PESSOA>Ofélia<END>, triste e desconjuntada na sua gaiola de tábuas, e sim da jovem e exuberante esposa do chefe do concelho, <START:PESSOA>Angelina Santoni<END>, por quem alimentava desde há anos uma pública paixão de adolescente.
+--DOCSTART--
+
+
+
+COISAS DA <START:OBRA>SÁBADO<END>: NÃO HÁ MAL QUE SEMPRE DURE, NEM BEM QUE NUNCA ACABE
+
+
+
+
+1.
+Acabou para <START:PESSOA>Sócrates<END> o alibi dos governos anteriores.
+Com excepcionais condições de governação, com maioria absoluta, com o show europeu para dar dimensão internacional, sem «forças de bloqueio» na <START:PESSOA>Presidência<END>, com uma oposição nos dois primeiros anos muito mais responsável do que alguma vez o <START:ORGANIZACAO>PS<END> foi, gozando de muitas simpatias e ainda de mais cumplicidades, mas agora são os resultados que se esperam.
+Os primeiros resultados que se conhecem são todos maus com excepção do controlo do défice e mesmo aí parece (ao <START:ORGANIZACAO>Tribunal de Contas<END>) que as coisas também não são tão boas como se pensava.
+O empobrecimento dos portugueses continua e é um empobrecimento sem esperança.
+Como se todos fossem, a seu modo, um desempregado com quarenta anos.
+2.
+A propaganda governamental está a esgotar-se.
+<START:COISA>PowerPoint<END>, simulações de computador, assistências reverendas ou de casting, já só sobrevivem na <START:COISA>RTP<END> e nos  «momentos-"Chávez» .
+Os especialistas, as agências, os assessores, bem podem estudar novas fórmulas para «comunicar», que a teimosia dos factos erodiu as técnicas de propaganda que o governo e o <START:PESSOA>Primeiro-ministro<END> tem usado até à exaustâo.
+3.
+As reformas estilo <START:ABSTRACCAO>Sócrates<END> não passaram na maioria dos casos de medidas de contenção orçamental e, só em raros casos, foram medidas de verdadeira reforma.
+Mas quer as verdadeiras quer as falsas reformas foram sempre acompanhadas de um discurso de agressividade populista contra as classes e grupos profissionais destinatários -- funcionários públicos, professores, agentes da justiça, jornalistas -- que motivaram respostas corporativas.
+Este estilo agressivo colocou os grupos profissionais inteiros contra o governo em vez de os dividir entre sectores conservadores e «modernizadores», o que retirou eficácia às poucas reformas genuínas que se esboçaram.
+4.
+Três programas emblemáticos caracterizaram este governo: o <START:OBRA>Plano Tecnológico<END>, o <START:OBRA>Simplex<END> e as «<START:OBRA>Novas Oportunidades<END>».
+O que de melhor o governo <START:ORGANIZACAO>Sócrates<END> fez, passou por aqui.
+Talvez, de todos, o <START:OBRA>Simplex<END> tenha sido o que melhores resultados trouxe.
+Ainda é cedo para se fazer uma avaliação global, mas a simplificação burocrática conheceu um impulso sério.
+5.
+O <START:OBRA>Plano Tecnológico<END> traduz muito do deslumbramento de <START:PESSOA>Sócrates<END> e da sua geração pelo poder das tecnologias, e pela crença que as tecnologias tem efeitos sociais de per si.
+Não tem.
+São instrumentos que só actuam em contextos sociais próprios e muitos milhares de euros de material avariado, computadores, gadgets, estão por essas escolas e instituições públicas onde depois das belas sessões públicas de ofertas e inaugurações não se cuidou, por exemplo, da manutenção.
+Para além disso, ter banda larga em <START:LOCAL>Ferreira do Alentejo<END> é excelente se ela servir para alguma coisa, se as literacias para a usar existirem para além da ida à  <START:OUTRO>Internet<END>  para ver os sítios de futebol, pornografia e as fotografias da turma no <START:LOCAL>Hi5<END>.
+--DOCSTART--
+<START:ORGANIZACAO>Marfinite<END> - Origem -Quem Somos ?
+DADOS SOBRE A EMPRESA Colocada entre as três primeiras no «ranking» dos fabricantes de produtos moldados com injeção de termoplástico, a <START:ORGANIZACAO>MARFINITE<END> é uma empresa de capital <START:VALOR>100%<END> nacional, fundada <START:TEMPO>em 1961<END> e pode ser considerada a pioneira no ramo de termoplásticos a abrir pontos de venda em todo o país, <START:TEMPO>desde 1970<END>.
+Atualmente conta com <START:VALOR>250<END> revendedores espalhados por todo o território nacional.
+Tem loja e depósito instalados à <START:LOCAL>Rua Costa Aguiar<END>, 590, no bairro do <START:LOCAL>Ipiranga<END>, na capital paulista.
+Emprega diretamente <START:VALOR>600<END> pessoas.
+A administração, vendas e a fábrica da <START:ORGANIZACAO>MARFINITE<END> ficam em <START:LOCAL>Itaquaquecetuba<END>, na <START:LOCAL>Grande São Paulo<END>, num terreno de <START:VALOR>230 mil metros quadrados<END>, com <START:VALOR>25 mil metros quadrados<END> de área construída.
+Basicamente a empresa trabalha com injeção de termoplásticos (polipropileno e polietileno).
+Utiliza-se de resinas da indústria petroquímica nacional, que são modificadas na fábrica de <START:LOCAL>Itaquaquecetuba<END>, com cargas minerais, fibras e estabilizantes à luz, seguindo formulações tecnicamente das mais avançadas para acrescentar qualidade extra aos produtos.
+Possui <START:VALOR>mais de 60<END> máquinas de injeção, contando com equipamentos do tipo prensa <START:COISA>BATTENFELD<END>, capaz de produzir monoblocos de até <START:VALOR>35 Kg<END>.
+de plástico injetável por vez.
+A empresa tem capacidade instalada para produzir <START:VALOR>12.000 toneladas / ano<END>.
+Muito conhecida pelo grande público como produtora de móveis para jardim, praia e campo a <START:ORGANIZACAO>MARFINITE<END> conta com as seguintes linhas de produtos: a) móveis e objetos para exteriores: jardim, piscina, praia e campo b) móveis e objetos para interiores: indústria, comércio e residências c) caixas p / armazenagem, acondicionamento e transportes de produtos diversos e «containers» de vários tamanhos d) utensílios domésticos: com <START:VALOR>mais de 120<END> itens, que vão de bacias e baldes a potes térmicos e saladeiras centrífugas e) construção civil: caixas d' água com reservatórios com capacidade para até mil litros, bem como cones para sinalização de ruas, estradas e obras f) embalagens para indústria alimentícia.
+g) bolas de boliche e bilhar e esferas para desodorantes tipo "roll-on " <START:TEMPO>Em 1997<END> a <START:ORGANIZACAO>MARFINITE<END> tem como objetivo reforçar o plano de expansão de sua área comercial, ampliando seu leque de revendedores.
+Com a meta de aumentar seus pontos de venda, a <START:ORGANIZACAO>MARFINITE<END> abre perspectivas de negócios e geração de empregos, através de novos distribuidores no <START:LOCAL>Brasil<END> e no exterior que estejam interessados em vender no varejo suas múltiplas linhas de produtos.
+<START:TEMPO>Em 1996<END> seu faturamento foi da ordem de <START:VALOR>35 milhões de dólares<END>.
+A filosofia da empresa é a de sempre investir na produção e desenvolvimento de novos produtos.
+--DOCSTART--
+    
+
+
+      Na internet, no cinema, na TV, na
+      <START:LOCAL>Locadora<END>
+    
+
+    
+
+
+      <START:PESSOA>Carlos Gerbase<END>
+      faz parte de uma geração de cineastas que apareceu em
+      <START:LOCAL>Porto Alegre<END>
+      nos <START:TEMPO>anos 90<END>
+      , com a intenção de colocar o
+      <START:LOCAL>Rio Grande do Sul<END>
+      no mapa nacional da
+      <START:ABSTRACCAO>Sétima Arte<END>
+      .
+Através da
+       <START:ORGANIZACAO>Casa de Cinema<END> de <START:LOCAL>Porto Alegre<END>
+      , esse grupo produziu obras-primas como o curta-metragem
+      <START:OBRA>Ilha das Flores<END>
+      e apresentou para o país cineastas como
+      <START:PESSOA>Jorge Furtado<END>
+      , considerado um dos mais interessantes realizadores do cinema brasileiro atual.
+<START:PESSOA>Gerbase<END>
+      faz parte desse grupo e, mantendo a tradição, coloca mais uma questão para a produção nacional ao lançar seu novo filme
+      <START:OBRA>3 Efes<END>
+      simultaneamente no cinema, na TV, na internet e em DVD.
+"Só faltou a versão rádio", brincou ele, bem-humorado, com a reportagem do jornal fluminense
+      <START:ORGANIZACAO>O Globo<END>
+      .
+Segundo a sinopse oferecida pela produção do filme, "
+      <START:OBRA>3 Efes<END>
+      é uma comédia dramática que aborda as dificuldades - afetivas, financeiras e culturais - enfrentadas por um grupo de personagens que circula em torno de
+      <START:PESSOA>Sissi<END>
+      , uma jovem universitária que sustenta, a duras penas, o pai viúvo e o irmão pequeno.
+Nessa situação de dificuldade,
+      <START:PESSOA>Sissi<END>
+      recorre aos conselhos de sua tia,
+      <START:PESSOA>Martina<END>
+      , uma dona-de-casa entediada que, em meio a uma crise no seu casamento com o publicitário
+      <START:PESSOA>Rogério<END>
+      , fica irresistivelmente atraída por
+      <START:PESSOA>William<END>
+      , um simples catador de papel.
+<START:PESSOA>Rogério<END>
+      também está em apuros: sua última campanha publicitária deu errado, e agora ele precisa dar um jeito de salvar seu emprego - de qualquer jeito.
+Assim, sob todas essas pressões do cotidiano, os personagens acabam tomando importantes decisões que vão mudar muita coisa entre eles - e também provocar algumas situações inusitadas".
+O filme, que chegou ao público
+      no dia <START:TEMPO>7 de dezembro<END>
+      , já pode ser visto pelo site www.3efes.com.br.
+Confira a entrevista exclusiva com o
+      <START:PESSOA>diretor Carlos Gerbase<END>
+      :
+    
+
+  
+
+  --DOCSTART--
+    
+
+
+      Por que não lançar foguetões de água e aprender a fazer
+      <START:COISA>relógios de Sol<END> 
+      ?
+::
+      <START:TEMPO>2007-12-13<END>
+    
+
+    
+
+
+      Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar,
+      entre sexta-feira e domingo
+      , em
+      <START:LOCAL>Cascais<END>
+      , à disposição dos visitantes da
+      <START:ACONTECIMENTO>FASCINIO - Feira de Astronomia e Ciência<END>
+      .
+Organizada pelo
+      <START:ORGANIZACAO>Núcleo Interactivo de Astronomia<END>
+      (
+      <START:ORGANIZACAO>NUCLIO<END>
+      ) no
+       <START:LOCAL>Centro de Interpretação Ambiental<END> da <START:LOCAL>Ponta do Sal<END>
+      , em
+      <START:LOCAL>São Pedro do Estoril<END>
+      , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma "procura de asteróides", actividade que a instituição promove
+      regularmente
+      nas escolas do concelho.
+"A feira destina-se ao público em geral, embora o programa
+      de sexta-feira
+      esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e
+      sábado
+      tenha actividades para os professores, com uma pequena mostra das actividades do
+      <START:ORGANIZACAO>NUCLIO<END>
+      ", disse à
+      <START:PESSOA>Agência Lusa<END>
+      a astrónoma
+      <START:PESSOA>Rosa Doran<END>
+      .
+    
+
+    
+
+
+      "
+<START:TEMPO>Sexta-feira<END>
+      estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do
+      <START:COISA>Sol<END>
+      com
+      <START:COISA>Telescópios<END> 
+      e construir enfeites de <START:TEMPO>Natal<END> com motivos de astronomia", acrescentou.
+No sábado
+      o programa prevê observação de supernovas e do
+      <START:COISA>Sol<END>
+      e apresentação a professores do projecto '
+      <START:OBRA>Hands-On Universe<END>
+      ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito.
+Sol para Todos
+
+    
+
+
+      Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do
+       <START:ORGANIZACAO>Observatório Astronómico<END> da <START:ORGANIZACAO>Universidade<END> de <START:LOCAL>Coimbra<END>
+      
+      "
+      <START:OBRA>Sol para Todos<END>
+      ".
+"O
+      
+        <START:ORGANIZACAO>Observatório<END>
+        de
+        <START:LOCAL>Coimbra<END>
+      
+      tem um grande acervo de imagens do
+      <START:COISA>Sol<END>
+      , que registam
+      diariamente
+      desde os anos vinte do século passado
+      , e estão a digitalizar essas imagens para que possam estar à disposição das escolas", explica
+      <START:PESSOA>Rosa Doran<END>
+      , realçando que desta forma "os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol
+      nas últimas décadas
+      e comparar essa evolução, por exemplo, com as mudanças do clima".
+Segundo a responsável, um dos principais objectivos da
+      <START:ACONTECIMENTO>FASCINIO<END>
+      é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, "muito ligados" à investigação de vanguarda e pouco reconhecidos pelo grande público.
+[...]
+
+    
+
+A Nossa Galáxia
+
+    
+
+
+      O
+      <START:ORGANIZACAO>NUCLIO<END>
+      vai por isso assinar
+      sábado
+      um protocolo com a
+       <START:ORGANIZACAO>Câmara Municipal<END> de <START:LOCAL>Cascais<END>
+      para que o
+      <START:LOCAL>Centro de Interpretação Ambiental<END>
+      seja disponibilizado para as suas actividades junto da comunidade escolar.
+De acordo com o documento, a autarquia irá ainda apoiar a formação agendada
+      para o presente ano lectivo
+      com vinte mil euros
+      .
+Durante a feira será também apresentado o livro de divulgação científica "
+      <START:OBRA>Passeio Aleatório pela ciência do dia-a-dia<END>
+      ", com a presença do autor
+      <START:PESSOA>Nuno Crespo<END>
+      .
+Ainda
+      no sábado
+      , a investigadora do
+       <START:ORGANIZACAO>Centro de Astronomia<END>
+        da
+        <START:ORGANIZACAO>Universidade<END> do <START:LOCAL>Porto<END>
+      <START:PESSOA>Catarina Lobo<END>
+      , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra "
+      <START:ACONTECIMENTO>A nossa Galáxia e as outras: Ilhas no Universo<END>
+      ".
+No domingo
+      está previsto que o público em geral possa participar no lançamento de foguetões de água e em
+      <START:ACONTECIMENTO>Oficinas de Astronomia<END>
+      , com a construção de
+      <START:COISA>Relógios de Sol<END> 
+      ,
+      <START:COISA>Espectroscópios<END> 
+      ,
+      <START:COISA>Astrolábios<END> 
+      ,
+      <START:COISA>Planisférios<END> 
+      e outros materiais de observação.
+A iniciativa termina com uma palestra por
+      <START:PESSOA>João Fernandes<END>
+      , o coordenador nacional do ano internacional da astronomia, que se assinala
+      em <START:TEMPO>2009<END>
+      .
+--DOCSTART--
+<START:ORGANIZACAO>RCM<END> - <START:ORGANIZACAO>Rádio do Concelho de Mafra<END>
+Entrada Sobre a <START:ORGANIZACAO>RCM<END> Links Opinião
+A Primavera da Guerra
+Definir como Homepage Adicionar a Favoritos
+Guerra no <START:LOCAL>Iraque<END>
+A guerra no <START:LOCAL>Iraque<END> está a mobilizar e a apaixonar a opinião pública mundial.
+A <START:ORGANIZACAO>RCM<END> gostaria de ouvir o <START:PESSOA>Concelho de Mafra<END> sobre um assunto
+de vital importância para toda a comunidade internacional; consulte a página de Opinião e diga-nos o que pensa sobre este conflito.
+Formação Profissional é a melhor opção
+Os alunos com o <START:VALOR>12º<END> ano que não querem seguir o <START:ABSTRACCAO>Ensino Superior<END> devem apostar na formação profissional antes de começarem a trabalhar.
+A mensagem foi deixada pela orientadora do workshop de <START:ACONTECIMENTO>Técnicas de Procura de Emprego<END>, terça-feira, em <START:LOCAL>Mafra<END>.
+<START:TEMPO>9-4-2003<END> <START:TEMPO>18:36<END> <START:VALOR>0<END> Comentários
+?
+<START:ABSTRACCAO>Paz<END> sim, <START:ABSTRACCAO>Guerra<END> não!?
+Os alunos da <START:ORGANIZACAO>Escola Secundária José Saramago<END> juntaram-se contra a <START:ABSTRACCAO>Guerra<END> e a violência.
+No <START:VALOR>21º<END> dia de confrontos no <START:LOCAL>Iraque<END>, alunos e professores percorreram algumas ruas da vila de <START:LOCAL>Mafra<END>, distribuíram folhetos e soltaram pombas brancas a favor da <START:ABSTRACCAO>Paz<END>.
+<START:TEMPO>9-4-2003<END>
+<START:TEMPO>18:34<END> <START:VALOR>0<END> Comentários
+Crescimento do concelho faz disparar desemprego
+O director do <START:ORGANIZACAO>Centro de Emprego de Torres Vedras<END> justifica o aumento do desemprego no concelho de <START:LOCAL>Mafra<END> com a procura crescente de que este concelho é alvo por parte de pessoas da <START:LOCAL>Grande Lisboa<END> que vêm residir para <START:LOCAL>Mafra<END> e continuam a trabalhar na capital.
+<START:TEMPO>9-4-2003<END>
+<START:TEMPO>18:28<END> <START:VALOR>0<END> Comentários <START:ACONTECIMENTO>Jornadas da Juventude<END> animam <START:TEMPO>mês de Abril<END>
+Teatro, cinema, desporto, pintura, música e workshops de orientação profissional dominam o programa comemorativo do <START:ACONTECIMENTO>Mês da Juventude<END>, numa iniciativa da <START:ORGANIZACAO>Câmara Municipal de Mafra<END>.
+<START:TEMPO>28-3-2003<END> <START:TEMPO>11:31<END> <START:VALOR>0<END> Comentários
+Cavalos dão espectáculo na <START:ACONTECIMENTO>Semana Equestre<END>
+De entre as iniciativas deste fim-de-semana, há uma que merece destaque: o espectáculo de bem cavalgar a toda a sela.
+A <START:ACONTECIMENTO>Semana Equestre Militar<END> está de volta ao <START:ORGANIZACAO>Centro Militar de Mafra<END> com a presença de mais de duzentos cavaleiros.
+<START:TEMPO>28-3-2003<END> <START:TEMPO>11:27<END> <START:VALOR>0<END> Comentários
+Ampliar Foto
+EDITORIAL EDITORIAL
+A Primavera da Guerra
+<START:TEMPO>9-4-2003<END> <START:TEMPO>17:44<END> Topo da página
+Entrada Contactos Publicidade Browser: <START:COISA>I.Explorer<END> ?
+Definição: <START:VALOR>800x600<END>
+Webmaster <START:ORGANIZACAO>RCM<END> Inscreva-se aqui no Guia Comercial
+
+
+--DOCSTART--
+    
+
+
+      <START:ACONTECIMENTO>Restauração da Independência<END>
+    
+
+    
+
+
+      <START:ACONTECIMENTO>Guerra da Restauração<END>
+    
+
+    
+
+
+      Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta
+      de <START:TEMPO>1640<END>
+      , na qual um grupo de conspiradores da nobreza aclamou o
+        <START:PESSOA>duque de Bragança<END>
+      como
+      
+        <START:PESSOA>Rei<END> de
+        <START:LOCAL>Portugal<END>
+      
+      , com o título de
+      <START:PESSOA>D.
+João IV<END>
+      (
+      <START:TEMPO>1640-1656<END>
+      ), dando início à quarta
+        <START:PESSOA>Dinastia<END>
+      --
+      <START:PESSOA>Dinastia de Bragança<END>
+      .
+O esforço nacional foi mantido
+      durante vinte e oito anos
+      , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de
+      <START:PESSOA>Filipe III<END>
+      e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo
+      em <START:TEMPO>1668<END>
+      .
+Esses anos foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na
+      <START:LOCAL>Catalunha<END>
+      , os esforços diplomáticos da
+      <START:ORGANIZACAO>Inglaterra<END>
+      ,
+      <START:ORGANIZACAO>França<END>
+      ,
+      <START:ORGANIZACAO>Holanda<END>
+      e
+      <START:ORGANIZACAO>Roma<END>
+      , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa.
+Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do
+      <START:LOCAL>Brasil<END>
+      , como também de
+      <START:LOCAL>Angola<END>
+      e de
+      <START:LOCAL>São Tomé e Príncipe<END>
+      (
+      <START:TEMPO>1641-1654<END>
+      ), restabelecendo o poder atlântico português.
+No entanto, as perdas no
+      <START:LOCAL>Oriente<END>
+      tornaram-se irreversíveis e
+      <START:LOCAL>Ceuta<END>
+      ficaria na posse dos
+      <START:PESSOA>Habsburgo<END>
+      .
+Devido a estarem indisponíveis as mercadorias indianas,
+      <START:ORGANIZACAO>Portugal<END>
+      passou a só obter lucro com a cana-de-açúcar do
+      <START:LOCAL>Brasil<END>
+      .

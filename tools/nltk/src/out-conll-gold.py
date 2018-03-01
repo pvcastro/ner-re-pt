@@ -11,8 +11,8 @@ else:
 
 file_str = open(filein, 'r').read().decode(encoding)
 
-file_str = re.sub(r"--DOCSTART--\t--DOCSTART--\n", '', file_str)
-file_str = re.sub(r"--SENTENCE--\t--SENTENCE--\n", '', file_str)
+file_str = re.sub(r"--DOCSTART--\t--DOCSTART--", '', file_str)
+file_str = re.sub(r"--SENTENCE--\t--SENTENCE--", '', file_str)
 
 # output to file
 f = open(fileout, 'w')
