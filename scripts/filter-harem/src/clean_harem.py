@@ -44,7 +44,7 @@ def remove_attrib(tree,attr):
   for el in tree.iter():
     el.attrib.pop(attr, None)
 
-attr_name = ['TIPO','SUBTIPO','COREL','TIPOREL','ID','COMENT']
+attr_name = ['TIPO','SUBTIPO','COREL','TIPOREL','ID','COMENT','PHSH']
 for at in attr_name:
   remove_attrib(tree,at)
 
