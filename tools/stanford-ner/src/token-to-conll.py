@@ -15,7 +15,7 @@ f.close()
 ###### SET CATEGORIES #######
 patternBegin = re.compile(ur"<EM\sCATEG=\"(\w+)\">", re.U)
 patternEnd = re.compile(r"</EM>")
-ignorePattern = re.compile(r"<P>|</P>|<DOC\sDOCID=\".+\">|</DOC>", re.U)
+ignorePattern = re.compile(r"<p>|</p>|<P>|</P>|<DOC\sDOCID=\".+\">|</DOC>", re.U)
 insideEntity = False
 to_file = ""
 to_clean_file = ""
