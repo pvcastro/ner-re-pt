@@ -27,7 +27,7 @@ for line in file.splitlines()[3:-1]:
 	elif insideEntity and patternEnd.match(line): # end tag, finish tagging
 		begin = False
 		insideEntity = False
-	elif insideEntity: # tag 
+	elif insideEntity: # tag
 		to_file += line + '\t' + entityClass + '\n'
 		to_clean_file += line + '\n'
 	elif (not insideEntity) and patternEnd.match(line): # close tag for cases where entities had no category DEPRECATED
@@ -35,8 +35,15 @@ for line in file.splitlines()[3:-1]:
 	elif (not insideEntity) and ignorePattern.match(line): # ignore paragraphs and documents
 		continue
 	else: # not tagging
-		to_file += line + '\tO\n'
-		to_clean_file += line + '\n'
+		line = line.replace(u'*NL*', '')
+		if line.startswith('<colHAREM'):
+			line = u''
+		if line is u'':
+			to_file += line + '\n'
+			to_clean_file += line + '\n'
+		else:
+			to_file += line + '\tO\n'
+			to_clean_file += line + '\n'
 
 # deal with non-break character, only occurs once
 to_file = re.sub(ur'25\s680/2000\t(\w+)\n', r'25\t\1\n680/2000\t\1\n', to_file, 1, re.U)
