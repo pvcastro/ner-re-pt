@@ -1,12 +1,8 @@
-
-
 <p>	O
-
 
 Nuno	B-PESSOA
 Ãlvares	I-PESSOA
 Pereira	I-PESSOA
-
 
 </p>	O
 
@@ -17,7 +13,6 @@ Biografia	O
 </p>	O
 
 <p>	O
-
 
 Nuno	B-PESSOA
 Ãlvares	I-PESSOA
@@ -57,11 +52,9 @@ Carvalhal	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Casou	O
 com	O
@@ -92,11 +85,9 @@ Azambuja	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Quando	O
 o	O
@@ -166,14 +157,12 @@ filho	O
 ilegÃ­timo	O
 de	O
 
-
 Pedro	B-PESSOA
 I	I-PESSOA
 
 de	O
 
 Portugal	B-LOCAL
-
 
 ,	O
 
@@ -222,7 +211,6 @@ Avis	I-PESSOA
 
 nomeia-o	O
 
-
 CondestÃ¡vel	O
 
 de	O
@@ -237,11 +225,9 @@ OurÃ©m	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 gÃ©nio	O
@@ -262,11 +248,9 @@ Aljubarrota	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 gÃ©nio	O
@@ -287,11 +271,9 @@ Aljubarrota	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 6	O
@@ -315,13 +297,11 @@ Coimbra	B-LOCAL
 
 como	O
 
-
 Rei	O
 
 de	O
 
 Portugal	B-LOCAL
-
 
 .	O
 Esta	O
@@ -396,11 +376,9 @@ do	O
 paÃ­s	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 14	O
@@ -505,13 +483,11 @@ da	O
 morte	O
 de	O
 
-
 JoÃ£o	B-PESSOA
 
 de	O
 
 Castela	B-LOCAL
-
 
 ,	O
 dedicou-se	O
@@ -543,11 +519,9 @@ novos	O
 ataques	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Do	O
 seu	O
@@ -625,9 +599,7 @@ religiosa	O
 carmelita	O
 .	O
 
-
 </p>	O
-
 
 
 Nihonline	O
@@ -1102,9 +1074,7 @@ direitos	O
 reservados	O
 
 
-
 <p>	O
-
 
 Protocolo	O
 de	O
@@ -1113,7 +1083,6 @@ Quioto	O
 </p>	O
 
 <p>	O
-
 
 Decreto	O
 7/2002	O
@@ -1142,7 +1111,6 @@ ClimÃ¡ticas	O
 
 <p>	O
 
-
 Documentos	O
 relacionados	O
 com	O
@@ -1152,7 +1120,6 @@ PNALE	O
 </p>	O
 
 <p>	O
-
 
 DecisÃ£o	O
 da	O
@@ -1166,7 +1133,6 @@ portuguÃªs	O
 </p>	O
 
 <p>	O
-
 
 Comunicado	O
 de	O
@@ -1211,7 +1177,6 @@ IP/04/1250	O
 
 <p>	O
 
-
 Plano	O
 Nacional	O
 de	O
@@ -1236,7 +1201,6 @@ Europeia	I-ORGANIZACAO
 <p>	O
 
 
-
 PNALE	O
 2005-2007	O
 -	O
@@ -1248,7 +1212,6 @@ PÃºblica	O
 </p>	O
 
 <p>	O
-
 
 Metodologia	O
 de	O
@@ -1265,7 +1228,6 @@ PNALE	O
 
 <p>	O
 
-
 Documentos	O
 relacionados	O
 com	O
@@ -1280,7 +1242,6 @@ EmissÃ£o	O
 </p>	O
 
 <p>	O
-
 
 Directiva	O
 2003/87/CE	O
@@ -1331,7 +1292,6 @@ Conselho	B-ORGANIZACAO
 
 <p>	O
 
-
 Decreto-Lei	O
 n.Âº	O
 233/2004	O
@@ -1374,7 +1334,6 @@ Europeia	I-LOCAL
 
 <p>	O
 
-
 DecisÃ£o	O
 da	O
 ComissÃ£o	O
@@ -1411,7 +1370,6 @@ estufa	O
 </p>	O
 
 <p>	O
-
 
 Regulamento	O
 -LRB-	O
@@ -1465,7 +1423,6 @@ Conselho	B-ORGANIZACAO
 
 <p>	O
 
-
 International	O
 Emissions	O
 Trading	O
@@ -1498,7 +1455,6 @@ inglÃªs	O
 </p>	O
 
 <p>	O
-
 
 Directiva	O
 2004/101/CE	O
@@ -1559,9 +1515,7 @@ Quioto	O
 </p>	O
 
 
-
 <p>	O
-
 
 Mosteiro	B-LOCAL
 de	I-LOCAL
@@ -1571,7 +1525,6 @@ Clara-a-Velha	I-LOCAL
 </p>	O
 
 <p>	O
-
 
 O	O
 Mosteiro	B-LOCAL
@@ -1625,13 +1578,11 @@ Dias	I-PESSOA
 
 <p>	O
 
-
 HistÃ³ria	O
 
 </p>	O
 
 <p>	O
-
 
 Um	O
 curioso	O
@@ -1731,7 +1682,6 @@ capela-mor	O
 </p>	O
 
 <p>	O
-
 
 Ao	O
 mestre	B-PESSOA
@@ -1879,7 +1829,6 @@ altura	O
 
 <p>	O
 
-
 Este	O
 templo	O
 inscreve-se	O
@@ -1941,9 +1890,7 @@ Mosteiro	B-LOCAL
 </p>	O
 
 
-
 <p>	O
-
 
 Quadrinhos	O
 e	O
@@ -2084,7 +2031,6 @@ popular	O
 </p>	O
 
 <p>	O
-
 
 Sendo	O
 assim	O
@@ -2238,7 +2184,6 @@ tradicional	O
 
 <p>	O
 
-
 Ao	O
 levar	O
 para	O
@@ -2364,7 +2309,6 @@ grande	O
 
 <p>	O
 
-
 A	O
 quebra	O
 de	O
@@ -2485,7 +2429,6 @@ onomatopÃ©ias	O
 
 <p>	O
 
-
 ``	O
 mesmo	O
 que	O
@@ -2536,7 +2479,6 @@ skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee	O
 
 <p>	O
 
-
 eeeeeeeeeeeeeeeeeeeeeeeee	O
 -	O
 Nua	O
@@ -2566,7 +2508,6 @@ penada	O
 
 <p>	O
 
-
 ...	O
 Ã	O
 loucura	O
@@ -2589,7 +2530,6 @@ repetindo	O
 
 <p>	O
 
-
 VOCÃ	O
 ESTÃ	O
 MUITO	O
@@ -2598,7 +2538,6 @@ DOIDO	O
 </p>	O
 
 <p>	O
-
 
 e	O
 a	O
@@ -2610,7 +2549,6 @@ repetindo	O
 
 <p>	O
 
-
 VOCÃ	O
 Ã	O
 DEUS	B-PESSOA
@@ -2619,7 +2557,6 @@ DEUS	B-PESSOA
 </p>	O
 
 <p>	O
-
 
 Homem	O
 home	O
@@ -2651,7 +2588,6 @@ ra-a-a-a-a-ange	O
 
 <p>	O
 
-
 Tom	B-PESSOA
 Wolfe	I-PESSOA
 -	O
@@ -2666,7 +2602,6 @@ ElÃ©trico	O
 </p>	O
 
 <p>	O
-
 
 Essa	O
 foi	O
@@ -2893,7 +2828,6 @@ hoje	O
 
 <p>	O
 
-
 Fonte	O
 :	O
 Kung	O
@@ -2907,9 +2841,7 @@ http://kfl.blogspot.com/	O
 </p>	O
 
 
-
 <p>	O
-
 
 O	O
 
@@ -2926,11 +2858,9 @@ o	O
 
 BCP	B-ORGANIZACAO
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -2995,11 +2925,9 @@ tambÃ©m	O
 acreditem	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Artur	B-PESSOA
 Jorge	I-PESSOA
@@ -3090,11 +3018,9 @@ tambÃ©m	O
 claro	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 outro	O
@@ -3170,11 +3096,9 @@ Estado	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 isso	O
@@ -3333,11 +3257,9 @@ aos	O
 bolsos	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 outras	O
@@ -3362,22 +3284,17 @@ contribuintes	O
 portugueses	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Nicolau	B-PESSOA
 Santos	I-PESSOA
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Panda	B-ORGANIZACAO
 elege	O
@@ -3391,7 +3308,6 @@ de	O
 </p>	O
 
 <p>	O
-
 
 O	O
 laboratÃ³rio	O
@@ -3426,7 +3342,6 @@ de	O
 
 <p>	O
 
-
 Alguns	O
 exemplos	O
 da	O
@@ -3436,7 +3351,6 @@ lista	O
 </p>	O
 
 <p>	O
-
 
 -	O
 O	O
@@ -3505,7 +3419,6 @@ utilizadores	O
 
 <p>	O
 
-
 -	O
 ``	O
 O	O
@@ -3556,7 +3469,6 @@ computador	O
 
 <p>	O
 
-
 -	O
 A	O
 categoria	O
@@ -3596,7 +3508,6 @@ construÃ­das	O
 </p>	O
 
 <p>	O
-
 
 -	O
 O	O
@@ -3654,7 +3565,6 @@ segundos	O
 </p>	O
 
 <p>	O
-
 
 -	O
 O	O
@@ -3722,7 +3632,6 @@ encerrar-se-Ã¡	O
 
 <p>	O
 
-
 Ainda	O
 que	O
 algumas	O
@@ -3749,8 +3658,6 @@ malware	O
 </p>	O
 
 
-
-
 Navios	O
 de	O
 guerra	O
@@ -3759,7 +3666,6 @@ e	O
 espanhÃ³is	O
 em	O
 LeixÃµes	B-LOCAL
-
 
 Uma	O
 forÃ§a	O
@@ -3875,7 +3781,6 @@ exercÃ­cio	O
 Contex	O
 99	O
 .	O
-
 
 
 Detidos	O
@@ -4110,7 +4015,6 @@ rebeliÃ£o	O
 .	O
 
 
-
 MICROSOFT	B-ORGANIZACAO
 E	O
 LIVRARIAS	O
@@ -4121,7 +4025,6 @@ PARA	O
 E-BOOKs	O
 '	O
 .	O
-
 
 Ontem	O
 a	O
@@ -4394,7 +4297,6 @@ dos	O
 livros	O
 .	O
 
-
 -LRB-	O
 Los	B-ORGANIZACAO
 Angeles	I-ORGANIZACAO
@@ -4423,9 +4325,7 @@ Informacao	O
 ou	O
 
 
-
 <p>	O
-
 
 Lisboa	B-LOCAL
 -	O
@@ -4440,7 +4340,6 @@ pÃ³dio	O
 
 <p>	O
 
-
 PILOTO	O
 PORTUGUÃS	O
 NÃO	O
@@ -4453,7 +4352,6 @@ ORGANIZAÃÃO	O
 </p>	O
 
 <p>	O
-
 
 O	O
 piloto	O
@@ -4492,7 +4390,6 @@ Lisboa	B-LOCAL
 </p>	O
 
 <p>	O
-
 
 Carlos	B-PESSOA
 Sousa	I-PESSOA
@@ -4559,7 +4456,6 @@ fÃ¡brica	O
 </p>	O
 
 <p>	O
-
 
 Apesar	O
 de	O
@@ -4637,7 +4533,6 @@ dia	O
 
 <p>	O
 
-
 O	O
 portuguÃªs	O
 ,	O
@@ -4690,7 +4585,6 @@ rali	O
 </p>	O
 
 
-
 <p>	O
 
 Direitos	O
@@ -4699,7 +4593,6 @@ Fundamentais	O
 </p>	O
 
 <p>	O
-
 
 PÃ¶ttering	B-PESSOA
 
@@ -4720,11 +4613,9 @@ Fundamentais	O
 da	O
 UE	B-ORGANIZACAO
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 Presidentes	O
@@ -4820,11 +4711,9 @@ valores	O
 fundamentais	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Trata-se	O
@@ -4888,11 +4777,9 @@ Europeia	I-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Relembrando	O
 o	O
@@ -4942,11 +4829,9 @@ seguranÃ§a	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Com	O
@@ -5007,11 +4892,9 @@ Europeia	O
 declarou	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Hans-Gert	B-PESSOA
 PÃTTERING	I-PESSOA
@@ -5060,11 +4943,9 @@ europeia	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Sem	O
@@ -5107,11 +4988,9 @@ humanos	O
 concluiu	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 TambÃ©m	O
 o	O
@@ -5148,11 +5027,9 @@ europeia	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ''	O
 
@@ -5216,11 +5093,9 @@ Primeiro-Ministro	O
 portuguÃªs	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Manifestando-se	O
 ``	O
@@ -5299,11 +5174,9 @@ aplicados	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 
@@ -5360,11 +5233,9 @@ cidadÃ£os	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Para	O
 
@@ -5409,11 +5280,9 @@ respeitados	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Expressando	O
 ainda	O
@@ -5473,7 +5342,6 @@ a	O
 
 Carta	O
 
-
 Ã©	O
 proclamada	O
 --	O
@@ -5497,11 +5365,9 @@ estar	O
 acabada	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 O	O
@@ -5575,11 +5441,9 @@ pertencer	O
 concluiu	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 TambÃ©m	O
 o	O
@@ -5633,11 +5497,9 @@ paz	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 A	O
@@ -5691,11 +5553,9 @@ BARROSO	B-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Trata-se	O
@@ -5758,11 +5618,9 @@ valores	O
 concluiu	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Depois	O
 de	O
@@ -5792,11 +5650,9 @@ Estrasburgo	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 cerimÃ³nia	O
@@ -5888,11 +5744,9 @@ SÃCRATES	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -5939,11 +5793,9 @@ maneira	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 mesmo	O
@@ -6001,11 +5853,9 @@ Hitler	B-PESSOA
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Do	O
 grupo	O
@@ -6073,11 +5923,9 @@ futebol	O
 afirmou	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Francis	B-PESSOA
 WURTZ	I-PESSOA
@@ -6127,11 +5975,9 @@ esta	O
 afirmou	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 TambÃ©m	O
 o	O
@@ -6204,11 +6050,9 @@ desagradÃ¡veis	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Da	O
 mesma	O
@@ -6234,11 +6078,9 @@ permissÃ­vel	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Do	O
 grupo	O
@@ -6281,7 +6123,6 @@ vida	O
 democrÃ¡tica	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -6297,7 +6138,6 @@ http://www.eu2007.pt/UE/vPT/Noticias_Documentos/20071212DiscursoPM.htm	O
 </p>	O
 
 <p>	O
-
 
 Discurso	O
 de	O
@@ -6316,9 +6156,7 @@ dos	O
 Direitos	O
 Fundamentais	O
 
-
 </p>	O
-
 
 
 ...	O
@@ -6810,7 +6648,6 @@ Estadual	O
 250.082.764	O
 
 
-
 tenho	O
 16	O
 anos	O
@@ -6818,11 +6655,9 @@ de	O
 Banco	B-ORGANIZACAO
 .	O
 
-
 INGRESSO	O
 NO	O
 BNDES	B-ORGANIZACAO
-
 
 Eu	O
 entrei	O
@@ -6901,11 +6736,9 @@ em	O
 1986	O
 .	O
 
-
 TRAJETORIA	O
 NO	O
 BNDES	B-ORGANIZACAO
-
 
 Eu	O
 sempre	O
@@ -7046,7 +6879,6 @@ do	O
 financiamento	O
 posteriormente	O
 .	O
-
 
 AVALIAÃÃO	O
 DE	O
@@ -7335,14 +7167,11 @@ as	O
 empresas	O
 .	O
 
-
 VIVENCIAS	O
 NO	O
 BNDES	B-ORGANIZACAO
 
-
 Viagens	O
-
 
 Eu	O
 tenho	O
@@ -8115,10 +7944,8 @@ de	O
 .	O
 
 
-
 AVALIAÃÃO	O
 PESSOAL	O
-
 
 Significado	O
 do	O
@@ -8292,10 +8119,8 @@ do	O
 paÃ­s	O
 .	O
 
-
 Projeto	O
 MemÃ³ria	O
-
 
 Sobre	O
 o	O
@@ -8538,9 +8363,7 @@ aÃ­	O
 .	O
 
 
-
 HistÃ³ria	O
-
 
 As	O
 ilhas	O
@@ -8871,9 +8694,7 @@ financeiras	O
 internacionais	O
 .	O
 
-
 Geografia	O
-
 
 Situadas	O
 a	O
@@ -9060,7 +8881,6 @@ Sahara	B-LOCAL
 .	O
 
 
-
 EntÃ£o	O
 foi	O
 para	O
@@ -9069,7 +8889,6 @@ BÃ©lgica	B-LOCAL
 e	O
 depois	O
 ?	O
-
 
 AÃ­	O
 gostei	O
@@ -9088,7 +8907,6 @@ e	O
 inglesa	O
 .	O
 
-
 Como	O
 surgiu	O
 a	O
@@ -9104,7 +8922,6 @@ convite	O
 de	O
 alguÃ©m	O
 ?	O
-
 
 NÃ£o	O
 Ã©	O
@@ -9768,7 +9585,6 @@ universidade	O
 .	O
 
 
-
 <p>	O
 
 Prioridades	O
@@ -9790,7 +9606,6 @@ civil	O
 </p>	O
 
 <p>	O
-
 
 Desde	O
 2005	O
@@ -9843,11 +9658,9 @@ recentemente	O
 aprovado	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 acordo	O
@@ -9979,11 +9792,9 @@ protecÃ§Ã£o	O
 civil	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 2	O
 .	O
@@ -9993,11 +9804,9 @@ de	O
 Alerta	O
 Precoce	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 necessidade	O
@@ -10137,11 +9946,9 @@ de	O
 interligaÃ§Ãµes	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Para	O
 contribuir	O
@@ -10202,7 +10009,6 @@ se	O
 procurou	O
 :	O
 
-
 </p>	O
 
 <p>	O
@@ -10223,7 +10029,6 @@ alerta	O
 </p>	O
 
 <p>	O
-
 
 -	O
 identificar	O
@@ -10265,7 +10070,6 @@ lacunas	O
 identificadas	O
 ;	O
 
-
 </p>	O
 
 <p>	O
@@ -10297,7 +10101,6 @@ europeu	O
 </p>	O
 
 <p>	O
-
 
 Com	O
 base	O
@@ -10434,17 +10237,14 @@ Estados-Membros	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 3	O
 .	O
 CooperaÃ§Ã£o	O
 com	O
-
 
 PaÃ­ses	B-ORGANIZACAO
 do	I-ORGANIZACAO
@@ -10452,11 +10252,9 @@ MediterrÃ¢neo	I-ORGANIZACAO
 Sul	I-ORGANIZACAO
 
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 campo	O
@@ -10513,11 +10311,9 @@ ameaÃ§as	O
 terroristas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 outro	O
@@ -10593,11 +10389,9 @@ emergÃªncias	O
 passadas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Existe	O
 ,	O
@@ -10684,11 +10478,9 @@ exercÃ­cios	O
 conjuntos	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 De	O
 forma	O
@@ -10725,7 +10517,6 @@ informal	O
 entre	O
 os	O
 
-
 Directores-Gerais	O
 de	O
 ProtecÃ§Ã£o	O
@@ -10740,7 +10531,6 @@ MediterrÃ¢neo	I-ORGANIZACAO
 e	O
 os	O
 
-
 Directores-Gerais	O
 de	O
 ProtecÃ§Ã£o	O
@@ -10750,7 +10540,6 @@ da	O
 
 UniÃ£o	B-ORGANIZACAO
 Europeia	I-ORGANIZACAO
-
 
 .	O
 Essa	O
@@ -10819,7 +10608,6 @@ Civil	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -10835,7 +10623,6 @@ HumanitÃ¡ria	O
 </p>	O
 
 <p>	O
-
 
 Na	O
 sequÃªncia	O
@@ -10904,7 +10691,6 @@ tambÃ©m	O
 discutido	O
 no	O
 
-
 Grupo	B-ORGANIZACAO
 de	I-ORGANIZACAO
 Trabalho	I-ORGANIZACAO
@@ -10922,11 +10708,9 @@ Julho	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ApÃ³s	O
 intensas	O
@@ -11016,11 +10800,9 @@ como	O
 excepcional	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 5	O
 .	O
@@ -11031,11 +10813,9 @@ Directrizes	O
 de	O
 Oslo	O
 
-
 </p>	O
 
 <p>	O
-
 
 As	O
 
@@ -11124,11 +10904,9 @@ alternativas	O
 civis	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Conscientes	O
 de	O
@@ -11190,7 +10968,6 @@ obtido	O
 acordo	O
 no	O
 
-
 Grupo	O
 de	O
 Trabalho	O
@@ -11210,11 +10987,9 @@ esta	O
 matÃ©ria	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Nesta	O
 sequÃªncia	O
@@ -11268,7 +11043,6 @@ Civil	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -11281,7 +11055,6 @@ crÃ­ticas	O
 </p>	O
 
 <p>	O
-
 
 As	O
 conclusÃµes	O
@@ -11370,11 +11143,9 @@ CrÃ­ticas	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Neste	O
 sentido	O
@@ -11463,11 +11234,9 @@ Estado-Membro	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Na	O
 sequÃªncia	O
@@ -11617,11 +11386,9 @@ LigaÃ§Ã£o	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Neste	O
 contexto	O
@@ -11647,13 +11414,10 @@ Dezembro	O
 
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 FernÃ£o	B-PESSOA
 de	I-PESSOA
@@ -11662,7 +11426,6 @@ MagalhÃ£es	I-PESSOA
 </p>	O
 
 <p>	O
-
 
 FernÃ£o	B-PESSOA
 de	I-PESSOA
@@ -11765,7 +11528,6 @@ Elcano	I-PESSOA
 
 <p>	O
 
-
 Alista-se	O
 com	O
 25	O
@@ -11864,7 +11626,6 @@ especiarias	O
 
 <p>	O
 
-
 Tendo-se	O
 distinguido	O
 na	O
@@ -11938,7 +11699,6 @@ pedidas	O
 </p>	O
 
 <p>	O
-
 
 Em	O
 1517	O
@@ -12091,9 +11851,7 @@ homens	O
 </p>	O
 
 
-
 <p>	O
-
 
 Escola	O
 lanÃ§a	O
@@ -12108,7 +11866,6 @@ ambiente	O
 
 <p>	O
 
-
 Fonte	O
 :	O
 Press	O
@@ -12120,7 +11877,6 @@ Release	O
 </p>	O
 
 <p>	O
-
 
 A	O
 Expotec	O
@@ -12162,7 +11918,6 @@ Fortec	O
 
 <p>	O
 
-
 Um	O
 dos	O
 destaques	O
@@ -12203,7 +11958,6 @@ Arte	I-ORGANIZACAO
 
 <p>	O
 
-
 O	O
 evento	O
 contou	O
@@ -12243,7 +11997,6 @@ camiseta	O
 
 <p>	O
 
-
 A	O
 oficina	O
 foi	O
@@ -12263,7 +12016,6 @@ Prata	I-PESSOA
 
 <p>	O
 
-
 Links	O
 Relacionados	O
 :	O
@@ -12273,7 +12025,6 @@ Nacional	O
 </p>	O
 
 <p>	O
-
 
 Editora	B-ORGANIZACAO
 Rocco	I-ORGANIZACAO
@@ -12288,7 +12039,6 @@ Alteradas	O
 </p>	O
 
 <p>	O
-
 
 LanÃ§amento	O
 do	O
@@ -12305,7 +12055,6 @@ Weekend	O
 </p>	O
 
 <p>	O
-
 
 Turma	O
 da	O
@@ -12325,7 +12074,6 @@ vacinaÃ§Ã£o	O
 
 <p>	O
 
-
 HQs	O
 de	O
 Velta	B-PESSOA
@@ -12340,7 +12088,6 @@ CD-Rom	O
 
 <p>	O
 
-
 Folclore	O
 brasileiro	O
 em	O
@@ -12351,7 +12098,6 @@ mangÃ¡	O
 -RRB-	O
 
 </p>	O
-
 
 
 CONCURSO	O
@@ -12374,10 +12120,8 @@ INFORMAÃÃO	O
 E	O
 SOCIEDADE	O
 
-
 INSCRIÃÃES	O
 :	O
-
 
 PerÃ­odo	O
 :	O
@@ -12405,13 +12149,11 @@ InformaÃ§Ã£o/UFMG	I-LOCAL
 Sala	O
 4004	O
 
-
 Maiores	O
 informaÃ§Ãµes	O
 pelos	O
 telefones	O
 :	O
-
 
 -LRB-31-RRB-3499-5225	O
 /	O
@@ -12422,9 +12164,7 @@ fax	O
 -LRB-31-RRB-3499-5200	O
 
 
-
 <p>	O
-
 
 Biografia	O
 de	O
@@ -12432,11 +12172,9 @@ de	O
 Dead	O
 Fish	O
 
-
 </p>	O
 
 <p>	O
-
 
 Dead	O
 Fish	O
@@ -12467,7 +12205,6 @@ Brasil	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -12477,7 +12214,6 @@ HistÃ³ria	O
 </p>	O
 
 <p>	O
-
 
 Tudo	O
 comeÃ§ou	O
@@ -12702,11 +12438,9 @@ Em	O
 gravaram	O
 um	O
 
-
 CD	O
 Ao	O
 Vivo	O
-
 
 no	O
 
@@ -12917,13 +12651,10 @@ da	O
 carreira	O
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 China	B-ORGANIZACAO
 
@@ -12937,11 +12668,9 @@ telemÃ³veis	O
 em	O
 2008	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 
@@ -12972,11 +12701,9 @@ imprensa	O
 estatal	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -13019,11 +12746,9 @@ de	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 programa	O
@@ -13077,11 +12802,9 @@ Xinhua	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Segundo	O
 
@@ -13117,11 +12840,9 @@ entre	O
 outros	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 tecnologia	O
@@ -13156,11 +12877,9 @@ WCDMA	O
 -RRB-	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ainda	O
 nÃ£o	O
@@ -13214,9 +12933,7 @@ Unicom	I-ORGANIZACAO
 
 .	O
 
-
 </p>	O
-
 
 
 E	O
@@ -13232,7 +12949,6 @@ cÃ¡	O
 em	O
 Braga	B-LOCAL
 ?	O
-
 
 Isso	O
 foi	O
@@ -13839,7 +13555,6 @@ de	O
 distÃ¢ncia	O
 .	O
 
-
 Quem	O
 fazia	O
 parte	O
@@ -13847,7 +13562,6 @@ da	O
 comissÃ£o	O
 instaladora	O
 ?	O
-
 
 O	O
 professor	B-PESSOA
@@ -14099,7 +13813,6 @@ e	O
 em	O
 GuimarÃ£es	B-LOCAL
 .	O
-
 
 
 <p>	O
@@ -14784,7 +14497,6 @@ exterior	O
 </p>	O
 
 
-
 PolÃ©mica	O
 em	O
 Vila	B-LOCAL
@@ -15164,9 +14876,7 @@ Ave	B-LOCAL
 A.T.M.	B-PESSOA
 
 
-
 <p>	O
-
 
 O	O
 jardim	O
@@ -15195,20 +14905,16 @@ Tykwer	I-PESSOA
 
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 Roberto	B-PESSOA
 Azoubel	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 -LRB-	O
 Este	O
@@ -15243,11 +14949,9 @@ literatura	O
 .	O
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 Uma	O
 das	O
@@ -15276,15 +14980,12 @@ tarde	O
 .	O
 ''	O
 
-
 </p>	O
 
 <p>	O
 
-
 Walter	B-PESSOA
 Benjamim	I-PESSOA
-
 
 </p>	O
 
@@ -15296,7 +14997,6 @@ I1	O
 </p>	O
 
 <p>	O
-
 
 Com	O
 o	O
@@ -15385,11 +15085,9 @@ em	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 texto	O
@@ -15502,7 +15200,6 @@ Tykwer	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -15512,7 +15209,6 @@ II	O
 </p>	O
 
 <p>	O
-
 
 Para	O
 chegarmos	O
@@ -15601,11 +15297,9 @@ ser	O
 mÃºltipla	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 decorrer	O
@@ -15668,11 +15362,9 @@ como	O
 ilustraÃ§Ã£o	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Segundo	O
 
@@ -15812,11 +15504,9 @@ CALVINO	O
 -RRB-	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Outros	O
 romancistas	O
@@ -15921,11 +15611,9 @@ Bifurcam	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 conto	O
@@ -15992,11 +15680,9 @@ do	O
 tempo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 inÃ­cio	O
@@ -16176,11 +15862,9 @@ no	O
 conto	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ao	O
 chegar	O
@@ -16350,9 +16034,7 @@ BORGES	O
 -RRB-	O
 .	O
 
-
 </p>	O
-
 
 
 A	O
@@ -17317,7 +16999,6 @@ anos	O
 .	O
 
 
-
 Concelho	B-LOCAL
 de	I-LOCAL
 Moura	I-LOCAL
@@ -17686,4 +17367,3 @@ Reservados	O
 ResoluÃ§Ã£o	O
 aconselhada	O
 800x600	O
-

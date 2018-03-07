@@ -1,13 +1,7 @@
-
-
-
-
 Juventude	O
 em	O
 
 Durban	B-LOCAL
-
-
 
 
 
@@ -174,8 +168,6 @@ Emília	B-PESSOA
 
 
 
-
-
 É	O
 baptizado	O
 
@@ -290,8 +282,6 @@ Pessoa	I-PESSOA
 
 nasceu	O
 .	O
-
-
 
 
 
@@ -572,8 +562,6 @@ para	O
 a	O
 literatura	O
 .	O
-
-
 
 
 
@@ -867,8 +855,6 @@ e	O
 
 
 
-
-
 Faz	O
 o	O
 curso	O
@@ -1144,8 +1130,6 @@ passa	O
 
 
 
-
-
 Fernando	B-PESSOA
 Pessoa	I-PESSOA
 
@@ -1410,8 +1394,6 @@ resultados	O
 
 
 
-
-
 Volta	O
 definitiva	O
 a	O
@@ -1422,8 +1404,6 @@ e	O
 início	O
 de	O
 carreira	O
-
-
 
 
 
@@ -1585,8 +1565,6 @@ Vieira	I-PESSOA
 
 
 
-
-
 Em	O
 Agosto	O
 de	O
@@ -1691,8 +1669,6 @@ pública	O
 
 
 
-
-
 Inicia	O
 a	O
 sua	O
@@ -1738,8 +1714,6 @@ se	O
 seguiriam	O
 outros	O
 .	O
-
-
 
 
 
@@ -1894,17 +1868,12 @@ trará	O
 .	O
 
 
-
-
 Legado	O
-
 
 
 -LSB-	O
 ...	O
 -RSB-	O
-
-
 
 
 Analogamente	O
@@ -1990,8 +1959,6 @@ dispensar	O
 tal	O
 precisão	O
 .	O
-
-
 
 
 
@@ -2106,8 +2073,6 @@ Neruda	I-PESSOA
 
 
 
-
-
 Na	O
 comemoração	O
 do	O
@@ -2144,8 +2109,6 @@ vida	O
 
 
 
-
-
 -LSB-	O
 editar	O
 -RSB-	O
@@ -2155,8 +2118,6 @@ Pessoa	B-PESSOA
 e	O
 o	O
 ocultismo	O
-
-
 
 
 
@@ -2315,8 +2276,6 @@ horóscopos	O
 
 
 
-
-
 Certa	O
 vez	O
 ,	O
@@ -2438,11 +2397,8 @@ ensinava	O
 
 
 
-
-
 IX	O
 AMOR	O
-
 
 As	O
 cortinas	O
@@ -2454,7 +2410,6 @@ Cecília	B-PESSOA
 tinha-se	O
 deitado	O
 .	O
-
 
 Junto	O
 da	O
@@ -2481,7 +2436,6 @@ corações	O
 bem	O
 diferentes	O
 .	O
-
 
 Em	O
 Loredano	B-PESSOA
@@ -2558,7 +2512,6 @@ e	O
 brasão	O
 .	O
 
-
 Para	O
 destruir	O
 esta	O
@@ -2626,7 +2579,6 @@ de	O
 homens	O
 .	O
 
-
 O	O
 aventureiro	O
 compreendia	O
@@ -2690,7 +2642,6 @@ verdadeiro	O
 suplício	O
 .	O
 
-
 Em	O
 Álvaro	B-PESSOA
 ,	O
@@ -2738,7 +2689,6 @@ e	O
 lealdade	O
 .	O
 
-
 Sentir-se	O
 perto	O
 de	O
@@ -2785,7 +2735,6 @@ asas	O
 da	O
 esperança	O
 .	O
-
 
 Nesta	O
 noite	O
@@ -2850,7 +2799,6 @@ a	O
 sua	O
 prenda	O
 .	O
-
 
 Em	O
 Peri	B-PESSOA
@@ -2918,7 +2866,6 @@ uma	O
 realidade	O
 .	O
 
-
 Ao	O
 contrário	O
 dos	O
@@ -2979,7 +2926,6 @@ mesmo	O
 instante	O
 .	O
 
-
 Assim	O
 o	O
 amor	O
@@ -3012,7 +2958,6 @@ o	O
 uma	O
 religião	O
 .	O
-
 
 Loredano	B-PESSOA
 desejava	O
@@ -3057,7 +3002,6 @@ Cecília	B-PESSOA
 sorrir	O
 .	O
 
-
 Entretanto	O
 nenhum	O
 desses	O
@@ -3089,7 +3033,6 @@ quarto	O
 de	O
 Cecília	B-PESSOA
 .	O
-
 
 Embora	O
 o	O
@@ -3163,7 +3106,6 @@ mais	O
 seguro	O
 .	O
 
-
 Abaixo	O
 da	O
 janela	O
@@ -3207,7 +3149,6 @@ e	O
 na	O
 umidade	O
 .	O
-
 
 Assim	O
 o	O
@@ -3255,7 +3196,6 @@ e	O
 alcantis	O
 .	O
 
-
 Havia	O
 alguns	O
 instantes	O
@@ -3285,7 +3225,6 @@ quadro	O
 da	O
 janela	O
 .	O
-
 
 O	O
 italiano	O
@@ -3330,7 +3269,6 @@ da	O
 janela	O
 .	O
 
-
 Pálido	O
 ,	O
 com	O
@@ -3354,7 +3292,6 @@ evoluções	O
 da	O
 sombra	O
 .	O
-
 
 Viu	O
 um	O
@@ -3420,13 +3357,11 @@ na	O
 janela	O
 .	O
 
-
 E	O
 não	O
 se	O
 enganava	O
 .	O
-
 
 Álvaro	B-PESSOA
 ,	O
@@ -3458,7 +3393,6 @@ seu	O
 intento	O
 .	O
 
-
 Depois	O
 voltou	O
 partilhado	O
@@ -3479,7 +3413,6 @@ Cecília	B-PESSOA
 lhe	O
 perdoaria	O
 .	O
-
 
 Loredano	B-PESSOA
 apenas	O
@@ -3522,7 +3455,6 @@ da	O
 irara	O
 .	O
 
-
 Tirou	O
 a	O
 sua	O
@@ -3550,7 +3482,6 @@ abarcar	O
 o	O
 ângulo	O
 .	O
-
 
 Suspendendo-se	O
 então	O
@@ -3600,7 +3531,6 @@ as	O
 pedras	O
 .	O
 
-
 Enquanto	O
 isto	O
 se	O
@@ -3627,7 +3557,6 @@ esta	O
 cena	O
 .	O
 
-
 Logo	O
 que	O
 Cecília	B-PESSOA
@@ -3653,7 +3582,6 @@ esquerda	O
 pareciam	O
 esperar	O
 .	O
-
 
 Esperou	O
 também	O
@@ -3726,7 +3654,6 @@ menor	O
 suspeita	O
 .	O
 
-
 O	O
 que	O
 podiam	O
@@ -3747,7 +3674,6 @@ da	O
 noite	O
 ?	O
 
-
 O	O
 movimento	O
 de	O
@@ -3766,7 +3692,6 @@ compreender	O
 o	O
 resto	O
 .	O
-
 
 Com	O
 efeito	O
@@ -3821,13 +3746,11 @@ ele	O
 previa	O
 .	O
 
-
 Peri	B-PESSOA
 não	O
 se	O
 moveu	O
 .	O
-
 
 Tinha	O
 compreendido	O
@@ -3867,7 +3790,6 @@ era	O
 muito	O
 simples	O
 .	O
-
 
 Se	O
 Cecília	B-PESSOA
@@ -3935,7 +3857,6 @@ bela	O
 senhora	O
 .	O
 
-
 Assim	O
 ,	O
 tranqüilizado	O
@@ -3973,7 +3894,6 @@ na	O
 terra	O
 .	O
 
-
 E	O
 com	O
 efeito	O
@@ -3995,7 +3915,6 @@ fachada	O
 do	O
 edifício	O
 .	O
-
 
 Então	O
 quem	O
@@ -4022,7 +3941,6 @@ vulto	O
 imóvel	O
 .	O
 
-
 Era	O
 Isabel	B-PESSOA
 que	O
@@ -4041,7 +3959,6 @@ desfiava-lhe	O
 pela	O
 face	O
 .	O
-
 
 Pensava	O
 no	O
@@ -4113,7 +4030,6 @@ ele	O
 passava	O
 .	O
 
-
 De	O
 vez	O
 em	O
@@ -4129,12 +4045,10 @@ palavras	O
 imperceptíveis	O
 :	O
 
-
 Se	O
 eu	O
 quisesse	O
 !	O
-
 
 Tirava	O
 do	O
@@ -4164,7 +4078,6 @@ aro	O
 de	O
 metal	O
 .	O
-
 
 O	O
 que	O
@@ -4199,7 +4112,6 @@ de	O
 Isabel	B-PESSOA
 ?	O
 
-
 Seria	O
 um	O
 segredo	O
@@ -4228,7 +4140,6 @@ o	O
 presente	O
 ?	O
 
-
 Seria	O
 algum	O
 tesouro	O
@@ -4246,7 +4157,6 @@ não	O
 devia	O
 resistir	O
 ?	O
-
 
 Seria	O
 uma	O
@@ -4310,11 +4220,8 @@ o	O
 seio	O
 .	O
 
-
 Próximo	O
 Capítulo	O
-
-
 
 
 
@@ -4379,8 +4286,6 @@ combatê-las	O
 
 
 
-
-
 A	O
 equipe	O
 liderada	O
@@ -4425,8 +4330,6 @@ Kong	I-LOCAL
 .	O
 
 
-
-
 Essas	O
 amostras	O
 foram	O
@@ -4450,7 +4353,6 @@ em	O
 dois	O
 grupos	O
 .	O
-
 
 
 O	O
@@ -4477,8 +4379,6 @@ respiratórios	O
 como	O
 sintomas	O
 .	O
-
-
 
 
 Para	O
@@ -4529,8 +4429,6 @@ influenza	O
 
 
 
-
-
 ``	O
 Uma	O
 mudança	O
@@ -4575,8 +4473,6 @@ explica	O
 
 
 
-
-
 Os	O
 cientistas	O
 ainda	O
@@ -4614,8 +4510,6 @@ infectadas	O
 
 
 
-
-
 O	O
 estudo	O
 do	O
@@ -4638,9 +4532,6 @@ Science	O
 
 ''	O
 .	O
-
-
-
 
 
 
@@ -4674,8 +4565,6 @@ PESCAS	I-ORGANIZACAO
 
 
 
-
-
 Portaria	O
 n.º	O
 1/2008	O
@@ -4684,8 +4573,6 @@ de	O
 2	O
 de	O
 Janeiro	O
-
-
 
 
 
@@ -4750,11 +4637,8 @@ Novembro	O
 
 
 
-
-
 Ouvido	O
 o	O
-
 
 Conselho	B-ORGANIZACAO
 Cinegético	I-ORGANIZACAO
@@ -4764,10 +4648,7 @@ de	O
 
 Montemor-o-Novo	B-LOCAL
 
-
 :	O
-
-
 
 
 
@@ -4808,8 +4689,6 @@ Pescas	O
 o	O
 seguinte	O
 :	O
-
-
 
 
 
@@ -4931,8 +4810,6 @@ ha	O
 
 
 
-
-
 2	O
 .	O
 º	O
@@ -5001,8 +4878,6 @@ caça	O
 .	O
 
 
-
-
 3	O
 .	O
 º	O
@@ -5026,8 +4901,6 @@ da	O
 respectiva	O
 sinalização	O
 .	O
-
-
 
 
 Pelo	O
@@ -5106,8 +4979,6 @@ de	O
 
 
 
-
-
 Legião	B-ORGANIZACAO
 da	I-ORGANIZACAO
 Boa	I-ORGANIZACAO
@@ -5116,7 +4987,6 @@ comemora	O
 10º	O
 .	O
 aniversário	O
-
 
 A	O
 Legião	B-ORGANIZACAO
@@ -5333,7 +5203,6 @@ vontade	O
 .	O
 
 
-
 01.94	O
 -	O
 54	O
@@ -5344,7 +5213,6 @@ registradas	O
 com	O
 menores	O
 .	O
-
 
 25	O
 .	O
@@ -5395,7 +5263,6 @@ bombas	O
 caseiras	O
 .	O
 
-
 12	O
 .	O
 
@@ -5430,7 +5297,6 @@ no	O
 em	O
 Campinas	B-LOCAL
 .	O
-
 
 15	O
 .	O
@@ -5471,8 +5337,6 @@ Rio	B-LOCAL
 
 
 
-
-
 Salgado	B-PESSOA
 
 ,	O
@@ -5483,8 +5347,6 @@ da	O
 África	O
 
 perdida	O
-
-
 
 
 
@@ -5574,8 +5436,6 @@ a	O
 sessão	O
 fotográfica	O
 .	O
-
-
 
 
 
@@ -5719,8 +5579,6 @@ humano	O
 
 
 
-
-
 As	O
 suas	O
 fotos	O
@@ -5845,8 +5703,6 @@ fulgurante	O
 
 
 
-
-
 Em	O
 
 Fátima	B-LOCAL
@@ -5942,8 +5798,6 @@ são	O
 
 
 
-
-
 Falar	O
 das	O
 fotografias	O
@@ -5977,8 +5831,6 @@ grandiosa	O
 do	O
 fotojornalista-autor	O
 .	O
-
-
 
 
 
@@ -6086,8 +5938,6 @@ mostrar	O
 
 
 
-
-
 Durante	O
 muitos	O
 anos	O
@@ -6176,8 +6026,6 @@ do	O
 ano	O
 
 .	O
-
-
 
 
 
@@ -6304,8 +6152,6 @@ Paris	B-LOCAL
 
 
 
-
-
 A	O
 obra	O
 de	O
@@ -6344,8 +6190,6 @@ tão	O
 extensa	O
 foto-galeria	O
 .	O
-
-
 
 
 
@@ -6411,8 +6255,6 @@ Humanidade	O
 .	O
 
 
-
-
 É	O
 um	O
 fotógrafo	O
@@ -6457,8 +6299,6 @@ projecto	O
 .	O
 
 
-
-
 Com	O
 ''	O
 
@@ -6488,8 +6328,6 @@ documental	O
 
 
 
-
-
 Luiz	B-PESSOA
 Carvalho	I-PESSOA
 
@@ -6502,16 +6340,11 @@ Expresso	B-ORGANIZACAO
 
 
 
-
-
-
 Tour	O
 
 :	O
 Procura-se	O
 candidato	O
-
-
 
 
 
@@ -6522,8 +6355,6 @@ PROVA	O
 DESFALCADA	O
 DE	O
 VEDETAS	O
-
-
 
 
 
@@ -6625,8 +6456,6 @@ n.º	O
 
 
 
-
-
 Ainda	O
 está	O
 por	O
@@ -6681,8 +6510,6 @@ no	O
 
 
 
-
-
 Face	O
 então	O
 às	O
@@ -6734,8 +6561,6 @@ corrida	O
 pela	O
 vitória	O
 .	O
-
-
 
 
 
@@ -6805,13 +6630,9 @@ Paulinho	I-PESSOA
 .	O
 
 
-
-
 Cinco	O
 mil	O
 polícias	O
-
-
 
 
 Cerca	O
@@ -6896,8 +6717,6 @@ de	O
 Silverstone	B-LOCAL
 
 .	O
-
-
 
 
 
@@ -7273,7 +7092,6 @@ fígado	O
 .	O
 
 
-
 Uns	O
 vinte	O
 anos	O
@@ -7379,7 +7197,6 @@ história	O
 recente	O
 :	O
 
-
 -	O
 Outro	O
 dia	O
@@ -7483,7 +7300,6 @@ leu	O
 tudo	O
 ...	O
 
-
 Matthew	B-PESSOA
 ,	O
 que	O
@@ -7511,7 +7327,6 @@ Planeta	B-ORGANIZACAO
 ,	O
 ironiza	O
 :	O
-
 
 -	O
 Já	O
@@ -7591,7 +7406,6 @@ e	O
 ordenada	O
 .	O
 
-
 ``	O
 Os	O
 livros	O
@@ -7600,7 +7414,6 @@ sobreviver	O
 a	O
 nós	O
 ''	O
-
 
 Mindlin	B-PESSOA
 ,	O
@@ -7627,7 +7440,6 @@ caminho	O
 da	O
 virtude	O
 :	O
-
 
 -	O
 Acho	O
@@ -7720,7 +7532,6 @@ várias	O
 gerações	O
 ...	O
 
-
 Matthew	B-PESSOA
 ,	O
 por	O
@@ -7749,7 +7560,6 @@ no	O
 universo	O
 eletrônico	O
 :	O
-
 
 -	O
 Da	O
@@ -7803,7 +7613,6 @@ da	O
 História	O
 .	O
 
-
 Presente	O
 à	O
 conversa	O
@@ -7829,7 +7638,6 @@ ilustra	O
 o	O
 paradoxo	O
 :	O
-
 
 -	O
 Imaginem	O
@@ -7872,7 +7680,6 @@ geraçoes	O
 futuras	O
 ?	O
 
-
 ``	O
 Farenheit	O
 451	O
@@ -7880,7 +7687,6 @@ não	O
 é	O
 fantasia	O
 ''	O
-
 
 A	O
 discussão	O
@@ -7942,7 +7748,6 @@ da	O
 modernidade	O
 .	O
 
-
 -	O
 Na	O
 verdade	O
@@ -8003,7 +7808,6 @@ de	O
 destruir	O
 .	O
 
-
 -	O
 A	O
 pior	O
@@ -8026,12 +7830,8 @@ Mindlin	B-PESSOA
 
 
 
-
-
 Educação	O
 Ambiental	O
-
-
 
 
 
@@ -8155,8 +7955,6 @@ específicas	O
 
 
 
-
-
 Enraizamento	O
 da	O
 
@@ -8166,8 +7964,6 @@ Ambiental	O
 no	O
 
 Brasil	B-LOCAL
-
-
 
 
 
@@ -8219,8 +8015,6 @@ programas	O
 
 
 
-
-
 Mapeamento	O
 da	O
 
@@ -8230,8 +8024,6 @@ no	O
 
 Ensino	O
 Superior	O
-
-
 
 
 
@@ -8299,8 +8091,6 @@ pesquisa	O
 
 
 
-
-
 O	O
 que	O
 fazem	O
@@ -8312,8 +8102,6 @@ que	O
 fazem	O
 
 EA	O
-
-
 
 
 
@@ -8429,14 +8217,10 @@ fundamental	O
 
 
 
-
-
 Educação	O
 de	O
 Chico	O
 Mendes	O
-
-
 
 
 Programa	O
@@ -8450,8 +8234,6 @@ ambiental	O
 no	O
 ensino	O
 básico	O
-
-
 
 
 O	O
@@ -8507,8 +8289,6 @@ locais	O
 
 
 
-
-
 -	O
 Formação	O
 continuada	O
@@ -8518,8 +8298,6 @@ em	O
 
 Educação	O
 Ambiental	O
-
-
 
 
 
@@ -8697,13 +8475,11 @@ que	O
 ,	O
 segundo	O
 
-
 Censo	O
 
 do	O
 
 INEP	B-ORGANIZACAO
-
 
 ,	O
 encontra	O
@@ -8714,8 +8490,6 @@ em	O
 %	O
 
 d	O
-
-
 
 
 
@@ -8732,8 +8506,6 @@ Brasil	B-LOCAL
 
 
 
-
-
 Portfolio	O
 do	O
 
@@ -8745,8 +8517,6 @@ Nacional	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Educação	I-ORGANIZACAO
 Ambiental	I-ORGANIZACAO
-
-
 
 
 
@@ -8776,15 +8546,11 @@ Ambiental	I-ORGANIZACAO
 
 
 
-
-
 Programa	O
 Juventude	O
 e	O
 Meio	O
 Ambiente	O
-
-
 
 
 
@@ -8887,10 +8653,7 @@ grupos	O
 
 
 
-
-
 O	O
-
 
 Manual	O
 Orientador	O
@@ -9011,18 +8774,12 @@ brasileiros	O
 .	O
 
 
-
-
 Orientações	O
 Curriculares	O
 
 
-
-
 Ensino	O
 Médio	O
-
-
 
 
 
@@ -9193,13 +8950,8 @@ Médio	O
 
 
 
-
-
 Com-vida	O
 MEC	O
-
-
-
 
 
 
@@ -9212,7 +8964,6 @@ Ambiental	O
 do	O
 
 MEC	B-ORGANIZACAO
-
 
 que	O
 visa	O
@@ -9233,8 +8984,6 @@ pelas	O
 suas	O
 atividades	O
 .	O
-
-
 
 
 
@@ -9543,14 +9292,10 @@ Bauru	I-LOCAL
 
 
 
-
-
 Aristides	B-PESSOA
 de	I-PESSOA
 Sousa	I-PESSOA
 Mendes	I-PESSOA
-
-
 
 
 
@@ -9559,8 +9304,6 @@ A	O
 Segunda	O
 Guerra	O
 Mundial	O
-
-
 
 
 
@@ -9576,7 +9319,6 @@ cônsul	O
 de	O
 
 Bordéus	B-LOCAL
-
 
 quando	O
 tem	O
@@ -9615,8 +9357,6 @@ de	O
 Portugal	B-ORGANIZACAO
 
 .	O
-
-
 
 
 
@@ -9681,8 +9421,6 @@ são	O
 cidadãos	O
 ''	O
 .	O
-
-
 
 
 
@@ -9779,8 +9517,6 @@ parcimónia	O
 
 
 
-
-
 Já	O
 
 no	O
@@ -9817,7 +9553,6 @@ ajudar	O
 encontra-se	O
 o	O
 
-
 Rabino	O
 
 de	O
@@ -9826,7 +9561,6 @@ Antuérpia	B-LOCAL
 
 Jacob	B-PESSOA
 Kruger	I-PESSOA
-
 
 ,	O
 que	O
@@ -9841,8 +9575,6 @@ os	O
 refugiados	O
 judeus	O
 .	O
-
-
 
 
 
@@ -9925,8 +9657,6 @@ disponíveis	O
 
 
 
-
-
 Confrontado	O
 com	O
 os	O
@@ -9966,8 +9696,6 @@ Deus	B-PESSOA
 
 ''	O
 .	O
-
-
 
 
 
@@ -10100,8 +9828,6 @@ cônsul	O
 
 
 
-
-
 Apesar	O
 de	O
 terem	O
@@ -10205,15 +9931,10 @@ Portugal	B-LOCAL
 
 
 
-
-
-
 Em	O
 Dezembro	O
 em	O
 Lisboa	B-LOCAL
-
-
 
 
 Sócrates	B-PESSOA
@@ -10233,8 +9954,6 @@ cimeira	O
 sobre	O
 Mugabe	B-PESSOA
 ''	O
-
-
 
 
 A	O
@@ -10286,8 +10005,6 @@ Europeia	I-LOCAL
 UE	B-LOCAL
 -RRB-	O
 .	O
-
-
 
 
 ``	O
@@ -10353,8 +10070,6 @@ Lusa	O
 .	O
 
 
-
-
 O	O
 Zimbabwe	B-ORGANIZACAO
 foi	O
@@ -10380,8 +10095,6 @@ Mugabe	B-PESSOA
 estiver	O
 presente	O
 .	O
-
-
 
 
 ``	O
@@ -10431,8 +10144,6 @@ Sócrates	B-PESSOA
 .	O
 
 
-
-
 ``	O
 O	O
 objectivo	O
@@ -10472,8 +10183,6 @@ lembrou	O
 .	O
 
 
-
-
 ``	O
 Gostaria	O
 que	O
@@ -10495,14 +10204,11 @@ insistiu	O
 .	O
 
 
-
-
 Depoimento	O
 de	O
 Arlete	B-PESSOA
 Lopes	I-PESSOA
 Crispino	I-PESSOA
-
 
 P	O
 -	O
@@ -10541,7 +10247,6 @@ onde	O
 eles	O
 nasceram	O
 .	O
-
 
 R	O
 -	O
@@ -10622,7 +10327,6 @@ do	I-LOCAL
 Brasil	I-LOCAL
 .	O
 
-
 P	O
 -	O
 Conta	O
@@ -10646,7 +10350,6 @@ irmãos	O
 sua	O
 casa	O
 .	O
-
 
 R	O
 -	O
@@ -12339,7 +12042,6 @@ sustentando	O
 tudo	O
 .	O
 
-
 P	O
 -	O
 Como	O
@@ -12351,14 +12053,12 @@ as	O
 situações	O
 ?	O
 
-
 R	O
 -	O
 Como	O
 ela	O
 enfrentava	O
 ?	O
-
 
 P	O
 -	O
@@ -12367,7 +12067,6 @@ quando	O
 seu	O
 pai	O
 ...	O
-
 
 R	O
 -	O
@@ -13499,7 +13198,6 @@ um	O
 comunista	O
 .	O
 
-
 P	O
 -	O
 Mas	O
@@ -13513,7 +13211,6 @@ só	O
 umas	O
 idéias	O
 ?	O
-
 
 R	O
 -	O
@@ -13687,7 +13384,6 @@ abertamente	O
 né	O
 ?	O
 
-
 P	O
 -	O
 Ele	O
@@ -13698,7 +13394,6 @@ política	O
 com	O
 vocês	O
 ?	O
-
 
 R	O
 -	O
@@ -13876,7 +13571,6 @@ muda	O
 nada	O
 .	O
 
-
 P	O
 -	O
 Aqui	O
@@ -13889,7 +13583,6 @@ a	O
 mesma	O
 coisa	O
 ?	O
-
 
 R	O
 -	O
@@ -14450,14 +14143,12 @@ ok	O
 né	O
 ?	O
 
-
 P	O
 -	O
 E	O
 os	O
 namoricos	O
 ?	O
-
 
 R	O
 -	O
@@ -15013,7 +14704,6 @@ da	O
 fita	O
 -RRB-	O
 
-
 Joelfina	B-PESSOA
 
 Mais	O
@@ -15021,8 +14711,6 @@ uma	O
 palavra	O
 não	O
 decifrada	O
-
-
 
 
 
@@ -15035,8 +14723,6 @@ euros	O
 
 
 
-
-
 Espanha	B-ORGANIZACAO
 
 aumenta	O
@@ -15046,8 +14732,6 @@ para	O
 
 600	O
 euros	O
-
-
 
 
 
@@ -15092,8 +14776,6 @@ ano	O
 
 
 
-
-
 ``	O
 Aprovámos	O
 o	O
@@ -15127,7 +14809,6 @@ Janeiro	O
 anunciou	O
 o	O
 
-
 chefe	O
 do	O
 Governo	O
@@ -15154,8 +14835,6 @@ deste	O
 ano	O
 
 .	O
-
-
 
 
 
@@ -15213,8 +14892,6 @@ poder	O
 
 
 
-
-
 O	O
 chefe	O
 do	O
@@ -15251,8 +14928,6 @@ positivo	O
 
 
 
-
-
 Em	O
 Outubro	O
 
@@ -15279,8 +14954,6 @@ caso	O
 de	O
 reeleição	O
 .	O
-
-
 
 
 
@@ -15329,8 +15002,6 @@ e	O
 Malta	B-LOCAL
 
 .	O
-
-
 
 
 
@@ -15591,12 +15262,10 @@ mortos	O
 .	O
 
 
-
 Quantos	O
 irmão	O
 tem	O
 ?	O
-
 
 São	O
 dois	O
@@ -15683,7 +15352,6 @@ na	O
 reforma	O
 .	O
 
-
 Tem	O
 recordações	O
 da	O
@@ -15693,7 +15361,6 @@ passou	O
 a	O
 infância	O
 ?	O
-
 
 Lembro-me	O
 .	O
@@ -15960,7 +15627,6 @@ de	O
 meninice	O
 .	O
 
-
 E	O
 como	O
 era	O
@@ -15970,7 +15636,6 @@ casa	O
 dos	O
 correios	O
 ?	O
-
 
 Era	O
 normal	O
@@ -16055,13 +15720,11 @@ toda	O
 esburacada	O
 .	O
 
-
 Quem	O
 morava	O
 na	O
 casa	O
 ?	O
-
 
 Nós	O
 a	O
@@ -16079,7 +15742,6 @@ os	O
 filhos	O
 .	O
 
-
 Nessa	O
 altura	O
 os	O
@@ -16089,7 +15751,6 @@ já	O
 eram	O
 nascidos	O
 ?	O
-
 
 Não	O
 .	O
@@ -16137,7 +15798,6 @@ a	O
 Covilhã	B-LOCAL
 .	O
 
-
 Como	O
 eram	O
 divididas	O
@@ -16147,7 +15807,6 @@ lá	O
 em	O
 casa	O
 ?	O
-
 
 A	O
 minha	O
@@ -16326,7 +15985,6 @@ sua	O
 família	O
 ?	O
 
-
 Olhe	O
 ,	O
 o	O
@@ -16411,10 +16069,8 @@ essas	O
 reuniões	O
 .	O
 
-
 Porquê	O
 ?	O
-
 
 Porque	O
 essa	O
@@ -16561,7 +16217,6 @@ ou	O
 sete	O
 .	O
 
-
 Como	O
 era	O
 o	O
@@ -16570,7 +16225,6 @@ em	O
 sua	O
 casa	O
 ?	O
-
 
 O	O
 meu	O
@@ -16626,7 +16280,6 @@ meu	O
 pai	O
 .	O
 
-
 E	O
 a	O
 que	O
@@ -16636,7 +16289,6 @@ levantava	O
 pela	O
 manhã	O
 ?	O
-
 
 Geralmente	O
 levantava-me	O
@@ -16847,7 +16499,6 @@ chamava	O
 a	O
 escola	O
 ?	O
-
 
 A	O
 escola	O
@@ -17117,7 +16768,6 @@ outra	O
 coisa	O
 .	O
 
-
 Qual	O
 é	O
 a	O
@@ -17130,7 +16780,6 @@ da	O
 escola	O
 primária	O
 ?	O
-
 
 É	O
 o	O
@@ -17173,7 +16822,6 @@ lá	O
 construiram	O
 .	O
 
-
 O	O
 que	O
 mais	O
@@ -17181,7 +16829,6 @@ gostava	O
 no	O
 professor	O
 ?	O
-
 
 Conseguia	O
 explicar	O
@@ -17393,7 +17040,6 @@ Tive	O
 sorte	O
 .	O
 
-
 E	O
 lembra-se	O
 porque	O
@@ -17402,7 +17048,6 @@ a	O
 primeira	O
 reguada	O
 ?	O
-
 
 Olhe	O
 não	O
@@ -17453,7 +17098,6 @@ que	O
 dava	O
 .	O
 
-
 Em	O
 casa	O
 quem	O
@@ -17463,7 +17107,6 @@ tinha	O
 mais	O
 autoridade	O
 ?	O
-
 
 O	O
 pai	O
@@ -17603,7 +17246,6 @@ vida	O
 inteira	O
 .	O
 
-
 Relacionava-se	O
 melhor	O
 com	O
@@ -17616,7 +17258,6 @@ o	O
 seu	O
 pai	O
 ?	O
-
 
 Os	O
 dois	O
@@ -17653,14 +17294,12 @@ nesse	O
 aspecto	O
 .	O
 
-
 Com	O
 descreve	O
 a	O
 sua	O
 mãe	O
 ?	O
-
 
 Eu	O
 fisicamente	O
@@ -17815,8 +17454,6 @@ a	O
 melhor	O
 solução	O
 .	O
-
-
 
 
 
@@ -18026,11 +17663,7 @@ cognatos	O
 .	O
 
 
-
-
 História	O
-
-
 
 
 No	O
@@ -18112,8 +17745,6 @@ para	O
 o	O
 olho	O
 .	O
-
-
 
 
 
@@ -18256,11 +17887,7 @@ Afeganistão	B-LOCAL
 .	O
 
 
-
-
 Curiosidades	O
-
-
 
 
 É	O
@@ -18301,8 +17928,6 @@ Psicologia	I-ORGANIZACAO
 
 brasileiro	O
 .	O
-
-
 
 
 
@@ -18495,7 +18120,6 @@ não	O
 deu	O
 pormenores	O
 .	O
-
 
 
 A	O
@@ -19024,8 +18648,6 @@ verdade	O
 
 
 
-
-
 O	O
 Tour	O
 de	O
@@ -19054,8 +18676,6 @@ monegasco	O
 .	O
 
 
-
-
 O	O
 início	O
 do	O
@@ -19076,8 +18696,6 @@ de	O
 Fórmula	O
 1	O
 .	O
-
-
 
 
 ``	O
@@ -19114,8 +18732,6 @@ decisão	O
 .	O
 
 
-
-
 O	O
 Tour	O
 de	O
@@ -19133,10 +18749,7 @@ ausente	O
 .	O
 
 
-
-
 IX	O
-
 
 O	O
 sono	O
@@ -19165,7 +18778,6 @@ montanha	O
 .	O
 '	O
 
-
 Martim	B-PESSOA
 parou	O
 indeciso	O
@@ -19190,7 +18802,6 @@ decrépito	O
 .	O
 
 
-
 -	O
 Araquém	B-PESSOA
 dorme	O
@@ -19203,13 +18814,11 @@ o	O
 passo	O
 .	O
 
-
 O	O
 velho	O
 ficou	O
 imóvel	O
 :	O
-
 
 -	O
 O	O
@@ -19241,7 +18850,6 @@ sono	O
 leve	O
 nos	O
 
-
 olhos	O
 de	O
 Araquém	B-PESSOA
@@ -19271,7 +18879,6 @@ ouvido	O
 escuta	O
 .	O
 
-
 -	O
 O	O
 estrangeiro	O
@@ -19283,7 +18890,6 @@ anunciar	O
 que	O
 parte	O
 .	O
-
 
 -	O
 O	O
@@ -19312,13 +18918,11 @@ dos	O
 seus	O
 .	O
 
-
 Vieram	O
 Caubi	B-PESSOA
 e	O
 Iracema	B-PESSOA
 :	O
-
 
 -	O
 Caubi	B-PESSOA
@@ -19338,7 +18942,6 @@ de	O
 sua	O
 caça	O
 .	O
-
 
 -	O
 O	O
@@ -19363,7 +18966,6 @@ de	O
 vê-lo	O
 .	O
 
-
 O	O
 velho	O
 abriu	O
@@ -19373,7 +18975,6 @@ e	O
 cerrou-as	O
 logo	O
 :	O
-
 
 -	O
 Filha	O
@@ -19414,7 +19015,6 @@ O	O
 acompanhará	O
 .	O
 
-
 O	O
 sono	O
 voltou	O
@@ -19423,7 +19023,6 @@ olhos	O
 do	O
 Pajé	B-PESSOA
 .	O
-
 
 Enquanto	O
 Caubi	B-PESSOA
@@ -19458,7 +19057,6 @@ palha	O
 trançada	O
 .	O
 
-
 Martim	B-PESSOA
 esperava	O
 na	O
@@ -19472,7 +19070,6 @@ veio	O
 a	O
 ele	O
 :	O
-
 
 -	O
 Guerreiro	O
@@ -19504,7 +19101,6 @@ sonhos	O
 de	O
 Iracema	B-PESSOA
 .	O
-
 
 -	O
 Tua	O
@@ -19543,7 +19139,6 @@ seio	O
 de	O
 Iracema	B-PESSOA
 .	O
-
 
 Caubi	B-PESSOA
 saiu	O
@@ -19587,7 +19182,6 @@ sua	O
 tristeza	O
 .	O
 
-
 O	O
 sol	O
 ,	O
@@ -19612,7 +19206,6 @@ grande	O
 taba	O
 .	O
 
-
 -	O
 O	O
 dia	O
@@ -19636,7 +19229,6 @@ de	O
 partir	O
 .	O
 
-
 A	O
 virgem	O
 pousou	O
@@ -19652,7 +19244,6 @@ de	O
 Araquém	B-PESSOA
 .	O
 
-
 -	O
 Ele	O
 vai	O
@@ -19662,7 +19253,6 @@ os	O
 lábios	O
 trêmulos	O
 .	O
-
 
 O	O
 Pajé	B-PESSOA
@@ -19689,7 +19279,6 @@ da	O
 despedida	O
 .	O
 
-
 -	O
 Bem-ido	O
 seja	O
@@ -19704,7 +19293,6 @@ cabana	O
 de	O
 Araquém	B-PESSOA
 .	O
-
 
 O	O
 velho	O
@@ -19733,7 +19321,6 @@ ar	O
 ele	O
 murmurou	O
 :	O
-
 
 -	O
 Jurupari	B-PESSOA
@@ -19776,7 +19363,6 @@ a	O
 partir	O
 .	O
 
-
 Adiante	O
 seguiu	O
 Caubi	B-PESSOA
@@ -19792,7 +19378,6 @@ após	O
 ,	O
 Iracema	B-PESSOA
 .	O
-
 
 Desceram	O
 a	O
@@ -19828,12 +19413,10 @@ suave	O
 endecha	O
 .	O
 
-
 A	O
 virgem	O
 suspirou	O
 :	O
-
 
 -	O
 A	O
@@ -19864,7 +19447,6 @@ a	O
 grande	O
 noite	O
 .	O
-
 
 O	O
 mancebo	O
@@ -19903,7 +19485,6 @@ dos	O
 rochedos	O
 .	O
 
-
 Caubi	B-PESSOA
 avançado	O
 sempre	O
@@ -19914,7 +19495,6 @@ a	O
 densa	O
 ramagem	O
 .	O
-
 
 O	O
 seio	O
@@ -19973,7 +19553,6 @@ do	O
 tabuleiro	O
 .	O
 
-
 -	O
 Estrangeiro	O
 ,	O
@@ -19987,7 +19566,6 @@ Iracema	B-PESSOA
 e	O
 foge	O
 !	O
-
 
 A	O
 boca	O
@@ -20020,7 +19598,6 @@ mesma	O
 flor	O
 .	O
 
-
 A	O
 voz	O
 de	O
@@ -20043,10 +19620,8 @@ palmeira	O
 .	O
 
 
-
 UNIDADE	O
 1	O
-
 
 CÉLULAS	O
 ,	O
@@ -20056,12 +19631,10 @@ FUNÇÕES	O
 VITAIS	O
 .	O
 
-
 CAPÍTULO	O
 1	O
 -	O
 CRESCIMENTO	O
-
 
 O	O
 homem	O
@@ -20095,7 +19668,6 @@ aquilo	O
 que	O
 aprende	O
 .	O
-
 
 O	O
 corpo	O
@@ -20220,7 +19792,6 @@ seus	O
 filhos	O
 .	O
 
-
 Desde	O
 o	O
 nascimento	O
@@ -20249,7 +19820,6 @@ de	O
 crescimento	O
 corporal	O
 .	O
-
 
 O	O
 crescimento	O
@@ -20398,12 +19968,10 @@ estrutura	O
 emocional	O
 .	O
 
-
 ETAPAS	O
 DO	O
 CRESCIMENTO	O
 PÓS-NATAL	O
-
 
 Antes	O
 de	O
@@ -20452,9 +20020,7 @@ a	O
 adolescência	O
 .	O
 
-
 INFÂNCIA	O
-
 
 Ao	O
 nascer	O
@@ -20499,7 +20065,6 @@ vida	O
 -LSB-	O
 tabela	O
 -RSB-	O
-
 
 
 Após	O
@@ -20559,7 +20124,6 @@ estica	O
 ''	O
 .	O
 
-
 A	O
 infância	O
 vai	O
@@ -20579,9 +20143,7 @@ na	O
 puberdade	O
 .	O
 
-
 PUBERDADE	O
-
 
 A	O
 puberdade	O
@@ -20609,7 +20171,6 @@ ligadas	O
 maturação	O
 sexual	O
 .	O
-
 
 As	O
 meninas	O
@@ -20672,7 +20233,6 @@ períodos	O
 menstruais	O
 .	O
 
-
 Os	O
 meninos	O
 atingem	O
@@ -20711,7 +20271,6 @@ do	O
 nariz	O
 .	O
 
-
 Após	O
 essa	O
 fase	O
@@ -20725,9 +20284,7 @@ na	O
 adolescência	O
 .	O
 
-
 ADOLESCÊNCIA	O
-
 
 A	O
 adolescência	O
@@ -20757,10 +20314,8 @@ total	O
 amadurecimento	O
 .	O
 
-
 FASE	O
 ADULTA	O
-
 
 Por	O
 volta	O
@@ -20826,7 +20381,6 @@ e	O
 mental	O
 .	O
 
-
 Após	O
 os	O
 30	O
@@ -20856,9 +20410,7 @@ em	O
 declínio	O
 .	O
 
-
 VOCABULÁRIO	O
-
 
 Características	O
 herdadas	O
@@ -20892,7 +20444,6 @@ seus	O
 filhos	O
 .	O
 
-
 Funções	O
 orgânicas	O
 :	O
@@ -20915,7 +20466,6 @@ um	O
 todo	O
 .	O
 
-
 Funções	O
 emocionais	O
 :	O
@@ -20934,7 +20484,6 @@ e	O
 a	O
 memória	O
 .	O
-
 
 Períodos	O
 menstruais	O
@@ -20979,9 +20528,7 @@ de	O
 sangue	O
 .	O
 
-
 RESUMO	O
-
 
 0	O
 homem	O
@@ -21039,7 +20586,6 @@ a	O
 seus	O
 filhos	O
 .	O
-
 
 Ao	O
 conjunto	O
@@ -21147,9 +20693,7 @@ em	O
 envelhecimento	O
 .	O
 
-
 LEITURA	O
-
 
 A	O
 primeira	O
@@ -21430,8 +20974,6 @@ p.	O
 
 
 
-
-
 COISAS	O
 DA	O
 SÁBADO	O
@@ -21448,8 +20990,6 @@ BEM	O
 QUE	O
 NUNCA	O
 ACABE	O
-
-
 
 
 1	O
@@ -21530,8 +21070,6 @@ esperam	O
 .	O
 
 
-
-
 Os	O
 primeiros	O
 resultados	O
@@ -21596,8 +21134,6 @@ com	O
 quarenta	O
 anos	O
 .	O
-
-
 
 
 2	O
@@ -21676,8 +21212,6 @@ até	O
 à	O
 exaustâo	O
 .	O
-
-
 
 
 3	O
@@ -21789,8 +21323,6 @@ esboçaram	O
 .	O
 
 
-
-
 4	O
 .	O
 Três	O
@@ -21860,8 +21392,6 @@ um	O
 impulso	O
 sério	O
 .	O
-
-
 
 
 5	O
@@ -22000,8 +21530,6 @@ Hi5	O
 .	O
 
 
-
-
 Almeida	B-PESSOA
 Henriques	I-PESSOA
 ,	O
@@ -22124,7 +21652,6 @@ igualmente	O
 na	O
 internacionalização	O
 
-
 Diário	B-PESSOA
 Regional	I-PESSOA
 de	I-PESSOA
@@ -22147,7 +21674,6 @@ Centro	I-ORGANIZACAO
 CEC	B-ORGANIZACAO
 -RRB-	O
 ?	O
-
 
 Almeida	B-PESSOA
 Henriques	I-PESSOA
@@ -22211,7 +21737,6 @@ do	O
 CEC	B-ORGANIZACAO
 .	O
 
-
 DRV	B-PESSOA
 :	O
 O	O
@@ -22222,7 +21747,6 @@ nalguma	O
 estrutura	O
 nacional	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -22292,7 +21816,6 @@ Região	B-LOCAL
 Centro	I-LOCAL
 .	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
@@ -22307,7 +21830,6 @@ numa	O
 estrutura	O
 nacional	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -22429,7 +21951,6 @@ a	O
 fazer	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Como	O
@@ -22437,7 +21958,6 @@ funciona	O
 o	O
 CEC	B-ORGANIZACAO
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -22598,7 +22118,6 @@ que	O
 forma	O
 ?	O
 
-
 A.H.	B-PESSOA
 :	O
 Em	O
@@ -22708,7 +22227,6 @@ de	O
 decisões	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Quais	O
@@ -22725,7 +22243,6 @@ mandato	O
 até	O
 2002	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -22771,14 +22288,12 @@ pontos	O
 de	O
 convergência	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
 é	O
 fácil	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -22835,7 +22350,6 @@ mais	O
 qualidade	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Mas	O
@@ -22868,7 +22382,6 @@ este	O
 desenvolvimento	O
 harmonioso	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -23066,7 +22579,6 @@ a	O
 Reforma	O
 Fiscal	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
@@ -23077,7 +22589,6 @@ pilares	O
 do	O
 mandato	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -23279,7 +22790,6 @@ estrutura	O
 forte	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 De	O
@@ -23295,7 +22805,6 @@ chegar	O
 à	O
 internacionalização	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -23409,7 +22918,6 @@ o	O
 Brasil	B-LOCAL
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Mas	O
@@ -23444,7 +22952,6 @@ empresas	O
 nesta	O
 zona	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -23582,7 +23089,6 @@ políticas	O
 simultâneas	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Quantas	O
@@ -23591,7 +23097,6 @@ representa	O
 o	O
 CEC	B-ORGANIZACAO
 ?	O
-
 
 A.H	B-PESSOA
 :	O
@@ -23814,7 +23319,6 @@ sua	O
 internacionalização	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Concordou	O
@@ -23830,7 +23334,6 @@ e	O
 das	O
 Finanças	O
 ?	O
-
 
 A.	B-PESSOA
 H	I-PESSOA
@@ -24084,7 +23587,6 @@ não	O
 funciona	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Qual	O
@@ -24105,7 +23607,6 @@ empresarial	O
 no	O
 CEC	B-ORGANIZACAO
 .	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -24236,7 +23737,6 @@ do	O
 distrito	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
@@ -24267,7 +23767,6 @@ que	O
 se	O
 deparam	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -24354,9 +23853,6 @@ mental	O
 
 
 
-
-
-
 New	B-LOCAL
 York	I-LOCAL
 
@@ -24364,9 +23860,6 @@ York	I-LOCAL
 
 New	B-LOCAL
 York	I-LOCAL
-
-
-
 
 
 
@@ -24377,7 +23870,6 @@ passado	O
 ,	O
 o	O
 
-
 presidente	O
 da	O
 Câmara	B-ORGANIZACAO
@@ -24386,7 +23878,6 @@ de	O
 
 Nova	B-LOCAL
 Iorque	I-LOCAL
-
 
 ,	O
 
@@ -24424,8 +23915,6 @@ numa	O
 candidatura	O
 independente	O
 .	O
-
-
 
 
 
@@ -24512,8 +24001,6 @@ Giuliani	B-PESSOA
 no	O
 cargo	O
 .	O
-
-
 
 
 
@@ -24615,8 +24102,6 @@ Kerry	B-PESSOA
 
 
 
-
-
 Como	O
 recordava	O
 um	O
@@ -24699,8 +24184,6 @@ Séries	O
 ''	O
 -RRB-	O
 .	O
-
-
 
 
 
@@ -24868,8 +24351,6 @@ Lisboa	B-LOCAL
 
 
 
-
-
 MONEY	O
 1	O
 
@@ -24904,4 +24385,3 @@ de	O
 dois	O
 livros	O
 .	O
-

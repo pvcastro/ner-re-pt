@@ -1,5 +1,3 @@
-
-
 LANÃAMENTO	O
 DO	O
 CD	O
@@ -163,11 +161,9 @@ Informacao	O
 ou	O
 
 
-
 IncÃªndio	O
 afecta	O
 restaurante	O
-
 
 Um	O
 incÃªndio	O
@@ -250,7 +246,6 @@ viaturas	O
 .	O
 
 
-
 E	O
 depois	O
 da	O
@@ -259,7 +254,6 @@ regressou	O
 a	O
 Portugal	B-LOCAL
 ?	O
-
 
 Fiz	O
 o	O
@@ -835,7 +829,6 @@ lembro	O
 disso	O
 .	O
 
-
 Mas	O
 comeÃ§ou	O
 a	O
@@ -845,7 +838,6 @@ Faculdade	B-ORGANIZACAO
 de	I-ORGANIZACAO
 Filosofia	I-ORGANIZACAO
 ?	O
-
 
 Foi	O
 em	O
@@ -871,7 +863,6 @@ nomeado	O
 director	O
 .	O
 
-
 Como	O
 era	O
 a	O
@@ -881,7 +872,6 @@ Filosofia	I-ORGANIZACAO
 nessa	O
 altura	O
 ?	O
-
 
 A	O
 Faculdade	B-ORGANIZACAO
@@ -1099,7 +1089,6 @@ hoje	O
 jÃ¡	O
 estÃ£o	O
 .	O
-
 
 
 <p>	O
@@ -2342,7 +2331,6 @@ vocÃª	O
 </p>	O
 
 
-
 V	O
 ENCONTRO	O
 NACIONAL	O
@@ -2357,7 +2345,6 @@ V	O
 ENANCIB	O
 -RRB-	O
 
-
 Belo	B-LOCAL
 Horizonte	I-LOCAL
 ,	O
@@ -2370,14 +2357,12 @@ novembro	O
 de	O
 2003	O
 
-
 Primeiro	O
 anÃºncio	O
 e	O
 chamada	O
 de	O
 trabalhos	O
-
 
 A	O
 AssociaÃ§Ã£o	B-ORGANIZACAO
@@ -2442,13 +2427,11 @@ pesquisas	O
 
 ***	O
 
-
 Normas	O
 para	O
 apresentaÃ§Ã£o	O
 de	O
 trabalhos	O
-
 
 As	O
 pesquisas	O
@@ -2566,7 +2549,6 @@ da	O
 InformaÃ§Ã£o	O
 .	O
 
-
 Os	O
 trabalhos	O
 deverÃ£o	O
@@ -2607,12 +2589,10 @@ dos	O
 anais	O
 :	O
 
-
 Â·	O
 estrutura	O
 conceitual	O
 :	O
-
 
 .	O
 abrangÃªncia	O
@@ -2638,12 +2618,10 @@ dos	O
 conceitos	O
 .	O
 
-
 Â·	O
 estrutura	O
 formal	O
 :	O
-
 
 .	O
 serÃ£o	O
@@ -2679,7 +2657,6 @@ dados	O
 ser	O
 financiada	O
 ;	O
-
 
 .	O
 indicaÃ§Ã£o	O
@@ -2823,11 +2800,9 @@ sem	O
 paginaÃ§Ã£o	O
 .	O
 
-
 Entrega	O
 dos	O
 trabalhos	O
-
 
 Os	O
 trabalhos	O
@@ -2894,7 +2869,6 @@ de	O
 abril	O
 de	O
 2003	O
-
 
 
 Isotexsa	B-ORGANIZACAO
@@ -2969,7 +2943,6 @@ Fernando	B-PESSOA
 Domingues	I-PESSOA
 .	O
 
-
 Sorry	O
 ,	O
 your	O
@@ -3018,7 +2991,6 @@ Java	O
 tm	O
 -RRB-	O
 .	O
-
 
 Era	O
 uma	O
@@ -3271,4 +3243,3 @@ Todos	O
 os	O
 direitos	O
 reservados	O
-

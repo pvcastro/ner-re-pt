@@ -1,7 +1,4 @@
-
-
 <p>	O
-
 
 Terramoto	B-ACONTECIMENTO
 de	I-ACONTECIMENTO
@@ -11,14 +8,12 @@ de	I-ACONTECIMENTO
 
 <p>	O
 
-
 O	O
 Terramoto	B-ACONTECIMENTO
 
 </p>	O
 
 <p>	O
-
 
 O	O
 sismo	O
@@ -122,7 +117,6 @@ em	O
 </p>	O
 
 <p>	O
-
 
 Relatos	O
 da	O
@@ -261,7 +255,6 @@ apagasse	O
 
 <p>	O
 
-
 Lisboa	B-LOCAL
 nÃ£o	O
 foi	O
@@ -349,7 +342,6 @@ Barbados	B-LOCAL
 
 <p>	O
 
-
 De	O
 uma	O
 populaÃ§Ã£o	O
@@ -427,7 +419,6 @@ sÃ­smico	O
 </p>	O
 
 <p>	O
-
 
 A	O
 recÃ©m	O
@@ -643,9 +634,7 @@ Portugal	B-LOCAL
 </p>	O
 
 
-
 <p>	O
-
 
 
 New	B-LOCAL
@@ -657,11 +646,9 @@ New	B-LOCAL
 York	I-LOCAL
 
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 mÃªs	O
@@ -669,7 +656,6 @@ passado	O
 
 ,	O
 o	O
-
 
 presidente	O
 da	O
@@ -679,7 +665,6 @@ de	O
 
 Nova	B-LOCAL
 Iorque	I-LOCAL
-
 
 ,	O
 
@@ -718,11 +703,9 @@ candidatura	O
 independente	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 E	O
 se	O
@@ -808,11 +791,9 @@ no	O
 cargo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Este	O
 cenÃ¡rio	O
@@ -910,11 +891,9 @@ Kerry	B-PESSOA
 -RRB-	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Como	O
 recordava	O
@@ -999,11 +978,9 @@ SÃ©ries	I-ACONTECIMENTO
 -RRB-	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Para	O
 uma	O
@@ -1167,18 +1144,14 @@ Lisboa	B-LOCAL
 
 .	O
 
-
 </p>	O
-
 
 
 <p>	O
 
-
 Nuno	B-PESSOA
 Ãlvares	I-PESSOA
 Pereira	I-PESSOA
-
 
 </p>	O
 
@@ -1189,7 +1162,6 @@ Biografia	O
 </p>	O
 
 <p>	O
-
 
 Nuno	B-PESSOA
 Ãlvares	I-PESSOA
@@ -1229,11 +1201,9 @@ Carvalhal	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Casou	O
 com	O
@@ -1264,11 +1234,9 @@ Azambuja	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Quando	O
 o	O
@@ -1338,14 +1306,12 @@ filho	O
 ilegÃ­timo	O
 de	O
 
-
 Pedro	B-PESSOA
 I	I-PESSOA
 
 de	O
 
 Portugal	B-LOCAL
-
 
 ,	O
 
@@ -1394,7 +1360,6 @@ Avis	I-PESSOA
 
 nomeia-o	O
 
-
 CondestÃ¡vel	B-PESSOA
 
 de	O
@@ -1409,11 +1374,9 @@ OurÃ©m	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 gÃ©nio	O
@@ -1434,11 +1397,9 @@ Aljubarrota	I-ACONTECIMENTO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 gÃ©nio	O
@@ -1459,11 +1420,9 @@ Aljubarrota	I-ACONTECIMENTO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 6	B-TEMPO
@@ -1487,13 +1446,11 @@ Coimbra	B-LOCAL
 
 como	O
 
-
 Rei	B-PESSOA
 
 de	O
 
 Portugal	B-LOCAL
-
 
 .	O
 Esta	O
@@ -1568,11 +1525,9 @@ do	O
 paÃ­s	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 14	B-TEMPO
@@ -1677,13 +1632,11 @@ da	O
 morte	O
 de	O
 
-
 JoÃ£o	B-PESSOA
 
 de	O
 
 Castela	B-LOCAL
-
 
 ,	O
 dedicou-se	O
@@ -1715,11 +1668,9 @@ novos	O
 ataques	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Do	O
 seu	O
@@ -1797,13 +1748,10 @@ religiosa	O
 carmelita	O
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Biografia	O
 de	O
@@ -1811,11 +1759,9 @@ de	O
 Dead	B-PESSOA
 Fish	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Dead	B-PESSOA
 Fish	I-PESSOA
@@ -1846,7 +1792,6 @@ Brasil	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -1856,7 +1801,6 @@ HistÃ³ria	O
 </p>	O
 
 <p>	O
-
 
 Tudo	O
 comeÃ§ou	O
@@ -2081,11 +2025,9 @@ Em	O
 gravaram	O
 um	O
 
-
 CD	B-COISA
 Ao	I-COISA
 Vivo	I-COISA
-
 
 no	O
 
@@ -2296,9 +2238,7 @@ da	O
 carreira	O
 .	O
 
-
 </p>	O
-
 
 
 Depoimento	O
@@ -2306,7 +2246,6 @@ de	O
 Arlete	B-PESSOA
 Lopes	I-PESSOA
 Crispino	I-PESSOA
-
 
 P	O
 -	O
@@ -2345,7 +2284,6 @@ onde	O
 eles	O
 nasceram	O
 .	O
-
 
 R	O
 -	O
@@ -2426,7 +2364,6 @@ do	I-LOCAL
 Brasil	I-LOCAL
 .	O
 
-
 P	O
 -	O
 Conta	O
@@ -2450,7 +2387,6 @@ irmÃ£os	O
 sua	O
 casa	O
 .	O
-
 
 R	O
 -	O
@@ -4143,7 +4079,6 @@ sustentando	O
 tudo	O
 .	O
 
-
 P	O
 -	O
 Como	O
@@ -4155,14 +4090,12 @@ as	O
 situaÃ§Ãµes	O
 ?	O
 
-
 R	O
 -	O
 Como	O
 ela	O
 enfrentava	O
 ?	O
-
 
 P	O
 -	O
@@ -4171,7 +4104,6 @@ quando	O
 seu	O
 pai	O
 ...	O
-
 
 R	O
 -	O
@@ -5303,7 +5235,6 @@ um	O
 comunista	O
 .	O
 
-
 P	O
 -	O
 Mas	O
@@ -5317,7 +5248,6 @@ sÃ³	O
 umas	O
 idÃ©ias	O
 ?	O
-
 
 R	O
 -	O
@@ -5491,7 +5421,6 @@ abertamente	O
 nÃ©	O
 ?	O
 
-
 P	O
 -	O
 Ele	O
@@ -5502,7 +5431,6 @@ polÃ­tica	O
 com	O
 vocÃªs	O
 ?	O
-
 
 R	O
 -	O
@@ -5680,7 +5608,6 @@ muda	O
 nada	O
 .	O
 
-
 P	O
 -	O
 Aqui	O
@@ -5693,7 +5620,6 @@ a	O
 mesma	O
 coisa	O
 ?	O
-
 
 R	O
 -	O
@@ -6254,14 +6180,12 @@ ok	O
 nÃ©	O
 ?	O
 
-
 P	O
 -	O
 E	O
 os	O
 namoricos	O
 ?	O
-
 
 R	O
 -	O
@@ -6817,7 +6741,6 @@ da	O
 fita	O
 -RRB-	O
 
-
 Joelfina	B-PESSOA
 
 Mais	O
@@ -6825,7 +6748,6 @@ uma	O
 palavra	O
 nÃ£o	O
 decifrada	O
-
 
 
 O	O
@@ -6893,7 +6815,6 @@ CoraÃ§Ã£o	I-ABSTRACCAO
 de	I-ABSTRACCAO
 Jesus	I-ABSTRACCAO
 .	O
-
 
 A	O
 mistura	O
@@ -7359,4 +7280,3 @@ excursÃµes	O
 a	O
 Goa	B-LOCAL
 .	O
-

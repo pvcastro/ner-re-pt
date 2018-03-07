@@ -1,18 +1,13 @@
-
-
 <p>	O
-
 
 Biografia	O
 de	O
 
 Fitacola	B-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 
@@ -84,11 +79,9 @@ formaÃ§Ã£o	O
 actual	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Desde	O
 entÃ£o	O
@@ -124,11 +117,9 @@ seu	O
 desempenho	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 
@@ -224,7 +215,6 @@ estÃ¡	O
 mal	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -314,7 +304,6 @@ destaque	O
 
 <p>	O
 
-
 Em	O
 dois	O
 anos	O
@@ -338,11 +327,9 @@ se	O
 destacam	O
 :	O
 
-
 </p>	O
 
 <p>	O
-
 
 Cercal	B-ACONTECIMENTO
 Rock	I-ACONTECIMENTO
@@ -350,11 +337,9 @@ Rock	I-ACONTECIMENTO
 ediÃ§Ã£o	I-ACONTECIMENTO
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Festival	B-ACONTECIMENTO
 AcÃ§Ã£o	I-ACONTECIMENTO
@@ -370,11 +355,9 @@ Terceira	I-LOCAL
 
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 RecepÃ§Ã£o	B-ACONTECIMENTO
 ao	I-ACONTECIMENTO
@@ -393,11 +376,9 @@ e	O
 
 Fonzie	B-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Queima	B-ACONTECIMENTO
 das	I-ACONTECIMENTO
@@ -417,11 +398,9 @@ e	O
 Boss	B-PESSOA
 AC	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Semana	B-ACONTECIMENTO
 AcadÃ©mica	I-ACONTECIMENTO
@@ -444,11 +423,9 @@ e	O
 Expensive	B-PESSOA
 Soul	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Semana	B-ACONTECIMENTO
 AcadÃ©mica	I-ACONTECIMENTO
@@ -465,11 +442,9 @@ com	O
 Tara	B-PESSOA
 Perdida	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Hardclub	B-LOCAL
 
@@ -486,11 +461,9 @@ com	O
 Twenty	B-PESSOA
 Toon	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 RecepÃ§Ã£o	B-ACONTECIMENTO
 ao	I-ACONTECIMENTO
@@ -522,11 +495,9 @@ Alemanha	B-LOCAL
 
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 RockOff	B-ACONTECIMENTO
 2006	I-ACONTECIMENTO
@@ -539,11 +510,9 @@ Cantanhede	B-LOCAL
 
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 MarÃ§o	B-ACONTECIMENTO
 Jovem	I-ACONTECIMENTO
@@ -557,11 +526,9 @@ com	O
 
 Triplet	B-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Vans/Eastpak	B-ACONTECIMENTO
 Club	I-ACONTECIMENTO
@@ -597,11 +564,9 @@ e	O
 Strike	B-PESSOA
 Anywhere	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Sesimbra	B-ACONTECIMENTO
 Xtream	I-ACONTECIMENTO
@@ -615,7 +580,6 @@ Sesimbra	B-LOCAL
 
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
@@ -626,7 +590,6 @@ Discografia	O
 </p>	O
 
 <p>	O
-
 
 Os	O
 
@@ -663,7 +626,6 @@ Pensa	I-ABSTRACCAO
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -675,7 +637,6 @@ recentes/projectos	O
 </p>	O
 
 <p>	O
-
 
 Neste	O
 nomento	O
@@ -724,7 +685,6 @@ de	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -736,44 +696,35 @@ Elementos	O
 
 <p>	O
 
-
 Diogo	B-PESSOA
 
 Guitarra	O
 
-
 </p>	O
 
 <p>	O
-
 
 Libelinha	B-PESSOA
 
 Baixo/coros	O
 
-
 </p>	O
 
 <p>	O
-
 
 Besugo	B-PESSOA
 
 Guitarra	O
 
-
 </p>	O
 
 <p>	O
-
 
 Xico	B-PESSOA
 
 Bateria/coros	O
 
-
 </p>	O
-
 
 
 V	B-ACONTECIMENTO
@@ -790,7 +741,6 @@ V	B-ACONTECIMENTO
 ENANCIB	I-ACONTECIMENTO
 -RRB-	O
 
-
 Belo	B-LOCAL
 Horizonte	I-LOCAL
 ,	O
@@ -803,14 +753,12 @@ novembro	I-TEMPO
 de	I-TEMPO
 2003	I-TEMPO
 
-
 Primeiro	O
 anÃºncio	O
 e	O
 chamada	O
 de	O
 trabalhos	O
-
 
 A	O
 AssociaÃ§Ã£o	B-ORGANIZACAO
@@ -875,13 +823,11 @@ pesquisas	O
 
 ***	O
 
-
 Normas	O
 para	O
 apresentaÃ§Ã£o	O
 de	O
 trabalhos	O
-
 
 As	O
 pesquisas	O
@@ -1013,7 +959,6 @@ da	I-ABSTRACCAO
 InformaÃ§Ã£o	I-ABSTRACCAO
 .	O
 
-
 Os	O
 trabalhos	O
 deverÃ£o	O
@@ -1054,12 +999,10 @@ dos	O
 anais	O
 :	O
 
-
 Â·	O
 estrutura	O
 conceitual	O
 :	O
-
 
 .	O
 abrangÃªncia	O
@@ -1085,12 +1028,10 @@ dos	O
 conceitos	O
 .	O
 
-
 Â·	O
 estrutura	O
 formal	O
 :	O
-
 
 .	O
 serÃ£o	O
@@ -1126,7 +1067,6 @@ dados	O
 ser	O
 financiada	O
 ;	O
-
 
 .	O
 indicaÃ§Ã£o	O
@@ -1270,11 +1210,9 @@ sem	O
 paginaÃ§Ã£o	O
 .	O
 
-
 Entrega	O
 dos	O
 trabalhos	O
-
 
 Os	O
 trabalhos	O
@@ -1341,7 +1279,6 @@ de	I-TEMPO
 abril	I-TEMPO
 de	I-TEMPO
 2003	I-TEMPO
-
 
 
 Nossa	O
@@ -1696,9 +1633,7 @@ ediÃ§Ã£o	O
 .	O
 
 
-
 <p>	O
-
 
 IndÃºstria	B-ABSTRACCAO
 e	O
@@ -1710,7 +1645,6 @@ InformÃ¡tica	B-ABSTRACCAO
 </p>	O
 
 <p>	O
-
 
 Consultoria	B-ORGANIZACAO
 e	I-ORGANIZACAO
@@ -1749,13 +1683,11 @@ sport	O
 
 <p>	O
 
-
 http://www.rml.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 CooperSis	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -1783,13 +1715,11 @@ tem	O
 
 <p>	O
 
-
 http://www.airtonmolena.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Credi-TelemÃ¡tica	B-ORGANIZACAO
 Eletro-EletrÃ´nicos	I-ORGANIZACAO
@@ -1828,13 +1758,11 @@ aqui	O
 
 <p>	O
 
-
 http://www.credi.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Croma	B-ORGANIZACAO
 EletrÃ´nica	I-ORGANIZACAO
@@ -1873,13 +1801,11 @@ PABX	O
 
 <p>	O
 
-
 http://www.divulgacao.com.br/croma	O
 
 </p>	O
 
 <p>	O
-
 
 Darun	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -1906,13 +1832,11 @@ suprimentos	O
 
 <p>	O
 
-
 http://www.darun.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Desenhos	O
 em	O
@@ -1958,13 +1882,11 @@ e-mail	O
 
 <p>	O
 
-
 http://www.marckservice.cjb.net/	O
 
 </p>	O
 
 <p>	O
-
 
 Desenvolvimentos	O
 de	O
@@ -1994,13 +1916,11 @@ concorrÃªncia	O
 
 <p>	O
 
-
 http://www.projetoseletronicos.hpg.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 DHCP	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -2060,13 +1980,11 @@ fax	O
 
 <p>	O
 
-
 http://www.dhcp.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Di	B-ORGANIZACAO
 Bello	I-ORGANIZACAO
@@ -2106,13 +2024,11 @@ manutenÃ§Ã£o	O
 
 <p>	O
 
-
 http://www.webspace.com.br/dibello	O
 
 </p>	O
 
 <p>	O
-
 
 Diacon	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -2135,15 +2051,12 @@ sistemas	O
 
 <p>	O
 
-
 http://www.diacon.com.br	O
 
 </p>	O
 
 
-
 <p>	O
-
 
 Tratado	B-OBRA
 de	I-OBRA
@@ -2155,11 +2068,9 @@ Lisboa	I-OBRA
 
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -2216,11 +2127,9 @@ de	O
 1	O
 -RSB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -2293,7 +2202,6 @@ de	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -2303,7 +2211,6 @@ HistÃ³ria	O
 </p>	O
 
 <p>	O
-
 
 A	O
 emenda	O
@@ -2431,11 +2338,9 @@ UniÃ£o	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Portugal	B-ORGANIZACAO
 
@@ -2563,9 +2468,7 @@ em	O
 
 .	O
 
-
 </p>	O
-
 
 
 Quem	O
@@ -3060,7 +2963,6 @@ responsabilidade	O
 .	O
 
 
-
 Jornal	B-OBRA
 Bom	I-OBRA
 Dia	I-OBRA
@@ -3385,9 +3287,7 @@ Direitos	O
 Reservados	O
 
 
-
 <p>	O
-
 
 ''	O
 
@@ -3404,11 +3304,9 @@ Bombshell	I-PESSOA
 
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 Depois	O
 de	O
@@ -3534,11 +3432,9 @@ Hollywood	B-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 imagem	O
@@ -3721,11 +3617,9 @@ Memorial	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Carmen	O
 Miranda	O
@@ -3958,11 +3852,9 @@ Heinrich	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 E	O
 foi	O
@@ -3976,7 +3868,6 @@ no	O
 Cassino	B-LOCAL
 da	O
 Urca	B-LOCAL
-
 
 ,	O
 no	O
@@ -4059,7 +3950,6 @@ jÃ¡	O
 conheceu	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -4069,7 +3959,6 @@ ServiÃ§o	O
 </p>	O
 
 <p>	O
-
 
 Carmen	O
 Miranda	O
@@ -4158,9 +4047,7 @@ Is	I-OBRA
 My	I-OBRA
 Business	I-OBRA
 
-
 </p>	O
-
 
 
 Uma	O
@@ -4551,7 +4438,6 @@ comarca	O
 de	O
 Resende	B-LOCAL
 .	O
-
 
 
 <p>	O
@@ -5911,7 +5797,6 @@ portuÃ¡rias	O
 </p>	O
 
 
-
 Actv	O
 Home	O
 Page	O
@@ -6337,9 +6222,7 @@ ou	O
 pedromaya@mail.telepac.pt	O
 
 
-
 <p>	O
-
 
 Em	O
 Dezembro	B-TEMPO
@@ -6349,7 +6232,6 @@ Lisboa	B-LOCAL
 </p>	O
 
 <p>	O
-
 
 SÃ³crates	B-PESSOA
 :	O
@@ -6372,7 +6254,6 @@ Mugabe	B-PESSOA
 </p>	O
 
 <p>	O
-
 
 A	O
 cimeira	O
@@ -6427,7 +6308,6 @@ UE	B-LOCAL
 </p>	O
 
 <p>	O
-
 
 ``	O
 O	O
@@ -6495,7 +6375,6 @@ Lusa	O
 
 <p>	O
 
-
 O	O
 Zimbabwe	B-ORGANIZACAO
 foi	O
@@ -6525,7 +6404,6 @@ presente	O
 </p>	O
 
 <p>	O
-
 
 ``	O
 Esta	O
@@ -6577,7 +6455,6 @@ SÃ³crates	B-PESSOA
 
 <p>	O
 
-
 ``	O
 O	O
 objectivo	O
@@ -6620,7 +6497,6 @@ lembrou	O
 
 <p>	O
 
-
 ``	O
 Gostaria	O
 que	O
@@ -6644,9 +6520,7 @@ insistiu	O
 </p>	O
 
 
-
 <p>	O
-
 
 JosÃ©	B-PESSOA
 SÃ³crates	I-PESSOA
@@ -6659,11 +6533,9 @@ dos	O
 seis	O
 meses	O
 
-
 </p>	O
 
 <p>	O
-
 
 UE	B-ORGANIZACAO
 
@@ -6678,11 +6550,9 @@ da	O
 presidÃªncia	O
 portuguesa	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -6732,11 +6602,9 @@ ano	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 DurÃ£o	B-PESSOA
 Barroso	I-PESSOA
@@ -6771,11 +6639,9 @@ UE	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 ano	O
@@ -6823,11 +6689,9 @@ tratado	O
 europeu	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 DurÃ£o	B-PESSOA
 Barroso	I-PESSOA
@@ -6882,11 +6746,9 @@ esta	O
 etapa	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 seu	O
@@ -6944,11 +6806,9 @@ com	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 DurÃ£o	B-PESSOA
 Barroso	I-PESSOA
@@ -6996,11 +6856,9 @@ Europeia	I-OBRA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Entre	O
 os	O
@@ -7064,9 +6922,7 @@ falhar	O
 sublinhou	O
 .	O
 
-
 </p>	O
-
 
 
 Navios	O
@@ -7077,7 +6933,6 @@ e	O
 espanhÃ³is	O
 em	O
 LeixÃµes	B-LOCAL
-
 
 Uma	O
 forÃ§a	O
@@ -7195,7 +7050,6 @@ Contex	B-ACONTECIMENTO
 .	O
 
 
-
 PCP	B-ORGANIZACAO
 de	O
 Braga	B-LOCAL
@@ -7254,9 +7108,7 @@ dia	B-TEMPO
 .	O
 
 
-
 <p>	O
-
 
 COISAS	B-OUTRO
 DA	I-OUTRO
@@ -7279,11 +7131,9 @@ DIÃRIO	B-COISA
 DE	I-COISA
 NOTÃCIAS	I-COISA
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 dia	O
@@ -7547,9 +7397,7 @@ e	O
 cala	O
 .	O
 
-
 </p>	O
-
 
 
 SISTEMA	O
@@ -7926,7 +7774,6 @@ fÃ­gado	O
 .	O
 
 
-
 <p>	O
 
 A	O
@@ -7938,7 +7785,6 @@ MAÃÃ	O
 </p>	O
 
 <p>	O
-
 
 Durante	O
 a	O
@@ -8066,13 +7912,10 @@ ignorante	O
 ''	O
 ?	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 ONDE	O
 ESTÃ	O
@@ -8082,11 +7925,9 @@ PSD	B-ABSTRACCAO
 
 ?	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ã	O
 sÃ³	O
@@ -8274,11 +8115,9 @@ a	O
 tinha	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 pergunta	O
@@ -8440,11 +8279,9 @@ PS	B-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 razÃ£o	O
@@ -8607,11 +8444,9 @@ da	O
 oposiÃ§Ã£o	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 que	O
@@ -8834,11 +8669,9 @@ do	O
 espectÃ¡culo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Permitam-me	O
 por	O
@@ -8956,11 +8789,9 @@ era	O
 mau	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Quando	O
 dois	O
@@ -9052,11 +8883,9 @@ devam	O
 entrar	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Este	O
 ``	O
@@ -9240,11 +9069,9 @@ ter	O
 acabado	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Mas	O
 o	O
@@ -9462,11 +9289,9 @@ essa	O
 campanha	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ã	O
 verdade	O
@@ -9685,11 +9510,9 @@ de	O
 governabilidade	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Se	O
 estamos	O
@@ -9793,9 +9616,7 @@ na	O
 cidade	O
 .	O
 
-
 </p>	O
-
 
 
 Jornal	B-OBRA
@@ -10129,7 +9950,6 @@ XDreams	B-ORGANIZACAO
 MultimÃ­dia	I-ORGANIZACAO
 '	O
 2000	B-TEMPO
-
 
 
 <p>	O
@@ -11239,7 +11059,6 @@ www.cybertracker.co.za	O
 </p>	O
 
 
-
 MICROSOFT	B-ORGANIZACAO
 E	O
 LIVRARIAS	O
@@ -11250,7 +11069,6 @@ PARA	O
 E-BOOKs	O
 '	O
 .	O
-
 
 Ontem	O
 a	O
@@ -11523,7 +11341,6 @@ dos	O
 livros	O
 .	O
 
-
 -LRB-	O
 Los	B-ORGANIZACAO
 Angeles	I-ORGANIZACAO
@@ -11552,7 +11369,6 @@ Informacao	I-ABSTRACCAO
 ou	O
 
 
-
 Psicomotricidade	B-ABSTRACCAO
 
 eppa	O
@@ -11561,7 +11377,6 @@ eppa@eppa.com.br	O
 -RSB-	O
 
 Psicomotricidade	B-ABSTRACCAO
-
 
 Programa	B-OBRA
 de	I-OBRA
@@ -11649,10 +11464,8 @@ linguagem	O
 corporal	O
 .	O
 
-
 ConteÃºdo	O
 ProgramÃ¡tico	O
-
 
 *	O
 Principais	O
@@ -11724,9 +11537,7 @@ nas	O
 sessÃµes	O
 .	O
 
-
 Destina-se	O
-
 
 PsicÃ³logos	O
 ,	O
@@ -11743,9 +11554,7 @@ de	O
 afins	O
 .	O
 
-
 Docente	O
-
 
 *	O
 VÃ¢nia	B-PESSOA
@@ -11769,18 +11578,14 @@ PUC	B-ORGANIZACAO
 .	O
 
 
-
 Status	O
-
 
 C/horÃ¡ria	O
 033	O
 
-
 Parcela	O
 R$	O
 .	O
-
 
 NÂº	O
 parcela	O
@@ -11789,13 +11594,10 @@ Total	O
 444,00	O
 
 
-
 InÃ­cio	O
-
 
 TÃ©rmino	O
 09/05/2003	B-TEMPO
-
 
 Dia	O
 Sex	B-TEMPO
@@ -11803,9 +11605,7 @@ Sex	B-TEMPO
 Ã s	I-TEMPO
 22h	I-TEMPO
 
-
 Local	O
-
 
 Rua	B-LOCAL
 13	I-LOCAL
@@ -11818,7 +11618,6 @@ Bela	B-LOCAL
 Vista	I-LOCAL
 -	O
 -LRB-11-RRB-Â 3262Â 3256	O
-
 
 Para	O
 participar	O
@@ -11873,7 +11672,6 @@ o	O
 formulÃ¡rio	O
 .	O
 
-
 Caso	O
 nÃ£o	O
 visualizar	O
@@ -11882,7 +11680,6 @@ e-mail	O
 ,	O
 clique	O
 aqui	O
-
 
 
 A	O
@@ -12134,7 +11931,6 @@ serviÃ§os	O
 oferecidos	O
 .	O
 
-
 O	O
 Conteudo	O
 da	O
@@ -12149,9 +11945,7 @@ seu	O
 sumario	O
 :	O
 
-
 SUMÃRIO	O
-
 
 COMUNICAÃÃO	O
 &	O
@@ -12159,7 +11953,6 @@ amp	O
 ;	O
 INFORMAÃÃO	O
 :	O
-
 
 O	B-OBRA
 Rumor	I-OBRA
@@ -12408,7 +12201,6 @@ Tania	B-PESSOA
 Tel.011-2241654	O
 .	O
 
-
 O	O
 artigo	O
 que	O
@@ -12432,7 +12224,6 @@ que	O
 trata	O
 de	O
 :	O
-
 
 Informacao	O
 e	O
@@ -12630,7 +12421,6 @@ informaÃ§Ã£o	O
 .	O
 
 
-
 <p>	O
 
 contra-revoluÃ§Ãµes	O
@@ -12639,7 +12429,6 @@ musicais	O
 </p>	O
 
 <p>	O
-
 
 Talvez	O
 que	O
@@ -12680,7 +12469,6 @@ bocados	O
 
 <p>	O
 
-
 ``	O
 Se	O
 a	O
@@ -12718,7 +12506,6 @@ pÃºblico	O
 
 <p>	O
 
-
 Metzger	O
 ,	O
 Heins-Klaus	O
@@ -12730,7 +12517,6 @@ p.	O
 </p>	O
 
 <p>	O
-
 
 Afinal	O
 nÃ£o	O
@@ -12745,7 +12531,6 @@ pÃºblico	O
 
 <p>	O
 
-
 posted	O
 by	O
 DGP	O
@@ -12757,14 +12542,12 @@ AM	O
 
 <p>	O
 
-
 2	B-VALOR
 Comments	O
 :	O
 </p>	O
 
 <p>	O
-
 
 At	O
 1:55	O
@@ -12778,7 +12561,6 @@ said	O
 </p>	O
 
 <p>	O
-
 
 SerÃ¡	O
 que	O
@@ -12830,7 +12612,6 @@ contemporÃ¢nea	O
 <p>	O
 
 
-
 At	O
 2:20	O
 AM	O
@@ -12843,7 +12624,6 @@ said	O
 
 <p>	O
 
-
 Claro	O
 que	O
 sim	O
@@ -12852,7 +12632,6 @@ sim	O
 </p>	O
 
 <p>	O
-
 
 Nem	O
 sei	O
@@ -12868,7 +12647,6 @@ post	O
 </p>	O
 
 <p>	O
-
 
 Estava	O
 a	O
@@ -12889,7 +12667,6 @@ de	O
 </p>	O
 
 <p>	O
-
 
 Pareceu-me	O
 infeliz	O
@@ -12917,7 +12694,6 @@ pÃºblico	O
 </p>	O
 
 <p>	O
-
 
 No	O
 fundo	O
@@ -12974,7 +12750,6 @@ Cunhal	I-PESSOA
 
 <p>	O
 
-
 De	O
 qualquer	O
 maneira	O
@@ -12993,14 +12768,12 @@ anos	O
 </p>	O
 
 
-
 CURRENT	O
 CITES	O
 ARTICLE	O
 SEARCH	O
 
 http://sunsite.Berkeley.EDU/CurrentCites/articlesearch.html	O
-
 
 Novo	O
 serviÃ§o	O
@@ -13038,7 +12811,6 @@ informaÃ§Ã£o	O
 na	O
 rede	O
 .	O
-
 
 --	O
 
@@ -13098,7 +12870,6 @@ ANCIB	B-ORGANIZACAO
 ICQ	O
 ,	O
 25328270	B-OUTRO
-
 
 
 A	O
@@ -14065,7 +13836,6 @@ de	O
 dez	O
 anos	O
 .	O
-
 
 
 <p>	O
@@ -15306,4 +15076,3 @@ vocÃª	O
 .	O
 
 </p>	O
-

@@ -1,5 +1,3 @@
-
-
 O	O
 BrazÃ£o	O
 da	O
@@ -99,7 +97,6 @@ ou	O
 HistÃ³ricos	B-ABSTRACCAO
 ''	O
 .	O
-
 
 Deus	B-PESSOA
 ,	O
@@ -303,7 +300,6 @@ Costa	I-PESSOA
 V.	I-PESSOA
 T.	I-PESSOA
 Pereira	I-PESSOA
-
 
 
 MÃ©xico	B-ORGANIZACAO
@@ -725,16 +721,13 @@ absurda	O
 .	O
 
 
-
 DUAS	O
 EXPOSIÃÃES	O
 EM	O
 PORTUGAL	B-LOCAL
 
-
 TERESA	B-PESSOA
 REBELO	I-PESSOA
-
 
 O	O
 PASSADO	O
@@ -784,7 +777,6 @@ em	O
 todo	O
 este	O
 processo	O
-
 
 Promovida	O
 pela	O
@@ -1287,13 +1279,11 @@ Ho	I-ORGANIZACAO
 Tung	I-ORGANIZACAO
 .	O
 
-
 Liberdade	O
 de	O
 imprensa	O
 e	O
 censura	O
-
 
 Bem	O
 lembrado	O
@@ -1627,12 +1617,10 @@ de	I-TEMPO
 .	O
 ''	O
 
-
 Mais	O
 perto	O
 do	O
 presente	O
-
 
 Mais	O
 perto	O
@@ -2070,7 +2058,6 @@ a	O
 China	B-ORGANIZACAO
 .	O
 
-
 Caixa	O
 :	O
 
@@ -2079,7 +2066,6 @@ ORIENTE/OCIDENTE	B-ACONTECIMENTO
 MACAU	B-LOCAL
 NO	O
 PORTO	B-LOCAL
-
 
 ''	O
 Oriente/Ocidente	B-ACONTECIMENTO
@@ -2317,7 +2303,6 @@ Macau	B-LOCAL
 F.A.	B-PESSOA
 
 
-
 VEJA	O
 NA	O
 TV	O
@@ -2391,9 +2376,7 @@ estoques	O
 .	O
 
 
-
 <p>	O
-
 
 PreÃ§o	O
 do	O
@@ -2409,11 +2392,9 @@ de	O
 100	B-VALOR
 dÃ³lares	I-VALOR
 
-
 </p>	O
 
 <p>	O
-
 
 03.01.2008	B-TEMPO
 
@@ -2421,22 +2402,18 @@ dÃ³lares	I-VALOR
 
 08h46	B-TEMPO
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 
 Lurdes	B-PESSOA
 Ferreira	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Ãs	O
 17h30	B-TEMPO
@@ -2520,11 +2497,9 @@ dÃ©cada	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 recorde	O
@@ -2603,13 +2578,11 @@ Londres	B-LOCAL
 ,	O
 o	O
 
-
 Brent	B-COISA
 do	I-COISA
 Mar	I-COISA
 do	I-COISA
 Norte	I-COISA
-
 
 ,	O
 tambÃ©m	O
@@ -2653,11 +2626,9 @@ dÃ³lares	I-VALOR
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 onda	O
@@ -2849,11 +2820,9 @@ outras	O
 divisas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Vamos	O
@@ -2904,11 +2873,9 @@ Melek	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Para	O
 este	O
@@ -3038,11 +3005,9 @@ de	O
 petrÃ³leo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 situaÃ§Ã£o	O
@@ -3083,11 +3048,9 @@ Reuters	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Mas	O
 estes	O
@@ -3237,11 +3200,9 @@ Reuters	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 preÃ§o	O
@@ -3299,11 +3260,9 @@ dÃ³lares	I-VALOR
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 convicÃ§Ã£o	O
@@ -3434,11 +3393,9 @@ grande	O
 qualidade	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Para	O
 analistas	O
@@ -3485,11 +3442,9 @@ procura	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Mas	O
 hÃ¡	O
@@ -3521,7 +3476,6 @@ Barakat	I-PESSOA
 
 ,	O
 
-
 vice-presidente	B-PESSOA
 da	I-PESSOA
 Macquarie	I-PESSOA
@@ -3532,20 +3486,16 @@ EUA	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Lobotomia	O
 
 </p>	O
 
 <p>	O
-
 
 HistÃ³ria	O
 
@@ -3604,7 +3554,6 @@ em	O
 
 <p>	O
 
-
 A	O
 Leucotomia	B-COISA
 foi	O
@@ -3654,7 +3603,6 @@ neurolÃ³gica	O
 </p>	O
 
 <p>	O
-
 
 Inicialmente	O
 foi	O
@@ -3897,7 +3845,6 @@ interna	O
 .	O
 
 </p>	O
-
 
 
 Fernando	B-PESSOA
@@ -4296,9 +4243,7 @@ AnalÃ­tica	I-ABSTRACCAO
 .	O
 
 
-
 <p>	O
-
 
 O	O
 Tour	B-ACONTECIMENTO
@@ -4331,7 +4276,6 @@ monegasco	O
 
 <p>	O
 
-
 O	O
 inÃ­cio	O
 do	O
@@ -4356,7 +4300,6 @@ FÃ³rmula	B-ABSTRACCAO
 </p>	O
 
 <p>	O
-
 
 ``	O
 O	O
@@ -4395,7 +4338,6 @@ decisÃ£o	O
 
 <p>	O
 
-
 O	O
 Tour	B-ACONTECIMENTO
 de	O
@@ -4413,7 +4355,6 @@ ausente	O
 .	O
 
 </p>	O
-
 
 
 MemÃ³ria	O
@@ -4459,7 +4400,6 @@ Transcrito	O
 por	O
 Mariana	B-PESSOA
 Fontes	I-PESSOA
-
 
 P	O
 -	O
@@ -4509,7 +4449,6 @@ por	O
 favor	O
 .	O
 
-
 R	O
 -	O
 LÃ¡zara	B-ABSTRACCAO
@@ -4517,7 +4456,6 @@ de	I-ABSTRACCAO
 Matos	I-ABSTRACCAO
 Camargo	I-ABSTRACCAO
 .	O
-
 
 P	O
 -	O
@@ -4529,12 +4467,10 @@ seu	O
 nascimento	O
 ?	O
 
-
 R	O
 -	O
 17/4/24	B-TEMPO
 .	O
-
 
 P	O
 -	O
@@ -4544,12 +4480,10 @@ nasceu	O
 aonde	O
 ?	O
 
-
 R	O
 -	O
 TijupÃ¡	B-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -4559,7 +4493,6 @@ SÃ£o	I-LOCAL
 Paulo	I-LOCAL
 ?	O
 
-
 R	O
 -	O
 Estado	B-LOCAL
@@ -4567,7 +4500,6 @@ de	I-LOCAL
 SÃ£o	I-LOCAL
 Paulo	I-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -4579,7 +4511,6 @@ senhora	O
 hoje	O
 ?	O
 
-
 R	O
 -	O
 Rua	B-LOCAL
@@ -4590,14 +4521,12 @@ Diniz	I-LOCAL
 704	O
 .	O
 
-
 P	O
 -	O
 SÃ£o	B-LOCAL
 Paulo	I-LOCAL
 capital	O
 ?	O
-
 
 R	O
 -	O
@@ -4608,7 +4537,6 @@ Francisco	I-LOCAL
 SÃ£o	B-LOCAL
 Paulo	I-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -4662,7 +4590,6 @@ da	O
 mÃ£e	O
 .	O
 
-
 Bem	O
 .	O
 Local	O
@@ -4684,7 +4611,6 @@ SÃ£o	I-LOCAL
 Paulo	I-LOCAL
 .	O
 
-
 P	O
 -	O
 E	O
@@ -4695,7 +4621,6 @@ nome	O
 dele	O
 ?	O
 
-
 R	O
 -	O
 Gabriel	B-ABSTRACCAO
@@ -4703,7 +4628,6 @@ Tolinho	I-ABSTRACCAO
 de	I-ABSTRACCAO
 Matos	I-ABSTRACCAO
 .	O
-
 
 P	O
 -	O
@@ -4713,7 +4637,6 @@ sua	O
 mÃ£e	O
 ?	O
 
-
 R	O
 -	O
 Francisca	B-ABSTRACCAO
@@ -4721,7 +4644,6 @@ Maria	I-ABSTRACCAO
 da	I-ABSTRACCAO
 ConceiÃ§Ã£o	I-ABSTRACCAO
 .	O
-
 
 P	O
 -	O
@@ -4738,7 +4660,6 @@ SÃ£o	I-LOCAL
 Paulo	I-LOCAL
 ?	O
 
-
 R	O
 -	O
 Nasceu	O
@@ -4753,7 +4674,6 @@ JÃ¡	O
 ouviu	O
 falar	O
 ?	O
-
 
 P	O
 -	O
@@ -4791,7 +4711,6 @@ eles	O
 eram	O
 ?	O
 
-
 R	O
 -	O
 O	O
@@ -4802,7 +4721,6 @@ era	O
 Paulino	B-ABSTRACCAO
 .	O
 
-
 P	O
 -	O
 De	O
@@ -4810,7 +4728,6 @@ onde	O
 ele	O
 era	O
 ?	O
-
 
 R	O
 -	O
@@ -4848,7 +4765,6 @@ Maria	B-ABSTRACCAO
 Teles	I-ABSTRACCAO
 .	O
 
-
 P	O
 -	O
 Eram	O
@@ -4858,12 +4774,10 @@ mesma	O
 regiÃ£o	O
 ?	O
 
-
 R	O
 -	O
 Todos	O
 .	O
-
 
 P	O
 -	O
@@ -4878,7 +4792,6 @@ tempo	O
 naquela	O
 regiÃ£o	O
 ?	O
-
 
 R	O
 -	O
@@ -4901,7 +4814,6 @@ seus	O
 filhos	O
 lÃ¡	O
 .	O
-
 
 P	O
 -	O
@@ -4933,7 +4845,6 @@ era	O
 sua	O
 infÃ¢ncia	O
 ?	O
-
 
 Ah	O
 ,	O
@@ -4978,7 +4889,6 @@ e	O
 feliz	O
 .	O
 
-
 P	O
 -	O
 Viviam	O
@@ -4988,7 +4898,6 @@ ou	O
 na	O
 roÃ§a	O
 ?	O
-
 
 R	O
 -	O
@@ -5014,13 +4923,11 @@ sempre	O
 mudava	O
 .	O
 
-
 P	O
 -	O
 Era	O
 sÃ­tio	O
 ?	O
-
 
 R	O
 -	O
@@ -5070,13 +4977,11 @@ mudar	O
 jÃ¡	O
 .	O
 
-
 P	O
 -	O
 Que	O
 beleza	O
 !	O
-
 
 R	O
 -	O
@@ -5138,7 +5043,6 @@ na	O
 outra	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -5156,14 +5060,12 @@ as	O
 mudanÃ§as	O
 ?	O
 
-
 R	O
 -	O
 Gostava	O
 .	O
 Gostava	O
 .	O
-
 
 P	O
 -	O
@@ -5175,7 +5077,6 @@ o	O
 que	O
 ?	O
 
-
 R	O
 -	O
 Na	O
@@ -5185,7 +5086,6 @@ carpinteiro	O
 tambÃ©m	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -5194,7 +5094,6 @@ mÃ£e	O
 da	O
 senhora	O
 ?	O
-
 
 R	O
 -	O
@@ -5213,7 +5112,6 @@ de	O
 tudo	O
 .	O
 
-
 P	O
 -	O
 Eram	O
@@ -5221,13 +5119,11 @@ muitos	O
 irmÃ£os	O
 ?	O
 
-
 R	O
 -	O
 Eram	O
 sete	O
 .	O
-
 
 P	O
 -	O
@@ -5238,7 +5134,6 @@ homens	O
 e	O
 mulheres	O
 ?	O
-
 
 R	O
 -	O
@@ -5257,7 +5152,6 @@ lembro	O
 bem	O
 agora	O
 .	O
-
 
 P	O
 -	O
@@ -5284,7 +5178,6 @@ em	O
 Conchas	B-LOCAL
 ?	O
 
-
 R	O
 -	O
 Estudava	O
@@ -5299,7 +5192,6 @@ sÃ³	O
 mamÃ£e	O
 .	O
 
-
 P	O
 -	O
 Em	O
@@ -5311,7 +5203,6 @@ escola	O
 era	O
 ?	O
 
-
 R	O
 -	O
 SÃ³	O
@@ -5322,7 +5213,6 @@ de	I-ORGANIZACAO
 Fartura	I-ORGANIZACAO
 .	O
 
-
 P	O
 -	O
 Ficou	O
@@ -5332,13 +5222,11 @@ que	O
 Ã©poca	O
 ?	O
 
-
 R	O
 -	O
 AtÃ©	B-TEMPO
 50	I-TEMPO
 .	O
-
 
 P	O
 -	O
@@ -5352,7 +5240,6 @@ seu	O
 marido	O
 ?	O
 
-
 Casei	O
 lÃ¡	O
 .	O
@@ -5361,7 +5248,6 @@ Vieira	I-PESSOA
 de	I-PESSOA
 Camargo	I-PESSOA
 .	O
-
 
 P	O
 -	O
@@ -5383,7 +5269,6 @@ a	O
 senhora	O
 ...	O
 
-
 R	O
 -	O
 Sim	O
@@ -5399,7 +5284,6 @@ O	O
 mesmo	O
 nome	O
 .	O
-
 
 P	O
 -	O
@@ -5425,7 +5309,6 @@ vivia	O
 na	O
 cidade	O
 ?	O
-
 
 R	O
 -	O
@@ -5457,7 +5340,6 @@ frente	O
 Matriz	B-LOCAL
 .	O
 
-
 P	O
 -	O
 A	O
@@ -5466,7 +5348,6 @@ trabalhava	O
 nessa	O
 cidade	O
 ?	O
-
 
 R	O
 -	O
@@ -5478,13 +5359,11 @@ trabalhava	O
 nÃ£o	O
 .	O
 
-
 P	O
 -	O
 SÃ³	O
 estudava	O
 ?	O
-
 
 R	O
 -	O
@@ -5512,7 +5391,6 @@ em	O
 casa	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -5533,7 +5411,6 @@ que	O
 ano	O
 ?	O
 
-
 Eu	O
 casei	O
 em	O
@@ -5553,7 +5430,6 @@ fazer	O
 anos	I-VALOR
 .	O
 
-
 P	O
 -	O
 TÃ¡	O
@@ -5572,13 +5448,11 @@ na	O
 praÃ§a	O
 ?	O
 
-
 R	O
 -	O
 Na	O
 praÃ§a	O
 .	O
-
 
 P	O
 -	O
@@ -5599,7 +5473,6 @@ na	O
 praÃ§a	O
 ?	O
 
-
 R	O
 -	O
 Andando	O
@@ -5609,7 +5482,6 @@ sorvete	O
 ,	O
 conversando	O
 .	O
-
 
 P	O
 -	O
@@ -5639,7 +5511,6 @@ era	O
 conta	O
 isso	O
 ...	O
-
 
 R	O
 -	O
@@ -5671,7 +5542,6 @@ pobre	O
 mesmo	O
 .	O
 
-
 P	O
 -	O
 O	O
@@ -5680,7 +5550,6 @@ que	O
 ele	O
 plantava	O
 ?	O
-
 
 R	O
 -	O
@@ -5700,7 +5569,6 @@ coisas	O
 aÃ­	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -5711,7 +5579,6 @@ na	O
 roÃ§a	O
 tambÃ©m	O
 ?	O
-
 
 R	O
 -	O
@@ -5735,7 +5602,6 @@ igual	O
 moleque	O
 .	O
 
-
 P	O
 -	O
 Era	O
@@ -5743,7 +5609,6 @@ igual	O
 a	O
 que	O
 ?	O
-
 
 R	O
 -	O
@@ -5780,7 +5645,6 @@ comigo	O
 mesmo	O
 .	O
 
-
 P	O
 -	O
 Que	O
@@ -5793,7 +5657,6 @@ gostava	O
 de	O
 fazer	O
 ?	O
-
 
 R	O
 -	O
@@ -5991,7 +5854,6 @@ ele	O
 era	O
 ...	O
 
-
 P	O
 -	O
 Ele	O
@@ -5999,7 +5861,6 @@ era	O
 muito	O
 severo	O
 ?	O
-
 
 R	O
 -	O
@@ -6127,7 +5988,6 @@ irmÃ£o	O
 tambÃ©m	O
 .	O
 
-
 P	O
 -	O
 Mas	O
@@ -6148,7 +6008,6 @@ para	O
 se	O
 divertir	O
 .	O
-
 
 R	O
 -	O
@@ -6195,19 +6054,16 @@ o	O
 caldeirÃ£o	O
 .	O
 
-
 P	O
 -	O
 Nossa	O
 !	O
-
 
 R	O
 -	O
 Era	O
 malvadeza	O
 .	O
-
 
 P	O
 -	O
@@ -6220,7 +6076,6 @@ dizia	O
 quando	O
 via	O
 ?	O
-
 
 A	O
 minha	O
@@ -6241,14 +6096,12 @@ mÃ£e	O
 tambÃ©m	O
 .	O
 
-
 P	O
 -	O
 Era	O
 bravo	O
 como	O
 ?	O
-
 
 R	O
 -	O
@@ -6338,7 +6191,6 @@ muito	O
 bom	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -6352,7 +6204,6 @@ senhora	O
 gostava	O
 mais	O
 ?	O
-
 
 R	O
 -	O
@@ -6492,7 +6343,6 @@ e	O
 ia	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -6503,7 +6353,6 @@ eram	O
 mais	O
 calmas	O
 ?	O
-
 
 R	O
 -	O
@@ -6518,7 +6367,6 @@ era	O
 assim	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -6528,14 +6376,12 @@ tambÃ©m	O
 casaram	O
 ?	O
 
-
 R	O
 -	O
 Casaram	O
 ,	O
 casaram	O
 .	O
-
 
 P	O
 -	O
@@ -6544,7 +6390,6 @@ mesmo	O
 no	O
 interior	O
 ?	O
-
 
 Ã	O
 ,	O
@@ -6576,7 +6421,6 @@ mais	O
 velhas	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -6594,14 +6438,12 @@ em	O
 que	O
 ?	O
 
-
 R	O
 -	O
 Da	O
 mesma	O
 cidade	O
 .	O
-
 
 P	O
 -	O
@@ -6613,7 +6455,6 @@ que	O
 qual	O
 atividade	O
 ?	O
-
 
 R	O
 -	O
@@ -6629,7 +6470,6 @@ as	O
 coisas	O
 dele	O
 .	O
-
 
 P	O
 -	O
@@ -6652,7 +6492,6 @@ com	O
 ele	O
 ?	O
 
-
 R	O
 -	O
 Fui	O
@@ -6662,7 +6501,6 @@ sÃ­tio	O
 com	O
 ele	O
 .	O
-
 
 P	O
 -	O
@@ -6675,14 +6513,12 @@ no	O
 sÃ­tio	O
 ?	O
 
-
 R	O
 -	O
 Uns	O
 20	B-VALOR
 anos	I-VALOR
 .	O
-
 
 P	O
 -	O
@@ -6703,7 +6539,6 @@ do	O
 dia	O
 ?	O
 
-
 R	O
 -	O
 Ah	O
@@ -6715,7 +6550,6 @@ dÃ¡	O
 para	O
 lembrar	O
 .	O
-
 
 P	O
 -	O
@@ -6730,7 +6564,6 @@ ele	O
 andava	O
 ?	O
 
-
 R	O
 -	O
 VocÃª	O
@@ -6743,13 +6576,11 @@ o	O
 lugar	O
 ?	O
 
-
 P	O
 -	O
 O	O
 lugar	O
 .	O
-
 
 R	O
 -	O
@@ -6797,7 +6628,6 @@ tudo	O
 nÃ©	O
 ?	O
 
-
 P	O
 -	O
 E	O
@@ -6805,7 +6635,6 @@ namorou	O
 muitos	O
 anos	O
 ?	O
-
 
 R	O
 -	O
@@ -6836,7 +6665,6 @@ o	O
 casamento	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -6848,7 +6676,6 @@ o	O
 casamento	O
 ?	O
 
-
 R	O
 -	O
 Ah	O
@@ -6857,7 +6684,6 @@ festa	O
 ,	O
 comida	O
 ...	O
-
 
 P	O
 -	O
@@ -6874,7 +6700,6 @@ lembra	O
 deste	O
 casamento	O
 .	O
-
 
 R	O
 -	O
@@ -6934,7 +6759,6 @@ bem	O
 pertinho	O
 .	O
 
-
 P	O
 -	O
 Casou	O
@@ -6951,7 +6775,6 @@ para	O
 a	O
 festa	O
 ?	O
-
 
 R	O
 -	O
@@ -7027,7 +6850,6 @@ durar	O
 pouco	O
 .	O
 
-
 P	O
 -	O
 Bom	O
@@ -7036,7 +6858,6 @@ Bom	O
 preferÃ­vel	O
 entÃ£o	O
 ...	O
-
 
 R	O
 -	O
@@ -7050,7 +6871,6 @@ tudo	O
 mais	O
 bonito	O
 .	O
-
 
 P	O
 -	O
@@ -7076,7 +6896,6 @@ nessa	O
 Ã©poca	O
 ?	O
 
-
 R	O
 -	O
 Nasceram	O
@@ -7088,7 +6907,6 @@ do	O
 outro	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -7097,12 +6915,10 @@ filhos	O
 foram	O
 ?	O
 
-
 R	O
 -	O
 Sete	O
 .	O
-
 
 P	O
 -	O
@@ -7116,7 +6932,6 @@ nomes	O
 destes	O
 filhos	O
 ?	O
-
 
 R	O
 -	O
@@ -7142,7 +6957,6 @@ e	O
 JosÃ©	B-ABSTRACCAO
 .	O
 
-
 P	O
 -	O
 O	O
@@ -7152,7 +6966,6 @@ novo	O
 o	O
 JosÃ©	B-PESSOA
 ?	O
-
 
 R	O
 -	O
@@ -7164,7 +6977,6 @@ que	O
 o	O
 JosÃ©	B-PESSOA
 .	O
-
 
 P	O
 -	O
@@ -7192,12 +7004,10 @@ a	O
 senhora	O
 ?	O
 
-
 R	O
 -	O
 Viveram	O
 .	O
-
 
 P	O
 -	O
@@ -7213,12 +7023,10 @@ de	O
 casada	O
 ?	O
 
-
 R	O
 -	O
 Casada	O
 ?	O
-
 
 P	O
 -	O
@@ -7235,7 +7043,6 @@ com	O
 as	O
 crianÃ§as	O
 ?	O
-
 
 R	O
 -	O
@@ -7273,7 +7080,6 @@ gente	O
 viver	O
 .	O
 
-
 P	O
 -	O
 A	O
@@ -7285,7 +7091,6 @@ por	O
 seu	O
 marido	O
 ?	O
-
 
 R	O
 -	O
@@ -7309,7 +7114,6 @@ pela	O
 janela	O
 .	O
 
-
 P	O
 -	O
 Ele	O
@@ -7319,7 +7123,6 @@ tipo	O
 de	O
 trabalho	O
 ?	O
-
 
 R	O
 -	O
@@ -7363,7 +7166,6 @@ muito	O
 bom	O
 .	O
 
-
 P	O
 -	O
 Era	O
@@ -7378,14 +7180,12 @@ o	O
 sÃ­tio	O
 ?	O
 
-
 R	O
 -	O
 Era	O
 bem	O
 perto	O
 .	O
-
 
 P	O
 -	O
@@ -7394,7 +7194,6 @@ as	O
 crianÃ§as	O
 estudavam	O
 ?	O
-
 
 R	O
 -	O
@@ -7409,7 +7208,6 @@ para	O
 a	O
 cidade	O
 .	O
-
 
 P	O
 -	O
@@ -7429,7 +7227,6 @@ desses	O
 anos	O
 todos	O
 ?	O
-
 
 R	O
 -	O
@@ -7453,7 +7250,6 @@ vontade	O
 tambÃ©m	O
 .	O
 
-
 P	O
 -	O
 Nessa	O
@@ -7468,13 +7264,11 @@ ou	O
 nÃ£o	O
 ?	O
 
-
 R	O
 -	O
 Ainda	O
 nÃ£o	O
 .	O
-
 
 P	O
 -	O
@@ -7482,7 +7276,6 @@ Ele	O
 veio	O
 tambÃ©m	O
 ?	O
-
 
 R	O
 -	O
@@ -7499,7 +7292,6 @@ deixou	O
 nÃ³s	O
 aqui	O
 .	O
-
 
 P	O
 -	O
@@ -7519,7 +7311,6 @@ crianÃ§as	O
 grandes	O
 aqui	O
 .	O
-
 
 R	O
 -	O
@@ -7549,7 +7340,6 @@ outro	O
 tambÃ©m	O
 .	O
 
-
 P	O
 -	O
 A	O
@@ -7562,7 +7352,6 @@ Paulo	I-LOCAL
 onde	O
 ?	O
 
-
 R	O
 -	O
 No	O
@@ -7570,7 +7359,6 @@ Bairro	B-LOCAL
 do	I-LOCAL
 LimÃ£o	I-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -7585,13 +7373,11 @@ do	I-LOCAL
 LimÃ£o	I-LOCAL
 ?	O
 
-
 R	O
 -	O
 Em	B-TEMPO
 60	I-TEMPO
 .	O
-
 
 P	O
 -	O
@@ -7607,7 +7393,6 @@ ou	O
 nÃ£o	O
 ?	O
 
-
 Em	B-TEMPO
 68	I-TEMPO
 eu	O
@@ -7615,7 +7400,6 @@ fui	O
 para	O
 Osasco	B-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -7635,7 +7419,6 @@ para	O
 viver	O
 ?	O
 
-
 R	O
 -	O
 Trabalhava	O
@@ -7646,7 +7429,6 @@ de	O
 noite	O
 .	O
 
-
 P	O
 -	O
 A	O
@@ -7655,7 +7437,6 @@ tinha	O
 trabalhado	O
 antes	O
 ?	O
-
 
 R	O
 -	O
@@ -7672,7 +7453,6 @@ muito	O
 mesmo	O
 .	O
 
-
 P	O
 -	O
 Que	O
@@ -7683,7 +7463,6 @@ a	O
 senhora	O
 fazia	O
 ?	O
-
 
 R	O
 -	O
@@ -7829,7 +7608,6 @@ fui	O
 fazendo	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -7840,7 +7618,6 @@ com	O
 quem	O
 ?	O
 
-
 R	O
 -	O
 Eles	O
@@ -7849,7 +7626,6 @@ com	O
 eles	O
 mesmo	O
 .	O
-
 
 P	O
 -	O
@@ -7862,7 +7638,6 @@ ajudar	O
 a	O
 casa	O
 ?	O
-
 
 R	O
 -	O
@@ -7929,13 +7704,11 @@ de	O
 noite	O
 .	O
 
-
 P	O
 -	O
 Era	O
 duro	O
 !	O
-
 
 R	O
 -	O
@@ -7943,7 +7716,6 @@ Era	O
 ,	O
 mas	O
 ...	O
-
 
 P	O
 -	O
@@ -7956,13 +7728,11 @@ para	O
 trabalhar	O
 ...	O
 
-
 R	O
 -	O
 Nas	O
 Perdizes	B-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -7980,7 +7750,6 @@ tinha	O
 Ã´nibus	O
 ?	O
 
-
 R	O
 -	O
 Ãnibus	O
@@ -7990,7 +7759,6 @@ na	O
 Barra	B-LOCAL
 Funda	I-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -8003,7 +7771,6 @@ a	O
 senhora	O
 fazia	O
 ?	O
-
 
 R	O
 -	O
@@ -8130,7 +7897,6 @@ pouquinho	O
 mais	O
 .	O
 
-
 P	O
 -	O
 A	O
@@ -8139,7 +7905,6 @@ arrumava	O
 formas	O
 de	O
 ...	O
-
 
 P	O
 -	O
@@ -8159,7 +7924,6 @@ estavam	O
 nessa	O
 hora	O
 ?	O
-
 
 R	O
 -	O
@@ -8204,7 +7968,6 @@ de	I-ORGANIZACAO
 Menor	I-ORGANIZACAO
 .	O
 
-
 P	O
 -	O
 Sim	O
@@ -8218,7 +7981,6 @@ as	O
 crianÃ§as	O
 menores	O
 .	O
-
 
 E	O
 que	O
@@ -8243,7 +8005,6 @@ Fradique	I-LOCAL
 Coutinho	I-LOCAL
 .	O
 
-
 P	O
 -	O
 Mas	O
@@ -8261,13 +8022,11 @@ do	O
 juizado	O
 ?	O
 
-
 R	O
 -	O
 Do	O
 juizado	O
 .	O
-
 
 P	O
 -	O
@@ -8279,7 +8038,6 @@ parar	O
 onde	O
 ?	O
 
-
 R	O
 -	O
 Meu	O
@@ -8288,7 +8046,6 @@ abandonou	O
 nÃ³s	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -8296,7 +8053,6 @@ onde	O
 ele	O
 foi	O
 ?	O
-
 
 R	O
 -	O
@@ -8311,7 +8067,6 @@ morava	O
 Fartura	B-LOCAL
 .	O
 
-
 P	O
 -	O
 E	O
@@ -8321,7 +8076,6 @@ nunca	O
 mais	O
 viu	O
 ?	O
-
 
 R	O
 -	O
@@ -8346,7 +8100,6 @@ nem	O
 nenhum	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -8360,14 +8113,12 @@ os	O
 meninos	O
 ?	O
 
-
 R	O
 -	O
 NÃ£o	O
 ,	O
 nunca	O
 .	O
-
 
 P	O
 -	O
@@ -8380,7 +8131,6 @@ recebia	O
 do	O
 juizado	O
 .	O
-
 
 R	O
 -	O
@@ -8442,12 +8192,10 @@ quis	O
 mais	O
 .	O
 
-
 P	O
 -	O
 Porque	O
 ?	O
-
 
 R	O
 -	O
@@ -8489,7 +8237,6 @@ jÃ¡	O
 ajudava	O
 .	O
 
-
 P	O
 -	O
 Quando	O
@@ -8507,13 +8254,11 @@ estavam	O
 grandes	O
 ?	O
 
-
 R	O
 -	O
 Estavam	O
 grandes	O
 .	O
-
 
 P	O
 -	O
@@ -8521,7 +8266,6 @@ Mas	O
 solteiros	O
 ainda	O
 ?	O
-
 
 R	O
 -	O
@@ -8552,7 +8296,6 @@ para	O
 cÃ¡	O
 .	O
 
-
 P	O
 -	O
 LÃ¡	O
@@ -8564,7 +8307,6 @@ trabalhava	O
 tambÃ©m	O
 ?	O
 
-
 R	O
 -	O
 Trabalhava	O
@@ -8574,7 +8316,6 @@ deixei	O
 de	O
 trabalhar	O
 .	O
-
 
 P	O
 -	O
@@ -8586,12 +8327,10 @@ nessa	O
 Ã©poca	O
 ?	O
 
-
 R	O
 -	O
 Limpeza	O
 .	O
-
 
 P	O
 -	O
@@ -8608,7 +8347,6 @@ SÃ£o	B-LOCAL
 Paulo	I-LOCAL
 ?	O
 
-
 R	O
 -	O
 Na	O
@@ -8618,7 +8356,6 @@ nas	O
 Perdizes	B-LOCAL
 mesmo	O
 .	O
-
 
 P	O
 -	O
@@ -8631,7 +8368,6 @@ morar	O
 onde	O
 ?	O
 
-
 R	O
 -	O
 Eu	O
@@ -8643,7 +8379,6 @@ de	I-LOCAL
 SÃ£o	I-LOCAL
 Francisco	I-LOCAL
 .	O
-
 
 P	O
 -	O
@@ -8661,7 +8396,6 @@ mora	O
 sozinha	O
 ?	O
 
-
 A	O
 famÃ­lia	O
 .	O
@@ -8670,13 +8404,11 @@ duas	O
 filhas	O
 .	O
 
-
 P	O
 -	O
 SÃ£o	O
 solteiras	O
 ?	O
-
 
 R	O
 -	O
@@ -8745,13 +8477,11 @@ na	O
 vida	O
 .	O
 
-
 P	O
 -	O
 Como	O
 foi	O
 ?	O
-
 
 R	O
 -	O
@@ -8971,13 +8701,11 @@ a	O
 patroa	O
 .	O
 
-
 P	O
 -	O
 Ah	O
 sim	O
 ...	O
-
 
 R	O
 -	O
@@ -9001,7 +8729,6 @@ carro	O
 comigo	O
 .	O
 
-
 P	O
 -	O
 Alem	O
@@ -9017,7 +8744,6 @@ trabalhos	O
 diferentes	O
 ?	O
 
-
 R	O
 -	O
 NÃ£o	O
@@ -9029,7 +8755,6 @@ nÃ£o	O
 trabalhei	O
 mais	O
 .	O
-
 
 P	O
 -	O
@@ -9054,13 +8779,11 @@ senhora	O
 delas	O
 ?	O
 
-
 R	O
 -	O
 Ã	O
 nossa	O
 .	O
-
 
 P	O
 -	O
@@ -9079,7 +8802,6 @@ Faz	O
 muito	O
 tempo	O
 ?	O
-
 
 R	O
 -	O
@@ -9128,7 +8850,6 @@ nunca	O
 mais	O
 .	O
 
-
 P	O
 -	O
 Como	O
@@ -9145,12 +8866,10 @@ Melhorou	O
 piorou	O
 ?	O
 
-
 R	O
 -	O
 Melhorou	O
 .	O
-
 
 P	O
 -	O
@@ -9165,12 +8884,10 @@ todo	O
 dia	O
 ?	O
 
-
 R	O
 -	O
 Nada	O
 .	O
-
 
 P	O
 -	O
@@ -9182,7 +8899,6 @@ nÃ£o	O
 fazer	O
 nada	O
 ?	O
-
 
 R	O
 -	O
@@ -9209,7 +8925,6 @@ no	O
 interior	O
 .	O
 
-
 P	O
 -	O
 Faz	O
@@ -9222,7 +8937,6 @@ estÃ¡	O
 aposentada	O
 ?	O
 
-
 R	O
 -	O
 Desde	O
@@ -9230,7 +8944,6 @@ Desde	O
 TrÃªs	O
 anos	O
 .	O
-
 
 P	O
 -	O
@@ -9245,7 +8958,6 @@ vai	O
 ver	O
 outra	O
 ?	O
-
 
 R	O
 -	O
@@ -9314,7 +9026,6 @@ dos	I-ORGANIZACAO
 Trabalhadores	I-ORGANIZACAO
 .	O
 
-
 P	O
 -	O
 A	O
@@ -9328,12 +9039,10 @@ pessoas	O
 idosas	O
 ?	O
 
-
 R	O
 -	O
 FaÃ§o	O
 .	O
-
 
 P	O
 -	O
@@ -9345,7 +9054,6 @@ festas	O
 muitas	O
 atividades	O
 ?	O
-
 
 R	O
 -	O
@@ -9371,7 +9079,6 @@ viagem	O
 excursÃ£o	O
 .	O
 
-
 P	O
 -	O
 A	O
@@ -9384,7 +9091,6 @@ com	O
 o	O
 grupo	O
 ?	O
-
 
 R	O
 -	O
@@ -9403,14 +9109,12 @@ muito	O
 nÃ£o	O
 .	O
 
-
 P	O
 -	O
 Gostou	O
 da	O
 viagem	O
 ?	O
-
 
 R	O
 -	O
@@ -9422,7 +9126,6 @@ de	O
 lÃ¡	O
 .	O
 
-
 P	O
 -	O
 O	O
@@ -9430,7 +9133,6 @@ grupo	O
 Ã©	O
 interessante	O
 ?	O
-
 
 R	O
 -	O
@@ -9453,14 +9155,12 @@ mesma	O
 famÃ­lia	O
 .	O
 
-
 P	O
 -	O
 E	O
 sÃ£o	O
 muitos	O
 ?	O
-
 
 R	O
 -	O
@@ -9472,7 +9172,6 @@ para	O
 saber	O
 quanto	O
 .	O
-
 
 P	O
 -	O
@@ -9486,7 +9185,6 @@ estÃ¡	O
 agora	O
 ?	O
 
-
 R	O
 -	O
 Bem	O
@@ -9495,14 +9193,12 @@ com	O
 saÃºde	O
 .	O
 
-
 P	O
 -	O
 Tem	O
 muitos	O
 netos	O
 ?	O
-
 
 R	O
 -	O
@@ -9519,7 +9215,6 @@ ou	O
 15	B-VALOR
 .	O
 
-
 P	O
 -	O
 Nossa	O
@@ -9531,7 +9226,6 @@ Bisnetos	O
 ,	O
 nÃ£o	O
 ?	O
-
 
 R	O
 -	O
@@ -9552,7 +9246,6 @@ tenho	O
 seis	O
 .	O
 
-
 P	O
 -	O
 Seis	O
@@ -9562,7 +9255,6 @@ bisnetos	O
 bastante	O
 gente	O
 .	O
-
 
 P	O
 -	O
@@ -9585,12 +9277,10 @@ lhe	O
 marcou	O
 ?	O
 
-
 R	O
 -	O
 Lembro	O
 .	O
-
 
 P	O
 -	O
@@ -9598,7 +9288,6 @@ Que	O
 que	O
 foi	O
 ?	O
-
 
 R	O
 -	O
@@ -9668,7 +9357,6 @@ a	O
 varinha	O
 .	O
 
-
 P	O
 -	O
 Ainda	O
@@ -9676,7 +9364,6 @@ tem	O
 a	O
 varinha	O
 ?	O
-
 
 R	O
 -	O
@@ -9687,7 +9374,6 @@ tÃ¡	O
 meio	O
 pÃ³	O
 .	O
-
 
 P	O
 -	O
@@ -9703,7 +9389,6 @@ o	O
 que	O
 aconteceu	O
 ?	O
-
 
 R	O
 -	O
@@ -9734,7 +9419,6 @@ agarro	O
 riso	O
 -RRB-	O
 
-
 P	O
 -	O
 E	O
@@ -9748,7 +9432,6 @@ procurou	O
 descobrir	O
 nÃ£o	O
 ?	O
-
 
 R	O
 -	O
@@ -9799,7 +9482,6 @@ uns	O
 quatro	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -9811,7 +9493,6 @@ de	O
 pensar	O
 nele	O
 ?	O
-
 
 R	O
 -	O
@@ -9865,7 +9546,6 @@ da	O
 fita	O
 -RRB-	O
 
-
 P	O
 -	O
 A	O
@@ -9880,7 +9560,6 @@ vive	O
 ,	O
 nada	O
 ?	O
-
 
 R	O
 -	O
@@ -9924,7 +9603,6 @@ meio	O
 preto	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -9946,7 +9624,6 @@ a	O
 senhora	O
 lembra	O
 ?	O
-
 
 R	O
 -	O
@@ -10028,14 +9705,12 @@ nisso	O
 nÃ£o	O
 .	O
 
-
 P	O
 -	O
 Este	O
 tempo	O
 passou	O
 ...	O
-
 
 R	O
 -	O
@@ -10107,7 +9782,6 @@ velhinho	O
 riso	O
 -RRB-	O
 
-
 P	O
 -	O
 E	O
@@ -10117,14 +9791,12 @@ filhas	O
 sabem	O
 ?	O
 
-
 R	O
 -	O
 Claro	O
 que	O
 sabem	O
 !	O
-
 
 P	O
 -	O
@@ -10133,7 +9805,6 @@ seu	O
 marido	O
 sabia	O
 ?	O
-
 
 R	O
 -	O
@@ -10165,7 +9836,6 @@ mais	O
 problema	O
 !	O
 
-
 P	O
 -	O
 Agora	O
@@ -10194,7 +9864,6 @@ ouvia	O
 rÃ¡dio	O
 ?	O
 
-
 R	O
 -	O
 NÃ£o	O
@@ -10211,7 +9880,6 @@ que	O
 tem	O
 .	O
 
-
 P	O
 -	O
 Mas	O
@@ -10227,7 +9895,6 @@ na	O
 praÃ§a	O
 .	O
 
-
 R	O
 -	O
 Ã	O
@@ -10238,7 +9905,6 @@ lÃ¡	O
 ,	O
 cantava	O
 .	O
-
 
 P	O
 -	O
@@ -10267,7 +9933,6 @@ almanaque	O
 revista	O
 ?	O
 
-
 R	O
 -	O
 Tinha	O
@@ -10293,7 +9958,6 @@ igual	O
 elas	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -10302,7 +9966,6 @@ almanaque	O
 tinha	O
 tambÃ©m	O
 ?	O
-
 
 R	O
 -	O
@@ -10313,7 +9976,6 @@ do	I-OBRA
 Pensamento	I-OBRA
 .	O
 
-
 P	O
 -	O
 Como	O
@@ -10322,7 +9984,6 @@ Almanaque	B-OBRA
 do	I-OBRA
 Pensamento	I-OBRA
 ?	O
-
 
 R	O
 -	O
@@ -10397,7 +10058,6 @@ o	O
 jornal	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -10422,12 +10082,10 @@ que	O
 marca	O
 ?	O
 
-
 R	O
 -	O
 Tem	O
 .	O
-
 
 P	O
 -	O
@@ -10438,7 +10096,6 @@ qual	O
 a	O
 mÃºsica	O
 ?	O
-
 
 R	O
 -	O
@@ -10455,7 +10112,6 @@ alto	O
 falante	O
 .	O
 
-
 P	O
 -	O
 Como	O
@@ -10463,7 +10119,6 @@ era	O
 a	O
 mÃºsica	O
 ?	O
-
 
 R	O
 -	O
@@ -10538,7 +10193,6 @@ Sertaneja	B-OBRA
 ''	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -10554,7 +10208,6 @@ da	O
 senhora	O
 hoje	O
 ?	O
-
 
 R	O
 -	O
@@ -10575,7 +10228,6 @@ nÃ£o	O
 tenho	O
 .	O
 
-
 P	O
 -	O
 E	O
@@ -10586,7 +10238,6 @@ o	O
 seu	O
 ex-namorado	O
 ?	O
-
 
 R	O
 -	O
@@ -10700,7 +10351,6 @@ sei	O
 porque	O
 ...	O
 
-
 P	O
 -	O
 Se	O
@@ -10746,7 +10396,6 @@ eles	O
 hoje	O
 ?	O
 
-
 R	O
 -	O
 O	O
@@ -10763,7 +10412,6 @@ toda	O
 hora	O
 ?	O
 
-
 P	O
 -	O
 Ou	O
@@ -10778,7 +10426,6 @@ hora	O
 melhor	O
 ainda	O
 .	O
-
 
 R	O
 -	O
@@ -10840,7 +10487,6 @@ eu	O
 falo	O
 .	O
 
-
 P	O
 -	O
 Agora	O
@@ -10871,7 +10517,6 @@ fazer	O
 esse	O
 depoimento	O
 ?	O
-
 
 R	O
 -	O
@@ -11085,7 +10730,6 @@ de	O
 vida	O
 .	O
 
-
 P	O
 -	O
 Que	O
@@ -11122,7 +10766,6 @@ a	O
 senhora	O
 mudaria	O
 ?	O
-
 
 Que	O
 que	O
@@ -11179,7 +10822,6 @@ cima	O
 entÃ£o	O
 ...	O
 
-
 P	O
 -	O
 A	O
@@ -11195,7 +10837,6 @@ a	O
 gente	O
 gravar	O
 ?	O
-
 
 R	O
 -	O
@@ -11215,7 +10856,6 @@ eu	O
 respondo	O
 .	O
 
-
 P	O
 -	O
 Tem	O
@@ -11227,7 +10867,6 @@ senhora	O
 acha	O
 importante	O
 ?	O
-
 
 P	O
 -	O
@@ -11245,7 +10884,6 @@ mais	O
 alguma	O
 coisa	O
 ?	O
-
 
 R	O
 -	O
@@ -11267,7 +10905,6 @@ aqui	O
 nessa	O
 casa	O
 ?	O
-
 
 P	O
 -	O
@@ -11298,14 +10935,12 @@ vÃ¡rios	O
 cursos	O
 .	O
 
-
 R	O
 -	O
 Ensina	O
 a	O
 danÃ§ar	O
 ?	O
-
 
 P	O
 -	O
@@ -11327,7 +10962,6 @@ danÃ§ar	O
 tango	O
 .	O
 
-
 R	O
 -	O
 E	O
@@ -11336,7 +10970,6 @@ gente	O
 consegue	O
 aprender	O
 ?	O
-
 
 P	O
 -	O
@@ -11350,7 +10983,6 @@ de	O
 fazer	O
 ?	O
 
-
 Eu	O
 tenho	O
 vontade	O
@@ -11360,7 +10992,6 @@ a	O
 danÃ§ar	O
 direitinho	O
 .	O
-
 
 P	O
 -	O
@@ -11383,14 +11014,12 @@ outra	O
 ocasiÃ£o	O
 .	O
 
-
 R	O
 -	O
 Desculpa	O
 aÃ­	O
 viu	O
 ?	O
-
 
 P	O
 -	O
@@ -11401,7 +11030,6 @@ nÃ³s	O
 que	O
 agradecemos	O
 .	O
-
 
 
 Projecto	B-LOCAL
@@ -11790,7 +11418,6 @@ Vercial	I-LOCAL
 .	O
 
 
-
 Agora	O
 vou-lhes	O
 descrever	O
@@ -11924,7 +11551,6 @@ composiÃ§Ã£o	O
 basÃ¡ltica	O
 .	O
 
-
 PlutÃ£o	B-COISA
 apresenta	O
 muitos	O
@@ -11959,7 +11585,6 @@ fevereiro	I-TEMPO
 de	I-TEMPO
 1930	I-TEMPO
 .	O
-
 
 As	O
 casas	O
@@ -12045,7 +11670,6 @@ domicÃ­lio	O
 solar	O
 .	O
 
-
 Touro	B-OUTRO
 Ã©	O
 o	O
@@ -12102,7 +11726,6 @@ signos	O
 do	O
 zodÃ­aco	O
 .	O
-
 
 Cabe	O
 interpretar	O
@@ -12210,7 +11833,6 @@ nÃ£o	O
 permanece	O
 .	O
 
-
 O	O
 signo	O
 de	O
@@ -12244,7 +11866,6 @@ representa	O
 o	O
 estÃ´mago	O
 .	O
-
 
 O	O
 6Âº	B-VALOR
@@ -12280,7 +11901,6 @@ governado	O
 por	O
 MercÃºrio	B-COISA
 .	O
-
 
 O	O
 7Âº	B-VALOR
@@ -12367,7 +11987,6 @@ tu	O
 ''	O
 .	O
 
-
 NÃ£o	O
 iremos	O
 colocar	O
@@ -12385,7 +12004,6 @@ encontrava	O
 em	O
 GÃªmeos	B-OUTRO
 .	O
-
 
 De	B-TEMPO
 21	I-TEMPO
@@ -12446,7 +12064,6 @@ na	O
 eletrÃ´nica	O
 .	O
 
-
 Vamos	O
 agora	O
 enriquecer	O
@@ -12491,7 +12108,6 @@ vocÃª	O
 nasceu	O
 .	O
 
-
 Ao	O
 determinar	O
 a	O
@@ -12519,7 +12135,6 @@ no	O
 sentido	O
 anti-horÃ¡rio	O
 .	O
-
 
 Para	O
 calcular	O
@@ -12581,7 +12196,6 @@ em	O
 conjunÃ§Ã£o	O
 :	O
 
-
 Apesar	O
 de	O
 no	O
@@ -12606,7 +12220,6 @@ hemisfÃ©rios	O
 .	O
 
 
-
 <p>	O
 
 Uma	O
@@ -12617,7 +12230,6 @@ pedintes	O
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -12813,11 +12425,9 @@ que	O
 diz	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 verdade	O
@@ -13444,11 +13054,9 @@ de	O
 coisas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 posiÃ§Ã£o	O
@@ -13753,19 +13361,15 @@ Palestina	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Clara	B-PESSOA
 Ferreira	I-PESSOA
 Alves	I-PESSOA
 
-
 </p>	O
-
 
 
 Quando	O
@@ -14464,9 +14068,7 @@ desde	B-TEMPO
 .	O
 
 
-
 <p>	O
-
 
 HEIDEGGER	B-PESSOA
 
@@ -14620,11 +14222,9 @@ Bridge	I-LOCAL
 
 :	O
 
-
 </p>	O
 
 <p>	O
-
 
 -	O
 Eh	O
@@ -14642,11 +14242,9 @@ este	O
 jogo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 -	O
 Pois	O
@@ -14680,11 +14278,9 @@ Tempo	I-OBRA
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 -	O
 Quantas	O
@@ -14710,7 +14306,6 @@ subida	O
 dos	O
 laterais	O
 ?	O
-
 
 </p>	O
 
@@ -14747,7 +14342,6 @@ estÃ¡dio	O
 </p>	O
 
 <p>	O
-
 
 -	O
 Calma	O
@@ -14786,9 +14380,7 @@ Todo	B-ABSTRACCAO
 
 .	O
 
-
 </p>	O
-
 
 
 C	O
@@ -15128,7 +14720,6 @@ Kenmare	B-LOCAL
 .	O
 
 
-
 Da	O
 Reportagem	B-ORGANIZACAO
 Local	I-ORGANIZACAO
@@ -15227,7 +14818,6 @@ R$	B-VALOR
 na	O
 CI-Compucenter	B-ORGANIZACAO
 .	O
-
 
 
 Kusturica	B-PESSOA
@@ -15366,9 +14956,7 @@ Novembro	B-TEMPO
 .	O
 
 
-
 <p>	O
-
 
 Lisboa	B-LOCAL
 -	O
@@ -15383,7 +14971,6 @@ pÃ³dio	O
 
 <p>	O
 
-
 PILOTO	O
 PORTUGUÃS	O
 NÃO	O
@@ -15396,7 +14983,6 @@ ORGANIZAÃÃO	O
 </p>	O
 
 <p>	O
-
 
 O	O
 piloto	O
@@ -15435,7 +15021,6 @@ Lisboa	B-LOCAL
 </p>	O
 
 <p>	O
-
 
 Carlos	B-PESSOA
 Sousa	I-PESSOA
@@ -15502,7 +15087,6 @@ fÃ¡brica	O
 </p>	O
 
 <p>	O
-
 
 Apesar	O
 de	O
@@ -15580,7 +15164,6 @@ dia	O
 
 <p>	O
 
-
 O	O
 portuguÃªs	O
 ,	O
@@ -15633,7 +15216,6 @@ rali	O
 </p>	O
 
 
-
 Foi	O
 a	O
 primeira	O
@@ -15643,7 +15225,6 @@ veio	O
 a	O
 Braga	B-LOCAL
 ?	O
-
 
 Foi	O
 a	O
@@ -15657,7 +15238,6 @@ meus	O
 estudos	O
 superiores	O
 .	O
-
 
 Qual	O
 a	O
@@ -15673,7 +15253,6 @@ era	O
 a	O
 cidade	O
 ?	O
-
 
 Era	O
 pequenÃ­ssima	O
@@ -15787,7 +15366,6 @@ do	I-ORGANIZACAO
 Minho	I-ORGANIZACAO
 .	O
 
-
 Como	O
 Ã©	O
 que	O
@@ -15795,7 +15373,6 @@ era	O
 a	O
 cidade	O
 ?	O
-
 
 A	O
 prÃ¡tica	O
@@ -15850,7 +15427,6 @@ as	O
 pessoas	O
 .	O
 
-
 Como	O
 fez	O
 a	O
@@ -15861,18 +15437,15 @@ para	O
 Braga	B-LOCAL
 ?	O
 
-
 De	O
 comboio	O
 .	O
-
 
 Como	O
 foi	O
 essa	O
 viajem	O
 ?	O
-
 
 Recordo-me	O
 da	O
@@ -15984,7 +15557,6 @@ naquele	O
 tempo	O
 .	O
 
-
 Veio	O
 para	O
 Braga	B-LOCAL
@@ -15992,16 +15564,13 @@ para	O
 estudar	O
 ?	O
 
-
 Para	O
 estudar	O
 Filosofia	B-ABSTRACCAO
 .	O
 
 
-
 <p>	O
-
 
 2008	B-TEMPO
 :	O
@@ -16018,7 +15587,6 @@ inflaÃ§Ã£o	O
 </p>	O
 
 <p>	O
-
 
 Os	O
 preÃ§os	O
@@ -16070,7 +15638,6 @@ dÃ­gitos	O
 
 <p>	O
 
-
 A	O
 electricidade	O
 vai	O
@@ -16120,7 +15687,6 @@ Madeira	B-LOCAL
 </p>	O
 
 <p>	O
-
 
 A	O
 maioria	O
@@ -16185,7 +15751,6 @@ de	O
 
 <p>	O
 
-
 Os	O
 clientes	O
 de	O
@@ -16226,7 +15791,6 @@ de	O
 </p>	O
 
 <p>	O
-
 
 Um	O
 dos	O
@@ -16289,7 +15853,6 @@ AIPAN	B-ORGANIZACAO
 
 <p>	O
 
-
 Em	O
 declaraÃ§Ãµes	O
 Ã 	O
@@ -16338,7 +15901,6 @@ farinha	O
 </p>	O
 
 <p>	O
-
 
 Desde	O
 o	O
@@ -16401,7 +15963,6 @@ explicou	O
 </p>	O
 
 <p>	O
-
 
 O	O
 preÃ§o	O
@@ -16515,7 +16076,6 @@ ano	O
 
 <p>	O
 
-
 Nos	O
 transportes	O
 pÃºblicos	O
@@ -16584,7 +16144,6 @@ conhecida	O
 </p>	O
 
 <p>	O
-
 
 Nem	O
 todas	O
@@ -16677,7 +16236,6 @@ cÃªntimos	I-VALOR
 
 <p>	O
 
-
 Sem	O
 contas	O
 fechadas	O
@@ -16738,7 +16296,6 @@ Janeiro	B-TEMPO
 
 <p>	O
 
-
 Quanto	O
 Ã s	O
 empresas	O
@@ -16778,7 +16335,6 @@ municÃ­pio	O
 
 <p>	O
 
-
 Mas	O
 nem	O
 tudo	O
@@ -16816,7 +16372,6 @@ euros	I-VALOR
 </p>	O
 
 <p>	O
-
 
 O	O
 valor	O
@@ -16859,7 +16414,6 @@ em	O
 </p>	O
 
 <p>	O
-
 
 O	O
 ''	O
@@ -16916,7 +16470,6 @@ Lusa	B-ORGANIZACAO
 </p>	O
 
 <p>	O
-
 
 Em	O
 relaÃ§Ã£o	O
@@ -17029,7 +16582,6 @@ Social	I-ORGANIZACAO
 </p>	O
 
 
-
 O	O
 Maior	O
 Encontro	O
@@ -17047,7 +16599,6 @@ Empresariais	I-ORGANIZACAO
 kla@emailserver.com.br	O
 -RSB-	O
 
-
 Hotel	B-LOCAL
 Blue	I-LOCAL
 Tree	I-LOCAL
@@ -17059,25 +16610,20 @@ Reis	I-LOCAL
 -	O
 R.J.	B-LOCAL
 
-
 JoÃ£o	B-PESSOA
 DÃ³ria	I-PESSOA
 Jr	I-PESSOA
 
-
 entrevista	O
-
 
 Luiza	B-PESSOA
 Helena	I-PESSOA
 Trajano	I-PESSOA
 
-
 Superintendente	B-PESSOA
 do	I-PESSOA
 Magazine	I-PESSOA
 Luiza	I-PESSOA
-
 
 Alberto	B-PESSOA
 Saraiva	I-PESSOA
@@ -17085,12 +16631,10 @@ Fundador	O
 e	O
 Presidente	B-PESSOA
 
-
 da	O
 rede	O
 Habib	B-ORGANIZACAO
 's	I-ORGANIZACAO
-
 
 Maria	B-PESSOA
 Silvia	I-PESSOA
@@ -17101,13 +16645,11 @@ Companhia	I-PESSOA
 SiderÃºrgica	I-PESSOA
 Nacional	I-PESSOA
 
-
 IÃ§ami	B-PESSOA
 Tiba	I-PESSOA
 Autor	O
 do	O
 Livro	O
-
 
 ``	O
 Quem	B-OBRA
@@ -17115,13 +16657,11 @@ Ama	I-OBRA
 Educa	I-OBRA
 ''	O
 
-
 Famili	B-PESSOA
 Schurmann	I-PESSOA
 FamÃ­lia	O
 de	O
 Velejadores	O
-
 
 Christina	B-PESSOA
 Carvalho	I-PESSOA
@@ -17145,7 +16685,6 @@ livro	O
 Investimentos	B-OBRA
 ''	O
 
-
 Paulo	B-PESSOA
 Kretley	I-PESSOA
 Presidente	I-PESSOA
@@ -17153,7 +16692,6 @@ da	I-PESSOA
 Franklin	I-PESSOA
 Covey	I-PESSOA
 Brasil	I-PESSOA
-
 
 Conhecimento	O
 :	O
@@ -17250,7 +16788,6 @@ muito	O
 mais	O
 .	O
 
-
 2	B-TEMPO
 a	I-TEMPO
 5	I-TEMPO
@@ -17259,11 +16796,9 @@ outubro	I-TEMPO
 de	I-TEMPO
 2003	I-TEMPO
 
-
 Blue	B-LOCAL
 Tree	I-LOCAL
 Park	I-LOCAL
-
 
 Angra	B-LOCAL
 dos	I-LOCAL
@@ -17281,7 +16816,6 @@ informaÃ§Ãµes	O
 clique	O
 aqui	O
 
-
 Av	B-LOCAL
 .	I-LOCAL
 Paulista	I-LOCAL
@@ -17293,7 +16827,6 @@ SÃ£o	B-LOCAL
 Paulo	I-LOCAL
 -	O
 SP	O
-
 
 VocÃª	O
 estÃ¡	O
@@ -17313,7 +16846,6 @@ mensagens	O
 clique	O
 aqui	O
 .	O
-
 
 
 Lembro-me	O
@@ -17981,9 +17513,7 @@ adolescente	O
 .	O
 
 
-
 <p>	O
-
 
 COISAS	O
 DA	O
@@ -18005,7 +17535,6 @@ ACABE	O
 </p>	O
 
 <p>	O
-
 
 1	O
 .	O
@@ -18088,7 +17617,6 @@ esperam	O
 
 <p>	O
 
-
 Os	O
 primeiros	O
 resultados	O
@@ -18157,7 +17685,6 @@ anos	O
 </p>	O
 
 <p>	O
-
 
 2	O
 .	O
@@ -18239,7 +17766,6 @@ exaustÃ¢o	O
 </p>	O
 
 <p>	O
-
 
 3	O
 .	O
@@ -18353,7 +17879,6 @@ esboÃ§aram	O
 
 <p>	O
 
-
 4	O
 .	O
 TrÃªs	O
@@ -18427,7 +17952,6 @@ sÃ©rio	O
 </p>	O
 
 <p>	O
-
 
 5	O
 .	O
@@ -18565,7 +18089,6 @@ Hi5	B-LOCAL
 .	O
 
 </p>	O
-
 
 
 Marfinite	B-ORGANIZACAO
@@ -19062,9 +18585,7 @@ produtos	O
 .	O
 
 
-
 <p>	O
-
 
 Na	O
 internet	O
@@ -19079,11 +18600,9 @@ na	O
 
 Locadora	B-LOCAL
 
-
 </p>	O
 
 <p>	O
-
 
 Carlos	B-PESSOA
 Gerbase	I-PESSOA
@@ -19242,11 +18761,9 @@ Globo	I-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Segundo	O
 a	O
@@ -19426,11 +18943,9 @@ inusitadas	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 filme	O
@@ -19468,13 +18983,10 @@ Gerbase	I-PESSOA
 
 :	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Por	O
 que	O
@@ -19494,22 +19006,18 @@ Sol	I-COISA
 
 ?	O
 
-
 </p>	O
 
 <p>	O
-
 
 :	O
 :	O
 
 2007-12-13	B-TEMPO
 
-
 </p>	O
 
 <p>	O
-
 
 TelescÃ³pios	O
 ,	O
@@ -19566,11 +19074,9 @@ CiÃªncia	I-ACONTECIMENTO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Organizada	O
 pelo	O
@@ -19654,11 +19160,9 @@ do	O
 concelho	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 A	O
@@ -19726,11 +19230,9 @@ Doran	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ''	O
 
@@ -19783,11 +19285,9 @@ astronomia	O
 acrescentou	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 sÃ¡bado	O
@@ -19865,7 +19365,6 @@ o	O
 efeito	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -19877,7 +19376,6 @@ Todos	O
 </p>	O
 
 <p>	O
-
 
 HaverÃ¡	O
 observaÃ§Ã£o	O
@@ -19901,7 +19399,6 @@ Universidade	B-ORGANIZACAO
 de	O
 Coimbra	B-LOCAL
 
-
 ''	O
 
 Sol	B-OBRA
@@ -19911,22 +19408,18 @@ Todos	I-OBRA
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
 
-
 ``	O
 O	O
-
 
 ObservatÃ³rio	B-ORGANIZACAO
 
 de	O
 
 Coimbra	B-LOCAL
-
 
 tem	O
 um	O
@@ -20020,11 +19513,9 @@ clima	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Segundo	O
 a	O
@@ -20072,7 +19563,6 @@ grande	O
 pÃºblico	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -20092,7 +19582,6 @@ GalÃ¡xia	O
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -20195,11 +19684,9 @@ Crespo	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ainda	O
 
@@ -20269,11 +19756,9 @@ Universo	I-ACONTECIMENTO
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 domingo	O
@@ -20358,9 +19843,7 @@ em	O
 
 .	O
 
-
 </p>	O
-
 
 
 RCM	B-ORGANIZACAO
@@ -20758,29 +20241,23 @@ Guia	O
 Comercial	O
 
 
-
 <p>	O
-
 
 RestauraÃ§Ã£o	B-ACONTECIMENTO
 da	I-ACONTECIMENTO
 IndependÃªncia	I-ACONTECIMENTO
 
-
 </p>	O
 
 <p>	O
-
 
 Guerra	B-ACONTECIMENTO
 da	I-ACONTECIMENTO
 RestauraÃ§Ã£o	I-ACONTECIMENTO
 
-
 </p>	O
 
 <p>	O
-
 
 Finalmente	O
 ,	O
@@ -20819,12 +20296,10 @@ BraganÃ§a	I-PESSOA
 
 como	O
 
-
 Rei	B-PESSOA
 de	O
 
 Portugal	B-LOCAL
-
 
 ,	O
 com	O
@@ -20857,11 +20332,9 @@ BraganÃ§a	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 esforÃ§o	O
@@ -20971,11 +20444,9 @@ e	O
 administrativa	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Paralelamente	O
 ,	O
@@ -21065,6 +20536,4 @@ Brasil	B-LOCAL
 
 .	O
 
-
 </p>	O
-

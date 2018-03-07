@@ -1,7 +1,4 @@
-
-
 <p>	O
-
 
 Reino	B-ORGANIZACAO
 Unido	I-ORGANIZACAO
@@ -11,11 +8,9 @@ proibir	O
 
 Tintim	O
 
-
 </p>	O
 
 <p>	O
-
 
 12/Julho/2007	O
 
@@ -25,11 +20,9 @@ Tintim	O
 
 ComentÃ¡rios	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 
@@ -71,11 +64,9 @@ do	O
 mundo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 livro	O
@@ -143,11 +134,9 @@ HergÃ©	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 
@@ -231,11 +220,9 @@ de	O
 juventude	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 HergÃ©	B-PESSOA
 
@@ -322,11 +309,9 @@ culturas	O
 distintas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 governo	O
@@ -389,11 +374,9 @@ anos	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Se	O
 o	O
@@ -497,11 +480,9 @@ foi	O
 escrita	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 intervalo	O
@@ -543,7 +524,6 @@ primeiros	O
 Ã¡lbuns	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -558,7 +538,6 @@ outro	O
 .	O
 
 </p>	O
-
 
 
 Rainha	B-PESSOA
@@ -868,7 +847,6 @@ e	O
 de	O
 estrangeiros	O
 .	O
-
 
 
 <p>	O
@@ -2228,7 +2206,6 @@ portuÃ¡rias	O
 </p>	O
 
 
-
 Niteroi	B-ORGANIZACAO
 Rugby	I-ORGANIZACAO
 Football	I-ORGANIZACAO
@@ -2631,9 +2608,7 @@ Rugby	I-ORGANIZACAO
 .	O
 
 
-
 <p>	O
-
 
 IndÃºstria	O
 e	O
@@ -2645,7 +2620,6 @@ InformÃ¡tica	O
 </p>	O
 
 <p>	O
-
 
 Consultoria	B-ORGANIZACAO
 e	I-ORGANIZACAO
@@ -2682,13 +2656,11 @@ sport	O
 
 <p>	O
 
-
 http://www.rml.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 CooperSis	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -2716,13 +2688,11 @@ tem	O
 
 <p>	O
 
-
 http://www.airtonmolena.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Credi-TelemÃ¡tica	B-ORGANIZACAO
 Eletro-EletrÃ´nicos	I-ORGANIZACAO
@@ -2761,13 +2731,11 @@ aqui	O
 
 <p>	O
 
-
 http://www.credi.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Croma	B-ORGANIZACAO
 EletrÃ´nica	I-ORGANIZACAO
@@ -2806,13 +2774,11 @@ PABX	O
 
 <p>	O
 
-
 http://www.divulgacao.com.br/croma	O
 
 </p>	O
 
 <p>	O
-
 
 Darun	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -2839,13 +2805,11 @@ suprimentos	O
 
 <p>	O
 
-
 http://www.darun.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Desenhos	O
 em	O
@@ -2891,13 +2855,11 @@ e-mail	O
 
 <p>	O
 
-
 http://www.marckservice.cjb.net/	O
 
 </p>	O
 
 <p>	O
-
 
 Desenvolvimentos	O
 de	O
@@ -2927,13 +2889,11 @@ concorrÃªncia	O
 
 <p>	O
 
-
 http://www.projetoseletronicos.hpg.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 DHCP	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -2993,13 +2953,11 @@ fax	O
 
 <p>	O
 
-
 http://www.dhcp.com.br	O
 
 </p>	O
 
 <p>	O
-
 
 Di	B-ORGANIZACAO
 Bello	I-ORGANIZACAO
@@ -3039,13 +2997,11 @@ manutenÃ§Ã£o	O
 
 <p>	O
 
-
 http://www.webspace.com.br/dibello	O
 
 </p>	O
 
 <p>	O
-
 
 Diacon	B-ORGANIZACAO
 InformÃ¡tica	I-ORGANIZACAO
@@ -3068,11 +3024,9 @@ sistemas	O
 
 <p>	O
 
-
 http://www.diacon.com.br	O
 
 </p>	O
-
 
 
 <p>	O
@@ -3089,15 +3043,12 @@ COLABORAÃÃO	O
 
 <p>	O
 
-
 Ricardo	B-PESSOA
 Rosas	I-PESSOA
-
 
 </p>	O
 
 <p>	O
-
 
 A	O
 recente	O
@@ -3219,11 +3170,9 @@ na	O
 social	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Coletivos	O
 ,	O
@@ -3506,11 +3455,9 @@ inÃºmeros	O
 outros	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 que	O
@@ -3565,11 +3512,9 @@ por	O
 e-mail	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Na	O
 
@@ -3708,11 +3653,9 @@ mÃ­dia	O
 tÃ¡tica	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Se	O
 essa	O
@@ -3818,11 +3761,9 @@ low	O
 tech	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Mesmo	O
 assim	O
@@ -3984,7 +3925,6 @@ de	O
 outros	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -4082,7 +4022,6 @@ global	O
 
 <p>	O
 
-
 Foi	O
 a	O
 colaboraÃ§Ã£o	O
@@ -4157,11 +4096,9 @@ open	O
 source	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Inicialmente	O
 restrita	O
@@ -4219,11 +4156,9 @@ restritivo	O
 nÃ£o-hierÃ¡rquico	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Tive	O
 recentemente	O
@@ -4370,11 +4305,9 @@ de	O
 conhecimento	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 tema	O
@@ -4538,11 +4471,9 @@ da	O
 economia	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Entre	O
 alguns	O
@@ -4641,11 +4572,9 @@ elementos	O
 essenciais	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Em	O
 seu	O
@@ -4818,11 +4747,9 @@ o	O
 futuro	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 outro	O
@@ -4979,11 +4906,9 @@ aparentemente	O
 independentes	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Em	O
 se	O
@@ -5071,11 +4996,9 @@ ainda	O
 imprevisÃ­veis	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Como	O
 diz	O
@@ -5185,13 +5108,10 @@ sua	O
 senha	O
 ?	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Ali	O
 ,	O
@@ -5258,7 +5178,6 @@ coisas	O
 assim	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -5283,7 +5202,6 @@ engraÃ§ado	O
 </p>	O
 
 <p>	O
-
 
 Aprendi	O
 a	O
@@ -5368,7 +5286,6 @@ que	O
 eu	O
 aprendi	O
 .	O
-
 
 </p>	O
 
@@ -5501,7 +5418,6 @@ nadadora	O
 
 <p>	O
 
-
 Depois	O
 ...	O
 na	O
@@ -5590,7 +5506,6 @@ braÃ§ada	O
 crawl	O
 ...	O
 
-
 </p>	O
 
 <p>	O
@@ -5604,7 +5519,6 @@ longe	O
 </p>	O
 
 <p>	O
-
 
 S.	O
 Bernardino	O
@@ -5776,7 +5690,6 @@ austrÃ­aco	O
 e	O
 fizeram	O
 
-
 </p>	O
 
 <p>	O
@@ -5790,7 +5703,6 @@ lÃ¡	O
 </p>	O
 
 <p>	O
-
 
 Estava	O
 ,	O
@@ -5871,7 +5783,6 @@ para	O
 outra	O
 ...	O
 
-
 </p>	O
 
 <p>	O
@@ -5891,7 +5802,6 @@ sÃ­tio	O
 </p>	O
 
 <p>	O
-
 
 NÃ£o	O
 .	O
@@ -5947,9 +5857,7 @@ a.	O
 .	O
 .	O
 
-
 </p>	O
-
 
 
 PCP	B-ORGANIZACAO
@@ -6010,9 +5918,7 @@ dia	O
 .	O
 
 
-
 <p>	O
-
 
 Nas	O
 voltas	O
@@ -6024,11 +5930,9 @@ Pampulha	O
 dÃ¡	O
 ...	O
 
-
 </p>	O
 
 <p>	O
-
 
 Entre	O
 os	O
@@ -6068,11 +5972,9 @@ de	O
 
 !!!	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -6153,11 +6055,9 @@ Antonio	B-PESSOA
 
 ...	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Mais	O
@@ -6248,7 +6148,6 @@ Muita	O
 mesmo	O
 !	O
 
-
 </p>	O
 
 <p>	O
@@ -6311,7 +6210,6 @@ Show	O
 </p>	O
 
 <p>	O
-
 
 ``	O
 O	O
@@ -6467,11 +6365,9 @@ chegada	O
 voando	O
 ...	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Os	O
@@ -6515,11 +6411,9 @@ Queijo	O
 !	O
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 arabibÃ³ias	O
@@ -6565,7 +6459,6 @@ Bustamante	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -6594,7 +6487,6 @@ aqui	O
 
 <p>	O
 
-
 Receba	O
 este	O
 blog	O
@@ -6607,24 +6499,19 @@ comentÃ¡rios	O
 
 -RRB-	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Sistema	O
 de	O
 Posicionamento	O
 Global	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -6733,11 +6620,9 @@ Compass	O
 chinÃªs	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 sistema	O
@@ -6751,7 +6636,6 @@ e	O
 controlado	O
 pelo	O
 
-
 Departamento	B-ORGANIZACAO
 de	I-ORGANIZACAO
 Defesa	I-ORGANIZACAO
@@ -6762,7 +6646,6 @@ Estados	B-LOCAL
 Unidos	I-LOCAL
 da	I-LOCAL
 AmÃ©rica	I-LOCAL
-
 
 ,	O
 
@@ -6976,9 +6859,7 @@ WGS84	O
 
 .	O
 
-
 </p>	O
-
 
 
 <p>	O
@@ -6991,7 +6872,6 @@ verdade	O
 </p>	O
 
 <p>	O
-
 
 1	O
 .	O
@@ -7683,11 +7563,9 @@ mais	O
 conveniente	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 2	O
 .	O
@@ -7825,11 +7703,9 @@ aos	O
 benfiquistas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 3	O
 .	O
@@ -8069,7 +7945,6 @@ em	O
 ,	O
 o	O
 
-
 FC	O
 Porto	O
 
@@ -8077,7 +7952,6 @@ de	O
 
 JosÃ©	B-PESSOA
 Mourinho	I-PESSOA
-
 
 ,	O
 jÃ¡	O
@@ -8217,11 +8091,9 @@ quem	O
 quer	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 4	O
 .	O
@@ -8509,11 +8381,9 @@ ao	O
 bandido	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 
 Â©	O
@@ -8524,21 +8394,17 @@ Tavares	O
 
 -	O
 
-
 Jornal	O
 ``	O
 A	O
 Bola	O
 ''	O
 
-
 -	O
 
 21.02.2006	O
 
-
 </p>	O
-
 
 
 RCM	B-ORGANIZACAO
@@ -8936,14 +8802,12 @@ Guia	O
 Comercial	O
 
 
-
 Quantos	O
 anos	O
 esteve	O
 em	O
 Biblau	B-LOCAL
 ?	O
-
 
 Dois	O
 anos	O
@@ -9000,7 +8864,6 @@ consegui	O
 safar	O
 .	O
 
-
 Recorda-se	O
 de	O
 algum	O
@@ -9012,7 +8875,6 @@ passado	O
 em	O
 Bilbau	B-LOCAL
 ?	O
-
 
 Tinha	O
 os	O
@@ -9212,7 +9074,6 @@ saÃ­u-nos	O
 cara	O
 .	O
 
-
 Que	O
 tipo	O
 de	O
@@ -9221,7 +9082,6 @@ vocÃªs	O
 portugueses	O
 faziam	O
 ?	O
-
 
 SaÃ­amos	O
 ,	O
@@ -9241,7 +9101,6 @@ ajudÃ¡vamo-nso	O
 mutuamente	O
 .	O
 
-
 Moravam	O
 todos	O
 perto	O
@@ -9249,7 +9108,6 @@ uns	O
 dos	O
 outros	O
 ?	O
-
 
 Cada	O
 um	O
@@ -9263,7 +9121,6 @@ mas	O
 juntÃ¡vamo-nos	O
 sempre	O
 .	O
-
 
 De	O
 Bilbau	B-LOCAL
@@ -9283,7 +9140,6 @@ para	O
 essa	O
 universidade	O
 ?	O
-
 
 Acabou	O
 a	O
@@ -9620,9 +9476,7 @@ pena	O
 .	O
 
 
-
 <p>	O
-
 
 CONGRESSOS	O
 DO	O
@@ -9635,11 +9489,9 @@ QUE	O
 ESTÃO	O
 PERDOADOS	O
 
-
 </p>	O
 
 <p>	O
-
 
 HÃ¡	O
 poucas	O
@@ -9727,11 +9579,9 @@ Estado	O
 .	O
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 Habituei-me	O
 ,	O
@@ -9839,11 +9689,9 @@ Cafagestes	O
 !	O
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ã	O
 certo	O
@@ -9898,11 +9746,9 @@ sÃ³	O
 homem	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Costuma-se	O
 dizer	O
@@ -9977,11 +9823,9 @@ treuze	O
 barÃ£o	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Segundo	O
 
@@ -10097,11 +9941,9 @@ algum	O
 lado	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 De	O
 resto	O
@@ -10145,9 +9987,7 @@ referÃªncia	O
 ?	O
 -RRB-	O
 
-
 </p>	O
-
 
 
 IncÃªndio	O
@@ -10156,7 +9996,6 @@ habitaÃ§Ã£o	O
 causa	O
 dois	O
 feridos	O
-
 
 Um	O
 incÃªndio	O
@@ -10315,9 +10154,7 @@ viaturas	O
 .	O
 
 
-
 <p>	O
-
 
 Lisboa-Dakar	O
 '	O
@@ -10332,7 +10169,6 @@ Janeiro	O
 
 <p>	O
 
-
 PROVA	O
 TERÃ	O
 PERTO	O
@@ -10343,7 +10179,6 @@ QUILÃMETROS	O
 </p>	O
 
 <p>	O
-
 
 A	O
 30	O
@@ -10389,7 +10224,6 @@ especiais	O
 </p>	O
 
 <p>	O
-
 
 ``	O
 Os	O
@@ -10450,7 +10284,6 @@ prova	O
 
 <p>	O
 
-
 A	O
 partida	O
 da	O
@@ -10489,7 +10322,6 @@ camiÃµes	O
 
 <p>	O
 
-
 De	O
 fora	O
 do	O
@@ -10522,7 +10354,6 @@ etapa	O
 </p>	O
 
 <p>	O
-
 
 ``	O
 Existe	O
@@ -10594,7 +10425,6 @@ reformulado	O
 
 <p>	O
 
-
 Lisboa	B-LOCAL
 e	O
 PortimÃ£o	B-LOCAL
@@ -10621,7 +10451,6 @@ iniciais	O
 </p>	O
 
 <p>	O
-
 
 ``	O
 Estamos	O
@@ -10683,7 +10512,6 @@ Lisboa-Dakar	O
 
 <p>	O
 
-
 De	O
 acordo	O
 com	O
@@ -10715,7 +10543,6 @@ Portugal	B-LOCAL
 </p>	O
 
 <p>	O
-
 
 ``	O
 Nestes	O
@@ -10756,7 +10583,6 @@ Lagos	I-PESSOA
 .	O
 
 </p>	O
-
 
 
 Empates	O
@@ -11388,7 +11214,6 @@ prÃ³xima	O
 .	O
 
 
-
 Jornal	O
 Bom	O
 Dia	O
@@ -11711,7 +11536,6 @@ Todos	O
 os	O
 Direitos	O
 Reservados	O
-
 
 
 Uma	O
@@ -12100,7 +11924,6 @@ comarca	O
 de	O
 Resende	B-LOCAL
 .	O
-
 
 
 <p>	O
@@ -14640,9 +14463,7 @@ Laguiller	I-PESSOA
 </p>	O
 
 
-
 <p>	O
-
 
 SÃ£o	O
 os	O
@@ -14677,7 +14498,6 @@ correctos	O
 </p>	O
 
 <p>	O
-
 
 Para	O
 isso	O
@@ -14728,7 +14548,6 @@ resÃ­duos	O
 
 <p>	O
 
-
 Ã	O
 neste	O
 contexto	O
@@ -14766,7 +14585,6 @@ urbanos	O
 </p>	O
 
 <p>	O
-
 
 Ã	O
 uma	O
@@ -14813,7 +14631,6 @@ correcta	O
 
 <p>	O
 
-
 Oferecendo	O
 um	O
 serviÃ§o	O
@@ -14841,7 +14658,6 @@ ResÃ­duos	O
 .	O
 
 </p>	O
-
 
 
 ORGANIZAÃÃO	O
@@ -15258,9 +15074,7 @@ pequena	O
 .	O
 
 
-
 <p>	O
-
 
 Pacto	O
 de	O
@@ -15269,7 +15083,6 @@ sangue	O
 </p>	O
 
 <p>	O
-
 
 PASSAPORTE	O
 BIOLÃGICO	O
@@ -15280,7 +15093,6 @@ EM	O
 </p>	O
 
 <p>	O
-
 
 O	O
 ano	O
@@ -15459,13 +15271,11 @@ ano	O
 
 <p>	O
 
-
 Contra-relÃ³gio	O
 
 </p>	O
 
 <p>	O
-
 
 O	O
 passaporte	O
@@ -15534,7 +15344,6 @@ em	O
 
 <p>	O
 
-
 Em	O
 suma	O
 ,	O
@@ -15593,7 +15402,6 @@ ano	O
 .	O
 
 </p>	O
-
 
 
 ReinÃ­cio	O
@@ -20064,9 +19872,7 @@ questÃ£o	O
 .	O
 
 
-
 <p>	O
-
 
 AdC	B-ORGANIZACAO
 
@@ -20083,11 +19889,9 @@ pela	O
 
 Sonae	B-ORGANIZACAO
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 
@@ -20134,11 +19938,9 @@ Modelo	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 AlÃ©m	O
 da	O
@@ -20226,11 +20028,9 @@ ConcorrÃªncia	I-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 entidade	O
@@ -20273,11 +20073,9 @@ agora	O
 efectiva	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 
@@ -20351,11 +20149,9 @@ PortimÃ£o	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Entre	O
 os	O
@@ -20420,11 +20216,9 @@ PortimÃ£o	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 mercado	O
@@ -20505,11 +20299,9 @@ AdC	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 
@@ -20569,13 +20361,10 @@ quadrados	O
 
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 JosÃ©	B-PESSOA
 SÃ³crates	I-PESSOA
@@ -20588,11 +20377,9 @@ dos	O
 seis	O
 meses	O
 
-
 </p>	O
 
 <p>	O
-
 
 UE	B-ORGANIZACAO
 
@@ -20607,11 +20394,9 @@ da	O
 presidÃªncia	O
 portuguesa	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -20661,11 +20446,9 @@ ano	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 DurÃ£o	B-PESSOA
 Barroso	I-PESSOA
@@ -20700,11 +20483,9 @@ UE	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 ano	O
@@ -20752,11 +20533,9 @@ tratado	O
 europeu	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 DurÃ£o	B-PESSOA
 Barroso	I-PESSOA
@@ -20811,11 +20590,9 @@ esta	O
 etapa	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 No	O
 seu	O
@@ -20873,11 +20650,9 @@ com	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 DurÃ£o	B-PESSOA
 Barroso	I-PESSOA
@@ -20925,11 +20700,9 @@ Europeia	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Entre	O
 os	O
@@ -20993,9 +20766,7 @@ falhar	O
 sublinhou	O
 .	O
 
-
 </p>	O
-
 
 
 <p>	O
@@ -21757,14 +21528,12 @@ Duvidam	O
 </p>	O
 
 
-
 CURRENT	O
 CITES	O
 ARTICLE	O
 SEARCH	O
 
 http://sunsite.Berkeley.EDU/CurrentCites/articlesearch.html	O
-
 
 Novo	O
 serviÃ§o	O
@@ -21802,7 +21571,6 @@ informaÃ§Ã£o	O
 na	O
 rede	O
 .	O
-
 
 --	O
 
@@ -21862,4 +21630,3 @@ ANCIB	B-ORGANIZACAO
 ICQ	O
 ,	O
 25328270	O
-

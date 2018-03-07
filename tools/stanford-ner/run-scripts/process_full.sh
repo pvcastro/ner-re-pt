@@ -3,6 +3,7 @@
 ./tokenize-full.sh
 ./token-to-conll-full.sh
 ./add-IOB-full.sh
+./cleaner-full.sh
 
 for i in {0..9}
 do

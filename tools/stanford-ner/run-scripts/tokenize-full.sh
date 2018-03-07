@@ -2,7 +2,7 @@
 
 HAREM=../../../scripts/filter-harem
 
-printf "\n***** repeat 0 *****\n"
+printf "\n***** tokenize full *****\n"
 for i in {0..9}
 do
 	FOLDER=outputs/repeat-0/fold-$i

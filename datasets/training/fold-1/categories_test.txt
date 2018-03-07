@@ -1,7 +1,4 @@
-
-
 <p>	O
-
 
 ``	O
 
@@ -21,11 +18,9 @@ salas	O
 de	O
 cinema	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 filme	O
@@ -71,11 +66,9 @@ deixa	O
 corromper	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Soraia	B-PESSOA
 Chaves	I-PESSOA
@@ -135,11 +128,9 @@ Almeida	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -202,11 +193,9 @@ um	O
 favor	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Neste	O
@@ -254,11 +243,9 @@ ocidental	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -312,11 +299,9 @@ de	O
 luxo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 fotografia	O
@@ -362,11 +347,9 @@ Eduardo	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -420,11 +403,9 @@ TVI	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -465,9 +446,7 @@ de	O
 cinema	O
 .	O
 
-
 </p>	O
-
 
 
 New	O
@@ -825,7 +804,6 @@ Metodista	I-ORGANIZACAO
 Portuguesa	I-ORGANIZACAO
 
 
-
 Detidos	O
 em	O
 Cuba	B-LOCAL
@@ -1056,7 +1034,6 @@ acusados	O
 de	O
 rebeliÃ£o	O
 .	O
-
 
 
 <p>	O
@@ -3231,9 +3208,7 @@ judo	O
 </p>	O
 
 
-
 <p>	O
-
 
 Amazonas	B-LOCAL
 
@@ -3245,11 +3220,9 @@ caracterÃ­sticos	O
 da	O
 etnia	O
 
-
 </p>	O
 
 <p>	O
-
 
 HOME	O
 PAGE	O
@@ -3262,11 +3235,9 @@ VIVO	I-LOCAL
 
 24.12.2007	B-TEMPO
 
-
 </p>	O
 
 <p>	O
-
 
 Ãndios	B-PESSOA
 do	O
@@ -3332,11 +3303,9 @@ Manaus	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 De	O
 acordo	O
@@ -3420,11 +3389,9 @@ um	O
 relatÃ³rio	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 documento	O
@@ -3479,32 +3446,25 @@ etnias	O
 visitadas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Fonte	O
 :	O
 Clipping	O
 da	O
 
-
 6ÂªCCR	O
 do	O
 MPF	O
 
-
 .	O
-
 
 </p>	O
 
 
-
 <p>	O
-
 
 Ronaldo	B-PESSOA
 
@@ -3517,11 +3477,9 @@ no	O
 
 Milan	B-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 FenÃ´meno	B-PESSOA
 
@@ -3541,11 +3499,9 @@ recupera	O
 de	O
 lesÃ£o	O
 
-
 </p>	O
 
 <p>	O
-
 
 Das	O
 agÃªncias	O
@@ -3559,11 +3515,9 @@ Dubai	B-LOCAL
 Emirados	B-LOCAL
 Ãrabes	I-LOCAL
 
-
 </p>	O
 
 <p>	O
-
 
 Depois	O
 de	O
@@ -3634,11 +3588,9 @@ novembro	B-TEMPO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 atacante	O
@@ -3695,11 +3647,9 @@ Maktoum	I-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Em	O
 seguida	O
@@ -3747,11 +3697,9 @@ Dida	B-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 brasileiro	O
@@ -3791,11 +3739,9 @@ jornal	O
 italiano	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Alessandro	B-PESSOA
 Nesta	I-PESSOA
@@ -3807,11 +3753,9 @@ do	O
 companheiro	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 -	O
 PoderÃ­amos	O
@@ -3868,9 +3812,7 @@ concentraÃ§Ã£o	O
 explica	O
 .	O
 
-
 </p>	O
-
 
 
 IncÃªndio	O
@@ -3879,7 +3821,6 @@ habitaÃ§Ã£o	O
 causa	O
 dois	O
 feridos	O
-
 
 Um	O
 incÃªndio	O
@@ -4036,7 +3977,6 @@ com	O
 duas	O
 viaturas	O
 .	O
-
 
 
 Concurso	O
@@ -4495,9 +4435,7 @@ disse	O
 .	O
 
 
-
 <p>	O
-
 
 Novidades	O
 na	O
@@ -4505,11 +4443,9 @@ na	O
 Macworld	B-ACONTECIMENTO
 2007	I-ACONTECIMENTO
 
-
 </p>	O
 
 <p>	O
-
 
 Apple	B-ORGANIZACAO
 
@@ -4528,11 +4464,9 @@ dos	O
 Ãºltimos	O
 tempos	O
 
-
 </p>	O
 
 <p>	O
-
 
 Sempre	O
 Ã©	O
@@ -4590,11 +4524,9 @@ das	O
 telecomunicaÃ§Ãµes	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 novo	O
@@ -4644,11 +4576,9 @@ vÃ­deos	O
 preferidos	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 anÃºncio	O
@@ -4724,11 +4654,9 @@ Apple	B-COISA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ''	O
 
@@ -4777,11 +4705,9 @@ Jobs	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 novo	O
@@ -4887,11 +4813,9 @@ de	O
 diagonal	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Nos	O
 
@@ -4938,11 +4862,9 @@ da	O
 empresa	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 facto	O
@@ -4996,13 +4918,10 @@ Google	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Da	O
 
@@ -5016,11 +4935,9 @@ House	B-ABSTRACCAO
 
 :	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Eu	O
@@ -5100,11 +5017,9 @@ sonoros	O
 .	O
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 tecno	O
@@ -5171,11 +5086,9 @@ tocar	O
 ...	O
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 carros	O
@@ -5290,7 +5203,6 @@ habitÃ¡vel	O
 .	O
 ''	O
 
-
 </p>	O
 
 <p>	O
@@ -5303,7 +5215,6 @@ MÃ¡quina	O
 </p>	O
 
 <p>	O
-
 
 Ã	O
 perceptÃ­vel	O
@@ -5422,11 +5333,9 @@ mensagem	O
 polÃ­tica	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Oh	O
@@ -5598,11 +5507,9 @@ negro	O
 .	O
 ''	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 maior	O
@@ -5740,11 +5647,9 @@ muito	O
 fixo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 O	O
@@ -5856,11 +5761,9 @@ sendo	O
 reconfiguradas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Jeff	B-PESSOA
 Mills	I-PESSOA
@@ -6135,7 +6038,6 @@ em	O
 silÃ­cio	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -6145,7 +6047,6 @@ Medo	O
 </p>	O
 
 <p>	O
-
 
 ''	O
 
@@ -6263,11 +6164,9 @@ Eterno	O
 retorno	O
 ...	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 tecno	O
@@ -6381,13 +6280,10 @@ de	O
 laboratÃ³rio	O
 .	O
 
-
 </p>	O
 
 
-
 <p>	O
-
 
 Euro	B-COISA
 
@@ -6398,11 +6294,9 @@ face	O
 ao	O
 dÃ³lar	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 euro	O
@@ -6441,11 +6335,9 @@ sessÃ£o	O
 anterior	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 tendÃªncia	O
@@ -6464,14 +6356,12 @@ de	O
 juro	O
 da	O
 
-
 Reserva	B-ORGANIZACAO
 Federal	I-ORGANIZACAO
 
 dos	O
 
 EUA	B-LOCAL
-
 
 com	O
 o	O
@@ -6486,11 +6376,9 @@ da	O
 economia	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 outro	O
@@ -6554,11 +6442,9 @@ antes	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Na	O
 passada	O
@@ -6633,9 +6519,7 @@ mÃ©dia	O
 anual	O
 .	O
 
-
 </p>	O
-
 
 
 E	O
@@ -6651,7 +6535,6 @@ cÃ¡	O
 em	O
 Braga	B-LOCAL
 ?	O
-
 
 Isso	O
 foi	O
@@ -7258,7 +7141,6 @@ de	O
 distÃ¢ncia	O
 .	O
 
-
 Quem	O
 fazia	O
 parte	O
@@ -7266,7 +7148,6 @@ da	O
 comissÃ£o	O
 instaladora	O
 ?	O
-
 
 O	O
 professor	B-PESSOA
@@ -7520,9 +7401,7 @@ GuimarÃ£es	B-LOCAL
 .	O
 
 
-
 <p>	O
-
 
 Tour	B-ACONTECIMENTO
 
@@ -7530,11 +7409,9 @@ Tour	B-ACONTECIMENTO
 Procura-se	O
 candidato	O
 
-
 </p>	O
 
 <p>	O
-
 
 PAULINHO	B-PESSOA
 
@@ -7544,11 +7421,9 @@ DESFALCADA	O
 DE	O
 VEDETAS	O
 
-
 </p>	O
 
 <p>	O
-
 
 Pelo	O
 segundo	O
@@ -7646,11 +7521,9 @@ n.Âº	O
 1	B-OUTRO
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ainda	O
 estÃ¡	O
@@ -7704,11 +7577,9 @@ no	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Face	O
 entÃ£o	O
@@ -7762,11 +7633,9 @@ pela	O
 vitÃ³ria	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 SÃ£o	O
 eles	O
@@ -7833,7 +7702,6 @@ Paulinho	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -7845,7 +7713,6 @@ polÃ­cias	O
 </p>	O
 
 <p>	O
-
 
 Cerca	B-VALOR
 de	I-VALOR
@@ -7930,9 +7797,7 @@ Silverstone	B-LOCAL
 
 .	O
 
-
 </p>	O
-
 
 
 ReinÃ­cio	O
@@ -12403,7 +12268,6 @@ questÃ£o	O
 .	O
 
 
-
 LegiÃ£o	B-ORGANIZACAO
 da	I-ORGANIZACAO
 Boa	I-ORGANIZACAO
@@ -12412,7 +12276,6 @@ comemora	O
 10Âº	B-VALOR
 .	I-VALOR
 aniversÃ¡rio	O
-
 
 A	O
 LegiÃ£o	B-ORGANIZACAO
@@ -12627,7 +12490,6 @@ Boa	I-OBRA
 vontade	I-OBRA
 ''	O
 .	O
-
 
 
 Lula	B-PESSOA
@@ -13071,7 +12933,6 @@ AgÃªncia	B-ORGANIZACAO
 Folha	I-ORGANIZACAO
 
 
-
 Os	O
 Melhores	O
 HotÃ©is	O
@@ -13314,7 +13175,6 @@ Photos	O
 2001-2	B-TEMPO
 Resort	B-ORGANIZACAO
 Martino	I-ORGANIZACAO
-
 
 
 A	O
@@ -13842,9 +13702,7 @@ verdade	O
 .	O
 
 
-
 HistÃ³ria	O
-
 
 As	O
 ilhas	O
@@ -14175,9 +14033,7 @@ financeiras	O
 internacionais	O
 .	O
 
-
 Geografia	O
-
 
 Situadas	O
 a	O
@@ -14364,9 +14220,7 @@ Sahara	B-LOCAL
 .	O
 
 
-
 <p>	O
-
 
 Telemoveis.com	O
 TV	O
@@ -14375,7 +14229,6 @@ TV	O
 
 <p>	O
 
-
 Escolher	O
 outra	O
 notÃ­cia	O
@@ -14383,7 +14236,6 @@ notÃ­cia	O
 </p>	O
 
 <p>	O
-
 
 TelemÃ³veis	O
 vÃ£o	O
@@ -14396,13 +14248,11 @@ Net	B-LOCAL
 
 <p>	O
 
-
 2005-07-13	B-TEMPO
 
 </p>	O
 
 <p>	O
-
 
 A	O
 decisÃ£o	O
@@ -14497,7 +14347,6 @@ T-Mobile	B-ORGANIZACAO
 
 <p>	O
 
-
 O	O
 objectivo	O
 desta	O
@@ -14533,7 +14382,6 @@ equipamentos	O
 
 <p>	O
 
-
 Em	O
 princÃ­pio	O
 ,	O
@@ -14566,15 +14414,12 @@ telemÃ³vel	O
 </p>	O
 
 
-
 <p>	O
-
 
 PalÃ¡cio	B-OBRA
 Nacional	I-OBRA
 de	O
 Mafra	B-LOCAL
-
 
 </p>	O
 
@@ -14585,7 +14430,6 @@ Convento	O
 </p>	O
 
 <p>	O
-
 
 Em	O
 1715	B-TEMPO
@@ -14714,7 +14558,6 @@ Coimbra	B-LOCAL
 ;	O
 os	O
 
-
 Franciscanos	B-PESSOA
 
 da	O
@@ -14760,11 +14603,9 @@ Mafra	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Em	O
 1834	B-TEMPO
@@ -14874,9 +14715,7 @@ encerramento	O
 definitivo	O
 .	O
 
-
 </p>	O
-
 
 
 <p>	O
@@ -14886,7 +14725,6 @@ Multibanco	O
 </p>	O
 
 <p>	O
-
 
 Multibanco	B-COISA
 
@@ -14967,11 +14805,9 @@ Machine	I-ABSTRACCAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Enquanto	O
 
@@ -15023,11 +14859,9 @@ mÃ¡quinas	O
 obsoletas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 nÃºmero	O
@@ -15095,11 +14929,9 @@ Portugueses	I-OBRA
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Em	O
 
@@ -15136,11 +14968,9 @@ de	O
 serviÃ§os	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Neste	O
 momento	O
@@ -15161,7 +14991,6 @@ do	O
 mundo	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -15178,7 +15007,6 @@ dÃ©bito	O
 .	O
 
 </p>	O
-
 
 
 <p>	O
@@ -15206,7 +15034,6 @@ PE	B-LOCAL
 
 <p>	O
 
-
 Rosa	B-PESSOA
 Campello	I-PESSOA
 
@@ -15231,11 +15058,9 @@ PE	B-LOCAL
 
 votos	O
 
-
 </p>	O
 
 <p>	O
-
 
 CelebraÃ§Ã£o	O
 ao	O
@@ -15324,11 +15149,9 @@ Rouanet	I-OBRA
 
 !!!!!!!!!!!!!!!!!!!!!!!!	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 Empresa	O
@@ -15348,11 +15171,9 @@ NORDESTE	I-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ''	O
 
@@ -15365,11 +15186,9 @@ DramÃ¡tica	O
 Brasileira	O
 :	O
 
-
 </p>	O
 
 <p>	O
-
 
 Cavalo-marinho	B-ABSTRACCAO
 
@@ -15423,11 +15242,9 @@ boi	O
 mÃ¡gico	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Uma	O
 apresentaÃ§Ã£o	O
@@ -15480,11 +15297,9 @@ janeiro	B-TEMPO
 -RRB-	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 enredo	O
@@ -15677,11 +15492,9 @@ Amarante	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Entram	O
 ,	O
@@ -15841,11 +15654,9 @@ para	O
 danÃ§a	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Durante	O
 os	O
@@ -15919,11 +15730,9 @@ documentaÃ§Ã£o	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Texto	O
 :	O
@@ -15971,9 +15780,7 @@ de	O
 -RRB-	O
 .	O
 
-
 </p>	O
-
 
 
 Cansei-me	O
@@ -16627,7 +16434,6 @@ medo	O
 do	O
 mundo	O
 .	O
-
 
 
 Empates	O
@@ -17296,7 +17102,6 @@ prÃ³xima	O
 .	O
 
 
-
 <p>	O
 
 De	O
@@ -17524,27 +17329,22 @@ dica	O
 </p>	O
 
 
-
 <p>	O
-
 
 MinistÃ©rio	B-ORGANIZACAO
 da	I-ORGANIZACAO
 Defesa	I-ORGANIZACAO
 Nacional	I-ORGANIZACAO
 
-
 </p>	O
 
 <p>	O
-
 
 Ministro	B-PESSOA
 da	I-PESSOA
 Defesa	I-PESSOA
 Nacional	I-PESSOA
 visita	O
-
 
 ForÃ§as	B-PESSOA
 Nacionais	I-PESSOA
@@ -17555,11 +17355,9 @@ no	O
 AfeganistÃ£o	B-LOCAL
 
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -17595,7 +17393,6 @@ uma	O
 visita	O
 Ã s	O
 
-
 ForÃ§as	B-PESSOA
 Nacionais	I-PESSOA
 Destacadas	I-PESSOA
@@ -17604,14 +17401,11 @@ em	O
 
 Cabul	B-LOCAL
 
-
 .	O
-
 
 </p>	O
 
 <p>	O
-
 
 Nuno	B-PESSOA
 Severiano	I-PESSOA
@@ -17631,7 +17425,6 @@ Warehouse	I-LOCAL
 composto	O
 pela	O
 
-
 22	B-PESSOA
 .	I-PESSOA
 Âª	I-PESSOA
@@ -17647,12 +17440,10 @@ de	I-ORGANIZACAO
 ReacÃ§Ã£o	I-ORGANIZACAO
 RÃ¡pida	I-ORGANIZACAO
 
-
 e	O
 uma	O
 equipa	O
 de	O
-
 
 Controladores	B-PESSOA
 AÃ©reos	I-PESSOA
@@ -17663,14 +17454,11 @@ da	O
 ForÃ§a	B-ORGANIZACAO
 AÃ©rea	I-ORGANIZACAO
 
-
 .	O
-
 
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -17788,11 +17576,9 @@ de	I-TEMPO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Nuno	B-PESSOA
 Severiano	I-PESSOA
@@ -17839,7 +17625,6 @@ e	O
 com	O
 o	O
 
-
 Presidente	B-PESSOA
 da	O
 
@@ -17848,7 +17633,6 @@ IslÃ¢mica	I-LOCAL
 do	I-LOCAL
 AfeganistÃ£o	I-LOCAL
 
-
 ,	O
 
 Hamid	B-PESSOA
@@ -17856,11 +17640,9 @@ Karzai	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 
@@ -17884,9 +17666,7 @@ Dezembro	I-TEMPO
 
 .	O
 
-
 </p>	O
-
 
 
 Agricultores	O
@@ -19038,4 +18818,3 @@ indÃºstria	O
 LuÃ­s	B-PESSOA
 Paulo	I-PESSOA
 Rodrigues	I-PESSOA
-

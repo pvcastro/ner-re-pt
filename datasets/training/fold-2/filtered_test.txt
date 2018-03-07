@@ -1,5 +1,3 @@
-
-
 Serrambi	B-ORGANIZACAO
 Viagens	I-ORGANIZACAO
 e	I-ORGANIZACAO
@@ -324,9 +322,7 @@ Palavra	O
 |	O
 
 
-
 <p>	O
-
 
 HistÃ³ria	O
 do	O
@@ -335,7 +331,6 @@ RFID	O
 </p>	O
 
 <p>	O
-
 
 A	O
 tecnologia	O
@@ -474,7 +469,6 @@ RFID	O
 
 <p>	O
 
-
 Sob	O
 o	O
 comando	O
@@ -591,7 +585,6 @@ ativos	O
 
 <p>	O
 
-
 AvanÃ§os	O
 na	O
 Ã¡rea	O
@@ -646,7 +639,6 @@ remotamente	O
 </p>	O
 
 <p>	O
-
 
 Companhias	O
 comeÃ§aram	O
@@ -755,7 +747,6 @@ disparado	O
 </p>	O
 
 
-
 <p>	O
 
 TERROR	O
@@ -768,7 +759,6 @@ CONTRACULTURA	O
 </p>	O
 
 <p>	O
-
 
 A	O
 histÃ³ria	O
@@ -785,11 +775,9 @@ a	O
 Roy	B-PESSOA
 Lichtenstein	I-PESSOA
 
-
 </p>	O
 
 <p>	O
-
 
 Por	O
 
@@ -800,11 +788,9 @@ Cunha	I-PESSOA
 yoyodine@hotmail.com	O
 -RRB-	O
 
-
 </p>	O
 
 <p>	O
-
 
 AtÃ©	O
 1947	O
@@ -1073,11 +1059,9 @@ Comics	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 publicaÃ§Ã£o	O
@@ -1298,11 +1282,9 @@ na	O
 capa	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Isso	O
 aconteceu	O
@@ -1477,11 +1459,9 @@ estar	O
 apodrecendo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 sucesso	O
@@ -1683,11 +1663,9 @@ Kurtzman	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 grande	O
@@ -1951,11 +1929,9 @@ Wolverton	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 festa	O
@@ -2081,11 +2057,9 @@ caso	O
 homossexual	O
 :	O
 
-
 </p>	O
 
 <p>	O
-
 
 ''	O
 
@@ -2239,11 +2213,9 @@ juntos	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Dr.	B-PESSOA
 Frederick	I-PESSOA
@@ -2257,11 +2229,9 @@ of	O
 the	O
 Inocents	O
 
-
 </p>	O
 
 <p>	O
-
 
 Impelido	O
 pela	O
@@ -2483,11 +2453,9 @@ Ferdinando	B-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 resultado	O
@@ -2571,11 +2539,9 @@ seus	O
 artistas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Apesar	O
 de	O
@@ -2694,11 +2660,9 @@ Aproval	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Ã	O
 um	O
@@ -2883,11 +2847,9 @@ Dead	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 comix	O
@@ -3071,9 +3033,7 @@ Unidos	O
 
 .	O
 
-
 </p>	O
-
 
 
 Lions	B-ORGANIZACAO
@@ -3429,7 +3389,6 @@ da	O
 IP	B-ORGANIZACAO
 
 
-
 Norte-americanos	O
 disparam	O
 contra	O
@@ -3553,9 +3512,7 @@ PentÃ¡gono	B-ORGANIZACAO
 .	O
 
 
-
 <p>	O
-
 
 H5N1	O
 :	O
@@ -3572,7 +3529,6 @@ Portugal	O
 </p>	O
 
 <p>	O
-
 
 Mais	O
 de	O
@@ -3612,7 +3568,6 @@ Jorge	I-ORGANIZACAO
 </p>	O
 
 <p>	O
-
 
 Na	O
 quinta-feira	O
@@ -3656,7 +3611,6 @@ generalizado	O
 </p>	O
 
 <p>	O
-
 
 Em	O
 Portugal	B-LOCAL
@@ -3703,7 +3657,6 @@ conhecida	O
 </p>	O
 
 <p>	O
-
 
 Os	O
 cenÃ¡rios	O
@@ -3781,7 +3734,6 @@ ataque	O
 
 <p>	O
 
-
 Os	O
 autores	O
 dos	O
@@ -3820,7 +3772,6 @@ ondas	O
 </p>	O
 
 <p>	O
-
 
 Os	O
 peritos	O
@@ -3872,29 +3823,23 @@ cento	O
 </p>	O
 
 
-
 <p>	O
-
 
 RestauraÃ§Ã£o	O
 da	O
 IndependÃªncia	O
 
-
 </p>	O
 
 <p>	O
-
 
 Guerra	O
 da	O
 RestauraÃ§Ã£o	O
 
-
 </p>	O
 
 <p>	O
-
 
 Finalmente	O
 ,	O
@@ -3933,12 +3878,10 @@ BraganÃ§a	O
 
 como	O
 
-
 Rei	O
 de	O
 
 Portugal	B-LOCAL
-
 
 ,	O
 com	O
@@ -3971,11 +3914,9 @@ BraganÃ§a	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 esforÃ§o	O
@@ -4085,11 +4026,9 @@ e	O
 administrativa	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Paralelamente	O
 ,	O
@@ -4179,9 +4118,7 @@ Brasil	B-LOCAL
 
 .	O
 
-
 </p>	O
-
 
 
 APOGEP	B-ORGANIZACAO
@@ -4233,7 +4170,6 @@ Universo	O
 IPMA	B-ORGANIZACAO
 Links	O
 28-03-2003	O
-
 
 ConvocatÃ³ria	O
 para	O
@@ -4462,9 +4398,7 @@ Consulting	I-ORGANIZACAO
 S.A.	I-ORGANIZACAO
 
 
-
 <p>	O
-
 
 Team	O
 Suzuki	O
@@ -4476,7 +4410,6 @@ NotÃ­cias	O
 
 <p>	O
 
-
 27	O
 MarÃ§o	O
 de	O
@@ -4485,7 +4418,6 @@ de	O
 </p>	O
 
 <p>	O
-
 
 LuÃ­s	B-PESSOA
 Correia	I-PESSOA
@@ -4498,7 +4430,6 @@ S.Quintino	O
 </p>	O
 
 <p>	O
-
 
 LuÃ­s	B-PESSOA
 Correia	I-PESSOA
@@ -4546,7 +4477,6 @@ S.Quintino	I-LOCAL
 
 <p>	O
 
-
 Numa	O
 pista	O
 em	O
@@ -4584,7 +4514,6 @@ Motocross	O
 </p>	O
 
 <p>	O
-
 
 E	O
 o	O
@@ -4698,7 +4627,6 @@ classe	O
 
 <p>	O
 
-
 Os	O
 seus	O
 companheiros	O
@@ -4801,7 +4729,6 @@ final	O
 
 <p>	O
 
-
 Ricardo	B-PESSOA
 Pereira	I-PESSOA
 esteve	O
@@ -4826,7 +4753,6 @@ RMZ	O
 </p>	O
 
 <p>	O
-
 
 Na	O
 classe	O
@@ -4878,7 +4804,6 @@ Podium	O
 </p>	O
 
 <p>	O
-
 
 No	O
 final	O
@@ -5004,7 +4929,6 @@ Shift	O
 
 <p>	O
 
-
 Apesar	O
 de	O
 ter	O
@@ -5037,7 +4961,6 @@ lugar	O
 </p>	O
 
 <p>	O
-
 
 Para	O
 o	O
@@ -5135,7 +5058,6 @@ em	O
 .	O
 
 </p>	O
-
 
 
 Quem	O
@@ -5630,7 +5552,6 @@ responsabilidade	O
 .	O
 
 
-
 Foi	O
 a	O
 primeira	O
@@ -5640,7 +5561,6 @@ veio	O
 a	O
 Braga	B-LOCAL
 ?	O
-
 
 Foi	O
 a	O
@@ -5654,7 +5574,6 @@ meus	O
 estudos	O
 superiores	O
 .	O
-
 
 Qual	O
 a	O
@@ -5670,7 +5589,6 @@ era	O
 a	O
 cidade	O
 ?	O
-
 
 Era	O
 pequenÃ­ssima	O
@@ -5784,7 +5702,6 @@ do	I-ORGANIZACAO
 Minho	I-ORGANIZACAO
 .	O
 
-
 Como	O
 Ã©	O
 que	O
@@ -5792,7 +5709,6 @@ era	O
 a	O
 cidade	O
 ?	O
-
 
 A	O
 prÃ¡tica	O
@@ -5847,7 +5763,6 @@ as	O
 pessoas	O
 .	O
 
-
 Como	O
 fez	O
 a	O
@@ -5858,18 +5773,15 @@ para	O
 Braga	B-LOCAL
 ?	O
 
-
 De	O
 comboio	O
 .	O
-
 
 Como	O
 foi	O
 essa	O
 viajem	O
 ?	O
-
 
 Recordo-me	O
 da	O
@@ -5981,7 +5893,6 @@ naquele	O
 tempo	O
 .	O
 
-
 Veio	O
 para	O
 Braga	B-LOCAL
@@ -5989,12 +5900,10 @@ para	O
 estudar	O
 ?	O
 
-
 Para	O
 estudar	O
 Filosofia	O
 .	O
-
 
 
 Campanhas	O
@@ -6405,7 +6314,6 @@ $	O
 para	O
 Timor	B-LOCAL
 .	O
-
 
 
 A	O
@@ -7214,7 +7122,6 @@ forÃ§as	O
 .	O
 
 
-
 Sunab	B-ORGANIZACAO
 autua	O
 empresas	O
@@ -7484,9 +7391,7 @@ Paulo	I-LOCAL
 .	O
 
 
-
 <p>	O
-
 
 Agora	O
 jÃ¡	O
@@ -7513,7 +7418,6 @@ caminho	O
 </p>	O
 
 <p>	O
-
 
 -	O
 Sistema	O
@@ -7563,7 +7467,6 @@ cÃ´res	O
 
 <p>	O
 
-
 AplicaÃ§Ã£o	O
 na	O
 viatura	O
@@ -7574,7 +7477,6 @@ simples	O
 </p>	O
 
 <p>	O
-
 
 Pode	O
 ser	O
@@ -7589,7 +7491,6 @@ viaturas	O
 </p>	O
 
 <p>	O
-
 
 SÃ³	O
 tem	O
@@ -7630,7 +7531,6 @@ rota	O
 
 <p>	O
 
-
 -	O
 Base	O
 de	O
@@ -7650,7 +7550,6 @@ incorporados	O
 </p>	O
 
 <p>	O
-
 
 -	O
 Inclui	O
@@ -7675,7 +7574,6 @@ casa	O
 </p>	O
 
 <p>	O
-
 
 Pontos	O
 de	O
@@ -7707,7 +7605,6 @@ etc.	O
 
 <p>	O
 
-
 Grava	O
 atÃ©	O
 600	O
@@ -7735,7 +7632,6 @@ utilizadores	O
 
 <p>	O
 
-
 O	O
 planeamento	O
 de	O
@@ -7752,7 +7648,6 @@ maneiras	O
 
 <p>	O
 
-
 -	O
 O	O
 caminho	O
@@ -7764,7 +7659,6 @@ rÃ¡pido	O
 
 <p>	O
 
-
 -	O
 DistÃ¢ncia	O
 mais	O
@@ -7774,7 +7668,6 @@ curta	O
 </p>	O
 
 <p>	O
-
 
 -	O
 O	O
@@ -7787,7 +7680,6 @@ auto-estradas	O
 
 <p>	O
 
-
 AlimentaÃ§Ã£o	O
 de	O
 10-18V	O
@@ -7796,7 +7688,6 @@ DC	O
 </p>	O
 
 <p>	O
-
 
 Fornecido	O
 com	O
@@ -7839,7 +7730,6 @@ portuguÃªs	O
 
 <p>	O
 
-
 Menus	O
 e	O
 indicaÃ§Ãµes	O
@@ -7867,7 +7757,6 @@ altura	O
 
 <p>	O
 
-
 -	O
 Encomenda	O
 sujeita	O
@@ -7876,7 +7765,6 @@ confirmaÃ§Ã£o	O
 .	O
 
 </p>	O
-
 
 
 Agricultores	O
@@ -9028,7 +8916,6 @@ indÃºstria	O
 LuÃ­s	B-PESSOA
 Paulo	I-PESSOA
 Rodrigues	I-PESSOA
-
 
 
 <p>	O
@@ -13310,7 +13197,6 @@ Deus	B-PESSOA
 </p>	O
 
 
-
 C	O
 o	O
 m	O
@@ -13646,7 +13532,6 @@ Limerick	B-LOCAL
 e	O
 Kenmare	B-LOCAL
 .	O
-
 
 
 Marfinite	B-ORGANIZACAO
@@ -14143,7 +14028,6 @@ produtos	O
 .	O
 
 
-
 Jornal	O
 Light	O
 News	O
@@ -14477,14 +14361,12 @@ MultimÃ­dia	I-ORGANIZACAO
 2000	O
 
 
-
 A	O
 INFORMAÃÃO	O
 NO	O
 MUNDO	O
 DA	O
 TÃCNICA	O
-
 
 Nos	O
 dias	O
@@ -14531,7 +14413,6 @@ DE	O
 JANEIRO	O
 .	O
 
-
 Um	O
 grupo	O
 de	O
@@ -14565,7 +14446,6 @@ URL	O
 
 www.rnp.br/ti-rj/gt5.html	O
 
-
 O	O
 Grupo	O
 de	O
@@ -14581,7 +14461,6 @@ composto	O
 por	O
 :	O
 
-
 ConteÃºdo	O
 e	O
 OrganizaÃ§Ã£o	O
@@ -14596,10 +14475,8 @@ Legey	I-PESSOA
 IBICT	B-ORGANIZACAO
 -RRB-	O
 
-
 Colaboradores	O
 :	O
-
 
 Gilda	B-PESSOA
 Olinto	I-PESSOA
@@ -14615,7 +14492,6 @@ Carlos	B-PESSOA
 Henrique	I-PESSOA
 Marcondes	I-PESSOA
 UFF	B-ORGANIZACAO
-
 
 Vale	O
 a	O
@@ -14634,9 +14510,7 @@ reproduzi	O
 abaixo	O
 :	O
 
-
 CONCLUSAO	O
-
 
 A	O
 anÃ¡lise	O
@@ -15413,7 +15287,6 @@ de	O
 ponta	O
 .	O
 
-
 -LRB-	O
 maiusculas	O
 no	O
@@ -15422,7 +15295,6 @@ colocadas	O
 pela	O
 Lista	O
 -RRB-	O
-
 
 
 Fernando	B-PESSOA
@@ -15821,9 +15693,7 @@ AnalÃ­tica	O
 .	O
 
 
-
 <p>	O
-
 
 ``	O
 PolivalÃªnciaVacas	O
@@ -15837,11 +15707,9 @@ somos	O
 vacas	O
 !!	O
 
-
 </p>	O
 
 <p>	O
-
 
 Para	O
 o	O
@@ -15854,11 +15722,9 @@ somos	O
 gado	O
 !!	O
 
-
 </p>	O
 
 <p>	O
-
 
 Os	O
 politicos	O
@@ -15872,7 +15738,6 @@ as	O
 manadas	O
 nacionais	O
 .	O
-
 
 </p>	O
 
@@ -15918,7 +15783,6 @@ novo	O
 
 <p>	O
 
-
 Fui	O
 
 ontem	O
@@ -15945,11 +15809,9 @@ anos	O
 e	O
 ...	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Vai	O
@@ -15967,7 +15829,6 @@ das	O
 09h00	O
 
 ''	O
-
 
 </p>	O
 
@@ -16077,7 +15938,6 @@ eficientemente	O
 
 <p>	O
 
-
 1Âº	O
 -	O
 Assinar	O
@@ -16115,7 +15975,6 @@ Portugal	B-LOCAL
 
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -16129,7 +15988,6 @@ realidade	O
 </p>	O
 
 <p>	O
-
 
 2Âº	O
 -	O
@@ -16147,7 +16005,6 @@ do	O
 BCE	B-ORGANIZACAO
 
 .	O
-
 
 </p>	O
 
@@ -16269,7 +16126,6 @@ rabinho	O
 </p>	O
 
 
-
 O	O
 Oeste	B-LOCAL
 da	I-LOCAL
@@ -16335,7 +16191,6 @@ CoraÃ§Ã£o	O
 de	O
 Jesus	O
 .	O
-
 
 A	O
 mistura	O
@@ -16803,7 +16658,6 @@ Goa	B-LOCAL
 .	O
 
 
-
 New	O
 Page	O
 1	O
@@ -17159,7 +17013,6 @@ Metodista	I-ORGANIZACAO
 Portuguesa	I-ORGANIZACAO
 
 
-
 <p>	O
 
 Multibanco	O
@@ -17167,7 +17020,6 @@ Multibanco	O
 </p>	O
 
 <p>	O
-
 
 Multibanco	O
 
@@ -17248,11 +17100,9 @@ Machine	O
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Enquanto	O
 
@@ -17304,11 +17154,9 @@ mÃ¡quinas	O
 obsoletas	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 nÃºmero	O
@@ -17376,11 +17224,9 @@ Portugueses	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Em	O
 
@@ -17417,11 +17263,9 @@ de	O
 serviÃ§os	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Neste	O
 momento	O
@@ -17442,7 +17286,6 @@ do	O
 mundo	O
 .	O
 
-
 </p>	O
 
 <p>	O
@@ -17461,9 +17304,7 @@ dÃ©bito	O
 </p>	O
 
 
-
 <p>	O
-
 
 ``	O
 
@@ -17483,11 +17324,9 @@ salas	O
 de	O
 cinema	O
 
-
 </p>	O
 
 <p>	O
-
 
 O	O
 filme	O
@@ -17533,11 +17372,9 @@ deixa	O
 corromper	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 Soraia	B-PESSOA
 Chaves	I-PESSOA
@@ -17597,11 +17434,9 @@ Almeida	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -17664,11 +17499,9 @@ um	O
 favor	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 Neste	O
@@ -17716,11 +17549,9 @@ ocidental	O
 ''	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -17774,11 +17605,9 @@ de	O
 luxo	O
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 A	O
 fotografia	O
@@ -17824,11 +17653,9 @@ Eduardo	I-PESSOA
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -17882,11 +17709,9 @@ TVI	B-ORGANIZACAO
 
 .	O
 
-
 </p>	O
 
 <p>	O
-
 
 ``	O
 
@@ -17927,9 +17752,7 @@ de	O
 cinema	O
 .	O
 
-
 </p>	O
-
 
 
 Lula	B-PESSOA
@@ -18371,4 +18194,3 @@ GONDIN	I-PESSOA
 da	O
 AgÃªncia	B-ORGANIZACAO
 Folha	I-ORGANIZACAO
-

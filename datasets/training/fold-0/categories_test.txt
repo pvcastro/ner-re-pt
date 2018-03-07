@@ -1,5 +1,3 @@
-
-
 Os	O
 outros	O
 que	O
@@ -279,16 +277,12 @@ dessas	O
 
 
 
-
-
 Actualmente	O
 é	O
 de	O
 
 570,6	B-VALOR
 euros	I-VALOR
-
-
 
 
 
@@ -301,8 +295,6 @@ para	O
 
 600	B-VALOR
 euros	I-VALOR
-
-
 
 
 
@@ -347,8 +339,6 @@ ano	O
 
 
 
-
-
 ``	O
 Aprovámos	O
 o	O
@@ -382,7 +372,6 @@ Janeiro	I-TEMPO
 anunciou	O
 o	O
 
-
 chefe	B-PESSOA
 do	I-PESSOA
 Governo	I-PESSOA
@@ -409,8 +398,6 @@ deste	O
 ano	O
 
 .	O
-
-
 
 
 
@@ -468,8 +455,6 @@ poder	O
 
 
 
-
-
 O	O
 chefe	O
 do	O
@@ -506,8 +491,6 @@ positivo	O
 
 
 
-
-
 Em	O
 Outubro	B-TEMPO
 
@@ -534,8 +517,6 @@ caso	O
 de	O
 reeleição	O
 .	O
-
-
 
 
 
@@ -584,8 +565,6 @@ e	O
 Malta	B-LOCAL
 
 .	O
-
-
 
 
 
@@ -885,7 +864,6 @@ contactar	O
 carlos.fontes@megamail.pt	O
 
 
-
 Escutismo	O
 distingue	O
 Câmara	B-ORGANIZACAO
@@ -1017,8 +995,6 @@ CNE	B-ORGANIZACAO
 
 
 
-
-
 China	B-ORGANIZACAO
 
 vai	O
@@ -1030,8 +1006,6 @@ telemóveis	O
 
 em	O
 2008	B-TEMPO
-
-
 
 
 
@@ -1063,8 +1037,6 @@ a	O
 imprensa	O
 estatal	O
 .	O
-
-
 
 
 
@@ -1108,8 +1080,6 @@ de	O
 2008	B-TEMPO
 
 .	O
-
-
 
 
 
@@ -1167,8 +1137,6 @@ Xinhua	B-ORGANIZACAO
 
 
 
-
-
 Segundo	O
 
 Wang	B-PESSOA
@@ -1205,8 +1173,6 @@ outros	O
 
 
 
-
-
 A	O
 tecnologia	O
 
@@ -1239,8 +1205,6 @@ WCDMA	B-COISA
 
 -RRB-	O
 .	O
-
-
 
 
 
@@ -1295,8 +1259,6 @@ China	B-ORGANIZACAO
 Unicom	I-ORGANIZACAO
 
 .	O
-
-
 
 
 
@@ -1558,14 +1520,10 @@ mortos	O
 
 
 
-
-
 Aristides	B-PESSOA
 de	I-PESSOA
 Sousa	I-PESSOA
 Mendes	I-PESSOA
-
-
 
 
 
@@ -1577,8 +1535,6 @@ Mundial	I-ACONTECIMENTO
 
 
 
-
-
 Aristides	B-PESSOA
 de	I-PESSOA
 Sousa	I-PESSOA
@@ -1587,11 +1543,9 @@ Mendes	I-PESSOA
 permanece	O
 ainda	O
 
-
 cônsul	B-PESSOA
 de	I-PESSOA
 Bordéus	I-PESSOA
-
 
 quando	O
 tem	O
@@ -1630,8 +1584,6 @@ de	O
 Portugal	B-ORGANIZACAO
 
 .	O
-
-
 
 
 
@@ -1696,8 +1648,6 @@ são	O
 cidadãos	O
 ''	O
 .	O
-
-
 
 
 
@@ -1794,8 +1744,6 @@ parcimónia	O
 
 
 
-
-
 Já	O
 
 no	O
@@ -1832,7 +1780,6 @@ ajudar	O
 encontra-se	O
 o	O
 
-
 Rabino	B-PESSOA
 
 de	O
@@ -1841,7 +1788,6 @@ Antuérpia	B-LOCAL
 
 Jacob	B-PESSOA
 Kruger	I-PESSOA
-
 
 ,	O
 que	O
@@ -1856,8 +1802,6 @@ os	O
 refugiados	O
 judeus	O
 .	O
-
-
 
 
 
@@ -1940,8 +1884,6 @@ disponíveis	O
 
 
 
-
-
 Confrontado	O
 com	O
 os	O
@@ -1981,8 +1923,6 @@ Deus	B-PESSOA
 
 ''	O
 .	O
-
-
 
 
 
@@ -2115,8 +2055,6 @@ cônsul	O
 
 
 
-
-
 Apesar	O
 de	O
 terem	O
@@ -2220,9 +2158,6 @@ Portugal	B-LOCAL
 
 
 
-
-
-
 São	O
 os	O
 produtores	O
@@ -2252,8 +2187,6 @@ um	O
 destino	O
 correctos	O
 .	O
-
-
 
 
 Para	O
@@ -2302,8 +2235,6 @@ resíduos	O
 .	O
 
 
-
-
 É	O
 neste	O
 contexto	O
@@ -2337,8 +2268,6 @@ industriais	O
 e	O
 urbanos	O
 .	O
-
-
 
 
 É	O
@@ -2383,8 +2312,6 @@ correcta	O
 .	O
 
 
-
-
 Oferecendo	O
 um	O
 serviço	O
@@ -2413,9 +2340,6 @@ Resíduos	I-ABSTRACCAO
 
 
 
-
-
-
 CCB	B-ACONTECIMENTO
 15	I-ACONTECIMENTO
 ANOS	I-ACONTECIMENTO
@@ -2425,8 +2349,6 @@ UM	O
 PRESENTE	O
 AOS	O
 ESPECTADORES	O
-
-
 
 
 
@@ -2545,8 +2467,6 @@ Anner	B-PESSOA
 Bylsma	I-PESSOA
 
 .	O
-
-
 
 
 
@@ -2800,8 +2720,6 @@ Bourgeois	I-PESSOA
 
 
 
-
-
 Durante	O
 estes	O
 anos	O
@@ -2943,8 +2861,6 @@ animação	O
 
 
 
-
-
 É	O
 por	O
 isso	O
@@ -3055,8 +2971,6 @@ do	O
 CCB	B-ORGANIZACAO
 
 .	O
-
-
 
 
 
@@ -3179,8 +3093,6 @@ público	O
 
 
 
-
-
 As	O
 comemorações	O
 terão	O
@@ -3197,7 +3109,6 @@ a	O
 apresentação	O
 da	O
 
-
 Oratória	B-OBRA
 de	I-OBRA
 Natal	I-OBRA
@@ -3207,7 +3118,6 @@ de	O
 J.	B-PESSOA
 S.	I-PESSOA
 Bach	I-PESSOA
-
 
 pela	O
 
@@ -3434,8 +3344,6 @@ EUR	I-VALOR
 
 
 
-
-
 Mas	O
 a	O
 festa	O
@@ -3526,9 +3434,6 @@ Belém	B-LOCAL
 
 
 
-
-
-
 Distribuição	O
 de	O
 jornais	O
@@ -3537,8 +3442,6 @@ quase	O
 duplicou	O
 este	O
 ano	O
-
-
 
 
 O	O
@@ -3579,8 +3482,6 @@ divulgados	O
 pela	O
 APCT	B-ORGANIZACAO
 .	O
-
-
 
 
 A	O
@@ -3629,8 +3530,6 @@ existiam	O
 .	O
 
 
-
-
 Entre	O
 os	O
 mais	O
@@ -3664,8 +3563,6 @@ os	O
 180	B-VALOR
 mil	I-VALOR
 .	O
-
-
 
 
 Com	O
@@ -3707,8 +3604,6 @@ cento	I-VALOR
 .	O
 
 
-
-
 A	O
 maior	O
 subida	O
@@ -3745,8 +3640,6 @@ exemplares	O
 .	O
 
 
-
-
 Refira-se	O
 que	O
 os	O
@@ -3770,8 +3663,6 @@ Bola	I-ORGANIZACAO
 o	O
 Sexta-feira	B-COISA
 .	O
-
-
 
 
 Capítulo	O
@@ -7321,7 +7212,6 @@ Londres	B-LOCAL
 .	O
 
 
-
 CNPq	B-ORGANIZACAO
 ,	O
 MCT	B-ORGANIZACAO
@@ -7343,7 +7233,6 @@ O	O
 SECRETARIO-EXECUTIVO	B-PESSOA
 DO	I-PESSOA
 MCT	I-PESSOA
-
 
 Carlos	B-PESSOA
 Americo	I-PESSOA
@@ -7523,7 +7412,6 @@ no	O
 pais	O
 .	O
 
-
 Na	O
 Segunda	O
 parte	O
@@ -7634,7 +7522,6 @@ participantes	O
 .	O
 ''	O
 
-
 Conheca	O
 o	O
 novo	O
@@ -7644,7 +7531,6 @@ CNPq	B-ORGANIZACAO
 ,	O
 Evando	B-PESSOA
 Mirra	I-PESSOA
-
 
 Leia	O
 aqui	O
@@ -7675,7 +7561,6 @@ Oficial	I-LOCAL
 da	I-LOCAL
 Uniao	I-LOCAL
 :	O
-
 
 Nome	O
 completo	O
@@ -7991,7 +7876,6 @@ Premio	B-OUTRO
 Brasimet	I-OUTRO
 .	O
 
-
 -LRB-	O
 Informacoes	O
 fornecidas	O
@@ -8012,12 +7896,10 @@ SBPC	B-ORGANIZACAO
 -RRB-	O
 
 
-
 Quantos	O
 irmão	O
 tem	O
 ?	O
-
 
 São	O
 dois	O
@@ -8104,7 +7986,6 @@ na	O
 reforma	O
 .	O
 
-
 Tem	O
 recordações	O
 da	O
@@ -8114,7 +7995,6 @@ passou	O
 a	O
 infância	O
 ?	O
-
 
 Lembro-me	O
 .	O
@@ -8381,7 +8261,6 @@ de	O
 meninice	O
 .	O
 
-
 E	O
 como	O
 era	O
@@ -8391,7 +8270,6 @@ casa	O
 dos	O
 correios	O
 ?	O
-
 
 Era	O
 normal	O
@@ -8476,13 +8354,11 @@ toda	O
 esburacada	O
 .	O
 
-
 Quem	O
 morava	O
 na	O
 casa	O
 ?	O
-
 
 Nós	O
 a	O
@@ -8500,7 +8376,6 @@ os	O
 filhos	O
 .	O
 
-
 Nessa	O
 altura	O
 os	O
@@ -8510,7 +8385,6 @@ já	O
 eram	O
 nascidos	O
 ?	O
-
 
 Não	O
 .	O
@@ -8558,7 +8432,6 @@ a	O
 Covilhã	B-LOCAL
 .	O
 
-
 Como	O
 eram	O
 divididas	O
@@ -8568,7 +8441,6 @@ lá	O
 em	O
 casa	O
 ?	O
-
 
 A	O
 minha	O
@@ -8747,7 +8619,6 @@ sua	O
 família	O
 ?	O
 
-
 Olhe	O
 ,	O
 o	O
@@ -8832,10 +8703,8 @@ essas	O
 reuniões	O
 .	O
 
-
 Porquê	O
 ?	O
-
 
 Porque	O
 essa	O
@@ -8982,7 +8851,6 @@ ou	O
 sete	O
 .	O
 
-
 Como	O
 era	O
 o	O
@@ -8991,7 +8859,6 @@ em	O
 sua	O
 casa	O
 ?	O
-
 
 O	O
 meu	O
@@ -9047,7 +8914,6 @@ meu	O
 pai	O
 .	O
 
-
 E	O
 a	O
 que	O
@@ -9057,7 +8923,6 @@ levantava	O
 pela	O
 manhã	O
 ?	O
-
 
 Geralmente	O
 levantava-me	O
@@ -9268,7 +9133,6 @@ chamava	O
 a	O
 escola	O
 ?	O
-
 
 A	O
 escola	O
@@ -9538,7 +9402,6 @@ outra	O
 coisa	O
 .	O
 
-
 Qual	O
 é	O
 a	O
@@ -9551,7 +9414,6 @@ da	O
 escola	O
 primária	O
 ?	O
-
 
 É	O
 o	O
@@ -9594,7 +9456,6 @@ lá	O
 construiram	O
 .	O
 
-
 O	O
 que	O
 mais	O
@@ -9602,7 +9463,6 @@ gostava	O
 no	O
 professor	O
 ?	O
-
 
 Conseguia	O
 explicar	O
@@ -9814,7 +9674,6 @@ Tive	O
 sorte	O
 .	O
 
-
 E	O
 lembra-se	O
 porque	O
@@ -9823,7 +9682,6 @@ a	O
 primeira	O
 reguada	O
 ?	O
-
 
 Olhe	O
 não	O
@@ -9874,7 +9732,6 @@ que	O
 dava	O
 .	O
 
-
 Em	O
 casa	O
 quem	O
@@ -9884,7 +9741,6 @@ tinha	O
 mais	O
 autoridade	O
 ?	O
-
 
 O	O
 pai	O
@@ -10024,7 +9880,6 @@ vida	O
 inteira	O
 .	O
 
-
 Relacionava-se	O
 melhor	O
 com	O
@@ -10037,7 +9892,6 @@ o	O
 seu	O
 pai	O
 ?	O
-
 
 Os	O
 dois	O
@@ -10074,14 +9928,12 @@ nesse	O
 aspecto	O
 .	O
 
-
 Com	O
 descreve	O
 a	O
 sua	O
 mãe	O
 ?	O
-
 
 Eu	O
 fisicamente	O
@@ -10236,7 +10088,6 @@ a	O
 melhor	O
 solução	O
 .	O
-
 
 
 Campanhas	O
@@ -10650,8 +10501,6 @@ Timor	B-LOCAL
 
 
 
-
-
 Os	O
 fragmentos	O
 do	O
@@ -10699,8 +10548,6 @@ atingidos	O
 pelos	O
 destroços	O
 .	O
-
-
 
 
 
@@ -10759,8 +10606,6 @@ resgatar	O
 os	O
 detritos	O
 .	O
-
-
 
 
 
@@ -10830,8 +10675,6 @@ para	O
 qualquer	O
 contingência	O
 .	O
-
-
 
 
 
@@ -10914,8 +10757,6 @@ do	O
 Equador	O
 
 .	O
-
-
 
 
 
@@ -11019,13 +10860,9 @@ cair	O
 .	O
 
 
-
-
 -LRB-	O
 SN	O
 -RRB-	O
-
-
 
 
 
@@ -11040,7 +10877,6 @@ U2	B-PESSOA
 ?	O
 
 
-
 Com	O
 que	O
 idade	O
@@ -11050,7 +10886,6 @@ Presley	I-PESSOA
 ?	O
 
 
-
 Onde	O
 está	O
 a	O
@@ -11058,7 +10893,6 @@ Estátua	B-OBRA
 da	I-OBRA
 Liberdade	I-OBRA
 ?	O
-
 
 
 Em	O
@@ -11088,7 +10922,6 @@ a	O
 Villa	B-OBRA
 Medici	I-OBRA
 ?	O
-
 
 
 Que	O
@@ -11126,7 +10959,6 @@ estrangeiro	O
 ?	O
 
 
-
 Quem	O
 foi	O
 eleito	O
@@ -11141,7 +10973,6 @@ Sul	I-LOCAL
 ?	O
 
 
-
 Como	O
 se	O
 chamava	O
@@ -11150,7 +10981,6 @@ vocalista	O
 dos	O
 Nirvana	B-PESSOA
 ?	O
-
 
 
 Que	O
@@ -11165,7 +10995,6 @@ Durán	I-PESSOA
 tentou	O
 matar	O
 ?	O
-
 
 
 Que	O
@@ -11185,7 +11014,6 @@ em	O
 ?	O
 
 
-
 Para	O
 quantos	O
 Óscares	B-OUTRO
@@ -11198,7 +11026,6 @@ de	I-OBRA
 Schindler	I-OBRA
 ''	O
 ?	O
-
 
 
 Quem	O
@@ -11216,7 +11043,6 @@ Gump	I-OBRA
 ?	O
 
 
-
 Como	O
 se	O
 chamava	O
@@ -11231,7 +11057,6 @@ Julieta	I-OBRA
 ?	O
 
 
-
 Quantos	O
 pisos	O
 tem	O
@@ -11242,7 +11067,6 @@ Building	I-LOCAL
 ?	O
 
 
-
 Como	O
 se	O
 chama	O
@@ -11251,7 +11075,6 @@ patrão	B-PESSOA
 da	I-PESSOA
 Microsoft	I-PESSOA
 ?	O
-
 
 
 Em	O
@@ -11265,7 +11088,6 @@ Kennedy	I-PESSOA
 ?	O
 
 
-
 Com	O
 que	O
 actriz	O
@@ -11274,7 +11096,6 @@ casado	O
 Arthur	B-PESSOA
 Miller	I-PESSOA
 ?	O
-
 
 
 Que	O
@@ -11290,7 +11111,6 @@ Kohl	I-PESSOA
 ?	O
 
 
-
 Em	O
 que	O
 ano	O
@@ -11302,14 +11122,12 @@ Berlim	B-LOCAL
 ?	O
 
 
-
 Qual	O
 a	O
 altura	O
 do	O
 Evereste	B-LOCAL
 ?	O
-
 
 
 Em	O
@@ -11323,7 +11141,6 @@ Rouge	I-LOCAL
 ?	O
 
 
-
 Quando	O
 é	O
 que	O
@@ -11331,7 +11148,6 @@ nasceu	O
 Franz	B-PESSOA
 Kafka	I-PESSOA
 ?	O
-
 
 
 Quando	O
@@ -11342,7 +11158,6 @@ construída	O
 a	O
 Esfinge	B-OBRA
 ?	O
-
 
 
 Quem	O
@@ -11358,7 +11173,6 @@ Amor	I-OBRA
 ?	O
 
 
-
 Em	O
 que	O
 cidade	O
@@ -11372,14 +11186,12 @@ AG	I-ORGANIZACAO
 ?	O
 
 
-
 O	O
 que	O
 é	O
 o	O
 Titanic	O
 ?	O
-
 
 
 Quem	O
@@ -11393,13 +11205,11 @@ Obélix	I-OBRA
 ?	O
 
 
-
 Quem	O
 é	O
 Albert	B-PESSOA
 Einstein	I-PESSOA
 ?	O
-
 
 
 Quem	O
@@ -11409,7 +11219,6 @@ Godfather	B-PESSOA
 of	I-PESSOA
 Soul	I-PESSOA
 ?	O
-
 
 
 Quem	O
@@ -11423,7 +11232,6 @@ II	I-PESSOA
 ?	O
 
 
-
 Quem	O
 é	O
 o	O
@@ -11433,7 +11241,6 @@ estado	O
 da	O
 Austrália	B-LOCAL
 ?	O
-
 
 
 Qual	O
@@ -11446,7 +11253,6 @@ Schneider	I-PESSOA
 ?	O
 
 
-
 Quando	O
 é	O
 que	O
@@ -11454,7 +11260,6 @@ nasceu	O
 Aldous	B-PESSOA
 Huxley	I-PESSOA
 ?	O
-
 
 
 Como	O
@@ -11481,7 +11286,6 @@ Garros	I-ACONTECIMENTO
 em	O
 1994	B-TEMPO
 ?	O
-
 
 
 Quando	O
@@ -11522,7 +11326,6 @@ morreu	O
 ?	O
 
 
-
 Quando	O
 foi	O
 criado	O
@@ -11530,7 +11333,6 @@ o	O
 Prémio	B-OUTRO
 Schiller	I-OUTRO
 ?	O
-
 
 
 Que	O
@@ -11546,7 +11348,6 @@ de	O
 Melhor	B-OUTRO
 Filme	I-OUTRO
 ?	O
-
 
 
 Quem	O
@@ -11594,7 +11395,6 @@ levou	I-OBRA
 ?	O
 
 
-
 O	O
 que	O
 significa	O
@@ -11604,7 +11404,6 @@ IRA	B-ABSTRACCAO
 ?	O
 
 
-
 Qual	O
 o	O
 significado	O
@@ -11612,7 +11411,6 @@ da	O
 sigla	O
 NSUK	B-ABSTRACCAO
 ?	O
-
 
 
 De	O
@@ -11629,7 +11427,6 @@ ano	O
 morreu	O
 ele	O
 ?	O
-
 
 
 Quem	O
@@ -11649,7 +11446,6 @@ Cola	I-COISA
 ?	O
 
 
-
 Quem	O
 abriu	O
 o	O
@@ -11659,7 +11455,6 @@ Opera	B-PESSOA
 de	I-PESSOA
 Viena	I-PESSOA
 ?	O
-
 
 
 Quantos	O
@@ -11709,7 +11504,6 @@ em	O
 ?	O
 
 
-
 Rudy	B-PESSOA
 Giuliani	I-PESSOA
 era	O
@@ -11722,7 +11516,6 @@ que	O
 cidade	O
 americana	O
 ?	O
-
 
 
 Quando	O
@@ -11787,7 +11580,6 @@ em	O
 ?	O
 
 
-
 Em	O
 que	O
 ano	O
@@ -11800,13 +11592,11 @@ Gdansk	B-LOCAL
 ?	O
 
 
-
 Quem	O
 é	O
 Werner	B-PESSOA
 Herzog	I-PESSOA
 ?	O
-
 
 
 Em	O
@@ -11820,7 +11610,6 @@ Fama	I-LOCAL
 ?	O
 
 
-
 Em	O
 quantos	O
 países	O
@@ -11831,7 +11620,6 @@ Olimpíadas	B-ACONTECIMENTO
 de	O
 Albertville	B-LOCAL
 ?	O
-
 
 
 Qual	O
@@ -11865,7 +11653,6 @@ família	O
 para	O
 Chicago	B-LOCAL
 ?	O
-
 
 
 Desde	O
@@ -11909,7 +11696,6 @@ de	O
 quantos	O
 dólares	O
 ?	O
-
 
 
 Quem	O
@@ -11966,7 +11752,6 @@ Cannes	B-LOCAL
 ?	O
 
 
-
 Quantos	O
 golos	O
 é	O
@@ -11978,7 +11763,6 @@ na	O
 sua	O
 carreira	O
 ?	O
-
 
 
 Em	O
@@ -12004,14 +11788,12 @@ you	I-OBRA
 ?	O
 
 
-
 O	O
 que	O
 é	O
 o	O
 Grammy	O
 ?	O
-
 
 
 Que	O
@@ -12029,7 +11811,6 @@ Literatura	I-OUTRO
 ?	O
 
 
-
 O	O
 que	O
 são	O
@@ -12043,7 +11824,6 @@ Histeria	I-ACONTECIMENTO
 ?	O
 
 
-
 Quem	O
 foi	O
 o	O
@@ -12053,7 +11833,6 @@ psicoanálise	O
 ?	O
 
 
-
 De	O
 que	O
 cidade	O
@@ -12061,7 +11840,6 @@ cidade	O
 Friedensreich	B-PESSOA
 Hundertwasser	I-PESSOA
 ?	O
-
 
 
 Quando	O
@@ -12112,13 +11890,11 @@ fim	O
 ?	O
 
 
-
 O	O
 que	O
 era	O
 Napola	O
 ?	O
-
 
 
 O	O
@@ -12129,7 +11905,6 @@ Tussaud	O
 ?	O
 
 
-
 O	O
 que	O
 é	O
@@ -12137,7 +11912,6 @@ a	O
 Mona	O
 Lisa	O
 ?	O
-
 
 
 Quanto	O
@@ -12153,7 +11927,6 @@ Spielberg	I-PESSOA
 ?	O
 
 
-
 Quem	O
 escreveu	O
 ''	O
@@ -12163,13 +11936,11 @@ Kampf	I-OBRA
 ?	O
 
 
-
 Quem	O
 é	O
 Helmut	B-PESSOA
 Newton	I-PESSOA
 ?	O
-
 
 
 Quando	O
@@ -12196,7 +11967,6 @@ dezembro	I-TEMPO
 de	I-TEMPO
 1941	I-TEMPO
 ?	O
-
 
 
 Que	O
@@ -12235,7 +12005,6 @@ Eurovisão	I-ACONTECIMENTO
 ?	O
 
 
-
 Qual	O
 o	O
 significado	O
@@ -12262,7 +12031,6 @@ UNICEF	B-ORGANIZACAO
 ?	O
 
 
-
 De	O
 que	O
 banda	O
@@ -12286,7 +12054,6 @@ banda	O
 .	O
 
 
-
 Quando	O
 é	O
 que	O
@@ -12297,7 +12064,6 @@ primeira	O
 Love	B-ACONTECIMENTO
 Parade	I-ACONTECIMENTO
 ?	O
-
 
 
 Quando	O
@@ -12336,7 +12102,6 @@ extraordinária	O
 ?	O
 
 
-
 Quem	O
 é	O
 que	O
@@ -12357,7 +12122,6 @@ problema	O
 da	O
 liberdade	O
 ?	O
-
 
 
 Diga	O
@@ -12402,7 +12166,6 @@ de	I-OBRA
 Cristo	I-OBRA
 ''	O
 ?	O
-
 
 
 Quando	O
@@ -12450,7 +12213,6 @@ Prata	I-ACONTECIMENTO
 ?	O
 
 
-
 Onde	O
 fica	O
 Hiroxima	B-LOCAL
@@ -12471,7 +12233,6 @@ Hiroxima	B-LOCAL
 ?	O
 
 
-
 O	O
 que	O
 é	O
@@ -12488,7 +12249,6 @@ em	O
 ?	O
 
 
-
 Quem	O
 realizou	O
 o	O
@@ -12501,7 +12261,6 @@ Veneza	I-OBRA
 ?	O
 
 
-
 Onde	O
 é	O
 que	O
@@ -12511,7 +12270,6 @@ a	O
 Semana	B-ACONTECIMENTO
 Verde	I-ACONTECIMENTO
 ?	O
-
 
 
 Quem	O
@@ -12543,7 +12301,6 @@ de	O
 ?	O
 
 
-
 Quando	O
 é	O
 que	O
@@ -12561,7 +12318,6 @@ atentado	O
 na	O
 Oktoberfest	B-ACONTECIMENTO
 ?	O
-
 
 
 Quem	O
@@ -12587,7 +12343,6 @@ rosto	I-OBRA
 ?	O
 
 
-
 Diga	O
 duas	O
 afiliadas	O
@@ -12611,7 +12366,6 @@ Volvo	B-ORGANIZACAO
 ?	O
 
 
-
 Qual	O
 é	O
 a	O
@@ -12625,7 +12379,6 @@ têm	O
 o	O
 Pentâgono	B-LOCAL
 ?	O
-
 
 
 Que	O
@@ -12647,7 +12400,6 @@ RAF	B-ORGANIZACAO
 .	O
 
 
-
 Onde	O
 fica	O
 a	O
@@ -12663,7 +12415,6 @@ Galeria	B-LOCAL
 dos	I-LOCAL
 Ofícios	I-LOCAL
 ?	O
-
 
 
 Qual	O
@@ -12695,7 +12446,6 @@ Branco	I-COISA
 ?	O
 
 
-
 Qual	O
 o	O
 comprimento	O
@@ -12720,7 +12470,6 @@ Calafati	B-LOCAL
 ?	O
 
 
-
 Quando	O
 foi	O
 publicada	O
@@ -12729,7 +12478,6 @@ API	B-OBRA
 Web	I-OBRA
 do	O
 Google	B-ORGANIZACAO
-
 
 
 Qual	O
@@ -12758,7 +12506,6 @@ Quioto	I-OBRA
 ?	O
 
 
-
 Quem	O
 é	O
 o	O
@@ -12774,7 +12521,6 @@ têm	O
 a	O
 organização	O
 ?	O
-
 
 
 Qual	O
@@ -12807,7 +12553,6 @@ Kilimanjaro	B-COISA
 ?	O
 
 
-
 A	O
 que	O
 partido	O
@@ -12835,7 +12580,6 @@ gescheitert	O
 .	O
 
 
-
 O	O
 que	O
 é	O
@@ -12856,7 +12600,6 @@ existem	O
 ?	O
 
 
-
 Quanto	O
 custou	O
 a	O
@@ -12865,7 +12608,6 @@ da	O
 Torre	B-OBRA
 Eiffel	I-OBRA
 ?	O
-
 
 
 Quem	O
@@ -12887,7 +12629,6 @@ diluição	O
 ?	O
 
 
-
 Em	O
 quantos	O
 livros	O
@@ -12902,13 +12643,11 @@ Anéis	I-OBRA
 ?	O
 
 
-
 Onde	O
 fica	O
 o	O
 Alhambra	B-OBRA
 ?	O
-
 
 
 Onde	O
@@ -12930,7 +12669,6 @@ Bros.	I-ORGANIZACAO
 em	O
 2000	B-TEMPO
 ?	O
-
 
 
 Que	O
@@ -12962,7 +12700,6 @@ dele	O
 ?	O
 
 
-
 Qual	O
 a	O
 profundidade	O
@@ -12981,14 +12718,12 @@ Canyon	B-LOCAL
 ?	O
 
 
-
 Que	O
 marca	O
 fez	O
 Benetton	B-PESSOA
 famoso	O
 ?	O
-
 
 
 Onde	O
@@ -12999,13 +12734,11 @@ Center	I-LOCAL
 ?	O
 
 
-
 O	O
 que	O
 é	O
 Putuo	O
 ?	O
-
 
 
 Quando	O
@@ -13026,7 +12759,6 @@ SEAT	B-ORGANIZACAO
 ?	O
 
 
-
 Em	O
 que	O
 concerto	O
@@ -13040,7 +12772,6 @@ Julho	I-TEMPO
 de	I-TEMPO
 2005	I-TEMPO
 ?	O
-
 
 
 Que	O
@@ -13063,7 +12794,6 @@ dela	O
 ?	O
 
 
-
 De	O
 que	O
 país	O
@@ -13073,13 +12803,11 @@ Jackson	I-PESSOA
 ?	O
 
 
-
 O	O
 que	O
 significa	O
 viquingue	O
 ?	O
-
 
 
 O	O
@@ -13099,7 +12827,6 @@ França	B-LOCAL
 ?	O
 
 
-
 Como	O
 se	O
 chamava	O
@@ -13108,7 +12835,6 @@ mãe	O
 de	O
 Nero	B-PESSOA
 ?	O
-
 
 
 Isabel	B-PESSOA
@@ -13122,7 +12848,6 @@ presidente	B-PESSOA
 do	I-PESSOA
 Chile	I-PESSOA
 ?	O
-
 
 
 Onde	O
@@ -13143,7 +12868,6 @@ da	O
 Nova	B-LOCAL
 Inglaterra	I-LOCAL
 ?	O
-
 
 
 Porque	O
@@ -13172,7 +12896,6 @@ Coluna	B-LOCAL
 da	I-LOCAL
 Vitória	I-LOCAL
 ?	O
-
 
 
 Quando	O
@@ -13204,7 +12927,6 @@ americano	O
 ?	O
 
 
-
 Quem	O
 organiza	O
 o	O
@@ -13224,9 +12946,6 @@ Sambódromo	B-LOCAL
 
 
 
-
-
-
 AdC	B-ORGANIZACAO
 
 dá	O
@@ -13241,8 +12960,6 @@ Portugal	I-ORGANIZACAO
 pela	O
 
 Sonae	B-ORGANIZACAO
-
-
 
 
 
@@ -13290,8 +13007,6 @@ supermercados	O
 Modelo	B-COISA
 
 .	O
-
-
 
 
 
@@ -13383,8 +13098,6 @@ Concorrência	I-ORGANIZACAO
 
 
 
-
-
 A	O
 entidade	O
 liderada	O
@@ -13425,8 +13138,6 @@ tornou	O
 agora	O
 efectiva	O
 .	O
-
-
 
 
 
@@ -13504,8 +13215,6 @@ Portimão	B-LOCAL
 
 
 
-
-
 Entre	O
 os	O
 compromissos	O
@@ -13568,8 +13277,6 @@ e	O
 Portimão	B-LOCAL
 
 .	O
-
-
 
 
 
@@ -13654,8 +13361,6 @@ AdC	B-ORGANIZACAO
 
 
 
-
-
 No	O
 
 Grande	B-LOCAL
@@ -13717,15 +13422,10 @@ quadrados	I-VALOR
 
 
 
-
-
-
 A	O
 fama	O
 do	O
 Prius	B-COISA
-
-
 
 
 Durante	O
@@ -13768,8 +13468,6 @@ o	O
 mundo	O
 automóvel	O
 .	O
-
-
 
 
 Com	O
@@ -13842,8 +13540,6 @@ novo	O
 .	O
 
 
-
-
 Um	O
 habitáculo	O
 simples	O
@@ -13852,8 +13548,6 @@ confortável	O
 e	O
 espaçoso	O
 .	O
-
-
 
 
 Além	O
@@ -13904,13 +13598,9 @@ Prius	I-COISA
 .	O
 
 
-
-
 Economia	O
 e	O
 performance	O
-
-
 
 
 Em	O
@@ -13978,8 +13668,6 @@ segundos	I-VALOR
 .	O
 
 
-
-
 A	O
 Toyota	B-ORGANIZACAO
 afirma	O
@@ -14005,8 +13693,6 @@ novo	O
 a	O
 gasolina	O
 .	O
-
-
 
 
 Sunab	B-ORGANIZACAO
@@ -14276,7 +13962,6 @@ de	O
 São	B-LOCAL
 Paulo	I-LOCAL
 .	O
-
 
 
 Untitled	O
@@ -14602,8 +14287,6 @@ VOLTAR	O
 
 
 
-
-
 George	B-PESSOA
 Steiner	I-PESSOA
 
@@ -14612,8 +14295,6 @@ holocausto	O
 ou	O
 holocaustos	O
 ?	O
-
-
 
 
 
@@ -14681,8 +14362,6 @@ inquitações	O
 
 
 
-
-
 Ora	O
 a	O
 
@@ -14737,8 +14416,6 @@ possível	O
 ,	O
 concerteza	O
 .	O
-
-
 
 
 
@@ -14800,8 +14477,6 @@ Oskar	B-PESSOA
 Schindler	I-PESSOA
 
 ?	O
-
-
 
 
 
@@ -14886,8 +14561,6 @@ holocaustos	O
 no	O
 mundo	O
 ...	O
-
-
 
 
 
@@ -15004,9 +14677,6 @@ Estado	O
 
 
 
-
-
-
 Team	B-PESSOA
 Suzuki	I-PESSOA
 Cepsa	I-PESSOA
@@ -15014,14 +14684,10 @@ Cepsa	I-PESSOA
 Notícias	O
 
 
-
-
 27	B-TEMPO
 Março	I-TEMPO
 de	I-TEMPO
 2005	I-TEMPO
-
-
 
 
 Luís	B-PESSOA
@@ -15031,8 +14697,6 @@ concorrência	O
 em	O
 Casais	B-ACONTECIMENTO
 S.Quintino	I-ACONTECIMENTO
-
-
 
 
 Luís	B-PESSOA
@@ -15078,8 +14742,6 @@ S.Quintino	I-LOCAL
 .	O
 
 
-
-
 Numa	O
 pista	O
 em	O
@@ -15113,8 +14775,6 @@ espectáculo	O
 do	O
 Motocross	B-COISA
 .	O
-
-
 
 
 E	O
@@ -15226,8 +14886,6 @@ classe	O
 .	O
 
 
-
-
 Os	O
 seus	O
 companheiros	O
@@ -15327,8 +14985,6 @@ final	O
 .	O
 
 
-
-
 Ricardo	B-PESSOA
 Pereira	I-PESSOA
 esteve	O
@@ -15349,8 +15005,6 @@ Suzuki	B-COISA
 RMZ	I-COISA
 250	I-COISA
 .	O
-
-
 
 
 Na	O
@@ -15399,8 +15053,6 @@ Santos	I-PESSOA
 no	O
 Podium	B-OUTRO
 .	O
-
-
 
 
 No	O
@@ -15524,8 +15176,6 @@ Shift	B-COISA
 .	O
 
 
-
-
 Apesar	O
 de	O
 ter	O
@@ -15554,8 +15204,6 @@ o	O
 12º	B-VALOR
 lugar	O
 .	O
-
-
 
 
 Para	O
@@ -15654,8 +15302,6 @@ em	O
 .	O
 
 
-
-
 O	O
 cão	O
 é	O
@@ -15696,7 +15342,6 @@ os	O
 povos	O
 asiáticos	O
 .	O
-
 
 
 Como	O
@@ -15778,7 +15423,6 @@ categorias	O
 .	O
 
 
-
 De	O
 acordo	O
 com	O
@@ -15812,7 +15456,6 @@ Brasil	B-LOCAL
 São	O
 eles	O
 :	O
-
 
 Grupo	O
 1	O
@@ -15932,7 +15575,6 @@ entre	O
 outros	O
 .	O
 
-
 A	O
 onça	O
 ,	O
@@ -16015,7 +15657,6 @@ e	O
 jacarés	O
 .	O
 
-
 A	O
 capivara	O
 é	O
@@ -16027,7 +15668,6 @@ roedores	O
 do	O
 mundo	O
 .	O
-
 
 Ela	O
 pode	O
@@ -16105,7 +15745,6 @@ fora	O
 d'água	O
 .	O
 
-
 Nas	O
 regiões	O
 ao	O
@@ -16148,7 +15787,6 @@ espanhol	O
 é	O
 Carpincho	B-ABSTRACCAO
 .	O
-
 
 Quando	O
 os	O
@@ -16251,7 +15889,6 @@ assim	O
 .	O
 
 
-
 O	O
 Uacari-Branco	B-ABSTRACCAO
 -LRB-	O
@@ -16270,7 +15907,6 @@ na	O
 Amazônia	B-LOCAL
 brasileira	O
 .	O
-
 
 
 Eu	O
@@ -17308,7 +16944,6 @@ cento	O
 .	O
 
 
-
 Almeida	B-PESSOA
 Henriques	I-PESSOA
 ,	O
@@ -17431,7 +17066,6 @@ igualmente	O
 na	O
 internacionalização	O
 
-
 Diário	B-PESSOA
 Regional	I-PESSOA
 de	I-PESSOA
@@ -17454,7 +17088,6 @@ Centro	I-ORGANIZACAO
 CEC	B-ORGANIZACAO
 -RRB-	O
 ?	O
-
 
 Almeida	B-PESSOA
 Henriques	I-PESSOA
@@ -17518,7 +17151,6 @@ do	O
 CEC	B-ORGANIZACAO
 .	O
 
-
 DRV	B-PESSOA
 :	O
 O	O
@@ -17529,7 +17161,6 @@ nalguma	O
 estrutura	O
 nacional	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -17599,7 +17230,6 @@ Região	B-LOCAL
 Centro	I-LOCAL
 .	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
@@ -17614,7 +17244,6 @@ numa	O
 estrutura	O
 nacional	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -17736,7 +17365,6 @@ a	O
 fazer	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Como	O
@@ -17744,7 +17372,6 @@ funciona	O
 o	O
 CEC	B-ORGANIZACAO
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -17905,7 +17532,6 @@ que	O
 forma	O
 ?	O
 
-
 A.H.	B-PESSOA
 :	O
 Em	O
@@ -18015,7 +17641,6 @@ de	O
 decisões	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Quais	O
@@ -18032,7 +17657,6 @@ mandato	O
 até	B-TEMPO
 2002	I-TEMPO
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -18078,14 +17702,12 @@ pontos	O
 de	O
 convergência	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
 é	O
 fácil	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -18142,7 +17764,6 @@ mais	O
 qualidade	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Mas	O
@@ -18175,7 +17796,6 @@ este	O
 desenvolvimento	O
 harmonioso	O
 ?	O
-
 
 A.H.	B-PESSOA
 :	O
@@ -18373,7 +17993,6 @@ a	O
 Reforma	B-OBRA
 Fiscal	I-OBRA
 
-
 DRV	B-PESSOA
 :	O
 E	O
@@ -18384,7 +18003,6 @@ pilares	O
 do	O
 mandato	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -18586,7 +18204,6 @@ estrutura	O
 forte	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 De	O
@@ -18602,7 +18219,6 @@ chegar	O
 à	O
 internacionalização	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -18716,7 +18332,6 @@ o	O
 Brasil	B-LOCAL
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Mas	O
@@ -18751,7 +18366,6 @@ empresas	O
 nesta	O
 zona	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -18889,7 +18503,6 @@ políticas	O
 simultâneas	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Quantas	O
@@ -18898,7 +18511,6 @@ representa	O
 o	O
 CEC	B-ORGANIZACAO
 ?	O
-
 
 A.H	B-PESSOA
 :	O
@@ -19121,7 +18733,6 @@ sua	O
 internacionalização	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Concordou	O
@@ -19137,7 +18748,6 @@ e	O
 das	O
 Finanças	B-ABSTRACCAO
 ?	O
-
 
 A.	B-PESSOA
 H	I-PESSOA
@@ -19391,7 +19001,6 @@ não	O
 funciona	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 Qual	O
@@ -19412,7 +19021,6 @@ empresarial	O
 no	O
 CEC	B-ORGANIZACAO
 .	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -19543,7 +19151,6 @@ do	O
 distrito	O
 .	O
 
-
 DRV	B-PESSOA
 :	O
 E	O
@@ -19574,7 +19181,6 @@ que	O
 se	O
 deparam	O
 ?	O
-
 
 A.	B-PESSOA
 H.	I-PESSOA
@@ -19660,13 +19266,11 @@ mental	O
 .	O
 
 
-
 Qual	O
 o	O
 seu	O
 nome	O
 ?	O
-
 
 Lúcio	B-ABSTRACCAO
 Craveiro	I-ABSTRACCAO
@@ -19674,17 +19278,14 @@ da	I-ABSTRACCAO
 Silva	I-ABSTRACCAO
 .	O
 
-
 Onde	O
 nasceu	O
 ?	O
-
 
 Tortosendo	B-LOCAL
 ,	O
 Covilhã	B-LOCAL
 .	O
-
 
 E	O
 data	O
@@ -19692,14 +19293,12 @@ de	O
 nascimento	O
 ?	O
 
-
 27	B-TEMPO
 de	I-TEMPO
 Novembro	I-TEMPO
 de	I-TEMPO
 1914	I-TEMPO
 .	O
-
 
 Qual	O
 o	O
@@ -19712,7 +19311,6 @@ da	O
 sua	O
 mãe	O
 ?	O
-
 
 Meu	O
 pai	O
@@ -19733,13 +19331,11 @@ da	I-PESSOA
 Silva	I-PESSOA
 .	O
 
-
 E	O
 os	O
 seus	O
 avós	O
 ?	O
-
 
 José	B-PESSOA
 Craveiro	I-PESSOA
@@ -19756,7 +19352,6 @@ não	O
 sei	O
 .	O
 
-
 Sabe	O
 qual	O
 a	O
@@ -19765,7 +19360,6 @@ da	O
 sua	O
 família	O
 ?	O
-
 
 O	O
 meu	O
@@ -19930,7 +19524,6 @@ para	O
 professores	O
 .	O
 
-
 E	O
 sabe	O
 qual	O
@@ -19943,7 +19536,6 @@ que	O
 era	O
 comerciante	O
 ?	O
-
 
 O	O
 meu	O
@@ -20013,7 +19605,6 @@ continuam	O
 lá	O
 .	O
 
-
 Que	O
 recordações	O
 é	O
@@ -20023,7 +19614,6 @@ desse	O
 avô	O
 materno	O
 ?	O
-
 
 Olhe	O
 uma	O
@@ -20134,14 +19724,12 @@ como	O
 criança	O
 .	O
 
-
 Como	O
 descreve	O
 esse	O
 seu	O
 avô	O
 ?	O
-
 
 Um	O
 homem	O
@@ -20348,7 +19936,6 @@ da	O
 minha	O
 família	O
 .	O
-
 
 
 O	O
@@ -21556,8 +21143,6 @@ Filosofia	I-ORGANIZACAO
 
 
 
-
-
 Questões	O
 Frequentemente	O
 Perguntadas	O
@@ -21570,15 +21155,11 @@ FAQ	O
 -RRB-	O
 
 
-
-
 Instituto	B-ORGANIZACAO
 Brasileiro	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Advocacia	I-ORGANIZACAO
 Pública	I-ORGANIZACAO
-
-
 
 
 Questões	O
@@ -21587,8 +21168,6 @@ perguntadas	O
 -LRB-	O
 FAQ	O
 -RRB-	O
-
-
 
 
 -LRB-	O
@@ -21632,20 +21211,14 @@ ibap@ibap.org	O
 .	O
 
 
-
-
 1	O
 -	O
 APOSENTADOS/AS	O
 
 
-
-
 2	O
 -	O
 ESTAGIÁRIOS/AS	O
-
-
 
 
 3	O
@@ -21656,16 +21229,12 @@ EM	O
 ATIVIDADE	O
 
 
-
-
 4	O
 -	O
 ESTRUTURA	O
 ORGANIZACIONAL	O
 DO	O
 IBAP	B-ORGANIZACAO
-
-
 
 
 5	O
@@ -21677,15 +21246,11 @@ VIA	O
 INTERNET	B-OUTRO
 
 
-
-
 6	O
 -	O
 PUBLICAÇÕES	O
 DO	O
 IBAP	B-ORGANIZACAO
-
-
 
 
 7	O
@@ -21694,8 +21259,6 @@ EVENTOS	O
 REALIZADOS/APOIADOS	O
 PELO	O
 IBAP	B-ORGANIZACAO
-
-
 
 
 8	O
@@ -21710,13 +21273,9 @@ E	O
 CAMPANHAS	O
 
 
-
-
 1	O
 -	O
 APOSENTADOS/AS	O
-
-
 
 
 1.1	O
@@ -21730,8 +21289,6 @@ associar-me	O
 ao	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 Sim	O
@@ -21749,8 +21306,6 @@ Público/a	I-PESSOA
 .	O
 
 
-
-
 1.2	O
 .	O
 Posso	O
@@ -21761,8 +21316,6 @@ quando	O
 me	O
 aposentar	O
 ?	O
-
-
 
 
 Sim	O
@@ -21806,8 +21359,6 @@ aposentados	O
 .	O
 
 
-
-
 1.3	O
 .	O
 Associados	O
@@ -21815,8 +21366,6 @@ aposentados	O
 pagam	O
 mensalidades	O
 ?	O
-
-
 
 
 Sim	O
@@ -21902,13 +21451,9 @@ IBAP	B-ORGANIZACAO
 .	O
 
 
-
-
 2	O
 -	O
 ESTAGIÁRIOS/AS	O
-
-
 
 
 2.1	O
@@ -21919,8 +21464,6 @@ Direito	B-ABSTRACCAO
 pode	O
 associar-se	O
 ?	O
-
-
 
 
 Sim	O
@@ -21975,16 +21518,12 @@ estagiários	O
 .	O
 
 
-
-
 2.2	O
 .	O
 Estagiários/as	O
 pagam	O
 mensalidades	O
 ?	O
-
-
 
 
 Não	O
@@ -22064,8 +21603,6 @@ Social	I-OBRA
 .	O
 
 
-
-
 2.3	O
 .	O
 Existem	O
@@ -22076,8 +21613,6 @@ do	O
 próprio	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 Atualmente	O
@@ -22117,16 +21652,12 @@ estagiários	O
 .	O
 
 
-
-
 3	O
 -	O
 ADVOGADOS/AS	O
 PÚBLICOS/AS	O
 EM	O
 ATIVIDADE	O
-
-
 
 
 3.1	O
@@ -22144,8 +21675,6 @@ adotado	O
 pelo	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 São	O
@@ -22246,8 +21775,6 @@ Brasil	B-LOCAL
 .	O
 
 
-
-
 3.2	O
 .	O
 Qual	O
@@ -22257,8 +21784,6 @@ valor	O
 das	O
 mensalidades	O
 ?	O
-
-
 
 
 Desde	O
@@ -22307,15 +21832,12 @@ bancária	O
 .	O
 
 
-
 4	O
 -	O
 ESTRUTURA	O
 ORGANIZACIONAL	O
 DO	O
 IBAP	B-ORGANIZACAO
-
-
 
 
 4.1	O
@@ -22327,8 +21849,6 @@ sede	O
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 A	O
@@ -22370,8 +21890,6 @@ SP	B-LOCAL
 .	O
 
 
-
-
 4.2	O
 .	O
 Os	O
@@ -22389,8 +21907,6 @@ de	O
 seu	O
 mandato	O
 ?	O
-
-
 
 
 Não	O
@@ -22416,8 +21932,6 @@ Públicos	I-PESSOA
 .	O
 
 
-
-
 4.3	O
 .	O
 Quem	O
@@ -22427,8 +21941,6 @@ presidente	B-PESSOA
 do	I-PESSOA
 IBAP	I-PESSOA
 ?	O
-
-
 
 
 A	O
@@ -22463,8 +21975,6 @@ Geral	I-ACONTECIMENTO
 .	O
 
 
-
-
 4.4	O
 .	O
 Qual	O
@@ -22480,8 +21990,6 @@ pagamento	O
 das	O
 mensalidades	O
 ?	O
-
-
 
 
 Os	O
@@ -22586,8 +22094,6 @@ estatutários	O
 .	O
 
 
-
-
 4.5	O
 .	O
 Onde	O
@@ -22600,8 +22106,6 @@ Social	I-OBRA
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 O	O
@@ -22619,8 +22123,6 @@ IBAP	O
 .	O
 
 
-
-
 4.6	O
 .	O
 Como	O
@@ -22633,8 +22135,6 @@ Social	I-OBRA
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 A	O
@@ -22652,8 +22152,6 @@ home-page	O
 http://www.ibap.org/estatuto.htm	O
 
 
-
-
 5	O
 -	O
 ATIVIDADES	O
@@ -22661,8 +22159,6 @@ DO	O
 IBAP	B-ORGANIZACAO
 VIA	O
 INTERNET	O
-
-
 
 
 5.1	O
@@ -22677,8 +22173,6 @@ participar	O
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 Não	O
@@ -22736,8 +22230,6 @@ IBAP	B-ORGANIZACAO
 .	O
 
 
-
-
 5.2	O
 .	O
 O	O
@@ -22750,8 +22242,6 @@ Debates	I-COISA
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 Listas	O
@@ -22812,8 +22302,6 @@ leitor	O
 .	O
 
 
-
-
 5.3	O
 .	O
 Como	O
@@ -22827,8 +22315,6 @@ Debates	I-COISA
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 As	O
@@ -22846,15 +22332,11 @@ home-page	O
 http://www.ibap.org/listas/insc_listas.htm	O
 
 
-
-
 6	O
 -	O
 PUBLICAÇÕES	O
 DO	O
 IBAP	B-ORGANIZACAO
-
-
 
 
 6.1	O
@@ -22867,8 +22349,6 @@ editadas	O
 pelo	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 O	O
@@ -23039,8 +22519,6 @@ Internet	O
 .	O
 
 
-
-
 6.2	O
 .	O
 Como	O
@@ -23054,8 +22532,6 @@ edição	O
 do	O
 IBAP	B-ORGANIZACAO
 ?	O
-
-
 
 
 Todas	O
@@ -23101,16 +22577,12 @@ disquete	O
 .	O
 
 
-
-
 7	O
 -	O
 EVENTOS	O
 REALIZADOS/APOIADOS	O
 PELO	O
 IBAP	B-ORGANIZACAO
-
-
 
 
 7.1	O
@@ -23124,8 +22596,6 @@ IBAP	B-ORGANIZACAO
 até	O
 hoje	O
 ?	O
-
-
 
 
 Estamos	O
@@ -23157,8 +22627,6 @@ já	O
 realizados	O
 
 
-
-
 7.2	O
 .	O
 Quais	O
@@ -23168,8 +22636,6 @@ o	O
 IBAP	B-ORGANIZACAO
 realizar	O
 ?	O
-
-
 
 
 Estamos	O
@@ -23199,8 +22665,6 @@ e	O
 Congressos	B-ACONTECIMENTO
 
 
-
-
 7.3	O
 .	O
 O	O
@@ -23214,8 +22678,6 @@ de	I-LOCAL
 São	I-LOCAL
 Paulo	I-LOCAL
 ?	O
-
-
 
 
 Os	O
@@ -23326,8 +22788,6 @@ Regionais	I-PESSOA
 .	O
 
 
-
-
 8	O
 -	O
 IBAP	B-ORGANIZACAO
@@ -23338,8 +22798,6 @@ NOSSAS	O
 LUTAS	O
 E	O
 CAMPANHAS	O
-
-
 
 
 8.1	O
@@ -23353,8 +22811,6 @@ algum	O
 partido	O
 político	O
 ?	O
-
-
 
 
 R	O
@@ -23522,8 +22978,6 @@ Público	I-ABSTRACCAO
 .	O
 
 
-
-
 8.2	O
 .	O
 O	O
@@ -23535,8 +22989,6 @@ alguma	O
 entidade	O
 internacional	O
 ?	O
-
-
 
 
 R	O
@@ -23574,8 +23026,6 @@ internacionais	O
 .	O
 
 
-
-
 8.3	O
 .	O
 O	O
@@ -23593,8 +23043,6 @@ de	O
 Advocacia	B-ABSTRACCAO
 Pública	I-ABSTRACCAO
 ?	O
-
-
 
 
 R	O
@@ -23668,8 +23116,6 @@ linha	O
 de	O
 atuação	O
 .	O
-
-
 
 
 Esse	O
@@ -23833,8 +23279,6 @@ regulares	O
 .	O
 
 
-
-
 Em	O
 1997	B-TEMPO
 ,	O
@@ -23919,8 +23363,6 @@ Público	I-ABSTRACCAO
 .	O
 
 
-
-
 No	O
 âmbito	O
 judicial	O
@@ -23965,8 +23407,6 @@ Nacional	I-PESSOA
 .	O
 
 
-
-
 8.4	O
 .	O
 O	O
@@ -23983,8 +23423,6 @@ Portadora	I-ABSTRACCAO
 de	I-ABSTRACCAO
 Deficiência	I-ABSTRACCAO
 .	O
-
-
 
 
 Além	O
@@ -24041,8 +23479,6 @@ legislação	O
 .	O
 
 
-
-
 8.5	O
 .	O
 O	O
@@ -24054,8 +23490,6 @@ defesa	O
 do	O
 Meio	B-OUTRO
 Ambiente	I-OUTRO
-
-
 
 
 8.6	O
@@ -24072,8 +23506,6 @@ Mulher	O
 -RRB-	O
 
 
-
-
 8.7	O
 .	O
 O	O
@@ -24085,5 +23517,3 @@ erradicação	O
 do	O
 trabalho	O
 infantil	O
-
-
