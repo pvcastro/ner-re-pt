@@ -141,9 +141,9 @@ Obras
 Princípios
 de
 Psicologia
--LRB-
+(
 1890
--RRB-
+)
 ,
 uma
 obra
@@ -169,24 +169,24 @@ Ensaios
 Sobre
 Filosofia
 Popular
--LRB-
+(
 1897
--RRB-
+)
 ,
 A
 Imortalidade
 Humana
--LRB-
+(
 1898
--RRB-
+)
 ,
 Diversidade
 da
 Experiência
 Religiosa
--LRB-
+(
 1902
--RRB-
+)
 .
 Pragmatismo
 :
@@ -198,9 +198,9 @@ velhas
 formas
 de
 pensar
--LRB-
+(
 1907
--RRB-
+)
 .
 Esta
 obra
@@ -2223,17 +2223,17 @@ Federação
 Nacional
 das
 Seguradoras
--LRB-
+(
 Fenaseg
--RRB-
+)
 ,
 Superintendência
 de
 Seguros
 Privados
--LRB-
+(
 Susep
--RRB-
+)
 e
 o
 Ministério
@@ -2272,9 +2272,9 @@ Nacional
 de
 Seguros
 Privados
--LRB-
+(
 CNSP
--RRB-
+)
 já
 no
 próximo
@@ -2376,9 +2376,9 @@ Estado
 de
 São
 Paulo
--LRB-
+(
 Cosesp
--RRB-
+)
 .
 
 Embora
@@ -3904,14 +3904,14 @@ os
 programas
 do
 Office
--LRB-
+(
 Word
 ,
 Excel
 ,
 PowerPoint
 etc.
--RRB-
+)
 .
 Segundo
 o
@@ -4990,7 +4990,7 @@ para
 França
 onde
 morreu
--LRB-
+(
 tinha
 a
 minha
@@ -4999,7 +4999,7 @@ mais
 nova
 2
 anos
--RRB-
+)
 .
 E
 eu
@@ -7471,7 +7471,7 @@ Selma
 Santiago
 :
 Telefax
--LRB-21-RRB- 2750049
+(21) 2750049
 ou
 Email
 para
@@ -8788,9 +8788,9 @@ problemas
 pé
 na
 estrada
--LRB-
+(
 9h55
--RRB-
+)
 .
 
 Este
@@ -8826,7 +8826,7 @@ passagem
 pela
 reserva
 Waimiri-Atroari
--LRB-
+(
 os
 120
 km
@@ -8835,7 +8835,7 @@ estrada
 que
 a
 cortam
--RRB-
+)
 .
 
 Pouco
@@ -9694,9 +9694,9 @@ refere
 pesquisa
 e
 desenvolvimento
--LRB-
+(
 P&D
--RRB-
+)
 estão
 deixando
 o
@@ -9718,9 +9718,9 @@ Sciences
 et
 Techniques
 ''
--LRB-
+(
 OST
--RRB-
+)
 ,
 instituição
 francesa
@@ -9826,9 +9826,9 @@ Atividade
 Econômica
 Paulista
 ''
--LRB-
+(
 Paep
--RRB-
+)
 ,
 que
 ouviu
@@ -9886,13 +9886,13 @@ empresariado
 paulista
 .
 
--LRB-
+(
 Análise
 da
 AcessoCom
 ,
 10/1/2000
--RRB-
+)
 
 
 
@@ -10226,17 +10226,17 @@ adesivo
 dental
 Single
 bond
--LRB-
+(
 3M
--RRB-
+)
 e
 resina
 composta
 fotopolimerizável
 Z100
--LRB-
+(
 3M
--RRB-
+)
 ,
 estocados
 a
@@ -10343,12 +10343,12 @@ fosfórico
 a
 35
 %
--LRB-
+(
 grupos
 1
 e
 2
--RRB-
+)
 mostraram
 menores
 graus
@@ -10368,10 +10368,10 @@ de
 Er
 :
 YAG
--LRB-
+(
 grupo
 3
--RRB-
+)
 .
 
 Voltar
@@ -10708,7 +10708,7 @@ E-mail
 recivil@recivil.com.br
 Telefone
 :
--LRB-031-RRB- 297-2141
+(031) 297-2141
 
 
 
@@ -11491,7 +11491,7 @@ conceitos
 de
 geometria
 projectiva
--LRB-
+(
 centro
 de
 projecção
@@ -11506,7 +11506,7 @@ convergentes
 ponto
 de
 fuga
--RRB-
+)
 para
 criar
 os
@@ -12128,14 +12128,14 @@ uma
 bainha
 chamada
 neurilema
--LRB-
+(
 análoga
 ao
 sarcolema
 da
 fibra
 muscular
--RRB-
+)
 e
 constitui
 a
@@ -14469,13 +14469,13 @@ CGTP
 e
 a
 UGT
--LRB-
+(
 na
 sede
 desta
 última
 central
--RRB-
+)
 poderá
 desbloquear
 anteriores
@@ -14703,9 +14703,9 @@ o
 português
 é
 língua
--LRB-
+(
 disciplina
--RRB-
+)
 obrigatória
 e
 tem
@@ -14745,13 +14745,13 @@ despir
 o
 português
 da
--LRB-
+(
 s
--RRB-
+)
 farda
--LRB-
+(
 s
--RRB-
+)
 que
 o
 vestiam
@@ -14797,9 +14797,9 @@ abordagem
 comunicativa
 e
 a
--LRB-
+(
 outros
--RRB-
+)
 novos
 rumos
 da
@@ -14958,9 +14958,9 @@ de
 Juazeiro
 do
 Norte
--LRB-
+(
 CE
--RRB-
+)
 ,
 mas
 nunca
@@ -15476,10 +15476,10 @@ Oates
 Joyce
 Carol
 
--LRB-
+(
 1938
 -
--RRB-
+)
 
 
 Escritora
@@ -15559,9 +15559,9 @@ a
 comédia
 Unholy
 Loves
--LRB-
+(
 1979
--RRB-
+)
 ,
 o
 terror
@@ -15570,17 +15570,17 @@ de
 A
 Bloodsmoor
 Romance
--LRB-
+(
 1982
--RRB-
+)
 e
 o
 thriller
 Kindred
 Passions
--LRB-
+(
 1987
--RRB-
+)
 .
 
 
@@ -15692,9 +15692,9 @@ iniciou
 a
 obra
 Bellefleur
--LRB-
+(
 1980
--RRB-
+)
 ,
 o
 primeiro
@@ -15735,29 +15735,29 @@ incluem-se
 With
 Shuddering
 Fall
--LRB-
+(
 1964
--RRB-
+)
 ,
 A
 Garden
 of
 Earthly
 Delights
--LRB-
+(
 1967
--RRB-
+)
 ,
 Expensive
 People
--LRB-
+(
 1968
--RRB-
+)
 ,
 Them
--LRB-
+(
 1969
--RRB-
+)
 ,
 vencedor
 do
@@ -15768,9 +15768,9 @@ Book
 ''
 ,
 Wonderland
--LRB-
+(
 1971
--RRB-
+)
 ,
 Do
 with
@@ -15778,20 +15778,20 @@ Me
 What
 You
 Will
--LRB-
+(
 1973
--RRB-
+)
 ,
 The
 Assassins
--LRB-
+(
 1975
--RRB-
+)
 ,
 Childwold
--LRB-
+(
 1976
--RRB-
+)
 ,
 The
 Triumph
@@ -15799,51 +15799,51 @@ of
 the
 Spider
 Monkey
--LRB-
+(
 1976
--RRB-
+)
 ,
 Son
 of
 the
 Morning
--LRB-
+(
 1978
--RRB-
+)
 ,
 Mysteries
 of
 Winterburn
--LRB-
+(
 1984
--RRB-
+)
 ,
 Solstice
--LRB-
+(
 1985
--RRB-
+)
 ,
 Marya
 :
 A
 Life
--LRB-
+(
 1986
--RRB-
+)
 ,
 You
 Must
 Remember
 This
--LRB-
+(
 1987
--RRB-
+)
 ,
 American
 Appetites
--LRB-
+(
 1989
--RRB-
+)
 ,
 Because
 It
@@ -15856,76 +15856,76 @@ It
 Is
 My
 Heart
--LRB-
+(
 1990
--RRB-
+)
 ,
 Black
 Water
--LRB-
+(
 1992
--RRB-
+)
 ,
 Foxfire
--LRB-
+(
 1993
--RRB-
+)
 ,
 What
 I
 Lived
 For
--LRB-
+(
 1993
--RRB-
+)
 ,
 First
 Love
--LRB-
+(
 1996
--RRB-
+)
 ,
 We
 Were
 the
 Mulvaneys
--LRB-
+(
 1996
--RRB-
+)
 ,
 Zombie
--LRB-
+(
 1996
--RRB-
+)
 ,
 On
 Boxing
--LRB-
+(
 1997
--RRB-
+)
 ,
 Come
 Meet
 Muffin
 !
--LRB-
+(
 1998
--RRB-
+)
 ,
 Broke
 Heart
 Blues
--LRB-
+(
 1999
--RRB-
+)
 ,
 My
 Heart
 Laid
 Bare
--LRB-
+(
 1999
--RRB-
+)
 ,
 Starr
 Bright
@@ -15934,34 +15934,34 @@ Be
 With
 You
 Soon
--LRB-
+(
 2000
--RRB-
+)
 ,
 The
 Barrens
--LRB-
+(
 2001
--RRB-
+)
 ,
 Beasts
--LRB-
+(
 2002
--RRB-
+)
 ,
 Big
 Mouth
 and
 Ugly
 Girl
--LRB-
+(
 2002
--RRB-
+)
 e
 Middle-Age
--LRB-
+(
 2002
--RRB-
+)
 .
 
 
@@ -16159,24 +16159,24 @@ titular
 :
 saíram
 Celson
--LRB-
+(
 goleiro
--RRB-
+)
 ,
 Samis
--LRB-
+(
 lateral
--RRB-
+)
 ,
 Arilson
--LRB-
+(
 volante
--RRB-
+)
 e
 Washington
--LRB-
+(
 atacante
--RRB-
+)
 ;
 
 foram
@@ -16499,9 +16499,9 @@ Rio
 Grande
 do
 Norte
--LRB-
+(
 Brasil
--RRB-
+)
 .
 Professora
 e
@@ -16529,9 +16529,9 @@ ao
 Partido
 Socialista
 Brasileiro
--LRB-
+(
 PSB
--RRB-
+)
 .
 
 
@@ -16550,7 +16550,7 @@ Norte
 onde
 é
 Professora
--LRB-
+(
 atualmente
 licenciada
 para
@@ -16559,7 +16559,7 @@ o
 cargo
 de
 Governadora
--RRB-
+)
 do
 Departamento
 de
@@ -16635,9 +16635,9 @@ Trabalho
 e
 Bem-Estar
 Social
--LRB-
+(
 STBS
--RRB-
+)
 durante
 o
 governo
@@ -16695,9 +16695,9 @@ Intersindical
 de
 Assuntos
 Parlamentares
--LRB-
+(
 DIAP
--RRB-
+)
 .
 
 
@@ -17511,9 +17511,9 @@ Isabel
 Silvares
 Telefax
 :
--LRB-
+(
 11
--RRB-
+)
 3675.0809
 e-mail
 :
@@ -17609,14 +17609,14 @@ Itália
 ,
 perto
 do
--LRB-
+(
 ''
 Comuni
 de
 Mulacio
 ''
 ?
--RRB-
+)
 ,
 província
 de
@@ -18164,11 +18164,11 @@ livro
 em
 francês
 de
--LRB-
+(
 Stephan
 ______
 ?
--RRB-
+)
 que
 a
 tradução
@@ -18509,13 +18509,13 @@ Henley
 
 
 Exmo
--LRB-
+(
 a
--RRB-
+)
 Sr.
--LRB-
+(
 a
--RRB-
+)
 ,
 
 
@@ -19254,7 +19254,7 @@ universo
 VECTOR
 MESONS
 -
--LRB-
+(
 Também
 chamados
 de
@@ -19266,7 +19266,7 @@ W
 e
 Z
 bosons
--RRB-
+)
 .
 Bosons
 que
@@ -19424,12 +19424,12 @@ Tecnologia
 Informacao
 :
 
--LRB-
+(
 61
--RRB-
+)
 217.6332
 
--LRB-61-RRB- 3211798
+(61) 3211798
 
 
 
@@ -19491,10 +19491,10 @@ Gunn
 
 O
 jovem
--LRB-
+(
 34
 anos
--RRB-
+)
 ,
 talentoso
 e
@@ -19517,10 +19517,10 @@ que
 É
 Amor
 ''
--LRB-
+(
 High
 Time
--RRB-
+)
 só
 não
 ficou
@@ -19583,7 +19583,7 @@ os
 dois
 acertavam
 juntos
--LRB-
+(
 ``
 Bonequinha
 de
@@ -19600,7 +19600,7 @@ A
 Pantera
 Cor-de-Rosa
 ''
--RRB-
+)
 ,
 era
 uma
@@ -19696,9 +19696,9 @@ dia
 4
 de
 Maio
--LRB-
+(
 Sábado
--RRB-
+)
 ,
 às
 15
@@ -19939,9 +19939,9 @@ Matos
 Tel
 :
 218 438 806
--LRB-
+(
 reservas
--RRB-
+)
 
 
 
@@ -22527,11 +22527,11 @@ bom
 ,
 como
 disse
--LRB-
+(
 Stephan
 ______
 ?
--RRB-
+)
 ``
 Terra
 do
@@ -23033,10 +23033,10 @@ no
 Canadá
 ,
 em
--LRB-
+(
 Windsor
 ?
--RRB-
+)
 ,
 são
 cidades
@@ -23195,10 +23195,10 @@ maio
 já
 estava
 na
--LRB-
+(
 ITT
 ?
--RRB-
+)
 e
 fiquei
 até
@@ -23276,37 +23276,37 @@ Adolfo
 .
 
 
--LRB-
+(
 fim
 da
 fita
--RRB-
+)
 
 
--LRB-
+(
 ''
 Comuni
 de
 Mulacio
 ''
 ?
--RRB-
+)
 
--LRB-
+(
 Stephan
 ______
 ?
--RRB-
+)
 
--LRB-
+(
 ITT
 ?
--RRB-
+)
 
--LRB-
+(
 Windsor
 ?
--RRB-
+)
 
 
 
@@ -23495,10 +23495,10 @@ de
 renda
 fixa
 DI
--LRB-
+(
 Depósito
 Interfinanceiro
--RRB-
+)
 .
 
 
@@ -23837,15 +23837,15 @@ indiana
 :
 Miguel
 Castro
--LRB-
+(
 Argentina
--RRB-
+)
 e
 Alfonso
 Bove
--LRB-
+(
 Itália
--RRB-
+)
 .
 
 
@@ -23868,18 +23868,18 @@ Neves
 ;
 Rui
 Lopes
--LRB-
+(
 2
--RRB-
+)
 ,
 Paulo
 Alves
 e
 António
 Ramalho
--LRB-
+(
 2
--RRB-
+)
 .
 
 
@@ -24267,11 +24267,11 @@ Funcionários
 de
 Investigação
 Criminal
--LRB-
+(
 ASFIC
 /
 PJ
--RRB-
+)
 ,
 em
 representação
@@ -24303,11 +24303,11 @@ das
 duas
 centrais
 sindicais
--LRB-
+(
 UGT
 e
 CGTP
--RRB-
+)
 ,
 de
 partidos
@@ -25772,14 +25772,14 @@ Aliás
 ,
 cada
 parisiense
--LRB-
+(
 existem
 muitos
 ,
 talvez
 ?
 
--RRB-
+)
 deveria
 levar
 ali
@@ -25791,12 +25791,12 @@ um
 amigo
 em
 viagem
--LRB-
+(
 seria
 demais
 ?
 
--RRB-
+)
 .
 
 Seja
@@ -26519,7 +26519,7 @@ ao
 que
 Manuel
 ,
--LRB-
+(
 se
 ninguém
 no
@@ -26527,7 +26527,7 @@ tribunal
 mentiu
 neste
 aspecto
--RRB-
+)
 ,
 lhe
 replicou
@@ -26664,9 +26664,9 @@ de
 Tráfico
 de
 Estupefacientes
--LRB-
+(
 DCITE
--RRB-
+)
 ,
 realizou
 recentemente
@@ -27226,13 +27226,13 @@ que
 nascido
 na
 roça
--LRB-
+(
 donde
 vim
 com
 dous
 anos
--RRB-
+)
 e
 apesar
 dos
@@ -27268,11 +27268,11 @@ me
 vi
 no
 alto
--LRB-
+(
 tinha
 nove
 anos
--RRB-
+)
 ,
 sozinho
 e
@@ -27551,9 +27551,9 @@ pilhérias
 
 
 
--LRB-
+(
 todos
--RRB-
+)
 Ação/Aventura
 Cinema
 Brasileiro
@@ -28053,9 +28053,9 @@ da
 noveleta
 Nga
 mutúri
--LRB-
+(
 1882
--RRB-
+)
 ,
 de
 Alfredo
@@ -28064,7 +28064,7 @@ Troni
 caracteriza-se
 pelo
 Baixo-romantismo
--LRB-
+(
 aplicamos
 aqui
 ,
@@ -28080,7 +28080,7 @@ Mendonça
 relativa
 a
 Moçambique
--RRB-
+)
 ,
 de
 clara
@@ -28183,7 +28183,7 @@ de
 apreço
 pela
 aristocracia
--LRB-
+(
 visível
 no
 agrado
@@ -28201,7 +28201,7 @@ deferências
 para
 os
 monárquicos
--RRB-
+)
 convivesse
 descomplexadamente
 com
@@ -28330,7 +28330,7 @@ frequência
 como
 figura
 central
--LRB-
+(
 em
 poemas
 ou
@@ -28338,7 +28338,7 @@ na
 noveleta
 Nga
 mutúri
--RRB-
+)
 ,
 chamamos
 a
@@ -28347,7 +28347,7 @@ fase
 a
 do
 Negro-realismo
--LRB-
+(
 termo
 criado
 para
@@ -28364,7 +28364,7 @@ aproximada
 dos
 Negrismos
 americanos
--RRB-
+)
 .
 Sob
 o
@@ -28414,13 +28414,13 @@ e
 assume
 o
 negro
--LRB-
+(
 mais
 particularmente
 ,
 a
 negra
--RRB-
+)
 como
 personagem
 ou
@@ -28431,7 +28431,7 @@ aspira
 integração
 na
 sociedade
--LRB-
+(
 não
 o
 conseguindo
@@ -28443,7 +28443,7 @@ ou
 inacabamento
 do
 processo
--RRB-
+)
 .
 Alfredo
 Troni
@@ -28608,9 +28608,9 @@ d'Angola
 clamando
 no
 deserto
--LRB-
+(
 1901
--RRB-
+)
 ,
 abriu
 uma
@@ -28630,11 +28630,11 @@ humanos
 definível
 como
 nativismo
--LRB-
+(
 início
 do
 Regionalismo
--RRB-
+)
 ,
 quer
 dizer
@@ -28665,9 +28665,9 @@ modo
 de
 Regionalismo
 Africano
--LRB-
+(
 1901-194l
--RRB-
+)
 ,
 seja
 o
@@ -28685,12 +28685,12 @@ africanidade
 dos
 primeiros
 momentos
--LRB-
+(
 por
 localista
 que
 seja
--RRB-
+)
 ,
 antecedendo
 a
@@ -28743,10 +28743,10 @@ Manduco
 de
 Pedro
 Cardoso
--LRB-
+(
 Cabo
 Verde
--RRB-
+)
 ,
 em
 ``
@@ -28761,9 +28761,9 @@ de
 Rui
 de
 Noronha
--LRB-
+(
 Moçambique
--RRB-
+)
 ,
 em
 poemas
@@ -28772,12 +28772,12 @@ de
 Marcelo
 da
 Veiga
--LRB-
+(
 São
 Tomé
 e
 Príncipe
--RRB-
+)
 ,
 ou
 em
@@ -28785,9 +28785,9 @@ António
 de
 Assis
 Júnior
--LRB-
+(
 Angola
--RRB-
+)
 ,
 transforma-se
 numa
@@ -28847,12 +28847,12 @@ retórico
 
 
 
--LRB-
+(
 Lei
 Complementar
 nº
 116/2003
--RRB-
+)
 
 
 Programa
@@ -28866,7 +28866,7 @@ Introdução
 
 
 a
--RRB-
+)
 Natureza
 da
 norma
@@ -28874,20 +28874,20 @@ norma
 
 
 b
--RRB-
+)
 Características
 fundamentais
 
 
 
 c
--RRB-
+)
 Eficácia
 
 
 
 d
--RRB-
+)
 Leis
 municipais
 compatíveis
@@ -28902,7 +28902,7 @@ Relevantes
 
 
 a
--RRB-
+)
 Fato
 Gerador
 :
@@ -28912,7 +28912,7 @@ irrelevante
 
 
 b
--RRB-
+)
 Serviços
 provenientes
 do
@@ -28923,7 +28923,7 @@ incidência
 
 
 c
--RRB-
+)
 Serviços
 públicos
 autorizados
@@ -28935,7 +28935,7 @@ imposto
 
 
 d
--RRB-
+)
 Denominação
 do
 serviço
@@ -28946,7 +28946,7 @@ fins
 de
 incidência
 e
--RRB-
+)
 Situações
 não
 sujeitas
@@ -28958,7 +28958,7 @@ descritas
 em
 lei
 f
--RRB-
+)
 Tomador
 residente
 no
@@ -28971,7 +28971,7 @@ imposto
 
 
 g
--RRB-
+)
 Local
 da
 prestação
@@ -28983,7 +28983,7 @@ cobrança
 regra
 geral
 h
--RRB-
+)
 Atividades
 sujeitas
 ao
@@ -28995,10 +28995,10 @@ prestação
 -
 exceções
 i
--RRB-
+)
 Serviços
 contínuos
--LRB-
+(
 ferrovia
 ,
 rodovia
@@ -29006,13 +29006,13 @@ rodovia
 dutos
 ,
 etc.
--RRB-
+)
 -
 cobrança
 por
 território
 j
--RRB-
+)
 Exploração
 de
 rodovias
@@ -29022,7 +29022,7 @@ de
 cálculo
 proporcional
 k
--RRB-
+)
 Conceito
 de
 estabelecimento
@@ -29034,7 +29034,7 @@ imposto
 
 
 l
--RRB-
+)
 Retenção
 na
 fonte
@@ -29047,7 +29047,7 @@ município
 do
 tomador
 m
--RRB-
+)
 CONSTRUÇÃO
 CIVIL
 -
@@ -29061,7 +29061,7 @@ de
 materiais
 fornecidos
 n
--RRB-
+)
 Alíquotas
 mínima
 e
@@ -29070,7 +29070,7 @@ máxima
 
 
 o
--RRB-
+)
 Nova
 Lista
 de
@@ -29081,7 +29081,7 @@ ampliação
 
 
 p
--RRB-
+)
 ATOS
 REVOGADOS
 
@@ -29223,9 +29223,9 @@ Free
 ou
 se
 preferir
--LRB-
+(
 11
--RRB-
+)
 3067.6700
 email
 :
@@ -29312,12 +29312,12 @@ outros
 ``
 contras
 ''
--LRB-
+(
 partidos
 contrários
 à
 revisão
--RRB-
+)
 exigiram
 que
 as
@@ -29368,14 +29368,14 @@ foi
 construída
 em
 Marília
--LRB-
+(
 cidade
 onde
 foi
 fundada
 o
 banco
--RRB-
+)
 com
 capacidade
 para
@@ -31192,7 +31192,7 @@ norte
 e
 no
 nordeste
--LRB-
+(
 Croácia
 Central
 e
@@ -31203,7 +31203,7 @@ da
 planície
 da
 Panónia
--RRB-
+)
 ;
 
 montanhas
@@ -31227,14 +31227,14 @@ rochosas
 do
 mar
 Adriático
--LRB-
+(
 Ístria
 ,
 costa
 norte
 e
 Dalmácia
--RRB-
+)
 .
 
 A
@@ -31273,7 +31273,7 @@ altas
 Ronald
 Wilson
 Reagan
--LRB-
+(
 6
 de
 Fevereiro
@@ -31285,15 +31285,15 @@ de
 Junho
 ,
 2004
--RRB-
+)
 foi
 o
 40
 .
 º
--LRB-
+(
 1981-1989
--RRB-
+)
 Presidente
 dos
 Estados
@@ -31344,13 +31344,13 @@ que
 teve
 maior
 longevidade
--LRB-
+(
 93
 anos
 ,
 119
 dias
--RRB-
+)
 e
 o
 que
@@ -31360,13 +31360,13 @@ com
 idade
 mais
 avançada
--LRB-
+(
 69
 anos
 ,
 349
 dias
--RRB-
+)
 .
 
 
@@ -31387,9 +31387,9 @@ dois
 filhos
 de
 John
--LRB-
+(
 Jack
--RRB-
+)
 Reagan
 and
 Nelle
@@ -31692,9 +31692,9 @@ a
 revista
 semanal
 Veja
--LRB-
+(
 http://www.vejaolimpiadas.com.br
--RRB-
+)
 ,
 e
 páginas
@@ -32040,7 +32040,7 @@ Norte-Americana
 de
 Basquetebol
 Profissional
--LRB-
+(
 NBA
 ,
 que
@@ -32187,7 +32187,7 @@ cinco
 Património
 Virtual
 ''
--LRB-
+(
 exploração
 dos
 monumentos
@@ -32198,13 +32198,13 @@ tecnologias
 da
 realidade
 virtual
--RRB-
+)
 ;
 ``
 Portugal
 Global
 ''
--LRB-
+(
 Sagres
 como
 antena
@@ -32219,13 +32219,13 @@ e
 local
 dos
 portugueses
--RRB-
+)
 ;
 ``
 Sacra
 Saturni
 ''
--LRB-
+(
 Sagres
 como
 lugar
@@ -32242,7 +32242,7 @@ jogo
 de
 aventura
 gráfica
--RRB-
+)
 ;
 ``
 Um
@@ -32250,7 +32250,7 @@ Milhão
 de
 Navegadores
 ''
--LRB-
+(
 Sagres
 como
 centro
@@ -32266,12 +32266,12 @@ de
 visitantes
 por
 ano
--RRB-
+)
 e
 ``
 Terràvista
 ''
--LRB-
+(
 Sagres
 como
 ponto
@@ -32291,7 +32291,7 @@ de
 produtores
 de
 informação
--RRB-
+)
 .
 
 
@@ -34191,9 +34191,9 @@ opção
 ``
 Envio
 rápido
--LRB-
+(
 Turbo
--RRB-
+)
 ''
 que
 otimiza
@@ -34283,10 +34283,10 @@ usando
 Múltiplos
 SMTP
 Públicos
--LRB-
+(
 open
 relays
--RRB-
+)
 -
 Procura
 e
@@ -34421,9 +34421,9 @@ http://superemailmarketing.kit.net/
 .
 
 
--LRB-
+(
 0xx16
--RRB-
+)
 6
 3
 2
@@ -34530,13 +34530,13 @@ Alexander
 's
 Tractor
 Parts
--LRB-
+(
 Partes
 de
 Tractor
 do
 Alexandre
--RRB-
+)
 éum
 negócio
 de
@@ -35012,9 +35012,9 @@ nascimento
 
 R
 -
--LRB-
+(
 Riso
--RRB-
+)
 Eu
 nasci
 dia
@@ -35172,9 +35172,9 @@ com
 casca
 e
 tudo
--LRB-
+(
 riso
--RRB-
+)
 depois
 que
 ela
@@ -35767,25 +35767,25 @@ Insituto
 de
 desenho
 industrial
--LRB-
+(
 IDI
--RRB-
+)
 
 Instituto
 de
 Desenho
 Industrial
--LRB-
+(
 IDI
--RRB-
+)
 1968
 :
 :
 1986
--LRB-
+(
 ?
 
--RRB-
+)
 Nacionalidade
 Brasil
 O
@@ -35894,7 +35894,7 @@ em
 organizou
 exposições
 temáticas
--LRB-
+(
 como
 ``
 O
@@ -35907,7 +35907,7 @@ A
 imagem
 corporativa
 ''
--RRB-
+)
 .
 
 Mais
@@ -35989,14 +35989,14 @@ em
 todos
 os
 níveis
--LRB-
+(
 do
 primeiro
 grau
 ao
 curso
 superior
--RRB-
+)
 .
 
 Esse
@@ -36545,9 +36545,9 @@ relatorio
 Information
 Society
 Index
--LRB-
+(
 ISS
--RRB-
+)
 de
 99
 ,
@@ -36563,9 +36563,9 @@ pela
 International
 Data
 Corporation
--LRB-
+(
 IDC
--RRB-
+)
 ,
 para
 reunir
@@ -36856,7 +36856,7 @@ criterios
 infra-estrutura
 de
 computadores
--LRB-
+(
 numero
 de
 PCs
@@ -36902,13 +36902,13 @@ em
 software
 e
 hardware
--RRB-
+)
 ;
 
 infra-estrutura
 de
 informacao
--LRB-
+(
 numero
 de
 linhas
@@ -36958,7 +36958,7 @@ cabo
 e
 ou
 satelite
--RRB-
+)
 ;
 
 infra-estrutura
@@ -36975,7 +36975,7 @@ primeira
 vez
 este
 ano
--LRB-
+(
 volume
 de
 faturamento
@@ -37006,7 +37006,7 @@ no
 setor
 de
 educacao
--RRB-
+)
 ;
 
 e
@@ -37016,7 +37016,7 @@ finalmente
 a
 infra-estrutura
 social
--LRB-
+(
 porcentual
 da
 populacao
@@ -37055,7 +37055,7 @@ imprensa
 e
 liberdades
 civis
--RRB-
+)
 .
 
 A
@@ -37136,9 +37136,9 @@ Uniao
 Internacional
 das
 Telecomunicacoes
--LRB-
+(
 UIT
--RRB-
+)
 ,
 Unesco
 ,
@@ -37459,14 +37459,14 @@ em
 º
 .
 
--LRB-
+(
 O
 Estado
 de
 SP
 ,
 13/12
--RRB-
+)
 
 ==
 A
@@ -38437,10 +38437,10 @@ em
 data
 que
 está
--LRB-
+(
 estava
 ?
--RRB-
+)
 marcada
 numa
 placa
@@ -38545,13 +38545,13 @@ Senhora
 da
 Boa
 Viagem
--LRB-
+(
 em
 péssimo
 estado
 de
 conservação
--RRB-
+)
 e
 o
 farol
@@ -38670,9 +38670,9 @@ pedidos
 de
 muitas
 famílias
--LRB-
+(
 ...
--RRB-
+)
 -
 a
 Tuna
@@ -38696,7 +38696,7 @@ Minho
 ,
 segundo
 Zebedeu
--LRB-
+(
 filho
 de
 Jacob
@@ -38708,7 +38708,7 @@ e
 primo
 do
 Serafim
--RRB-
+)
 no
 capítulo
 4º
@@ -38718,7 +38718,7 @@ versículo
 ,
 alínea
 k
--RRB-
+)
 ,
 já
 com
@@ -38822,9 +38822,9 @@ pelos
 cantos
 do
 mundo
--LRB-
+(
 ...
--RRB-
+)
 .
 
 Tendo
@@ -38893,11 +38893,11 @@ aos
 ``
 codfich
 ''
--LRB-
+(
 não
 sabemos
 traduzir
--RRB-
+)
 e
 presuntos
 oferecidos
@@ -38930,7 +38930,7 @@ sua
 primeira
 cassete
 comercial
--LRB-
+(
 e
 consequente
 realização
@@ -38955,7 +38955,7 @@ Made
 In
 Portugal
 ''
--RRB-
+)
 estando
 ainda
 em
@@ -38973,12 +38973,12 @@ em
 meados
 do
 século
--LRB-
+(
 no
 mês
 de
 Junho
--RRB-
+)
 .
 
 In
@@ -39266,7 +39266,7 @@ fosse
 
 O
 cetim
--LRB-
+(
 fique
 assim
 conhecido
@@ -39281,7 +39281,7 @@ que
 um
 preciosíssimo
 cabedal
--RRB-
+)
 ,
 o
 cetim
@@ -43376,10 +43376,10 @@ lá
 ,
 era
 a
--LRB-
+(
 ITT
 ?
--RRB-
+)
 ,
 se
 chamava
@@ -43475,10 +43475,10 @@ fechar
 as
 portas
 da
--LRB-
+(
 ITT
 ?
--RRB-
+)
 .
 Quando
 veio
@@ -43545,20 +43545,20 @@ Hidrelétrica
 que
 pertence
 a
--LRB-
+(
 ITT
 ?
--RRB-
+)
 .
 Depois
 da
 Santa
 Hidrelétrica
 a
--LRB-
+(
 ITT
 ?
--RRB-
+)
 abriu
 ,
 com
@@ -43571,10 +43571,10 @@ escritório
 aqui
 ,
 a
--LRB-
+(
 ITT
 ?
--RRB-
+)
 ________
 Comunications
 .
@@ -44497,7 +44497,7 @@ lisa
 de
 4
 metros
--LRB-
+(
 no
 mínimo
 ,
@@ -44507,7 +44507,7 @@ necessidade
 de
 longo
 alcance
--RRB-
+)
 ,
 pode-se
 tentar
@@ -44610,12 +44610,12 @@ fina
 camada
 de
 cola
--LRB-
+(
 super
 bonder
 é
 recomendável
--RRB-
+)
 em
 todo
 o
@@ -44725,7 +44725,7 @@ de
 peso
 .
 
--LRB-
+(
 alguns
 pescadores
 chegam
@@ -44740,7 +44740,7 @@ para
 auxiliar
 no
 arremesso
--RRB-
+)
 .
 
 Com
@@ -46559,7 +46559,7 @@ permitido
 normalmente
 numa
 represa
--LRB-
+(
 sem
 ter
 em
@@ -46569,7 +46569,7 @@ sobreelevações
 devidas
 a
 cheias
--RRB-
+)
 .
 Corresponde
 ao
@@ -46869,12 +46869,12 @@ de
 água
 máximo
 possível
--LRB-
+(
 nível
 de
 máxima
 cheia
--RRB-
+)
 .
 
 
@@ -46882,10 +46882,10 @@ cheia
 -
 Armazenamento
 Inativo
--LRB-
+(
 Volume
 Morto
--RRB-
+)
 -
 Volume
 retido
@@ -46919,10 +46919,10 @@ Período
 de
 um
 ano
--LRB-
+(
 doze
 meses
--RRB-
+)
 baseado
 em
 critérios
@@ -46937,9 +46937,9 @@ Ano
 Médio
 -
 Ano
--LRB-
+(
 fictício
--RRB-
+)
 cujas
 características
 hidráulicas
@@ -47060,9 +47060,9 @@ exploração
 5
 .
 Caudais
--LRB-
+(
 Vazão
--RRB-
+)
 
 
 5
@@ -47128,9 +47128,9 @@ aproveitamento
 -
 Caudal
 Nominal
--LRB-
+(
 Turbina
--RRB-
+)
 -
 Caudal
 para
@@ -47147,9 +47147,9 @@ dimensionada
 -
 Caudal
 Nominal
--LRB-
+(
 Bombas
--RRB-
+)
 -
 Caudal
 para
@@ -47565,11 +47565,11 @@ soma
 da
 parcela
 estimada
--LRB-
+(
 remanescente
 +
 individualizada
--RRB-
+)
 com
 a
 inventariada
@@ -48098,10 +48098,10 @@ e
 da
 medula
 espinal
--LRB-
+(
 cérebro
 espinal
--RRB-
+)
 ,
 estes
 são
@@ -48152,14 +48152,14 @@ o
 sistema
 nervoso
 central
--LRB-
+(
 aferentes
--RRB-
+)
 e
 deste
--LRB-
+(
 eferentes
--RRB-
+)
 e
 pelos
 gânglios
@@ -48351,7 +48351,7 @@ fibras
 .
 As
 cadeias
--LRB-
+(
 são
 duas
 ,
@@ -48361,7 +48361,7 @@ cada
 lado
 da
 coluna
--RRB-
+)
 se
 chamam
 cadeias
@@ -48900,9 +48900,9 @@ e
 ganhe
 um
 livro
--LRB-
+(
 e-books
--RRB-
+)
 evangelico
 para
 sua
@@ -48918,13 +48918,13 @@ novidades@sobral.org
 
 
 Prezado
--LRB-
+(
 a
--RRB-
+)
 Empreendedor
--LRB-
+(
 a
--RRB-
+)
 ,
 
 
@@ -49013,7 +49013,7 @@ obrigada
 Cristiane
 -
 tel
--LRB-11-RRB- 3645-3620
+(11) 3645-3620
 
 
 Peço
@@ -49203,11 +49203,11 @@ nome
 deriva
 de
 Arunda
--LRB-
+(
 rodeada
 por
 montanhas
--RRB-
+)
 ,
 como
 era
@@ -49234,7 +49234,7 @@ antigo
 ''
 de
 Ronda
--LRB-
+(
 nem
 o
 moderno
@@ -49244,7 +49244,7 @@ o
 antigo
 apenas
 escombros
--RRB-
+)
 são
 ligados
 por
@@ -49413,12 +49413,12 @@ interesses
 manifestados
 por
 doadores
--LRB-
+(
 Reino
 Unido
 e
 Alemanha
--RRB-
+)
 e
 também
 por
@@ -49841,21 +49841,21 @@ casas
 de
 Reinaldo
 Teles
--LRB-
+(
 dirigente
--RRB-
+)
 ,
 Jorge
 Gomes
--LRB-
+(
 funcionário
--RRB-
+)
 e
 António
 Garrido
--LRB-
+(
 colaborador
--RRB-
+)
 ,
 todos
 ligados
@@ -50994,9 +50994,9 @@ Quércia
 disse
 Itamar
 Borges
--LRB-
+(
 PMDB
--RRB-
+)
 ,
 de
 Santa
@@ -51064,9 +51064,9 @@ deputado
 quercista
 Alberto
 Goldman
--LRB-
+(
 PMDB-SP
--RRB-
+)
 ,
 ex-ministro
 dos
@@ -52190,12 +52190,12 @@ da
 Lagoa
 do
 Marinho
--LRB-
+(
 vista
 panorâmica
 em
 270º
--RRB-
+)
 .
 
 O
@@ -52257,12 +52257,12 @@ miradouro
 da
 Pedra
 Bela
--LRB-
+(
 vista
 panorâmica
 em
 360º
--RRB-
+)
 .
 
 Grande
@@ -52297,12 +52297,12 @@ de
 Pitões
 da
 Júnias
--LRB-
+(
 vista
 panorâmica
 em
 360º
--RRB-
+)
 .
 Actualmente
 ,
@@ -52367,9 +52367,9 @@ Patrocínio
 
 
 Prezado
--LRB-
+(
 a
--RRB-
+)
 Colega
 ,
 
@@ -52490,11 +52490,11 @@ Coordenação
 Ana
 Célia
 Castro
--LRB-
+(
 CPDA
 /
 UFRRJ
--RRB-
+)
 ancastro@gbl.com.br
 Apoio
 técnico
@@ -53314,10 +53314,10 @@ Di
 Tella
 -
 Conicet
--LRB-
+(
 Buenos
 Aires
--RRB-
+)
 
 Cristina
 Possas
@@ -53564,9 +53564,9 @@ Janeiro
 
 Tel
 :
--LRB-
+(
 021
--RRB-
+)
 224
 85
 77
@@ -53577,14 +53577,14 @@ R
 
 
 Düsseldorf
--LRB-
+(
 também
 aportuguesada
 na
 forma
 de
 Dusseldórfia
--RRB-
+)
 é
 uma
 cidade
@@ -53594,9 +53594,9 @@ Alemanha
 capital
 do
 Estado
--LRB-
+(
 Bundesland
--RRB-
+)
 da
 Renânia
 do
@@ -53620,10 +53620,10 @@ esmagadora
 maioria
 dos
 consultados
--LRB-
+(
 86
 %
--RRB-
+)
 acredita
 que
 Lula
@@ -54673,11 +54673,11 @@ LHE
 DÁ
 O
 DOMÍNIO
--LRB-
+(
 www.seunome.com.br
 ou
 www.suaempresa.com.br
--RRB-
+)
 INTEIRAMENTE
 GRÁTIS
 .
@@ -54693,7 +54693,7 @@ nos
 ligue
 agora
 mesmo
--LRB-92-RRB- 233-8157
+(92) 233-8157
 /
 9148-0766
 
@@ -54705,12 +54705,12 @@ só
 R$
 189,00
 reais
--LRB-
+(
 6
 links
 ou
 paginas
--RRB-
+)
 
 
 ou
@@ -54792,11 +54792,11 @@ obtém
 o
 código
 fonte
--LRB-
+(
 em
 linguagem
 Delphi
--RRB-
+)
 de
 todos
 os
@@ -55307,14 +55307,14 @@ do
 Clube
 das
 Mulheres
--LRB-
+(
 em
 Portugal
 ,
 Clube
 das
 Bigodudas
--RRB-
+)
 os
 peladões
 invadem
@@ -55782,9 +55782,9 @@ e
 o
 Período
 Imperial
--LRB-
+(
 1822-1889
--RRB-
+)
 através
 de
 textos
@@ -55976,10 +55976,10 @@ Napapiiri
 ,
 nas
 proximidades
--LRB-
+(
 tel.
 38-4048
--RRB-
+)
 promove
 jantares
 com
@@ -56009,12 +56009,12 @@ melhor
 é
 o
 Arktikum
--LRB-
+(
 leia
 reportagem
 ao
 lado
--RRB-
+)
 .
 
 Mas
@@ -56186,22 +56186,22 @@ os
 tipos
 mais
 comuns
--LRB-
+(
 veja
 exemplos
 ao
 lado
--RRB-
+)
 estão
 o
 sistema
 de
 gaiola
--LRB-
+(
 Gaiola
 de
 Faraday
--RRB-
+)
 ,
 composto
 de
@@ -56349,9 +56349,9 @@ poderá
 ter
 diagnóstico
 pré-concepcional
--LRB-
+(
 *
--RRB-
+)
 A
 causa
 do
@@ -56519,20 +56519,20 @@ dos
 genes
 chamados
 APOE
--LRB-
+(
 alelo
 e4
--RRB-
+)
 no
 cromossomo
 
 19
 e
 PS1
--LRB-
+(
 alelo
 ivs8
--RRB-
+)
 no
 cromossomo
 14
@@ -56614,9 +56614,9 @@ do
 abortamento
 .
 
--LRB-
+(
 *
--RRB-
+)
 Agradecemos
 ao
 Dr.
@@ -57639,14 +57639,14 @@ espectro
 www.abola.pt
 -
 Destaques
--LRB-
+(
 01
--RRB-
--LRB-
+)
+(
 edição
 de
 quinta-feira
--RRB-
+)
 
 Já
 está
@@ -57673,9 +57673,9 @@ Banco
 Português
 de
 Negócios
--LRB-
+(
 BPN
--RRB-
+)
 ,
 em
 Lisboa
@@ -58059,7 +58059,7 @@ na
 Area
 de
 Defesa
--LRB-
+(
 '
 Defense
 Advanced
@@ -58067,7 +58067,7 @@ Research
 Projects
 Agency
 '
--RRB-
+)
 nos
 ultimos
 dois
@@ -58114,7 +58114,7 @@ Internet
 de
 Nova
 Geracao
--LRB-
+(
 no
 original
 ,
@@ -58123,7 +58123,7 @@ Next
 Generation
 Internet
 '
--RRB-
+)
 do
 governo
 federal
@@ -58269,18 +58269,18 @@ na
 rede
 .
 
--LRB-
+(
 Philadelphia
 Inquirer
 1
 Dez
 99
--RRB-
--LRB-
+)
+(
 Edupage
 da
 RNP
--RRB-
+)
 
 
 
@@ -58610,9 +58610,9 @@ HISTÓRICO
 IGREJA
 DE
 SANTANA
--LRB-
+(
 Padroeira
--RRB-
+)
 Construída
 no
 começo
@@ -58876,9 +58876,9 @@ intermédio
 do
 processo
 produtivo
--LRB-
+(
 Compound
--RRB-
+)
 .
 
 A
@@ -59049,9 +59049,9 @@ obra
 de
 Óscar
 Ribas
--LRB-
+(
 Angola
--RRB-
+)
 será
 o
 paradigina
@@ -59088,9 +59088,9 @@ Tomaz
 Vieira
 da
 Cruz
--LRB-
+(
 Angola
--RRB-
+)
 .
 Noutros
 ,
@@ -59100,9 +59100,9 @@ Albasini
 e
 Caetano
 Campo
--LRB-
+(
 Moçambique
--RRB-
+)
 ou
 ainda
 naqueles
@@ -59115,13 +59115,13 @@ hesperitano
 de
 Cabo
 Verde
--LRB-
+(
 com
 José
 Lopes
 e
 outros
--RRB-
+)
 ,
 se
 encontrará
@@ -59220,7 +59220,7 @@ telúrico
 de
 integração
 continental
--LRB-
+(
 de
 africanidade
 ,
@@ -59232,7 +59232,7 @@ necessariamente
 manifesta
 e
 veemente
--RRB-
+)
 ,
 a
 que
@@ -59266,17 +59266,17 @@ de
 grande
 alcance
 cultural
--LRB-
+(
 veja-se
 o
 exemplo
 da
 Claridade
--LRB-
+(
 1936
--RRB-
+)
 cabo-verdiana
--RRB-
+)
 ou
 ,
 pelo
@@ -59301,7 +59301,7 @@ de
 Geraldo
 Bessa
 Victor
--LRB-
+(
 logo
 depois
 optando
@@ -59313,7 +59313,7 @@ estética
 da
 luso-tropicalidade
 freyriana
--RRB-
+)
 .
 Estamos
 ,
@@ -59329,14 +59329,14 @@ verdadeira
 criação
 de
 crioulidade
--LRB-
+(
 de
 assunção
 de
 uma
 diferença
 não-portuguesa
--RRB-
+)
 ,
 ou
 ,
@@ -59351,11 +59351,11 @@ funil
 de
 estrangulamento
 histórico
--LRB-
+(
 da
 estreita
 portugalidade
--RRB-
+)
 .
 
 
@@ -59365,9 +59365,9 @@ fase
 ,
 do
 Casticismo
--LRB-
+(
 1942-1960
--RRB-
+)
 ,
 surgiu
 na
@@ -59434,9 +59434,9 @@ Ilha
 de
 nome
 santo
--LRB-
+(
 1942
--RRB-
+)
 ,
 integrado
 na
@@ -59454,14 +59454,14 @@ português
 .
 O
 Casticismo
--LRB-
+(
 termo
 que
 adoptamos
 pela
 primeira
 vez
--RRB-
+)
 pode
 ,
 então
@@ -59550,9 +59550,9 @@ as
 vestes
 do
 Sócio-realismo
--LRB-
+(
 1942-1950/60
--RRB-
+)
 baseado
 no
 marxismo
@@ -59561,11 +59561,11 @@ na
 sua
 versão
 acrescida
--LRB-
+(
 a
 do
 marxismo-leninismo
--RRB-
+)
 ,
 em
 que
@@ -59595,7 +59595,7 @@ Português
 .
 O
 Sócio-realismo
--LRB-
+(
 designação
 relativa
 às
@@ -59608,7 +59608,7 @@ nós
 no
 presente
 trabalho
--RRB-
+)
 foi
 a
 expressão
@@ -59653,7 +59653,7 @@ que
 o
 Naturalismo
 brasileiro
--LRB-
+(
 sobretudo
 este
 ,
@@ -59665,7 +59665,7 @@ e
 não
 o
 português
--RRB-
+)
 tenha
 sido
 recebido
@@ -59721,7 +59721,7 @@ produção
 de
 riquezas
 coloniais
--LRB-
+(
 com
 seus
 contratados
@@ -59744,7 +59744,7 @@ e
 outros
 ,
 marginais
--RRB-
+)
 ,
 através
 de
@@ -59783,9 +59783,9 @@ obra
 de
 Castro
 Soromenho
--LRB-
+(
 Angola
--RRB-
+)
 ,
 a
 primeira
@@ -59798,27 +59798,27 @@ Neto
 e
 António
 Jacinto
--LRB-
+(
 Angola
--RRB-
+)
 ,
 de
 José
 Craveirinha
--LRB-
+(
 Moçambique
--RRB-
+)
 e
 de
 Francisco
 José
 Tenreiro
--LRB-
+(
 São
 Tomé
 e
 Príncipe
--RRB-
+)
 ,
 ou
 a
@@ -59830,19 +59830,19 @@ e
 Teixeira
 de
 Sousa
--LRB-
+(
 Cabo
 Verde
--RRB-
+)
 ,
 e
 de
 Noémia
 de
 Sousa
--LRB-
+(
 Moçambique
--RRB-
+)
 ,
 para
 verificarmos
@@ -59902,9 +59902,9 @@ anos
 assumiram
 a
 Negritude
--LRB-
+(
 1949-1959
--RRB-
+)
 como
 realização
 cultural
@@ -59929,9 +59929,9 @@ raça
 as
 culturas
 tradicionais
--LRB-
+(
 tribais
--RRB-
+)
 ,
 relativas
 ao
@@ -60039,9 +60039,9 @@ fase
 ,
 de
 Resistência
--LRB-
+(
 1961-1974
--RRB-
+)
 ,
 com
 a
@@ -60502,9 +60502,9 @@ Carl
 Kurt
 von
 Pritsovits
--LRB-
+(
 ?
--RRB-
+)
 ,
 que
 era
@@ -60560,19 +60560,19 @@ Pritsovits
 ,
 o
 Tórbero
--LRB-
+(
 ?
--RRB-
+)
 ,
 Sttigart
--LRB-
+(
 ?
--RRB-
+)
 von
 Hulma
--LRB-
+(
 ?
--RRB-
+)
 A
 alemãozada
 toda
@@ -60614,9 +60614,9 @@ ingleses
 .
 O
 Brodi
--LRB-
+(
 ?
--RRB-
+)
 ,
 esse
 pessoal
@@ -60784,9 +60784,9 @@ colégio
 era
 Miss
 Somal
--LRB-
+(
 ?
--RRB-
+)
 uma
 inglesa
 ,
@@ -61077,9 +61077,9 @@ e
 a
 Miss
 Hogan
--LRB-
+(
 ?
--RRB-
+)
 que
 ficava
 na
@@ -63749,9 +63749,9 @@ nos
 EUA
 SAN
 DIEGO
--LRB-
+(
 CNN-AP
--RRB-
+)
 --
 Eles
 estão
@@ -64920,7 +64920,7 @@ do
 Partido
 da
 Terra
--LRB-
+(
 PT
 .
 
@@ -65216,7 +65216,7 @@ Nacional
 para
 Estatisticas
 Educacionais
--LRB-
+(
 '
 National
 Center
@@ -65224,7 +65224,7 @@ for
 Education
 Statistics
 '
--RRB-
+)
 ,
 dos
 EUA
@@ -65256,7 +65256,7 @@ de
 aula
 .
 
--LRB-
+(
 New
 York
 Times
@@ -65267,13 +65267,13 @@ Life
 09
 Jan
 2000
--RRB-
+)
 e
--LRB-
+(
 Edupage
 da
 RNP
--RRB-
+)
 
 
 

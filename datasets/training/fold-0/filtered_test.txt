@@ -3,8 +3,6 @@ em	O
 
 Durban	B-LOCAL
 
-
-
 Às	O
 três	O
 horas	O
@@ -60,14 +58,14 @@ de	O
 
 Lisboa	B-LOCAL
 
--LRB-	O
+(	O
 
 Teatro	B-LOCAL
 de	I-LOCAL
 São	I-LOCAL
 Carlos	I-LOCAL
 
--RRB-	O
+)	O
 .	O
 O	O
 seu	O
@@ -99,11 +97,11 @@ de	I-PESSOA
 Seabra	I-PESSOA
 Pessoa	I-PESSOA
 
--LRB-	O
+(	O
 
 38	O
 
--RRB-	O
+)	O
 ,	O
 natural	O
 de	O
@@ -123,11 +121,11 @@ Pinheiro	I-PESSOA
 Nogueira	I-PESSOA
 Pessoa	I-PESSOA
 
--LRB-	O
+(	O
 
 26	O
 
--RRB-	O
+)	O
 ,	O
 natural	O
 da	O
@@ -135,11 +133,11 @@ da	O
 Ilha	B-LOCAL
 Terceira	I-LOCAL
 
--LRB-	O
+(	O
 
 Açores	B-LOCAL
 
--RRB-	O
+)	O
 .	O
 Viviam	O
 com	O
@@ -165,8 +163,6 @@ e	O
 Emília	B-PESSOA
 
 .	O
-
-
 
 É	O
 baptizado	O
@@ -197,7 +193,7 @@ sua	O
 Tia	B-PESSOA
 Anica	I-PESSOA
 
--LRB-	O
+(	O
 
 D.	B-PESSOA
 Ana	I-PESSOA
@@ -209,7 +205,7 @@ Nogueira	I-PESSOA
 sua	O
 tia	O
 materna	O
--RRB-	O
+)	O
 e	O
 o	O
 
@@ -282,8 +278,6 @@ Pessoa	I-PESSOA
 
 nasceu	O
 .	O
-
-
 
 A	O
 sua	O
@@ -525,13 +519,13 @@ em	O
 
 Durban	B-LOCAL
 
--LRB-	O
+(	O
 
 África	B-LOCAL
 do	I-LOCAL
 Sul	I-LOCAL
 
--RRB-	O
+)	O
 ,	O
 o	O
 qual	O
@@ -562,8 +556,6 @@ para	O
 a	O
 literatura	O
 .	O
-
-
 
 Em	O
 razão	O
@@ -853,8 +845,6 @@ e	O
 
 .	O
 
-
-
 Faz	O
 o	O
 curso	O
@@ -1128,8 +1118,6 @@ passa	O
 
 .	O
 
-
-
 Fernando	B-PESSOA
 Pessoa	I-PESSOA
 
@@ -1267,7 +1255,7 @@ Victoria	O
 Memorial	O
 Prize	O
 
--LRB-	O
+(	O
 ``	O
 
 Prémio	O
@@ -1275,7 +1263,7 @@ Rainha	O
 Vitória	O
 
 ''	O
--RRB-	O
+)	O
 .	O
 
 Um	O
@@ -1392,8 +1380,6 @@ bons	O
 resultados	O
 .	O
 
-
-
 Volta	O
 definitiva	O
 a	O
@@ -1404,8 +1390,6 @@ e	O
 início	O
 de	O
 carreira	O
-
-
 
 Deixando	O
 a	O
@@ -1504,7 +1488,7 @@ Superior	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Letras	I-ORGANIZACAO
 
--LRB-	O
+(	O
 actual	O
 
 Faculdade	B-ORGANIZACAO
@@ -1515,7 +1499,7 @@ Universidade	B-ORGANIZACAO
 de	O
 Lisboa	B-LOCAL
 
--RRB-	O
+)	O
 ,	O
 que	O
 abandona	O
@@ -1562,8 +1546,6 @@ Antônio	I-PESSOA
 Vieira	I-PESSOA
 
 .	O
-
-
 
 Em	O
 Agosto	O
@@ -1667,8 +1649,6 @@ vida	O
 pública	O
 .	O
 
-
-
 Inicia	O
 a	O
 sua	O
@@ -1715,8 +1695,6 @@ seguiriam	O
 outros	O
 .	O
 
-
-
 Pessoa	B-PESSOA
 
 é	O
@@ -1748,7 +1726,7 @@ de	O
 cólica	O
 hepática	O
 ''	O
--LRB-	O
+(	O
 provavelmente	O
 uma	O
 colangite	O
@@ -1757,7 +1735,7 @@ causada	O
 por	O
 cálculo	O
 biliar	O
--RRB-	O
+)	O
 ,	O
 falecendo	O
 de	O
@@ -1781,7 +1759,7 @@ longo	O
 da	O
 sua	O
 vida	O
--LRB-	O
+(	O
 a	O
 título	O
 de	O
@@ -1799,7 +1777,7 @@ aguardente	O
 Real	O
 
 ''	O
--RRB-	O
+)	O
 .	O
 
 No	O
@@ -1853,7 +1831,7 @@ what	O
 tomorrow	O
 will	O
 bring	O
--LRB-	O
+(	O
 ``	O
 Eu	O
 não	O
@@ -1864,17 +1842,14 @@ o	O
 amanhã	O
 trará	O
 ''	O
--RRB-	O
+)	O
 .	O
 
-
 Legado	O
-
 
 -LSB-	O
 ...	O
 -RSB-	O
-
 
 Analogamente	O
 a	O
@@ -1945,12 +1920,12 @@ racionalista	O
 do	O
 mundo	O
 ocidental	O
--LRB-	O
+(	O
 a	O
 navegação	O
 exigiria	O
 precisão	O
--RRB-	O
+)	O
 enquanto	O
 a	O
 vida	O
@@ -1959,8 +1934,6 @@ dispensar	O
 tal	O
 precisão	O
 .	O
-
-
 
 Sobre	O
 
@@ -2038,7 +2011,7 @@ The	O
 Western	O
 Canon	O
 
--LRB-	O
+(	O
 ''	O
 
 O	O
@@ -2046,7 +2019,7 @@ Cânone	O
 Ocidental	O
 
 ''	O
--RRB-	O
+)	O
 ,	O
 o	O
 mais	O
@@ -2070,8 +2043,6 @@ Neruda	I-PESSOA
 -LSB-	O
 3	O
 -RSB-	O
-
-
 
 Na	O
 comemoração	O
@@ -2107,8 +2078,6 @@ em	O
 vida	O
 .	O
 
-
-
 -LSB-	O
 editar	O
 -RSB-	O
@@ -2118,8 +2087,6 @@ Pessoa	B-PESSOA
 e	O
 o	O
 ocultismo	O
-
-
 
 Fernando	B-PESSOA
 Pessoa	I-PESSOA
@@ -2143,7 +2110,7 @@ a	O
 
 Rosa-Cruz	O
 
--LRB-	O
+(	O
 embora	O
 não	O
 se	O
@@ -2163,7 +2130,7 @@ destas	O
 escolas	O
 de	O
 pensamento	O
--RRB-	O
+)	O
 ,	O
 havendo	O
 inclusive	O
@@ -2235,7 +2202,7 @@ astrológicas	O
 para	O
 si	O
 mesmo	O
--LRB-	O
+(	O
 de	O
 acordo	O
 com	O
@@ -2265,7 +2232,7 @@ em	O
 
 Gémeos	O
 
--RRB-	O
+)	O
 .	O
 Realizou	O
 mais	O
@@ -2273,8 +2240,6 @@ de	O
 mil	O
 horóscopos	O
 .	O
-
-
 
 Certa	O
 vez	O
@@ -2394,8 +2359,6 @@ disso	O
 --	O
 ensinava	O
 .	O
-
-
 
 IX	O
 AMOR	O
@@ -4223,8 +4186,6 @@ seio	O
 Próximo	O
 Capítulo	O
 
-
-
 Uma	O
 alteração	O
 num	O
@@ -4258,11 +4219,11 @@ Wisconsin	B-LOCAL
 -	O
 Madison	B-LOCAL
 
--LRB-	O
+(	O
 
 EUA	B-LOCAL
 
--RRB-	O
+)	O
 ,	O
 poderá	O
 levar	O
@@ -4283,8 +4244,6 @@ forma	O
 de	O
 combatê-las	O
 .	O
-
-
 
 A	O
 equipe	O
@@ -4329,7 +4288,6 @@ Kong	I-LOCAL
 
 .	O
 
-
 Essas	O
 amostras	O
 foram	O
@@ -4353,7 +4311,6 @@ em	O
 dois	O
 grupos	O
 .	O
-
 
 O	O
 primeiro	O
@@ -4379,7 +4336,6 @@ respiratórios	O
 como	O
 sintomas	O
 .	O
-
 
 Para	O
 descobrir	O
@@ -4427,8 +4383,6 @@ do	O
 influenza	O
 .	O
 
-
-
 ``	O
 Uma	O
 mudança	O
@@ -4471,8 +4425,6 @@ influenza	O
 explica	O
 .	O
 
-
-
 Os	O
 cientistas	O
 ainda	O
@@ -4508,8 +4460,6 @@ células	O
 infectadas	O
 .	O
 
-
-
 O	O
 estudo	O
 do	O
@@ -4532,9 +4482,6 @@ Science	O
 
 ''	O
 .	O
-
-
-
 
 MINISTÉRIOS	B-ORGANIZACAO
 DO	I-ORGANIZACAO
@@ -4563,8 +4510,6 @@ PESCAS	I-ORGANIZACAO
 
 .	O
 
-
-
 Portaria	O
 n.º	O
 1/2008	O
@@ -4574,8 +4519,6 @@ de	O
 de	O
 Janeiro	O
 
-
-
 Com	O
 fundamento	O
 no	O
@@ -4584,7 +4527,7 @@ na	O
 
 alínea	O
 a	O
--RRB-	O
+)	O
 do	O
 artigo	O
 40	O
@@ -4635,8 +4578,6 @@ Novembro	O
 
 ;	O
 
-
-
 Ouvido	O
 o	O
 
@@ -4649,8 +4590,6 @@ de	O
 Montemor-o-Novo	B-LOCAL
 
 :	O
-
-
 
 Manda	O
 o	O
@@ -4689,8 +4628,6 @@ Pescas	O
 o	O
 seguinte	O
 :	O
-
-
 
 1	O
 .	O
@@ -4756,13 +4693,13 @@ Branca	I-LOCAL
 
 e	O
 outras	O
--LRB-	O
+(	O
 
 processo	O
 n.º	O
 4799-DGRF	O
 
--RRB-	O
+)	O
 ,	O
 englobando	O
 vários	O
@@ -4807,8 +4744,6 @@ de	O
 ha	O
 
 .	O
-
-
 
 2	O
 .	O
@@ -4877,7 +4812,6 @@ de	O
 caça	O
 .	O
 
-
 3	O
 .	O
 º	O
@@ -4901,7 +4835,6 @@ da	O
 respectiva	O
 sinalização	O
 .	O
-
 
 Pelo	O
 
@@ -4976,8 +4909,6 @@ de	O
 2007	O
 
 .	O
-
-
 
 Legião	B-ORGANIZACAO
 da	I-ORGANIZACAO
@@ -5202,7 +5133,6 @@ vontade	O
 ''	O
 .	O
 
-
 01.94	O
 -	O
 54	O
@@ -5335,8 +5265,6 @@ no	O
 Rio	B-LOCAL
 .	O
 
-
-
 Salgado	B-PESSOA
 
 ,	O
@@ -5347,8 +5275,6 @@ da	O
 África	O
 
 perdida	O
-
-
 
 ''	O
 
@@ -5436,8 +5362,6 @@ a	O
 sessão	O
 fotográfica	O
 .	O
-
-
 
 Conheci	O
 o	O
@@ -5577,8 +5501,6 @@ sofrimento	O
 humano	O
 .	O
 
-
-
 As	O
 suas	O
 fotos	O
@@ -5701,8 +5623,6 @@ carreira	O
 fulgurante	O
 .	O
 
-
-
 Em	O
 
 Fátima	B-LOCAL
@@ -5735,14 +5655,14 @@ ele	O
 acabou	O
 por	O
 confessar	O
--LRB-	O
+(	O
 o	O
 lugar	O
 prestava-se	O
 a	O
 isso	O
 !	O
--RRB-	O
+)	O
 que	O
 tinha	O
 adormecido	O
@@ -5796,8 +5716,6 @@ Não	O
 são	O
 .	O
 
-
-
 Falar	O
 das	O
 fotografias	O
@@ -5831,8 +5749,6 @@ grandiosa	O
 do	O
 fotojornalista-autor	O
 .	O
-
-
 
 Interessante	O
 é	O
@@ -5936,8 +5852,6 @@ imprimir	O
 mostrar	O
 .	O
 
-
-
 Durante	O
 muitos	O
 anos	O
@@ -6026,8 +5940,6 @@ do	O
 ano	O
 
 .	O
-
-
 
 O	O
 trabalho	O
@@ -6150,8 +6062,6 @@ Paris	B-LOCAL
 
 .	O
 
-
-
 A	O
 obra	O
 de	O
@@ -6190,8 +6100,6 @@ tão	O
 extensa	O
 foto-galeria	O
 .	O
-
-
 
 Mas	O
 se	O
@@ -6254,7 +6162,6 @@ Humanidade	O
 
 .	O
 
-
 É	O
 um	O
 fotógrafo	O
@@ -6298,7 +6205,6 @@ novo	O
 projecto	O
 .	O
 
-
 Com	O
 ''	O
 
@@ -6326,8 +6232,6 @@ fotojornalismo	O
 documental	O
 .	O
 
-
-
 Luiz	B-PESSOA
 Carvalho	I-PESSOA
 
@@ -6337,16 +6241,11 @@ do	O
 
 Expresso	B-ORGANIZACAO
 
-
-
-
 Tour	O
 
 :	O
 Procura-se	O
 candidato	O
-
-
 
 PAULINHO	B-PESSOA
 
@@ -6355,8 +6254,6 @@ PROVA	O
 DESFALCADA	O
 DE	O
 VEDETAS	O
-
-
 
 Pelo	O
 segundo	O
@@ -6454,8 +6351,6 @@ n.º	O
 1	O
 .	O
 
-
-
 Ainda	O
 está	O
 por	O
@@ -6507,8 +6402,6 @@ no	O
 11	O
 
 .	O
-
-
 
 Face	O
 então	O
@@ -6562,8 +6455,6 @@ pela	O
 vitória	O
 .	O
 
-
-
 São	O
 eles	O
 o	O
@@ -6572,11 +6463,11 @@ cazaque	O
 Alexandre	B-PESSOA
 Vinokourov	I-PESSOA
 
--LRB-	O
+(	O
 
 Astana	O
 
--RRB-	O
+)	O
 ,	O
 os	O
 espanhóis	O
@@ -6584,21 +6475,21 @@ espanhóis	O
 Alberto	B-PESSOA
 Contador	I-PESSOA
 
--LRB-	O
+(	O
 
 Discovery	O
 
--RRB-	O
+)	O
 e	O
 
 Alejandro	B-PESSOA
 Valverde	I-PESSOA
 
--LRB-	O
+(	O
 
 Caisse	O
 
--RRB-	O
+)	O
 ,	O
 e	O
 o	O
@@ -6607,11 +6498,11 @@ norte-americano	O
 Levy	B-PESSOA
 Leipheimer	I-PESSOA
 
--LRB-	O
+(	O
 
 Discovery	O
 
--RRB-	O
+)	O
 .	O
 Nós	O
 ,	O
@@ -6629,11 +6520,9 @@ Paulinho	I-PESSOA
 
 .	O
 
-
 Cinco	O
 mil	O
 polícias	O
-
 
 Cerca	O
 de	O
@@ -6717,8 +6606,6 @@ de	O
 Silverstone	B-LOCAL
 
 .	O
-
-
 
 SISTEMA	O
 ADENIL-CICLÁSICO	O
@@ -6808,18 +6695,18 @@ a	O
 activação	O
 de	O
 várias	O
--LRB-	O
+(	O
 n1	O
--RRB-	O
+)	O
 moléculas	O
 de	O
 adenil-ciclase	O
--LRB-	O
+(	O
 proteína	O
 intrínseca	O
 da	O
 membrana	O
--RRB-	O
+)	O
 ;	O
 
 A	O
@@ -6833,12 +6720,12 @@ a	O
 adenosina	O
 monofosfato	O
 cíclica	O
--LRB-	O
+(	O
 AMP	O
 cíclico	O
 ou	O
 AMPc	O
--RRB-	O
+)	O
 ,	O
 a	O
 partir	O
@@ -6958,10 +6845,10 @@ externo	O
 num	O
 sinal	O
 interno	O
--LRB-	O
+(	O
 o	O
 AMPc	O
--RRB-	O
+)	O
 e	O
 a	O
 amplificação	O
@@ -6989,10 +6876,10 @@ Em	O
 muitos	O
 casos	O
 concretos	O
--LRB-	O
+(	O
 ver	O
 glicogenólise	O
--RRB-	O
+)	O
 ,	O
 verifica-se	O
 a	O
@@ -7090,7 +6977,6 @@ armazenado	O
 no	O
 fígado	O
 .	O
-
 
 Uns	O
 vinte	O
@@ -7316,14 +7202,14 @@ história	O
 das	O
 bibliotecas	O
 ''	O
--LRB-	O
+(	O
 no	O
 Brasil	B-LOCAL
 ,	O
 editado	O
 pela	O
 Planeta	B-ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 ironiza	O
 :	O
@@ -7423,7 +7309,7 @@ não	O
 usuário	O
 de	O
 computador	O
--LRB-	O
+(	O
 embora	O
 o	O
 catálogo	O
@@ -7432,7 +7318,7 @@ sua	O
 biblioteca	O
 seja	O
 informatizado	O
--RRB-	O
+)	O
 ,	O
 ensina	O
 o	O
@@ -7828,12 +7714,8 @@ complementa	O
 Mindlin	B-PESSOA
 .	O
 
-
-
 Educação	O
 Ambiental	O
-
-
 
 Este	O
 espaço	O
@@ -7953,8 +7835,6 @@ atribuições	O
 específicas	O
 .	O
 
-
-
 Enraizamento	O
 da	O
 
@@ -7964,8 +7844,6 @@ Ambiental	O
 no	O
 
 Brasil	B-LOCAL
-
-
 
 Ações	O
 do	O
@@ -8013,8 +7891,6 @@ e	O
 programas	O
 .	O
 
-
-
 Mapeamento	O
 da	O
 
@@ -8024,8 +7900,6 @@ no	O
 
 Ensino	O
 Superior	O
-
-
 
 Contribuir	O
 para	O
@@ -8040,21 +7914,21 @@ da	O
 Educação	O
 Ambiental	O
 
--LRB-	O
+(	O
 
 EA	O
 
--RRB-	O
+)	O
 em	O
 instituições	O
 de	O
 educação	O
 superior	O
--LRB-	O
+(	O
 
 IES	B-ORGANIZACAO
 
--RRB-	O
+)	O
 brasileiras	O
 ,	O
 com	O
@@ -8089,8 +7963,6 @@ da	O
 pesquisa	O
 .	O
 
-
-
 O	O
 que	O
 fazem	O
@@ -8102,8 +7974,6 @@ que	O
 fazem	O
 
 EA	O
-
-
 
 Quais	O
 são	O
@@ -8177,11 +8047,11 @@ no	O
 Censo	O
 Escolar	O
 
--LRB-	O
+(	O
 
 2001-2004	O
 
--RRB-	O
+)	O
 e	O
 conhecer	O
 melhor	O
@@ -8215,13 +8085,10 @@ ensino	O
 fundamental	O
 .	O
 
-
-
 Educação	O
 de	O
 Chico	O
 Mendes	O
-
 
 Programa	O
 de	O
@@ -8234,7 +8101,6 @@ ambiental	O
 no	O
 ensino	O
 básico	O
-
 
 O	O
 
@@ -8287,8 +8153,6 @@ locais	O
 ...	O
 -RSB-	O
 
-
-
 -	O
 Formação	O
 continuada	O
@@ -8298,8 +8162,6 @@ em	O
 
 Educação	O
 Ambiental	O
-
-
 
 A	O
 
@@ -8355,7 +8217,7 @@ ciclo	O
 do	O
 ensino	O
 fundamental	O
--LRB-	O
+(	O
 
 5a	O
 
@@ -8364,7 +8226,7 @@ a	O
 8a	O
 
 séries	O
--RRB-	O
+)	O
 ,	O
 de	O
 escolas	O
@@ -8491,8 +8353,6 @@ em	O
 
 d	O
 
-
-
 as	O
 escolas	O
 do	O
@@ -8503,8 +8363,6 @@ do	O
 Brasil	B-LOCAL
 
 .	O
-
-
 
 Portfolio	O
 do	O
@@ -8517,8 +8375,6 @@ Nacional	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Educação	I-ORGANIZACAO
 Ambiental	I-ORGANIZACAO
-
-
 
 Reúne	O
 um	O
@@ -8544,15 +8400,11 @@ Ambiental	I-ORGANIZACAO
 
 .	O
 
-
-
 Programa	O
 Juventude	O
 e	O
 Meio	O
 Ambiente	O
-
-
 
 Este	O
 
@@ -8630,7 +8482,7 @@ Meio	O
 Ambiente	O
 
 .	O
--LRB-	O
+(	O
 *	O
 acesse	O
 a	O
@@ -8649,9 +8501,7 @@ melhor	O
 esses	O
 grupos	O
 *	O
--RRB-	O
-
-
+)	O
 
 O	O
 
@@ -8686,11 +8536,11 @@ dos	O
 Coletivos	O
 Jovens	O
 
--LRB-	O
+(	O
 
 CJs	O
 
--RRB-	O
+)	O
 já	O
 existentes	O
 e	O
@@ -8773,15 +8623,11 @@ estados	O
 brasileiros	O
 .	O
 
-
 Orientações	O
 Curriculares	O
 
-
 Ensino	O
 Médio	O
-
-
 
 A	O
 
@@ -8794,11 +8640,11 @@ Alfabetização	I-ORGANIZACAO
 e	I-ORGANIZACAO
 Diversidade	I-ORGANIZACAO
 
--LRB-	O
+(	O
 
 SECAD	B-ORGANIZACAO
 
--RRB-	O
+)	O
 foi	O
 convidada	O
 pelo	O
@@ -8815,11 +8661,11 @@ de	I-ORGANIZACAO
 Educação	I-ORGANIZACAO
 Básica	I-ORGANIZACAO
 
--LRB-	O
+(	O
 
 SEB	B-ORGANIZACAO
 
--RRB-	O
+)	O
 a	O
 participar	O
 do	O
@@ -8948,12 +8794,8 @@ Médio	O
 
 .	O
 
-
-
 Com-vida	O
 MEC	O
-
-
 
 Programa	O
 Institucional	O
@@ -8984,8 +8826,6 @@ pelas	O
 suas	O
 atividades	O
 .	O
-
-
 
 Rapaz	O
 é	O
@@ -9290,22 +9130,16 @@ de	I-LOCAL
 Bauru	I-LOCAL
 .	O
 
-
-
 Aristides	B-PESSOA
 de	I-PESSOA
 Sousa	I-PESSOA
 Mendes	I-PESSOA
-
-
 
 A	O
 
 Segunda	O
 Guerra	O
 Mundial	O
-
-
 
 Aristides	B-PESSOA
 de	I-PESSOA
@@ -9357,8 +9191,6 @@ de	O
 Portugal	B-ORGANIZACAO
 
 .	O
-
-
 
 Pela	O
 
@@ -9421,8 +9253,6 @@ são	O
 cidadãos	O
 ''	O
 .	O
-
-
 
 Entretanto	O
 ,	O
@@ -9515,8 +9345,6 @@ com	O
 parcimónia	O
 .	O
 
-
-
 Já	O
 
 no	O
@@ -9575,8 +9403,6 @@ os	O
 refugiados	O
 judeus	O
 .	O
-
-
 
 A	O
 16	O
@@ -9655,8 +9481,6 @@ papel	O
 disponíveis	O
 .	O
 
-
-
 Confrontado	O
 com	O
 os	O
@@ -9697,8 +9521,6 @@ Deus	B-PESSOA
 ''	O
 .	O
 
-
-
 Uma	O
 vez	O
 que	O
@@ -9730,11 +9552,11 @@ em	O
 
 Baiona	B-LOCAL
 
--LRB-	O
+(	O
 
 França	B-LOCAL
 
--RRB-	O
+)	O
 ,	O
 no	O
 escritório	O
@@ -9825,8 +9647,6 @@ funções	O
 de	O
 cônsul	O
 .	O
-
-
 
 Apesar	O
 de	O
@@ -9928,14 +9748,10 @@ Portugal	B-LOCAL
 
 .	O
 
-
-
-
 Em	O
 Dezembro	O
 em	O
 Lisboa	B-LOCAL
-
 
 Sócrates	B-PESSOA
 :	O
@@ -9954,7 +9770,6 @@ cimeira	O
 sobre	O
 Mugabe	B-PESSOA
 ''	O
-
 
 A	O
 cimeira	O
@@ -10001,11 +9816,10 @@ exercício	O
 da	O
 União	B-LOCAL
 Europeia	I-LOCAL
--LRB-	O
+(	O
 UE	B-LOCAL
--RRB-	O
+)	O
 .	O
-
 
 ``	O
 O	O
@@ -10069,7 +9883,6 @@ a	O
 Lusa	O
 .	O
 
-
 O	O
 Zimbabwe	B-ORGANIZACAO
 foi	O
@@ -10095,7 +9908,6 @@ Mugabe	B-PESSOA
 estiver	O
 presente	O
 .	O
-
 
 ``	O
 Esta	O
@@ -10143,7 +9955,6 @@ salientou	O
 Sócrates	B-PESSOA
 .	O
 
-
 ``	O
 O	O
 objectivo	O
@@ -10182,7 +9993,6 @@ história	O
 lembrou	O
 .	O
 
-
 ``	O
 Gostaria	O
 que	O
@@ -10202,7 +10012,6 @@ dirigente	O
 ,	O
 insistiu	O
 .	O
-
 
 Depoimento	O
 de	O
@@ -10908,10 +10717,10 @@ ficou	O
 sendo	O
 o	O
 comodista	O
--LRB-	O
+(	O
 comunista	O
 ?	O
--RRB-	O
+)	O
 da	O
 cidade	O
 .	O
@@ -11744,9 +11553,9 @@ sofria	O
 ,	O
 viu	O
 ?	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 .	O
 Mas	O
 depois	O
@@ -12120,9 +11929,9 @@ os	O
 filhos	O
 !	O
 ''	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 .	O
 Mas	O
 ele	O
@@ -12525,9 +12334,9 @@ se	O
 chama	O
 Regina	O
 Epingauss	O
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 ,	O
 ela	O
 era	O
@@ -13329,9 +13138,9 @@ nessa	O
 e	O
 Dona	B-PESSOA
 Joelfina	I-PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 foi	O
 muito	O
 boa	O
@@ -13548,9 +13357,9 @@ vendendo	O
 o	O
 Brasil	B-LOCAL
 ''	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 .	O
 Olha	O
 ,	O
@@ -13562,9 +13371,9 @@ o	O
 Brasil	B-LOCAL
 até	O
 hoje	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 ,	O
 não	O
 muda	O
@@ -13870,9 +13679,9 @@ os	O
 anos	O
 e	O
 meio	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 .	O
 Mas	O
 aqui	O
@@ -14079,9 +13888,9 @@ né	O
 ,	O
 gente	O
 fina	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 ,	O
 não	O
 tinha	O
@@ -14698,11 +14507,11 @@ uma	O
 hora	O
 em	O
 Perus	B-LOCAL
--LRB-	O
+(	O
 fim	O
 da	O
 fita	O
--RRB-	O
+)	O
 
 Joelfina	B-PESSOA
 
@@ -14712,16 +14521,12 @@ palavra	O
 não	O
 decifrada	O
 
-
-
 Actualmente	O
 é	O
 de	O
 
 570,6	O
 euros	O
-
-
 
 Espanha	B-ORGANIZACAO
 
@@ -14732,8 +14537,6 @@ para	O
 
 600	O
 euros	O
-
-
 
 O	O
 
@@ -14773,8 +14576,6 @@ próximo	O
 ano	O
 
 .	O
-
-
 
 ``	O
 Aprovámos	O
@@ -14836,8 +14637,6 @@ ano	O
 
 .	O
 
-
-
 Este	O
 aumento	O
 foi	O
@@ -14890,8 +14689,6 @@ ao	O
 poder	O
 .	O
 
-
-
 O	O
 chefe	O
 do	O
@@ -14926,8 +14723,6 @@ económico	O
 positivo	O
 .	O
 
-
-
 Em	O
 Outubro	O
 
@@ -14954,8 +14749,6 @@ caso	O
 de	O
 reeleição	O
 .	O
-
-
 
 À	O
 excepção	O
@@ -15002,8 +14795,6 @@ e	O
 Malta	B-LOCAL
 
 .	O
-
-
 
 Espanha	O
 :	O
@@ -15260,7 +15051,6 @@ de	O
 800	O
 mortos	O
 .	O
-
 
 Quantos	O
 irmão	O
@@ -17455,8 +17245,6 @@ melhor	O
 solução	O
 .	O
 
-
-
 Lápis-lazúli	O
 ,	O
 conhecido	O
@@ -17594,9 +17382,9 @@ que	O
 veio	O
 do	O
 árabe	O
--LRB-	O
+(	O
 al	O
--RRB-	O
+)	O
 -	O
 lazward	O
 ,	O
@@ -17662,9 +17450,7 @@ são	O
 cognatos	O
 .	O
 
-
 História	O
-
 
 No	O
 
@@ -17694,7 +17480,7 @@ babilônicos	O
 nos	O
 selos	O
 cilíndricos	O
--LRB-	O
+(	O
 locais	O
 onde	O
 se	O
@@ -17705,7 +17491,7 @@ a	O
 historia	O
 do	O
 povo	O
--RRB-	O
+)	O
 .	O
 As	O
 escavações	O
@@ -17745,8 +17531,6 @@ para	O
 o	O
 olho	O
 .	O
-
-
 
 Como	O
 inscrito	O
@@ -17886,9 +17670,7 @@ Afeganistão	B-LOCAL
 
 .	O
 
-
 Curiosidades	O
-
 
 É	O
 a	O
@@ -17929,8 +17711,6 @@ Psicologia	I-ORGANIZACAO
 brasileiro	O
 .	O
 
-
-
 Quatro	O
 militares	O
 mortos	O
@@ -17955,11 +17735,11 @@ grupo	O
 fundamentalista	O
 xiita	O
 Hizbollah	B-ORGANIZACAO
--LRB-	O
+(	O
 Partido	B-ORGANIZACAO
 de	I-ORGANIZACAO
 Deus	I-ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 segundo	O
 o	O
@@ -17981,11 +17761,11 @@ do	O
 meio	O
 dia	O
 local	O
--LRB-	O
+(	O
 10h00	O
 de	O
 Lisboa	O
--RRB-	O
+)	O
 na	O
 estrada	O
 para	O
@@ -18120,7 +17900,6 @@ não	O
 deu	O
 pormenores	O
 .	O
-
 
 A	O
 gente	O
@@ -18646,8 +18425,6 @@ a	O
 verdade	O
 .	O
 
-
-
 O	O
 Tour	O
 de	O
@@ -18675,7 +18452,6 @@ principado	O
 monegasco	O
 .	O
 
-
 O	O
 início	O
 do	O
@@ -18696,7 +18472,6 @@ de	O
 Fórmula	O
 1	O
 .	O
-
 
 ``	O
 O	O
@@ -18731,7 +18506,6 @@ a	O
 decisão	O
 .	O
 
-
 O	O
 Tour	O
 de	O
@@ -18747,7 +18521,6 @@ de	O
 anos	O
 ausente	O
 .	O
-
 
 IX	O
 
@@ -18800,7 +18573,6 @@ seu	O
 corpo	O
 decrépito	O
 .	O
-
 
 -	O
 Araquém	B-PESSOA
@@ -19619,7 +19391,6 @@ uma	O
 palmeira	O
 .	O
 
-
 UNIDADE	O
 1	O
 
@@ -19937,12 +19708,12 @@ ossos	O
 e	O
 das	O
 vísceras	O
--LRB-	O
+(	O
 fígado	O
 ,	O
 rins	O
 etc.	O
--RRB-	O
+)	O
 .	O
 O	O
 indivíduo	O
@@ -20065,7 +19836,6 @@ vida	O
 -LSB-	O
 tabela	O
 -RSB-	O
-
 
 Após	O
 dois	O
@@ -20949,7 +20719,7 @@ intelectual	O
 diz	O
 ela	O
 .	O
--LRB-	O
+(	O
 Do	O
 artigo	O
 Fonte	O
@@ -20969,10 +20739,8 @@ de	O
 p.	O
 56-63	O
 .	O
--RRB-	O
+)	O
 .	O
-
-
 
 COISAS	O
 DA	O
@@ -20990,7 +20758,6 @@ BEM	O
 QUE	O
 NUNCA	O
 ACABE	O
-
 
 1	O
 .	O
@@ -21069,7 +20836,6 @@ se	O
 esperam	O
 .	O
 
-
 Os	O
 primeiros	O
 resultados	O
@@ -21089,12 +20855,12 @@ e	O
 mesmo	O
 aí	O
 parece	O
--LRB-	O
+(	O
 ao	O
 Tribunal	B-ORGANIZACAO
 de	I-ORGANIZACAO
 Contas	I-ORGANIZACAO
--RRB-	O
+)	O
 que	O
 as	O
 coisas	O
@@ -21134,7 +20900,6 @@ com	O
 quarenta	O
 anos	O
 .	O
-
 
 2	O
 .	O
@@ -21212,7 +20977,6 @@ até	O
 à	O
 exaustâo	O
 .	O
-
 
 3	O
 .	O
@@ -21322,7 +21086,6 @@ se	O
 esboçaram	O
 .	O
 
-
 4	O
 .	O
 Três	O
@@ -21392,7 +21155,6 @@ um	O
 impulso	O
 sério	O
 .	O
-
 
 5	O
 .	O
@@ -21529,7 +21291,6 @@ no	O
 Hi5	O
 .	O
 
-
 Almeida	B-PESSOA
 Henriques	I-PESSOA
 ,	O
@@ -21541,9 +21302,9 @@ da	I-ORGANIZACAO
 Região	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Viseu	I-ORGANIZACAO
--LRB-	O
+(	O
 AIRV	B-ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 é	O
 o	O
@@ -21554,9 +21315,9 @@ Conselho	B-ORGANIZACAO
 Empresarial	I-ORGANIZACAO
 do	I-ORGANIZACAO
 Centro	I-ORGANIZACAO
--LRB-	O
+(	O
 CEC	B-ORGANIZACAO
--RRB-	O
+)	O
 .	O
 Para	O
 o	O
@@ -21656,9 +21417,9 @@ Diário	B-PESSOA
 Regional	I-PESSOA
 de	I-PESSOA
 Viseu	I-PESSOA
--LRB-	O
+(	O
 DRV	B-PESSOA
--RRB-	O
+)	O
 :	O
 Quais	O
 são	O
@@ -21670,16 +21431,16 @@ Conselho	B-ORGANIZACAO
 Empresarial	I-ORGANIZACAO
 do	I-ORGANIZACAO
 Centro	I-ORGANIZACAO
--LRB-	O
+(	O
 CEC	B-ORGANIZACAO
--RRB-	O
+)	O
 ?	O
 
 Almeida	B-PESSOA
 Henriques	I-PESSOA
--LRB-	O
+(	O
 A.H.	B-PESSOA
--RRB-	O
+)	O
 :	O
 O	O
 CEC	B-ORGANIZACAO
@@ -23687,14 +23448,14 @@ trás	O
 .	O
 Na	O
 AIRV	B-ORGANIZACAO
--LRB-	O
+(	O
 Associação	B-ORGANIZACAO
 Industrial	I-ORGANIZACAO
 da	I-ORGANIZACAO
 Região	I-ORGANIZACAO
 de	I-ORGANIZACAO
 Viseu	I-ORGANIZACAO
--RRB-	O
+)	O
 há	O
 algumas	O
 empresas	O
@@ -23851,8 +23612,6 @@ flexibilidade	O
 mental	O
 .	O
 
-
-
 New	B-LOCAL
 York	I-LOCAL
 
@@ -23860,8 +23619,6 @@ York	I-LOCAL
 
 New	B-LOCAL
 York	I-LOCAL
-
-
 
 No	O
 mês	O
@@ -23915,8 +23672,6 @@ numa	O
 candidatura	O
 independente	O
 .	O
-
-
 
 E	O
 se	O
@@ -24002,8 +23757,6 @@ no	O
 cargo	O
 .	O
 
-
-
 Este	O
 cenário	O
 deverá	O
@@ -24086,7 +23839,7 @@ garantia	O
 de	O
 derrota	O
 eleitoral	O
--LRB-	O
+(	O
 que	O
 o	O
 digam	O
@@ -24097,10 +23850,8 @@ ou	O
 
 Kerry	B-PESSOA
 
--RRB-	O
+)	O
 .	O
-
-
 
 Como	O
 recordava	O
@@ -24171,7 +23922,7 @@ New	O
 York	O
 Yankees	O
 
--LRB-	O
+(	O
 que	O
 acabaram	O
 vencedores	O
@@ -24182,10 +23933,8 @@ World	O
 Séries	O
 
 ''	O
--RRB-	O
+)	O
 .	O
-
-
 
 Para	O
 uma	O
@@ -24216,7 +23965,7 @@ servem	O
 para	O
 angariar	O
 fundos	O
--LRB-	O
+(	O
 em	O
 anteriores	O
 eleições	O
@@ -24248,7 +23997,7 @@ muitos	O
 mais	O
 para	O
 gastar	O
--RRB-	O
+)	O
 .	O
 Além	O
 disso	O
@@ -24348,8 +24097,6 @@ de	O
 Lisboa	B-LOCAL
 
 .	O
-
-
 
 MONEY	O
 1	O

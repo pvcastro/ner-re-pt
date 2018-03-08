@@ -23,7 +23,7 @@ for i,line in enumerate(f_str):
 			if not re.match('\n', next_line) and not len(next_line) == 0:
 				f_out.append(line)
 		except IndexError:
-			print 'sem linha em ' + str(i+1)
+			print 'sem linha em ' + str(i+1) + ' linha: ' + f_str[i-1]
 	else:
 		f_out.append(line)
 

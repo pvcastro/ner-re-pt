@@ -7,9 +7,9 @@ do
     
 	FOLDER=././../../../datasets/training/fold-$i
 
-	~/Desenvolvimento/anaconda2/bin/python ../src/cleaner.py $FOLDER'/categories_train.txt'
-	~/Desenvolvimento/anaconda2/bin/python ../src/cleaner.py $FOLDER'/categories_test.txt'
+	~/anaconda2/bin/python ../src/cleaner.py $FOLDER'/categories_train.txt'
+	~/anaconda2/bin/python ../src/cleaner.py $FOLDER'/categories_test.txt'
 
-	~/Desenvolvimento/anaconda2/bin/python ../src/cleaner.py $FOLDER'/filtered_train.txt'
-	~/Desenvolvimento/anaconda2/bin/python ../src/cleaner.py $FOLDER'/filtered_test.txt'
+	~/anaconda2/bin/python ../src/cleaner.py $FOLDER'/filtered_train.txt'
+	~/anaconda2/bin/python ../src/cleaner.py $FOLDER'/filtered_test.txt'
 done

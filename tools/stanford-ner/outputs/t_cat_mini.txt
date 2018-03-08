@@ -141,9 +141,9 @@ Obras	O
 Princípios	OBRA
 de	OBRA
 Psicologia	OBRA
--LRB-	O
+(	O
 1890	TEMPO
--RRB-	O
+)	O
 ,	O
 uma	O
 obra	O
@@ -169,24 +169,24 @@ Ensaios	OBRA
 Sobre	OBRA
 Filosofia	OBRA
 Popular	OBRA
--LRB-	O
+(	O
 1897	TEMPO
--RRB-	O
+)	O
 ,	O
 A	OBRA
 Imortalidade	OBRA
 Humana	OBRA
--LRB-	O
+(	O
 1898	TEMPO
--RRB-	O
+)	O
 ,	O
 Diversidade	OBRA
 da	OBRA
 Experiência	OBRA
 Religiosa	OBRA
--LRB-	O
+(	O
 1902	TEMPO
--RRB-	O
+)	O
 .	O
 Pragmatismo	OBRA
 :	OBRA
@@ -198,9 +198,9 @@ velhas	OBRA
 formas	OBRA
 de	OBRA
 pensar	OBRA
--LRB-	O
+(	O
 1907	TEMPO
--RRB-	O
+)	O
 .	O
 Esta	O
 obra	O
@@ -2223,17 +2223,17 @@ Federação	ORGANIZACAO
 Nacional	ORGANIZACAO
 das	ORGANIZACAO
 Seguradoras	ORGANIZACAO
--LRB-	O
+(	O
 Fenaseg	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 Superintendência	ORGANIZACAO
 de	ORGANIZACAO
 Seguros	ORGANIZACAO
 Privados	ORGANIZACAO
--LRB-	O
+(	O
 Susep	ORGANIZACAO
--RRB-	O
+)	O
 e	O
 o	O
 Ministério	ORGANIZACAO
@@ -2272,9 +2272,9 @@ Nacional	ACONTECIMENTO
 de	ACONTECIMENTO
 Seguros	ACONTECIMENTO
 Privados	ACONTECIMENTO
--LRB-	O
+(	O
 CNSP	ACONTECIMENTO
--RRB-	O
+)	O
 já	O
 no	O
 próximo	O
@@ -2376,9 +2376,9 @@ Estado	ORGANIZACAO
 de	ORGANIZACAO
 São	ORGANIZACAO
 Paulo	ORGANIZACAO
--LRB-	O
+(	O
 Cosesp	ORGANIZACAO
--RRB-	O
+)	O
 .	O
 
 Embora	O
@@ -3904,14 +3904,14 @@ os	O
 programas	O
 do	O
 Office	COISA
--LRB-	O
+(	O
 Word	COISA
 ,	O
 Excel	COISA
 ,	O
 PowerPoint	COISA
 etc.	O
--RRB-	O
+)	O
 .	O
 Segundo	O
 o	O
@@ -4990,7 +4990,7 @@ para	O
 França	LOCAL
 onde	O
 morreu	O
--LRB-	O
+(	O
 tinha	O
 a	O
 minha	O
@@ -4999,7 +4999,7 @@ mais	O
 nova	O
 2	VALOR
 anos	VALOR
--RRB-	O
+)	O
 .	O
 E	O
 eu	O
@@ -7471,7 +7471,7 @@ Selma	PESSOA
 Santiago	PESSOA
 :	O
 Telefax	O
--LRB-21-RRB- 2750049	O
+(21) 2750049	O
 ou	O
 Email	O
 para	O
@@ -8788,9 +8788,9 @@ problemas	O
 pé	O
 na	O
 estrada	O
--LRB-	O
+(	O
 9h55	TEMPO
--RRB-	O
+)	O
 .	O
 
 Este	O
@@ -8826,7 +8826,7 @@ passagem	O
 pela	O
 reserva	O
 Waimiri-Atroari	LOCAL
--LRB-	O
+(	O
 os	O
 120	VALOR
 km	VALOR
@@ -8835,7 +8835,7 @@ estrada	O
 que	O
 a	O
 cortam	O
--RRB-	O
+)	O
 .	O
 
 Pouco	O
@@ -9696,9 +9696,9 @@ refere	O
 pesquisa	O
 e	O
 desenvolvimento	O
--LRB-	O
+(	O
 P&D	ABSTRACCAO
--RRB-	O
+)	O
 estão	O
 deixando	O
 o	O
@@ -9720,9 +9720,9 @@ Sciences	ORGANIZACAO
 et	ORGANIZACAO
 Techniques	ORGANIZACAO
 ''	O
--LRB-	O
+(	O
 OST	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 instituição	O
 francesa	O
@@ -9828,9 +9828,9 @@ Atividade	OBRA
 Econômica	OBRA
 Paulista	OBRA
 ''	O
--LRB-	O
+(	O
 Paep	OBRA
--RRB-	O
+)	O
 ,	O
 que	O
 ouviu	O
@@ -9888,13 +9888,13 @@ empresariado	O
 paulista	O
 .	O
 
--LRB-	O
+(	O
 Análise	O
 da	O
 AcessoCom	ORGANIZACAO
 ,	O
 10/1/2000	TEMPO
--RRB-	O
+)	O
 
 
 
@@ -10228,17 +10228,17 @@ adesivo	O
 dental	O
 Single	COISA
 bond	COISA
--LRB-	O
+(	O
 3M	COISA
--RRB-	O
+)	O
 e	O
 resina	O
 composta	O
 fotopolimerizável	O
 Z100	COISA
--LRB-	O
+(	O
 3M	COISA
--RRB-	O
+)	O
 ,	O
 estocados	O
 a	O
@@ -10345,12 +10345,12 @@ fosfórico	O
 a	O
 35	VALOR
 %	VALOR
--LRB-	O
+(	O
 grupos	O
 1	O
 e	O
 2	O
--RRB-	O
+)	O
 mostraram	O
 menores	O
 graus	O
@@ -10370,10 +10370,10 @@ de	O
 Er	O
 :	O
 YAG	O
--LRB-	O
+(	O
 grupo	O
 3	O
--RRB-	O
+)	O
 .	O
 
 Voltar	O
@@ -10710,7 +10710,7 @@ E-mail	O
 recivil@recivil.com.br	O
 Telefone	O
 :	O
--LRB-031-RRB- 297-2141	O
+(031) 297-2141	O
 
 
 
@@ -11493,7 +11493,7 @@ conceitos	O
 de	O
 geometria	O
 projectiva	O
--LRB-	O
+(	O
 centro	O
 de	O
 projecção	O
@@ -11508,7 +11508,7 @@ convergentes	O
 ponto	O
 de	O
 fuga	O
--RRB-	O
+)	O
 para	O
 criar	O
 os	O
@@ -12130,14 +12130,14 @@ uma	O
 bainha	O
 chamada	O
 neurilema	O
--LRB-	O
+(	O
 análoga	O
 ao	O
 sarcolema	O
 da	O
 fibra	O
 muscular	O
--RRB-	O
+)	O
 e	O
 constitui	O
 a	O
@@ -14471,13 +14471,13 @@ CGTP	ORGANIZACAO
 e	O
 a	O
 UGT	ORGANIZACAO
--LRB-	O
+(	O
 na	O
 sede	O
 desta	O
 última	O
 central	O
--RRB-	O
+)	O
 poderá	O
 desbloquear	O
 anteriores	O
@@ -14705,9 +14705,9 @@ o	O
 português	O
 é	O
 língua	O
--LRB-	O
+(	O
 disciplina	O
--RRB-	O
+)	O
 obrigatória	O
 e	O
 tem	O
@@ -14747,13 +14747,13 @@ despir	O
 o	O
 português	O
 da	O
--LRB-	O
+(	O
 s	O
--RRB-	O
+)	O
 farda	O
--LRB-	O
+(	O
 s	O
--RRB-	O
+)	O
 que	O
 o	O
 vestiam	O
@@ -14799,9 +14799,9 @@ abordagem	O
 comunicativa	O
 e	O
 a	O
--LRB-	O
+(	O
 outros	O
--RRB-	O
+)	O
 novos	O
 rumos	O
 da	O
@@ -14960,9 +14960,9 @@ de	O
 Juazeiro	LOCAL
 do	LOCAL
 Norte	LOCAL
--LRB-	O
+(	O
 CE	LOCAL
--RRB-	O
+)	O
 ,	O
 mas	O
 nunca	O
@@ -15478,10 +15478,10 @@ Oates	PESSOA
 Joyce	PESSOA
 Carol	PESSOA
 
--LRB-	O
+(	O
 1938	TEMPO
 -	TEMPO
--RRB-	O
+)	O
 
 
 Escritora	O
@@ -15561,9 +15561,9 @@ a	O
 comédia	O
 Unholy	OBRA
 Loves	OBRA
--LRB-	O
+(	O
 1979	TEMPO
--RRB-	O
+)	O
 ,	O
 o	O
 terror	O
@@ -15572,17 +15572,17 @@ de	O
 A	OBRA
 Bloodsmoor	OBRA
 Romance	OBRA
--LRB-	O
+(	O
 1982	TEMPO
--RRB-	O
+)	O
 e	O
 o	O
 thriller	O
 Kindred	OBRA
 Passions	OBRA
--LRB-	O
+(	O
 1987	TEMPO
--RRB-	O
+)	O
 .	O
 
 
@@ -15694,9 +15694,9 @@ iniciou	O
 a	O
 obra	O
 Bellefleur	OBRA
--LRB-	O
+(	O
 1980	TEMPO
--RRB-	O
+)	O
 ,	O
 o	O
 primeiro	O
@@ -15737,29 +15737,29 @@ incluem-se	O
 With	OBRA
 Shuddering	OBRA
 Fall	OBRA
--LRB-	O
+(	O
 1964	TEMPO
--RRB-	O
+)	O
 ,	O
 A	OBRA
 Garden	OBRA
 of	OBRA
 Earthly	OBRA
 Delights	OBRA
--LRB-	O
+(	O
 1967	TEMPO
--RRB-	O
+)	O
 ,	O
 Expensive	OBRA
 People	OBRA
--LRB-	O
+(	O
 1968	TEMPO
--RRB-	O
+)	O
 ,	O
 Them	OBRA
--LRB-	O
+(	O
 1969	TEMPO
--RRB-	O
+)	O
 ,	O
 vencedor	O
 do	O
@@ -15770,9 +15770,9 @@ Book	OUTRO
 ''	OUTRO
 ,	O
 Wonderland	OBRA
--LRB-	O
+(	O
 1971	TEMPO
--RRB-	O
+)	O
 ,	O
 Do	OBRA
 with	OBRA
@@ -15780,20 +15780,20 @@ Me	OBRA
 What	OBRA
 You	OBRA
 Will	OBRA
--LRB-	O
+(	O
 1973	TEMPO
--RRB-	O
+)	O
 ,	O
 The	OBRA
 Assassins	OBRA
--LRB-	O
+(	O
 1975	TEMPO
--RRB-	O
+)	O
 ,	O
 Childwold	OBRA
--LRB-	O
+(	O
 1976	TEMPO
--RRB-	O
+)	O
 ,	O
 The	OBRA
 Triumph	OBRA
@@ -15801,51 +15801,51 @@ of	OBRA
 the	OBRA
 Spider	OBRA
 Monkey	OBRA
--LRB-	O
+(	O
 1976	TEMPO
--RRB-	O
+)	O
 ,	O
 Son	OBRA
 of	OBRA
 the	OBRA
 Morning	OBRA
--LRB-	O
+(	O
 1978	TEMPO
--RRB-	O
+)	O
 ,	O
 Mysteries	OBRA
 of	OBRA
 Winterburn	OBRA
--LRB-	O
+(	O
 1984	TEMPO
--RRB-	O
+)	O
 ,	O
 Solstice	OBRA
--LRB-	O
+(	O
 1985	TEMPO
--RRB-	O
+)	O
 ,	O
 Marya	OBRA
 :	OBRA
 A	OBRA
 Life	OBRA
--LRB-	O
+(	O
 1986	TEMPO
--RRB-	O
+)	O
 ,	O
 You	OBRA
 Must	OBRA
 Remember	OBRA
 This	OBRA
--LRB-	O
+(	O
 1987	TEMPO
--RRB-	O
+)	O
 ,	O
 American	OBRA
 Appetites	OBRA
--LRB-	O
+(	O
 1989	TEMPO
--RRB-	O
+)	O
 ,	O
 Because	OBRA
 It	OBRA
@@ -15858,76 +15858,76 @@ It	OBRA
 Is	OBRA
 My	OBRA
 Heart	OBRA
--LRB-	O
+(	O
 1990	TEMPO
--RRB-	O
+)	O
 ,	O
 Black	OBRA
 Water	OBRA
--LRB-	O
+(	O
 1992	TEMPO
--RRB-	O
+)	O
 ,	O
 Foxfire	OBRA
--LRB-	O
+(	O
 1993	TEMPO
--RRB-	O
+)	O
 ,	O
 What	OBRA
 I	OBRA
 Lived	OBRA
 For	OBRA
--LRB-	O
+(	O
 1993	TEMPO
--RRB-	O
+)	O
 ,	O
 First	OBRA
 Love	OBRA
--LRB-	O
+(	O
 1996	TEMPO
--RRB-	O
+)	O
 ,	O
 We	OBRA
 Were	OBRA
 the	OBRA
 Mulvaneys	OBRA
--LRB-	O
+(	O
 1996	TEMPO
--RRB-	O
+)	O
 ,	O
 Zombie	OBRA
--LRB-	O
+(	O
 1996	TEMPO
--RRB-	O
+)	O
 ,	O
 On	OBRA
 Boxing	OBRA
--LRB-	O
+(	O
 1997	TEMPO
--RRB-	O
+)	O
 ,	O
 Come	OBRA
 Meet	OBRA
 Muffin	OBRA
 !	OBRA
--LRB-	O
+(	O
 1998	TEMPO
--RRB-	O
+)	O
 ,	O
 Broke	OBRA
 Heart	OBRA
 Blues	OBRA
--LRB-	O
+(	O
 1999	TEMPO
--RRB-	O
+)	O
 ,	O
 My	OBRA
 Heart	OBRA
 Laid	OBRA
 Bare	OBRA
--LRB-	O
+(	O
 1999	TEMPO
--RRB-	O
+)	O
 ,	O
 Starr	OBRA
 Bright	OBRA
@@ -15936,34 +15936,34 @@ Be	OBRA
 With	OBRA
 You	OBRA
 Soon	OBRA
--LRB-	O
+(	O
 2000	TEMPO
--RRB-	O
+)	O
 ,	O
 The	OBRA
 Barrens	OBRA
--LRB-	O
+(	O
 2001	TEMPO
--RRB-	O
+)	O
 ,	O
 Beasts	OBRA
--LRB-	O
+(	O
 2002	TEMPO
--RRB-	O
+)	O
 ,	O
 Big	OBRA
 Mouth	OBRA
 and	OBRA
 Ugly	OBRA
 Girl	OBRA
--LRB-	O
+(	O
 2002	TEMPO
--RRB-	O
+)	O
 e	O
 Middle-Age	OBRA
--LRB-	O
+(	O
 2002	TEMPO
--RRB-	O
+)	O
 .	O
 
 
@@ -16161,24 +16161,24 @@ titular	O
 :	O
 saíram	O
 Celson	PESSOA
--LRB-	O
+(	O
 goleiro	O
--RRB-	O
+)	O
 ,	O
 Samis	PESSOA
--LRB-	O
+(	O
 lateral	O
--RRB-	O
+)	O
 ,	O
 Arilson	PESSOA
--LRB-	O
+(	O
 volante	O
--RRB-	O
+)	O
 e	O
 Washington	PESSOA
--LRB-	O
+(	O
 atacante	O
--RRB-	O
+)	O
 ;	O
 
 foram	O
@@ -16501,9 +16501,9 @@ Rio	LOCAL
 Grande	LOCAL
 do	LOCAL
 Norte	LOCAL
--LRB-	O
+(	O
 Brasil	LOCAL
--RRB-	O
+)	O
 .	O
 Professora	PESSOA
 e	O
@@ -16531,9 +16531,9 @@ ao	O
 Partido	ORGANIZACAO
 Socialista	ORGANIZACAO
 Brasileiro	ORGANIZACAO
--LRB-	O
+(	O
 PSB	ORGANIZACAO
--RRB-	O
+)	O
 .	O
 
 
@@ -16552,7 +16552,7 @@ Norte	ORGANIZACAO
 onde	O
 é	O
 Professora	PESSOA
--LRB-	O
+(	O
 atualmente	O
 licenciada	O
 para	O
@@ -16561,7 +16561,7 @@ o	O
 cargo	O
 de	O
 Governadora	PESSOA
--RRB-	O
+)	O
 do	O
 Departamento	ORGANIZACAO
 de	ORGANIZACAO
@@ -16637,9 +16637,9 @@ Trabalho	ORGANIZACAO
 e	ORGANIZACAO
 Bem-Estar	ORGANIZACAO
 Social	ORGANIZACAO
--LRB-	O
+(	O
 STBS	ORGANIZACAO
--RRB-	O
+)	O
 durante	O
 o	O
 governo	O
@@ -16697,9 +16697,9 @@ Intersindical	ORGANIZACAO
 de	ORGANIZACAO
 Assuntos	ORGANIZACAO
 Parlamentares	ORGANIZACAO
--LRB-	O
+(	O
 DIAP	ORGANIZACAO
--RRB-	O
+)	O
 .	O
 
 
@@ -17513,9 +17513,9 @@ Isabel	PESSOA
 Silvares	PESSOA
 Telefax	O
 :	O
--LRB-	O
+(	O
 11	O
--RRB-	O
+)	O
 3675.0809	O
 e-mail	O
 :	O
@@ -17611,14 +17611,14 @@ Itália	LOCAL
 ,	O
 perto	O
 do	O
--LRB-	O
+(	O
 ''	O
 Comuni	LOCAL
 de	LOCAL
 Mulacio	LOCAL
 ''	O
 ?	O
--RRB-	O
+)	O
 ,	O
 província	O
 de	O
@@ -18166,11 +18166,11 @@ livro	O
 em	O
 francês	O
 de	O
--LRB-	O
+(	O
 Stephan	PESSOA
 ______	O
 ?	O
--RRB-	O
+)	O
 que	O
 a	O
 tradução	O
@@ -18511,13 +18511,13 @@ Henley	PESSOA
 
 
 Exmo	O
--LRB-	O
+(	O
 a	O
--RRB-	O
+)	O
 Sr.	O
--LRB-	O
+(	O
 a	O
--RRB-	O
+)	O
 ,	O
 
 
@@ -19256,7 +19256,7 @@ universo	O
 VECTOR	COISA
 MESONS	COISA
 -	O
--LRB-	O
+(	O
 Também	O
 chamados	O
 de	O
@@ -19268,7 +19268,7 @@ W	COISA
 e	O
 Z	COISA
 bosons	O
--RRB-	O
+)	O
 .	O
 Bosons	O
 que	O
@@ -19426,12 +19426,12 @@ Tecnologia	ORGANIZACAO
 Informacao	O
 :	O
 
--LRB-	O
+(	O
 61	O
--RRB-	O
+)	O
 217.6332	O
 
--LRB-61-RRB- 3211798	O
+(61) 3211798	O
 
 
 
@@ -19493,10 +19493,10 @@ Gunn	OBRA
 
 O	O
 jovem	O
--LRB-	O
+(	O
 34	VALOR
 anos	VALOR
--RRB-	O
+)	O
 ,	O
 talentoso	O
 e	O
@@ -19519,10 +19519,10 @@ que	OBRA
 É	OBRA
 Amor	OBRA
 ''	O
--LRB-	O
+(	O
 High	OBRA
 Time	OBRA
--RRB-	O
+)	O
 só	O
 não	O
 ficou	O
@@ -19585,7 +19585,7 @@ os	O
 dois	O
 acertavam	O
 juntos	O
--LRB-	O
+(	O
 ``	O
 Bonequinha	OBRA
 de	OBRA
@@ -19602,7 +19602,7 @@ A	OBRA
 Pantera	OBRA
 Cor-de-Rosa	OBRA
 ''	O
--RRB-	O
+)	O
 ,	O
 era	O
 uma	O
@@ -19698,9 +19698,9 @@ dia	O
 4	TEMPO
 de	TEMPO
 Maio	TEMPO
--LRB-	O
+(	O
 Sábado	TEMPO
--RRB-	O
+)	O
 ,	O
 às	O
 15	TEMPO
@@ -19941,9 +19941,9 @@ Matos	ORGANIZACAO
 Tel	O
 :	O
 218 438 806	O
--LRB-	O
+(	O
 reservas	O
--RRB-	O
+)	O
 
 
 
@@ -22529,11 +22529,11 @@ bom	O
 ,	O
 como	O
 disse	O
--LRB-	O
+(	O
 Stephan	PESSOA
 ______	O
 ?	O
--RRB-	O
+)	O
 ``	O
 Terra	O
 do	O
@@ -23035,10 +23035,10 @@ no	O
 Canadá	LOCAL
 ,	O
 em	O
--LRB-	O
+(	O
 Windsor	LOCAL
 ?	O
--RRB-	O
+)	O
 ,	O
 são	O
 cidades	O
@@ -23197,10 +23197,10 @@ maio	TEMPO
 já	O
 estava	O
 na	O
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 e	O
 fiquei	O
 até	O
@@ -23278,37 +23278,37 @@ Adolfo	PESSOA
 .	O
 
 
--LRB-	O
+(	O
 fim	O
 da	O
 fita	O
--RRB-	O
+)	O
 
 
--LRB-	O
+(	O
 ''	O
 Comuni	LOCAL
 de	LOCAL
 Mulacio	LOCAL
 ''	O
 ?	O
--RRB-	O
+)	O
 
--LRB-	O
+(	O
 Stephan	PESSOA
 ______	O
 ?	O
--RRB-	O
+)	O
 
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 
--LRB-	O
+(	O
 Windsor	LOCAL
 ?	O
--RRB-	O
+)	O
 
 
 
@@ -23497,10 +23497,10 @@ de	O
 renda	O
 fixa	O
 DI	COISA
--LRB-	O
+(	O
 Depósito	COISA
 Interfinanceiro	COISA
--RRB-	O
+)	O
 .	O
 
 
@@ -23839,15 +23839,15 @@ indiana	O
 :	O
 Miguel	PESSOA
 Castro	PESSOA
--LRB-	O
+(	O
 Argentina	LOCAL
--RRB-	O
+)	O
 e	O
 Alfonso	PESSOA
 Bove	PESSOA
--LRB-	O
+(	O
 Itália	LOCAL
--RRB-	O
+)	O
 .	O
 
 
@@ -23870,18 +23870,18 @@ Neves	PESSOA
 ;	O
 Rui	PESSOA
 Lopes	PESSOA
--LRB-	O
+(	O
 2	VALOR
--RRB-	O
+)	O
 ,	O
 Paulo	PESSOA
 Alves	PESSOA
 e	O
 António	PESSOA
 Ramalho	PESSOA
--LRB-	O
+(	O
 2	VALOR
--RRB-	O
+)	O
 .	O
 
 
@@ -24269,11 +24269,11 @@ Funcionários	ORGANIZACAO
 de	ORGANIZACAO
 Investigação	ORGANIZACAO
 Criminal	ORGANIZACAO
--LRB-	O
+(	O
 ASFIC	ORGANIZACAO
 /	O
 PJ	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 em	O
 representação	O
@@ -24305,11 +24305,11 @@ das	O
 duas	O
 centrais	O
 sindicais	O
--LRB-	O
+(	O
 UGT	ORGANIZACAO
 e	O
 CGTP	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 de	O
 partidos	O
@@ -25774,14 +25774,14 @@ Aliás	O
 ,	O
 cada	O
 parisiense	O
--LRB-	O
+(	O
 existem	O
 muitos	O
 ,	O
 talvez	O
 ?	O
 
--RRB-	O
+)	O
 deveria	O
 levar	O
 ali	O
@@ -25793,12 +25793,12 @@ um	O
 amigo	O
 em	O
 viagem	O
--LRB-	O
+(	O
 seria	O
 demais	O
 ?	O
 
--RRB-	O
+)	O
 .	O
 
 Seja	O
@@ -26521,7 +26521,7 @@ ao	O
 que	O
 Manuel	PESSOA
 ,	O
--LRB-	O
+(	O
 se	O
 ninguém	O
 no	O
@@ -26529,7 +26529,7 @@ tribunal	O
 mentiu	O
 neste	O
 aspecto	O
--RRB-	O
+)	O
 ,	O
 lhe	O
 replicou	O
@@ -26666,9 +26666,9 @@ de	ORGANIZACAO
 Tráfico	ORGANIZACAO
 de	ORGANIZACAO
 Estupefacientes	ORGANIZACAO
--LRB-	O
+(	O
 DCITE	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 realizou	O
 recentemente	O
@@ -27228,13 +27228,13 @@ que	O
 nascido	O
 na	O
 roça	O
--LRB-	O
+(	O
 donde	O
 vim	O
 com	O
 dous	O
 anos	O
--RRB-	O
+)	O
 e	O
 apesar	O
 dos	O
@@ -27270,11 +27270,11 @@ me	O
 vi	O
 no	O
 alto	O
--LRB-	O
+(	O
 tinha	O
 nove	O
 anos	O
--RRB-	O
+)	O
 ,	O
 sozinho	O
 e	O
@@ -27553,9 +27553,9 @@ pilhérias	O
 
 
 
--LRB-	O
+(	O
 todos	O
--RRB-	O
+)	O
 Ação/Aventura	COISA
 Cinema	COISA
 Brasileiro	COISA
@@ -28055,9 +28055,9 @@ da	O
 noveleta	O
 Nga	OBRA
 mutúri	OBRA
--LRB-	O
+(	O
 1882	TEMPO
--RRB-	O
+)	O
 ,	O
 de	O
 Alfredo	PESSOA
@@ -28066,7 +28066,7 @@ Troni	PESSOA
 caracteriza-se	O
 pelo	O
 Baixo-romantismo	ABSTRACCAO
--LRB-	O
+(	O
 aplicamos	O
 aqui	O
 ,	O
@@ -28082,7 +28082,7 @@ Mendonça	PESSOA
 relativa	O
 a	O
 Moçambique	LOCAL
--RRB-	O
+)	O
 ,	O
 de	O
 clara	O
@@ -28185,7 +28185,7 @@ de	O
 apreço	O
 pela	O
 aristocracia	O
--LRB-	O
+(	O
 visível	O
 no	O
 agrado	O
@@ -28203,7 +28203,7 @@ deferências	O
 para	O
 os	O
 monárquicos	O
--RRB-	O
+)	O
 convivesse	O
 descomplexadamente	O
 com	O
@@ -28332,7 +28332,7 @@ frequência	O
 como	O
 figura	O
 central	O
--LRB-	O
+(	O
 em	O
 poemas	O
 ou	O
@@ -28340,7 +28340,7 @@ na	O
 noveleta	O
 Nga	OBRA
 mutúri	OBRA
--RRB-	O
+)	O
 ,	O
 chamamos	O
 a	O
@@ -28349,7 +28349,7 @@ fase	O
 a	O
 do	O
 Negro-realismo	ABSTRACCAO
--LRB-	O
+(	O
 termo	O
 criado	O
 para	O
@@ -28366,7 +28366,7 @@ aproximada	O
 dos	O
 Negrismos	ABSTRACCAO
 americanos	O
--RRB-	O
+)	O
 .	O
 Sob	O
 o	O
@@ -28416,13 +28416,13 @@ e	O
 assume	O
 o	O
 negro	O
--LRB-	O
+(	O
 mais	O
 particularmente	O
 ,	O
 a	O
 negra	O
--RRB-	O
+)	O
 como	O
 personagem	O
 ou	O
@@ -28433,7 +28433,7 @@ aspira	O
 integração	O
 na	O
 sociedade	O
--LRB-	O
+(	O
 não	O
 o	O
 conseguindo	O
@@ -28445,7 +28445,7 @@ ou	O
 inacabamento	O
 do	O
 processo	O
--RRB-	O
+)	O
 .	O
 Alfredo	PESSOA
 Troni	PESSOA
@@ -28610,9 +28610,9 @@ d'Angola	ABSTRACCAO
 clamando	O
 no	O
 deserto	O
--LRB-	O
+(	O
 1901	TEMPO
--RRB-	O
+)	O
 ,	O
 abriu	O
 uma	O
@@ -28632,11 +28632,11 @@ humanos	O
 definível	O
 como	O
 nativismo	O
--LRB-	O
+(	O
 início	O
 do	O
 Regionalismo	ABSTRACCAO
--RRB-	O
+)	O
 ,	O
 quer	O
 dizer	O
@@ -28667,9 +28667,9 @@ modo	O
 de	O
 Regionalismo	ABSTRACCAO
 Africano	ABSTRACCAO
--LRB-	O
+(	O
 1901-194l	TEMPO
--RRB-	O
+)	O
 ,	O
 seja	O
 o	O
@@ -28687,12 +28687,12 @@ africanidade	O
 dos	O
 primeiros	O
 momentos	O
--LRB-	O
+(	O
 por	O
 localista	O
 que	O
 seja	O
--RRB-	O
+)	O
 ,	O
 antecedendo	O
 a	O
@@ -28745,10 +28745,10 @@ Manduco	ORGANIZACAO
 de	O
 Pedro	PESSOA
 Cardoso	PESSOA
--LRB-	O
+(	O
 Cabo	LOCAL
 Verde	LOCAL
--RRB-	O
+)	O
 ,	O
 em	O
 ''	O
@@ -28763,9 +28763,9 @@ de	O
 Rui	PESSOA
 de	PESSOA
 Noronha	PESSOA
--LRB-	O
+(	O
 Moçambique	LOCAL
--RRB-	O
+)	O
 ,	O
 em	O
 poemas	O
@@ -28774,12 +28774,12 @@ de	O
 Marcelo	PESSOA
 da	PESSOA
 Veiga	PESSOA
--LRB-	O
+(	O
 São	LOCAL
 Tomé	LOCAL
 e	LOCAL
 Príncipe	LOCAL
--RRB-	O
+)	O
 ,	O
 ou	O
 em	O
@@ -28787,9 +28787,9 @@ António	ABSTRACCAO
 de	ABSTRACCAO
 Assis	ABSTRACCAO
 Júnior	ABSTRACCAO
--LRB-	O
+(	O
 Angola	LOCAL
--RRB-	O
+)	O
 ,	O
 transforma-se	O
 numa	O
@@ -28849,12 +28849,12 @@ retórico	O
 
 
 
--LRB-	O
+(	O
 Lei	OBRA
 Complementar	OBRA
 nº	OBRA
 116/2003	OBRA
--RRB-	O
+)	O
 
 
 Programa	O
@@ -28868,7 +28868,7 @@ Introdução	O
 
 
 a	O
--RRB-	O
+)	O
 Natureza	O
 da	O
 norma	O
@@ -28876,20 +28876,20 @@ norma	O
 
 
 b	O
--RRB-	O
+)	O
 Características	O
 fundamentais	O
 
 
 
 c	O
--RRB-	O
+)	O
 Eficácia	O
 
 
 
 d	O
--RRB-	O
+)	O
 Leis	O
 municipais	O
 compatíveis	O
@@ -28904,7 +28904,7 @@ Relevantes	O
 
 
 a	O
--RRB-	O
+)	O
 Fato	O
 Gerador	O
 :	O
@@ -28914,7 +28914,7 @@ irrelevante	O
 
 
 b	O
--RRB-	O
+)	O
 Serviços	O
 provenientes	O
 do	O
@@ -28925,7 +28925,7 @@ incidência	O
 
 
 c	O
--RRB-	O
+)	O
 Serviços	O
 públicos	O
 autorizados	O
@@ -28937,7 +28937,7 @@ imposto	O
 
 
 d	O
--RRB-	O
+)	O
 Denominação	O
 do	O
 serviço	O
@@ -28948,7 +28948,7 @@ fins	O
 de	O
 incidência	O
 e	O
--RRB-	O
+)	O
 Situações	O
 não	O
 sujeitas	O
@@ -28960,7 +28960,7 @@ descritas	O
 em	O
 lei	O
 f	O
--RRB-	O
+)	O
 Tomador	O
 residente	O
 no	O
@@ -28973,7 +28973,7 @@ imposto	O
 
 
 g	O
--RRB-	O
+)	O
 Local	O
 da	O
 prestação	O
@@ -28985,7 +28985,7 @@ cobrança	O
 regra	O
 geral	O
 h	O
--RRB-	O
+)	O
 Atividades	O
 sujeitas	O
 ao	O
@@ -28997,10 +28997,10 @@ prestação	O
 -	O
 exceções	O
 i	O
--RRB-	O
+)	O
 Serviços	O
 contínuos	O
--LRB-	O
+(	O
 ferrovia	O
 ,	O
 rodovia	O
@@ -29008,13 +29008,13 @@ rodovia	O
 dutos	O
 ,	O
 etc.	O
--RRB-	O
+)	O
 -	O
 cobrança	O
 por	O
 território	O
 j	O
--RRB-	O
+)	O
 Exploração	O
 de	O
 rodovias	O
@@ -29024,7 +29024,7 @@ de	O
 cálculo	O
 proporcional	O
 k	O
--RRB-	O
+)	O
 Conceito	O
 de	O
 estabelecimento	O
@@ -29036,7 +29036,7 @@ imposto	O
 
 
 l	O
--RRB-	O
+)	O
 Retenção	O
 na	O
 fonte	O
@@ -29049,7 +29049,7 @@ município	O
 do	O
 tomador	O
 m	O
--RRB-	O
+)	O
 CONSTRUÇÃO	ABSTRACCAO
 CIVIL	ABSTRACCAO
 -	O
@@ -29063,7 +29063,7 @@ de	O
 materiais	O
 fornecidos	O
 n	O
--RRB-	O
+)	O
 Alíquotas	O
 mínima	O
 e	O
@@ -29072,7 +29072,7 @@ máxima	O
 
 
 o	O
--RRB-	O
+)	O
 Nova	O
 Lista	O
 de	O
@@ -29083,7 +29083,7 @@ ampliação	O
 
 
 p	O
--RRB-	O
+)	O
 ATOS	O
 REVOGADOS	O
 
@@ -29225,9 +29225,9 @@ Free	O
 ou	O
 se	O
 preferir	O
--LRB-	O
+(	O
 11	O
--RRB-	O
+)	O
 3067.6700	O
 email	O
 :	O
@@ -29314,12 +29314,12 @@ outros	O
 ``	O
 contras	O
 ''	O
--LRB-	O
+(	O
 partidos	O
 contrários	O
 à	O
 revisão	O
--RRB-	O
+)	O
 exigiram	O
 que	O
 as	O
@@ -29370,14 +29370,14 @@ foi	O
 construída	O
 em	O
 Marília	LOCAL
--LRB-	O
+(	O
 cidade	O
 onde	O
 foi	O
 fundada	O
 o	O
 banco	O
--RRB-	O
+)	O
 com	O
 capacidade	O
 para	O
@@ -31194,7 +31194,7 @@ norte	O
 e	O
 no	O
 nordeste	O
--LRB-	O
+(	O
 Croácia	LOCAL
 Central	LOCAL
 e	O
@@ -31205,7 +31205,7 @@ da	O
 planície	O
 da	O
 Panónia	LOCAL
--RRB-	O
+)	O
 ;	O
 
 montanhas	O
@@ -31229,14 +31229,14 @@ rochosas	O
 do	O
 mar	O
 Adriático	LOCAL
--LRB-	O
+(	O
 Ístria	LOCAL
 ,	O
 costa	O
 norte	O
 e	O
 Dalmácia	LOCAL
--RRB-	O
+)	O
 .	O
 
 A	O
@@ -31275,7 +31275,7 @@ altas	O
 Ronald	PESSOA
 Wilson	PESSOA
 Reagan	PESSOA
--LRB-	O
+(	O
 6	TEMPO
 de	TEMPO
 Fevereiro	TEMPO
@@ -31287,15 +31287,15 @@ de	TEMPO
 Junho	TEMPO
 ,	TEMPO
 2004	TEMPO
--RRB-	O
+)	O
 foi	O
 o	O
 40	VALOR
 .	VALOR
 º	VALOR
--LRB-	O
+(	O
 1981-1989	TEMPO
--RRB-	O
+)	O
 Presidente	PESSOA
 dos	PESSOA
 Estados	PESSOA
@@ -31346,13 +31346,13 @@ que	O
 teve	O
 maior	O
 longevidade	O
--LRB-	O
+(	O
 93	VALOR
 anos	VALOR
 ,	VALOR
 119	VALOR
 dias	VALOR
--RRB-	O
+)	O
 e	O
 o	O
 que	O
@@ -31362,13 +31362,13 @@ com	O
 idade	O
 mais	O
 avançada	O
--LRB-	O
+(	O
 69	VALOR
 anos	VALOR
 ,	VALOR
 349	VALOR
 dias	VALOR
--RRB-	O
+)	O
 .	O
 
 
@@ -31389,9 +31389,9 @@ dois	O
 filhos	O
 de	O
 John	PESSOA
--LRB-	PESSOA
+(	PESSOA
 Jack	PESSOA
--RRB-	PESSOA
+)	PESSOA
 Reagan	PESSOA
 and	O
 Nelle	PESSOA
@@ -31694,9 +31694,9 @@ a	O
 revista	O
 semanal	O
 Veja	COISA
--LRB-	O
+(	O
 http://www.vejaolimpiadas.com.br	O
--RRB-	O
+)	O
 ,	O
 e	O
 páginas	O
@@ -32042,7 +32042,7 @@ Norte-Americana	ACONTECIMENTO
 de	ACONTECIMENTO
 Basquetebol	ACONTECIMENTO
 Profissional	ACONTECIMENTO
--LRB-	O
+(	O
 NBA	ORGANIZACAO
 ,	O
 que	O
@@ -32189,7 +32189,7 @@ cinco	O
 Património	ABSTRACCAO
 Virtual	ABSTRACCAO
 ''	O
--LRB-	O
+(	O
 exploração	O
 dos	O
 monumentos	O
@@ -32200,13 +32200,13 @@ tecnologias	O
 da	O
 realidade	O
 virtual	O
--RRB-	O
+)	O
 ;	O
 ``	O
 Portugal	ABSTRACCAO
 Global	ABSTRACCAO
 ''	O
--LRB-	O
+(	O
 Sagres	LOCAL
 como	O
 antena	O
@@ -32221,13 +32221,13 @@ e	O
 local	O
 dos	O
 portugueses	O
--RRB-	O
+)	O
 ;	O
 ``	O
 Sacra	ABSTRACCAO
 Saturni	ABSTRACCAO
 ''	O
--LRB-	O
+(	O
 Sagres	LOCAL
 como	O
 lugar	O
@@ -32244,7 +32244,7 @@ jogo	O
 de	O
 aventura	O
 gráfica	O
--RRB-	O
+)	O
 ;	O
 ``	O
 Um	ABSTRACCAO
@@ -32252,7 +32252,7 @@ Milhão	ABSTRACCAO
 de	ABSTRACCAO
 Navegadores	ABSTRACCAO
 ''	O
--LRB-	O
+(	O
 Sagres	LOCAL
 como	O
 centro	O
@@ -32268,12 +32268,12 @@ de	O
 visitantes	O
 por	O
 ano	O
--RRB-	O
+)	O
 e	O
 ``	O
 Terràvista	ABSTRACCAO
 ''	O
--LRB-	O
+(	O
 Sagres	LOCAL
 como	O
 ponto	O
@@ -32293,7 +32293,7 @@ de	O
 produtores	O
 de	O
 informação	O
--RRB-	O
+)	O
 .	O
 
 
@@ -34193,9 +34193,9 @@ opção	O
 ``	O
 Envio	O
 rápido	O
--LRB-	O
+(	O
 Turbo	O
--RRB-	O
+)	O
 ''	O
 que	O
 otimiza	O
@@ -34285,10 +34285,10 @@ usando	O
 Múltiplos	O
 SMTP	O
 Públicos	O
--LRB-	O
+(	O
 open	O
 relays	O
--RRB-	O
+)	O
 -	O
 Procura	O
 e	O
@@ -34423,9 +34423,9 @@ http://superemailmarketing.kit.net/	O
 .	O
 
 
--LRB-	O
+(	O
 0xx16	O
--RRB-	O
+)	O
 6	O
 3	O
 2	O
@@ -34532,13 +34532,13 @@ Alexander	ORGANIZACAO
 's	ORGANIZACAO
 Tractor	ORGANIZACAO
 Parts	ORGANIZACAO
--LRB-	O
+(	O
 Partes	ORGANIZACAO
 de	ORGANIZACAO
 Tractor	ORGANIZACAO
 do	ORGANIZACAO
 Alexandre	ORGANIZACAO
--RRB-	O
+)	O
 éum	O
 negócio	O
 de	O
@@ -35014,9 +35014,9 @@ nascimento	O
 
 R	O
 -	O
--LRB-	O
+(	O
 Riso	O
--RRB-	O
+)	O
 Eu	O
 nasci	O
 dia	O
@@ -35174,9 +35174,9 @@ com	O
 casca	O
 e	O
 tudo	O
--LRB-	O
+(	O
 riso	O
--RRB-	O
+)	O
 depois	O
 que	O
 ela	O
@@ -35769,25 +35769,25 @@ Insituto	ORGANIZACAO
 de	ORGANIZACAO
 desenho	ORGANIZACAO
 industrial	ORGANIZACAO
--LRB-	O
+(	O
 IDI	ORGANIZACAO
--RRB-	O
+)	O
 
 Instituto	ORGANIZACAO
 de	ORGANIZACAO
 Desenho	ORGANIZACAO
 Industrial	ORGANIZACAO
--LRB-	O
+(	O
 IDI	ORGANIZACAO
--RRB-	O
+)	O
 1968	TEMPO
 :	O
 :	O
 1986	TEMPO
--LRB-	O
+(	O
 ?	O
 
--RRB-	O
+)	O
 Nacionalidade	O
 Brasil	LOCAL
 O	O
@@ -35896,7 +35896,7 @@ em	O
 organizou	O
 exposições	O
 temáticas	O
--LRB-	O
+(	O
 como	O
 ''	O
 O	OBRA
@@ -35909,7 +35909,7 @@ A	OBRA
 imagem	OBRA
 corporativa	OBRA
 ''	O
--RRB-	O
+)	O
 .	O
 
 Mais	O
@@ -35991,14 +35991,14 @@ em	O
 todos	O
 os	O
 níveis	O
--LRB-	O
+(	O
 do	O
 primeiro	O
 grau	O
 ao	O
 curso	O
 superior	O
--RRB-	O
+)	O
 .	O
 
 Esse	O
@@ -36547,9 +36547,9 @@ relatorio	O
 Information	OBRA
 Society	OBRA
 Index	OBRA
--LRB-	O
+(	O
 ISS	OBRA
--RRB-	O
+)	O
 de	O
 99	TEMPO
 ,	O
@@ -36565,9 +36565,9 @@ pela	O
 International	ORGANIZACAO
 Data	ORGANIZACAO
 Corporation	ORGANIZACAO
--LRB-	O
+(	O
 IDC	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 para	O
 reunir	O
@@ -36858,7 +36858,7 @@ criterios	O
 infra-estrutura	O
 de	O
 computadores	O
--LRB-	O
+(	O
 numero	O
 de	O
 PCs	O
@@ -36904,13 +36904,13 @@ em	O
 software	O
 e	O
 hardware	O
--RRB-	O
+)	O
 ;	O
 
 infra-estrutura	O
 de	O
 informacao	O
--LRB-	O
+(	O
 numero	O
 de	O
 linhas	O
@@ -36960,7 +36960,7 @@ cabo	O
 e	O
 ou	O
 satelite	O
--RRB-	O
+)	O
 ;	O
 
 infra-estrutura	O
@@ -36977,7 +36977,7 @@ primeira	O
 vez	O
 este	O
 ano	O
--LRB-	O
+(	O
 volume	O
 de	O
 faturamento	O
@@ -37008,7 +37008,7 @@ no	O
 setor	O
 de	O
 educacao	O
--RRB-	O
+)	O
 ;	O
 
 e	O
@@ -37018,7 +37018,7 @@ finalmente	O
 a	O
 infra-estrutura	O
 social	O
--LRB-	O
+(	O
 porcentual	O
 da	O
 populacao	O
@@ -37057,7 +37057,7 @@ imprensa	O
 e	O
 liberdades	O
 civis	O
--RRB-	O
+)	O
 .	O
 
 A	O
@@ -37138,9 +37138,9 @@ Uniao	ORGANIZACAO
 Internacional	ORGANIZACAO
 das	ORGANIZACAO
 Telecomunicacoes	ORGANIZACAO
--LRB-	O
+(	O
 UIT	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 Unesco	ORGANIZACAO
 ,	O
@@ -37461,14 +37461,14 @@ em	O
 º	VALOR
 .	O
 
--LRB-	O
+(	O
 O	ORGANIZACAO
 Estado	ORGANIZACAO
 de	ORGANIZACAO
 SP	ORGANIZACAO
 ,	O
 13/12	TEMPO
--RRB-	O
+)	O
 
 ==	O
 A	O
@@ -38439,10 +38439,10 @@ em	O
 data	O
 que	O
 está	O
--LRB-	O
+(	O
 estava	O
 ?	O
--RRB-	O
+)	O
 marcada	O
 numa	O
 placa	O
@@ -38547,13 +38547,13 @@ Senhora	OBRA
 da	OBRA
 Boa	OBRA
 Viagem	OBRA
--LRB-	O
+(	O
 em	O
 péssimo	O
 estado	O
 de	O
 conservação	O
--RRB-	O
+)	O
 e	O
 o	O
 farol	O
@@ -38672,9 +38672,9 @@ pedidos	O
 de	O
 muitas	O
 famílias	O
--LRB-	O
+(	O
 ...	O
--RRB-	O
+)	O
 -	O
 a	O
 Tuna	PESSOA
@@ -38698,7 +38698,7 @@ Minho	PESSOA
 ,	O
 segundo	O
 Zebedeu	PESSOA
--LRB-	O
+(	O
 filho	O
 de	O
 Jacob	PESSOA
@@ -38710,7 +38710,7 @@ e	O
 primo	O
 do	O
 Serafim	PESSOA
--RRB-	O
+)	O
 no	O
 capítulo	O
 4º	VALOR
@@ -38720,7 +38720,7 @@ versículo	O
 ,	O
 alínea	O
 k	O
--RRB-	O
+)	O
 ,	O
 já	O
 com	O
@@ -38824,9 +38824,9 @@ pelos	O
 cantos	O
 do	O
 mundo	O
--LRB-	O
+(	O
 ...	O
--RRB-	O
+)	O
 .	O
 
 Tendo	O
@@ -38895,11 +38895,11 @@ aos	O
 ``	O
 codfich	O
 ''	O
--LRB-	O
+(	O
 não	O
 sabemos	O
 traduzir	O
--RRB-	O
+)	O
 e	O
 presuntos	O
 oferecidos	O
@@ -38932,7 +38932,7 @@ sua	O
 primeira	O
 cassete	O
 comercial	O
--LRB-	O
+(	O
 e	O
 consequente	O
 realização	O
@@ -38957,7 +38957,7 @@ Made	LOCAL
 In	LOCAL
 Portugal	LOCAL
 ''	O
--RRB-	O
+)	O
 estando	O
 ainda	O
 em	O
@@ -38975,12 +38975,12 @@ em	O
 meados	O
 do	O
 século	O
--LRB-	O
+(	O
 no	O
 mês	O
 de	O
 Junho	TEMPO
--RRB-	O
+)	O
 .	O
 
 In	O
@@ -39268,7 +39268,7 @@ fosse	O
 
 O	O
 cetim	O
--LRB-	O
+(	O
 fique	O
 assim	O
 conhecido	O
@@ -39283,7 +39283,7 @@ que	O
 um	O
 preciosíssimo	O
 cabedal	O
--RRB-	O
+)	O
 ,	O
 o	O
 cetim	O
@@ -43378,10 +43378,10 @@ lá	O
 ,	O
 era	O
 a	O
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 ,	O
 se	O
 chamava	O
@@ -43477,10 +43477,10 @@ fechar	O
 as	O
 portas	O
 da	O
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 .	O
 Quando	O
 veio	O
@@ -43547,20 +43547,20 @@ Hidrelétrica	ORGANIZACAO
 que	O
 pertence	O
 a	O
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 .	O
 Depois	O
 da	O
 Santa	ORGANIZACAO
 Hidrelétrica	ORGANIZACAO
 a	O
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 abriu	O
 ,	O
 com	O
@@ -43573,10 +43573,10 @@ escritório	O
 aqui	O
 ,	O
 a	O
--LRB-	O
+(	O
 ITT	ORGANIZACAO
 ?	O
--RRB-	O
+)	O
 ________	O
 Comunications	ORGANIZACAO
 .	O
@@ -44499,7 +44499,7 @@ lisa	O
 de	O
 4	VALOR
 metros	VALOR
--LRB-	O
+(	O
 no	O
 mínimo	O
 ,	O
@@ -44509,7 +44509,7 @@ necessidade	O
 de	O
 longo	O
 alcance	O
--RRB-	O
+)	O
 ,	O
 pode-se	O
 tentar	O
@@ -44612,12 +44612,12 @@ fina	O
 camada	O
 de	O
 cola	O
--LRB-	O
+(	O
 super	O
 bonder	O
 é	O
 recomendável	O
--RRB-	O
+)	O
 em	O
 todo	O
 o	O
@@ -44727,7 +44727,7 @@ de	O
 peso	O
 .	O
 
--LRB-	O
+(	O
 alguns	O
 pescadores	O
 chegam	O
@@ -44742,7 +44742,7 @@ para	O
 auxiliar	O
 no	O
 arremesso	O
--RRB-	O
+)	O
 .	O
 
 Com	O
@@ -46561,7 +46561,7 @@ permitido	O
 normalmente	O
 numa	O
 represa	O
--LRB-	O
+(	O
 sem	O
 ter	O
 em	O
@@ -46571,7 +46571,7 @@ sobreelevações	O
 devidas	O
 a	O
 cheias	O
--RRB-	O
+)	O
 .	O
 Corresponde	O
 ao	O
@@ -46871,12 +46871,12 @@ de	O
 água	O
 máximo	O
 possível	O
--LRB-	O
+(	O
 nível	O
 de	O
 máxima	O
 cheia	O
--RRB-	O
+)	O
 .	O
 
 
@@ -46884,10 +46884,10 @@ cheia	O
 -	O
 Armazenamento	O
 Inativo	O
--LRB-	O
+(	O
 Volume	O
 Morto	O
--RRB-	O
+)	O
 -	O
 Volume	O
 retido	O
@@ -46921,10 +46921,10 @@ Período	O
 de	O
 um	O
 ano	O
--LRB-	O
+(	O
 doze	O
 meses	O
--RRB-	O
+)	O
 baseado	O
 em	O
 critérios	O
@@ -46939,9 +46939,9 @@ Ano	TEMPO
 Médio	TEMPO
 -	O
 Ano	O
--LRB-	O
+(	O
 fictício	O
--RRB-	O
+)	O
 cujas	O
 características	O
 hidráulicas	O
@@ -47062,9 +47062,9 @@ exploração	O
 5	O
 .	O
 Caudais	O
--LRB-	O
+(	O
 Vazão	O
--RRB-	O
+)	O
 
 
 5	O
@@ -47130,9 +47130,9 @@ aproveitamento	O
 -	O
 Caudal	COISA
 Nominal	COISA
--LRB-	O
+(	O
 Turbina	O
--RRB-	O
+)	O
 -	O
 Caudal	O
 para	O
@@ -47149,9 +47149,9 @@ dimensionada	O
 -	O
 Caudal	COISA
 Nominal	COISA
--LRB-	O
+(	O
 Bombas	O
--RRB-	O
+)	O
 -	O
 Caudal	O
 para	O
@@ -47567,11 +47567,11 @@ soma	O
 da	O
 parcela	O
 estimada	O
--LRB-	O
+(	O
 remanescente	O
 +	O
 individualizada	O
--RRB-	O
+)	O
 com	O
 a	O
 inventariada	O
@@ -48100,10 +48100,10 @@ e	O
 da	O
 medula	O
 espinal	O
--LRB-	O
+(	O
 cérebro	O
 espinal	O
--RRB-	O
+)	O
 ,	O
 estes	O
 são	O
@@ -48154,14 +48154,14 @@ o	O
 sistema	O
 nervoso	O
 central	O
--LRB-	O
+(	O
 aferentes	O
--RRB-	O
+)	O
 e	O
 deste	O
--LRB-	O
+(	O
 eferentes	O
--RRB-	O
+)	O
 e	O
 pelos	O
 gânglios	O
@@ -48353,7 +48353,7 @@ fibras	O
 .	O
 As	O
 cadeias	O
--LRB-	O
+(	O
 são	O
 duas	O
 ,	O
@@ -48363,7 +48363,7 @@ cada	O
 lado	O
 da	O
 coluna	O
--RRB-	O
+)	O
 se	O
 chamam	O
 cadeias	O
@@ -48902,9 +48902,9 @@ e	O
 ganhe	O
 um	O
 livro	O
--LRB-	O
+(	O
 e-books	O
--RRB-	O
+)	O
 evangelico	O
 para	O
 sua	O
@@ -48920,13 +48920,13 @@ novidades@sobral.org	O
 
 
 Prezado	O
--LRB-	O
+(	O
 a	O
--RRB-	O
+)	O
 Empreendedor	O
--LRB-	O
+(	O
 a	O
--RRB-	O
+)	O
 ,	O
 
 
@@ -49015,7 +49015,7 @@ obrigada	O
 Cristiane	PESSOA
 -	O
 tel	O
--LRB-11-RRB- 3645-3620	O
+(11) 3645-3620	O
 
 
 Peço	O
@@ -49205,11 +49205,11 @@ nome	O
 deriva	O
 de	O
 Arunda	OUTRO
--LRB-	O
+(	O
 rodeada	O
 por	O
 montanhas	O
--RRB-	O
+)	O
 ,	O
 como	O
 era	O
@@ -49236,7 +49236,7 @@ antigo	O
 ''	O
 de	O
 Ronda	LOCAL
--LRB-	O
+(	O
 nem	O
 o	O
 moderno	O
@@ -49246,7 +49246,7 @@ o	O
 antigo	O
 apenas	O
 escombros	O
--RRB-	O
+)	O
 são	O
 ligados	O
 por	O
@@ -49415,12 +49415,12 @@ interesses	O
 manifestados	O
 por	O
 doadores	O
--LRB-	O
+(	O
 Reino	ORGANIZACAO
 Unido	ORGANIZACAO
 e	O
 Alemanha	ORGANIZACAO
--RRB-	O
+)	O
 e	O
 também	O
 por	O
@@ -49843,21 +49843,21 @@ casas	O
 de	O
 Reinaldo	PESSOA
 Teles	PESSOA
--LRB-	O
+(	O
 dirigente	O
--RRB-	O
+)	O
 ,	O
 Jorge	PESSOA
 Gomes	PESSOA
--LRB-	O
+(	O
 funcionário	O
--RRB-	O
+)	O
 e	O
 António	PESSOA
 Garrido	PESSOA
--LRB-	O
+(	O
 colaborador	O
--RRB-	O
+)	O
 ,	O
 todos	O
 ligados	O
@@ -50996,9 +50996,9 @@ Quércia	ABSTRACCAO
 disse	O
 Itamar	PESSOA
 Borges	PESSOA
--LRB-	O
+(	O
 PMDB	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 de	O
 Santa	LOCAL
@@ -51066,9 +51066,9 @@ deputado	O
 quercista	O
 Alberto	PESSOA
 Goldman	PESSOA
--LRB-	O
+(	O
 PMDB-SP	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 ex-ministro	O
 dos	O
@@ -52192,12 +52192,12 @@ da	O
 Lagoa	LOCAL
 do	LOCAL
 Marinho	LOCAL
--LRB-	O
+(	O
 vista	O
 panorâmica	O
 em	O
 270º	VALOR
--RRB-	O
+)	O
 .	O
 
 O	O
@@ -52259,12 +52259,12 @@ miradouro	O
 da	O
 Pedra	LOCAL
 Bela	LOCAL
--LRB-	O
+(	O
 vista	O
 panorâmica	O
 em	O
 360º	VALOR
--RRB-	O
+)	O
 .	O
 
 Grande	O
@@ -52299,12 +52299,12 @@ de	OBRA
 Pitões	OBRA
 da	OBRA
 Júnias	OBRA
--LRB-	O
+(	O
 vista	O
 panorâmica	O
 em	O
 360º	VALOR
--RRB-	O
+)	O
 .	O
 Actualmente	O
 ,	O
@@ -52369,9 +52369,9 @@ Patrocínio	O
 
 
 Prezado	O
--LRB-	O
+(	O
 a	O
--RRB-	O
+)	O
 Colega	O
 ,	O
 
@@ -52492,11 +52492,11 @@ Coordenação	ORGANIZACAO
 Ana	PESSOA
 Célia	PESSOA
 Castro	PESSOA
--LRB-	O
+(	O
 CPDA	ORGANIZACAO
 /	O
 UFRRJ	ORGANIZACAO
--RRB-	O
+)	O
 ancastro@gbl.com.br	O
 Apoio	O
 técnico	O
@@ -53316,10 +53316,10 @@ Di	ORGANIZACAO
 Tella	ORGANIZACAO
 -	ORGANIZACAO
 Conicet	ORGANIZACAO
--LRB-	O
+(	O
 Buenos	LOCAL
 Aires	LOCAL
--RRB-	O
+)	O
 
 Cristina	PESSOA
 Possas	PESSOA
@@ -53566,9 +53566,9 @@ Janeiro	LOCAL
 
 Tel	O
 :	O
--LRB-	O
+(	O
 021	O
--RRB-	O
+)	O
 224	O
 85	O
 77	O
@@ -53579,14 +53579,14 @@ R	O
 
 
 Düsseldorf	LOCAL
--LRB-	O
+(	O
 também	O
 aportuguesada	O
 na	O
 forma	O
 de	O
 Dusseldórfia	LOCAL
--RRB-	O
+)	O
 é	O
 uma	O
 cidade	O
@@ -53596,9 +53596,9 @@ Alemanha	LOCAL
 capital	O
 do	O
 Estado	ORGANIZACAO
--LRB-	O
+(	O
 Bundesland	ORGANIZACAO
--RRB-	O
+)	O
 da	O
 Renânia	LOCAL
 do	LOCAL
@@ -53622,10 +53622,10 @@ esmagadora	O
 maioria	O
 dos	O
 consultados	O
--LRB-	O
+(	O
 86	VALOR
 %	VALOR
--RRB-	O
+)	O
 acredita	O
 que	O
 Lula	PESSOA
@@ -54675,11 +54675,11 @@ LHE	O
 DÁ	O
 O	O
 DOMÍNIO	O
--LRB-	O
+(	O
 www.seunome.com.br	O
 ou	O
 www.suaempresa.com.br	O
--RRB-	O
+)	O
 INTEIRAMENTE	O
 GRÁTIS	O
 .	O
@@ -54695,7 +54695,7 @@ nos	O
 ligue	O
 agora	O
 mesmo	O
--LRB-92-RRB- 233-8157	O
+(92) 233-8157	O
 /	O
 9148-0766	O
 
@@ -54707,12 +54707,12 @@ só	O
 R$	VALOR
 189,00	VALOR
 reais	VALOR
--LRB-	O
+(	O
 6	VALOR
 links	O
 ou	O
 paginas	O
--RRB-	O
+)	O
 
 
 ou	O
@@ -54794,11 +54794,11 @@ obtém	O
 o	O
 código	O
 fonte	O
--LRB-	O
+(	O
 em	O
 linguagem	O
 Delphi	COISA
--RRB-	O
+)	O
 de	O
 todos	O
 os	O
@@ -55309,14 +55309,14 @@ do	O
 Clube	ACONTECIMENTO
 das	ACONTECIMENTO
 Mulheres	ACONTECIMENTO
--LRB-	O
+(	O
 em	O
 Portugal	LOCAL
 ,	O
 Clube	ACONTECIMENTO
 das	ACONTECIMENTO
 Bigodudas	ACONTECIMENTO
--RRB-	O
+)	O
 os	O
 peladões	O
 invadem	O
@@ -55784,9 +55784,9 @@ e	O
 o	O
 Período	TEMPO
 Imperial	TEMPO
--LRB-	O
+(	O
 1822-1889	TEMPO
--RRB-	O
+)	O
 através	O
 de	O
 textos	O
@@ -55978,10 +55978,10 @@ Napapiiri	LOCAL
 ,	O
 nas	O
 proximidades	O
--LRB-	O
+(	O
 tel.	O
 38-4048	O
--RRB-	O
+)	O
 promove	O
 jantares	O
 com	O
@@ -56011,12 +56011,12 @@ melhor	O
 é	O
 o	O
 Arktikum	ORGANIZACAO
--LRB-	O
+(	O
 leia	O
 reportagem	O
 ao	O
 lado	O
--RRB-	O
+)	O
 .	O
 
 Mas	O
@@ -56188,22 +56188,22 @@ os	O
 tipos	O
 mais	O
 comuns	O
--LRB-	O
+(	O
 veja	O
 exemplos	O
 ao	O
 lado	O
--RRB-	O
+)	O
 estão	O
 o	O
 sistema	O
 de	O
 gaiola	O
--LRB-	O
+(	O
 Gaiola	COISA
 de	COISA
 Faraday	COISA
--RRB-	O
+)	O
 ,	O
 composto	O
 de	O
@@ -56351,9 +56351,9 @@ poderá	O
 ter	O
 diagnóstico	O
 pré-concepcional	O
--LRB-	O
+(	O
 *	O
--RRB-	O
+)	O
 A	O
 causa	O
 do	O
@@ -56521,20 +56521,20 @@ dos	O
 genes	O
 chamados	O
 APOE	ABSTRACCAO
--LRB-	O
+(	O
 alelo	O
 e4	COISA
--RRB-	O
+)	O
 no	O
 cromossomo	O
 
 19	COISA
 e	O
 PS1	COISA
--LRB-	O
+(	O
 alelo	O
 ivs8	COISA
--RRB-	O
+)	O
 no	O
 cromossomo	O
 14	COISA
@@ -56616,9 +56616,9 @@ do	O
 abortamento	O
 .	O
 
--LRB-	O
+(	O
 *	O
--RRB-	O
+)	O
 Agradecemos	O
 ao	O
 Dr.	PESSOA
@@ -57642,14 +57642,14 @@ espectro	O
 www.abola.pt	O
 -	O
 Destaques	O
--LRB-	O
+(	O
 01	VALOR
--RRB-	O
--LRB-	O
+)	O
+(	O
 edição	O
 de	O
 quinta-feira	O
--RRB-	O
+)	O
 
 Já	O
 está	O
@@ -57676,9 +57676,9 @@ Banco	ORGANIZACAO
 Português	ORGANIZACAO
 de	ORGANIZACAO
 Negócios	ORGANIZACAO
--LRB-	O
+(	O
 BPN	ORGANIZACAO
--RRB-	O
+)	O
 ,	O
 em	O
 Lisboa	LOCAL
@@ -58062,7 +58062,7 @@ na	ORGANIZACAO
 Area	ORGANIZACAO
 de	ORGANIZACAO
 Defesa	ORGANIZACAO
--LRB-	O
+(	O
 '	O
 Defense	ORGANIZACAO
 Advanced	ORGANIZACAO
@@ -58070,7 +58070,7 @@ Research	ORGANIZACAO
 Projects	ORGANIZACAO
 Agency	ORGANIZACAO
 '	O
--RRB-	O
+)	O
 nos	O
 ultimos	O
 dois	O
@@ -58117,7 +58117,7 @@ Internet	LOCAL
 de	LOCAL
 Nova	LOCAL
 Geracao	LOCAL
--LRB-	O
+(	O
 no	O
 original	O
 ,	O
@@ -58126,7 +58126,7 @@ Next	ABSTRACCAO
 Generation	ABSTRACCAO
 Internet	ABSTRACCAO
 '	O
--RRB-	O
+)	O
 do	O
 governo	O
 federal	O
@@ -58272,18 +58272,18 @@ na	O
 rede	O
 .	O
 
--LRB-	O
+(	O
 Philadelphia	LOCAL
 Inquirer	LOCAL
 1	TEMPO
 Dez	TEMPO
 99	TEMPO
--RRB-	O
--LRB-	O
+)	O
+(	O
 Edupage	LOCAL
 da	O
 RNP	ORGANIZACAO
--RRB-	O
+)	O
 
 
 
@@ -58613,9 +58613,9 @@ HISTÓRICO	O
 IGREJA	OBRA
 DE	OBRA
 SANTANA	OBRA
--LRB-	O
+(	O
 Padroeira	PESSOA
--RRB-	O
+)	O
 Construída	O
 no	O
 começo	O
@@ -58879,9 +58879,9 @@ intermédio	O
 do	O
 processo	O
 produtivo	O
--LRB-	O
+(	O
 Compound	COISA
--RRB-	O
+)	O
 .	O
 
 A	O
@@ -59052,9 +59052,9 @@ obra	O
 de	O
 Óscar	PESSOA
 Ribas	PESSOA
--LRB-	O
+(	O
 Angola	LOCAL
--RRB-	O
+)	O
 será	O
 o	O
 paradigina	O
@@ -59091,9 +59091,9 @@ Tomaz	PESSOA
 Vieira	PESSOA
 da	PESSOA
 Cruz	PESSOA
--LRB-	O
+(	O
 Angola	LOCAL
--RRB-	O
+)	O
 .	O
 Noutros	O
 ,	O
@@ -59103,9 +59103,9 @@ Albasini	PESSOA
 e	O
 Caetano	PESSOA
 Campo	PESSOA
--LRB-	O
+(	O
 Moçambique	LOCAL
--RRB-	O
+)	O
 ou	O
 ainda	O
 naqueles	O
@@ -59118,13 +59118,13 @@ hesperitano	O
 de	O
 Cabo	LOCAL
 Verde	LOCAL
--LRB-	O
+(	O
 com	O
 José	PESSOA
 Lopes	PESSOA
 e	O
 outros	O
--RRB-	O
+)	O
 ,	O
 se	O
 encontrará	O
@@ -59223,7 +59223,7 @@ telúrico	O
 de	O
 integração	O
 continental	O
--LRB-	O
+(	O
 de	O
 africanidade	O
 ,	O
@@ -59235,7 +59235,7 @@ necessariamente	O
 manifesta	O
 e	O
 veemente	O
--RRB-	O
+)	O
 ,	O
 a	O
 que	O
@@ -59269,17 +59269,17 @@ de	O
 grande	O
 alcance	O
 cultural	O
--LRB-	O
+(	O
 veja-se	O
 o	O
 exemplo	O
 da	O
 Claridade	ABSTRACCAO
--LRB-	O
+(	O
 1936	TEMPO
--RRB-	O
+)	O
 cabo-verdiana	O
--RRB-	O
+)	O
 ou	O
 ,	O
 pelo	O
@@ -59304,7 +59304,7 @@ de	O
 Geraldo	PESSOA
 Bessa	PESSOA
 Victor	PESSOA
--LRB-	O
+(	O
 logo	O
 depois	O
 optando	O
@@ -59316,7 +59316,7 @@ estética	O
 da	O
 luso-tropicalidade	O
 freyriana	O
--RRB-	O
+)	O
 .	O
 Estamos	O
 ,	O
@@ -59332,14 +59332,14 @@ verdadeira	O
 criação	O
 de	O
 crioulidade	O
--LRB-	O
+(	O
 de	O
 assunção	O
 de	O
 uma	O
 diferença	O
 não-portuguesa	O
--RRB-	O
+)	O
 ,	O
 ou	O
 ,	O
@@ -59354,11 +59354,11 @@ funil	O
 de	O
 estrangulamento	O
 histórico	O
--LRB-	O
+(	O
 da	O
 estreita	O
 portugalidade	O
--RRB-	O
+)	O
 .	O
 
 
@@ -59368,9 +59368,9 @@ fase	O
 ,	O
 do	O
 Casticismo	ABSTRACCAO
--LRB-	O
+(	O
 1942-1960	TEMPO
--RRB-	O
+)	O
 ,	O
 surgiu	O
 na	O
@@ -59437,9 +59437,9 @@ Ilha	OBRA
 de	OBRA
 nome	OBRA
 santo	OBRA
--LRB-	O
+(	O
 1942	TEMPO
--RRB-	O
+)	O
 ,	O
 integrado	O
 na	O
@@ -59457,14 +59457,14 @@ português	O
 .	O
 O	O
 Casticismo	ABSTRACCAO
--LRB-	O
+(	O
 termo	O
 que	O
 adoptamos	O
 pela	O
 primeira	O
 vez	O
--RRB-	O
+)	O
 pode	O
 ,	O
 então	O
@@ -59553,9 +59553,9 @@ as	O
 vestes	O
 do	O
 Sócio-realismo	ABSTRACCAO
--LRB-	O
+(	O
 1942-1950/60	TEMPO
--RRB-	O
+)	O
 baseado	O
 no	O
 marxismo	O
@@ -59564,11 +59564,11 @@ na	O
 sua	O
 versão	O
 acrescida	O
--LRB-	O
+(	O
 a	O
 do	O
 marxismo-leninismo	O
--RRB-	O
+)	O
 ,	O
 em	O
 que	O
@@ -59598,7 +59598,7 @@ Português	ORGANIZACAO
 .	O
 O	O
 Sócio-realismo	ABSTRACCAO
--LRB-	O
+(	O
 designação	O
 relativa	O
 às	O
@@ -59611,7 +59611,7 @@ nós	O
 no	O
 presente	O
 trabalho	O
--RRB-	O
+)	O
 foi	O
 a	O
 expressão	O
@@ -59656,7 +59656,7 @@ que	O
 o	O
 Naturalismo	ABSTRACCAO
 brasileiro	O
--LRB-	O
+(	O
 sobretudo	O
 este	O
 ,	O
@@ -59668,7 +59668,7 @@ e	O
 não	O
 o	O
 português	O
--RRB-	O
+)	O
 tenha	O
 sido	O
 recebido	O
@@ -59724,7 +59724,7 @@ produção	O
 de	O
 riquezas	O
 coloniais	O
--LRB-	O
+(	O
 com	O
 seus	O
 contratados	O
@@ -59747,7 +59747,7 @@ e	O
 outros	O
 ,	O
 marginais	O
--RRB-	O
+)	O
 ,	O
 através	O
 de	O
@@ -59786,9 +59786,9 @@ obra	O
 de	O
 Castro	PESSOA
 Soromenho	PESSOA
--LRB-	O
+(	O
 Angola	LOCAL
--RRB-	O
+)	O
 ,	O
 a	O
 primeira	O
@@ -59801,27 +59801,27 @@ Neto	PESSOA
 e	O
 António	PESSOA
 Jacinto	PESSOA
--LRB-	O
+(	O
 Angola	LOCAL
--RRB-	O
+)	O
 ,	O
 de	O
 José	PESSOA
 Craveirinha	PESSOA
--LRB-	O
+(	O
 Moçambique	LOCAL
--RRB-	O
+)	O
 e	O
 de	O
 Francisco	PESSOA
 José	PESSOA
 Tenreiro	PESSOA
--LRB-	O
+(	O
 São	LOCAL
 Tomé	LOCAL
 e	LOCAL
 Príncipe	LOCAL
--RRB-	O
+)	O
 ,	O
 ou	O
 a	O
@@ -59833,19 +59833,19 @@ e	O
 Teixeira	PESSOA
 de	PESSOA
 Sousa	PESSOA
--LRB-	O
+(	O
 Cabo	LOCAL
 Verde	LOCAL
--RRB-	O
+)	O
 ,	O
 e	O
 de	O
 Noémia	PESSOA
 de	PESSOA
 Sousa	PESSOA
--LRB-	O
+(	O
 Moçambique	LOCAL
--RRB-	O
+)	O
 ,	O
 para	O
 verificarmos	O
@@ -59905,9 +59905,9 @@ anos	TEMPO
 assumiram	O
 a	O
 Negritude	ABSTRACCAO
--LRB-	O
+(	O
 1949-1959	TEMPO
--RRB-	O
+)	O
 como	O
 realização	O
 cultural	O
@@ -59932,9 +59932,9 @@ raça	O
 as	O
 culturas	O
 tradicionais	O
--LRB-	O
+(	O
 tribais	O
--RRB-	O
+)	O
 ,	O
 relativas	O
 ao	O
@@ -60042,9 +60042,9 @@ fase	O
 ,	O
 de	O
 Resistência	ABSTRACCAO
--LRB-	O
+(	O
 1961-1974	TEMPO
--RRB-	O
+)	O
 ,	O
 com	O
 a	O
@@ -60505,9 +60505,9 @@ Carl	PESSOA
 Kurt	PESSOA
 von	PESSOA
 Pritsovits	PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 ,	O
 que	O
 era	O
@@ -60563,19 +60563,19 @@ Pritsovits	PESSOA
 ,	O
 o	O
 Tórbero	PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 ,	O
 Sttigart	PESSOA
--LRB-	PESSOA
+(	PESSOA
 ?	PESSOA
--RRB-	PESSOA
+)	PESSOA
 von	PESSOA
 Hulma	PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 A	O
 alemãozada	O
 toda	O
@@ -60617,9 +60617,9 @@ ingleses	O
 .	O
 O	O
 Brodi	PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 ,	O
 esse	O
 pessoal	O
@@ -60787,9 +60787,9 @@ colégio	O
 era	O
 Miss	PESSOA
 Somal	PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 uma	O
 inglesa	O
 ,	O
@@ -61080,9 +61080,9 @@ e	O
 a	O
 Miss	PESSOA
 Hogan	PESSOA
--LRB-	O
+(	O
 ?	O
--RRB-	O
+)	O
 que	O
 ficava	O
 na	O
@@ -63752,9 +63752,9 @@ nos	O
 EUA	LOCAL
 SAN	LOCAL
 DIEGO	LOCAL
--LRB-	O
+(	O
 CNN-AP	LOCAL
--RRB-	O
+)	O
 --	O
 Eles	O
 estão	O
@@ -64923,7 +64923,7 @@ do	O
 Partido	ORGANIZACAO
 da	ORGANIZACAO
 Terra	ORGANIZACAO
--LRB-	O
+(	O
 PT	ORGANIZACAO
 .	O
 
@@ -65219,7 +65219,7 @@ Nacional	ORGANIZACAO
 para	ORGANIZACAO
 Estatisticas	ORGANIZACAO
 Educacionais	ORGANIZACAO
--LRB-	O
+(	O
 '	O
 National	ORGANIZACAO
 Center	ORGANIZACAO
@@ -65227,7 +65227,7 @@ for	ORGANIZACAO
 Education	ORGANIZACAO
 Statistics	ORGANIZACAO
 '	O
--RRB-	O
+)	O
 ,	O
 dos	O
 EUA	LOCAL
@@ -65259,7 +65259,7 @@ de	O
 aula	O
 .	O
 
--LRB-	O
+(	O
 New	LOCAL
 York	LOCAL
 Times	LOCAL
@@ -65270,13 +65270,13 @@ Life	LOCAL
 09	TEMPO
 Jan	TEMPO
 2000	TEMPO
--RRB-	O
+)	O
 e	O
--LRB-	O
+(	O
 Edupage	OUTRO
 da	O
 RNP	ORGANIZACAO
--RRB-	O
+)	O
 
 
 
