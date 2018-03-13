@@ -1,7 +1,7 @@
 #!/bin/bash
 
 printf "\n***** add-IOB full *****\n"
-for i in {0..5}
+for i in {0..9}
 do
 	printf "\n***** fold "$i" *****\n"
     

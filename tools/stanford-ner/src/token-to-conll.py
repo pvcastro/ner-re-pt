@@ -35,15 +35,18 @@ for line in file.splitlines()[3:-1]:
 	elif (not insideEntity) and ignorePattern.match(line): # ignore paragraphs and documents
 		continue
 	else: # not tagging
-		line = line.replace(u'*NL*', '')
 		if line.startswith('<colHAREM'):
 			line = u''
-		if line is u'':
-			to_file += line + '\n'
-			to_clean_file += line + '\n'
-		else:
-			to_file += line + '\tO\n'
-			to_clean_file += line + '\n'
+		for token in line.split():
+			token = token.replace(u'*NL*', '')
+			if token.startswith('<colHAREM'):
+				token = u''
+			if token is u'':
+				to_file += token + '\n'
+				to_clean_file += token + '\n'
+			else:
+				to_file += token + '\tO\n'
+				to_clean_file += token + '\n'
 
 # deal with non-break character, only occurs once
 to_file = re.sub(ur'25\s680/2000\t(\w+)\n', r'25\t\1\n680/2000\t\1\n', to_file, 1, re.U)
