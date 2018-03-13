@@ -1,7 +1,7 @@
 #!/bin/bash
 
 printf "\n***** cleaner full *****\n"
-for i in {0..9}
+for i in {0..5}
 do
 	printf "\n***** fold "$i" *****\n"
     

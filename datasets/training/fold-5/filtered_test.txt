@@ -1,16627 +1,2724 @@
-Nuno	B-PESSOA
-Álvares	I-PESSOA
-Pereira	I-PESSOA
-
-Biografia	O
-
-Nuno	B-PESSOA
-Álvares	I-PESSOA
-Pereira	I-PESSOA
-
-nasceu	O
-na	O
-vila	O
-de	O
-
-Cernache	B-LOCAL
-do	I-LOCAL
-Bonjardim	I-LOCAL
-
-,	O
-concelho	O
-da	O
-
-Sertã	B-LOCAL
-
-.	O
-Era	O
-filho	O
-de	O
-
-Álvaro	B-PESSOA
-Gonçalves	I-PESSOA
-Pereira	I-PESSOA
-
-e	O
-de	O
-
-Iria	B-PESSOA
-Gonçalves	I-PESSOA
-do	I-PESSOA
-Carvalhal	I-PESSOA
-
-.	O
-
-Casou	O
-com	O
-
-Leonor	B-PESSOA
-de	I-PESSOA
-Alvim	I-PESSOA
-
-,	O
-
-em	O
-1377	O
-
-em	O
-
-Vila	B-LOCAL
-Nova	I-LOCAL
-da	I-LOCAL
-Rainha	I-LOCAL
-
-,	O
-freguesia	O
-do	O
-concelho	O
-de	O
-
-Azambuja	B-LOCAL
-
-.	O
-
-Quando	O
-o	O
-
-rei	B-PESSOA
-Fernando	I-PESSOA
-de	O
-Portugal	B-LOCAL
-
-morreu	O
-
-em	O
-1383	O
-
-,	O
-sem	O
-herdeiros	O
-a	O
-não	O
-ser	O
-a	O
-
-princesa	B-PESSOA
-Beatriz	I-PESSOA
-
-casada	O
-com	O
-o	O
-
-rei	B-PESSOA
-João	I-PESSOA
-I	I-PESSOA
-de	O
-Castela	B-LOCAL
-
-,	O
-
-Nuno	B-PESSOA
-
-foi	O
-um	O
-dos	O
-primeiros	O
-nobres	O
-a	O
-apoiar	O
-as	O
-pretensões	O
-de	O
-
-João	B-PESSOA
-
-,	O
-o	O
-
-Mestre	B-PESSOA
-de	I-PESSOA
-Avis	I-PESSOA
-
-à	O
-coroa	O
-.	O
-Apesar	O
-de	O
-ser	O
-filho	O
-ilegítimo	O
-de	O
-
-Pedro	B-PESSOA
-I	I-PESSOA
-
-de	O
-
-Portugal	B-LOCAL
-
-,	O
-
-João	B-PESSOA
-
-afigurava-se	O
-como	O
-uma	O
-hipótese	O
-preferível	O
-à	O
-perda	O
-de	O
-independência	O
-para	O
-os	O
-castelhanos	O
-.	O
-Depois	O
-da	O
-primeira	O
-vitória	O
-de	O
-
-Álvares	B-PESSOA
-Pereira	I-PESSOA
-
-frente	O
-aos	O
-castelhanos	O
-na	O
-batalha	O
-dos	O
-
-Atoleiros	O
-em	O
-Abril	O
-de	O
-1384	O
-
-,	O
-
-João	B-PESSOA
-de	I-PESSOA
-Avis	I-PESSOA
-
-nomeia-o	O
-
-Condestável	O
-
-de	O
-
-Portugal	B-LOCAL
-
-e	O
-
-Conde	O
-de	O
-Ourém	O
-
-.	O
-
-O	O
-génio	O
-militar	O
-de	O
-
-Nuno	B-PESSOA
-Álvares	I-PESSOA
-Pereira	I-PESSOA
-
-foi	O
-decisivo	O
-na	O
-
-Batalha	O
-de	O
-Aljubarrota	O
-
-.	O
-
-O	O
-génio	O
-militar	O
-de	O
-
-Nuno	B-PESSOA
-Álvares	I-PESSOA
-Pereira	I-PESSOA
-
-foi	O
-decisivo	O
-na	O
-
-Batalha	O
-de	O
-Aljubarrota	O
-
-.	O
-
-A	O
-6	O
-de	O
-Abril	O
-de	O
-1385	O
-
-,	O
-
-João	B-PESSOA
-
-é	O
-reconhecido	O
-pelas	O
-cortes	O
-reunidas	O
-em	O
-
-Coimbra	B-LOCAL
-
-como	O
-
-Rei	O
-
-de	O
-
-Portugal	B-LOCAL
-
-.	O
-Esta	O
-posição	O
-de	O
-força	O
-portuguesa	O
-desencadeia	O
-uma	O
-resposta	O
-à	O
-altura	O
-em	O
-
-Castela	B-LOCAL
-
-.	O
-
-João	B-PESSOA
-de	O
-Castela	B-LOCAL
-
-invade	O
-
-Portugal	B-LOCAL
-
-com	O
-vista	O
-a	O
-proteger	O
-os	O
-interesses	O
-de	O
-sua	O
-mulher	O
-
-Beatriz	B-PESSOA
-
-.	O
-
-Álvares	B-PESSOA
-Pereira	I-PESSOA
-
-toma	O
-o	O
-controlo	O
-da	O
-situação	O
-no	O
-terreno	O
-e	O
-inicia	O
-uma	O
-série	O
-de	O
-cercos	O
-a	O
-cidades	O
-leais	O
-a	O
-
-Castela	B-ORGANIZACAO
-
-,	O
-localizadas	O
-principalmente	O
-no	O
-
-Norte	O
-
-do	O
-país	O
-.	O
-
-A	O
-14	O
-de	O
-Agosto	O
-
-,	O
-
-Álvares	B-PESSOA
-Pereira	I-PESSOA
-
-mostra	O
-o	O
-seu	O
-génio	O
-militar	O
-ao	O
-vencer	O
-a	O
-batalha	O
-de	O
-Aljubarrota	O
-à	O
-frente	O
-de	O
-um	O
-pequeno	O
-exército	O
-de	O
-
-6,000	O
-
-portugueses	O
-e	O
-aliados	O
-ingleses	O
-,	O
-contra	O
-as	O
-
-30,000	O
-
-tropas	O
-castelhanas	O
-.	O
-A	O
-batalha	O
-viria	O
-a	O
-ser	O
-decisiva	O
-no	O
-fim	O
-da	O
-instabilidade	O
-política	O
-
-de	O
-1383-1385	O
-
-e	O
-na	O
-consolidação	O
-da	O
-independência	O
-portuguesa	O
-.	O
-Finda	O
-a	O
-ameaça	O
-castelhana	O
-,	O
-
-Nuno	B-PESSOA
-Álvares	I-PESSOA
-Pereira	I-PESSOA
-
-permaneceu	O
-como	O
-condestável	O
-do	O
-reino	O
-e	O
-tornou-se	O
-
-Conde	O
-de	O
-Arraiolos	O
-e	O
-Barcelos	O
-
-.	O
-
-Entre	O
-1385	O
-e	O
-1390	O
-
-,	O
-ano	O
-da	O
-morte	O
-de	O
-
-João	B-PESSOA
-
-de	O
-
-Castela	B-LOCAL
-
-,	O
-dedicou-se	O
-a	O
-realizar	O
-raides	O
-contra	O
-a	O
-fronteira	O
-de	O
-
-Castela	B-LOCAL
-
-,	O
-com	O
-o	O
-objectivo	O
-de	O
-manter	O
-a	O
-pressão	O
-e	O
-dissuadir	O
-o	O
-país	O
-vizinho	O
-de	O
-novos	O
-ataques	O
-.	O
-
-Do	O
-seu	O
-casamento	O
-com	O
-
-Leonor	B-PESSOA
-de	I-PESSOA
-Alvim	I-PESSOA
-
-,	O
-o	O
-
-Condestável	O
-
-teve	O
-apenas	O
-uma	O
-filha	O
-,	O
-
-Beatriz	B-PESSOA
-Pereira	I-PESSOA
-de	I-PESSOA
-Alvim	I-PESSOA
-
-,	O
-que	O
-se	O
-tornou	O
-mulher	O
-de	O
-
-Afonso	B-PESSOA
-
-,	O
-o	O
-primeiro	O
-
-Duque	O
-de	O
-Bragança	O
-
-,	O
-sendo	O
-assim	O
-um	O
-dos	O
-antepassados	O
-da	O
-actual	O
-casa	O
-real	O
-portuguesa	O
-.	O
-Lembrado	O
-como	O
-um	O
-dos	O
-melhores	O
-generais	O
-portugueses	O
-,	O
-abraça	O
-,	O
-
-nos	O
-últimos	O
-anos	O
-
-,	O
-a	O
-vida	O
-religiosa	O
-carmelita	O
-.	O
-
-Nihonline	O
-
-Destaques	O
-
-Conheça	O
-Marcio	B-PESSOA
-Suzuki	I-PESSOA
-,	O
-o	O
-cóuboi	O
-nikkei	O
-que	O
-sonha	O
-seguir	O
-carreira	O
-em	O
-Las	B-LOCAL
-Vegas	I-LOCAL
-nos	O
-Estados	B-LOCAL
-Unidos	I-LOCAL
-.	O
-
-Baladas	O
-:	O
-Confira	O
-as	O
-datas	O
-das	O
-próximas	O
-festas	O
-da	O
-comunidade	O
-jovem	O
-nipo-brasileira	O
-Lançamento	O
-!	O
-
-Maria	B-PESSOA
-Helena	I-PESSOA
-Sato	I-PESSOA
-acaba	O
-de	O
-lançar	O
-o	O
-livro	O
-``	O
-Bonsais	O
-e	O
-Haicais	O
-''	O
-em	O
-prol	O
-da	O
-Igreja	O
-Santa	O
-Cruz	O
-.	O
-
-Dizem	O
-que	O
-a	O
-máquina	O
-tem	O
-derrotado	O
-o	O
-homem	O
-.	O
-
-Nesse	O
-game	O
-é	O
-homem	O
-contra	O
-homem	O
-.	O
-
-O	O
-nosso	O
-reporter	O
-''	O
-Jappa	B-PESSOA
-''	O
-esteve	O
-presente	O
-em	O
-uma	O
-das	O
-edições	O
-do	O
-Mercado	O
-Mundo	O
-Mix	O
-,	O
-confira	O
-a	O
-reportagem	O
-.	O
-
-O	O
-Grupo	O
-Escoteiro	O
-Caramuru	O
-prepara	O
-mais	O
-um	O
-super	O
-Bazar	O
-para	O
-você	O
-!	O
-
-Confira	O
-!	O
-
-Últimas	O
-Notícias	O
-Amazing	O
-Party	O
-:	O
-A	O
-criatividade	O
-e	O
-a	O
-animação	O
-do	O
-pessoal	O
-foi	O
-a	O
-marca	O
-registrada	O
-desta	O
-festa	O
-.	O
-
-Você	O
-sabia	O
-que	O
-o	O
-Kendi	B-PESSOA
-Yamai	I-PESSOA
-(	O
-Planet	B-LOCAL
-Dance	I-LOCAL
-)	O
-é	O
-candidato	O
-a	O
-vereador	O
-na	O
-cidade	O
-de	O
-Sorocaba	B-LOCAL
-?	O
-
-Pois	O
-é	O
-,	O
-tanto	O
-é	O
-verdade	O
-que	O
-a	O
-Nihonline	O
-está	O
-torcendo	O
-para	O
-que	O
-ele	O
-consiga	O
-chegar	O
-lá	O
-.	O
-
-Boa	O
-Sorte	O
-Kendi	B-PESSOA
-!	O
-
-Promoções	O
-Cadastre-se	O
-para	O
-concorrer	O
-a	O
-vip	O
-'s	O
-nas	O
-seguintes	O
-festas	O
-:	O
-
--	O
-Amazing	O
-Party	O
-III	O
--	O
-Metro	O
-Tech	O
-6	O
--	O
-Whisky	O
-Party	O
->	O
-Whisky	O
-Party	O
-(	O
-Campinas	B-LOCAL
-)	O
-:	O
-Aqui	O
-na	O
-Nihonline	O
-você	O
-ganha	O
-desconto	O
-para	O
-esta	O
-super	O
-festa	O
-!	O
-
-Esporte	O
-Diversos	O
-Judo	O
-:	O
-Esse	O
-ano	O
-não	O
-deu	O
-para	O
-a	O
-nossa	O
-Vânia	B-PESSOA
-Ishii	I-PESSOA
-,	O
-mas	O
-você	O
-conseguiu	O
-entender	O
-a	O
-luta	O
-?	O
-
-Se	O
-a	O
-resposta	O
-é	O
-não	O
-,	O
-então	O
-clique	O
-aqui	O
-!	O
-
-Cultura	O
-:	O
-Venha	O
-conhecer	O
-o	O
-Museu	B-ORGANIZACAO
+da	ORGANIZACAO	O
+Boa	B-ORGANIZACAO
+Vontade	I-ORGANIZACAO
+comemora	O	O
+10�	O	O
+.	O	O
+anivers�rio	O	O
+
+A	O	O
+Legi�o	B-ORGANIZACAO
 da	I-ORGANIZACAO
-Imigração	I-ORGANIZACAO
-Japonesa	I-ORGANIZACAO
-,	O
-um	O
-dos	O
-maiores	O
-patrimônios	O
-da	O
-comunidade	O
-nipo-brasileira	O
-.	O
-
-Beisebol	O
-e	O
-Softbol	O
-:	O
-Este	O
-é	O
-um	O
-dos	O
-esportes	O
-que	O
-mais	O
-possui	O
-praticantes	O
-nikkeys	O
-,	O
-venha	O
-saber	O
-um	O
-pouco	O
-mais	O
-sobre	O
-ele	O
-.	O
-
-Abeuni	O
-:	O
-Saiba	O
-um	O
-pouco	O
-mais	O
-sobre	O
-uma	O
-das	O
-miores	O
-entidades	O
-da	O
-comunidade	O
-,	O
-veja	O
-também	O
-o	O
-relato	O
-de	O
-alguns	O
-integrantes	O
-.	O
-
-Atletas	O
-brasileiros	O
-brilham	O
-no	O
-``	O
-Hungarian	O
-Youth	O
-Table	O
-Tennis	O
-World	O
-Festival	O
-''	O
--	O
-na	O
-foto	O
-ao	O
-lado	O
-:	O
-Lincon	B-PESSOA
-Yassuda	I-PESSOA
-,	O
-Gustavo	B-PESSOA
-Tsuboi	I-PESSOA
-e	O
-seu	O
-parceiro	O
-romeno	O
-Ibirapuera	B-LOCAL
-ganha	O
-mudas	O
-de	O
-cerejeira	O
-:	O
-O	O
-parque	O
-do	O
-Ibirapuera	B-LOCAL
-ganhou	O
-100	O
-pés	O
-de	O
-cerejeira	O
-.	O
-
-A	O
-iniciativa	O
-é	O
-da	O
-Comissão	B-ORGANIZACAO
-das	I-ORGANIZACAO
-Cidades	I-ORGANIZACAO
-Irmãs	I-ORGANIZACAO
-São	I-ORGANIZACAO
-Paulo	I-ORGANIZACAO
--	I-ORGANIZACAO
-Osaka	I-ORGANIZACAO
-,	O
-que	O
-plantou-as	O
-próximo	O
-ao	O
-Pavilhão	B-LOCAL
-Japonês	I-LOCAL
-.	O
-
-Coma	O
-à	O
-vontade	O
-:	O
-A	O
-equipe	O
-do	O
-Jornal	B-ORGANIZACAO
-do	I-ORGANIZACAO
-Nikkey	I-ORGANIZACAO
-esteve	O
-pesquisando	O
-um	O
-lado	O
-gostoso	O
-da	O
-Liberdade	O
-em	O
-São	B-LOCAL
-Paulo	I-LOCAL
-.	O
-
-Leia	O
-a	O
-matéria	O
-sobre	O
-alguns	O
-tipos	O
-de	O
-bentô	O
-''	O
-que	O
-podem	O
-ser	O
-encontrados	O
-.	O
-
-Receba	O
-gratuitamente	O
-Há	O
-pouco	O
-das	O
-eleições	O
-,	O
-você	O
-pretende	O
-votar	O
-de	O
-que	O
-maneira	O
-?	O
-
-Já	O
-tenho	O
-candidato	O
-Em	O
-um	O
-conhecido	O
-Em	O
-um	O
-indicado	O
-Branco	O
-ou	O
-Nulo	O
-Não	O
-sei	O
-ainda	O
-Política	O
-de	O
-Privacidade	O
-|	O
-Termos	O
-de	O
-Uso	O
-|	O
-Fale	O
-Conosco	O
-Nihonline.com.br	O
-
--	O
-2000	O
--	O
-Todos	O
-direitos	O
-reservados	O
-
-Protocolo	O
-de	O
-Quioto	O
-
-Decreto	O
-7/2002	O
-,	O
-de	O
-25	O
-de	O
-Março	O
-que	O
-aprova	O
-o	O
-Protocolo	O
-de	O
-Quioto	O
-à	O
-Convenção	O
-Quadro	O
-das	O
-Nações	O
-Unidas	O
-sobre	O
-Alterações	O
-Climáticas	O
-
-Documentos	O
-relacionados	O
-com	O
-o	O
-PNALE	O
-
-Decisão	O
-da	O
-Comissão	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-sobre	O
-o	O
-PNALE	O
-português	O
-
-Comunicado	O
-de	O
-imprensa	O
-da	O
-COMISSÃO	B-ORGANIZACAO
--	O
-``	O
-Comércio	O
-de	O
-Emissões	O
-:	O
-a	O
-Comissão	B-ORGANIZACAO
-deu	O
-o	O
-seu	O
-aval	O
-a	O
-mais	O
-oito	O
-planos	O
-,	O
-abrindo	O
-caminho	O
-para	O
-o	O
-início	O
-do	O
-Comércio	O
-de	O
-Emissões	O
-na	O
-data	O
-prevista	O
-''	O
-(	O
-IP/04/1250	O
-)	O
-
-Plano	O
-Nacional	O
-de	O
-Atribuição	O
-de	O
-Licenças	O
-de	O
-Emissão	O
--	O
-PNALE	O
-2005-2007	O
-(	O
-versão	O
-notificada	O
-à	O
-Comissão	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-)	O
-
-PNALE	O
-2005-2007	O
--	O
-Relatório	O
-da	O
-Consulta	O
-Pública	O
-
-Metodologia	O
-de	O
-Atribuição	O
-de	O
-Licenças	O
-de	O
-Emissão	O
--	O
-PNALE	O
-2005-2007	O
-
-Documentos	O
-relacionados	O
-com	O
-o	O
-Comércio	O
-Europeu	O
-de	O
-Licenças	O
-de	O
-Emissão	O
-
-Directiva	O
-2003/87/CE	O
-do	O
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-e	O
-do	O
-Concelho	B-ORGANIZACAO
-,	O
-de	O
-13	O
-de	O
-Outubro	O
-de	O
-2003	O
-,	O
-relativa	O
-à	O
-criação	O
-de	O
-um	O
-regime	O
-de	O
-comércio	O
-de	O
-licenças	O
-de	O
-emissão	O
-de	O
-gases	O
-com	O
-efeito	O
-de	O
-estufa	O
-na	O
-Comunidade	B-LOCAL
-e	O
-que	O
-altera	O
-a	O
-Directiva	O
-96/61/CE	O
-do	O
-Conselho	B-ORGANIZACAO
-
-Decreto-Lei	O
-n.º	O
-233/2004	O
-,	O
-de	O
-14	O
-de	O
-Dezembro	O
-,	O
-alterado	O
-pelo	O
-Decreto-Lei	O
-n.º	O
-243-A/2004	O
-,	O
-de	O
-31	O
-de	O
-Dezembro	O
-,	O
-que	O
-estabelece	O
-o	O
-regime	O
-de	O
-comércio	O
-de	O
-licenças	O
-de	O
-gases	O
-com	O
-efeito	O
-de	O
-estufa	O
-na	O
-União	B-LOCAL
-Europeia	I-LOCAL
-
-Decisão	O
-da	O
-Comissão	O
-n.º	O
-156/2004	O
-,	O
-de	O
-29	O
-de	O
-Janeiro	O
-de	O
-2004	O
-,	O
-que	O
-estabelece	O
-orientações	O
-para	O
-a	O
-monitorização	O
-e	O
-comunicação	O
-de	O
-informações	O
-relativas	O
-às	O
-emissões	O
-de	O
-gases	O
-com	O
-efeito	O
-de	O
-estufa	O
-
-Regulamento	O
-(	O
-CE	O
-)	O
-n.º	O
-2216/2004	O
-da	O
-Comissão	B-ORGANIZACAO
-de	O
-21	O
-de	O
-Dezembro	O
-de	O
-2004	O
-,	O
-relativo	O
-a	O
-um	O
-sistema	O
-de	O
-registos	O
-normalizado	O
-e	O
-protegido	O
-em	O
-conformidade	O
-com	O
-a	O
-Directiva	O
-2003/87/CE	O
-do	O
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-e	O
-do	O
-Conselho	B-ORGANIZACAO
-e	O
-a	O
-Decisão	O
-n.º	O
-280/2004/CE	O
-do	O
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-e	O
-do	O
-Conselho	B-ORGANIZACAO
-
-International	O
-Emissions	O
-Trading	O
-Association	O
-,	O
-``	O
-Guidelines	O
-for	O
-an	O
-accredited	O
-verification	O
-system	O
-of	O
-the	O
-greenhouse	O
-gas	O
-emissions	O
-within	O
-the	O
-EU	O
-Emissions	O
-Trading	O
-Scheme	O
-''	O
-(	O
-em	O
-inglês	O
-)	O
-
-Directiva	O
-2004/101/CE	O
-do	O
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-e	O
-do	O
-Conselho	B-ORGANIZACAO
-,	O
-de	O
-27	O
-de	O
-Outubro	O
-de	O
-2004	O
-,	O
-que	O
-altera	O
-a	O
-Directiva	O
-2003/87/CE	O
-relativa	O
-à	O
-criação	O
-de	O
-um	O
-regime	O
-de	O
-comércio	O
-de	O
-licenças	O
-de	O
-emissão	O
-de	O
-gases	O
-com	O
-efeito	O
-de	O
-estufa	O
-na	O
-Comunidade	B-LOCAL
-,	O
-no	O
-que	O
-diz	O
-respeito	O
-aos	O
-mecanismos	O
-baseados	O
-em	O
-projectos	O
-do	O
-Protocolo	O
-de	O
-Quioto	O
-
-Mosteiro	B-LOCAL
-de	I-LOCAL
-Santa	I-LOCAL
-Clara-a-Velha	I-LOCAL
-
-O	O
-Mosteiro	B-LOCAL
-de	I-LOCAL
-Santa	I-LOCAL
-Clara-a-Velha	I-LOCAL
-situa-se	O
-na	O
-margem	O
-esquerda	O
-do	O
-Mondego	O
-em	O
-frente	O
-à	O
-cidade	O
-de	O
-Coimbra	B-LOCAL
-,	O
-e	O
-foi	O
-mandado	O
-construir	O
-por	O
-D.	B-PESSOA
-Isabel	I-PESSOA
-de	O
-Aragão	B-LOCAL
-,	O
-em	O
-1314	O
-,	O
-no	O
-local	O
-do	O
-primitivo	O
-núcleo	O
-de	O
-monjas	O
-clarissas	O
-fundado	O
-em	O
-1283	O
-por	O
-D.	B-PESSOA
-Mor	I-PESSOA
-Dias	I-PESSOA
-.	O
-
-História	O
-
-Um	O
-curioso	O
-exemplar	O
-,	O
-óbvio	O
-momento	O
-de	O
-experimentação	O
-portuguesa	O
-do	O
-gótico	O
-,	O
-o	O
-Convento	O
-de	O
-Santa	O
-Clara	O
-de	O
-Coimbra	B-LOCAL
-,	O
-melhor	O
-conhecido	O
-por	O
-Mosteiro	O
-de	O
-Santa	O
-Clara-a-Velha	O
-.	O
-A	O
-fundação	O
-é	O
-posterior	O
-a	O
-1286	O
-,	O
-mas	O
-só	O
-com	O
-o	O
-auxílio	O
-de	O
-D.	B-PESSOA
-Isabel	I-PESSOA
-de	O
-Aragão	B-LOCAL
-,	O
-as	O
-obras	O
-do	O
-edifício	O
-actual	O
-tiveram	O
-início	O
-.	O
-Respeita	O
-,	O
-em	O
-termos	O
-de	O
-planta	O
-e	O
-alçados	O
-,	O
-a	O
-disposição	O
-dos	O
-templos	O
-de	O
-Clarissas	O
--	O
-três	O
-naves	O
-de	O
-sete	O
-tramos	O
-sem	O
-transepto	O
-,	O
-e	O
-cabeceira	O
-com	O
-três	O
-capelas	O
-(	O
-as	O
-dos	O
-extremos	O
-quadrangulares	O
-,	O
-poligonal	O
-a	O
-capela-mor	O
-)	O
-.	O
-
-Ao	O
-mestre	B-PESSOA
-Domingos	I-PESSOA
-Domingues	I-PESSOA
-devem-se	O
-as	O
-primeiras	O
-campanhas	O
-que	O
-decorreram	O
-de	O
-1316	O
-até	O
-1325	O
-,	O
-sendo	O
-depois	O
-sucedido	O
-por	O
-Estevão	B-PESSOA
-Domingues	I-PESSOA
-.	O
-Estevão	B-PESSOA
-cobriu	O
-a	O
-nave	O
-central	O
-de	O
-uma	O
-abóbada	O
-de	O
-berço	O
-quebrado	O
-sustentada	O
-em	O
-arcos	O
-torais	O
-de	O
-grande	O
-porte	O
-,	O
-desistindo	O
-,	O
-ao	O
-que	O
-parece	O
-,	O
-de	O
-a	O
-cobrir	O
-com	O
-cruzaria	O
-de	O
-ogivas	O
-.	O
-Mas	O
-nas	O
-colaterais	O
-optou	O
-claramente	O
-por	O
-este	O
-sistema	O
-,	O
-apesar	O
-de	O
-grandes	O
-imperfeições	O
-técnicas	O
-a	O
-que	O
-não	O
-serão	O
-estranhas	O
-dificuldades	O
-de	O
-implantação	O
-do	O
-templo	O
-,	O
-que	O
-muito	O
-cedo	O
-se	O
-afundaria	O
-nos	O
-campos	O
-alagados	O
-do	O
-rio	O
-Mondego	O
-.	O
-Não	O
-podemos	O
-esquecer	O
-que	O
-o	O
-objectivo	O
-do	O
-mestre	O
-foi	O
-conseguido	O
-:	O
-o	O
-de	O
-construir	O
-um	O
-templo	O
-vertical	O
-,	O
-(	O
-ainda	O
-que	O
-hoje	O
-o	O
-afundamento	O
-e	O
-o	O
-piso	O
-intermédio	O
-construído	O
-nos	O
-impeça	O
-de	O
-perceber	O
-as	O
-proporções	O
-esguias	O
-do	O
-conjunto	O
-)	O
-,	O
-bem	O
-iluminado	O
-por	O
-frestas	O
-laterais	O
-de	O
-grande	O
-altura	O
-.	O
-
-Este	O
-templo	O
-inscreve-se	O
-pela	O
-sua	O
-importância	O
-enquanto	O
-estaleiro-escola	O
-,	O
-numa	O
-conjuntura	O
-de	O
-gradual	O
-influência	O
-e	O
-aceitação	O
-dos	O
-Franciscanos	O
-na	O
-corte	O
-e	O
-na	O
-sociedade	O
-em	O
-geral	O
-:	O
-a	O
-rainha	B-PESSOA
-D.	I-PESSOA
-Isabel	I-PESSOA
-era	O
-particularmente	O
-dedicada	O
-à	O
-Ordem	O
-,	O
-ingressando	O
-depois	O
-de	O
-viúva	O
-na	O
-Ordem	O
-Terceira	O
-de	O
-São	O
-Francisco	O
-e	O
-fazendo-se	O
-sepultar	O
-numa	O
-magnífica	O
-arca	O
-feral	O
-neste	O
-mesmo	O
-Mosteiro	B-LOCAL
-.	O
-
-Quadrinhos	O
-e	O
-pop	O
-art	O
--	O
-É	O
-neste	O
-processo	O
-de	O
-renovação	O
-da	O
-sociedade	O
-norte-americana	O
-que	O
-a	O
-pop	O
-art	O
-ganha	O
-um	O
-impulso	O
-e	O
-,	O
-de	O
-certa	O
-forma	O
-,	O
-contribui	O
-para	O
-que	O
-os	O
-quadrinhos	O
-voltem	O
-de	O
-novo	O
-a	O
-ser	O
-tratados	O
-como	O
-coisa	O
-séria	O
-.	O
-Os	O
-artistas	O
-procuravam	O
-demolir	O
-a	O
-rigidez	O
-e	O
-a	O
-seriedade	O
-das	O
-artes	O
-plásticas	O
-através	O
-de	O
-ícones	O
-da	O
-sociedade	O
-ocidental	O
-.	O
-Garrafas	O
-de	O
-Coca	O
-Cola	O
-,	O
-latas	O
-de	O
-sopa	O
-,	O
-símbolos	O
-gráficos	O
-usados	O
-em	O
-estações	O
-de	O
-metrô	O
-eram	O
-usados	O
-em	O
-associações	O
-livres	O
-que	O
-permitiam	O
-o	O
-estabelecimento	O
-de	O
-relações	O
-simbólicas	O
-e	O
-afetivas	O
-com	O
-as	O
-obras	O
-em	O
-questão	O
-.	O
-Era	O
-uma	O
-arte	O
-que	O
-se	O
-valia	O
-da	O
-repetição	O
-de	O
-signos	O
-conhecidos	O
-no	O
-intuito	O
-de	O
-buscar	O
-uma	O
-identificação	O
-com	O
-o	O
-público	O
-a	O
-que	O
-ela	O
-se	O
-destinava	O
-.	O
-A	O
-idéia	O
-era	O
-eliminar	O
-as	O
-barreiras	O
-entre	O
-as	O
-culturas	O
-erudita	O
-e	O
-popular	O
-.	O
-
-Sendo	O
-assim	O
-,	O
-é	O
-compreensível	O
-que	O
-os	O
-grandes	O
-nomes	O
-da	O
-pop	O
-art	O
-utilizassem	O
-também	O
-as	O
-histórias	O
-em	O
-quadrinhos	O
-como	O
-um	O
-elemento	O
-a	O
-mais	O
-dentro	O
-de	O
-seus	O
-trabalhos	O
-.	O
-Afinal	O
-,	O
-a	O
-linguagem	O
-das	O
-HQs	O
-,	O
-um	O
-balão	O
-de	O
-texto	O
-ligado	O
-a	O
-uma	O
-imagem	O
-,	O
-possibilita	O
-a	O
-compreensão	O
-imediata	O
-da	O
-mensagem	O
-.	O
-Além	O
-do	O
-que	O
-,	O
-graficamente	O
-,	O
-eles	O
-dispunham	O
-de	O
-inúmeras	O
-referências	O
-que	O
-serviriam	O
-de	O
-parâmetro	O
-para	O
-os	O
-pintores	O
-pop	O
-.	O
-Isso	O
-pode	O
-ser	O
-visto	O
-na	O
-obra	O
-de	O
-Roy	B-PESSOA
-Lichtenstein	I-PESSOA
-e	O
-seus	O
-painéis	O
-diretamente	O
-copiados	O
-de	O
-tiras	O
-de	O
-jornal	O
-e	O
-,	O
-em	O
-menor	O
-escala	O
-,	O
-no	O
-trabalho	O
-de	O
-Andy	B-PESSOA
-Warhol	I-PESSOA
-.	O
-Neste	O
-caso	O
-,	O
-mais	O
-em	O
-decorrência	O
-da	O
-forma	O
-como	O
-ele	O
-dispunha	O
-suas	O
-obras	O
--	O
-utilizando	O
-a	O
-narrativa	O
-seqüencial	O
-em	O
-cores	O
-primárias	O
-nos	O
-célebres	O
-retratos	O
-de	O
-Marilyn	B-PESSOA
-Monroe	I-PESSOA
-,	O
-Mao	B-PESSOA
-Tsé	I-PESSOA
-Tung	I-PESSOA
-e	O
-James	B-PESSOA
-Dean	I-PESSOA
--	O
-do	O
-que	O
-propriamente	O
-por	O
-se	O
-comportar	O
-como	O
-um	O
-quadrinhista	O
-tradicional	O
-.	O
-
-Ao	O
-levar	O
-para	O
-as	O
-galerias	O
-a	O
-estética	O
-das	O
-HQs	O
-,	O
-a	O
-pop	O
-arte	O
-fez	O
-com	O
-que	O
-os	O
-quadrinhos	O
-ganhassem	O
-de	O
-volta	O
-o	O
-respeito	O
-que	O
-haviam	O
-perdido	O
-na	O
-década	O
-de	O
-50	O
-.	O
-Claro	O
-que	O
-isso	O
-não	O
-seria	O
-possível	O
-sem	O
-a	O
-renovação	O
-promovida	O
-pelos	O
-Comix	O
-.	O
-Com	O
-a	O
-pop	O
-art	O
-os	O
-quadrinhos	O
-passaram	O
-a	O
-ser	O
-aceitos	O
-por	O
-uma	O
-camada	O
-mais	O
-intelectualizada	O
-da	O
-sociedade	O
-.	O
-Jules	B-PESSOA
-Feiffer	I-PESSOA
-tem	O
-suas	O
-tiras	O
-publicadas	O
-nas	O
-páginas	O
-da	O
-elitista	O
-New	O
-Yorker	O
-.	O
-Na	O
-Europa	B-LOCAL
-,	O
-François	B-PESSOA
-Truffaut	I-PESSOA
-,	O
-Alain	B-PESSOA
-Resnais	I-PESSOA
-,	O
-Federico	B-PESSOA
-Fellini	I-PESSOA
-e	O
-Umberto	B-PESSOA
-Eco	I-PESSOA
-,	O
-teorizam	O
-sobre	O
-as	O
-HQs	O
-e	O
-declaram	O
-seu	O
-amor	O
-aos	O
-quadrinistas	O
-norte-americanos	O
-.	O
-Com	O
-a	O
-benção	O
-da	O
-pop	O
-art	O
-,	O
-finalmente	O
-as	O
-histórias	O
-em	O
-quadrinhos	O
-viraram	O
-coisa	O
-de	O
-gente	O
-grande	O
-.	O
-
-A	O
-quebra	O
-de	O
-valores	O
-promovida	O
-pela	O
-pop	O
-art	O
-,	O
-pela	O
-contracultura	O
-,	O
-pelos	O
-comix	O
-e	O
-pela	O
-beat	O
-generation	O
-influenciou	O
-ainda	O
-o	O
-jornalismo	O
-e	O
-a	O
-literatura	O
-.	O
-Hunter	B-PESSOA
-S.	I-PESSOA
-Thompson	I-PESSOA
-e	O
-Tom	B-PESSOA
-Wolfe	I-PESSOA
-criam	O
-o	O
-``	O
-new	O
-journalism	O
-''	O
-e	O
-inventam	O
-uma	O
-nova	O
-forma	O
-de	O
-narrativa	O
-,	O
-misturando	O
-a	O
-notícia	O
-a	O
-impressões	O
-pessoais	O
-e	O
-estados	O
-alterados	O
-de	O
-consciência	O
-.	O
-Se	O
-,	O
-por	O
-um	O
-lado	O
-,	O
-Thompson	B-PESSOA
-experimentou	O
-todos	O
-os	O
-tipos	O
-de	O
-substâncias	O
-legais	O
-e	O
-ilegais	O
-para	O
-escrever	O
-Fear	O
-&	O
-Loathing	O
-in	O
-Las	O
-Vegas	O
-,	O
-um	O
-relato	O
-de	O
-suas	O
-maluquices	O
-na	O
-capital	O
-mundial	O
-do	O
-jogo	O
-,	O
-Wolfe	B-PESSOA
-desenvolveu	O
-uma	O
-linguagem	O
-acelerada	O
-e	O
-dinâmica	O
-parecida	O
-com	O
-as	O
-narrativas	O
-das	O
-HQs	O
-.	O
-Inclusive	O
-com	O
-a	O
-utilização	O
-de	O
-onomatopéias	O
-:	O
-
-``	O
-mesmo	O
-que	O
-alguém	O
-quebrasse	O
-a	O
-corrente	O
-e	O
-em	O
-que	O
-todos	O
-fluíam	O
-e	O
-fosse	O
-bater	O
-de	O
-encontro	O
-ao	O
-asfalto	O
-da	O
-Grande	B-LOCAL
-Estrada	I-LOCAL
-a	O
-noventa	O
-quilômetros	O
-por	O
-hora	O
--	O
-eles	O
-possuiam	O
-isso	O
-gravado	O
-na	O
-fita	O
--	O
-e	O
-podiam	O
-tocar	O
-muitas	O
-vezes	O
-em	O
-retardos	O
-variáveis	O
-,	O
-skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee	O
-
-eeeeeeeeeeeeeeeeeeeeeeeee	O
--	O
-Nua	O
-em	O
-Pêlo	O
-cada	O
-vez	O
-mais	O
-esquisita	O
-enrolada	O
-na	O
-manta	O
-preta	O
-,	O
-tremendo	O
-e	O
-depois	O
-se	O
-levantando	O
-feito	O
-uma	O
-alma	O
-penada	O
-...	O
-
-...	O
-É	O
-loucura	O
-,	O
-delírio	O
-,	O
-piração	O
-,	O
-fora	O
-da	O
-realidade	O
-,	O
-com	O
-metade	O
-do	O
-mesencéfalo	O
-repetindo	O
-
-VOCÊ	O
-ESTÁ	O
-MUITO	O
-DOIDO	O
-
-e	O
-a	O
-outra	O
-metade	O
-repetindo	O
-
-VOCÊ	O
-É	O
-DEUS	B-PESSOA
-...	O
-
-Homem	O
-home	O
-on	O
-the	O
-range	O
-,	O
-cuspindo	O
-e	O
-buzinando	O
-fonfonrofonfon	O
-aquela	O
-maldita	O
-ladainha	O
-ao	O
-microfone	O
--	O
-Home	O
-...	O
-home	O
-...	O
-on	O
-the	O
-ra-a-a-a-a-ange	O
-...	O
-''	O
-
-Tom	B-PESSOA
-Wolfe	I-PESSOA
--	O
-O	O
-Teste	O
-do	O
-Ácido	O
-do	O
-Refresco	O
-Elétrico	O
-
-Essa	O
-foi	O
-a	O
-estética	O
-vigente	O
-dos	O
-primeiros	O
-textos	O
-da	O
-literatura	O
-underground	O
-norte-americana	O
-.	O
-Em	O
-livros	O
-como	O
-V	O
-,	O
-O	O
-Leilão	O
-do	O
-Lote	O
-49	O
-e	O
-Arco	O
-Íris	O
-da	O
-Gravidade	O
-,	O
-todos	O
-publicados	O
-no	O
-período	O
-que	O
-vai	O
-de	O
-61	O
-a	O
-73	O
-,	O
-o	O
-escritor	O
-Thomas	B-PESSOA
-Pynchon	I-PESSOA
-freqüentemente	O
-adota	O
-um	O
-modelo	O
-de	O
-narrativa	O
-semelhante	O
-ao	O
-das	O
-histórias	O
-em	O
-quadrinhos	O
-e	O
-nos	O
-diverte	O
-com	O
-aviões	O
-sendo	O
-abatidos	O
-por	O
-uma	O
-rajada	O
-de	O
-tortas	O
-de	O
-creme	O
-,	O
-sátiras	O
-ao	O
-quadrinho	O
-de	O
-herói	O
-(	O
-o	O
-personagem	O
-Homem	B-PESSOA
-Foguete	I-PESSOA
-é	O
-claramente	O
-inspirado	O
-no	O
-Capitão	B-PESSOA
-América	I-PESSOA
-)	O
-,	O
-monstros	O
-imensos	O
-que	O
-surgem	O
-do	O
-nada	O
-,	O
-ratos	O
-falantes	O
-,	O
-uma	O
-rolha	O
-assassina	O
-que	O
-persegue	O
-um	O
-casal	O
-em	O
-pleno	O
-ato	O
-sexual	O
-e	O
-personagens	O
-como	O
-nomes	O
-improváveis	O
-e	O
-absurdos	O
-(	O
-Benny	O
-Profane	O
-,	O
-Oedipa	O
-e	O
-Mucho	O
-Maas	O
-,	O
-Pierce	O
-Inverarity	O
-,	O
-Fausto	O
-Magistral	O
-,	O
-Tyrone	O
-Slothrop	O
-,	O
-General	O
-Pudding	O
-,	O
-Pig	O
-Bodine	O
-...	O
-)	O
-.	O
-Quem	O
-também	O
-se	O
-utiliza	O
-do	O
-humor	O
-quase	O
-infantil	O
-das	O
-HQs	O
-é	O
-Kurt	B-PESSOA
-Vonnegut	I-PESSOA
-em	O
-seu	O
-manifesto	O
-anti-militarista	O
-Matadouro	O
-5	O
-e	O
-no	O
-experimental	O
-Timequake	O
-.	O
-Foi	O
-essa	O
-reciclagem	O
-da	O
-cultura	O
-de	O
-massa	O
-norte-americana	O
-e	O
-a	O
-sua	O
-junção	O
-com	O
-os	O
-valores	O
-emergentes	O
-da	O
-contracultura	O
-que	O
-permitiu	O
-o	O
-surgimento	O
-de	O
-uma	O
-narrativa	O
-genuinamente	O
-pós-moderna	O
-,	O
-um	O
-gênero	O
-que	O
-,	O
-além	O
-de	O
-bastante	O
-divertido	O
-,	O
-deixou	O
-fortes	O
-marcas	O
-na	O
-literatura	O
-norte-americana	O
-.	O
-Dos	O
-anos	O
-60	O
-até	O
-os	O
-dias	O
-de	O
-hoje	O
-.	O
-
-Fonte	O
-:	O
-Kung	O
-Fu	O
-Lounge	O
-(	O
-http://kfl.blogspot.com/	O
-)	O
-.	O
-
-O	O
-
-Pai	B-PESSOA
-Natal	I-PESSOA
-
-,	O
-
-Artur	B-PESSOA
-Jorge	I-PESSOA
-
-e	O
-o	O
-
-BCP	B-ORGANIZACAO
-
-O	O
-
-Governo	B-ORGANIZACAO
-
-russo	O
-proibiu	O
-uma	O
-campanha	O
-de	O
-uma	O
-cadeia	O
-de	O
-distribuição	O
-,	O
-que	O
-tinha	O
-por	O
-lema	O
-''	O
-
-O	O
-Pai	B-PESSOA
-Natal	I-PESSOA
-não	O
-existe	O
-
-''	O
-.	O
-O	O
-argumento	O
-é	O
-que	O
-tal	O
-ideia	O
-era	O
-nefasta	O
-para	O
-as	O
-criancinhas	O
-russas	O
-.	O
-Conclusão	O
-:	O
-o	O
-
-Governo	B-ORGANIZACAO
-
-russo	O
-acredita	O
-no	O
-
-Pai	O
-Natal	O
-
-e	O
-quer	O
-que	O
-as	O
-criancinhas	O
-também	O
-acreditem	O
-.	O
-
-Artur	B-PESSOA
-Jorge	I-PESSOA
-
-foi	O
-,	O
-entretanto	O
-,	O
-escolhido	O
-para	O
-seleccionador	O
-do	O
-Irão	O
-,	O
-equipa	O
-que	O
-se	O
-encontrava	O
-
-há	O
-seis	O
-meses	O
-
-sem	O
-treinador	O
-.	O
-Tendo	O
-em	O
-atenção	O
-o	O
-que	O
-se	O
-tem	O
-passado	O
-
-nos	O
-últimos	O
-anos	O
-
-na	O
-carreira	O
-do	O
-ex-treinador	O
-do	O
-FC	O
-Porto	O
-,	O
-que	O
-nunca	O
-termina	O
-os	O
-contratos	O
-e	O
-acaba	O
-sempre	O
-despedido	O
-com	O
-uma	O
-choruda	O
-indemnização	O
-,	O
-bem	O
-se	O
-pode	O
-dizer	O
-que	O
-a	O
-
-Federação	B-ORGANIZACAO
-Iraniana	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Futebol	I-ORGANIZACAO
-
-acredita	O
-no	O
-
-Pai	B-PESSOA
-Natal	I-PESSOA
-
-.	O
-E	O
-
-Artur	B-PESSOA
-Jorge	I-PESSOA
-
-também	O
-,	O
-claro	O
-.	O
-
-Por	O
-outro	O
-lado	O
-,	O
-a	O
-escolha	O
-do	O
-
-presidente	O
-da	O
-Caixa	B-ORGANIZACAO
-Geral	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Depósitos	I-ORGANIZACAO
-
-para	O
-presidir	O
-ao	O
-
-BCP	B-ORGANIZACAO
-
-só	O
-pode	O
-igualmente	O
-ser	O
-obra	O
-do	O
-
-Pai	B-PESSOA
-Natal	I-PESSOA
-
-.	O
-
-Carlos	B-PESSOA
-Santos	I-PESSOA
-Ferreira	I-PESSOA
-
-é	O
-visto	O
-como	O
-o	O
-homem	O
-que	O
-vai	O
-trazer	O
-a	O
-concórdia	O
-para	O
-um	O
-banco	O
-que	O
-não	O
-vive	O
-em	O
-paz	O
-há	O
-muito	O
-
--	O
-mesmo	O
-que	O
-o	O
-vá	O
-fazer	O
-à	O
-custa	O
-do	O
-banco	O
-do	O
-
-Estado	B-ORGANIZACAO
-
-.	O
-
-Por	O
-isso	O
-,	O
-o	O
-
-ministro	O
-das	O
-Finanças	O
-
-,	O
-que	O
-autorizou	O
-esta	O
-mudança	O
-sem	O
-pestanejar	O
-,	O
-também	O
-deve	O
-acreditar	O
-no	O
-
-Pai	O
-Natal	O
-
-.	O
-Não	O
-lhe	O
-passa	O
-pela	O
-cabeça	O
-que	O
-
-Santos	B-PESSOA
-Ferreira	I-PESSOA
-
-,	O
-com	O
-o	O
-que	O
-sabe	O
-da	O
-
-Caixa	B-ORGANIZACAO
-
-,	O
-fique	O
-em	O
-excelente	O
-posição	O
-para	O
-ganhar	O
-quota	O
-de	O
-mercado	O
-ao	O
-banco	O
-público	O
-,	O
-que	O
-vai	O
-
-este	O
-ano	O
-
-dar	O
-
-mais	O
-de	O
-800	O
-milhões	O
-
-de	O
-lucros	O
-,	O
-dos	O
-quais	O
-
-400	O
-milhões	O
-
-vão	O
-direitinhos	O
-para	O
-os	O
-cofres	O
-do	O
-
-Estado	B-ORGANIZACAO
-
-a	O
-título	O
-de	O
-
-IRC	O
-
-.	O
-Se	O
-
-Santos	B-PESSOA
-Ferreira	I-PESSOA
-
-tiver	O
-sucesso	O
-no	O
-
-BCP	B-ORGANIZACAO
-
-,	O
-quem	O
-vai	O
-sofrer	O
-é	O
-a	O
-
-Caixa	B-ORGANIZACAO
-
--	O
-e	O
-,	O
-por	O
-tabela	O
-,	O
-todos	O
-nós	O
-,	O
-contribuintes	O
-.	O
-Porque	O
-quanto	O
-menos	O
-o	O
-
-Estado	B-ORGANIZACAO
-
-receber	O
-de	O
-dividendos	O
-das	O
-empresas	O
-públicas	O
-,	O
-mais	O
-o	O
-
-Estado	B-ORGANIZACAO
-
-será	O
-tentado	O
-a	O
-vir	O
-buscar-nos	O
-dinheiro	O
-aos	O
-bolsos	O
-.	O
-
-Por	O
-outras	O
-palavras	O
-,	O
-os	O
-únicos	O
-que	O
-não	O
-têm	O
-razões	O
-para	O
-acreditar	O
-no	O
-
-Pai	O
-Natal	O
-
-são	O
-os	O
-contribuintes	O
-portugueses	O
-.	O
-
-Nicolau	B-PESSOA
-Santos	I-PESSOA
-
-Panda	B-ORGANIZACAO
-elege	O
-os	O
-vírus	O
-mais	O
-curiosos	O
-de	O
-2007	O
-
-O	O
-laboratório	O
-anti-malware	O
-da	O
-Panda	B-ORGANIZACAO
-Security	I-ORGANIZACAO
-,	O
-revelou	O
-um	O
-relatório	O
-onde	O
-agrupa	O
-os	O
-``	O
-mais	O
-curiosos	O
-''	O
-exemplos	O
-de	O
-malware	O
-que	O
-emergiram	O
-no	O
-último	O
-semestre	O
-de	O
-2007	O
-.	O
-
-Alguns	O
-exemplos	O
-da	O
-lista	O
-:	O
-
--	O
-O	O
-código	O
-malicioso	O
-``	O
-mais	O
-pontual	O
-''	O
-detectado	O
-nos	O
-últimos	O
-tempos	O
-,	O
-revela	O
-a	O
-Panda	O
-,	O
-foi	O
-o	O
-Trojan	O
-Aifone.A	O
-.	O
-O	O
-nome	O
-não	O
-engana	O
-:	O
-é	O
-um	O
-malware	O
-associado	O
-ao	O
-iPhone	O
-da	O
-Apple	B-ORGANIZACAO
-.	O
-Mal	O
-tinha	O
-acabado	O
-de	O
-ser	O
-lançado	O
-,	O
-já	O
-este	O
-malware	O
-o	O
-promovia	O
-,	O
-mas	O
-com	O
-o	O
-objectivo	O
-de	O
-propagar	O
-cópias	O
-de	O
-si	O
-mesmo	O
-entre	O
-utilizadores	O
-...	O
-
--	O
-``	O
-O	O
-worm	O
-mais	O
-travesso	O
-''	O
-foi	O
-o	O
-RogueMario.A	O
-,	O
-destinado	O
-a	O
-entreteter	O
-os	O
-utilizadores	O
-enquanto	O
-os	O
-infecta	O
-.	O
-Tem	O
-uma	O
-vertente	O
-generosa	O
-,	O
-já	O
-que	O
-foi	O
-desenhado	O
-para	O
-instalar	O
-a	O
-versão	O
-do	O
-jogo	O
-Mario	O
-Bros	O
-de	O
-cada	O
-vez	O
-que	O
-infecta	O
-um	O
-computador	O
-.	O
-
--	O
-A	O
-categoria	O
-Lost	O
-in	O
-Translation	O
-''	O
-vai	O
-para	O
-worms	O
-como	O
-os	O
-MSNFunny.B	O
-,	O
-Mimbot.A	O
-ou	O
-MsnSend.A	O
-,	O
-que	O
-conseguem	O
-enviar	O
-mensagens	O
-em	O
-vários	O
-idiomas	O
-,	O
-ainda	O
-que	O
-em	O
-frases	O
-não	O
-muito	O
-bem	O
-construídas	O
-.	O
-
--	O
-O	O
-Voter.A	O
-é	O
-um	O
-worm	O
-com	O
-``	O
-consciência	O
-cívica	O
-''	O
-,	O
-conta	O
-a	O
-Panda	B-ORGANIZACAO
-.	O
-Convida	O
-os	O
-cidadãos	O
-do	O
-Quénia	B-LOCAL
-a	O
-participarem	O
-em	O
-eleições	O
-e	O
-a	O
-votarem	O
-num	O
-dos	O
-candidatos	O
-.	O
-Uma	O
-ideia	O
-de	O
-aplaudir	O
-,	O
-não	O
-fosse	O
-a	O
-técnica	O
-mostrar	O
-uma	O
-imagem	O
-do	O
-candidato	O
-de	O
-nove	O
-a	O
-nove	O
-segundos	O
-.	O
-
--	O
-O	O
-Trojan	O
-LiveDeath.A	O
-tem	O
-associado	O
-a	O
-si	O
-a	O
-curiosidade	O
-.	O
-Sempre	O
-que	O
-infecta	O
-um	O
-computador	O
-,	O
-abre	O
-uma	O
-consola	O
-de	O
-comandos	O
-e	O
-força	O
-os	O
-utilizadores	O
-a	O
-responderem	O
-a	O
-uma	O
-série	O
-de	O
-perguntas	O
-,	O
-como	O
-``	O
-Qual	O
-a	O
-sua	O
-cor	O
-favorita	O
-?	O
-''	O
-.	O
-O	O
-esforço	O
-de	O
-responder	O
-será	O
-sempre	O
-inglório	O
-:	O
-qualquer	O
-que	O
-seja	O
-a	O
-resposta	O
-o	O
-computador	O
-encerrar-se-á	O
-.	O
-
-Ainda	O
-que	O
-algumas	O
-destas	O
-ameaças	O
-lhe	O
-possam	O
-parecer	O
-interessantes	O
-,	O
-a	O
-Panda	O
-recomenda	O
-o	O
-afastamento	O
-face	O
-a	O
-estes	O
-exemplos	O
-de	O
-malware	O
-.	O
-
-Navios	O
-de	O
-guerra	O
-portugueses	O
-e	O
-espanhóis	O
-em	O
-Leixões	B-LOCAL
-
-Uma	O
-força	O
-naval	O
-de	O
-quatro	O
-navios	O
-de	O
-guerra	O
-portugueses	O
-e	O
-espanhóis	O
-,	O
-com	O
-uma	O
-guarnição	O
-total	O
-de	O
-mais	O
-de	O
-640	O
-tripulantes	O
-,	O
-faz	O
-escala	O
-no	O
+Boa	I-ORGANIZACAO
+Vontade	I-ORGANIZACAO
+comemora	O	O
+amanh�	O	O
+o	O	O
+10�	O	O
+.	O	O
+anivers�rio	O	O
+da	O	O
+sua	O	O
+implanta��o	O	O
+em	O	O
+Portugal	B-LOCAL
+com	O	O
+cerim�nias	O	O
+de	O	O
+car�cter	O	O
+religioso	O	O
+e	O	O
+de	O	O
+conv�vio	O	O
+--	O	O
+disse	O	O
+ontem	O	O
+fonte	O	O
+da	O	O
+organiza��o	O	O
+.	O	O
+
+Uma	O	O
+reuni�o	O	O
+ter�	O	O
+lugar	O	O
+no	O	O
+espa�o	O	O
+de	O	O
+cultura	O	O
+ecum�nica	O	O
+do	O	O
 Porto	B-LOCAL
-de	I-LOCAL
-Leixões	I-LOCAL
-a	O
-06	O
-e	O
-07	O
-de	O
-Fevereiro	O
-,	O
-disse	O
-ontem	O
-fonte	O
-da	O
-Zona	B-ORGANIZACAO
-Marítima	I-ORGANIZACAO
-do	I-ORGANIZACAO
-Norte	I-ORGANIZACAO
-.	O
+,	O	O
+que	O	O
+contar�	O	O
+com	O	O
+a	O	O
+presen�a	O	O
+de	O	O
+benfeitores	O	O
+,	O	O
+colaboradores	O	O
+,	O	O
+amigos	O	O
+e	O	O
+simpatizantes	O	O
+interessados	O	O
+.	O	O
 
-Os	O
-navios	O
-``	O
-Corte	O
-Real	O
-''	O
-,	O
-``	O
-João	O
-Belo	O
-''	O
-,	O
-``	O
-Andalucia	O
-''	O
-e	O
-``	O
-Berrio	O
-''	O
-têm	O
-entre	O
-103	O
-e	O
-140	O
-metros	O
-de	O
-comprimento	O
-e	O
-são	O
-comandados	O
-pelo	O
-capitão	B-PESSOA
-de	I-PESSOA
-mar	I-PESSOA
-e	I-PESSOA
-guerra	I-PESSOA
-Fernando	I-PESSOA
-José	I-PESSOA
-Ribeiro	I-PESSOA
-de	I-PESSOA
-Melo	I-PESSOA
-Gomes	I-PESSOA
-.	O
-
-A	O
-força	O
-naval	O
-,	O
-que	O
-estará	O
-aberta	O
-a	O
-visitas	O
-no	O
-dia	O
-07	O
-,	O
-desloca-se	O
-ao	O
-Porto	B-LOCAL
-de	I-LOCAL
-Leixões	I-LOCAL
-no	O
-âmbito	O
-do	O
-exercício	O
-Contex	O
-99	O
-.	O
-
-Detidos	O
-em	O
-Cuba	B-LOCAL
-dezenas	O
-de	O
-opositores	O
-
-A	O
-polícia	O
-cubana	O
-deteve	O
-sexta-feira	O
-e	O
-sábado	O
-``	O
-várias	O
-dezenas	O
-''	O
-de	O
-opositores	O
-do	O
-regime	O
-,	O
-para	O
-``	O
-impedir	O
-acções	O
-de	O
-apoio	O
-''	O
-a	O
-quatro	O
-importantes	O
-dissidentes	O
-que	O
-deverão	O
-ser	O
-julgados	O
-hoje	O
-.	O
-
-O	O
-anúncio	O
-foi	O
-feito	O
-ontem	O
-pela	O
-Comissão	B-ORGANIZACAO
-Cubana	I-ORGANIZACAO
-dos	I-ORGANIZACAO
-Direitos	I-ORGANIZACAO
-do	I-ORGANIZACAO
-Homem	I-ORGANIZACAO
-e	I-ORGANIZACAO
+A	O	O
+Legi�o	B-ORGANIZACAO
 da	I-ORGANIZACAO
-Reconciliação	I-ORGANIZACAO
-Nacional	I-ORGANIZACAO
-(	O
-sem	O
-estatuto	O
-legal	O
-)	O
-,	O
-que	O
-adiantou	O
-terem	O
-outros	O
-opositores	O
-``	O
-recebido	O
-a	O
-proibição	O
-de	O
-sair	O
-de	O
-casa	O
-''	O
-.	O
-
-Gerardo	B-PESSOA
-Sanchez	I-PESSOA
-,	O
-membro	O
-da	O
-comissão	O
-,	O
-declarou	O
-possuir	O
-uma	O
-lista	O
-confirmada	O
-de	O
-28	O
-pessoas	O
-detidas	O
-em	O
-Havana	B-LOCAL
-e	O
-na	O
-província	O
-vizinha	O
-de	O
-Matanzas	B-LOCAL
-.	O
-
-Entre	O
-os	O
-detidos	O
-figuram	O
-responsáveis	O
-de	O
-grupos	O
-de	O
-defesa	O
-dos	O
-direitos	O
-humanos	O
-sem	O
-estatuto	O
-legal	O
-e	O
-jornalistas	O
-independentes	O
-.	O
-
-Uma	O
-nova	O
-``	O
-Lei	O
-de	O
-protecção	O
-da	O
-independência	O
-nacional	O
-e	O
-da	O
-economia	O
-de	O
-Cuba	O
-''	O
-,	O
-adoptada	O
-a	O
-16	O
-de	O
-Fevereiro	O
-,	O
-permite	O
-aplicar	O
-a	O
-este	O
-tipo	O
-de	O
-militantes	O
-severas	O
-penas	O
-que	O
-podem	O
-ir	O
-até	O
-20	O
-anos	O
-de	O
-prisão	O
-.	O
-
-Sanchez	B-PESSOA
-adiantou	O
-que	O
-os	O
-detidos	O
-ficarão	O
-nessa	O
-condição	O
-a	O
-título	O
-provisório	O
-,	O
-de	O
-maneira	O
-a	O
-serem	O
-``	O
-impedidos	O
-de	O
-comparecer	O
-''	O
-ao	O
-processo	O
-de	O
-Vladimiro	B-PESSOA
-Roca	I-PESSOA
-,	O
-Martha	B-PESSOA
-Beatriz	I-PESSOA
-Roque	I-PESSOA
-,	O
-Gomez	B-PESSOA
-Manzano	I-PESSOA
-e	O
-Félix	B-PESSOA
-Bonne	I-PESSOA
-,	O
-presos	O
-há	O
-19	O
-meses	O
-por	O
-terem	O
-publicado	O
-um	O
-texto	O
-crítico	O
-intitulado	O
-``	O
-A	O
-pátria	O
-pertence	O
-a	O
-todos	O
-''	O
-.	O
-
-Os	O
-quatro	O
-foram	O
-acusados	O
-de	O
-rebelião	O
-.	O
-
-MICROSOFT	B-ORGANIZACAO
-E	O
-LIVRARIAS	O
-ESTABELECEM	O
-INICIATIVA	O
-PARA	O
-`	O
-E-BOOKs	O
-'	O
-.	O
-
-Ontem	O
-a	O
-Microsoft	B-ORGANIZACAO
-,	O
-a	O
-Barnes	B-ORGANIZACAO
-&	I-ORGANIZACAO
-Noble	I-ORGANIZACAO
-e	O
-a	O
-Barnesandnoble.com	B-ORGANIZACAO
-anunciaram	O
-a	O
-formacao	O
-de	O
-uma	O
-alianca	O
-denominada	O
-`	O
-eBook	O
-Iniciative	O
-'	O
-(	O
-algo	O
-como	O
-`	O
-Iniciativa	O
-pelo	O
-Livro	O
-Eletronico	O
-'	O
-)	O
-que	O
-tem	O
-por	O
-objetivo	O
-estimular	O
-os	O
-leitores	O
-a	O
-mudarem	O
-para	O
-o	O
-formato	O
-digital	O
-.	O
-
-A	O
-parceria	O
-,	O
-anunciada	O
-na	O
-`	O
-Consumer	O
-Electronics	O
-Show	O
-'	O
-(	O
-`	O
-Feira	O
-das	O
-Utilidades	O
-Domesticas	O
-'	O
-)	O
-,	O
-que	O
-esta	O
-'	O
-sendo	O
-realizada	O
-em	O
-Las	B-LOCAL
-Vegas	I-LOCAL
-,	O
-ira	O
-'	O
-disponibilizar	O
-milhares	O
-de	O
-publicacoes	O
-online	O
-que	O
-os	O
-consumidores	O
-serao	O
-capazes	O
-de	O
-transferir	O
-(	O
-`	O
-download	O
-'	O
-)	O
-para	O
-os	O
-novos	O
-computadores	O
-de	O
-mao	O
-(	O
-`	O
-handhelds	O
-'	O
-)	O
-Pocket	O
-PC	O
-,	O
-da	O
-Microsoft	B-ORGANIZACAO
-,	O
-ou	O
-para	O
-PCs	O
-que	O
-estejam	O
-utilizando	O
-o	O
-software	O
-para	O
-leitura	O
-de	O
-e-books	O
-Microsoft	O
-Reader	O
-.	O
-
-A	O
-Microsoft	B-ORGANIZACAO
-comecara	O
-'	O
-a	O
-promover	O
-seus	O
-softwares	O
-para	O
-e-books	O
-,	O
-o	O
-qual	O
-traduz	O
-os	O
-livros	O
-para	O
-o	O
-formato	O
-digital	O
-,	O
-por	O
-volta	O
-da	O
-metade	O
-deste	O
-ano	O
-no	O
-site	O
-da	O
-Barnesandnoble.com	B-ORGANIZACAO
-.	O
-
-Por	O
-sua	O
-vez	O
-,	O
-a	O
-livraria	O
-Barnes	B-ORGANIZACAO
-&	I-ORGANIZACAO
-Noble	I-ORGANIZACAO
-ira	O
-'	O
-promover	O
-e	O
-comercializar	O
-em	O
-suas	O
-lojas	O
-os	O
-e-books	O
-e	O
-o	O
-respectivo	O
-software	O
-para	O
-leitura	O
-destes	O
-.	O
-
-O	O
-envolvimento	O
-da	O
-Barnes	B-ORGANIZACAO
-&	I-ORGANIZACAO
-Noble	I-ORGANIZACAO
-no	O
-acordo	O
-ira	O
-'	O
-ajudar	O
-a	O
-disponibilizar	O
-o	O
-Microsoft	O
-Reader	O
-para	O
-dezenas	O
-de	O
-milhoes	O
-de	O
-consumidores	O
-numa	O
-questao	O
-de	O
-meses	O
-,	O
-destacou	O
-Dick	B-PESSOA
-Brass	I-PESSOA
-,	O
-da	O
-Microsoft	B-ORGANIZACAO
-.	O
-
-Ontem	O
-,	O
-a	O
-gigante	O
-dos	O
-softwares	O
-anunciou	O
-ainda	O
-que	O
-ira	O
-'	O
-trabalhar	O
-com	O
-a	O
-empresa	O
-de	O
-tecnologia	O
-de	O
-audio	O
-para	O
-computadores	O
-Audible.com	B-ORGANIZACAO
-para	O
-tambem	O
-incluir	O
-audio	O
-no	O
-software	O
-Reader	O
-,	O
-a	O
-fim	O
-de	O
-possibilitar	O
-que	O
-os	O
-usuarios	O
-do	O
-computador	O
-de	O
-mao	O
-oucam	O
-versoes	O
-gravadas	O
-dos	O
-livros	O
-.	O
-
-(	O
-Los	B-ORGANIZACAO
-Angeles	I-ORGANIZACAO
-Times	I-ORGANIZACAO
-,	O
-07	O
-Jan	O
-2000	O
-)	O
-e	O
-Edupage	O
-da	O
-RNP	O
-
-Visite	O
-o	O
-DataGrama	O
-Zero	O
-a	O
-Revista	O
-Eletronica	O
-de	O
-Ciencia	O
-da	O
-Informacao	O
-ou	O
-
-Lisboa	B-LOCAL
--	O
-Dakar	B-LOCAL
-:	O
-Carlos	B-PESSOA
-Sousa	I-PESSOA
-ambiciona	O
-pódio	O
-
-PILOTO	O
-PORTUGUÊS	O
-NÃO	O
-ESCONDE	O
-DESEJO	O
-E	O
-ELOGIA	O
-ORGANIZAÇÃO	O
-
-O	O
-piloto	O
-português	O
-Carlos	B-PESSOA
-Sousa	I-PESSOA
-revelou	O
-que	O
-tem	O
-``	O
-capacidade	O
-para	O
-chegar	O
-ao	O
-pódio	O
-''	O
-dos	O
-automóveis	O
-na	O
-edição	O
-de	O
-2008	O
-do	O
-Lisboa	B-LOCAL
--	O
-Dakar	B-LOCAL
-cujo	O
-percurso	O
-foi	O
-hoje	O
-apresentado	O
-em	O
-Lisboa	B-LOCAL
-.	O
-
-Carlos	B-PESSOA
-Sousa	I-PESSOA
-acredita	O
-que	O
-este	O
-ano	O
-o	O
-rali	O
-vai	O
-ser	O
-mais	O
-duro	O
-.	O
-``	O
-Vai	O
-ser	O
-um	O
-percurso	O
-para	O
-os	O
-mais	O
-resistentes	O
-.	O
-É	O
-mais	O
-difícil	O
-,	O
-mais	O
-exigente	O
-e	O
-as	O
-coisas	O
-entre	O
-os	O
-mais	O
-rápidos	O
-vão	O
-ser	O
-decididas	O
-ao	O
-segundo	O
-''	O
-,	O
-afirmou	O
-o	O
-piloto	O
-da	O
-Lagos	O
-Team	O
-,	O
-que	O
-vai	O
-conduzir	O
-um	O
-Volkswagen	O
-Touareg	O
-idêntico	O
-aos	O
-de	O
-fábrica	O
-.	O
-
-Apesar	O
-de	O
-ambicionar	O
-um	O
-lugar	O
-nos	O
-três	O
-primeiros	O
-,	O
-o	O
-piloto	O
-sabe	O
-que	O
-a	O
-concorrência	O
-é	O
-apertada	O
-e	O
-que	O
-não	O
-vai	O
-ser	O
-fácil	O
-:	O
-``	O
-Há	O
-15	O
-ou	O
-mais	O
-pilotos	O
-com	O
-hipóteses	O
-de	O
-chegar	O
-à	O
-vitória	O
-e	O
-ao	O
-pódio	O
-.	O
-As	O
-coisas	O
-vão	O
-ficar	O
-mais	O
-interessantes	O
-para	O
-quem	O
-vir	O
-o	O
-rali	O
-em	O
-casa	O
-ou	O
-pela	O
-Internet	O
-,	O
-mas	O
-para	O
-os	O
-pilotos	O
-vai	O
-ser	O
-uma	O
-luta	O
-até	O
-ao	O
-último	O
-dia	O
-''	O
-.	O
-
-O	O
-português	O
-,	O
-que	O
-nas	O
-últimas	O
-três	O
-edições	O
-foi	O
-sempre	O
-sétimo	O
-classificado	O
-,	O
-sofreu	O
-uma	O
-lesão	O
-cervical	O
-em	O
-Setembro	O
-.	O
-No	O
-entanto	O
-,	O
-já	O
-está	O
-a	O
-treinar	O
-a	O
-bom	O
-ritmo	O
-e	O
-garantiu	O
-que	O
-estará	O
-nas	O
-melhores	O
-condições	O
-dentro	O
-de	O
-mês	O
-e	O
-meio	O
-,	O
-quando	O
-começar	O
-o	O
-rali	O
-.	O
-
-Direitos	O
-Fundamentais	O
-
-Pöttering	B-PESSOA
-
-,	O
-
-Sócrates	B-PESSOA
-
-e	O
-
-Barroso	B-PESSOA
-
-assinam	O
-
-Carta	O
-dos	O
-Direitos	O
-Fundamentais	O
-da	O
-UE	B-ORGANIZACAO
-
-Os	O
-Presidentes	O
-do	O
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-,	O
-do	O
-Conselho	B-ORGANIZACAO
-e	O
-da	O
-Comissão	B-ORGANIZACAO
-assinaram	O
-,	O
-
-a	O
-12	O
-de	O
-Dezembro	O
-de	O
-2007	O
-
-,	O
-em	O
-
-Estrasburgo	B-LOCAL
-
-,	O
-a	O
-
-Carta	O
-dos	O
-Direitos	O
-Fundamentais	O
-da	O
-União	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-,	O
-
-um	O
-dia	O
-antes	O
-
-da	O
-assinatura	O
-do	O
-
-Tratado	O
-de	O
-Lisboa	O
-
-,	O
-na	O
-capital	O
-portuguesa	O
-.	O
-Os	O
-três	O
-salientaram	O
-o	O
-``	O
-dia	O
-histórico	O
-''	O
-para	O
-os	O
-cidadãos	O
-europeus	O
-e	O
-também	O
-o	O
-``	O
-desafio	O
-quotidiano	O
-''	O
-e	O
-o	O
-``	O
-compromisso	O
-das	O
-instituições	O
-europeias	O
-''	O
-de	O
-respeitar	O
-e	O
-promover	O
-os	O
-direitos	O
-e	O
-valores	O
-fundamentais	O
-.	O
-
-``	O
-Trata-se	O
-de	O
-um	O
-dia	O
-feliz	O
-para	O
-as	O
-cidadãs	O
-e	O
-os	O
-cidadãos	O
-da	O
-
-União	B-LOCAL
-Europeia	I-LOCAL
-
-''	O
-,	O
-em	O
-que	O
-se	O
-festejam	O
-``	O
-os	O
-nossos	O
-valores	O
-comuns	O
-''	O
-,	O
-afirmou	O
-o	O
-
-Presidente	O
-do	O
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-
-,	O
-
-Hans-Gert	B-PESSOA
-PÖTTERING	I-PESSOA
-
-,	O
-no	O
-discurso	O
-que	O
-antecedeu	O
-a	O
-assinatura	O
-da	O
-
-Carta	O
-dos	O
-Direitos	O
-Fundamentais	O
-da	O
-União	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-.	O
-
-Relembrando	O
-o	O
-``	O
-caminho	O
-significativo	O
-''	O
-que	O
-foi	O
-necessário	O
-percorrer	O
-até	O
-chegar	O
-a	O
-este	O
-momento	O
-,	O
-afirmou	O
-que	O
-``	O
-os	O
-ensinamentos	O
-da	O
-história	O
-da	O
-
-Europa	B-LOCAL
-
-foram	O
-tomados	O
-em	O
-consideração	O
-''	O
-,	O
-num	O
-documento	O
-que	O
-garante	O
-``	O
-valores	O
-como	O
-a	O
-liberdade	O
-e	O
-a	O
-segurança	O
-''	O
-.	O
-
-``	O
-Com	O
-a	O
-proclamação	O
-da	O
-
-Carta	O
-
-,	O
-temos	O
-a	O
-obrigação	O
-e	O
-a	O
-oportunidade	O
-de	O
-dar	O
-aos	O
-
-quase	O
-500	O
-milhões	O
-
-de	O
-cidadãos	O
-a	O
-ideia	O
-de	O
-uma	O
-
-Europa	B-LOCAL
-
-unida	O
-.	O
-Somos	O
-essencialmente	O
-uma	O
-comunidade	O
-de	O
-valores	O
---	O
-são	O
-estes	O
-valores	O
-comuns	O
-que	O
-constituem	O
-o	O
-fundamento	O
-da	O
-
-União	O
-Europeia	O
-
-''	O
-,	O
-declarou	O
-.	O
-
-Hans-Gert	B-PESSOA
-PÖTTERING	I-PESSOA
-
-destacou	O
-ainda	O
-a	O
-importância	O
-,	O
-para	O
-o	O
-
-PE	B-ORGANIZACAO
-
-,	O
-de	O
-ver	O
-reconhecido	O
-o	O
-valor	O
-juridicamente	O
-vinculativo	O
-da	O
-
-Carta	O
-
-,	O
-um	O
-passo	O
-``	O
-essencial	O
-no	O
-quadro	O
-de	O
-reforma	O
-dos	O
-
-Tratados	O
-
-e	O
-essencial	O
-para	O
-a	O
-identidade	O
-europeia	O
-''	O
-.	O
-
-``	O
-Sem	O
-estes	O
-valores	O
-,	O
-a	O
-
-União	O
-Europeia	O
-
-não	O
-teria	O
-futuro	O
-''	O
-.	O
-Dentro	O
-e	O
-fora	O
-da	O
-
-Europa	B-LOCAL
-
-,	O
-``	O
-temos	O
-o	O
-dever	O
-de	O
-sempre	O
-defender	O
-a	O
-dignidade	O
-e	O
-os	O
-direitos	O
-humanos	O
-''	O
-,	O
-concluiu	O
-.	O
-
-Também	O
-o	O
-
-Presidente	O
-em	O
-exercício	O
-do	O
-Conselho	B-ORGANIZACAO
-da	O
-UE	B-ORGANIZACAO
-
-José	B-PESSOA
-SÓCRATES	I-PESSOA
-
-,	O
-destacou	O
-
-o	O
-dia	O
-de	O
-hoje	O
-
-como	O
-``	O
-uma	O
-data	O
-fundamental	O
-na	O
-história	O
-da	O
-integração	O
-europeia	O
-''	O
-.	O
-
-''	O
-
-A	O
-partir	O
-de	O
-hoje	O
-
-,	O
-e	O
-talvez	O
-para	O
-incómodo	O
-de	O
-alguns	O
-,	O
-os	O
-direitos	O
-fundamentais	O
-passam	O
-formalmente	O
-,	O
-e	O
-de	O
-forma	O
-irreversível	O
-,	O
-a	O
-fazer	O
-parte	O
-do	O
-património	O
-comum	O
-da	O
-
-UE	B-ORGANIZACAO
-
-.	O
-Um	O
-património	O
-ético	O
-,	O
-de	O
-cidadania	O
-e	O
-do	O
-melhor	O
-que	O
-há	O
-na	O
-civilização	O
-europeia	O
-!	O
-''	O
-,	O
-afirmou	O
-o	O
-
-Primeiro-Ministro	O
-
-português	O
-.	O
-
-Manifestando-se	O
-``	O
-muito	O
-honrado	O
-como	O
-europeu	O
-e	O
-como	O
-português	O
-''	O
-por	O
-participar	O
-na	O
-cerimónia	O
-de	O
-proclamação	O
-da	O
-
-Carta	O
-dos	O
-Direitos	O
-Fundamentais	O
-da	O
-UE	B-ORGANIZACAO
-
---	O
-que	O
-definiu	O
-como	O
-``	O
-a	O
-mais	O
-importante	O
-de	O
-toda	O
-a	O
-carreira	O
-política	O
-''	O
---	O
-
-SÓCRATES	B-PESSOA
-
-salientou	O
-ainda	O
-o	O
-compromisso	O
-assumido	O
-pelas	O
-três	O
-instituições	O
---	O
-
-PE	B-ORGANIZACAO
-
-,	O
-
-Conselho	B-ORGANIZACAO
-
-e	O
-
-Comissão	B-ORGANIZACAO
-
---	O
-de	O
-que	O
-``	O
-os	O
-valores	O
-fundamentais	O
-serão	O
-respeitados	O
-e	O
-aplicados	O
-''	O
-.	O
-
-A	O
-
-Carta	O
-
-``	O
-representa	O
-um	O
-compromisso	O
-das	O
-instituições	O
-da	O
-
-União	B-ORGANIZACAO
-
-de	O
-a	O
-respeitarem	O
-e	O
-aplicarem	O
-quotidianamente	O
-.	O
-Só	O
-assim	O
-seremos	O
-dignos	O
-herdeiros	O
-do	O
-que	O
-há	O
-de	O
-melhor	O
-na	O
-nossa	O
-identidade	O
-colectiva	O
-e	O
-tradição	O
-comum	O
-de	O
-uma	O
-
-Europa	B-ORGANIZACAO
-
-que	O
-honra	O
-os	O
-direitos	O
-e	O
-as	O
-garantias	O
-dos	O
-cidadãos	O
-''	O
-.	O
-
-Para	O
-
-SÓCRATES	B-PESSOA
-
-,	O
-esta	O
-
-Carta	O
-
-``	O
-vai	O
-para	O
-além	O
-''	O
-dos	O
-cidadãos	O
-da	O
-
-UE	B-LOCAL
-
-,	O
-representando	O
-``	O
-um	O
-esteio	O
-fundamental	O
-da	O
-convicção	O
-de	O
-um	O
-mundo	O
-melhor	O
-e	O
-de	O
-que	O
-os	O
-direitos	O
-são	O
-universalmente	O
-respeitados	O
-''	O
-.	O
-
-Expressando	O
-ainda	O
-a	O
-``	O
-honra	O
-''	O
-por	O
-
-Portugal	B-ORGANIZACAO
-
-ficar	O
-associado	O
-a	O
-``	O
-uma	O
-importante	O
-etapa	O
-da	O
-cidadania	O
-europeia	O
-''	O
---	O
-foi	O
-durante	O
-a	O
-
-Presidência	O
-
-em	O
-2000	O
-
-que	O
-se	O
-iniciou	O
-a	O
-
-Convenção	O
-
-que	O
-deu	O
-origem	O
-à	O
-
-Carta	O
-
-e	O
-é	O
-durante	O
-a	O
-actual	O
-
-Presidência	O
-
-que	O
-a	O
-
-Carta	O
-
-é	O
-proclamada	O
---	O
-
-SÓCRATES	B-PESSOA
-
-alertou	O
-,	O
-no	O
-entanto	O
-,	O
-para	O
-o	O
-facto	O
-de	O
-a	O
-tarefa	O
-ainda	O
-não	O
-estar	O
-acabada	O
-.	O
-
-``	O
-O	O
-combate	O
-pelos	O
-direitos	O
-fundamentais	O
-é	O
-uma	O
-tarefa	O
-quotidiana	O
-,	O
-uma	O
-tarefa	O
-sem	O
-fim	O
-,	O
-dos	O
-
-Estados	B-ORGANIZACAO
-
-,	O
-das	O
-sociedades	O
-civis	O
-,	O
-das	O
-empresas	O
-,	O
-dos	O
-sindicatos	O
-,	O
-dos	O
-cidadãos	O
-.	O
-A	O
-sua	O
-defesa	O
-é	O
-o	O
-reconhecimento	O
-de	O
-um	O
-valor	O
-essencial	O
-à	O
-identidade	O
-europeia	O
-,	O
-faz	O
-parte	O
-do	O
-nosso	O
-código	O
-genético	O
-,	O
-e	O
-esta	O
-é	O
-a	O
-
-Europa	B-ORGANIZACAO
-
-a	O
-que	O
-eu	O
-quero	O
-pertencer	O
-''	O
-,	O
-concluiu	O
-.	O
-
-Também	O
-o	O
-
-Presidente	O
-da	O
-Comissão	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-,	O
-
-José	B-PESSOA
-Manuel	I-PESSOA
-Durão	I-PESSOA
-BARROSO	I-PESSOA
-
-,	O
-declarou	O
-que	O
-,	O
-com	O
-a	O
-
-Carta	O
-dos	O
-Direitos	O
-Fundamentais	O
-
-,	O
-a	O
-
-Europa	B-ORGANIZACAO
-
-está	O
-``	O
-mais	O
-equipada	O
-para	O
-levar	O
-a	O
-cabo	O
-o	O
-seu	O
-combate	O
-pela	O
-liberdade	O
-,	O
-democracia	O
-e	O
-paz	O
-''	O
-.	O
-
-``	O
-A	O
-
-Carta	O
-
-encorajará	O
-a	O
-
-UE	B-ORGANIZACAO
-
-numa	O
-verdadeira	O
-cultura	O
-dos	O
-direitos	O
-fundamentais	O
-.	O
-Comprometemo-nos	O
-,	O
-sobretudo	O
-,	O
-a	O
-respeitar	O
-os	O
-nossos	O
-próprios	O
-direitos	O
-.	O
-Pode	O
-parecer	O
-fácil	O
-de	O
-assumir	O
-,	O
-mas	O
-é	O
-,	O
-na	O
-verdade	O
-,	O
-um	O
-verdadeiro	O
-desafio	O
-quotidiano	O
-''	O
-,	O
-salientou	O
-
-BARROSO	B-PESSOA
-
-.	O
-
-``	O
-Trata-se	O
-de	O
-um	O
-êxito	O
-extraordinário	O
-de	O
-que	O
-a	O
-
-UE	B-ORGANIZACAO
-
-se	O
-deve	O
-sentir	O
-orgulhosa	O
-.	O
-É	O
-particularmente	O
-importante	O
-que	O
-aconteça	O
-numa	O
-
-Europa	B-ORGANIZACAO
-
-alargada	O
-que	O
-esteve	O
-dividia	O
-por	O
-regimes	O
-ditatoriais	O
-.	O
-Se	O
-conjugarmos	O
-esforços	O
-para	O
-estimular	O
-esta	O
-cultura	O
-de	O
-direitos	O
-humanos	O
-,	O
-daremos	O
-um	O
-contributo	O
-essencial	O
-para	O
-uma	O
-
-Europa	B-ORGANIZACAO
-
-de	O
-valores	O
-''	O
-,	O
-concluiu	O
-.	O
-
-Depois	O
-de	O
-a	O
-
-Carta	O
-
-ser	O
-assinada	O
-pelos	O
-
-Presidentes	O
-
-das	O
-três	O
-instituições	O
-,	O
-ouviu-se	O
-o	O
-hino	O
-europeu	O
-no	O
-hemiciclo	O
-de	O
-
-Estrasburgo	B-LOCAL
-
-.	O
-
-A	O
-cerimónia	O
-de	O
-proclamação	O
-foi	O
-interrompida	O
-em	O
-diversas	O
-ocasiões	O
-por	O
-uma	O
-minoria	O
-de	O
-deputados	O
-que	O
-protestaram	O
-nas	O
-últimas	O
-bancadas	O
-do	O
-hemiciclo	O
-,	O
-exigindo	O
-a	O
-realização	O
-de	O
-um	O
-referendo	O
-ao	O
-
-Tratado	O
-de	O
-Lisboa	O
-
-.	O
-Os	O
-protestos	O
-foram	O
-calados	O
-pelos	O
-aplausos	O
-da	O
-maioria	O
-dos	O
-eurodeputados	O
-e	O
-pelo	O
-próprio	O
-
-Presidente	O
-do	O
-Conselho	B-ORGANIZACAO
-
-,	O
-no	O
-início	O
-do	O
-seu	O
-discurso	O
-:	O
-``	O
-Por	O
-mais	O
-que	O
-muitos	O
-gritem	O
-tentando	O
-impedir	O
-os	O
-outros	O
-de	O
-falar	O
-,	O
-esta	O
-é	O
-uma	O
-data	O
-fundamental	O
-da	O
-história	O
-europeia	O
-''	O
-,	O
-afirmou	O
-
-José	B-PESSOA
-SÓCRATES	I-PESSOA
-
-.	O
-
-O	O
-
-líder	O
-do	O
-PPE/DE	B-ORGANIZACAO
-
-,	O
-
-Joseph	B-PESSOA
-DAUL	I-PESSOA
-
-,	O
-criticou	O
-os	O
-protestos	O
-,	O
-afirmando	O
-que	O
-o	O
-
-PE	B-ORGANIZACAO
-
-é	O
-``	O
-um	O
-hemiciclo	O
-onde	O
-reina	O
-a	O
-democracia	O
-''	O
-não	O
-sendo	O
-,	O
-por	O
-isso	O
-,	O
-``	O
-digno	O
-actuar	O
-desta	O
-maneira	O
-''	O
-.	O
-
-No	O
-mesmo	O
-registo	O
-,	O
-
-Martin	B-PESSOA
-SCHULZ	I-PESSOA
-
-(	O
-
-PSE	B-ORGANIZACAO
-
-,	O
-
-DE	B-ORGANIZACAO
-
-)	O
-,	O
-
-líder	O
-do	O
-PSE	B-ORGANIZACAO
-
-,	O
-recordou	O
-que	O
-,	O
-na	O
-
-República	O
-de	O
-Weimar	O
-
-,	O
-se	O
-queria	O
-acabar	O
-com	O
-os	O
-inimigos	O
-em	O
-forma	O
-de	O
-coro	O
-e	O
-quem	O
-dirigia	O
-esse	O
-coro	O
-era	O
-
-Hitler	B-PESSOA
-
-''	O
-.	O
-
-Do	O
-grupo	O
-
-ALDE	B-ORGANIZACAO
-
-,	O
-
-Graham	B-PESSOA
-WATSON	I-PESSOA
-
-lançou	O
-uma	O
-petição	O
-para	O
-que	O
-a	O
-
-Presidência	O
-do	O
-PE	B-ORGANIZACAO
-
-use	O
-os	O
-poderes	O
-que	O
-lhe	O
-confere	O
-o	O
-regimento	O
-``	O
-para	O
-mandar	O
-embora	O
-um	O
-deputado	O
-que	O
-se	O
-comporte	O
-de	O
-maneira	O
-indigna	O
-''	O
-:	O
-``	O
-Uma	O
-atitude	O
-como	O
-esta	O
-não	O
-se	O
-pode	O
-tolerar	O
-e	O
-traz-nos	O
-o	O
-pior	O
-de	O
-um	O
-estádio	O
-de	O
-futebol	O
-''	O
-,	O
-afirmou	O
-.	O
-
-Francis	B-PESSOA
-WURTZ	I-PESSOA
-
-,	O
-da	O
-
-CEUE/EVN	B-ORGANIZACAO
-
-,	O
-condenou	O
-``	O
-de	O
-maneira	O
-absoluta	O
-as	O
-declarações	O
-antieuropeias	O
-e	O
-indignas	O
-''	O
-que	O
-se	O
-ouviram	O
-no	O
-hemiciclo	O
-:	O
-``	O
-O	O
-meu	O
-grupo	O
-está	O
-a	O
-favor	O
-de	O
-um	O
-referendo	O
-,	O
-mas	O
-opõe-se	O
-a	O
-acções	O
-como	O
-esta	O
-''	O
-,	O
-afirmou	O
-.	O
-
-Também	O
-o	O
-
-co-presidente	O
-dos	O
-Verdes/ALE	B-ORGANIZACAO
-
-,	O
-
-Daniel	B-PESSOA
-COHN-BENDIT	I-PESSOA
-
-,	O
-se	O
-mostrou	O
-``	O
-consternado	O
-''	O
-com	O
-o	O
-ocorrido	O
-,	O
-mas	O
-pediu	O
-que	O
-não	O
-se	O
-dramatize	O
-a	O
-situação	O
-:	O
-``	O
-Há	O
-
-50	O
-
-loucos	O
-mas	O
-há	O
-
-700	O
-
-sãos	O
-''	O
-;	O
-``	O
-não	O
-peçamos	O
-a	O
-expulsão	O
-destes	O
-loucos	O
-porque	O
-um	O
-
-Parlamento	B-ORGANIZACAO
-
-livre	O
-é	O
-aquele	O
-que	O
-aguenta	O
-os	O
-loucos	O
-que	O
-lhe	O
-são	O
-desagradáveis	O
-''	O
-.	O
-
-Da	O
-mesma	O
-forma	O
-,	O
-para	O
-
-Brian	B-PESSOA
-CROWLEY	I-PESSOA
-
-,	O
-da	O
-
-UEN	B-ORGANIZACAO
-
-,	O
-o	O
-ocorrido	O
-``	O
-superou	O
-o	O
-permissível	O
-''	O
-.	O
-
-Do	O
-grupo	O
-
-IND/DEM	B-ORGANIZACAO
-
-,	O
-
-Jens-Peter	B-PESSOA
-BONDE	I-PESSOA
-
-assinalou	O
-que	O
-,	O
-pessoalmente	O
-,	O
-não	O
-participou	O
-nos	O
-protestos	O
-mas	O
-que	O
-vestiu	O
-a	O
-camisola	O
-com	O
-a	O
-referência	O
-à	O
-realização	O
-de	O
-um	O
-referendo	O
-,	O
-que	O
-faz	O
-parte	O
-da	O
-vida	O
-democrática	O
-.	O
-
-Consultar	O
-
-http://www.eu2007.pt/UE/vPT/Noticias_Documentos/20071212DiscursoPM.htm	O
-
-Discurso	O
-de	O
-
-José	B-PESSOA
-Sócrates	I-PESSOA
-
-na	O
-cerimónia	O
-de	O
-
-Proclamação	O
-da	O
-Carta	O
-dos	O
-Direitos	O
-Fundamentais	O
-
-...	O
-
-Intelbras	B-ORGANIZACAO
--	O
-Empresa	O
-...	O
-
-``	O
-A	O
-organização	O
-tem	O
-como	O
-princípio	O
-que	O
-o	O
-bom	O
-resultado	O
-só	O
-será	O
-obtido	O
-através	O
-da	O
-satisfação	O
-e	O
-superação	O
-das	O
-necessidades	O
-dos	O
-clientes	O
-,	O
-da	O
-manutenção	O
-de	O
-um	O
-moral	O
-elevado	O
-dos	O
-colaboradores	O
-e	O
-do	O
-atendimento	O
-das	O
-expectativas	O
-dos	O
-acionistas	O
-.	O
-
-Foi	O
-assim	O
-,	O
-praticando	O
-esta	O
-verdadeira	O
-``	O
-política	O
-da	O
-qualidade	O
-''	O
-,	O
-que	O
-a	O
-Intelbras	B-ORGANIZACAO
-alcançou	O
-a	O
-liderança	O
-no	O
-mercado	O
-nacional	O
-,	O
-também	O
-se	O
-destacando	O
-no	O
-cenário	O
-internacional	O
-com	O
-uma	O
-forte	O
-presença	O
-na	O
-América	B-LOCAL
-Latina	I-LOCAL
-.	O
-
-Intelbras	O
-é	O
-a	O
-marca	O
-do	O
-telefone	O
-no	O
+Boa	I-ORGANIZACAO
+Vontade	I-ORGANIZACAO
+,	O	O
+institui��o	O	O
+educacional	O	O
+,	O	O
+cultural	O	O
+,	O	O
+beneficente	O	O
+e	O	O
+filantr�pica	O	O
+,	O	O
+foi	O	O
+fundada	O	O
+no	O	O
 Brasil	B-LOCAL
-.	O
-
-E	O
-qualidade	O
-é	O
-a	O
-marca	O
-da	O
-Intelbras	B-ORGANIZACAO
-''	O
-.	O
-
-1976	O
-,	O
-um	O
-marco	O
-histórico	O
-da	O
-telefonia	O
-brasileira	O
-.	O
-Nascia	O
-a	O
-Intelbras	B-ORGANIZACAO
-.	O
-Desde	O
-o	O
-início	O
-o	O
-objetivo	O
-era	O
-audacioso	O
-:	O
-tornar-se	O
-a	O
-maior	O
-fabricante	O
-brasileira	O
-de	O
-centrais	O
-e	O
-aparelhos	O
-telefônicos	O
-.	O
-
-Para	O
-isso	O
-,	O
-a	O
-Intelbras	B-ORGANIZACAO
-direcionou	O
-sua	O
-atuação	O
-para	O
-a	O
-qualidade	O
-total	O
-de	O
-seus	O
-produtos	O
-.	O
-
-Em	O
-1987	O
-,	O
-foi	O
-a	O
-primeira	O
-empresa	O
-a	O
-lançar	O
-uma	O
-Central	O
-tipo	O
-PABX	O
-com	O
-tecnologia	O
-nacional	O
-.	O
-
-Durante	O
-muitos	O
-anos	O
-,	O
-a	O
-Intelbras	B-ORGANIZACAO
-foi	O
-a	O
-fornecedora	O
-de	O
-quase	O
-todos	O
-os	O
-programas	O
-de	O
-telefonia	O
-governamentais	O
-.	O
-
-Em	O
-1990	O
-,	O
-lançou	O
-aparelhos	O
-telefônicos	O
-,	O
-terminais	O
-inteligentes	O
-(	O
-KS	O
-)	O
-,	O
-micro	O
-centrais	O
-e	O
-pequenas	O
-centrais	O
-,	O
-além	O
-de	O
-peças	O
-e	O
-acessórios	O
-,	O
-direcionando	O
-sua	O
-atuação	O
-para	O
-a	O
-iniciativa	O
-privada	O
-.	O
-
-Em	O
-1992	O
-,	O
-uma	O
-nova	O
-filosofia	O
-administrativa	O
-foi	O
-implantada	O
-,	O
-criando	O
-Programas	O
-de	O
-Qualidade	O
-e	O
-de	O
-Gestão	O
-Participativa	O
-,	O
-aumentando	O
-a	O
-produtividade	O
-e	O
-a	O
-competitividade	O
-no	O
-mercado	O
-.	O
-
-As	O
-exportações	O
-iniciaram	O
-em	O
-1996	O
-,	O
-principalmente	O
-para	O
-os	O
-países	O
-da	O
-América	B-LOCAL
-Latina	I-LOCAL
-.	O
-
-Em	O
-1996	O
-,	O
-o	O
-certificado	O
-ISO	O
-9001	O
-atestou	O
-seu	O
-nível	O
-de	O
-qualidade	O
-internacional	O
-.	O
-
-Hoje	O
-,	O
-o	O
-nome	O
-Intelbras	O
-é	O
-uma	O
-marca	O
-de	O
-qualidade	O
-e	O
-avanço	O
-tecnológico	O
-.	O
-
-Uma	O
-posição	O
-alcançada	O
-,	O
-passo	O
-a	O
-passo	O
-,	O
-numa	O
-longa	O
-história	O
-de	O
-sucesso	O
-.	O
-
-A	O
-Intelbras	B-ORGANIZACAO
-nasceu	O
-em	O
-1976	O
-com	O
-um	O
-desafio	O
-:	O
-ser	O
-uma	O
-das	O
-primeiras	O
-empresas	O
-brasileiras	O
-a	O
-atuar	O
-no	O
-mercado	O
-de	O
-telecomunicações	O
-.	O
-
-Um	O
-desafio	O
-plenamente	O
-superado	O
-,	O
-tanto	O
-que	O
-hoje	O
-já	O
-é	O
-a	O
-primeira	O
-em	O
-participação	O
-no	O
-mercado	O
-nacional	O
-.	O
-
-Com	O
-sede	O
-em	O
-São	B-LOCAL
-José	I-LOCAL
-,	O
-estado	O
-de	O
-Santa	B-LOCAL
-Catarina	I-LOCAL
-,	O
-cidade	O
-vizinha	O
-da	O
-turística	O
-capital	O
-Florianópolis	B-LOCAL
-,	O
-a	O
-Intelbras	B-ORGANIZACAO
-conta	O
-com	O
-uma	O
-área	O
-total	O
-de	O
-mais	O
-de	O
-36	O
-mil	O
-m	O
-²	O
-,	O
-sendo	O
-15	O
-mil	O
-m	O
-²	O
-de	O
-área	O
-construída	O
-.	O
-
-Ali	O
-atuam	O
-mais	O
-de	O
-600	O
-funcionários	O
-,	O
-profissionais	O
-altamente	O
-treinados	O
-e	O
-especializados	O
-em	O
-produzir	O
-qualidade	O
-.	O
-
-Fábrica	O
-:	O
-São	B-LOCAL
-José	I-LOCAL
--	O
-Santa	B-LOCAL
-Catarina	I-LOCAL
--	O
-Brasil	B-LOCAL
-Intelbras	B-ORGANIZACAO
-S/A	I-ORGANIZACAO
--	I-ORGANIZACAO
-Indústria	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Telecomunicação	I-ORGANIZACAO
-Eletrônica	I-ORGANIZACAO
-Brasileira	I-ORGANIZACAO
-Rodovia	B-LOCAL
-BR	I-LOCAL
-101	I-LOCAL
-,	I-LOCAL
-Km	I-LOCAL
-212	I-LOCAL
-,	I-LOCAL
-Área	I-LOCAL
-Industrial	I-LOCAL
-88.104-800	I-LOCAL
--	I-LOCAL
-São	I-LOCAL
-José	I-LOCAL
--	I-LOCAL
-SC	I-LOCAL
--	I-LOCAL
-Brasil	I-LOCAL
-Fones	O
-:	O
-Dpto	B-ORGANIZACAO
-.	I-ORGANIZACAO
-Comercial	I-ORGANIZACAO
-:	O
-(048) 281-9600	O
-Dpto	B-ORGANIZACAO
-.	I-ORGANIZACAO
-Compras	I-ORGANIZACAO
-:	O
-(048) 281-9620	O
-Dpto	B-ORGANIZACAO
-.	I-ORGANIZACAO
-Marketing	I-ORGANIZACAO
-:	O
-(48) 281 9595	O
-Dpto	B-ORGANIZACAO
-.	I-ORGANIZACAO
-Técnico	I-ORGANIZACAO
-:	O
-(48) 281 9900	O
-Fax	O
-:	O
-(048) 281-9505	O
-CGC	O
-/	O
-MF	O
-:	O
-82.901.000	O
-/	O
-0001-27	O
-Inscr	O
-.	O
-Estadual	O
-:	O
-250.082.764	O
-
-tenho	O
-16	O
-anos	O
-de	O
-Banco	B-ORGANIZACAO
-.	O
-
-INGRESSO	O
-NO	O
-BNDES	B-ORGANIZACAO
-
-Eu	O
-entrei	O
-no	O
-BNDES	B-ORGANIZACAO
-,	O
-através	O
-de	O
-concurso	O
-público	O
-.	O
-Eu	O
-já	O
-tinha	O
-uma	O
-noção	O
-,	O
-já	O
-sabia	O
-o	O
-que	O
-o	O
-BNDES	B-ORGANIZACAO
-fazia	O
-.	O
-Eu	O
-tinha	O
-interesse	O
-de	O
-vir	O
-trabalhar	O
-no	O
-Banco	B-ORGANIZACAO
-,	O
-em	O
-função	O
-da	O
-atividade	O
-dinâmica	O
-de	O
-visitar	O
-empresas	O
-,	O
-de	O
-apoiar	O
-novos	O
-empreendimentos	O
-,	O
-de	O
-conhecer	O
-o	O
-Brasil	B-LOCAL
-.	O
-Então	O
-,	O
-eu	O
-me	O
-interessei	O
-muito	O
-em	O
-fazer	O
-o	O
-concurso	O
-do	O
-Banco	B-ORGANIZACAO
-.	O
-Fiz	O
-concurso	O
-público	O
-em	O
-1984	O
-,	O
-fui	O
-admitido	O
-em	O
-1986	O
-.	O
-
-TRAJETORIA	O
-NO	O
-BNDES	B-ORGANIZACAO
-
-Eu	O
-sempre	O
-trabalhei	O
-,	O
-desde	O
-que	O
-eu	O
-entrei	O
-no	O
-BNDES	B-ORGANIZACAO
-,	O
-na	O
-área	O
-de	O
-análise	O
-de	O
-projetos	O
-e	O
-,	O
-especificamente	O
-,	O
-na	O
-Mineração	O
-,	O
-Metalurgia	O
-e	O
-Siderurgia	O
-.	O
-O	O
-nosso	O
-trabalho	O
-consiste	O
-em	O
-analisar	O
-o	O
-pleito	O
-de	O
-uma	O
-empresa	O
-.	O
-Esse	O
-pleito	O
-normalmente	O
-refere-se	O
-a	O
-um	O
-pedido	O
-de	O
-financiamento	O
-para	O
-expansão	O
-de	O
-uma	O
-planta	O
-industrial	O
-,	O
-para	O
-instalação	O
-de	O
-uma	O
-nova	O
-planta	O
-,	O
-para	O
-modernização	O
-.	O
-
-Então	O
-,	O
-o	O
-nosso	O
-trabalho	O
-sempre	O
-foi	O
-de	O
-analisar	O
-o	O
-projeto	O
-,	O
-que	O
-chamamos	O
-de	O
-``	O
-estudo	O
-de	O
-viabilidade	O
-econômica	O
-e	O
-financeira	O
-''	O
-.	O
-Vemos	O
-se	O
-a	O
-empresa	O
-tem	O
-capacidade	O
-de	O
-pagamento	O
-,	O
-analisamos	O
-se	O
-o	O
-projeto	O
-é	O
-meritório	O
-dentro	O
-da	O
-política	O
-de	O
-desenvolvimento	O
-do	O
-Banco	B-ORGANIZACAO
-e	O
-,	O
-no	O
-final	O
-,	O
-nós	O
-montamos	O
-um	O
-relatório	O
-.	O
-Esse	O
-relatório	O
-é	O
-encaminhado	O
-à	O
-diretoria	O
-do	O
-Banco	B-ORGANIZACAO
-para	O
-aprovação	O
-e	O
-concessão	O
-do	O
-financiamento	O
-posteriormente	O
-.	O
-
-AVALIAÇÃO	O
-DE	O
-PROJETOS	O
-/	O
-
-Mina	B-LOCAL
-do	I-LOCAL
-Pico	I-LOCAL
->	O
-,	O
-Mina	B-LOCAL
-de	I-LOCAL
-Águas	I-LOCAL
-Claras	I-LOCAL
-,	O
-Mina	B-LOCAL
-da	I-LOCAL
-Mutuca	I-LOCAL
-,	O
-Alunorte	B-ORGANIZACAO
-,	O
-Albrás	B-ORGANIZACAO
-,	O
-Latasa	B-ORGANIZACAO
-.	O
-
-Eu	O
-poderia	O
-citar	O
-vários	O
-projetos	O
-que	O
-eu	O
-participei	O
-,	O
-como	O
-a	O
-expansão	O
-da	O
-MBR	B-ORGANIZACAO
-,	O
-uma	O
-empresa	O
-de	O
-mineração	O
-,	O
-instalada	O
-em	O
-Minas	B-LOCAL
-Gerais	I-LOCAL
-.	O
-Nós	O
-financiamos	O
-a	O
-expansão	O
-da	O
-Mina	B-LOCAL
-do	I-LOCAL
-Pico	I-LOCAL
-,	O
-a	O
-Mina	B-LOCAL
-de	I-LOCAL
-Águas	I-LOCAL
-Claras	I-LOCAL
-e	O
-a	O
-Mina	B-LOCAL
-da	I-LOCAL
-Mutuca	I-LOCAL
-também	O
-.	O
-
-Eles	O
-têm	O
-um	O
-terminal	O
-aqui	O
-,	O
-próximo	O
-a	O
-Sepetiba	B-LOCAL
-,	O
-e	O
-nós	O
-financiamos	O
-toda	O
-essa	O
-expansão	O
-.	O
-Tem	O
-um	O
-projeto	O
-da	O
-Albrás	B-ORGANIZACAO
-,	O
-uma	O
-das	O
-maiores	O
-produtoras	O
-de	O
-alumínio	O
-do	O
-Brasil	B-LOCAL
-,	O
-nós	O
-financiamos	O
-a	O
-expansão	O
-dela	O
-.	O
-Tem	O
-a	O
-fábrica	O
-de	O
-alumina	O
-,	O
-a	O
-Alunorte	B-ORGANIZACAO
-,	O
-também	O
-no	O
-Pará	B-LOCAL
-,	O
-que	O
-é	O
-um	O
-insumo	O
-muito	O
-importante	O
-para	O
-o	O
-Brasil	B-LOCAL
-e	O
-o	O
-Brasil	B-ORGANIZACAO
-importava	O
-esse	O
-insumo	O
-.	O
-E	O
-,	O
-graças	O
-ao	O
-financiamento	O
-dessa	O
-empresa	O
-,	O
-nós	O
-deixamos	O
-de	O
-importar	O
-alumina	O
-.	O
-Alumina	O
-é	O
-um	O
-insumo	O
-fundamental	O
-na	O
-cadeia	O
-de	O
-fabricação	O
-do	O
-alumínio	O
-.	O
-E	O
-outros	O
-projetos	O
-menores	O
-,	O
-como	O
-a	O
-primeira	O
-fábrica	O
-de	O
-lata	O
-de	O
-alumínio	O
-do	O
-Brasil	B-LOCAL
-,	O
-que	O
-foi	O
-a	O
-Latasa	B-ORGANIZACAO
-.	O
-Nós	O
-financiamos	O
-,	O
-desde	O
-a	O
-primeira	O
-expansão	O
-da	O
-empresa	O
-em	O
-Pouso	B-LOCAL
-Alegre	I-LOCAL
-,	O
-financiamos	O
-a	O
-fábrica	O
-de	O
-São	B-LOCAL
-Paulo	I-LOCAL
-,	O
-a	O
-fábrica	O
-do	O
+pelo	O	O
+jornalista	O	O
+,	O	O
+radialista	O	O
+e	O	O
+poeta	O	O
+Alziro	B-PESSOA
+Zarur	I-PESSOA
+no	O	O
+programa	O	O
+de	O	O
+r�dio	O	O
+``	O	O
+Hora	O	O
+da	O	O
+Boa	O	O
+Vontade	O	O
+''	O	O
+,	O	O
+na	O	O
+R�dio	O	O
+Globo	O	O
+do	O	O
 Rio	B-LOCAL
 de	I-LOCAL
 Janeiro	I-LOCAL
-,	O
-a	O
-fábrica	O
-de	O
-Recife	B-LOCAL
-e	O
-acabamos	O
-de	O
-financiar	O
-recentemente	O
-a	O
-nova	O
-unidade	O
-deles	O
-,	O
-no	O
-Rio	B-LOCAL
-Grande	I-LOCAL
+.	O	O
+
+Ap�s	O	O
+a	O	O
+morte	O	O
+de	O	O
+Alziro	B-PESSOA
+Zarur	I-PESSOA
+,	O	O
+Jos�	B-PESSOA
+Paiva	I-PESSOA
+Netto	I-PESSOA
+,	O	O
+tamb�m	O	O
+jornalista	O	O
+,	O	O
+radialista	O	O
+e	O	O
+escritor	O	O
+,	O	O
+presidiu	O	O
+a	O	O
+esta	O	O
+obra	O	O
+,	O	O
+tendo-a	O	O
+expandido	O	O
+a	O	O
+outros	O	O
+pa�ses	O	O
+.	O	O
+
+A	O	O
+Legi�o	B-ORGANIZACAO
+da	I-ORGANIZACAO
+Boa	I-ORGANIZACAO
+Vontade	I-ORGANIZACAO
+ocupa	O	O
+,	O	O
+hoje	O	O
+,	O	O
+o	O	O
+4	O	O
+.	O	O
+�	O	O
+lugar	O	O
+entre	O	O
+as	O	O
+organiza��es	O	O
+inscritas	O	O
+na	O	O
+Organiza��o	B-ORGANIZACAO
+Mundial	I-ORGANIZACAO
+das	I-ORGANIZACAO
+Na��es	I-ORGANIZACAO
+Unidas	I-ORGANIZACAO
+.	O	O
+
+Em	O	O
+Portugal	B-LOCAL
+,	O	O
+a	O	O
+Legi�o	B-ORGANIZACAO
+da	I-ORGANIZACAO
+Boa	I-ORGANIZACAO
+Vontade	I-ORGANIZACAO
+iniciou	O	O
+o	O	O
+seu	O	O
+trabalho	O	O
+a	O	O
+2	O	O
+de	O	O
+Mar�o	O	O
+de	O	O
+1989	O	O
+,	O	O
+dando	O	O
+ajuda	O	O
+material	O	O
+e	O	O
+espiritual	O	O
+�	O	O
+popula��o	O	O
+portuguesa	O	O
+mais	O	O
+carenciada	O	O
+atrav�s	O	O
+de	O	O
+programas	O	O
+como	O	O
+``	O	O
+Um	O	O
+passo	O	O
+em	O	O
+frente	O	O
+''	O	O
+,	O	O
+``	O	O
+Ronda-da-caridade	O	O
+''	O	O
+e	O	O
+Semente	O	O
+da	O	O
+Boa	O	O
+vontade	O	O
+''	O	O
+.	O	O
+
+Onde	O	O
+ficam	O	O
+as	O	O
+Ilhas	B-LOCAL
+Marquesas	I-LOCAL
+?	O	O
+
+De	O	O
+que	O	O
+organiza��o	O	O
+�	O	O
+que	O	O
+Javier	B-PESSOA
+Solana	I-PESSOA
+era	O	O
+secret�rio-geral	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+a	O	O
+EFTA	B-ORGANIZACAO
+?	O	O
+Quando	O	O
+�	O	O
+que	O	O
+foi	O	O
+criada	O	O
+?	O	O
+Que	O	O
+cinco	O	O
+pa�ses	O	O
+da	O	O
+EFTA	B-ORGANIZACAO
+se	O	O
+juntaram	O	O
+ao	O	O
+EEE	O	O
+``	O	O
+EEE	O	O
+quando	O	O
+este	O	O
+entrou	O	O
+em	O	O
+vigor	O	O
+?	O	O
+
+Qual	O	O
+�	O	O
+o	O	O
+maior	O	O
+banco	O	O
+do	O	O
+Jap�o	B-LOCAL
+?	O	O
+
+A	O	O
+que	O	O
+companhia	O	O
+pertencia	O	O
+o	O	O
+Airbus	O	O
+atacado	O	O
+pelo	O	O
+GIA	O	O
+em	O	O
+Dezembro	O	O
+de	O	O
+1994	O	O
+?	O	O
+
+Quem	O	O
+�	O	O
+Michael	B-PESSOA
+Jackson	I-PESSOA
+?	O	O
+Diga	O	O
+um	O	O
+dos	O	O
+grandes	O	O
+sucessos	O	O
+de	O	O
+Michael	B-PESSOA
+Jackson	I-PESSOA
+?	O	O
+Com	O	O
+quem	O	O
+�	O	O
+que	O	O
+ele	O	O
+se	O	O
+casou	O	O
+em	O	O
+Maio	O	O
+de	O	O
+1994	O	O
+?	O	O
+
+Qual	O	O
+era	O	O
+a	O	O
+nacionalidade	O	O
+de	O	O
+Ayrton	B-PESSOA
+Senna	I-PESSOA
+?	O	O
+Quantas	O	O
+vezes	O	O
+�	O	O
+que	O	O
+ele	O	O
+foi	O	O
+campe�o	O	O
+do	O	O
+mundo	O	O
+?	O	O
+Quando	O	O
+�	O	O
+que	O	O
+ele	O	O
+morreu	O	O
+?	O	O
+Em	O	O
+que	O	O
+circuito	O	O
+de	O	O
+F1	O	O
+�	O	O
+que	O	O
+ele	O	O
+morreu	O	O
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+caiu	O	O
+o	O	O
+regime	O	O
+comunista	O	O
+do	O	O
+Afeganist�o	B-LOCAL
+?	O	O
+Quem	O	O
+era	O	O
+o	O	O
+presidente	O	O
+do	O	O
+regime	O	O
+comunista	O	O
+do	O	O
+Afeganist�o	B-LOCAL
+antes	O	O
+dessa	O	O
+queda	O	O
+?	O	O
+
+Quantos	O	O
+casamentos	O	O
+ocurreram	O	O
+na	O	O
+Gr�-Bretanha	B-LOCAL
+em	O	O
+1993	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+o	O	O
+IRA	B-ORGANIZACAO
+?	O	O
+Contra	O	O
+que	O	O
+aeroporto	O	O
+londrino	O	O
+o	O	O
+IRA	B-ORGANIZACAO
+lan�ou	O	O
+um	O	O
+ataque	O	O
+de	O	O
+morteiro	O	O
+em	O	O
+1994	O	O
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+foi	O	O
+inaugurada	O	O
+a	O	O
+Ponte	B-LOCAL
+da	I-LOCAL
+Normandia	I-LOCAL
+?	O	O
+
+Quando	O	O
+ocorreu	O	O
+o	O	O
+tremor	O	O
+de	O	O
+terra	O	O
+em	O	O
+Los	B-LOCAL
+Angeles	I-LOCAL
+?	O	O
+
+Quem	O	O
+�	O	O
+Paul	B-PESSOA
+Touvier	I-PESSOA
+?	O	O
+Quando	O	O
+�	O	O
+que	O	O
+come�ou	O	O
+o	O	O
+julgamento	O	O
+de	O	O
+Paul	B-PESSOA
+Touvier	I-PESSOA
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+foi	O	O
+criado	O	O
+o	O	O
+Tribunal	B-ORGANIZACAO
+Internacional	I-ORGANIZACAO
+Penal	I-ORGANIZACAO
+para	O	O
+o	O	O
+Ruanda	B-LOCAL
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+Liamine	B-PESSOA
+Z�roul	I-PESSOA
+foi	O	O
+eleito	O	O
+para	O	O
+a	O	O
+presid�ncia	O	O
+da	O	O
+Arg�lia	B-LOCAL
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+a	O	O
+Organiza��o	O	O
+Mundial	O	O
+do	O	O
+Com�rcio	O	O
+entrou	O	O
+em	O	O
+vigor	O	O
+?	O	O
+
+Em	O	O
+que	O	O
+ano	O	O
+nasceu	O	O
+Richard	B-PESSOA
+Nixon	I-PESSOA
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+o	O	O
+antigo	O	O
+Parlamento	B-LOCAL
+da	O	O
+Bretanha	B-LOCAL
+foi	O	O
+destru�do	O	O
+por	O	O
+um	O	O
+inc�ndio	O	O
+?	O	O
+
+Onde	O	O
+fica	O	O
+Lillehammer	B-LOCAL
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+Eduardo	B-PESSOA
+Frei	I-PESSOA
+se	O	O
+tornou	O	O
+presidente	O	O
+do	O	O
+Chile	B-LOCAL
+?	O	O
+
+Em	O	O
+que	O	O
+ano	O	O
+�	O	O
+que	O	O
+Eug�ne	B-PESSOA
+Ionesco	I-PESSOA
+entrou	O	O
+na	O	O
+Academia	B-ORGANIZACAO
+Francesa	I-ORGANIZACAO
+?	O	O
+
+Que	O	O
+bispo	O	O
+foi	O	O
+suspenso	O	O
+pelo	O	O
+Vaticano	B-ORGANIZACAO
+a	O	O
+13	O	O
+de	O	O
+Fevereiro	O	O
+de	O	O
+1995	O	O
+?	O	O
+
+Em	O	O
+Fran�a	B-LOCAL
+,	O	O
+quem	O	O
+foi	O	O
+nomeado	O	O
+Primeiro	O	O
+Ministro	O	O
+a	O	O
+17	O	O
+de	O	O
+Maio	O	O
+de	O	O
+1995	O	O
+?	O	O
+
+Onde	O	O
+fica	O	O
+Balcarce	B-LOCAL
+?	O	O
+
+Que	O	O
+famoso	O	O
+condutor	O	O
+argentino	O	O
+se	O	O
+retirou	O	O
+em	O	O
+1958	O	O
+?	O	O
+
+Quem	O	O
+ganhou	O	O
+o	O	O
+Torneio	O	O
+das	O	O
+Cinco	O	O
+Na��es	O	O
+em	O	O
+1994	O	O
+?	O	O
+
+Quem	O	O
+ganhou	O	O
+o	O	O
+�scar	O	O
+de	O	O
+melhor	O	O
+filme	O	O
+por	O	O
+``	O	O
+Forrest	O	O
+Gump	O	O
+''	O	O
+?	O	O
+
+Quem	O	O
+ganhou	O	O
+o	O	O
+Pr�mio	O	O
+Goncourt	O	O
+em	O	O
+1995	O	O
+?	O	O
+
+Quem	O	O
+ganhou	O	O
+o	O	O
+�scar	O	O
+de	O	O
+melhor	O	O
+actor	O	O
+em	O	O
+1994	O	O
+?	O	O
+
+Quem	O	O
+se	O	O
+suicidou	O	O
+a	O	O
+8	O	O
+de	O	O
+Abril	O	O
+de	O	O
+1994	O	O
+?	O	O
+
+Que	O	O
+duas	O	O
+personalidades	O	O
+famosas	O	O
+presidiram	O	O
+ao	O	O
+j�ri	O	O
+do	O	O
+Festival	O	O
+de	O	O
+Cannes	B-LOCAL
+de	O	O
+1994	O	O
+?	O	O
+
+Quantos	O	O
+habitantes	O	O
+tem	O	O
+Catmandu	B-LOCAL
+?	O	O
+
+A	O	O
+que	O	O
+partido	O	O
+pol�tico	O	O
+pertence	O	O
+Th�r�se	B-PESSOA
+Aillaud	I-PESSOA
+?	O	O
+Ela	O	O
+�	O	O
+deputada	O	O
+por	O	O
+que	O	O
+regi�o	O	O
+?	O	O
+
+Quem	O	O
+foi	O	O
+eleito	O	O
+presidente	O	O
+da	O	O
+�frica	B-LOCAL
 do	I-LOCAL
 Sul	I-LOCAL
-.	O
-E	O
-uma	O
-coisa	O
-que	O
-é	O
-fundamental	O
-no	O
-nosso	O
-processo	O
-de	O
-análise	O
-é	O
-conhecer	O
-,	O
-in	O
-loco	O
-,	O
-o	O
-processo	O
-operacional	O
-,	O
-o	O
-que	O
-a	O
-empresa	O
-faz	O
-,	O
-como	O
-ela	O
-está	O
-organizada	O
-,	O
-como	O
-é	O
-o	O
-ambiente	O
-organizacional	O
-dessa	O
-empresa	O
-e	O
-o	O
-processo	O
-produtivo	O
-.	O
-Então	O
-,	O
-nós	O
-sempre	O
-visitamos	O
-as	O
-empresas	O
-.	O
+a	O	O
+9	O	O
+de	O	O
+Maio	O	O
+de	O	O
+1994	O	O
+?	O	O
 
-VIVENCIAS	O
-NO	O
-BNDES	B-ORGANIZACAO
-
-Viagens	O
-
-Eu	O
-tenho	O
-uma	O
-história	O
-bastante	O
-interessante	O
-,	O
-principalmente	O
-para	O
-aqueles	O
-que	O
-imaginam	O
-que	O
-a	O
-vida	O
-de	O
-um	O
-técnico	O
-do	O
-BNDES	B-ORGANIZACAO
-consiste	O
-em	O
-pegar	O
-avião	O
-,	O
-na	O
-ponte	O
-Rio	B-LOCAL
--	O
-São	B-LOCAL
-Paulo	I-LOCAL
-,	O
-ficar	O
-em	O
-escritórios	O
-com	O
-ar	O
-condicionado	O
-das	O
-empresas	O
-.	O
-
-Não	O
-é	O
-assim	O
-.	O
-A	O
-área	O
-que	O
-eu	O
-trabalhei	O
-durante	O
-16	O
-anos	O
-,	O
-que	O
-foi	O
-a	O
-área	O
-de	O
-Mineração	O
-e	O
-Metalurgia	O
-e	O
-Siderurgia	O
-,	O
-nós	O
-tínhamos	O
-freqüentemente	O
-viagens	O
-ao	O
-interior	O
-do	O
-Brasil	B-LOCAL
-,	O
-interior	O
-da	O
-Selva	B-LOCAL
-Amazônica	I-LOCAL
-,	O
-interior	O
-do	O
-Pará	B-LOCAL
-,	O
-do	O
-Amapá	B-LOCAL
-.	O
-Em	O
-uma	O
-dessas	O
-viagens	O
-,	O
-nós	O
-estávamos	O
-visitando	O
-um	O
-projeto	O
-de	O
-uma	O
-empresa	O
-de	O
-mineração	O
-,	O
-que	O
-queria	O
-desenvolver	O
-uma	O
-lavra	O
-de	O
-ouro	O
-,	O
-em	O
-processo	O
-industrial	O
-.	O
-E	O
-o	O
-que	O
-aconteceu	O
-de	O
-interessante	O
-nesse	O
-processo	O
-é	O
-que	O
-eu	O
-,	O
-o	O
-nosso	O
-chefe	O
-na	O
-época	O
-,	O
-o	O
-Wagner	B-PESSOA
-Bittencourt	I-PESSOA
-e	O
-mais	O
-dois	O
-técnicos	O
-,	O
-Mário	B-PESSOA
-Miceli	I-PESSOA
-,	O
-Eduardo	B-PESSOA
-Cestari	I-PESSOA
-,	O
-fizemos	O
-a	O
-viagem	O
-do	O
-Rio	B-LOCAL
-até	O
-Itaituba	B-LOCAL
-,	O
-no	O
-Pará	B-LOCAL
-.	O
-Essa	O
-viagem	O
-foi	O
-feita	O
-num	O
-Lear	O
-Jet	O
-da	O
-empresa	O
-,	O
-no	O
-maior	O
-conforto	O
-,	O
-digamos	O
-,	O
-na	O
-maior	O
-mordomia	O
-.	O
-Quando	O
-chegamos	O
-em	O
-Itaituba	B-LOCAL
-,	O
-o	O
-deslocamento	O
-de	O
-Itaituba	B-LOCAL
-até	O
-onde	O
-tinha	O
-essa	O
-ocorrência	O
-mineral	O
-,	O
-que	O
-se	O
-encontrava	O
-no	O
-Rio	B-LOCAL
-Tapajós	I-LOCAL
-,	O
-só	O
-podia	O
-ser	O
-feita	O
-de	O
-barco	O
-.	O
-E	O
-nós	O
-entramos	O
-no	O
-barco	O
-da	O
-empresa	O
-,	O
-não	O
-era	O
-um	O
-grande	O
-barco	O
-,	O
-o	O
-que	O
-eles	O
-chamam	O
-de	O
-``	O
-voadeira	O
-''	O
-.	O
-``	O
-Voadeira	O
-''	O
-é	O
-uma	O
-lancha	O
-de	O
-metal	O
-,	O
-é	O
-um	O
-barco	O
-de	O
-metal	O
-de	O
-10	O
-metros	O
-de	O
-comprimento	O
-,	O
-mais	O
-ou	O
-menos	O
-.	O
-Além	O
-de	O
-nós	O
-quatro	O
-do	O
-BNDES	B-ORGANIZACAO
-,	O
-havia	O
-dois	O
-diretores	O
-da	O
-empresa	O
-e	O
-o	O
-barqueiro	O
-.	O
-E	O
-esse	O
-barco	O
-estava	O
-carregando	O
-muito	O
-material	O
-para	O
-a	O
-empresa	O
-.	O
-Por	O
-problemas	O
-de	O
-navegação	O
-naquele	O
-trecho	O
-,	O
-não	O
-havia	O
-uma	O
-navegação	O
-regular	O
-,	O
-então	O
-procurava-se	O
-maximizar	O
-qualquer	O
-viagem	O
-que	O
-fizesse	O
-para	O
-aquela	O
-região	O
-,	O
-levar	O
-o	O
-máximo	O
-possível	O
-de	O
-material	O
-.	O
-E	O
-a	O
-empresa	O
-,	O
-além	O
-de	O
-nós	O
-,	O
-estava	O
-levando	O
-combustível	O
-,	O
-bombas	O
-,	O
-equipamentos	O
-.	O
-O	O
-barco	O
-estava	O
-muito	O
-pesado	O
-.	O
-Naquela	O
-época	O
-,	O
-o	O
-rio	O
-Tapajós	B-LOCAL
-estava	O
-num	O
-período	O
-de	O
-pouca	O
-chuva	O
-,	O
-então	O
-as	O
-pedras	O
-estavam	O
-muito	O
-aflorando	O
-na	O
-superfície	O
-.	O
-Nós	O
-ficamos	O
-um	O
-pouco	O
-preocupados	O
-porque	O
-da	O
-margem	O
-,	O
-do	O
-ponto	O
-que	O
-nós	O
-estávamos	O
-sentados	O
-no	O
-barco	O
-,	O
-da	O
-quilha	O
-até	O
-o	O
-nível	O
-de	O
-água	O
-,	O
-dava	O
-um	O
-palmo	O
-de	O
-diferença	O
-.	O
-Então	O
-,	O
-qualquer	O
-oscilação	O
-faria	O
-com	O
-que	O
-entrasse	O
-água	O
-.	O
-E	O
-realmente	O
-isso	O
-aconteceu	O
-.	O
-À	O
-medida	O
-que	O
-nós	O
-fomos	O
-nos	O
-deslocando	O
-pelo	O
-rio	O
-Tapajós	B-LOCAL
-,	O
-no	O
-sentido	O
-montante	O
-,	O
-começou	O
-entrar	O
-água	O
-dentro	O
-do	O
-barco	O
-.	O
-Como	O
-se	O
-não	O
-bastasse	O
-,	O
-o	O
-motor	O
-falhou	O
-.	O
-O	O
-motor	O
-falhou	O
-,	O
-nós	O
-ficamos	O
-à	O
-deriva	O
-e	O
-foi	O
-entrando	O
-água	O
-,	O
-foi	O
-entrando	O
-água	O
-.	O
-De	O
-repente	O
-,	O
-todo	O
-mundo	O
-se	O
-apavorou	O
-e	O
-,	O
-no	O
-momento	O
-que	O
-levantou	O
-todo	O
-mundo	O
-,	O
-o	O
-barco	O
-perdeu	O
-o	O
-equilíbrio	O
-,	O
-ele	O
-virou	O
-,	O
-literalmente	O
-virou	O
-.	O
-Todos	O
-nós	O
-caímos	O
-dentro	O
-do	O
-rio	O
-,	O
-o	O
-equipamento	O
-foi	O
-todo	O
-perdido	O
-e	O
-nós	O
-ficamos	O
-cerca	O
-de	O
-uma	O
-hora	O
-à	O
-deriva	O
-.	O
-Para	O
-se	O
-ter	O
-uma	O
-idéia	O
-do	O
-rio	O
-Tapajós	B-LOCAL
-,	O
-ele	O
-tem	O
-,	O
-mais	O
-ou	O
-menos	O
-,	O
-uns	O
-900	O
-metros	O
-de	O
-largura	O
-.	O
-Nós	O
-ficamos	O
-exatamente	O
-no	O
-meio	O
-e	O
-a	O
-correnteza	O
-puxava	O
-muito	O
-,	O
-então	O
-nós	O
-ficamos	O
-à	O
-deriva	O
-,	O
-nos	O
-dispersamos	O
-,	O
-mas	O
-,	O
-graças	O
-a	O
-Deus	B-PESSOA
-,	O
-conseguimos	O
-parar	O
-num	O
-banco	O
-de	O
-areia	O
-no	O
-meio	O
-do	O
-rio	O
-.	O
-E	O
-mais	O
-tarde	O
-,	O
-umas	O
-duas	O
-horas	O
-depois	O
-,	O
-uma	O
-outra	O
-``	O
-voadeira	O
-''	O
-que	O
-passava	O
-no	O
-local	O
-,	O
-nos	O
-socorreu	O
-.	O
-Aí	O
-,	O
-pode	O
-ser	O
-perguntado	O
-:	O
-``	O
-Bom	O
-,	O
-a	O
-viagem	O
-de	O
-vocês	O
-terminou	O
-aí	O
-.	O
-Vocês	O
-voltaram	O
-para	O
-Itaituba	B-LOCAL
-para	O
-o	O
-Rio	B-LOCAL
-de	I-LOCAL
-Janeiro	I-LOCAL
-?	O
-''	O
-Não	O
-.	O
-Aproveitamos	O
-que	O
-nós	O
-estávamos	O
-,	O
-mais	O
-ou	O
-menos	O
-perto	O
-,	O
-umas	O
-três	O
-horas	O
-do	O
-ponto	O
-que	O
-a	O
-gente	O
-ia	O
-visitar	O
-,	O
-continuamos	O
-a	O
-viagem	O
-,	O
-visitamos	O
-o	O
-projeto	O
-,	O
-fizemos	O
-todo	O
-contato	O
-necessário	O
-.	O
-Apesar	O
-desse	O
-imprevisto	O
-,	O
-desse	O
-incidente	O
-,	O
-graças	O
-a	O
-Deus	B-PESSOA
-ninguém	O
-morreu	O
-,	O
-mas	O
-nós	O
-fomos	O
-lá	O
-no	O
-local	O
-,	O
-cumprimos	O
-a	O
-nossa	O
-missão	O
-.	O
-Conseguimos	O
-coletar	O
-material	O
-para	O
-fazer	O
-análise	O
-do	O
-projeto	O
-,	O
-que	O
-infelizmente	O
-,	O
-não	O
-foi	O
-aprovado	O
-,	O
-porque	O
-a	O
-questão	O
-da	O
-segurança	O
-foi	O
-um	O
-aspecto	O
-que	O
-pesou	O
-muito	O
-na	O
-análise	O
-da	O
-empresa	O
-,	O
-e	O
-por	O
-essa	O
-falha	O
-,	O
-na	O
-segurança	O
-,	O
-no	O
-deslocamento	O
-,	O
-nós	O
-olhamos	O
-com	O
-mais	O
-atenção	O
-à	O
-segurança	O
-do	O
-empreendimento	O
-,	O
-que	O
-era	O
-muito	O
-falha	O
-.	O
-A	O
-mina	O
-que	O
-estavam	O
-perfurando	O
-,	O
-parecia	O
-uma	O
-mina	O
-daquela	O
-época	O
-do	O
-Velho	O
-Oeste	O
-,	O
-aquelas	O
-galerias	O
-muito	O
-mal	O
-estruturadas	O
-.	O
-Então	O
-,	O
-o	O
-Banco	B-ORGANIZACAO
-realmente	O
-não	O
-concedeu	O
-financiamento	O
-para	O
-essa	O
-empresa	O
-.	O
-Isso	O
-foi	O
-em	O
-julho	O
-de	O
-1988	O
-.	O
-
-AVALIAÇÃO	O
-PESSOAL	O
-
-Significado	O
-do	O
-BNDES	B-ORGANIZACAO
-
-Para	O
-mim	O
-o	O
-BNDES	B-ORGANIZACAO
-,	O
-em	O
-primeiro	O
-lugar	O
-,	O
-ele	O
-é	O
-uma	O
-grande	O
-escola	O
-.	O
-É	O
-um	O
-local	O
-que	O
-se	O
-você	O
-quiser	O
-conhecer	O
-o	O
-que	O
-é	O
-o	O
-Brasil	B-LOCAL
-,	O
-como	O
-funciona	O
-o	O
-Brasil	O
-,	O
-como	O
-se	O
-dá	O
-o	O
-processo	O
-de	O
-desenvolvimento	O
-,	O
-não	O
-existe	O
-melhor	O
-local	O
-.	O
-Porque	O
-aqui	O
-nós	O
-lidamos	O
-com	O
-toda	O
-a	O
-economia	O
-.	O
-Toda	O
-a	O
-economia	O
-do	O
-Brasil	B-LOCAL
-,	O
-todo	O
-tipo	O
-de	O
-atividade	O
-,	O
-é	O
-estudada	O
-,	O
-é	O
-analisada	O
-,	O
-é	O
-conhecida	O
-aqui	O
-dentro	O
-.	O
-Segundo	O
-lugar	O
-,	O
-o	O
-Banco	B-ORGANIZACAO
-é	O
-uma	O
-grande	O
-família	O
-,	O
-um	O
-ambiente	O
-de	O
-trabalho	O
-excelente	O
-,	O
-até	O
-hoje	O
-,	O
-eu	O
-só	O
-fiz	O
-amigos	O
-aqui	O
-no	O
-Banco	B-ORGANIZACAO
-.	O
-É	O
-uma	O
-experiência	O
-muito	O
-gratificante	O
-,	O
-tanto	O
-que	O
-o	O
-emprego	O
-que	O
-eu	O
-mais	O
-permaneci	O
-até	O
-hoje	O
-,	O
-foi	O
-o	O
-BNDES	B-ORGANIZACAO
-.	O
-Eu	O
-já	O
-tive	O
-experiências	O
-anteriores	O
-,	O
-trabalhei	O
-em	O
-outros	O
-locais	O
-,	O
-antes	O
-do	O
-BNDES	B-ORGANIZACAO
-,	O
-mas	O
-aqui	O
-foi	O
-o	O
-local	O
-que	O
-eu	O
-mais	O
-me	O
-identifiquei	O
-,	O
-pelo	O
-ambiente	O
-,	O
-tipo	O
-de	O
-trabalho	O
-e	O
-pela	O
-importância	O
-para	O
-o	O
-desenvolvimento	O
-do	O
-país	O
-.	O
-
-Projeto	O
-Memória	O
-
-Sobre	O
-o	O
-Projeto	O
-Memória	O
-dos	O
-50	O
-anos	O
-do	O
-Banco	O
-eu	O
-agradeço	O
-essa	O
-oportunidade	O
-de	O
-poder	O
-deixar	O
-um	O
-registro	O
-para	O
-gerações	O
-futuras	O
-,	O
-e	O
-quero	O
-parabenizar	O
-a	O
-diretoria	O
-do	O
-Banco	B-ORGANIZACAO
-e	O
-a	O
-equipe	O
-pelo	O
-brilhante	O
-trabalho	O
-de	O
-registrar	O
-essa	O
-memória	O
-do	O
-Banco	B-ORGANIZACAO
-,	O
-porque	O
-uma	O
-das	O
-falhas	O
-que	O
-a	O
-gente	O
-percebe	O
-no	O
-Brasil	B-LOCAL
-,	O
-é	O
-a	O
-escassez	O
-do	O
-registro	O
-do	O
-passado	O
-.	O
-À	O
-despeito	O
-de	O
-outros	O
-países	O
-que	O
-sabem	O
-cuidar	O
-muito	O
-bem	O
-do	O
-seu	O
-passado	O
-,	O
-cultuam	O
-,	O
-reverenciam	O
-o	O
-passado	O
-como	O
-uma	O
-forma	O
-de	O
-levar	O
-para	O
-o	O
-presente	O
-os	O
-valores	O
-importantes	O
-do	O
-passado	O
-.	O
-No	O
-Brasil	B-LOCAL
-até	O
-então	O
-,	O
-isso	O
-não	O
-vinha	O
-sido	O
-tratado	O
-com	O
-cuidado	O
-.	O
-Nós	O
-podemos	O
-citar	O
-um	O
-exemplo	O
-que	O
-é	O
-comum	O
-de	O
-todo	O
-mundo	O
-,	O
-a	O
-questão	O
-da	O
-ferrovia	O
-no	O
-Brasil	B-LOCAL
-.	O
-Ela	O
-teve	O
-uma	O
-importância	O
-fundamental	O
-no	O
-desenvolvimento	O
-do	O
-país	O
-,	O
-o	O
-próprio	O
-BNDES	B-ORGANIZACAO
-apoiou	O
-as	O
-ferrovias	O
-,	O
-ou	O
-a	O
-expansão	O
-da	O
-Central	B-LOCAL
-do	I-LOCAL
-Brasil	I-LOCAL
-e	O
-outros	O
-.	O
-Mas	O
-hoje	O
-,	O
-não	O
-existe	O
-uma	O
-memória	O
-ferroviária	O
-para	O
-se	O
-contar	O
-a	O
-história	O
-desse	O
-meio	O
-de	O
-transporte	O
-pioneiro	O
-,	O
-que	O
-vai	O
-comemorar	O
-150	O
-anos	O
-agora	O
-,	O
-em	O
-2004	O
-,	O
-e	O
-foi	O
-um	O
-dos	O
-vetores	O
-mais	O
-importantes	O
-para	O
-o	O
-desenvolvimento	O
-do	O
-Brasil	B-ORGANIZACAO
-.	O
-Eu	O
-diria	O
-,	O
-para	O
-finalizar	O
-,	O
-que	O
-a	O
-importância	O
-do	O
-desenvolvimento	O
-do	O
-Brasil	B-ORGANIZACAO
-se	O
-deve	O
-,	O
-em	O
-primeiro	O
-lugar	O
-,	O
-às	O
-ferrovias	O
-,	O
-ao	O
-seu	O
-pioneirismo	O
-há	O
-150	O
-anos	O
-atrás	O
-.	O
-Em	O
-segundo	O
-lugar	O
-,	O
-o	O
-BNDES	B-ORGANIZACAO
-que	O
-está	O
-alavancando	O
-tudo	O
-isso	O
-aí	O
-.	O
-
-História	O
-
-As	O
-ilhas	O
-de	O
-Cabo	B-LOCAL
-Verde	I-LOCAL
-foram	O
-descobertas	O
-por	O
-navegadores	O
-portugueses	O
-em	O
-Maio	O
-de	O
-1460	O
-,	O
-sem	O
-indícios	O
-de	O
-presença	O
-humana	O
-anterior	O
-.	O
-Santiago	B-LOCAL
-foi	O
-a	O
-ilha	O
-mais	O
-favorável	O
-para	O
-a	O
-ocupação	O
-e	O
-assim	O
-o	O
-povoamento	O
-começa	O
-ali	O
-em	O
-1462	O
-.	O
-
-Dada	O
-a	O
-sua	O
-posição	O
-estratégica	O
-,	O
-nas	O
-rotas	O
-que	O
-ligavam	O
-entre	O
-si	O
-a	O
-Europa	B-LOCAL
-,	O
-a	O
-África	B-LOCAL
-e	O
-o	O
-Brasil	B-LOCAL
-,	O
-as	O
-ilhas	O
-serviram	O
-de	O
-entreposto	O
-comercial	O
-e	O
-de	O
-aprovisionamento	O
-,	O
-com	O
-particular	O
-destaque	O
-no	O
-tráfego	O
-de	O
-escravos	O
-.	O
-Cedo	O
-,	O
-o	O
-arquipélago	O
-tornou-se	O
-num	O
-centro	O
-de	O
-concentração	O
-e	O
-dispersão	O
-de	O
-homens	O
-,	O
-plantas	O
-e	O
-animais	O
-.	O
-
-Com	O
-a	O
-abolição	O
-do	O
-comércio	O
-de	O
-escravos	O
-e	O
-a	O
-constante	O
-deterioração	O
-das	O
-condições	O
-climáticas	O
-,	O
-Cabo	B-ORGANIZACAO
-Verde	I-ORGANIZACAO
-entrou	O
-em	O
-decadência	O
-e	O
-passou	O
-a	O
-viver	O
-com	O
-base	O
-numa	O
-economia	O
-pobre	O
-,	O
-de	O
-subsistência	O
-.	O
-
-Europeus	O
-livres	O
-e	O
-escravos	O
-da	O
-costa	O
-africana	O
-fundiram-se	O
-num	O
-só	O
-povo	O
-,	O
-o	O
-caboverdiano	O
-,	O
-com	O
-uma	O
-forma	O
-de	O
-estar	O
-e	O
-viver	O
-muito	O
-própria	O
-e	O
-o	O
-crioulo	O
-emergiu	O
-como	O
-idioma	O
-da	O
-comunidade	O
-maioritariamente	O
-mestiça	O
-.	O
-
-Em	O
-1956	O
-,	O
-Amílcar	B-PESSOA
-Cabral	I-PESSOA
-criou	O
-o	O
+Quem	O	O
+se	O	O
+tornou	O	O
+l�der	O	O
+do	O	O
 Partido	B-ORGANIZACAO
-Africano	I-ORGANIZACAO
-para	I-ORGANIZACAO
-a	I-ORGANIZACAO
-Independência	I-ORGANIZACAO
-da	I-ORGANIZACAO
-Guiné	I-ORGANIZACAO
-e	I-ORGANIZACAO
-Cabo	I-ORGANIZACAO
-Verde	I-ORGANIZACAO
-(	O
-PAIGC	B-ORGANIZACAO
-)	O
-,	O
-lutando	O
-contra	O
-o	O
-colonialismo	O
-e	O
-iniciando	O
-uma	O
-marcha	O
-para	O
-a	O
-independência	O
-.	O
-A	O
-19	O
-de	O
-Dezembro	O
-de	O
-1974	O
-foi	O
-assinado	O
-um	O
-acordo	O
-entre	O
-o	O
-PAIGC	B-ORGANIZACAO
-e	O
-Portugal	B-ORGANIZACAO
-,	O
-instaurando-se	O
-um	O
-governo	O
-de	O
-transição	O
-em	O
-Cabo	B-LOCAL
-Verde	I-LOCAL
-.	O
-Este	O
-mesmo	O
-Governo	B-ORGANIZACAO
-preparou	O
-as	O
-eleições	O
-para	O
-uma	O
+Trabalhista	I-ORGANIZACAO
+brit�nico	O	O
+a	O	O
+21	O	O
+de	O	O
+Julho	O	O
+de	O	O
+1994	O	O
+?	O	O
+
+Quais	O	O
+as	O	O
+cinco	O	O
+praias	O	O
+do	O	O
+desembarque	O	O
+das	O	O
+quais	O	O
+um	O	O
+industrial	O	O
+comprou	O	O
+200	O	O
+toneladas	O	O
+de	O	O
+areia	O	O
+para	O	O
+comemorar	O	O
+o	O	O
+50�	O	O
+anivers�rio	O	O
+do	O	O
+Dia-D	O	O
+?	O	O
+
+Quem	O	O
+era	O	O
+presidente	O	O
+da	O	O
+Comiss�o	B-ORGANIZACAO
+Europeia	I-ORGANIZACAO
+em	O	O
+1995	O	O
+?	O	O
+
+Onde	O	O
+�	O	O
+que	O	O
+Stephanie	B-PESSOA
+do	O	O
+M�naco	B-LOCAL
+e	O	O
+Daniel	B-PESSOA
+Ducruet	I-PESSOA
+se	O	O
+casaram	O	O
+?	O	O
+
+Quantas	O	O
+pessoas	O	O
+estavam	O	O
+presentes	O	O
+na	O	O
+cerim�nia	O	O
+em	O	O
+mem�ria	O	O
+do	O	O
+escritor	O	O
+Elias	B-PESSOA
+Canetti	I-PESSOA
+?	O	O
+
+Qual	O	O
+o	O	O
+endere�o	O	O
+da	O	O
+Delega��o	B-LOCAL
+de	I-LOCAL
+Turismo	I-LOCAL
+do	O	O
+Sri	B-LOCAL
+Lanka	I-LOCAL
+?	O	O
+
+Que	O	O
+aconteceu	O	O
+na	O	O
+Arg�lia	B-LOCAL
+na	O	O
+noite	O	O
+de	O	O
+17	O	O
+para	O	O
+18	O	O
+de	O	O
+Agosto	O	O
+de	O	O
+1994	O	O
+?	O	O
+Quantas	O	O
+pessoas	O	O
+morreram	O	O
+no	O	O
+terramoto	O	O
+?	O	O
+Quantos	O	O
+quil�metros	O	O
+s�o	O	O
+de	O	O
+Or�o	B-LOCAL
+a	O	O
+Macara	B-LOCAL
+?	O	O
+
+Um	O	O
+m�ssil	O	O
+ASMP	O	O
+�	O	O
+quantas	O	O
+vezes	O	O
+mais	O	O
+r�pido	O	O
+do	O	O
+que	O	O
+a	O	O
+velocidade	O	O
+do	O	O
+som	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+a	O	O
+FPLP	B-ORGANIZACAO
+?	O	O
+Quem	O	O
+era	O	O
+considerado	O	O
+chefe	O	O
+do	O	O
+grupo	O	O
+?	O	O
+Em	O	O
+que	O	O
+pa�s	O	O
+fica	O	O
+Beit	B-LOCAL
+Liqya	I-LOCAL
+?	O	O
+
+A	O	O
+que	O	O
+cidade	O	O
+chinesa	O	O
+foi	O	O
+Warren	B-PESSOA
+Christopher	I-PESSOA
+enviado	O	O
+por	O	O
+Bill	B-PESSOA
+Clinton	I-PESSOA
+para	O	O
+apreciar	O	O
+os	O	O
+eventuais	O	O
+progressos	O	O
+relativos	O	O
+aos	O	O
+direitos	O	O
+humanos	O	O
+?	O	O
+
+Quem	O	O
+�	O	O
+Sir	B-PESSOA
+Winston	I-PESSOA
+Churchill	I-PESSOA
+?	O	O
+
+Que	O	O
+pr�mio	O	O
+ganhou	O	O
+o	O	O
+filme	O	O
+``	O	O
+Pulp	O	O
+Fiction	O	O
+''	O	O
+no	O	O
+Festival	O	O
+de	O	O
+Cannes	B-LOCAL
+?	O	O
+Quem	O	O
+realizou	O	O
+esse	O	O
+filme	O	O
+?	O	O
+Quem	O	O
+�	O	O
+o	O	O
+actor	O	O
+principal	O	O
+?	O	O
+
+Quantos	O	O
+habitantes	O	O
+tem	O	O
+a	O	O
+Uni�o	B-LOCAL
+Sovi�tica	I-LOCAL
+?	O	O
+
+Quantos	O	O
+po�os	O	O
+tiveram	O	O
+que	O	O
+ser	O	O
+encerrados	O	O
+ap�s	O	O
+a	O	O
+ruptura	O	O
+de	O	O
+um	O	O
+oleoduto	O	O
+na	O	O
+Sib�ria	O	O
+?	O	O
+
+Onde	O	O
+�	O	O
+que	O	O
+fica	O	O
+o	O	O
+aeroporto	O	O
+de	O	O
+Irkutsk	B-LOCAL
+?	O	O
+
+Que	O	O
+dois	O	O
+bancos	O	O
+se	O	O
+fundiram	O	O
+para	O	O
+formar	O	O
+o	O	O
+banco	O	O
+Tokyo-Mitsubishi	B-ORGANIZACAO
+?	O	O
+
+Quantos	O	O
+quil�metros	O	O
+separam	O	O
+Kikwit	B-LOCAL
+de	O	O
+Kinshasa	B-LOCAL
+?	O	O
+
+Em	O	O
+que	O	O
+filme	O	O
+de	O	O
+Andr�	B-PESSOA
+Cayatte	I-PESSOA
+participou	O	O
+Annie	B-PESSOA
+Girardot	I-PESSOA
+em	O	O
+1971	O	O
+?	O	O
+De	O	O
+que	O	O
+doen�a	O	O
+�	O	O
+que	O	O
+ela	O	O
+sofre	O	O
+desde	O	O
+2006	O	O
+?	O	O
+Onde	O	O
+�	O	O
+que	O	O
+ela	O	O
+nasceu	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+a	O	O
+acelera��o	O	O
+centr�fuga	O	O
+?	O	O
+
+O	O	O
+que	O	O
+significa	O	O
+a	O	O
+sigla	O	O
+WIA	O	O
+?	O	O
+
+Em	O	O
+que	O	O
+ano	O	O
+foi	O	O
+realizado	O	O
+o	O	O
+filme	O	O
+``	O	O
+Ace	O	O
+Ventura	O	O
+em	O	O
+�frica	O	O
+''	O	O
+?	O	O
+
+Que	O	O
+v�rus	O	O
+atingiu	O	O
+o	O	O
+Zaire	B-LOCAL
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+Geographos	O	O
+?	O	O
+
+Que	O	O
+avi�o	O	O
+civil	O	O
+efectuou	O	O
+o	O	O
+voo	O	O
+mais	O	O
+longo	O	O
+sem	O	O
+escalas	O	O
+?	O	O
+Onde	O	O
+�	O	O
+que	O	O
+o	O	O
+A340	O	O
+levou	O	O
+a	O	O
+cabo	O	O
+o	O	O
+voo	O	O
+mais	O	O
+longo	O	O
+sem	O	O
+escalas	O	O
+por	O	O
+um	O	O
+avi�o	O	O
+civil	O	O
+?	O	O
+Quando	O	O
+�	O	O
+que	O	O
+este	O	O
+feito	O	O
+foi	O	O
+levado	O	O
+a	O	O
+cabo	O	O
+?	O	O
+
+Que	O	O
+nome	O	O
+se	O	O
+d�	O	O
+a	O	O
+uma	O	O
+inflama��o	O	O
+dos	O	O
+g�nglios	O	O
+?	O	O
+
+Quais	O	O
+s�o	O	O
+os	O	O
+outros	O	O
+tr�s	O	O
+nomes	O	O
+do	O	O
+Arsenal	B-ORGANIZACAO
+Football	I-ORGANIZACAO
+Club	I-ORGANIZACAO
+?	O	O
+Quando	O	O
+�	O	O
+que	O	O
+este	O	O
+clube	O	O
+foi	O	O
+fundado	O	O
+?	O	O
+Em	O	O
+que	O	O
+est�dio	O	O
+�	O	O
+que	O	O
+os	O	O
+jogadores	O	O
+do	O	O
+Arsenal	O	O
+t�m	O	O
+estado	O	O
+a	O	O
+treinar	O	O
+desde	O	O
+Agosto	O	O
+de	O	O
+2006	O	O
+?	O	O
+Quantos	O	O
+lugares	O	O
+tem	O	O
+o	O	O
+est�dio	O	O
+?	O	O
+
+Com	O	O
+que	O	O
+Pr�mio	O	O
+Nobel	O	O
+�	O	O
+que	O	O
+Seamus	B-PESSOA
+Heaney	I-PESSOA
+foi	O	O
+galardoado	O	O
+?	O	O
+
+Quantos	O	O
+estados	O	O
+ratificaram	O	O
+a	O	O
+conven��o	O	O
+adoptada	O	O
+pela	O	O
 Assembleia	B-ORGANIZACAO
-Nacional	I-ORGANIZACAO
-Popular	I-ORGANIZACAO
-que	O
-em	O
-5	O
-de	O
-Julho	O
-de	O
-1975	O
-proclamou	O
-a	O
-independência	O
-.	O
+Geral	I-ORGANIZACAO
+da	O	O
+ONU	B-ORGANIZACAO
+em	O	O
+20	O	O
+de	O	O
+Novembro	O	O
+de	O	O
+1989	O	O
+?	O	O
 
-A	O
-demarcação	O
-cultural	O
-em	O
-relação	O
-a	O
-Portugal	O
-e	O
-a	O
-divulgação	O
-de	O
-ideias	O
-nacionalistas	O
-conduziram	O
-à	O
-independência	O
-do	O
-arquipélago	O
-em	O
-Julho	O
-de	O
-1975	O
-.	O
-Em	O
-1991	O
-,	O
-na	O
-sequência	O
-das	O
-primeiras	O
-eleições	O
-pluripartidárias	O
-realizadas	O
-no	O
-país	O
-,	O
-foi	O
-instituída	O
-uma	O
-democracia	O
-parlamentar	O
-com	O
-todas	O
-as	O
-instituições	O
-de	O
-uma	O
-democracia	O
-moderna	O
-.	O
+Quem	O	O
+�	O	O
+Ars�ne	B-PESSOA
+Wenger	I-PESSOA
+?	O	O
+De	O	O
+que	O	O
+equipa	O	O
+�	O	O
+que	O	O
+ele	O	O
+se	O	O
+tornou	O	O
+treinador	O	O
+em	O	O
+1987	O	O
+?	O	O
 
-Hoje	O
-Cabo	B-ORGANIZACAO
-verde	O
-é	O
-um	O
-país	O
-com	O
-estabilidade	O
-e	O
-paz	O
-sociais	O
-,	O
-pelo	O
-que	O
-goza	O
-de	O
-crédito	O
-junto	O
-de	O
-governos	O
-,	O
-empresas	O
-e	O
-instituições	O
-financeiras	O
-internacionais	O
-.	O
+Em	O	O
+que	O	O
+ano	O	O
+foi	O	O
+fundada	O	O
+a	O	O
+firma	O	O
+Adidas	B-ORGANIZACAO
+Group	I-ORGANIZACAO
+AG	I-ORGANIZACAO
+?	O	O
+Qual	O	O
+�	O	O
+a	O	O
+sua	O	O
+�rea	O	O
+de	O	O
+trabalho	O	O
+?	O	O
 
-Geografia	O
+Qual	O	O
+�	O	O
+a	O	O
+altitude	O	O
+do	O	O
+Monte	O	O
+Rosa	O	O
+?	O	O
 
-Situadas	O
-a	O
-455Km	O
-da	O
-Costa	B-LOCAL
-Africana	I-LOCAL
-,	O
-as	O
-dez	O
-ilhas	O
-e	O
-os	O
-oito	O
-ilhéus	O
-do	O
-Arquipélago	B-LOCAL
-de	I-LOCAL
-Cabo	I-LOCAL
-Verde	I-LOCAL
-,	O
-estendem-se	O
-por	O
-cerca	O
-de	O
-4033Km2	O
-e	O
-foram	O
-formadas	O
-pela	O
-acumulação	O
-de	O
-rochas	O
-,	O
-resultantes	O
-de	O
-erupções	O
-sobre	O
-as	O
-plataformas	O
-submarinas	O
-.	O
+Quantos	O	O
+litros	O	O
+de	O	O
+azeite	O	O
+s�o	O	O
+comercializados	O	O
+por	O	O
+ano	O	O
+pela	O	O
+EBS	B-ORGANIZACAO
+?	O	O
 
-O	O
-arquipélago	O
-tem	O
-,	O
-de	O
-uma	O
-forma	O
-geral	O
-,	O
-um	O
-aspecto	O
-imponente	O
-e	O
-majestoso	O
-.	O
-Algumas	O
-ilhas	O
-são	O
-áridas	O
-,	O
-mas	O
-noutras	O
-a	O
-vegetação	O
-é	O
-exuberante	O
-,	O
-tropical	O
-.	O
+De	O	O
+que	O	O
+pa�s	O	O
+�	O	O
+Kim	B-PESSOA
+Il	I-PESSOA
+Sung	I-PESSOA
+presidente	O	O
+?	O	O
 
-Os	O
-ventos	O
-Alísios	O
-vindos	O
-do	O
-Continente	B-LOCAL
-Africano	I-LOCAL
-,	O
-dividem	O
-o	O
-país	O
-em	O
-dois	O
-grupos	O
-,	O
-o	O
-de	O
-Barlavento	B-LOCAL
-constituído	O
-por	O
-S.	B-LOCAL
-Vicente	I-LOCAL
-,	O
-Sal	B-LOCAL
-,	O
-S.	B-LOCAL
-Nicolau	I-LOCAL
-,	O
-Santo	B-LOCAL
-Antão	I-LOCAL
-,	O
-Boavista	B-LOCAL
-e	O
-Santa	B-LOCAL
-Luzia	I-LOCAL
-e	O
-o	O
-de	O
-Sotavento	B-LOCAL
-pelas	O
-ilhas	O
-de	O
-Santiago	B-LOCAL
-Maio	I-LOCAL
-Brava	I-LOCAL
-e	O
-Fogo	B-LOCAL
-.	O
-O	O
-relevo	O
-da	O
-maior	O
-parte	O
-das	O
-ilhas	O
-é	O
-acidentado	O
-,	O
-com	O
-altitudes	O
-que	O
-ultrapassam	O
-os	O
-mil	O
-metros	O
-em	O
-algumas	O
-ilhas	O
-atingindo	O
-mesmo	O
-cerca	O
-de	O
-2.830	O
-metros	O
-na	O
-ilha	O
-do	O
-Fogo	B-LOCAL
-.	O
-As	O
-três	O
-ilhas	O
-mais	O
-orientais	O
-,	O
-Sal	B-LOCAL
-Maio	I-LOCAL
-e	O
-Boavista	B-LOCAL
-,	O
-têm	O
-um	O
-relevo	O
-mais	O
-plano	O
-e	O
-um	O
-clima	O
-mais	O
-árido	O
-por	O
-estarem	O
-expostas	O
-aos	O
-ventos	O
-secos	O
-e	O
-quentes	O
-do	O
-Sahara	B-LOCAL
-.	O
+As	O	O
+am�ndoas	O	O
+s�o	O	O
+o	O	O
+fruto	O	O
+de	O	O
+que	O	O
+�rvore	O	O
+?	O	O
+De	O	O
+onde	O	O
+�	O	O
+que	O	O
+ela	O	O
+�	O	O
+origin�ria	O	O
+?	O	O
 
-Então	O
-foi	O
-para	O
-a	O
-Bélgica	B-LOCAL
-e	O
-depois	O
-?	O
+Quem	O	O
+�	O	O
+Charles-Ange	B-PESSOA
+Gin�sy	I-PESSOA
+?	O	O
+De	O	O
+que	O	O
+munic�pio	O	O
+�	O	O
+que	O	O
+ele	O	O
+tamb�m	O	O
+�	O	O
+presidente	O	O
+?	O	O
+Em	O	O
+que	O	O
+grupo	O	O
+pol�tico	O	O
+�	O	O
+que	O	O
+ele	O	O
+tem	O	O
+assento	O	O
+?	O	O
 
-Aí	O
-gostei	O
-muito	O
-.	O
-Entrei	O
-em	O
-contacto	O
-com	O
-a	O
-cultura	O
-alemão	O
-,	O
-francesa	O
-e	O
-inglesa	O
-.	O
+O	O	O
+que	O	O
+�	O	O
+a	O	O
+febre-amarela	O	O
+?	O	O
 
-Como	O
-surgiu	O
-a	O
-ideia	O
-de	O
-ir	O
-para	O
-lá	O
-?	O
-Foi	O
-a	O
-convite	O
-de	O
-alguém	O
-?	O
+Que	O	O
+ferry-boat	O	O
+famoso	O	O
+naufragou	O	O
+no	O	O
+Mar	O	O
+B�ltico	O	O
+?	O	O
 
-Não	O
-é	O
-que	O
-eu	O
-vinha	O
-aqui	O
-para	O
-professor	O
-de	O
-Ética	O
-Económica	O
-e	O
-Política	O
-e	O
-a	O
-gente	O
-falar	O
-de	O
-Ética	O
-Económica	O
-sem	O
-saber	O
-Economia	O
-ou	O
-falar	O
-de	O
-Ética	O
-Política	O
-sem	O
-saber	O
-política	O
-,	O
-é	O
-fiar	O
-sem	O
-linha	O
-.	O
-Porque	O
-de	O
-facto	O
-só	O
-conhecendo	O
-bem	O
-.	O
-.	O
-por	O
-isso	O
-é	O
-que	O
-a	O
-minha	O
-tese	O
-que	O
-já	O
-foi	O
-defendida	O
-em	O
-1951/52	O
-ainda	O
-está	O
-actualizada	O
-porque	O
-precisamente	O
-tem	O
-uma	O
-base	O
-económica	O
-e	O
-uma	O
-base	O
-política	O
-,	O
-que	O
-ainda	O
-hoje	O
-se	O
-discute	O
-.	O
-É	O
-claro	O
-que	O
-tem	O
-uns	O
-problemas	O
-que	O
-já	O
-estão	O
-desactualizados	O
-,	O
-mas	O
-a	O
-parte	O
-do	O
-problema	O
-social	O
-,	O
-do	O
-problema	O
-político-económico	O
-,	O
-ainda	O
-hoje	O
-no	O
-Porto	B-LOCAL
-,	O
-e	O
-em	O
-Castelo	B-LOCAL
-Branco	I-LOCAL
-ouvi	O
-dizer	O
-que	O
-os	O
-professores	O
-referem	O
-isso	O
-.	O
-Porque	O
-precisamente	O
-,	O
-isso	O
-foi	O
-a	O
-minha	O
-sorte	O
-,	O
-quando	O
-me	O
-disseram	O
-que	O
-o	O
-professor	O
-de	O
-Filosofia	O
-ia	O
-para	O
-Ética	O
-,	O
-também	O
-comecei	O
-a	O
-estudar	O
-Economia	O
-,	O
-porque	O
-a	O
-economia	O
-está	O
-na	O
-base	O
-de	O
-toda	O
-a	O
-nossa	O
-civilização	O
-e	O
-associado	O
-a	O
-alguns	O
-estudos	O
-de	O
-Economia	O
-``	O
-coitadinhos	O
-dos	O
-operários	O
-''	O
-e	O
-não	O
-passa	O
-disso	O
-.	O
-É	O
-o	O
-que	O
-se	O
-passa	O
-no	O
-partido	O
-Comunistas	O
-.	O
-O	O
-partido	O
-Comunista	O
-não	O
-sabe	O
-Economia	O
-.	O
-É	O
-que	O
-eles	O
-,	O
-isso	O
-aprendi	O
-na	O
-Bélgica	B-LOCAL
-,	O
-porque	O
-eles	O
-estão	O
-contra	O
-os	O
-patrões	O
-,	O
-mas	O
-sem	O
-os	O
-patrões	O
-não	O
-há	O
-operários	O
-.	O
-Na	O
-Bélgica	B-LOCAL
-os	O
-sindicatos	O
-tinham	O
-um	O
-economista	O
-com	O
-eles	O
-e	O
-viam	O
-o	O
-que	O
-cada	O
-patrão	O
-poderia	O
-pagar	O
-,	O
-o	O
-patrão	O
-quer	O
-sempre	O
-pagar	O
-menos	O
-,	O
-mas	O
-também	O
-se	O
-o	O
-operário	O
-pede	O
-a	O
-mais	O
-deitava	O
-a	O
-empresa	O
-abaixo	O
-.	O
-E	O
-portanto	O
-,	O
-os	O
-operários	O
-têm	O
-que	O
-ter	O
-pessoas	O
-capacitadas	O
-de	O
-estudar	O
-o	O
-problema	O
-,	O
-que	O
-esteja	O
-do	O
-lado	O
-deles	O
-,	O
-e	O
-que	O
-digam	O
--	O
-``	O
-Vocês	O
-podem	O
-pedir	O
-até	O
-tanto	O
-!	O
-''	O
-Portanto	O
-ter	O
-uma	O
-base	O
-económica	O
-para	O
-o	O
-problema	O
-social	O
-é	O
-fundamental	O
-.	O
-Os	O
-operários	O
-devem	O
-saber	O
-o	O
-que	O
-podem	O
-exigir	O
-na	O
-empresa	O
-sem	O
-que	O
-a	O
-empresa	O
-vá	O
-abaixo	O
-,	O
-porque	O
-os	O
-patrões	O
-estão	O
-a	O
-explorar	O
-os	O
-operários	O
-quando	O
-paga	O
-a	O
-menos	O
-é	O
-porque	O
-não	O
-pode	O
-pagar	O
-.	O
-Há	O
-duas	O
-coisas	O
-em	O
-Portugal	B-LOCAL
-,	O
-no	O
-partido	O
-Comunista	O
-que	O
-não	O
-levam	O
-a	O
-nada	O
-.	O
-Uma	O
-é	O
-estarem	O
-ligados	O
-ao	O
-marxismo	O
-quando	O
-a	O
-Europa	B-LOCAL
-toda	O
-deixou	O
-Marx	B-PESSOA
-,	O
-aqui	O
-ainda	O
-dura	O
-por	O
-quase	O
-do	O
-Álvarro	B-PESSOA
-Cunhal	I-PESSOA
-.	O
-Sim	O
-senhor	O
-,	O
-foi	O
-um	O
-homem	O
-muito	O
-importante	O
-,	O
-hoje	O
-é	O
-um	O
-travão	O
-que	O
-está	O
-ultrapassado	O
-.	O
-É	O
-o	O
-único	O
-partico	O
-comunista	O
-da	O
-Europa	B-LOCAL
-que	O
-é	O
-marxita	O
-.	O
-É	O
-uma	O
-vergonha.Não	O
-se	O
-adapta	O
-à	O
-vida	O
-actual	O
-.	O
-Segundo	O
-,	O
-uma	O
-vez	O
-que	O
-há	O
-o	O
-mercado	O
-livre	O
-,	O
-as	O
-pessoas	O
-têm	O
-que	O
-se	O
-habituar	O
-ao	O
-sistema	O
-de	O
-uma	O
-nação	O
-de	O
-mercado	O
-livre	O
-e	O
-,	O
-portanto	O
-,	O
-precisam	O
-de	O
-ter	O
-gente	O
-competente	O
-que	O
-diga	O
-o	O
-que	O
-possam	O
-exigir	O
-,	O
-o	O
-resto	O
-é	O
-dar	O
-chicotadas	O
-no	O
-ar	O
-.	O
-O	O
-Partido	B-ORGANIZACAO
-Comunista	I-ORGANIZACAO
-vai	O
-abaixo	O
-,	O
-vai	O
-desaparecer	O
-po	O
-causa	O
-disso	O
-.	O
-Está	O
-a	O
-diminuir	O
-cada	O
-vez	O
-mais	O
-porque	O
-os	O
-jovens	O
-já	O
-não	O
-vão	O
-por	O
-aí	O
-porque	O
-a	O
-realidade	O
-é	O
-contrária	O
-.	O
-Claro	O
-,	O
-na	O
-altura	O
-quando	O
-eles	O
-começaram	O
-,	O
-pois	O
-muito	O
-bem	O
-,	O
-mas	O
-hoje	O
-já	O
-não	O
-,	O
-é	O
-uma	O
-questão	O
-de	O
-estarem	O
-atentos	O
-ao	O
-que	O
-se	O
-passa	O
-na	O
-Europa	B-LOCAL
-.	O
-Nós	O
-estamos	O
-cá	O
-numa	O
-ponta	O
-,	O
-nós	O
-temos	O
-que	O
-ter	O
-cuidado	O
-e	O
-as	O
-universidades	O
-,	O
-felizmente	O
-hoje	O
-,	O
-estamos	O
-em	O
-ligação	O
-com	O
-a	O
+Em	O	O
+que	O	O
+pa�s	O	O
+teve	O	O
+lugar	O	O
+a	O	O
+cimeira	O	O
+dos	O	O
+G7	B-ORGANIZACAO
+em	O	O
+Julho	O	O
+de	O	O
+1994	O	O
+?	O	O
+
+A	O	O
+que	O	O
+horas	O	O
+ocorreu	O	O
+o	O	O
+acidente	O	O
+no	O	O
+metro	O	O
+de	O	O
+Val�ncia	B-LOCAL
+a	O	O
+3	O	O
+de	O	O
+Julho	O	O
+de	O	O
+2006	O	O
+?	O	O
+Quantos	O	O
+mortos	O	O
+causou	O	O
+esse	O	O
+acidente	O	O
+?	O	O
+A	O	O
+que	O	O
+velocidade	O	O
+circulava	O	O
+o	O	O
+metro	O	O
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+a	O	O
+Tanz�nia	B-LOCAL
+fechou	O	O
+as	O	O
+fronteiras	O	O
+aos	O	O
+refugiados	O	O
+do	O	O
+Ruanda	B-LOCAL
+?	O	O
+
+Que	O	O
+slalom	O	O
+�	O	O
+que	O	O
+Alberto	B-PESSOA
+Tomba	I-PESSOA
+ganhou	O	O
+a	O	O
+6	O	O
+de	O	O
+Fevereiro	O	O
+de	O	O
+1994	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+``	O	O
+Ace	O	O
+of	O	O
+Base	O	O
+''	O	O
+?	O	O
+De	O	O
+que	O	O
+cidade	O	O
+�	O	O
+este	O	O
+grupo	O	O
+?	O	O
+Quem	O	O
+s�o	O	O
+os	O	O
+quatro	O	O
+membros	O	O
+que	O	O
+comp�em	O	O
+o	O	O
+grupo	O	O
+?	O	O
+
+Qual	O	O
+�	O	O
+o	O	O
+arranha-c�us	O	O
+mais	O	O
+alto	O	O
+do	O	O
+mundo	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+Asandros	B-PESSOA
+?	O	O
+Quem	O	O
+�	O	O
+o	O	O
+irm�o	O	O
+dele	O	O
+?	O	O
+
+Onde	O	O
+�	O	O
+que	O	O
+Danny	B-PESSOA
+Barker	I-PESSOA
+morreu	O	O
+?	O	O
+
+Quem	O	O
+foi	O	O
+nomeado	O	O
+presidente	O	O
+da	O	O
+SNCF	B-ORGANIZACAO
+em	O	O
+20	O	O
+de	O	O
+Dezembro	O	O
+de	O	O
+1995	O	O
+?	O	O
+
+Que	O	O
+quatro	O	O
+planetas	O	O
+do	O	O
+sistema	O	O
+solar	O	O
+s�o	O	O
+compostos	O	O
+principalmente	O	O
+de	O	O
+g�s	O	O
+?	O	O
+Diga	O	O
+um	O	O
+corpo	O	O
+celeste	O	O
+.	O	O
+De	O	O
+que	O	O
+�	O	O
+que	O	O
+�	O	O
+composta	O	O
+a	O	O
+atmosfera	O	O
+da	O	O
+Lua	O	O
+?	O	O
+
+Em	O	O
+inform�tica	O	O
+,	O	O
+o	O	O
+que	O	O
+�	O	O
+Alien	O	O
+?	O	O
+
+Qual	O	O
+�	O	O
+a	O	O
+principal	O	O
+companhia	O	O
+de	O	O
+avia��o	O	O
+em	O	O
+Fran�a	B-LOCAL
+?	O	O
+Que	O	O
+cinco	O	O
+companhias	O	O
+de	O	O
+avia��o	O	O
+que	O	O
+se	O	O
+fundiram	O	O
+em	O	O
+1933	O	O
+para	O	O
+criar	O	O
+a	O	O
+Air	B-ORGANIZACAO
+France	I-ORGANIZACAO
+?	O	O
+Em	O	O
+quantos	O	O
+pa�ses	O	O
+os	O	O
+avi�es	O	O
+da	O	O
+Air	B-ORGANIZACAO
+France	I-ORGANIZACAO
+fazem	O	O
+os	O	O
+seus	O	O
+1800	O	O
+voos	O	O
+di�rios	O	O
+?	O	O
+Que	O	O
+companhia	O	O
+det�m	O	O
+100	O	O
+%	O	O
+do	O	O
+capital	O	O
+da	O	O
+Air	B-ORGANIZACAO
+France	I-ORGANIZACAO
+?	O	O
+
+Que	O	O
+conto	O	O
+c�lebre	O	O
+de	O	O
+Hans	B-PESSOA
+Christian	I-PESSOA
+Andersen	I-PESSOA
+�	O	O
+a	O	O
+adapta��o	O	O
+do	O	O
+conto	O	O
+``	O	O
+Aladino	O	O
+e	O	O
+a	O	O
+L�mpada	O	O
+M�gica	O	O
+''	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+a	O	O
+AIEA	B-ORGANIZACAO
+?	O	O
+Que	O	O
+pr�mio	O	O
+�	O	O
+recebeu	O	O
+em	O	O
+2005	O	O
+?	O	O
+Em	O	O
+que	O	O
+cidade	O	O
+podemos	O	O
+encontrar	O	O
+essa	O	O
+ag�ncia	O	O
+?	O	O
+Qual	O	O
+foi	O	O
+o	O	O
+seu	O	O
+or�amento	O	O
+para	O	O
+o	O	O
+ano	O	O
+de	O	O
+2004	O	O
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+Thierry	B-PESSOA
+Henry	I-PESSOA
+ganhou	O	O
+o	O	O
+campeonato	O	O
+do	O	O
+mundo	O	O
+de	O	O
+r�guebi	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+a	O	O
+MNEF	B-ORGANIZACAO
+?	O	O
+Quando	O	O
+�	O	O
+que	O	O
+chegou	O	O
+ao	O	O
+fim	O	O
+o	O	O
+�ltimo	O	O
+julgamento	O	O
+sobre	O	O
+o	O	O
+esc�ndalo	O	O
+da	O	O
+MNEF	B-ORGANIZACAO
+?	O	O
+Segundo	O	O
+Jean	B-PESSOA
+Michel	I-PESSOA
+Grosz	I-PESSOA
+,	O	O
+que	O	O
+organiza��o	O	O
+foi	O	O
+criada	O	O
+no	O	O
+seu	O	O
+escrit�rio	O	O
+?	O	O
+
+Qual	O	O
+era	O	O
+a	O	O
+altura	O	O
+de	O	O
+Marylin	B-PESSOA
+Monroe	I-PESSOA
+?	O	O
+
+Que	O	O
+vaiv�m	O	O
+p�s	O	O
+a	O	O
+sonda	O	O
+espacial	O	O
+Ulisses	O	O
+em	O	O
+�rbita	O	O
+?	O	O
+
+Que	O	O
+idade	O	O
+tinha	O	O
+Gr�gory	B-PESSOA
+Villemin	I-PESSOA
+quando	O	O
+o	O	O
+seu	O	O
+corpo	O	O
+foi	O	O
+encontrado	O	O
+?	O	O
+Quem	O	O
+era	O	O
+Bernard	B-PESSOA
+Laroche	I-PESSOA
+?	O	O
+Que	O	O
+juiz	O	O
+acusou	O	O
+Christine	B-PESSOA
+Villemin	I-PESSOA
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+Alcatel	B-ORGANIZACAO
+?	O	O
+Que	O	O
+companhia	O	O
+foi	O	O
+criada	O	O
+por	O	O
+Pierre	B-PESSOA
+Azaria	I-PESSOA
+em	O	O
+1898	O	O
+?	O	O
+Com	O	O
+que	O	O
+grupo	O	O
+a	O	O
+Alcatel	B-ORGANIZACAO
+anunciou	O	O
+a	O	O
+fus�o	O	O
+em	O	O
+Mar�o	O	O
+de	O	O
+2006	O	O
+?	O	O
+Quem	O	O
+era	O	O
+o	O	O
+director-geral	O	O
+da	O	O
+Alcatel	B-ORGANIZACAO
+de	O	O
+1986	O	O
+a	O	O
+1995	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+Ass�dic	O	O
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+saiu	O	O
+o	O	O
+rimeiro	O	O
+�lbum	O	O
+da	O	O
+cantora	O	O
+americana	O	O
+Anastacia	B-PESSOA
+?	O	O
+Desde	O	O
+a	O	O
+sa�da	O	O
+do	O	O
+seu	O	O
+primeiro	O	O
+�lbum	O	O
+,	O	O
+quantos	O	O
+discos	O	O
+�	O	O
+que	O	O
+Anastacia	B-PESSOA
+vendeu	O	O
+?	O	O
+
+Quando	O	O
+�	O	O
+que	O	O
+Jacques	B-PESSOA
+Chirac	I-PESSOA
+foi	O	O
+assassinado	O	O
+?	O	O
+
+Que	O	O
+jogador	O	O
+espanhol	O	O
+ganhou	O	O
+Roland	O	O
+Garros	O	O
+em	O	O
+1994	O	O
+?	O	O
+
+Quantos	O	O
+habitantes	O	O
+tem	O	O
+a	O	O
 Alemanha	B-LOCAL
-,	O
-com	O
-Inglaterra	B-LOCAL
-,	O
+?	O	O
+Quantos	O	O
+quil�metros	O	O
+de	O	O
+ferrovia	O	O
+tinha	O	O
+a	O	O
+Alemanha	B-LOCAL
+em	O	O
+1998	O	O
+?	O	O
+Em	O	O
+Novembro	O	O
+de	O	O
+2005	O	O
+,	O	O
+qual	O	O
+a	O	O
+taxa	O	O
+de	O	O
+desemprego	O	O
+na	O	O
+Alemanha	B-LOCAL
+?	O	O
+Qual	O	O
+era	O	O
+a	O	O
+moeda	O	O
+da	O	O
+Alemanha	B-LOCAL
+antes	O	O
+do	O	O
+euro	O	O
+?	O	O
+
+Num	O	O
+rel�gio	O	O
+,	O	O
+qual	O	O
+o	O	O
+ponteiro	O	O
+que	O	O
+aponta	O	O
+para	O	O
+as	O	O
+horas	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+o	O	O
+amianto	O	O
+?	O	O
+Qual	O	O
+a	O	O
+primeira	O	O
+causa	O	O
+de	O	O
+morte	O	O
+das	O	O
+pessoas	O	O
+expostas	O	O
+ao	O	O
+amianto	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+um	O	O
+administrador	O	O
+de	O	O
+rede	O	O
+?	O	O
+
+Quem	O	O
+�	O	O
+Allan	B-PESSOA
+Frederick	I-PESSOA
+Jacobsen	I-PESSOA
+?	O	O
+Por	O	O
+que	O	O
+clube	O	O
+joga	O	O
+?	O	O
+Quanto	O	O
+�	O	O
+que	O	O
+ele	O	O
+pesa	O	O
+?	O	O
+
+Em	O	O
+que	O	O
+�rvore	O	O
+crescem	O	O
+os	O	O
+morangos	O	O
+?	O	O
+
+Quem	O	O
+�	O	O
+Amira	B-PESSOA
+Casar	I-PESSOA
+?	O	O
+Onde	O	O
+�	O	O
+que	O	O
+ela	O	O
+nasceu	O	O
+?	O	O
+Em	O	O
+que	O	O
+filme	O	O
+�	O	O
+que	O	O
+ela	O	O
+entrou	O	O
+com	O	O
+Richard	B-PESSOA
+Anconina	I-PESSOA
+?	O	O
+
+Como	O	O
+se	O	O
+chama	O	O
+o	O	O
+presidente	O	O
+das	O	O
+Filipinas	B-LOCAL
+?	O	O
+
+Que	O	O
+barragem	O	O
+seria	O	O
+a	O	O
+maior	O	O
+do	O	O
+mundo	O	O
+se	O	O
+tivesse	O	O
+sido	O	O
+constru�da	O	O
+?	O	O
+Qual	O	O
+era	O	O
+o	O	O
+custo	O	O
+estimado	O	O
+do	O	O
+projecto	O	O
+?	O	O
+
+Quantos	O	O
+meses	O	O
+tem	O	O
+numa	O	O
+semana	O	O
+?	O	O
+
+Que	O	O
+ag�ncia	O	O
+est�	O	O
+encarregada	O	O
+de	O	O
+centralizar	O	O
+as	O	O
+ofertas	O	O
+e	O	O
+pedidos	O	O
+de	O	O
+emprego	O	O
+em	O	O
+Fran�a	B-LOCAL
+?	O	O
+Quantos	O	O
+colaboradores	O	O
+tem	O	O
+a	O	O
+ANPE	B-ORGANIZACAO
+?	O	O
+Quem	O	O
+�	O	O
+que	O	O
+dirige	O	O
+essa	O	O
+ag�ncia	O	O
+desde	O	O
+2005	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+um	O	O
+afixo	O	O
+?	O	O
+
+Quem	O	O
+foi	O	O
+assassinado	O	O
+a	O	O
+4	O	O
+de	O	O
+Novembro	O	O
+de	O	O
+1995	O	O
+,	O	O
+aos	O	O
+73	O	O
+anos	O	O
+?	O	O
+
+Qual	O	O
+�	O	O
+a	O	O
+primeira	O	O
+regi�o	O	O
+francesa	O	O
+em	O	O
+popula��o	O	O
+?	O	O
+Quantos	O	O
+habitantes	O	O
+tem	O	O
+essa	O	O
+regi�o	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+o	O	O
+Filival	O	O
+?	O	O
+
+Em	O	O
+quantas	O	O
+prov�ncias	O	O
+est�	O	O
+dividido	O	O
+o	O	O
+Afeganist�o	B-LOCAL
+?	O	O
+Que	O	O
+l�ngua	O	O
+�	O	O
+falada	O	O
+pela	O	O
+maioria	O	O
+da	O	O
+popula��o	O	O
+afeg�	O	O
+?	O	O
+Quantas	O	O
+escolas	O	O
+havia	O	O
+no	O	O
+Afeganist�o	B-LOCAL
+em	O	O
+2003	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+o	O	O
+�cido	O	O
+desoxirribonucleico	O	O
+?	O	O
+Que	O	O
+sigla	O	O
+se	O	O
+usa	O	O
+para	O	O
+designar	O	O
+essa	O	O
+mol�cula	O	O
+?	O	O
+
+Qual	O	O
+�	O	O
+o	O	O
+antigo	O	O
+nome	O	O
+do	O	O
+Alabama	B-LOCAL
+?	O	O
+Quantos	O	O
+condados	O	O
+tem	O	O
+o	O	O
+Alabama	B-LOCAL
+?	O	O
+Que	O	O
+estado	O	O
+fica	O	O
+a	O	O
+norte	O	O
+do	O	O
+Alabama	B-LOCAL
+?	O	O
+
+Que	O	O
+organismo	O	O
+gere	O	O
+os	O	O
+subs�dios	O	O
+de	O	O
+desemprego	O	O
+em	O	O
+Fran�a	B-LOCAL
+?	O	O
+
+Que	O	O
+organiza��o	O	O
+se	O	O
+dedica	O	O
+especificamente	O	O
+�	O	O
+sobreviv�ncia	O	O
+dos	O	O
+patos	O	O
+?	O	O
+
+Quem	O	O
+�	O	O
+que	O	O
+derrotou	O	O
+Michael	B-PESSOA
+Moorer	I-PESSOA
+no	O	O
+10�	O	O
+round	O	O
+em	O	O
+Las	B-LOCAL
+Vegas	I-LOCAL
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+uma	O	O
+�rvore	O	O
+coral	O	O
+?	O	O
+Que	O	O
+altura	O	O
+pode	O	O
+esta	O	O
+�rvore	O	O
+atingir	O	O
+?	O	O
+
+Quanto	O	O
+�	O	O
+que	O	O
+pesa	O	O
+uma	O	O
+ma��	O	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+AFNOR	B-ORGANIZACAO
+?	O	O
+Qual	O	O
+�	O	O
+o	O	O
+equivalente	O	O
+da	O	O
+AFNOR	B-ORGANIZACAO
+nos	O	O
 Estados	B-LOCAL
 Unidos	I-LOCAL
-.	O
-Já	O
-não	O
-estamos	O
-isolados	O
-e	O
-isso	O
-é	O
-uma	O
-grande	O
-coisa	O
-e	O
-a	O
-nossa	O
-cultura	O
-tem	O
-evoluído	O
-muito	O
-devido	O
-a	O
-esse	O
-aspecto	O
-.	O
-Desde	O
-1959	O
-que	O
-temos	O
-faculdades	O
-de	O
-Filosofia	O
-em	O
-todas	O
-as	O
-universidades	O
-,	O
-o	O
-que	O
-não	O
-havia	O
-.	O
-Havia	O
-Histórias	O
-Filosóficas	O
-em	O
-1911	O
-,	O
-antes	O
-nem	O
-isso	O
-havia	O
-,	O
-depois	O
-em	O
-1959	O
-,	O
-depois	O
-de	O
-um	O
-congresso	O
-que	O
-houve	O
-aqui	O
-em	O
-Braga	B-LOCAL
-,	O
-em	O
-1955	O
-,	O
-onde	O
-resolveram	O
-pedir	O
-a	O
-Faculdade	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Filosofia	I-ORGANIZACAO
-.	O
-Hoje	O
-existe	O
-.	O
-Hoje	O
-estamos	O
-num	O
-campo	O
-...	O
-já	O
-escreveram	O
-a	O
-História	O
-da	O
-Filosofia	O
-portuguesa	O
-,	O
-saíu	O
-agora	O
-.	O
-Estamos	O
-a	O
-tomar	O
-consciência	O
-de	O
-nós	O
-mesmos	O
-e	O
-dos	O
-nossos	O
-valores	O
-,	O
-e	O
-é	O
-isso	O
-que	O
-importa	O
-de	O
-uma	O
-universidade	O
-.	O
-
-Prioridades	O
-
-1	O
-.	O
-Revisão	O
-do	O
-mecanismo	O
-comunitário	O
-de	O
-protecção	O
-civil	O
-
-Desde	O
-2005	O
-
-,	O
-na	O
-sequência	O
-de	O
-uma	O
-proposta	O
-da	O
-
-Comissão	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-,	O
-o	O
-
-Mecanismo	O
-Comunitário	O
-de	O
-Protecção	O
-Civil	O
-
-foi	O
-alvo	O
-de	O
-uma	O
-profunda	O
-revisão	O
-,	O
-a	O
-qual	O
-decorre	O
-também	O
-do	O
-enquadramento	O
-motivado	O
-pelo	O
-novo	O
-
-Instrumento	O
-Financeiro	O
-para	O
-a	O
-Protecção	O
-Civil	O
-
-recentemente	O
-aprovado	O
-.	O
-
-O	O
-acordo	O
-político	O
-quanto	O
-à	O
-revisão	O
-foi	O
-obtido	O
-durante	O
-a	O
-Presidência	O
-Alemã	O
-
-,	O
-tendo	O
-cabido	O
-a	O
-
-Portugal	B-ORGANIZACAO
-
-concluir	O
-o	O
-processo	O
-de	O
-revisão	O
-.	O
-Com	O
-a	O
-adopção	O
-da	O
-revisão	O
-do	O
-
-Mecanismo	O
-
-no	O
-
-Conselho	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Justiça	I-ORGANIZACAO
-e	I-ORGANIZACAO
-Assuntos	I-ORGANIZACAO
-Internos	I-ORGANIZACAO
-
-de	O
-8	O
-de	O
-Novembro	O
-
-,	O
-este	O
-processo	O
-ficou	O
-concluído	O
-,	O
-passando	O
-a	O
-
-União	B-ORGANIZACAO
-
-a	O
-ficar	O
-dotado	O
-de	O
-um	O
-
-Mecanismo	O
-
-mais	O
-expedito	O
-para	O
-resposta	O
-a	O
-emergências	O
-graves	O
-.	O
-As	O
-principais	O
-novidades	O
-do	O
-
-Mecanismo	O
-
-são	O
-a	O
-clarificação	O
-de	O
-competências	O
-entre	O
-a	O
-
-Comissão	B-ORGANIZACAO
-
-e	O
-a	O
-
-Presidência	B-ORGANIZACAO
-
-no	O
-quadro	O
-de	O
-intervenções	O
-em	O
-países	O
-terceiros	O
-,	O
-a	O
-existência	O
-de	O
-competências	O
-comunitárias	O
-ao	O
-nível	O
-do	O
-transporte	O
-e	O
-a	O
-criação	O
-,	O
-numa	O
-base	O
-voluntária	O
-,	O
-de	O
-módulos	O
-de	O
-protecção	O
-civil	O
-.	O
-
-2	O
-.	O
-
-Sistemas	O
-de	O
-Alerta	O
-Precoce	O
-
-A	O
-necessidade	O
-de	O
-melhorar	O
-os	O
-actuais	O
-ou	O
-de	O
-estabelecer	O
-novos	O
-
-Sistemas	O
-de	O
-Alerta	O
-Precoce	O
-
-na	O
-
-União	B-LOCAL
-Europeia	I-LOCAL
-
-foi	O
-reconhecida	O
-pelo	O
-
-Conselho	B-ORGANIZACAO
-
-em	O
-diversas	O
-ocasiões	O
-
-.	O
-Em	O
-particular	O
-,	O
-o	O
-
-Conselho	B-ORGANIZACAO
-
-adoptou	O
-,	O
-
-em	O
-2005	O
-
-,	O
-o	O
-
-Programa	O
-de	O
-Acção	O
-para	O
-Tsunamis	O
-
-e	O
-afirmou	O
-que	O
-``	O
-A	O
-
-Comissão	B-ORGANIZACAO
-
-é	O
-convidada	O
-a	O
-fazer	O
-propostas	O
--LSB-	O
-envolvendo	O
--RSB-	O
-a	O
-criação	O
-de	O
-um	O
-sistema	O
-de	O
-detecção	O
-e	O
-alerta	O
-precoce	O
-(	O
-...	O
-)	O
-para	O
-o	O
-
-Mediterrâneo	O
-
-e	O
-o	O
-
-Atlântico	O
-
-''	O
-.	O
-
-Mais	O
-recentemente	O
-,	O
-o	O
-
-Instrumento	O
-Financeiro	O
-para	O
-a	O
-Protecção	O
-Civil	O
-
-definiu	O
-que	O
-a	O
-criação	O
-de	O
-um	O
-sistema	O
-de	O
-detecção	O
-e	O
-alerta	O
-precoce	O
-é	O
-elegível	O
-para	O
-assistência	O
-financeira	O
-através	O
-de	O
-acções	O
-como	O
-estudos	O
-,	O
-avaliações	O
-e	O
-estabelecimento	O
-de	O
-interligações	O
-.	O
-
-Para	O
-contribuir	O
-para	O
-este	O
-debate	O
-,	O
-a	O
-
-ANPC	B-ORGANIZACAO
-
-realizou	O
-,	O
-
-de	O
-15	O
-a	O
-18	O
-de	O
-Julho	O
-
-,	O
-em	O
-
-Albufeira	B-LOCAL
-
-,	O
-um	O
-seminário	O
-sobre	O
-
-Sistemas	O
-de	O
-Alerta	O
-Precoce	O
-
-,	O
-o	O
-qual	O
-reuniu	O
-
-cerca	O
-de	O
-120	O
-
-especialistas	O
-da	O
-maior	O
-parte	O
-dos	O
-
-Estados-Membros	B-LOCAL
-
-e	O
-no	O
-qual	O
-se	O
-procurou	O
-:	O
-
--	O
-discutir	O
-o	O
-estado	O
-da	O
-arte	O
-quanto	O
-a	O
-sistemas	O
-de	O
-alerta	O
-;	O
-
--	O
-identificar	O
-lacunas	O
-existentes	O
-no	O
-espaço	O
-da	O
-
-União	B-LOCAL
-Europeia	I-LOCAL
-
-(	O
-ex	O
-:	O
-sistema	O
-de	O
-alerta	O
-precoce	O
-para	O
-tsunamis	O
-)	O
-e	O
-delinear	O
-as	O
-bases	O
-para	O
-um	O
-
-Plano	O
-de	O
-Acção	O
-
-destinado	O
-a	O
-suprir	O
-as	O
-lacunas	O
-identificadas	O
-;	O
-
--	O
-debater	O
-assuntos	O
-transversais	O
-,	O
-tais	O
-como	O
-o	O
-desenvolvimento	O
-de	O
-directrizes	O
-para	O
-o	O
-estabelecimento	O
-de	O
-sinais	O
-comuns	O
-de	O
-alerta	O
-a	O
-nível	O
-europeu	O
-.	O
-
-Com	O
-base	O
-nas	O
-conclusões	O
-do	O
-seminário	O
-e	O
-nos	O
-resultados	O
-dos	O
-trabalhos	O
-desenvolvidos	O
-pela	O
-
-Comissão	B-ORGANIZACAO
-
-,	O
-ao	O
-nível	O
-de	O
-grupo	O
-de	O
-peritos	O
-,	O
-foi	O
-possível	O
-obter	O
-acordo	O
-sobre	O
-dois	O
-documentos	O
-de	O
-
-Conclusões	O
-do	O
-Conselho	O
-
-adoptados	O
-no	O
-
-Conselho	O
-JAI	O
-
-de	O
-5/6	O
-de	O
-Dezembro	O
-
-.	O
-Um	O
-desses	O
-documentos	O
-(	O
-
-Conclusões	O
-do	O
-Conselho	O
-sobre	O
-o	O
-desenvolvimento	O
-e	O
-estabelecimento	O
-de	O
-sistemas	O
-de	O
-alerta	O
-precoce	O
-na	O
-UE	O
-
-)	O
-segue	O
-uma	O
-abordagem	O
-global	O
-multi-riscos	O
-,	O
-enquanto	O
-o	O
-outro	O
-(	O
-
-Conclusões	O
-do	O
-Conselho	O
-sobre	O
-o	O
-desenvolvimento	O
-de	O
-um	O
-sistema	O
-de	O
-alerta	O
-precoce	O
-para	O
-tsunamis	O
-no	O
-Atlântico	O
-Nordeste	O
-e	O
-no	O
-Mediterrâneo	O
-
-)	O
-direcciona	O
-as	O
-atenções	O
-para	O
-o	O
-risco	O
-de	O
-tsunamis	O
-.	O
-Ambos	O
-os	O
-documentos	O
-contêm	O
-diversas	O
-propostas	O
-de	O
-actuação	O
-futura	O
-por	O
-parte	O
-da	O
-
-Comissão	B-ORGANIZACAO
-
-e	O
-dos	O
-
-Estados-Membros	B-ORGANIZACAO
-
-.	O
-
-3	O
-.	O
-Cooperação	O
-com	O
-
-Países	B-ORGANIZACAO
-do	I-ORGANIZACAO
-Mediterrâneo	I-ORGANIZACAO
-Sul	I-ORGANIZACAO
-
-No	O
-campo	O
-da	O
-
-Protecção	O
-Civil	O
-
-,	O
-
-UE	B-ORGANIZACAO
-
-e	O
-
-África	B-ORGANIZACAO
-
-partilham	O
-uma	O
-série	O
-de	O
-preocupações	O
-e	O
-riscos	O
-comuns	O
-,	O
-maioritariamente	O
-na	O
-região	O
-
-Euro-Mediterrânica	O
-
-.	O
-Estes	O
-riscos	O
-estão	O
-particularmente	O
-relacionados	O
-com	O
-os	O
-incêndios	O
-florestais	O
-,	O
-sismos	O
-e	O
-tsunamis	O
-,	O
-acidentes	O
-químicos	O
-e	O
-,	O
-também	O
-,	O
-ameaças	O
-terroristas	O
-.	O
-
-Por	O
-outro	O
-lado	O
-,	O
-é	O
-também	O
-importante	O
-sublinhar	O
-o	O
-facto	O
-de	O
-que	O
-o	O
-
-Mecanismo	O
-Comunitário	O
-de	O
-Protecção	O
-Civil	O
-
-já	O
-interveio	O
-
-por	O
-diversas	O
-vezes	O
-
-nesta	O
-região	O
-(	O
-ex	O
-:	O
-sismos	O
-da	O
-
-Argélia	B-LOCAL
-
-e	O
-de	O
-
-Marrocos	B-LOCAL
-
-)	O
-e	O
-diversos	O
-
-Estados-Membros	B-ORGANIZACAO
-
-mantêm	O
-acordos	O
-bilaterais	O
-de	O
-cooperação	O
-com	O
-os	O
-
-Países	B-ORGANIZACAO
-do	I-ORGANIZACAO
-Mediterrâneo	I-ORGANIZACAO
-Sul	I-ORGANIZACAO
-
-,	O
-que	O
-conduziram	O
-a	O
-missões	O
-de	O
-assistência	O
-mútua	O
-durante	O
-emergências	O
-passadas	O
-.	O
-
-Existe	O
-,	O
-pois	O
-,	O
-espaço	O
-mais	O
-do	O
-que	O
-suficiente	O
-e	O
-vontade	O
-comum	O
-para	O
-uma	O
-cooperação	O
-mais	O
-profunda	O
-e	O
-forte	O
-entre	O
-a	O
-
-UE	B-ORGANIZACAO
-
-e	O
-
-África	B-ORGANIZACAO
-
-no	O
-campo	O
-da	O
-protecção	O
-civil	O
-,	O
-nomeadamente	O
-com	O
-os	O
-parceiros	O
-do	O
-
-Mediterrâneo	O
-
-.	O
-Assim	O
-,	O
-pretendeu-se	O
-reforçar	O
-a	O
-cooperação	O
-com	O
-os	O
-países	O
-do	O
-
-Mediterrâneo	O
-Sul	O
-
-,	O
-através	O
-de	O
-acções	O
-tais	O
-como	O
-a	O
-partilha	O
-de	O
-boas	O
-práticas	O
-e	O
-informação	O
-sobre	O
-riscos	O
-comuns	O
-,	O
-cooperação	O
-nos	O
-sistemas	O
-de	O
-alerta	O
-precoce	O
-ou	O
-exercícios	O
-conjuntos	O
-.	O
-
-De	O
-forma	O
-a	O
-permitir	O
-uma	O
-mais	O
-abrangente	O
-troca	O
-de	O
-pontos	O
-de	O
-vista	O
-neste	O
-campo	O
-,	O
-realizou-se	O
-
-no	O
-dia	O
-24	O
-de	O
-Outubro	O
-
-,	O
-no	O
-
-Porto	B-LOCAL
-
-,	O
-uma	O
-reunião	O
-informal	O
-entre	O
-os	O
-
-Directores-Gerais	O
-de	O
-Protecção	O
-Civil	O
-
-dos	O
-
-Países	B-ORGANIZACAO
-do	I-ORGANIZACAO
-Mediterrâneo	I-ORGANIZACAO
-
-e	O
-os	O
-
-Directores-Gerais	O
-de	O
-Protecção	O
-Civil	O
-
-da	O
-
-União	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-.	O
-Essa	O
-reunião	O
-permitiu	O
-concluir	O
-da	O
-existência	O
-de	O
-abertura	O
-para	O
-um	O
-trabalho	O
-comum	O
-futuro	O
-,	O
-o	O
-qual	O
-,	O
-numa	O
-primeira	O
-fase	O
-,	O
-deverá	O
-estar	O
-integrado	O
-do	O
-
-Programa	O
-para	O
-a	O
-Prevenção	O
-e	O
-Redução	O
-de	O
-Desastres	O
-
-do	O
-
-Projecto	O
-Euromed	O
-
-e	O
-,	O
-numa	O
-segunda	O
-fase	O
-,	O
-deverá	O
-visar	O
-a	O
-inclusão	O
-de	O
-países	O
-do	O
-
-Mediterrâneo	O
-
-no	O
-
-Mecanismo	O
-Comunitário	O
-de	O
-Protecção	O
-Civil	O
-
-.	O
-
-4	O
-.	O
-Consenso	O
-Europeu	O
-sobre	O
-Ajuda	O
-Humanitária	O
-
-Na	O
-sequência	O
-de	O
-uma	O
-
-Comunicação	O
-
-da	O
-
-Comissão	B-ORGANIZACAO
-
-,	O
-o	O
-
-Conselho	B-ORGANIZACAO
-
-discutiu	O
-,	O
-no	O
-seu	O
-grupo	O
-de	O
-Trabalho	O
-de	O
-
-Cooperação	O
-e	O
-Desenvolvimento	O
-
-(	O
-
-CODEV	B-ORGANIZACAO
-
-)	O
-uma	O
-proposta	O
-de	O
-
-Consenso	O
-Europeu	O
-sobre	O
-Ajuda	O
-Humanitária	O
-
-.	O
-Tal	O
-documento	O
-contém	O
-referências	O
-à	O
-actuação	O
-da	O
-protecção	O
-civil	O
-nos	O
-contextos	O
-de	O
-crises	O
-humanitárias	O
-,	O
-pelo	O
-que	O
-foi	O
-também	O
-discutido	O
-no	O
-
-Grupo	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Trabalho	I-ORGANIZACAO
-PROCIV	I-ORGANIZACAO
-
-,	O
-tendo	O
-sido	O
-produzido	O
-um	O
-aconselhamento	O
-
-em	O
-Julho	O
-
-.	O
-
-Após	O
-intensas	O
-negociações	O
-,	O
-o	O
-
-Consenso	O
-Europeu	O
-
-foi	O
-adoptado	O
-pelo	O
-
-CAGRE	B-ORGANIZACAO
-
-em	O
-20	O
-de	O
-Novembro	O
-
-,	O
-tendo-se	O
-conseguido	O
-que	O
-,	O
-na	O
-sua	O
-versão	O
-final	O
-,	O
-o	O
-
-Consenso	O
-
-não	O
-imponha	O
-limitações	O
-ao	O
-uso	O
-de	O
-recursos	O
-de	O
-protecção	O
-civil	O
-nos	O
-cenários	O
-de	O
-desastres	O
-naturais	O
-,	O
-tecnológicos	O
-e	O
-ambientais	O
-em	O
-tempo	O
-de	O
-paz	O
-.	O
-No	O
-entanto	O
-,	O
-para	O
-situações	O
-de	O
-emergências	O
-complexas	O
-(	O
-conflitos	O
-ou	O
-situações	O
-de	O
-fragilidade	O
-)	O
-o	O
-uso	O
-de	O
-meios	O
-de	O
-protecção	O
-civil	O
-acabou	O
-por	O
-ser	O
-considerado	O
-como	O
-excepcional	O
-.	O
-
-5	O
-.	O
-Revisão	O
-das	O
-
-Directrizes	O
-de	O
-Oslo	O
-
-As	O
-
-Directrizes	O
-de	O
-Oslo	O
-
-são	O
-um	O
-documento	O
-das	O
-
-Nações	B-ORGANIZACAO
-Unidas	I-ORGANIZACAO
-
-,	O
-destinado	O
-a	O
-orientar	O
-o	O
-uso	O
-de	O
-meios	O
-militares	O
-e	O
-da	O
-defesa	O
-civil	O
-nos	O
-cenários	O
-de	O
-emergências	O
-naturais	O
-,	O
-tecnológicas	O
-ou	O
-ambientais	O
-em	O
-tempo	O
-de	O
-paz	O
-.	O
-Aquando	O
-da	O
-última	O
-revisão	O
-destas	O
-directrizes	O
-,	O
-
-em	O
-2006	O
-
-,	O
-os	O
-recursos	O
-de	O
-protecção	O
-civil	O
-foram	O
-englobados	O
-no	O
-mesmo	O
-grupo	O
-dos	O
-recursos	O
-militares	O
-,	O
-implicando	O
-que	O
-apenas	O
-poderiam	O
-ser	O
-utilizados	O
-como	O
-``	O
-último	O
-recurso	O
-''	O
-,	O
-após	O
-esgotamento	O
-de	O
-outras	O
-alternativas	O
-civis	O
-.	O
-
-Conscientes	O
-de	O
-que	O
-tal	O
-regra	O
-contradiria	O
-o	O
-princípio	O
-básico	O
-de	O
-actuação	O
-da	O
-protecção	O
-civil	O
-(	O
-resposta	O
-rápida	O
-e	O
-imediata	O
-após	O
-uma	O
-emergência	O
-)	O
-,	O
-os	O
-
-Estados-Membros	B-ORGANIZACAO
-
-e	O
-a	O
-
-Comissão	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-desenvolveram	O
-diversas	O
-diligências	O
-procurando	O
-obter	O
-uma	O
-clarificação/revisão	O
-de	O
-tais	O
-
-Directrizes	O
-
-junto	O
-da	O
-
-UN/OCHA	B-ORGANIZACAO
-
-.	O
-Em	O
-particular	O
-,	O
-foi	O
-obtido	O
-acordo	O
-no	O
-
-Grupo	O
-de	O
-Trabalho	O
-PROCIV	O
-
-quanto	O
-a	O
-uma	O
-abordagem	O
-global	O
-dos	O
-
-Estados-Membros	B-ORGANIZACAO
-
-sobre	O
-esta	O
-matéria	O
-.	O
-
-Nesta	O
-sequência	O
-,	O
-foi	O
-realizada	O
-uma	O
-reunião	O
-com	O
-a	O
-
-UN/OCHA	B-ORGANIZACAO
-
-a	O
-28	O
-e	O
-29	O
-de	O
-Novembro	O
-
-,	O
-a	O
-qual	O
-permitiu	O
-adoptar	O
-uma	O
-revisão	O
-das	O
-
-Directrizes	O
-
-que	O
-clarifica	O
-o	O
-princípio	O
-do	O
-último	O
-recurso	O
-,	O
-garantindo	O
-um	O
-tratamento	O
-diferenciado	O
-para	O
-os	O
-recursos	O
-de	O
-
-Protecção	O
-Civil	O
-
-.	O
-
-6	O
-.	O
-Infra-estruturas	O
-críticas	O
-
-As	O
-conclusões	O
-do	O
-
-Conselho	B-ORGANIZACAO
-
-em	O
-matéria	O
-``	O
-de	O
-prevenção	O
-,	O
-de	O
-preparação	O
-para	O
-intervir	O
-e	O
-de	O
-resposta	O
-a	O
-atentados	O
-terroristas	O
-''	O
-e	O
-o	O
-``	O
-programa	O
-de	O
-solidariedade	O
-da	O
-
-União	B-ORGANIZACAO
-Europeia	I-ORGANIZACAO
-
-respeitante	O
-às	O
-consequências	O
-das	O
-ameaças	O
-e	O
-dos	O
-atentados	O
-terroristas	O
-''	O
-,	O
-adoptado	O
-pelo	O
-
-Conselho	B-ORGANIZACAO
-
-em	O
-Dezembro	O
-de	O
-2004	O
-
-,	O
-apoiaram	O
-a	O
-elaboração	O
-de	O
-um	O
-
-Programa	O
-Europeu	O
-para	O
-a	O
-Protecção	O
-das	O
-Infra-Estruturas	O
-Críticas	O
-
-e	O
-a	O
-criação	O
-de	O
-uma	O
-
-Rede	O
-de	O
-Alerta	O
-para	O
-as	O
-Infra-estruturas	O
-Críticas	O
-
-.	O
-
-Neste	O
-sentido	O
-,	O
-
-em	O
-Dezembro	O
-de	O
-2006	O
-
-,	O
-a	O
-
-Comissão	B-ORGANIZACAO
-
-apresentou	O
-uma	O
-proposta	O
-de	O
-
-Directiva	O
-do	O
-Conselho	O
-
-,	O
-na	O
-qual	O
-se	O
-propõem	O
-medidas	O
-para	O
-a	O
-identificação	O
-e	O
-designação	O
-das	O
-infra	O
-estruturas	O
-críticas	O
-europeias	O
-e	O
-para	O
-a	O
-avaliação	O
-da	O
-necessidade	O
-de	O
-melhorar	O
-a	O
-sua	O
-protecção	O
-,	O
-sendo	O
-que	O
-são	O
-abrangidas	O
-aquelas	O
-cuja	O
-perturbação	O
-ou	O
-destruição	O
-afectaria	O
-dois	O
-ou	O
-mais	O
-
-Estados-Membros	B-ORGANIZACAO
-
-,	O
-ou	O
-um	O
-único	O
-
-Estado-Membro	B-ORGANIZACAO
-
-se	O
-a	O
-infra-estrutura	O
-crítica	O
-estiver	O
-localizada	O
-em	O
-outro	O
-
-Estado-Membro	B-LOCAL
-
-.	O
-
-Na	O
-sequência	O
-dos	O
-trabalhos	O
-desenvolvidos	O
-pela	O
-
-Presidência	B-ORGANIZACAO
-Alemã	I-ORGANIZACAO
-
-neste	O
-âmbito	O
-,	O
-foi	O
-dada	O
-continuidade	O
-à	O
-negociação	O
-da	O
-proposta	O
-de	O
-
-Directiva	O
-
-,	O
-tendo-se	O
-analisado	O
-o	O
-parecer	O
-do	O
-
-Parlamento	B-ORGANIZACAO
-Europeu	I-ORGANIZACAO
-
-e	O
-discutido	O
-as	O
-reservas	O
-introduzidas	O
-pelas	O
-diversas	O
-delegações	O
-.	O
-O	O
-balanço	O
-final	O
-é	O
-positivo	O
-,	O
-uma	O
-vez	O
-que	O
-se	O
-conseguiu	O
-eliminar	O
-a	O
-maior	O
-parte	O
-das	O
-reservas	O
-existentes	O
-.	O
-Embora	O
-exista	O
-consenso	O
-em	O
-relação	O
-a	O
-
-cerca	O
-de	O
-70	O
-%	O
-
-da	O
-proposta	O
-de	O
-
-Directiva	O
-
-,	O
-subsistem	O
-reservas	O
-de	O
-fundo	O
-de	O
-diversos	O
-
-Estados-Membros	B-ORGANIZACAO
-
-que	O
-se	O
-relacionam	O
-,	O
-por	O
-exemplo	O
-,	O
-com	O
-a	O
-natureza	O
-legal	O
-do	O
-instrumento	O
-a	O
-adoptar	O
-,	O
-a	O
-inclusão	O
-do	O
-sector	O
-do	O
-``	O
-nuclear	O
-''	O
-no	O
-âmbito	O
-da	O
-
-Directiva	O
-
-,	O
-a	O
-definição	O
-de	O
-
-Infra-estrutura	O
-Crítica	O
-Europeia	O
-
-e	O
-a	O
-obrigatoriedade	O
-de	O
-estabelecimento	O
-de	O
-
-Planos	O
-de	O
-Segurança	O
-
-e	O
-
-Oficiais	O
-de	O
-Ligação	O
-
-.	O
-
-Neste	O
-contexto	O
-foi	O
-obtido	O
-acordo	O
-sobre	O
-um	O
-
-Relatório	O
-de	O
-Progresso	O
-
-adoptado	O
-no	O
-
-Conselho	O
-JAI	O
-
-de	O
-5/6	O
-Dezembro	O
-
-.	O
-
-Fernão	B-PESSOA
-de	I-PESSOA
-Magalhães	I-PESSOA
-
-Fernão	B-PESSOA
-de	I-PESSOA
-Magalhães	I-PESSOA
-,	O
-algumas	O
-vezes	O
-referenciado	O
-como	O
-Fernando	O
-de	O
-Magalhães	O
-,	O
-(	O
-primavera	O
-de	O
-1480	O
---	O
-27	O
-de	O
-abril	O
-de	O
-1521	O
-)	O
-foi	O
-um	O
-navegador	O
-português	O
-que	O
-,	O
-ao	O
-serviço	O
-do	O
-rei	O
-de	O
-Espanha	B-LOCAL
-,	O
-comandou	O
-a	O
-expedição	O
-marítima	O
-que	O
-efectuou	O
-a	O
-primeira	O
-viagem	O
-de	O
-circum-navegação	O
-ao	O
-globo	O
-.	O
-Foi	O
-o	O
-primeiro	O
-a	O
-dobrar	O
-estreito	O
-hoje	O
-conhecido	O
-pelo	O
-seu	O
-nome	O
-(	O
-o	O
-Estreito	O
-de	O
-Magalhães	O
-)	O
-e	O
-o	O
-primeiro	O
-europeu	O
-a	O
-navegar	O
-no	O
-Oceano	O
-Pacífico	O
-.	O
-Fernão	B-PESSOA
-de	I-PESSOA
-Magalhães	I-PESSOA
-morre	O
-nas	O
-Filipinas	B-LOCAL
-no	O
-curso	O
-daquela	O
-expedição	O
-,	O
-posteriormente	O
-chefiada	O
-por	O
-Juan	B-PESSOA
-Sebastián	I-PESSOA
-Elcano	I-PESSOA
-1522	O
-.	O
-
-Alista-se	O
-com	O
-25	O
-anos	O
-na	O
-armada	O
-que	O
-foi	O
-à	O
-Índia	B-LOCAL
-,	O
-comandada	O
-por	O
-Francisco	B-PESSOA
-de	I-PESSOA
-Almeida	I-PESSOA
-,	O
-embora	O
-o	O
-seu	O
-nome	O
-não	O
-figure	O
-nas	O
-crónicas	O
-;	O
-sabe-se	O
-no	O
-entanto	O
-que	O
-ali	O
-permaneceu	O
-oito	O
-anos	O
-,	O
-que	O
-esteve	O
-em	O
-Goa	B-LOCAL
-,	O
-Cochim	B-LOCAL
-,	O
-Quíloa	B-LOCAL
-,	O
-que	O
-acompanhou	O
-Diogo	B-PESSOA
-Lopes	I-PESSOA
-de	I-PESSOA
-Sequeira	I-PESSOA
-a	O
-Malaca	B-LOCAL
-,	O
-viagem	O
-que	O
-acabou	O
-em	O
-naufrágio	O
-.	O
-No	O
-Oriente	O
-,	O
-Magalhães	B-PESSOA
-estabeleceu	O
-estreitas	O
-relações	O
-de	O
-amizade	O
-com	O
-Francisco	B-PESSOA
-Serrão	I-PESSOA
-,	O
-que	O
-veio	O
-a	O
-ser	O
-feitor	O
-nas	O
-Molucas	B-LOCAL
-;	O
-dele	O
-teria	O
-tido	O
-informações	O
-quanto	O
-à	O
-situação	O
-dos	O
-lugares	O
-produtores	O
-de	O
-especiarias	O
-.	O
-
-Tendo-se	O
-distinguido	O
-na	O
-defesa	O
-de	O
-Azamor	B-LOCAL
-,	O
-em	O
-que	O
-acompanhara	O
-o	O
-duque	O
-de	O
-Bragança	O
-,	O
-pediu	O
-a	O
-D.	B-PESSOA
-Manuel	I-PESSOA
-uma	O
-recompensa	O
-para	O
-seus	O
-feitos	O
-;	O
-mas	O
-os	O
-boatos	O
-que	O
-corriam	O
-sobre	O
-a	O
-maneira	O
-pouco	O
-escrupulosa	O
-como	O
-dividira	O
-as	O
-presas	O
-de	O
-uma	O
-incursão	O
-tinham	O
-chegado	O
-aos	O
-ouvidos	O
-do	O
-Rei	O
-.	O
-Este	O
-,	O
-apesar	O
-das	O
-suas	O
-justificações	O
-,	O
-e	O
-não	O
-o	O
-considerando	O
-culpado	O
-,	O
-não	O
-lhe	O
-concedeu	O
-as	O
-mercês	O
-pedidas	O
-.	O
-
-Em	O
-1517	O
-foi	O
-a	O
-Sevilha	B-LOCAL
-com	O
-Rui	B-PESSOA
-Faleiro	I-PESSOA
-,	O
-tendo	O
-encontrado	O
-no	O
-feitor	O
-da	O
-Casa	B-LOCAL
-de	I-LOCAL
-la	I-LOCAL
-Contratación	I-LOCAL
-da	O
-cidade	O
-um	O
-adepto	O
-do	O
-projecto	O
-que	O
-entretanto	O
-concebera	O
-:	O
-dar	O
-a	O
-Espanha	B-ORGANIZACAO
-a	O
-possibilidade	O
-de	O
-atingir	O
-as	O
-Molucas	B-LOCAL
-pelo	O
-Ocidente	O
-,	O
-por	O
-mares	O
-não	O
-reservados	O
-aos	O
-portugueses	O
-no	O
-Tratado	O
-de	O
-Tordesilhas	O
-e	O
-,	O
-além	O
-disso	O
-,	O
-segundo	O
-Faleiro	B-PESSOA
-,	O
-provar	O
-que	O
-as	O
-ilhas	O
-das	O
-especiarias	O
-se	O
-situavam	O
-no	O
-hemisfério	O
-castelhano	O
-.	O
-Com	O
-a	O
-influência	O
-do	O
-bispo	O
-de	O
-Burgos	B-LOCAL
-conseguiram	O
-a	O
-aprovação	O
-do	O
-projecto	O
-por	O
-parte	O
-de	O
-Carlos	B-PESSOA
-V	I-PESSOA
-,	O
-e	O
-começaram	O
-os	O
-morosos	O
-preparativos	O
-para	O
-a	O
-viagem	O
-,	O
-cheios	O
-de	O
-incidentes	O
-;	O
-depois	O
-da	O
-ruptura	O
-com	O
-Rui	B-PESSOA
-Faleiro	I-PESSOA
-,	O
-Magalhães	B-PESSOA
-continuou	O
-a	O
-aparelhagem	O
-dos	O
-cinco	O
-navios	O
-que	O
-,	O
-com	O
-256	O
-homens	O
-de	O
-tripulação	O
-,	O
-partiram	O
-de	O
-Sanlúcar	B-LOCAL
-de	I-LOCAL
-Barrameda	I-LOCAL
-em	O
-20	O
-de	O
-Setembro	O
-de	O
-1519	O
-.	O
-A	O
-esquadra	O
-tinha	O
-cinco	O
-navios	O
-e	O
-era	O
-tripulada	O
-por	O
-250	O
-homens	O
-.	O
-
-Escola	O
-lança	O
-quadrinhos	O
-em	O
-prol	O
-do	O
-meio	O
-ambiente	O
-
-Fonte	O
-:	O
-Press	O
-Release	O
-(	O
-28/10/2003	O
-)	O
-
-A	O
-Expotec	O
-2003	O
-,	O
-Feira	O
-de	O
-Ciências	O
-e	O
-Cultura	O
-da	O
-Escola	B-ORGANIZACAO
-Fortec	I-ORGANIZACAO
-,	O
-reuniu	O
-mais	O
-de	O
-2000	O
-pessoas	O
-na	O
-unidade	O
-4	O
-,	O
-em	O
-São	B-LOCAL
-Vicente	I-LOCAL
--	O
-Feira	O
-de	O
-Ciências	O
-e	O
-Cultura	O
-da	O
-Escola	O
-Fortec	O
-.	O
-
-Um	O
-dos	O
-destaques	O
-do	O
-evento	O
-foi	O
-a	O
-apresentação	O
-do	O
-resultado	O
-do	O
-trabalho	O
-desenvolvido	O
-em	O
-sala	O
-de	O
-aula	O
-pela	O
-oficina	O
-Noções	O
-básicas	O
-de	O
-Histórias	O
-em	O
-Quadrinhos	O
-,	O
-da	O
-Associação	B-ORGANIZACAO
-dos	I-ORGANIZACAO
-Artistas	I-ORGANIZACAO
--	I-ORGANIZACAO
-Música	I-ORGANIZACAO
-e	I-ORGANIZACAO
-Arte	I-ORGANIZACAO
-.	O
-
-O	O
-evento	O
-contou	O
-com	O
-o	O
-lançamento	O
-do	O
-Zine	O
-Expotec	O
-2003	O
--	O
-Meio	O
-Ambiente	O
-,	O
-ilustrações	O
-e	O
-mascotes	O
-criados	O
-pelos	O
-alunos	O
-.	O
-Além	O
-da	O
-exposição	O
-,	O
-cada	O
-aluno	O
-criou	O
-sua	O
-mascote	O
-que	O
-virou	O
-camiseta	O
-.	O
-
-A	O
-oficina	O
-foi	O
-coordenada	O
-por	O
-Fábio	B-PESSOA
-Tatsubô	I-PESSOA
-com	O
-a	O
-monitoria	O
-de	O
-André	B-PESSOA
-Prata	I-PESSOA
-.	O
-
-Links	O
-Relacionados	O
-:	O
-HQ	O
-Nacional	O
-
-Editora	B-ORGANIZACAO
-Rocco	I-ORGANIZACAO
-lança	O
-Mulheres	O
-Alteradas	O
-5	O
-(	O
-09/06/05	O
-)	O
-
-Lançamento	O
-do	O
-mangá	O
-Fruits	O
-Basket	O
-no	O
-Anima	O
-Weekend	O
-(	O
-07/04/05	O
-)	O
-
-Turma	O
-da	O
-Mônica	O
-será	O
-estrela	O
-de	O
-campanha	O
-internacional	O
-de	O
-vacinação	O
-(	O
-30/03/05	O
-)	O
-
-HQs	O
-de	O
-Velta	B-PESSOA
-disponíveis	O
-em	O
-CD-Rom	O
-(	O
-22/03/05	O
-)	O
-
-Folclore	O
-brasileiro	O
-em	O
-estilo	O
-mangá	O
-(	O
-03/03/05	O
-)	O
-
-CONCURSO	O
-PROFESSOR	O
-ADJUNTO	O
-(	O
-UMA	O
-VAGA	O
-)	O
-
-ESCOLA	B-ORGANIZACAO
-DE	I-ORGANIZACAO
-CIÊNCIA	I-ORGANIZACAO
-DA	I-ORGANIZACAO
-INFORMAÇÃO/UFMG	I-ORGANIZACAO
-
-ÁREA	O
-:	O
-INFORMAÇÃO	O
-E	O
-SOCIEDADE	O
-
-INSCRIÇÕES	O
-:	O
-
-Período	O
-:	O
-de	O
-11	O
-de	O
-setembro	O
-a	O
-09	O
-de	O
-dezembro	O
-de	O
-2001	O
-
-Local	O
-:	O
-Secretaria	B-LOCAL
-Geral	I-LOCAL
-da	I-LOCAL
-Escola	I-LOCAL
-de	I-LOCAL
-Ciência	I-LOCAL
-da	I-LOCAL
-Informação/UFMG	I-LOCAL
-Sala	O
-4004	O
-
-Maiores	O
-informações	O
-pelos	O
-telefones	O
-:	O
-
-(31)3499-5225	O
-/	O
-3499-5235	O
-e	O
-fax	O
-:	O
-(31)3499-5200	O
-
-Biografia	O
-de	O
-
-Dead	O
-Fish	O
-
-Dead	O
-Fish	O
-
-é	O
-uma	O
-banda	O
-de	O
-
-Hardcore	O
-
-de	O
-
-Vitória	B-LOCAL
-
-,	O
-cidade	O
-do	O
-estado	O
-do	O
-
-Espírito	B-LOCAL
-Santo	I-LOCAL
-
-,	O
-
-Brasil	B-LOCAL
-
-.	O
-
-História	O
-
-Tudo	O
-começou	O
-
-em	O
-1991	O
-
-com	O
-um	O
-grupo	O
-de	O
-amigos	O
-que	O
-andavam	O
-de	O
-Skate	O
-em	O
-
-Vitória	B-LOCAL
-
-.	O
-Mesmo	O
-sem	O
-saber	O
-tocar	O
-instrumento	O
-algum	O
-,	O
-resolveram	O
-montar	O
-uma	O
-banda	O
-e	O
-tocar	O
-músicas	O
-para	O
-andar	O
-de	O
-skate	O
-,	O
-principalmente	O
-
-Hardcore	O
-
-.	O
-
-Em	O
-1995	O
-
-lançam	O
-a	O
-demo-tape	O
-''	O
-
-Re-Progresso	O
-
-''	O
-e	O
-
-três	O
-anos	O
-depois	O
-
-,	O
-seu	O
-primeiro	O
-
-CD	O
-Full-Lenght	O
-
-,	O
-chamado	O
-''	O
-
-Sirva-se	O
-
-''	O
-pelo	O
-selo	O
-capixaba	O
-
-Lona	B-ORGANIZACAO
-Records	I-ORGANIZACAO
-
-.	O
-Após	O
-o	O
-''	O
-
-Sirva-se	O
-
-''	O
-,	O
-lançaram	O
-''	O
-
-Sonho	O
-Médio	O
-
-''	O
-
-em	O
-1999	O
-
-e	O
-''	O
-
-Afasia	O
-
-''	O
-
-em	O
-2001	O
-
-.	O
-
-Giuliano	B-PESSOA
-
-,	O
-até	O
-então	O
-guitarrista	O
-,	O
-resolveu	O
-deixar	O
-a	O
-banda	O
-,	O
-
-em	O
-2002	O
-
-lançam	O
-o	O
-
-Projeto	O
-Peixe	O
-Morto	O
-
-e	O
-
-no	O
-mesmo	O
-ano	O
-
-também	O
-lançam	O
-o	O
-
-EP	O
-2002	O
-
-,	O
-mas	O
-que	O
-foi	O
-gravado	O
-
-em	O
-2000	O
-
-.	O
-Alguns	O
-guitarristas	O
-de	O
-bandas	O
-amigas	O
-do	O
-
-Dead	O
-Fish	O
-
-foram	O
-chamados	O
-para	O
-quebrar	O
-um	O
-galho	O
-,	O
-entre	O
-eles	O
-:	O
-
-Alexandre	B-PESSOA
-``	I-PESSOA
-Capilé	I-PESSOA
-''	I-PESSOA
-
-(	O
-
-Sugar	O
-Kane	O
-
-)	O
-,	O
-
-Philippe	B-PESSOA
-Fargnoli	I-PESSOA
-
-(	O
-
-Reffer	O
-
-)	O
-e	O
-
-Tiago	B-PESSOA
-``	I-PESSOA
-Hóspede	I-PESSOA
-''	I-PESSOA
-
-(	O
-
-Aditive	O
-
-)	O
-.	O
-
-Em	O
-2003	O
-
-gravaram	O
-um	O
-
-CD	O
-Ao	O
-Vivo	O
-
-no	O
-
-Hangar	B-LOCAL
-110	I-LOCAL
-
-em	O
-
-São	B-LOCAL
-Paulo	I-LOCAL
-
-.	O
-
-Murilo	B-PESSOA
-
-,	O
-o	O
-outro	O
-guitarrista	O
-do	O
-
-Dead	O
-Fish	O
-
-,	O
-deixa	O
-a	O
-banda	O
-que	O
-ameaça	O
-acabar	O
-.	O
-
-No	O
-fim	O
-do	O
-mesmo	O
-ano	O
-
-,	O
-eles	O
-recebem	O
-uma	O
-proposta	O
-de	O
-uma	O
-gravadora	O
-,	O
-a	O
-
-Deckdisc	B-ORGANIZACAO
-
-.	O
-A	O
-banda	O
-aceita	O
-a	O
-proposta	O
-,	O
-chama	O
-
-Philippe	B-PESSOA
-
-e	O
-
-Hóspede	B-PESSOA
-
-para	O
-assumir	O
-as	O
-guitarras	O
-e	O
-entram	O
-em	O
-estúdio	O
-para	O
-gravar	O
-o	O
-quarto	O
-disco	O
-de	O
-inéditas	O
-,	O
-o	O
-''	O
-
-Zero	O
-e	O
-Um	O
-
-''	O
-.	O
-
-Em	O
-2004	O
-
-,	O
-o	O
-
-Dead	O
-Fish	O
-
-ganha	O
-projeção	O
-nacional	O
-ao	O
-receber	O
-o	O
-prêmio	O
-
-Video	O
-Music	O
-Brasil	O
-
-de	O
-artista	O
-revelação	O
-,	O
-lançando	O
-seu	O
-primeiro	O
-DVD	O
-
-,	O
-o	O
-''	O
-
-MTV	O
-Apresenta	O
-:	O
-Dead	O
-Fish	O
-
-''	O
-.	O
-
-Em	O
-2006	O
-
-,	O
-lançam	O
-mais	O
-um	O
-disco	O
-pela	O
-mesma	O
-gravadora	O
-,	O
-chamado	O
-''	O
-
-Um	O
-Homem	O
-Só	O
-
-''	O
-e	O
-tem	O
-relançadas	O
-sua	O
-primeiras	O
-demo-tapes	O
-pelo	O
-selo	O
-
-Laja	O
-Records	O
-
-,	O
-sob	O
-o	O
-título	O
-de	O
-''	O
-
-Dead	O
-Fish	O
--	O
-Demo	O
-Tapes	O
-
-''	O
-.	O
-''	O
-
-Demo	O
-Tapes	O
-
-''	O
-ainda	O
-conta	O
-com	O
-diversos	O
-vídeos	O
-da	O
-banda	O
-,	O
-além	O
-de	O
-flyers	O
-e	O
-cartazes	O
-de	O
-shows	O
-do	O
-início	O
-da	O
-carreira	O
-.	O
-
-China	B-ORGANIZACAO
-
-vai	O
-desenvolver	O
-nova	O
-geração	O
-de	O
-telemóveis	O
-
-em	O
-2008	O
-
-A	O
-
-China	B-ORGANIZACAO
-
-vai	O
-desenvolver	O
-telemóveis	O
-de	O
-banda	O
-larga	O
-``	O
-de	O
-nova	O
-geração	O
-''	O
-
-em	O
-2008	O
-
-,	O
-informa	O
-
-hoje	O
-
-a	O
-imprensa	O
-estatal	O
-.	O
-
-O	O
-
-Conselho	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Estado	I-ORGANIZACAO
-
-aprovou	O
-o	O
-plano	O
-de	O
-pesquisa	O
-da	O
-tecnologia	O
-de	O
-terceira	O
-geração	O
-,	O
-usando	O
-os	O
-padrões	O
-de	O
-redes	O
-nacionais	O
-
-TD-SCDMA	O
-
-.	O
-A	O
-estreia	O
-poderá	O
-acontecer	O
-durante	O
-os	O
-
-Jogos	O
-Olímpicos	O
-de	O
-2008	O
-
-.	O
-
-O	O
-programa	O
-de	O
-desenvolvimento	O
-``	O
-estará	O
-de	O
-acordo	O
-com	O
-as	O
-tendências	O
-da	O
-tecnologia	O
-da	O
-informação	O
-e	O
-ajudará	O
-a	O
-melhorar	O
-a	O
-inovação	O
-e	O
-competitividade	O
-mundial	O
-das	O
-empresas	O
-chinesas	O
-''	O
-,	O
-disse	O
-o	O
-
-ministro	O
-da	O
-Indústria	O
-da	O
-Informação	O
-
-,	O
-
-Wang	B-PESSOA
-Xundong	I-PESSOA
-
-,	O
-citado	O
-pela	O
-agência	O
-
-Xinhua	B-ORGANIZACAO
-
-.	O
-
-Segundo	O
-
-Wang	B-PESSOA
-
-,	O
-este	O
-será	O
-um	O
-dos	O
-principais	O
-temas	O
-da	O
-pesquisa	O
-tecnológica	O
-chinesa	O
-
-em	O
-2008	O
-
-,	O
-juntamente	O
-com	O
-o	O
-desenvolvimento	O
-de	O
-microprocessadores	O
-e	O
-circuitos	O
-integrados	O
-,	O
-entre	O
-outros	O
-.	O
-
-A	O
-tecnologia	O
-
-TD-SCDMA	O
-
-é	O
-desenvolvida	O
-integralmente	O
-pela	O
-
-China	B-ORGANIZACAO
-
-,	O
-em	O
-oposição	O
-aos	O
-padrões	O
-norte-americanos	O
-(	O
-
-CDMA	O
-2000	O
-
-)	O
-e	O
-europeus	O
-(	O
-
-WCDMA	O
-
-)	O
-.	O
-
-Ainda	O
-não	O
-há	O
-data	O
-para	O
-a	O
-concessão	O
-de	O
-licenças	O
-para	O
-telemóveis	O
-
-3G	O
-
-,	O
-que	O
-serão	O
-disputadas	O
-entre	O
-as	O
-quatro	O
-grandes	O
-operadoras	O
-de	O
-comunicações	O
-fixas	O
-e	O
-móveis	O
-do	O
-país	O
-:	O
-
-China	B-ORGANIZACAO
-Telecom	I-ORGANIZACAO
-
-,	O
-
-China	B-ORGANIZACAO
-Netcom	I-ORGANIZACAO
-
-,	O
-
-China	B-ORGANIZACAO
-Mobile	I-ORGANIZACAO
-
-e	O
-
-China	B-ORGANIZACAO
-Unicom	I-ORGANIZACAO
-
-.	O
-
-E	O
-como	O
-surgiu	O
-a	O
-ideia	O
-de	O
-construir	O
-uma	O
-universidade	O
-cá	O
-em	O
-Braga	B-LOCAL
-?	O
-
-Isso	O
-foi	O
-ideia	O
-do	O
-Veiga	B-PESSOA
-Simão	I-PESSOA
-.	O
-O	O
-Veiga	B-PESSOA
-Simão	I-PESSOA
-ao	O
-fazer	O
-a	O
-reforma	O
-das	O
-universidades	O
-,	O
-Coimbra	B-LOCAL
-,	O
-Porto	B-LOCAL
-e	O
+?	O	O
+
+O	O	O
+que	O	O
+�	O	O
+uma	O	O
+alergia	O	O
+?	O	O
+Que	O	O
+outro	O	O
+nome	O	O
+se	O	O
+d�	O	O
+a	O	O
+uma	O	O
+alergia	O	O
+?	O	O
+Em	O	O
+1980	O	O
+,	O	O
+que	O	O
+percentagem	O	O
+da	O	O
+popula��o	O	O
+tinha	O	O
+sido	O	O
+atingida	O	O
+por	O	O
+elas	O	O
+?	O	O
+Que	O	O
+alergia	O	O
+afecta	O	O
+cerca	O	O
+de	O	O
+8	O	O
+%	O	O
+das	O	O
+crian�as	O	O
+?	O	O
+
+Qual	O	O
+�	O	O
+a	O	O
+altura	O	O
+do	O	O
+Monte	O	O
+Claro	O	O
+?	O	O
+
+Quais	O	O
+eram	O	O
+os	O	O
+primeiros	O	O
+nomes	O	O
+dos	O	O
+dois	O	O
+irm�os	O	O
+Piccard	O	O
+?	O	O
+Qual	O	O
+deles	O	O
+descobriu	O	O
+o	O	O
+ur�nio	O	O
+235	O	O
+?	O	O
+Que	O	O
+duas	O	O
+profiss�es	O	O
+teve	O	O
+este	O	O
+�ltimo	O	O
+?	O	O
+
+Que	O	O
+personagem	O	O
+�	O	O
+que	O	O
+C�sar	B-PESSOA
+Romero	I-PESSOA
+representava	O	O
+na	O	O
+famosa	O	O
+s�rie	O	O
+televisiva	O	O
+``	O	O
+Batman	O	O
+''	O	O
+?	O	O
+Onde	O	O
+�	O	O
+que	O	O
+ele	O	O
+morreu	O	O
+?	O	O
+Que	O	O
+idade	O	O
+tinha	O	O
+ele	O	O
+?	O	O
+
+A	O	O
+que	O	O
+movimento	O	O
+pol�tico	O	O
+pertence	O	O
+a	O	O
+Arlette	B-PESSOA
+Laguiller	I-PESSOA
+?	O	O
+
+Neste	O	O
+campeonato	O	O
+aprendi	O	O
+mais	O	O
+,	O	O
+e	O	O
+sei	O	O
+que	O	O
+tenho	O	O
+muito	O	O
+que	O	O
+aprender	O	O
+,	O	O
+ganhou	O	O
+Marcos	B-PESSOA
+Mata	I-PESSOA
+representante	O	O
+de	O	O
 Lisboa	B-LOCAL
-,	O
-entendeu	O
-que	O
-Braga	B-LOCAL
-já	O
-tinha	O
-uma	O
-Faculdade	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Filosofia	I-ORGANIZACAO
-e	O
-que	O
-era	O
-uma	O
-cidade	O
-universitária	O
-,	O
-e	O
-era	O
-das	O
-partes	O
-mais	O
-povoadas	O
-de	O
+,	O	O
+cadete	O	O
+da	O	O
+ACM	B-ORGANIZACAO
+da	O	O
+mesma	O	O
+cidade	O	O
+,	O	O
+ganhou	O	O
+e	O	O
+ganhou	O	O
+bem	O	O
+,	O	O
+foi	O	O
+merecido	O	O
+o	O	O
+triunfo	O	O
+.	O	O
+
+Em	O	O
+Basket	O	O
+Ball	O	O
+tamb�m	O	O
+perdemos	O	O
+,	O	O
+e	O	O
+infelizmente	O	O
+sem	O	O
+as	O	O
+caracter�sticas	O	O
+do	O	O
+Ping	O	O
+Pong	O	O
+,	O	O
+na	O	O
+segunda	O	O
+parte	O	O
+eu	O	O
+e	O	O
+Vilarinho	B-PESSOA
+Cardoso	I-PESSOA
+,	O	O
+tivemos	O	O
+que	O	O
+substituir	O	O
+dois	O	O
+jogadores	O	O
+caprichosos	O	O
+,	O	O
+e	O	O
+sem	O	O
+o	O	O
+menor	O	O
+intuito	O	O
+de	O	O
+honrar	O	O
+n�o	O	O
+a	O	O
+terra	O	O
+em	O	O
+que	O	O
+nasceram	O	O
+,	O	O
+mas	O	O
+sim	O	O
+a	O	O
+que	O	O
+representavam	O	O
+,	O	O
+perdemos	O	O
+por	O	O
+33-12	O	O
+salvo	O	O
+erro	O	O
+.	O	O
+
+O	O	O
+gin�sio	O	O
+da	O	O
+ACM	B-ORGANIZACAO
+de	O	O
+Coimbra	B-LOCAL
+,	O	O
+�	O	O
+o	O	O
+melhor	O	O
+que	O	O
+at�	O	O
+�	O	O
+data	O	O
+tenho	O	O
+visto	O	O
+,	O	O
+assim	O	O
+como	O	O
+o	O	O
+seu	O	O
+pucking-ball	O	O
+,	O	O
+que	O	O
+�	O	O
+o	O	O
+�nico	O	O
+no	O	O
+g�nero	O	O
+que	O	O
+existe	O	O
+em	O	O
 Portugal	B-LOCAL
-,	O
-como	O
-sabe	O
-ainda	O
-hoje	O
-é	O
-o	O
-sítio	O
-mais	O
-jovem	O
-da	O
-Europa	B-LOCAL
-,	O
-já	O
-está	O
-a	O
-perdé-lo	O
-,	O
-mas	O
-ainda	O
-é	O
-.	O
-Pôs	O
-a	O
-universidade	O
-aqui	O
-,	O
-em	O
-Évora	B-LOCAL
-e	O
-na	O
-Covilhã	B-LOCAL
-e	O
-em	O
-Vila	B-LOCAL
-Real	I-LOCAL
-os	O
-institutos	O
-universitários	O
-,	O
-que	O
-depois	O
-passaram	O
-a	O
-universidade	O
-,	O
-mas	O
-eram	O
-institutos	O
-universitários	O
-.	O
-As	O
-universidades	O
-eram	O
-Porto	B-ORGANIZACAO
-,	O
-Lisboa	B-ORGANIZACAO
-e	O
-Minho	B-ORGANIZACAO
-.	O
-Felizmente	O
-,	O
-o	O
-primeiro	O
-reitor	O
-foi	O
-um	O
-homem	O
-execpcional	O
-.	O
-Isto	O
-deve-se	O
-ao	O
-Lloyd	B-PESSOA
-Braga	I-PESSOA
-,	O
-quando	O
-ele	O
-na	O
-primeira	O
-reunião	O
-que	O
-tivemos	O
-disse	O
-:	O
-``	O
-Vamos	O
-fazer	O
-uma	O
-universidade	O
-completa	O
-.	O
-Não	O
-temos	O
-obrigação	O
-de	O
-seguir	O
-as	O
-outras	O
-.	O
-''	O
-A	O
-ideia	O
-dele	O
-,	O
-``	O
-Campus	O
-''	O
-trouxe	O
-da	O
-Inglaterra	B-LOCAL
-,	O
-por	O
-a	O
-universidade	O
-toda	O
-num	O
-campus	O
-e	O
-não	O
-como	O
-está	O
-na	O
-Covilhã	B-LOCAL
-,	O
-em	O
-cada	O
-parte	O
-da	O
-cidade	O
-está	O
-uma	O
-coisa	O
-,	O
-a	O
-universidade	O
-não	O
-está	O
-reunida	O
-.	O
-E	O
-até	O
-queria	O
-um	O
-só	O
-e	O
-não	O
-queria	O
-em	O
-Braga	B-LOCAL
-.	O
-Nós	O
-a	O
-princípio	O
-,	O
-também	O
-se	O
-pensou	O
-em	O
-Barcelos	B-LOCAL
-,	O
-mas	O
-a	O
-que	O
-ganhou	O
-entre	O
-Braga	B-LOCAL
-e	O
-Guimarães	B-LOCAL
-foi	O
-as	O
-Taipas	B-LOCAL
-porque	O
-era	O
-um	O
-monte	O
-por	O
-nossa	O
-conta	O
-,	O
-podia-se	O
-fazer	O
-ali	O
-toda	O
-a	O
-universidade	O
-.	O
-A	O
-gente	O
-ia	O
-para	O
-lá	O
-trabalhar	O
-durante	O
-o	O
-dia	O
-e	O
-à	O
-noite	O
-ia	O
-cada	O
-um	O
-para	O
-sua	O
-casa	O
-.	O
-Acontece	O
-que	O
-os	O
-de	O
-Guimarães	B-LOCAL
-julgavam	O
-,	O
-e	O
-hoje	O
-estão	O
-arrependidos	O
-,	O
-não	O
-queriam	O
-,	O
-queriam	O
-uma	O
-coisa	O
-em	O
-Guimarães	B-LOCAL
-,	O
-e	O
-Viana	B-LOCAL
-prescindiu	O
-também	O
-podia	O
-ser	O
-em	O
-Viana	B-LOCAL
-segundo	O
-a	O
-lei	O
-a	O
-Engenharia	O
-Naval	O
-.	O
-Os	O
-de	O
-Guimarães	B-LOCAL
-disseram	O
-:	O
-``	O
-Ponham	O
-lá	O
-o	O
-que	O
-quiserem	O
-,	O
-mas	O
-que	O
-isso	O
-vá	O
-para	O
-Guimarães	B-LOCAL
-.	O
-''	O
-E	O
-como	O
-o	O
-governo	O
-nos	O
-obrigou	O
-a	O
-ter	O
-em	O
-Braga	B-LOCAL
-e	O
-Guimarães	B-LOCAL
-,	O
-o	O
-oficiais	O
-venderam-nos	O
-a	O
-Quinta	B-LOCAL
-da	I-LOCAL
-Armada	I-LOCAL
-,	O
-onde	O
-está	O
-a	O
-universidade	O
-hoje	O
-por	O
-3.500	O
-contos	O
-.	O
-Eles	O
-disseram	O
-:	O
-``	O
-Desde	O
-de	O
-que	O
-nos	O
-façam	O
-uma	O
-casa	O
-para	O
-os	O
-oficiais	O
-no	O
-Porto	B-LOCAL
-é	O
-o	O
-preço	O
-,	O
-são	O
-3.500	O
-contos	O
-.	O
-''	O
-.	O
-Depois	O
-arrependeram-se	O
-e	O
-queríamos	O
-comprar	O
-a	O
-parte	O
-``	O
-condutiz	O
-''	O
-e	O
-já	O
-nos	O
-queriam	O
-50	O
-mil	O
-contos	O
-.	O
-``	O
-Não	O
-,	O
-não	O
-!	O
-Isso	O
-mais	O
-tarde	O
-é	O
-barato	O
-,	O
-que	O
-isto	O
-foi	O
-baratíssimo	O
-.	O
-''	O
-.	O
-Em	O
-Guimarães	B-LOCAL
-a	O
-parte	O
-onde	O
-está	O
-a	O
-universidade	O
-,	O
-já	O
-fui	O
-eu	O
-que	O
-comprei	O
-esses	O
-terrenos	O
-.	O
-Nós	O
-não	O
-queríamos	O
-ficar	O
-metidos	O
-ali	O
-na	O
-cidade	O
-,	O
-hoje	O
-já	O
-estamos	O
-asfixiados	O
-,	O
-já	O
-se	O
-previa	O
-,	O
-mas	O
-o	O
-governo	O
-obrigou-nos	O
-.	O
-O	O
-Freitas	B-PESSOA
-do	I-PESSOA
-Amaral	I-PESSOA
-e	O
-outros	O
-obrigaram-nos	O
-a	O
-ir	O
-para	O
-lá	O
-.	O
-Então	O
-ficamos	O
-em	O
-Guimarães	B-LOCAL
-e	O
-aqui	O
-.	O
-Em	O
-Guimarães	B-LOCAL
-a	O
-princípio	O
-tínhamos	O
-lá	O
-o	O
-Palácio	B-LOCAL
-da	I-LOCAL
-Vila	I-LOCAL
-Flôr	I-LOCAL
-,	O
-onde	O
-estivemos	O
-provisoriamente	O
-,	O
-e	O
-depois	O
-fomos	O
-comprando	O
-o	O
-terreno	O
-onde	O
-está	O
-hoje	O
-a	O
-universidade	O
-.	O
-Isso	O
-já	O
-foi	O
-no	O
-meu	O
-tempo	O
-.	O
-E	O
-depois	O
-o	O
-grande	O
-desenvolvimento	O
-foi	O
-com	O
-o	O
-professor	B-PESSOA
-Machado	I-PESSOA
-dos	I-PESSOA
-Santos	I-PESSOA
-,	O
-o	O
-João	B-PESSOA
-de	I-PESSOA
-Deus	I-PESSOA
-esteve	O
-pouco	O
-tempo	O
-,	O
-foi	O
-para	O
-ministro	O
-da	O
-Educação	O
-,	O
-e	O
-o	O
-Machado	B-PESSOA
-dos	I-PESSOA
-Santos	I-PESSOA
-foi	O
-nomeado	O
-reitor	O
-.	O
-Esteve	O
-10	O
-anos	O
-porque	O
-eu	O
-fiz	O
-os	O
-estatutos	O
-e	O
-contava	O
-depois	O
-esteve	O
-duas	O
-vezes	O
-e	O
-portanto	O
-foi	O
-o	O
-reitor	O
-que	O
-deu	O
-grande	O
-desenvolvimento	O
-porque	O
-as	O
-universidades	O
-eram	O
-subsidíadas	O
-em	O
-função	O
-do	O
-número	O
-de	O
-estudantes	O
-,	O
-por	O
-isso	O
-convinha	O
-ter	O
-mais	O
-,	O
-ao	O
-início	O
-tínhamos	O
-até	O
-de	O
-mais	O
-,	O
-mas	O
-foi	O
-bom	O
-porque	O
-nos	O
-foi	O
-dando	O
-dinheiro	O
-para	O
-construir	O
-a	O
-universidade	O
-.	O
-Guimarães	B-LOCAL
-agora	O
-com	O
-a	O
-auto-estrada	O
-fica	O
-a	O
-15	O
-minutos	O
-de	O
-distância	O
-.	O
+.	O	O
 
-Quem	O
-fazia	O
-parte	O
-da	O
-comissão	O
-instaladora	O
-?	O
-
-O	O
-professor	B-PESSOA
-Lloyd	I-PESSOA
-Braga	I-PESSOA
-,	O
-o	O
-prof.	B-PESSOA
-Romero	I-PESSOA
-,	O
-era	O
-eu	O
-,	O
-o	O
-Pinto	B-PESSOA
-Machado	I-PESSOA
-que	O
-quis	O
-fundar	O
-a	O
-faculdade	O
-de	O
-Medicina	O
-e	O
-que	O
-agora	O
-está	O
-à	O
-frente	O
-.	O
-Mudou	O
-para	O
-cá	O
-,	O
-mas	O
-depois	O
-teve	O
-que	O
-mudar	O
-para	O
-o	O
-Porto	B-LOCAL
-para	O
-a	O
-faculdade	O
-de	O
-Medicina	O
-,	O
-mas	O
-agora	O
-está	O
-a	O
-trabalhar	O
-cá	O
-.	O
-E	O
-havia	O
-depois	O
-o	O
-director	O
-das	O
-obras	O
-públicas	O
-,	O
-que	O
-não	O
-interessa	O
-,	O
-também	O
-pertenceu	O
-mas	O
-mudou	O
-com	O
-o	O
-tempo	O
-.	O
-O	O
-secretário	O
-que	O
-foi	O
-o	O
-doutor	B-PESSOA
-Cabral	I-PESSOA
-que	O
-ainda	O
-aí	O
-está	O
-,	O
-depois	O
-mudou	O
-para	O
-este	O
-administrador	O
-que	O
-aí	O
-está	O
-.	O
-O	O
-Freitas	B-PESSOA
-do	I-PESSOA
-Amaral	I-PESSOA
-foi	O
-alguns	O
-meses	O
-,	O
-depois	O
-meteu-se	O
-na	O
-política	O
-e	O
-deixou	O
-,	O
-mas	O
-foi	O
-dos	O
-primeiros	O
-.	O
-O	O
-Pinto	B-PESSOA
-Machado	I-PESSOA
-tinha	O
-a	O
-faculdade	O
-de	O
-Medicina	O
-,	O
-o	O
-professor	B-PESSOA
-Romero	I-PESSOA
-tinha	O
-a	O
-de	O
-Engenharia	O
-,	O
-eu	O
-tinha	O
-a	O
-parte	O
-de	O
-Humanidades	O
-,	O
-Ciências	O
-Sociais	O
-e	O
-Economia	O
-.	O
-Eu	O
-tinha	O
-as	O
-letras	O
-só	O
-,	O
-a	O
-princípio	O
-,	O
-porque	O
-quando	O
-o	O
-Freitas	B-PESSOA
-do	I-PESSOA
-Amaral	I-PESSOA
-se	O
-foi	O
-embora	O
-fiquei	O
-eu	O
-,	O
-porque	O
-eu	O
-era	O
-o	O
-único	O
-de	O
-humanidades	O
-.	O
-Éramos	O
-estes	O
-,	O
-depois	O
-veio	O
-o	O
-Santos	B-PESSOA
-Simões	I-PESSOA
-,	O
-que	O
-é	O
-o	O
-que	O
-está	O
-à	O
-frente	O
-da	O
-universidade	O
-em	O
-Guimarães	B-LOCAL
-e	O
-que	O
-foi	O
-substituir	O
-o	O
-Freitas	B-PESSOA
-do	I-PESSOA
-Amaral	I-PESSOA
-.	O
-Guimarães	B-LOCAL
-tinha	O
-muito	O
-poder	O
-junto	O
-do	O
-governo	O
-naquele	O
-tempo	O
-.	O
-Mas	O
-foi	O
-uma	O
-sorte	O
-,	O
-ainda	O
-hoje	O
-somos	O
-muito	O
-amigos	O
-com	O
-o	O
-Santos	B-PESSOA
-Simões	I-PESSOA
-,	O
-ainda	O
-estamos	O
-em	O
-relação	O
-com	O
-ele	O
-e	O
-agora	O
-vai-se	O
-fundar	O
-uma	O
-unidade	O
-cultural	O
-em	O
-Guimarães	B-LOCAL
-,	O
-em	O
-Monção	B-LOCAL
-e	O
-em	O
-Guimarães	B-LOCAL
-.	O
-
-Coletivo	O
-dinamarquês	O
-acusa	O
-Fundação	B-ORGANIZACAO
-Bienal	I-ORGANIZACAO
-de	O
-censura	O
-
-16	O
-de	O
-Outubro	O
-de	O
-2006	O
-
-Apresentada	O
-na	O
-Bienal	O
-de	O
-Veneza	B-LOCAL
-em	O
-2003	O
-,	O
-a	O
-obra	O
-``	O
-Guaraná	O
-Power	O
-''	O
-,	O
-do	O
-coletivo	O
-dinamarquês	O
-Superflex	O
-,	O
-foi	O
-selecionada	O
-pela	O
-curadoria	O
-da	O
-27ª	O
-Bienal	O
-de	O
-São	B-LOCAL
-Paulo	I-LOCAL
-mas	O
-teve	O
-sua	O
-exibição	O
-vetada	O
-pela	O
-Fundação	B-ORGANIZACAO
-realizadora	O
-da	O
-mostra	O
-.	O
-
-Tônico	O
-de	O
-sabor	O
-concentrado	O
-e	O
-propriedades	O
-energéticas	O
-,	O
-de	O
-grande	O
-sucesso	O
-na	O
-Europa	B-LOCAL
-,	O
-o	O
-Guaraná	O
-Power	O
-tem	O
-como	O
-função	O
-primeira	O
-a	O
-crítica	O
-ao	O
-monopólio	O
-do	O
-mercado	O
-e	O
-a	O
-suas	O
-conseqüências	O
-nas	O
-comunidades	O
-agricultoras	O
-.	O
-A	O
-partir	O
-de	O
-um	O
-estudo	O
-econômico	O
-da	O
-cidade	O
-de	O
-Maués	B-LOCAL
-,	O
-no	O
-Amazonas	B-LOCAL
-,	O
-detectou-se	O
-o	O
-impacto	O
-econômico	O
-da	O
-redução	O
-do	O
-preço	O
-das	O
-sementes	O
-de	O
-guaraná	O
-por	O
-parte	O
-das	O
-grandes	O
-indústrias	O
-.	O
-``	O
-Estabelecemos	O
-o	O
-valor	O
-de	O
-R$	O
-15	O
-para	O
-o	O
-quilo	O
-de	O
-sementes	O
-,	O
-enquanto	O
-as	O
-indústrias	O
-pagam	O
-R$	O
-7	O
-''	O
-,	O
-afirmou	O
-Bjornstjerne	B-PESSOA
-Christiansen	I-PESSOA
-,	O
-membro	O
-do	O
-Superflex	O
-,	O
-em	O
-entrevista	O
-à	O
-Folha	O
-de	O
-São	O
-Paulo	O
-.	O
-O	O
-projeto	O
-conta	O
-com	O
-o	O
-apoio	O
-da	O
-Secretaria	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Desenvolvimento	I-ORGANIZACAO
-Sustentável	I-ORGANIZACAO
-do	O
-Governo	B-ORGANIZACAO
-do	O
-Estado	B-LOCAL
-do	I-LOCAL
-Amazonas	I-LOCAL
-.	O
-
-Impedidos	O
-de	O
-apresentar	O
-a	O
-obra	O
--	O
-e	O
-tendo	O
-suas	O
-páginas	O
-do	O
-catálogo	O
-da	O
-mostra	O
-cobertas	O
-por	O
-tarjas	O
-pretas	O
--	O
-,	O
-os	O
-dinamarqueses	O
-distribuíram	O
-o	O
-Guaraná	O
-Power	O
-,	O
-sem	O
-rótulo	O
-,	O
-em	O
-vernissages	O
-na	O
-Galeria	B-LOCAL
-Vermelho	I-LOCAL
-e	O
-Instituto	B-LOCAL
-Tomie	I-LOCAL
-Ohtake	I-LOCAL
-,	O
-além	O
-de	O
-pontos	O
-espalhados	O
-pela	O
-capital	O
-paulista	O
-.	O
-O	O
-coletivo	O
-Superflex	O
-já	O
-recebeu	O
-elogios	O
-do	O
-Ministro	B-PESSOA
-da	I-PESSOA
-Cultura	I-PESSOA
-Gilberto	I-PESSOA
-Gil	I-PESSOA
-em	O
-junho	O
-deste	O
-ano	O
-,	O
-ao	O
-apresentar	O
-no	O
-Brasil	B-LOCAL
-o	O
-projeto	O
-Free	O
-Beer	O
-(	O
-``	O
-cerveja	O
-livre	O
-''	O
-)	O
-,	O
-cerveja	O
-cuja	O
-fórmula	O
-é	O
-licenciada	O
-em	O
-Creative	O
-Commons	O
-e	O
-permite	O
-que	O
-qualquer	O
-pessoa	O
-interessada	O
-possa	O
-fabricá-la	O
-ou	O
-aprimorá-la	O
-.	O
-
-Na	O
-entrevista	O
-coletiva	O
-dos	O
-organizadores	O
-da	O
-Bienal	O
-,	O
-o	O
-presidente	O
-da	O
-Fundação	B-ORGANIZACAO
-Bienal	I-ORGANIZACAO
-,	O
-Manuel	B-PESSOA
-Francisco	I-PESSOA
-Pires	I-PESSOA
-da	I-PESSOA
-Costa	I-PESSOA
-,	O
-optou	O
-por	O
-,	O
-além	O
-de	O
-responsabilizar	O
-a	O
-assessoria	O
-jurídica	O
-,	O
-emitir	O
-sua	O
-opinião	O
-pessoal	O
-acerca	O
-da	O
-obra	O
-polêmica	O
-:	O
-``	O
-Eu	O
-jamais	O
-interferi	O
-no	O
-mérito	O
-das	O
-obras	O
-selecionadas	O
-.	O
-Aliás	O
-,	O
-a	O
-acho	O
-de	O
-muito	O
-mau	O
-gosto	O
-e	O
-,	O
-se	O
-não	O
-julguei	O
-,	O
-estou	O
-julgando	O
-agora	O
-.	O
-Foi	O
-o	O
-departamento	O
-jurídico	O
-da	O
-Bienal	B-ORGANIZACAO
-quem	O
-informou	O
-que	O
-essa	O
-obra	O
-não	O
-estava	O
-de	O
-acordo	O
-com	O
-as	O
-regras	O
-da	O
-legislação	O
-brasileira	O
-''	O
-.	O
-
-``	O
-O	O
-que	O
-eles	O
-sempre	O
-nos	O
-disseram	O
-é	O
-que	O
-isso	O
--LSB-	O
-a	O
-referência	O
-à	O
-marca	O
-do	O
-guaraná	O
-Antarctica	O
--RSB-	O
-poderia	O
-ser	O
-um	O
-problema	O
-,	O
-mas	O
-o	O
-presidente	O
-nunca	O
-nos	O
-deu	O
-respostas	O
-claras	O
-.	O
-Nossas	O
-obras	O
-sempre	O
-envolvem	O
-negociação	O
-,	O
-mas	O
-com	O
-ele	O
-tivemos	O
-as	O
-portas	O
-fechadas	O
-.	O
-Se	O
-eles	O
-olhassem	O
-como	O
-ficou	O
-a	O
-lata	O
--LSB-	O
-diferente	O
-da	O
-criação	O
-original	O
--RSB-	O
-,	O
-não	O
-haveria	O
-problema	O
-legal	O
-''	O
-,	O
-afirmou	O
-Jakob	B-PESSOA
-Fenger	I-PESSOA
-,	O
-um	O
-dos	O
-membros	O
-do	O
-coletivo	O
-,	O
-em	O
-entrevista	O
-para	O
-a	O
-Folha	B-ORGANIZACAO
-de	I-ORGANIZACAO
-São	I-ORGANIZACAO
-Paulo	I-ORGANIZACAO
-,	O
-em	O
-matéria	O
-que	O
-informa	O
-ainda	O
-:	O
-``	O
-Por	O
-meio	O
-de	O
-sua	O
-assessoria	O
-,	O
-a	O
-AmBev	B-ORGANIZACAO
--LSB-	O
-fabricante	O
-do	O
-guaraná	O
-Antarctica	O
--RSB-	O
-declarou	O
-não	O
-ver	O
-problema	O
-na	O
-obra	O
-.	O
-Diz	O
-não	O
-ter	O
-tido	O
-nenhum	O
-contato	O
-com	O
-o	O
-grupo	O
-''	O
-.	O
-
-O	O
-Superflex	O
-ainda	O
-distribuiu	O
-à	O
-imprensa	O
-,	O
-no	O
-dia	O
-da	O
-coletiva	O
-,	O
-o	O
-documento	O
-``	O
-A	O
-obra	O
-de	O
-arte	O
-que	O
-os	O
-brasileiros	O
-não	O
-terão	O
-permissão	O
-de	O
-ver	O
-na	O
-Bienal	O
-''	O
-.	O
-Nele	O
-,	O
-afirma-se	O
-que	O
-o	O
-''	O
-presidente	O
-da	O
-Fundação	B-ORGANIZACAO
-Bienal	I-ORGANIZACAO
-censurou	O
-um	O
-trabalho	O
-com	O
-reconhecimento	O
-internacional	O
-para	O
-o	O
-público	O
-brasileiro	O
-''	O
-,	O
-que	O
-,	O
-segundo	O
-o	O
-texto	O
-divulgado	O
-,	O
-teria	O
-sido	O
-recusado	O
-``	O
-por	O
-não	O
-ser	O
-considerada	O
-uma	O
-`	O
-atividade	O
-artística	O
-'	O
-''	O
-.	O
-
-A	O
-polêmica	O
-gerada	O
-pela	O
-Fundação	B-ORGANIZACAO
-Bienal	I-ORGANIZACAO
-fortaleceu	O
-a	O
-ação	O
-política	O
-do	O
-coletivo	O
-dinamarquês	O
-,	O
-tendo	O
-a	O
-censura	O
-gerado	O
-uma	O
-reação	O
-oposta	O
-à	O
-desejada	O
-.	O
-Foi	O
-grande	O
-o	O
-interesse	O
-público	O
-pelo	O
-modelo	O
-econômico	O
-e	O
-social	O
-do	O
-projeto	O
-Guaraná	O
-Power	O
---	O
-baseado	O
-no	O
-colaborativismo	O
-do	O
-software	O
-livre	O
---	O
-e	O
-positiva	O
-a	O
-repercussão	O
-do	O
-tema	O
-,	O
-exatamente	O
-onde	O
-interessa	O
-:	O
-no	O
-país	O
-fornecedor	O
-da	O
-matéria-prima	O
-de	O
-uma	O
-das	O
-bebidas	O
-estrangeiras	O
-mais	O
-famosas	O
-no	O
-exterior	O
-.	O
-
-Polémica	O
-em	O
-Vila	B-LOCAL
-do	I-LOCAL
-Conde	I-LOCAL
-
-PSD	B-ORGANIZACAO
-denuncia	O
-poluição	O
-
-A	O
-Comissão	B-ORGANIZACAO
-Política	I-ORGANIZACAO
-Concelhia	I-ORGANIZACAO
-do	I-ORGANIZACAO
-PSD	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Vila	I-ORGANIZACAO
-do	I-ORGANIZACAO
-Conde	I-ORGANIZACAO
-divulgou	O
-recentemente	O
-um	O
-comunicado	O
-denunciando	O
-casos	O
-de	O
-poluição	O
-que	O
-assolam	O
-a	O
-freguesia	O
-de	O
-Ferreiró	B-LOCAL
---	O
-um	O
-bastião	O
-Socialista	O
---	O
-e	O
-que	O
-,	O
-no	O
-entender	O
-dos	O
-sociais-democratas	O
-,	O
-retratam	O
-``	O
-exemplos	O
-de	O
-má	O
-gestão	O
-''	O
-da	O
-Câmara	B-ORGANIZACAO
-Municipal	I-ORGANIZACAO
-.	O
-
-O	O
-documento	O
-``	O
-laranja	O
-''	O
-acusa	O
-a	O
-edilidade	O
-de	O
-não	O
-ter	O
-realizado	O
-as	O
-obras	O
-de	O
-saneamento	O
-da	O
-Urbanização	B-LOCAL
-25	I-LOCAL
-de	I-LOCAL
-Abril	I-LOCAL
-,	O
-cujos	O
-detritos	O
-,	O
-diz	O
-o	O
-comunicado	O
-,	O
-estão	O
-a	O
-ser	O
-lançados	O
-``	O
-a	O
-céu	O
-aberto	O
-''	O
-para	O
-um	O
-arruamento	O
-vizinho	O
-.	O
-Referem	O
-ainda	O
-a	O
-existência	O
-de	O
-uma	O
-sucata	O
-no	O
-``	O
-centro	O
-de	O
-uma	O
-zona	O
-residencial	O
-,	O
-onde	O
-as	O
-águas	O
-dos	O
-poços	O
-correm	O
-riscos	O
-de	O
-contaminação	O
-''	O
-.	O
-Finalmente	O
-,	O
-o	O
-PSD	B-ORGANIZACAO
-divulga	O
-que	O
-uma	O
-fábrica	O
-local	O
-,	O
-a	O
-Ferro-Têxtil	B-ORGANIZACAO
-,	O
-está	O
-a	O
-poluir	O
-o	O
-``	O
-ribeiro	O
-dos	O
-peixes	O
-''	O
-,	O
-colocando	O
-em	O
-causa	O
-o	O
-seu	O
-aproveitamento	O
-para	O
-as	O
-regas	O
-dos	O
-terrenos	O
-agrícolas	O
-que	O
-circundam	O
-aquela	O
-área	O
-.	O
-
-Confrontado	O
-com	O
-as	O
-acusações	O
-sociais-democratas	O
-,	O
-Saraiva	B-PESSOA
-Dias	I-PESSOA
-,	O
-vereador	O
-substituto	O
-do	O
-presidente	O
-da	O
-autarquia	O
-,	O
-referiu	O
-ao	O
-PÚBLICO	O
-que	O
-o	O
-comunicado	O
-do	O
-PSD	B-ORGANIZACAO
-contém	O
-``	O
-um	O
-conjunto	O
-de	O
-atoardas	O
-,	O
-distantes	O
-da	O
-realidade	O
-''	O
-.	O
-No	O
-entanto	O
-,	O
-o	O
-autarca	O
-reconhece	O
-que	O
-existem	O
-problemas	O
-na	O
-Urbanização	B-LOCAL
-25	I-LOCAL
-de	I-LOCAL
-Abril	I-LOCAL
-,	O
-que	O
-``	O
-a	O
-Câmara	B-ORGANIZACAO
-está	O
-a	O
-resolver	O
-,	O
-prevendo	O
-para	O
-breve	O
-a	O
-instalação	O
-dos	O
-contentores	O
-necessários	O
-''	O
-.	O
-Quanto	O
-à	O
-sucata	O
-,	O
-o	O
-vereador	O
-lembra	O
-que	O
-``	O
-foi	O
-o	O
-Governo	B-ORGANIZACAO
-de	O
-Cavaco	B-PESSOA
+Conservo	O	O
+algumas	O	O
+fotografias	O	O
+que	O	O
+tirei	O	O
+neste	O	O
+espl�ndido	O	O
+passeio	O	O
+,	O	O
+em	O	O
+que	O	O
+gozamos	O	O
+muito	O	O
+,	O	O
+a	O	O
+�nica	O	O
+fotografia	O	O
+que	O	O
+at�	O	O
+agora	O	O
+tirei	O	O
+a	O	O
+magn�sio	O	O
+foi	O	O
+no	O	O
+gin�sio	O	O
+aos	O	O
+dois	O	O
+grupos	O	O
+de	O	O
+Basket	O	O
+,	O	O
+que	O	O
+ficou	O	O
+regular	O	O
+.	O	O
+Comecei	O	O
+ent�o	O	O
+a	O	O
+frequentar	O	O
+a	O	O
+igreja	O	O
+metodista	O	O
+ao	O	O
+Mirante	B-LOCAL
+,	O	O
+encontrando	O	O
+nesta	O	O
+religi�o	O	O
+a	O	O
+felicidade	O	O
+que	O	O
+j�	O	O
+atr�z	O	O
+falei	O	O
+depois	O	O
+de	O	O
+algum	O	O
+tempo	O	O
+e	O	O
+quando	O	O
+j�	O	O
+convertido	O	O
+e	O	O
+conhecedor	O	O
+embora	O	O
+pouco	O	O
+da	O	O
+palavra	O	O
+de	O	O
+Deus	B-PESSOA
+dei	O	O
+o	O	O
+meu	O	O
+nome	O	O
+para	O	O
+a	O	O
+prova	O	O
+de	O	O
+membro	O	O
+comungante	O	O
+,	O	O
+em	O	O
+Maio	O	O
+,	O	O
+tenho	O	O
+frequentado	O	O
+um	O	O
+curso	O	O
+de	O	O
+prepara��o	O	O
+dirigido	O	O
+pelo	O	O
+sr.	B-PESSOA
+.	I-PESSOA
+Alfredo	I-PESSOA
 Silva	I-PESSOA
-que	O
-legislou	O
-sobre	O
-essa	O
-matéria	O
-''	O
-,	O
-permitindo	O
-a	O
-permanência	O
-das	O
-sucatas	O
-até	O
-Maio	O
-de	O
-1996	O
-.	O
-De	O
-qualquer	O
-forma	O
-,	O
-a	O
-autarquia	O
-já	O
-comunicou	O
-aos	O
-proprietários	O
-que	O
-,	O
-após	O
-essa	O
-data	O
-,	O
-não	O
-irá	O
-permitir	O
-casos	O
-de	O
-poluição	O
-ambiental	O
-.	O
-
-Na	O
-mesma	O
-linha	O
-,	O
-o	O
-vereador	O
-lembra	O
-que	O
-a	O
-Ferro-Têxtil	B-ORGANIZACAO
-foi	O
-licenciada	O
-pelo	O
-Ministério	B-ORGANIZACAO
-da	I-ORGANIZACAO
-Indústria	I-ORGANIZACAO
-do	O
-Governo	B-ORGANIZACAO
-cessante	O
-,	O
-a	O
-quem	O
-deverá	O
-ser	O
-imputada	O
-a	O
-responsabilidade	O
-de	O
-eventuais	O
-problemas	O
-.	O
-Ao	O
-que	O
-o	O
-PÚBLICO	O
-apurou	O
-,	O
-a	O
-administração	O
-da	O
-empresa	O
-chegou	O
-recentemente	O
-a	O
-um	O
-acordo	O
-com	O
-a	O
-Direcção	B-ORGANIZACAO
-Regional	I-ORGANIZACAO
-do	I-ORGANIZACAO
-Ambiente	I-ORGANIZACAO
-para	O
-que	O
-os	O
-detritos	O
-sejam	O
-encaminhados	O
-para	O
-uma	O
-estação	O
-de	O
-tratamento	O
-de	O
-águas	O
-residuais	O
-a	O
-construir	O
-em	O
-Fradelos	B-LOCAL
-,	O
-no	O
-âmbito	O
-do	O
-projecto	O
-de	O
-despoluição	O
-do	O
-rio	O
-Ave	B-LOCAL
-.	O
-A.T.M.	B-PESSOA
-
-O	O
-jardim	O
-de	O
-caminhos	O
-que	O
-se	O
-encontram	O
-(	O
-algumas	O
-palavras	O
-sobre	O
-o	O
-conto	O
-de	O
-
-Borges	B-PESSOA
-
-e	O
-o	O
-filme	O
-de	O
-
-Tom	B-PESSOA
-Tykwer	I-PESSOA
-
-)	O
-
-Roberto	B-PESSOA
-Azoubel	I-PESSOA
-
-(	O
-Este	O
-texto	O
-é	O
-dedicado	O
-ao	O
-professor	O
-e	O
-poeta	O
-
-Jorge	B-PESSOA
-Wanderley	I-PESSOA
-
-(	O
-em	O
-memória	O
-)	O
-que	O
-me	O
-``	O
-incomodava	O
-''	O
-com	O
-
-Borges	O
-
-e	O
-com	O
-a	O
-literatura	O
-.	O
-)	O
-
-Uma	O
-das	O
-tarefas	O
-mais	O
-importantes	O
-da	O
-arte	O
-foi	O
-sempre	O
-a	O
-de	O
-gerar	O
-uma	O
-demanda	O
-cujo	O
-atendimento	O
-integral	O
-só	O
-poderia	O
-produzir-se	O
-
-mais	O
-tarde	O
-
-.	O
-''	O
-
-Walter	B-PESSOA
-Benjamim	I-PESSOA
-
-I1	O
-.	O
-
-Com	O
-o	O
-desenvolvimento	O
-da	O
-imprensa	O
-
-no	O
-começo	O
-do	O
-século	O
-XX	O
-
-,	O
-o	O
-romance	O
--	O
-forma	O
-literária	O
-intrinsecamente	O
-ligada	O
-ao	O
-objeto	O
-livro	O
--	O
-emerge	O
-em	O
-sintonia	O
-com	O
-toda	O
-a	O
-evolução	O
-das	O
-forças	O
-produtivas	O
-da	O
-sociedade	O
-,	O
-tornando-se	O
-um	O
-gênero	O
-de	O
-grande	O
-difusão	O
-no	O
-mundo	O
-.	O
-Tal	O
-difusão	O
-levou	O
-o	O
-filósofo	O
-alemão	O
-
-Walter	B-PESSOA
-Benjamim	I-PESSOA
-
-a	O
-se	O
-preocupar	O
-com	O
-a	O
-morte	O
-do	O
-narrador	O
--	O
-aquele	O
-do	O
-discurso	O
-vivo	O
--	O
-como	O
-podemos	O
-observar	O
-no	O
-texto	O
-
-O	O
-Narrador	O
-
-,	O
-escrito	O
-
-em	O
-1936	O
-
-.	O
-
-O	O
-texto	O
-de	O
-
-Benjamim	B-PESSOA
-
-nos	O
-remete	O
-a	O
-uma	O
-recente	O
-discussão	O
-que	O
-seria	O
-a	O
-factível	O
-morte	O
-da	O
-literatura	O
-diante	O
-do	O
-crescimento	O
-da	O
-produção	O
-cinematográfica	O
-que	O
-se	O
-espalha	O
-pelo	O
-planeta	O
-.	O
-Proponho-me	O
-neste	O
-texto	O
-analisar	O
-justamente	O
-esta	O
-contenda	O
-,	O
-assumindo	O
-posições	O
-que	O
-ficarão	O
-nítidas	O
-no	O
-decorrer	O
-do	O
-seu	O
-corpo	O
-.	O
-Para	O
-tal	O
-empreitada	O
-,	O
-tomo	O
-como	O
-referências	O
-o	O
-conto	O
-
-O	O
-Jardim	O
-dos	O
-Caminhos	O
-que	O
-se	O
-Bifurcam	O
-
-,	O
-escrito	O
-
-em	O
-1941	O
-
-pelo	O
-argentino	O
-
-Jorge	B-PESSOA
-Luis	I-PESSOA
-Borges	I-PESSOA
-
-,	O
-e	O
-o	O
-fresquíssimo	O
-
-Corra	O
-Lola	O
-,	O
-Corra	O
-
-(	O
-
-Lola	O
-Rennt	O
-
-)	O
-,	O
-filme	O
-alemão	O
-realizado	O
-pelo	O
-diretor	O
-e	O
-roteirista	O
-
-Tom	B-PESSOA
-Tykwer	I-PESSOA
-
-.	O
-
-II	O
-
-Para	O
-chegarmos	O
-ao	O
-conto	O
-de	O
-
-Borges	B-PESSOA
-
-,	O
-passemos	O
-antes	O
-por	O
-
-Italo	B-PESSOA
-Calvino	I-PESSOA
-
-.	O
-No	O
-capítulo	O
-chamado	O
-''	O
-
-Multiplicidade	O
-
-''	O
-do	O
-seu	O
-livro	O
-
-Seis	O
-Propostas	O
-para	O
-o	O
-Próximo	O
-Milênio	O
-
-,	O
-
-Calvino	B-PESSOA
-
-destaca	O
-como	O
-uma	O
-das	O
-(	O
-boas	O
-)	O
-características	O
-da	O
-literatura	O
-contemporânea	O
-essa	O
-capacidade	O
-de	O
-estabelecer	O
-redes	O
-de	O
-conexões	O
-entre	O
-os	O
-acontecimentos	O
-,	O
-entre	O
-as	O
-pessoas	O
-,	O
-entre	O
-as	O
-coisas	O
-do	O
-mundo	O
-,	O
-em	O
-outras	O
-palavras	O
-,	O
-essa	O
-capacidade	O
-atual	O
-de	O
-a	O
-escritura	O
-poder	O
-ser	O
-múltipla	O
-.	O
-
-No	O
-decorrer	O
-do	O
-capítulo	O
-,	O
-o	O
-autor	O
-italiano	O
-mostra	O
-várias	O
-formas	O
-de	O
-multiplicidades	O
-que	O
-ocorrem	O
-na	O
-literatura	O
-.	O
-No	O
-entanto	O
-,	O
-para	O
-não	O
-sairmos	O
-do	O
-foco	O
-da	O
-discussão	O
-do	O
-texto	O
-,	O
-fiquemos	O
-inicialmente	O
-com	O
-o	O
-exemplo	O
-do	O
-romancista	O
-italiano	O
-
-Carlo	B-PESSOA
-Emilio	I-PESSOA
-Gadda	I-PESSOA
-
-,	O
-de	O
-quem	O
-,	O
-entre	O
-outros	O
-autores	O
-,	O
-
-Calvino	B-PESSOA
-
-se	O
-serve	O
-como	O
-ilustração	O
-.	O
-
-Segundo	O
-
-Calvino	B-PESSOA
-
-(	O
-
-1990	O
-
-:	O
-121	O
-)	O
-,	O
-''	O
-
-Gadda	B-PESSOA
-
-durante	O
-toda	O
-a	O
-sua	O
-vida	O
-buscou	O
-representar	O
-o	O
-mundo	O
-como	O
-um	O
-rolo	O
-,	O
-uma	O
-embrulhada	O
-,	O
-um	O
-aranzel	O
-,	O
-sem	O
-jamais	O
-atenuar-lhe	O
-a	O
-complexidade	O
-inextricável	O
--	O
-ou	O
-,	O
-melhor	O
-dizendo	O
-,	O
-a	O
-presença	O
-simultânea	O
-dos	O
-elementos	O
-mais	O
-heterogêneos	O
-que	O
-concorrem	O
-para	O
-a	O
-determinação	O
-de	O
-cada	O
-evento	O
-''	O
-.	O
-E	O
-mais	O
-adiante	O
-,	O
-apoiado	O
-no	O
-ensaio	O
-
-La	O
-disarmonia	O
-prestabilita	O
-do	O
-crítico	O
-Gian	B-PESSOA
-Carlo	I-PESSOA
-Roscioni	I-PESSOA
-
-,	O
-
-Calvino	B-PESSOA
-
-ainda	O
-coloca	O
-que	O
-``	O
-esse	O
-conhecimento	O
-das	O
-coisas	O
-enquanto	O
-`	O
-relações	O
-infinitas	O
-,	O
-passadas	O
-e	O
-futuras	O
-,	O
-reais	O
-e	O
-possíveis	O
-,	O
-que	O
-para	O
-elas	O
-convergem	O
-?	O
-,	O
-exige	O
-que	O
-tudo	O
-seja	O
-exatamente	O
-denominado	O
-,	O
-descrito	O
-e	O
-localizado	O
-no	O
-espaço	O
-e	O
-no	O
-tempo	O
-''	O
-(	O
-
-CALVINO	O
-,	O
-1990	O
-:	O
-123	O
-)	O
-.	O
-
-Outros	O
-romancistas	O
-como	O
-
-Proust	B-PESSOA
-
-e	O
-
-George	B-PESSOA
-Perec	I-PESSOA
-
-,	O
-com	O
-o	O
-seu	O
-
-A	O
-Vida	O
-Modos	O
-de	O
-Usar	O
-
-,	O
-são	O
-citados	O
-no	O
-capítulo	O
-como	O
-exemplos	O
-de	O
-uma	O
-escritura	O
-que	O
-conduz	O
-à	O
-multiplicidade	O
-(	O
-de	O
-caminhos	O
-,	O
-de	O
-níveis	O
-,	O
-de	O
-pensamentos	O
-,	O
-de	O
-vozes	O
-etc.	O
-)	O
-.	O
-Mas	O
-,	O
-de	O
-acordo	O
-com	O
-
-Calvino	B-PESSOA
-
-,	O
-esse	O
-modelo	O
-de	O
-redes	O
-possíveis	O
-pode	O
-ser	O
-construído	O
-tanto	O
-em	O
-romances	O
-extensos	O
-,	O
-como	O
-pode	O
-ser	O
-concentrado	O
-nas	O
-poucas	O
-páginas	O
-de	O
-um	O
-conto	O
-de	O
-
-Borges	B-PESSOA
-
-.	O
-Chegamos	O
-assim	O
-a	O
-'	O
-
-O	O
-Jardim	O
-dos	O
-Caminhos	O
-que	O
-se	O
-Bifurcam	O
-
-.	O
-
-O	O
-conto	O
-,	O
-classificado	O
-pelo	O
-autor	O
-como	O
-policial	O
-,	O
-narra	O
-o	O
-percurso	O
-do	O
-personagem	O
-principal	O
-da	O
-cama	O
-até	O
-o	O
-jardim	O
-em	O
-que	O
-comete	O
-um	O
-assassinato	O
-como	O
-estratégia	O
-de	O
-sua	O
-missão	O
-de	O
-espionagem	O
-.	O
-No	O
-entanto	O
-,	O
-no	O
-seu	O
-enredo	O
-(	O
-e	O
-aqui	O
-também	O
-me	O
-apoio	O
-na	O
-leitura	O
-que	O
-
-Calvino	B-PESSOA
-
-faz	O
-dele	O
-)	O
-
-Borges	B-PESSOA
-
-desenvolve	O
-várias	O
-noções	O
-acerca	O
-do	O
-tempo	O
-.	O
-
-No	O
-início	O
-,	O
-enquanto	O
-o	O
-protagonista	O
-está	O
-no	O
-seu	O
-quarto	O
-se	O
-preparando	O
-para	O
-realizar	O
-sua	O
-incumbência	O
-,	O
-o	O
-autor	O
-expõe	O
-um	O
-tempo	O
-preciso	O
-e	O
-no	O
-presente	O
-:	O
-``	O
-refleti	O
-que	O
-tudo	O
-aquilo	O
-que	O
-acontece	O
-com	O
-alguém	O
-,	O
-acontece	O
-agora	O
-,	O
-precisamente	O
-agora	O
-.	O
-Séculos	O
-de	O
-séculos	O
-e	O
-apenas	O
-no	O
-presente	O
-ocorrem	O
-fatos	O
-;	O
-inumeráveis	O
-homens	O
-no	O
-ar	O
-,	O
-na	O
-terra	O
-e	O
-no	O
-mar	O
-e	O
-tudo	O
-o	O
-que	O
-realmente	O
-sucede	O
-,	O
-sucede	O
-a	O
-mim	O
-...	O
-''	O
-(	O
-
-BORGES	O
-,1995	O
-:	O
-94	O
-
-)	O
-.	O
-Em	O
-seguida	O
-,	O
-
-Calvino	B-PESSOA
-
-,	O
-ainda	O
-no	O
-seu	O
-
-Seis	O
-Propostas	O
-
-...	O
-,	O
-relata	O
-que	O
-
-Borges	B-PESSOA
-
-mostra	O
-``	O
-uma	O
-idéia	O
-de	O
-tempo	O
-determinado	O
-pela	O
-vontade	O
-,	O
-no	O
-qual	O
-o	O
-futuro	O
-se	O
-apresenta	O
-tão	O
-irrevogável	O
-quanto	O
-o	O
-passado	O
-''	O
-(	O
-
-CALVINO	O
-,	O
-1990	O
-:	O
-N	O
-)	O
-.	O
-Por	O
-último	O
-,	O
-a	O
-idéia	O
-de	O
-um	O
-tempo	O
-múltiplo	O
-,	O
-que	O
-é	O
-a	O
-idéia	O
-central	O
-do	O
-conto	O
-e	O
-,	O
-afinal	O
-,	O
-o	O
-que	O
-nos	O
-interessa	O
-aqui	O
-.	O
-Veremos	O
-abaixo	O
-como	O
-essa	O
-idéia	O
-de	O
-um	O
-tempo	O
-múltiplo	O
-se	O
-apresenta	O
-no	O
-conto	O
-.	O
-
-Ao	O
-chegar	O
-numa	O
-casa	O
-de	O
-portão	O
-alto	O
-,	O
-o	O
-protagonista	O
-é	O
-recebido	O
-por	O
-sua	O
-futura	O
-vítima	O
-,	O
-
-Stephen	B-PESSOA
-Albert	I-PESSOA
-
-,	O
-sujeito	O
-que	O
-fora	O
-encarregado	O
-de	O
-decifrar	O
-um	O
-enigma	O
-do	O
-livro	O
-escrito	O
-por	O
-
-Ts	B-PESSOA
-`	I-PESSOA
-ui	I-PESSOA
-Pen	I-PESSOA
-
-.	O
-Este	O
-,	O
-que	O
-era	O
-um	O
-antepassado	O
-do	O
-próprio	O
-personagem	O
-principal	O
-,	O
-tinha	O
-abandonado	O
-sua	O
-próspera	O
-vida	O
-(	O
-era	O
-governador	O
-de	O
-sua	O
-província	O
-,	O
-doutor	O
-em	O
-astronomia	O
-,	O
-em	O
-astrologia	O
-,	O
-enxadrista	O
-,	O
-calígrafo	O
-e	O
-famoso	O
-poeta	O
-)	O
-para	O
-compor	O
-um	O
-labirinto	O
-e	O
-um	O
-livro	O
-.	O
-No	O
-entanto	O
-,	O
-o	O
-enigma	O
-revelado	O
-por	O
-
-Albert	B-PESSOA
-
-é	O
-justamente	O
-que	O
-o	O
-livro	O
-e	O
-o	O
-labirinto	O
-são	O
-o	O
-mesmo	O
-objeto	O
-.	O
-A	O
-chave	O
-para	O
-a	O
-descoberta	O
-estava	O
-num	O
-fragmento	O
-de	O
-uma	O
-carta	O
-deixada	O
-por	O
-
-Ts	B-PESSOA
-`	I-PESSOA
-ui	I-PESSOA
-Pen	I-PESSOA
-
-,	O
-no	O
-qual	O
-estava	O
-escrito	O
-:	O
-``	O
-Deixo	O
-aos	O
-vários	O
-futuros	O
-(	O
-não	O
-a	O
-todos	O
-)	O
-meu	O
-jardim	O
-de	O
-caminhos	O
-que	O
-se	O
-bifurcam	O
-''	O
-(	O
-BORGES	O
-,	O
-1995	O
-:	O
-94	O
-94	O
-|	O
-BORGES	O
-,	O
-1995	O
-:	O
-94	O
-)	O
-.	O
-
-A	O
-Evolução	O
-Da	O
-Colônia	O
-portuguesa	O
-na	O
-América	B-LOCAL
-,	O
-a	O
-partir	O
-da	O
-segunda	O
-metade	O
-do	O
-século	O
-XVII	O
-,	O
-será	O
-profundamente	O
-marcada	O
-pelo	O
-novo	O
-rumo	O
-que	O
-toma	O
-Portugal	B-ORGANIZACAO
-como	O
-potência	O
-colonial	O
-.	O
-Na	O
-época	O
-em	O
-que	O
-esteve	O
-ligado	O
-à	O
-Espanha	B-ORGANIZACAO
-,	O
-perdeu	O
-esse	O
-país	O
-o	O
-melhor	O
-de	O
-seus	O
-entrepostos	O
-orientais	O
-,	O
-ao	O
-mesmo	O
-tempo	O
-que	O
-a	O
-melhor	O
-parte	O
-da	O
-colônia	O
-americana	O
-era	O
-ocupada	O
-pelos	O
-holandeses	O
-.	O
-Ao	O
-recuperar	O
-a	O
-independência	O
-,	O
-Portugal	B-ORGANIZACAO
-encontrou-se	O
-em	O
-posição	O
-extremamente	O
-débil	O
-,	O
-pois	O
-a	O
-ameaça	O
-da	O
-Espanha	B-ORGANIZACAO
---	O
-que	O
-por	O
-mais	O
-de	O
-um	O
-quarto	O
-de	O
-século	O
-não	O
-reconheceu	O
-essa	O
-independência	O
---	O
-pesava	O
-permanentemente	O
-sobre	O
-o	O
-território	O
-metropolitano	O
-.	O
-Por	O
-outro	O
-lado	O
-,	O
-pequeno	O
-reino	O
-,	O
-perdido	O
-o	O
-comércio	O
-oriental	O
-e	O
-desorganizado	O
-o	O
-mercado	O
-do	O
-açúcar	O
-,	O
-não	O
-dispunha	O
-de	O
-meios	O
-para	O
-defender	O
-o	O
-que	O
-lhe	O
-sobrara	O
-das	O
-colônias	O
-numa	O
-época	O
-de	O
-crescente	O
-atividade	O
-imperialista	O
-.	O
-A	O
-neutralidade	O
-em	O
-face	O
-das	O
-grandes	O
-potências	O
-era	O
-impraticável	O
-.	O
-Portugal	B-ORGANIZACAO
-compreendeu	O
-,	O
-assim	O
-,	O
-que	O
-para	O
-sobreviver	O
-como	O
-metrópole	O
-colonial	O
-deveria	O
-ligar	O
-o	O
-seu	O
-destino	O
-a	O
-uma	O
-grande	O
-potência	O
-,	O
-o	O
-que	O
-significaria	O
-necessariamente	O
-alienar	O
-parte	O
-de	O
-sua	O
-soberania	O
-.	O
-Os	O
-acordos	O
-concluídos	O
-com	O
-a	O
-Inglaterra	B-ORGANIZACAO
-em	O
-1642-54-61	O
-estruturaram	O
-essa	O
-aliança	O
-que	O
-marcará	O
-profundamente	O
-a	O
-vida	O
-política	O
-e	O
-econômica	O
-de	O
-Portugal	B-LOCAL
-e	O
-do	O
-Brasil	B-LOCAL
-durante	O
-os	O
-dois	O
-séculos	O
-seguintes	O
-.	O
-
-Aí	O
-conseguiu	O
-o	O
-governo	O
-lusitano	O
-que	O
-a	O
-França	B-ORGANIZACAO
-renunciasse	O
-a	O
-quaisquer	O
-reclamações	O
-sobre	O
-a	O
-foz	O
-do	O
-Amazonas	B-LOCAL
-e	O
-a	O
-quaisquer	O
-direitos	O
-de	O
-navegação	O
-nesse	O
-rio	O
-.	O
-Igualmente	O
-nessa	O
-conferência	O
-,	O
-Portugal	B-ORGANIZACAO
-conseguiu	O
-da	O
-Espanha	B-ORGANIZACAO
-o	O
-reconhecimento	O
-de	O
-seus	O
-direitos	O
-sobre	O
-a	O
-colônia	O
-do	O
-Sacramento	B-LOCAL
-.	O
-Ambos	O
-os	O
-acordos	O
-receberam	O
-a	O
-garantia	O
-direta	O
-da	O
-Inglaterra	B-ORGANIZACAO
-e	O
-vieram	O
-a	O
-constituir	O
-fundamentos	O
-da	O
-estabilidade	O
-territorial	O
-da	O
-América	B-LOCAL
-portuguesa	O
-.	O
-
-Transferindo-se	O
-o	O
-governo	O
-português	O
-para	O
-o	O
-Brasil	B-LOCAL
-sob	O
-a	O
-proteção	O
-inglesa	O
-e	O
-operando-se	O
-a	O
-independência	O
-sem	O
-descontinuidade	O
-na	O
-chefia	O
-do	O
-governo	O
-,	O
-os	O
-privilégios	O
-econômicos	O
-de	O
-que	O
-se	O
-beneficiava	O
-a	O
-Inglaterra	B-ORGANIZACAO
-em	O
-Portugal	B-LOCAL
-transferiram-se	O
-automaticamente	O
-para	O
-o	O
-Brasil	B-LOCAL
-independente	O
-.	O
-Com	O
-efeito	O
-,	O
-se	O
-bem	O
-haja	O
-conseguido	O
-separar-se	O
-de	O
-Portugal	B-ORGANIZACAO
-em	O
-1822	O
-,	O
-o	O
-Brasil	B-ORGANIZACAO
-necessitou	O
-vários	O
-decênios	O
-mais	O
-para	O
-eliminar	O
-a	O
-tutelagem	O
-que	O
-,	O
-graças	O
-a	O
-sólidos	O
-acordos	O
-internacionais	O
-,	O
-mantinha	O
-sobre	O
-ele	O
-a	O
-Inglaterra	B-ORGANIZACAO
-.	O
-Esses	O
-acordos	O
-foram	O
-firmados	O
-em	O
-momentos	O
-difíceis	O
-e	O
-constituíam	O
-,	O
-dentro	O
-da	O
-tradição	O
-das	O
-relações	O
-luso-inglesas	O
-,	O
-pagamentos	O
-em	O
-privilégios	O
-econômicos	O
-de	O
-1810	O
-foram	O
-firmados	O
-contra	O
-a	O
-garantia	O
-da	O
-Inglaterra	B-ORGANIZACAO
-de	O
-que	O
-nenhum	O
-governo	O
-imposto	O
-por	O
-Napoleão	B-PESSOA
-em	O
-Portugal	B-LOCAL
-seria	O
-reconhecido	O
-.	O
-Por	O
-eles	O
-se	O
-transferiam	O
-para	O
-o	O
-Brasil	B-LOCAL
-todos	O
-os	O
-privilégios	O
-de	O
-que	O
-gozavam	O
-os	O
-ingleses	O
-em	O
-Portugal	B-LOCAL
---	O
-inclusive	O
-os	O
-de	O
-extraterritorialidade	O
---	O
-e	O
-se	O
-lhes	O
-reconhecia	O
-demais	O
-uma	O
-tarifa	O
-preferencial	O
-.	O
-Tudo	O
-indica	O
-que	O
-negociando	O
-esses	O
-acordos	O
-o	O
-governo	O
-português	O
-tinha	O
-estritamente	O
-em	O
-vista	O
-a	O
-continuidade	O
-da	O
-casa	O
-reinante	O
-em	O
-Portugal	B-LOCAL
-,	O
-enquanto	O
-os	O
-ingleses	O
-se	O
-preocupavam	O
-em	O
-firmar-se	O
-definitivamente	O
-na	O
-colônia	O
-,	O
-cujas	O
-perspectivas	O
-eram	O
-bem	O
-mais	O
-promissoras	O
-que	O
-as	O
-de	O
-Portugal	B-LOCAL
-.	O
-
-Eliminando	O
-o	O
-obstáculo	O
-do	O
-tratado	O
-de	O
-1827	O
-,	O
-estava	O
-aberto	O
-o	O
-caminho	O
-para	O
-a	O
-elevação	O
-da	O
-tarifa	O
-e	O
-o	O
-conseqüente	O
-aumento	O
-do	O
-poder	O
-financeiro	O
-do	O
-governo	O
-central	O
-,	O
-cuja	O
-autoridade	O
-se	O
-consolida	O
-definitivamente	O
-nessa	O
-etapa	O
-.	O
-O	O
-passivo	O
-político	O
-da	O
-colônia	O
-portuguesa	O
-estava	O
-liquidado	O
-.	O
-Contudo	O
-,	O
-do	O
-ponto	O
-de	O
-vista	O
-de	O
-sua	O
-estrutura	O
-econômica	O
-,	O
-o	O
-Brasil	B-LOCAL
-da	O
-metade	O
-do	O
-século	O
-XIX	O
-não	O
-diferia	O
-muito	O
-do	O
-que	O
-fora	O
-nos	O
-três	O
-séculos	O
-anteriores	O
-.	O
-A	O
-estrutura	O
-econômica	O
-,	O
-baseada	O
-principalmente	O
-no	O
-trabalho	O
-escravo	O
-,	O
-se	O
-mantivera	O
-imutável	O
-nas	O
-etapas	O
-de	O
-expansão	O
-e	O
-decadência	O
-.	O
-A	O
-ausência	O
-de	O
-tensões	O
-internas	O
-,	O
-resultante	O
-dessa	O
-imutabilidade	O
-,	O
-é	O
-responsável	O
-pelo	O
-atraso	O
-relativo	O
-da	O
-industrialização	O
-.	O
-A	O
-expansão	O
-cafeeira	O
-da	O
-segunda	O
-metade	O
-do	O
-século	O
-XIX	O
-,	O
-durante	O
-a	O
-qual	O
-se	O
-modificam	O
-as	O
-bases	O
-do	O
-sistema	O
-econômico	O
-,	O
-constituiu	O
-uma	O
-etapa	O
-de	O
-transição	O
-econômica	O
-,	O
-assim	O
-como	O
-a	O
-primeira	O
-metade	O
-desse	O
-século	O
-representou	O
-uma	O
-fase	O
-de	O
-transição	O
-política	O
-.	O
-É	O
-das	O
-tensoes	O
-internas	O
-da	O
-economia	O
-cafeeira	O
-em	O
-sua	O
-etapa	O
-de	O
-crise	O
-que	O
-surgirão	O
-os	O
-elementos	O
-de	O
-um	O
-sistema	O
-econômico	O
-autônomo	O
-capaz	O
-de	O
-gerar	O
-o	O
-seu	O
-próprio	O
-impulso	O
-de	O
-crescimento	O
-,	O
-concluindo-se	O
-então	O
-definitivamente	O
-a	O
-etapa	O
-colonial	O
-da	O
-economia	O
-brasileira	O
-.	O
-
-O	O
-rápido	O
-Desenvolvimento	O
-da	O
-indústria	O
-açucareira	O
-,	O
-malgrado	O
-as	O
-enormes	O
-dificuldades	O
-decorrentes	O
-do	O
-meio	O
-físico	O
-,	O
-da	O
-hostilidade	O
-do	O
-silvícola	O
-e	O
-do	O
-custo	O
-dos	O
-transportes	O
-,	O
-indica	O
-claramente	O
-que	O
-o	O
-esforço	O
-do	O
-governo	O
-português	O
-se	O
-concentrara	O
-nesse	O
-setor	O
-.	O
-O	O
-privilégio	O
-,	O
-outorgado	O
-ao	O
-donatário	O
-,	O
-de	O
-so	O
-ele	O
-fabricar	O
-moenda	O
-e	O
-engenho	O
-de	O
-água	O
-,	O
-denota	O
-ser	O
-a	O
-lavoura	O
-do	O
-açúcar	O
-a	O
-que	O
-se	O
-tinha	O
-especialmente	O
-em	O
-mira	O
-introduzir	O
-.	O
-Favores	O
-especiais	O
-foram	O
-concedidos	O
-subsequentemente	O
-àqueles	O
-que	O
-instalassem	O
-engenhos	O
-:	O
-isenções	O
-de	O
-tributos	O
-,	O
-garantia	O
-contra	O
-a	O
-penhora	O
-dos	O
-instrumentos	O
-de	O
-produção	O
-,	O
-honrarias	O
-e	O
-títulos	O
-,	O
-etc.	O
-.	O
-As	O
-dificuldades	O
-maiores	O
-,	O
-encontradas	O
-na	O
-etapa	O
-inicial	O
-,	O
-advieram	O
-da	O
-escassez	O
-de	O
-mão-de-obra	O
-.	O
-O	O
-aproveitamento	O
-do	O
-escravo	O
-indígena	O
-,	O
-em	O
-que	O
-aparentemente	O
-se	O
-baseavam	O
-todos	O
-os	O
-planos	O
-iniciais	O
-,	O
-resultou	O
-inviável	O
-na	O
-escala	O
-requerida	O
-pelas	O
-empresas	O
-agrícolas	O
-de	O
-grande	O
-envergadura	O
-que	O
-eram	O
-os	O
-engenhos	O
-de	O
-açúcar	O
-.	O
-
-A	O
-mão-de-obra	O
-africana	O
-chegou	O
-para	O
-a	O
-expansão	O
-da	O
-empresa	O
-,	O
-que	O
-já	O
-estava	O
-instalada	O
-.	O
-É	O
-quando	O
-a	O
-rentabilidade	O
-do	O
-negócio	O
-está	O
-assegurada	O
-que	O
-entram	O
-em	O
-cena	O
-,	O
-na	O
-escala	O
-necessária	O
-,	O
-os	O
-escravos	O
-africanos	O
-:	O
-base	O
-de	O
-um	O
-sistema	O
-de	O
-produção	O
-mais	O
-eficiente	O
-e	O
-mais	O
-densamente	O
-capitalizado	O
-.	O
-
-Os	O
-gastos	O
-monetários	O
-de	O
-reposição	O
-,	O
-que	O
-cabe	O
-deduzir	O
-para	O
-obter	O
-o	O
-monte	O
-da	O
-renda	O
-líquida	O
-,	O
-podem	O
-ser	O
-estimados	O
-grosso	O
-modo	O
-em	O
-110	O
-mil	O
-libras	O
-:	O
-50	O
-mil	O
-libras	O
-para	O
-reposição	O
-dos	O
-escravos	O
---	O
-admitindo-se	O
-uma	O
-vida	O
-média	O
-útil	O
-de	O
-oito	O
-anos	O
-,	O
-15.000	O
-escravos	O
-25	O
-libras	O
-por	O
-cabeça	O
--	O
-e	O
-60	O
-mil	O
-libras	O
-para	O
-a	O
-parte	O
-de	O
-equipamentos	O
-importados	O
--	O
-admitindo-se	O
-que	O
-a	O
-terça	O
-parte	O
-do	O
-capital	O
-fixo	O
-(	O
-inclusive	O
-escravos	O
-)	O
-estivesse	O
-constituída	O
-por	O
-equipamentos	O
-importados	O
-e	O
-que	O
-estes	O
-tivessem	O
-uma	O
-vida	O
-útil	O
-média	O
-de	O
-dez	O
-anos	O
-.	O
-
-Concelho	B-LOCAL
-de	I-LOCAL
-Moura	I-LOCAL
--	O
-Alentejo	O
-Digital	O
-
--LSB-	O
-Home	O
--RSB-	O
-.	O
-
-Bem	O
-Vindos	O
-ao	O
-Concelho	B-LOCAL
-de	I-LOCAL
-Moura	I-LOCAL
-,	O
-terra	O
-do	O
-bom	O
-azeite	O
-Utilidades	O
-História	O
-Turismo	O
-Concelho	O
-Câmara	B-ORGANIZACAO
-Municipal	I-ORGANIZACAO
-Freguesias	I-ORGANIZACAO
-St	B-LOCAL
-Agostinho	I-LOCAL
-e	O
-S.	B-LOCAL
-João	I-LOCAL
-Amareleja	I-LOCAL
-Póvoa	I-LOCAL
-de	I-LOCAL
-S.	I-LOCAL
-Miguel	I-LOCAL
-St	I-LOCAL
-Amador	I-LOCAL
-Safara	I-LOCAL
-Sobral	I-LOCAL
-da	I-LOCAL
-Adiça	I-LOCAL
-St	I-LOCAL
-Aleixo	I-LOCAL
-Restauração	O
-Fotografias	O
-Termas	O
-Educação	O
-Hotelaria	O
-Farmácias	O
-Telefones	O
-Úteis	O
-Serviços	O
-Públicos	O
-Eventos	O
-
-?	O
-
-Cinema	O
-para	O
-o	O
-Mês	O
-de	O
-Maio	O
-?	O
-
-Jogos	O
-Desportivos	O
-Municipais	O
-Informação	O
-
-A	O
-Mulher	O
-no	O
-Inicio	O
-do	O
-Novo	O
-Século	O
-
-Dia	O
-15	O
-de	O
-Maio	O
-,	O
-pelas	O
-9.30	O
-H	O
-,	O
-no	O
-Cine-Teatro	B-LOCAL
-Caridade	I-LOCAL
-,	O
-em	O
-Moura	B-LOCAL
-irá	O
-realizar-se	O
-um	O
-Fórum	O
-intitulado	O
-A	O
-Mulher	O
-no	O
-Inicio	O
-do	O
-Novo	O
-Século	O
-,	O
-tendo	O
-como	O
-organização	O
-a	O
-Câmara	B-ORGANIZACAO
-Municipal	I-ORGANIZACAO
+,	O	O
+entre	O	O
+outros	O	O
+que	O	O
+comigo	O	O
+frequentam	O	O
+este	O	O
+curso	O	O
+.	O	O
+Lembra-me	O	O
+Paulo	B-PESSOA
+Costa	I-PESSOA
+,	O	O
+Alberto	B-PESSOA
+Carreira	I-PESSOA
+da	I-PESSOA
+Silva	I-PESSOA
+,	O	O
+Maria	B-PESSOA
+Lu�sa	I-PESSOA
+Costa	I-PESSOA
+,	O	O
+etc.	O	O
+.	O	O
+
+Deus	B-PESSOA
+tem-me	O	O
+auxiliado	O	O
+na	O	O
+compreens�o	O	O
+destes	O	O
+grandes	O	O
+problemas	O	O
+morais	O	O
+e	O	O
+espitituais	O	O
+e	O	O
+brevemente	O	O
+farei	O	O
+a	O	O
+minha	O	O
+profiss�o	O	O
+de	O	O
+f�	O	O
+.	O	O
+
+Tenho	O	O
+feito	O	O
+alguma	O	O
+coisa	O	O
+na	O	O
+A.C.M.	B-ORGANIZACAO
+que	O	O
+por	O	O
+n�o	O	O
+ter	O	O
+tomado	O	O
+notas	O	O
+desde	O	O
+o	O	O
+princ�pio	O	O
+me	O	O
+esqueceram	O	O
+,	O	O
+e	O	O
+por	O	O
+n�o	O	O
+terem	O	O
+valor	O	O
+deixo	O	O
+de	O	O
+as	O	O
+mencionar	O	O
+.	O	O
+
+Tratando-se	O	O
+da	O	O
+cria��o	O	O
+de	O	O
+uma	O	O
+Federa��o	B-ORGANIZACAO
 de	I-ORGANIZACAO
-Moura	I-ORGANIZACAO
-e	O
-a	O
-colaboração	O
-da	O
-Associação	B-ORGANIZACAO
-de	I-ORGANIZACAO
-Mulheres	I-ORGANIZACAO
-do	I-ORGANIZACAO
-Concelho	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Moura	I-ORGANIZACAO
-.	O
+Basket	I-ORGANIZACAO
+Ball	I-ORGANIZACAO
+,	O	O
+fui	O	O
+indicado	O	O
+tamb�m	O	O
+para	O	O
+fazer	O	O
+parte	O	O
+da	O	O
+comiss�o	O	O
+de	O	O
+propaganda	O	O
+,	O	O
+juntamente	O	O
+com	O	O
+os	O	O
+srs	B-PESSOA
+.	I-PESSOA
+Eduardo	I-PESSOA
+Moreira	I-PESSOA
+,	O	O
+Dr.	B-PESSOA
+Jo�o	I-PESSOA
+Gomes	I-PESSOA
+de	I-PESSOA
+Oliveira	I-PESSOA
+,	O	O
+Artur	B-PESSOA
+Ara�jo	I-PESSOA
+,	O	O
+tendo	O	O
+feito	O	O
+relatos	O	O
+para	O	O
+a	O	O
+sec��o	O	O
+especial	O	O
+do	O	O
+Di�rio	O	O
+do	O	O
+Sport	O	O
+,	O	O
+tem	O	O
+havido	O	O
+v�rios	O	O
+desafios	O	O
+;	O	O
+fa�o	O	O
+parte	O	O
+do	O	O
+grupo	O	O
+do	O	O
+Boxing	B-ORGANIZACAO
+Club	I-ORGANIZACAO
+de	O	O
+Portugal	B-LOCAL
+.	O	O
 
-Este	O
-Fórum	O
-será	O
-divido	O
-em	O
-vários	O
-painéis	O
-onde	O
-serão	O
-discutidos	O
-os	O
-mais	O
-variados	O
-temas	O
-tais	O
-como	O
-os	O
-Direitos	O
-Sexuais	O
-e	O
-Reprodutivos	O
-,	O
-a	O
-Participação	O
-da	O
-Mulher	O
-no	O
-Poder	O
-Local	O
-e	O
-ainda	O
-Direitos	O
-da	O
-Maternidade	O
-e	O
-Paternidade	O
-e	O
-a	O
-Política	O
-de	O
-Emprego	O
-e	O
-Inserção	O
-.	O
+Como	O	O
+atraz	O	O
+j�	O	O
+disse	O	O
+procuro	O	O
+auxiliar	O	O
+todas	O	O
+as	O	O
+organiza��es	O	O
+que	O	O
+do	O	O
+meu	O	O
+pr�stimo	O	O
+necessitam	O	O
+,	O	O
+fa�o	O	O
+parte	O	O
+do	O	O
+Orfeon	B-ORGANIZACAO
+do	O	O
+Mirante	B-LOCAL
+a	O	O
+pedido	O	O
+das	O	O
+meninas	O	O
+Luisa	B-PESSOA
+e	O	O
+Anita	B-PESSOA
+Costa	I-PESSOA
+.	O	O
 
-Um	O
-Brinquedo	O
-por	O
-uma	O
-Causa	O
-
-O	O
-Grupo	B-ORGANIZACAO
-28	I-ORGANIZACAO
-da	I-ORGANIZACAO
-Associação	I-ORGANIZACAO
-dos	I-ORGANIZACAO
-Escuteiros	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Portugal	I-ORGANIZACAO
-,	O
-com	O
-colaboração	O
-da	O
-Câmara	B-ORGANIZACAO
-Municipal	I-ORGANIZACAO
-de	I-ORGANIZACAO
-Moura	I-ORGANIZACAO
-,	O
-e	O
-o	O
-Rádio	B-ORGANIZACAO
-e	I-ORGANIZACAO
-Jornal	I-ORGANIZACAO
-``	I-ORGANIZACAO
-A	I-ORGANIZACAO
-Planície	I-ORGANIZACAO
-''	I-ORGANIZACAO
-,	O
-apelam	O
-a	O
-todos	O
-os	O
-munícipes	O
-da	O
-cidade	O
-de	O
-Moura	B-LOCAL
-,	O
-para	O
-procurar	O
-entre	O
-os	O
-brinquedos	O
-que	O
-já	O
-estão	O
-encostados	O
-a	O
-um	O
-canto	O
-e	O
-que	O
-podem	O
-vir	O
-a	O
-fazer	O
-muitas	O
-crianças	O
-felizes	O
-para	O
-os	O
-entregar	O
-na	O
-recepção	O
-da	O
-Câmara	B-ORGANIZACAO
-,	O
-para	O
-no	O
-dia	O
-1	O
-de	O
-Junho	O
-se	O
-poder	O
-ver	O
-um	O
-sorriso	O
-nos	O
-rosto	O
-de	O
-muitas	O
-crianças	O
-.	O
-
-Desporto	O
-?	O
-
-Futebol	O
-
-Campeonato	O
-Distrital	O
-de	O
-Seniores	O
-(	O
-1ª	O
-Divisão	O
-)	O
-
-Realiza-se	O
-dia	O
-20	O
-de	O
-Maio	O
-,	O
-pelas	O
-16h	O
-no	O
-Estádio	B-LOCAL
+Fui	O	O
+tamb�m	O	O
+�	O	O
+excurs�o	O	O
+realizada	O	O
+no	O	O
+dia	O	O
+24	O	O
+de	O	O
+Junho	O	O
+,	O	O
+a	O	O
+primeira	O	O
+que	O	O
+se	O	O
+realizou	O	O
+desde	O	O
+que	O	O
+sou	O	O
+s�cio	O	O
+,	O	O
+e	O	O
+juntamente	O	O
+com	O	O
+57	O	O
+pessoas	O	O
+fomos	O	O
+nesse	O	O
+dia	O	O
+at�	O	O
+Viana	B-LOCAL
 do	I-LOCAL
-M.A.C.	I-LOCAL
-mais	O
-um	O
-jogo	O
-entre	O
-Moura	O
-Atlético	O
-Clube	O
-e	O
-e	O
-Grupo	O
-Desportivo	O
-e	O
-Cultural	O
-de	O
-Neves	O
-
-?	O
-
-Pesca	O
-Desportiva	O
-(	O
-inserido	O
-nos	O
-Jogos	O
-Municipais	O
-)	O
-?	O
-
-2º	O
-Encontro	O
-de	O
-Basquetebol	O
-(	O
-inserido	O
-nos	O
-Jogos	O
-Municipais	O
-)	O
-?	O
-
-Cinema	O
-
-Exorcista	O
-
-Destaque	O
-
-JOGOS	O
-DESPORTIVOS	O
-MUNICIPAISServiços	O
-Agenda	O
-Regional	O
-Compadre	O
-Revista	O
-de	O
-Imprensa	O
-Classificados	O
-Anedotas	O
-Tempo	O
-Webmail	O
-SMS	O
-
-Alentejo	B-ORGANIZACAO
-Digital	I-ORGANIZACAO
-©	O
-.	O
-
-Todos	O
-os	O
-Direitos	O
-Reservados	O
-
-Resolução	O
-aconselhada	O
-800x600	O
+Castelo	I-LOCAL
+.	O	O
+Foi	O	O
+mais	O	O
+uma	O	O
+afirma��o	O	O
+de	O	O
+amor	O	O
+dada	O	O
+pela	O	O
+fam�lia	O	O
+evang�lica	O	O
+�	O	O
+com	O	O
+saudade	O	O
+que	O	O
+me	O	O
+recordo	O	O
+desses	O	O
+bons	O	O
+momentos	O	O
+passados	O	O
+em	O	O
+que	O	O
+Deus	B-PESSOA
+nos	O	O
+ajudou	O	O
+correndo	O	O
+tudo	O	O
+admiravelmente	O	O
+.	O	O

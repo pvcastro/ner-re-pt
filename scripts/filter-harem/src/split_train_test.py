@@ -17,7 +17,7 @@ dataset = tree.xpath("//DOC")
 shuffle(dataset)
 
 # split into 10 folds
-fold_size = int(len(dataset)/9)
+fold_size = int(len(dataset)/5)
 folds = [dataset[i:(i + fold_size)] for i in xrange(0, len(dataset), fold_size)]
 
 for i in range(len(folds)):
