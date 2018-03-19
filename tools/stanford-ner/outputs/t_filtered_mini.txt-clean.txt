@@ -2,7 +2,6 @@
 
 
 
-
 W.
 JAMES
 
@@ -7471,7 +7470,8 @@ Selma
 Santiago
 :
 Telefax
-(21) 2750049
+(21)
+2750049
 ou
 Email
 para
@@ -10708,7 +10708,8 @@ E-mail
 recivil@recivil.com.br
 Telefone
 :
-(031) 297-2141
+(031)
+297-2141
 
 
 
@@ -14280,10 +14281,10 @@ ia
 pelo
 canal
 Suês
--LSB-
+[
 mar
 mediterrâneo
--RSB-
+]
 ,
 porque
 se
@@ -18601,7 +18602,9 @@ a
 Linha
 BPI
 Internet
-808 289 289
+808
+289
+289
 ou
 enviar
 um
@@ -19429,7 +19432,8 @@ Informacao
 )
 217.6332
 
-(61) 3211798
+(61)
+3211798
 
 
 
@@ -19938,7 +19942,9 @@ Maria
 Matos
 Tel
 :
-218 438 806
+218
+438
+806
 (
 reservas
 )
@@ -21877,7 +21883,7 @@ quase
 disco
 de
 prata
--LSB-
+[
 faltam
 seis
 mil
@@ -21888,7 +21894,7 @@ editora
 ,
 a
 BMG
--RSB-
+]
 !
 
 Comprar
@@ -28021,13 +28027,13 @@ Riocine
 .
 
 topo
--LSB-
+[
 redação
--RSB-
--LSB-
+]
+[
 fale
 com
--RSB-
+]
 
 
 
@@ -32481,12 +32487,12 @@ de
 análise
 de
 projetos
--LSB-
+[
 Área
 de
 Operações
 Industrias
--RSB-
+]
 .
 Eu
 sou
@@ -46162,9 +46168,9 @@ posteriormente
 Energia
 Hidráulica
 
--LSB-
+[
 Volta
--RSB-
+]
 
 
 A
@@ -47841,9 +47847,11 @@ Linha
 directa
 do
 leitor
-+351 213174711
++351
+213174711
 Fax
-+351 213528574
++351
+213528574
 
 informações
 várias
@@ -47862,39 +47870,39 @@ editorial@climepsi.pt
 internet
 :
 webmaster@climepsi.pt
--LSB-
+[
 home
--RSB-
--LSB-
+]
+[
 novidades
--RSB-
--LSB-
+]
+[
 próximas
 edições
--RSB-
--LSB-
+]
+[
 catálogo
--RSB-
--LSB-
+]
+[
 promoções
--RSB-
--LSB-
+]
+[
 apresentação
 da
 editora
--RSB-
--LSB-
+]
+[
 comentários
--RSB-
--LSB-
+]
+[
 contacte-nos
--RSB-
--LSB-
+]
+[
 links
--RSB-
--LSB-
+]
+[
 eventos
--RSB-
+]
 
 
 
@@ -49013,7 +49021,8 @@ obrigada
 Cristiane
 -
 tel
-(11) 3645-3620
+(11)
+3645-3620
 
 
 Peço
@@ -54693,7 +54702,8 @@ nos
 ligue
 agora
 mesmo
-(92) 233-8157
+(92)
+233-8157
 /
 9148-0766
 
@@ -61959,9 +61969,9 @@ Quadro
 Comunitário
 de
 Apoio
--LSB-
+[
 QCA
--RSB-
+]
 e
 ainda
 não
@@ -63468,11 +63478,11 @@ uma
 que
 dei
 ao
--LSB-
+[
 jornalista
 da
 RTP
--RSB-
+]
 Manuel
 Fernandes
 ,
@@ -63635,9 +63645,9 @@ carreira
 Agora
 histórias
 picantes
--LSB-
+[
 pausa
--RSB-
+]
 ...
 também
 não
@@ -63675,9 +63685,9 @@ livro
 as
 histórias
 picantes
--LSB-
+[
 risos
--RSB-
+]
 .
 
 

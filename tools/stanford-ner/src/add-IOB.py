@@ -15,7 +15,7 @@ f.close()
 # get first line tag
 first_line = f_str[0]
 first_line_split = first_line.split()
-if len(first_line_split) > 1 and first_line_split[1] == 'O':
+if len(first_line_split) > 1 and first_line_split[1] != 'O':
 	f_str[0] = re.sub(r'(.+)\t(.+)',r'\1\tB-\2',f_str[0])
 
 for i,line in enumerate(f_str[1:]):

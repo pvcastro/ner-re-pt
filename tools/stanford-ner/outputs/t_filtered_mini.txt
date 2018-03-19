@@ -2,7 +2,6 @@
 
 
 
-
 W.	PESSOA
 JAMES	PESSOA
 
@@ -36,11 +35,11 @@ Nova	LOCAL
 Iorque	LOCAL
 ,	O
 a	O
-11	O
-de	O
-Janeiro	O
-de	O
-1842	O
+11	TEMPO
+de	TEMPO
+Janeiro	TEMPO
+de	TEMPO
+1842	TEMPO
 .	O
 O	O
 seu	O
@@ -76,7 +75,7 @@ de	O
 medicina	O
 ,	O
 em	O
-1870	O
+1870	TEMPO
 ,	O
 na	O
 Universidade	ORGANIZACAO
@@ -93,12 +92,12 @@ professor	O
 de	O
 fisiologia	O
 em	O
-1872	O
+1872	TEMPO
 .	O
 A	O
 partir	O
 de	O
-1880	O
+1880	TEMPO
 ensinou	O
 psicologia	O
 e	O
@@ -110,7 +109,7 @@ universidade	O
 que	O
 abandonou	O
 em	O
-1907	O
+1907	TEMPO
 ,	O
 proferindo	O
 conferências	O
@@ -129,11 +128,11 @@ New	LOCAL
 Hampshire	LOCAL
 ,	O
 a	O
-26	O
-de	O
-Agosto	O
-de	O
-1910	O
+26	TEMPO
+de	TEMPO
+Agosto	TEMPO
+de	TEMPO
+1910	TEMPO
 .	O
 
 Obras	O
@@ -142,7 +141,7 @@ Princípios	O
 de	O
 Psicologia	O
 (	O
-1890	O
+1890	TEMPO
 )	O
 ,	O
 uma	O
@@ -170,14 +169,14 @@ Sobre	O
 Filosofia	O
 Popular	O
 (	O
-1897	O
+1897	TEMPO
 )	O
 ,	O
 A	O
 Imortalidade	O
 Humana	O
 (	O
-1898	O
+1898	TEMPO
 )	O
 ,	O
 Diversidade	O
@@ -185,7 +184,7 @@ da	O
 Experiência	O
 Religiosa	O
 (	O
-1902	O
+1902	TEMPO
 )	O
 .	O
 Pragmatismo	O
@@ -199,7 +198,7 @@ formas	O
 de	O
 pensar	O
 (	O
-1907	O
+1907	TEMPO
 )	O
 .	O
 Esta	O
@@ -391,9 +390,9 @@ HISTÓRIA	O
 No	O
 passado	O
 dia	O
-7	O
-de	O
-Dezembro	O
+7	TEMPO
+de	TEMPO
+Dezembro	TEMPO
 ,	O
 os	O
 alunos	O
@@ -443,7 +442,7 @@ Nova	LOCAL
 ,	O
 sobre	O
 o	O
-Natal	O
+Natal	TEMPO
 dos	O
 seus	O
 tempos	O
@@ -467,8 +466,8 @@ Gonçalves	PESSOA
 Bastos	PESSOA
 ,	O
 de	O
-88	O
-anos	O
+88	VALOR
+anos	VALOR
 e	O
 do	O
 senhor	O
@@ -476,8 +475,8 @@ António	PESSOA
 Gonçalves	PESSOA
 Bastos	PESSOA
 de	O
-90	O
-anos	O
+90	VALOR
+anos	VALOR
 .	O
 Mónica	PESSOA
 :	O
@@ -524,7 +523,7 @@ Lembra-se	O
 como	O
 festejava	O
 o	O
-Natal	O
+Natal	TEMPO
 antigamente	O
 ?	O
 
@@ -552,7 +551,7 @@ comer	O
 na	O
 noite	O
 de	O
-Consoada	O
+Consoada	TEMPO
 ?	O
 
 
@@ -665,7 +664,7 @@ elas	O
 a	O
 noite	O
 de	O
-Consoada	O
+Consoada	TEMPO
 ?	O
 
 
@@ -692,7 +691,7 @@ Afonso	PESSOA
 na	O
 maré	O
 do	O
-Natal	O
+Natal	TEMPO
 ,	O
 dava	O
 a	O
@@ -728,7 +727,7 @@ serão	O
 da	O
 noite	O
 de	O
-Consoada	O
+Consoada	TEMPO
 ?	O
 
 
@@ -785,7 +784,7 @@ E	O
 o	O
 dia	O
 de	O
-Natal	O
+Natal	TEMPO
 como	O
 era	O
 passado	O
@@ -857,7 +856,7 @@ almoço	O
 no	O
 dia	O
 de	O
-Natal	O
+Natal	TEMPO
 ?	O
 
 
@@ -1156,7 +1155,7 @@ tropa	O
 para	O
 Braga	LOCAL
 em	O
-1930	O
+1930	TEMPO
 e	O
 fui	O
 1º	O
@@ -1330,9 +1329,9 @@ Mónica	PESSOA
 uma	O
 moeda	O
 de	O
-20	O
-$	O
-00	O
+20	VALOR
+$	VALOR
+00	VALOR
 para	O
 deitar	O
 nas	O
@@ -2134,7 +2133,7 @@ safra	O
 agrícola	O
 Data	O
 :	O
-25/02/2000	O
+25/02/2000	TEMPO
 Fonte	O
 :	O
 Jornal	O
@@ -2173,7 +2172,7 @@ a	O
 ser	O
 cultivada	O
 em	O
-julho	O
+julho	TEMPO
 .	O
 
 A	O
@@ -2473,11 +2472,11 @@ nasceu	O
 
 
 Dia	O
-7	O
-de	O
-Maio	O
-de	O
-1939	O
+7	TEMPO
+de	TEMPO
+Maio	TEMPO
+de	TEMPO
+1939	TEMPO
 .	O
 
 
@@ -2630,7 +2629,7 @@ infância	O
 
 Era	O
 de	O
-2	O
+2	VALOR
 andares	O
 e	O
 feita	O
@@ -2706,8 +2705,8 @@ calcei	O
 umas	O
 botas	O
 tinha	O
-18	O
-anos	O
+18	VALOR
+anos	VALOR
 .	O
 
 
@@ -2902,8 +2901,8 @@ escola	O
 
 Entrei	O
 com	O
-7	O
-anos	O
+7	VALOR
+anos	VALOR
 .	O
 
 
@@ -3029,12 +3028,12 @@ pouco	O
 ,	O
 entrei	O
 com	O
-7	O
-anos	O
+7	VALOR
+anos	VALOR
 saí	O
 com	O
-11	O
-anos	O
+11	VALOR
+anos	VALOR
 .	O
 
 
@@ -3049,8 +3048,8 @@ escola	O
 Ia	O
 a	O
 pé	O
-7	O
-km	O
+7	VALOR
+km	VALOR
 .	O
 
 
@@ -3165,8 +3164,8 @@ casa	O
 Saí	O
 quando	O
 tinha	O
-18	O
-anos	O
+18	VALOR
+anos	VALOR
 porque	O
 queria	O
 ser	O
@@ -3219,7 +3218,7 @@ netos	O
 
 
 Tenho	O
-6	O
+6	VALOR
 netos	O
 .	O
 
@@ -3601,9 +3600,9 @@ boa	O
 A.Casa.do.Mp3@trd.sintef.no	O
 
 
-Mais	O
-de	O
-7.500	O
+Mais	VALOR
+de	VALOR
+7.500	VALOR
 músicas	O
 em	O
 MP3	O
@@ -3707,16 +3706,16 @@ músicas	O
 
 ·	O
 São	O
-40	O
+40	VALOR
 CDs	O
 repletos	O
 de	O
 músicas	O
 totalizando	O
-mais	O
-de	O
-28	O
-GB	O
+mais	VALOR
+de	VALOR
+28	VALOR
+GB	VALOR
 só	O
 em	O
 MP3	O
@@ -3796,13 +3795,13 @@ Miguel	PESSOA
 Silva	PESSOA
 Costa	PESSOA
 em	O
-Quarta	O
-,	O
-Julho	O
-31	O
-2002	O
+Quarta	TEMPO
+,	TEMPO
+Julho	TEMPO
+31	TEMPO
+2002	TEMPO
 @	O
-11:21	O
+11:21	TEMPO
 WEST	O
 Informação	O
 sobre	O
@@ -3875,7 +3874,7 @@ que	O
 um	O
 grupo	O
 de	O
-18	O
+18	VALOR
 empresas	O
 e	O
 universidades	O
@@ -4164,8 +4163,8 @@ tem	O
 ?	O
 
 
-75	O
-anos	O
+75	VALOR
+anos	VALOR
 .	O
 
 
@@ -4389,7 +4388,7 @@ o	O
 padre	O
 benzer	O
 na	O
-Páscoa	O
+Páscoa	TEMPO
 .	O
 Eu	O
 até	O
@@ -4815,7 +4814,7 @@ para	O
 nos	O
 abrigarmos	O
 no	O
-Inverno	O
+Inverno	TEMPO
 .	O
 Eram	O
 pesadas	O
@@ -4997,8 +4996,8 @@ minha	O
 filha	O
 mais	O
 nova	O
-2	O
-anos	O
+2	VALOR
+anos	VALOR
 )	O
 .	O
 E	O
@@ -5006,7 +5005,7 @@ eu	O
 fiquei	O
 sozinha	O
 com	O
-8	O
+8	VALOR
 filhos	O
 ,	O
 cá	O
@@ -5078,11 +5077,11 @@ em	O
 Angola	LOCAL
 ,	O
 a	O
-2	O
-de	O
-Junho	O
-de	O
-1968	O
+2	TEMPO
+de	TEMPO
+Junho	TEMPO
+de	TEMPO
+1968	TEMPO
 .	O
 
 
@@ -5208,8 +5207,8 @@ Angola	LOCAL
 
 
 Com	O
-7	O
-anos	O
+7	VALOR
+anos	VALOR
 .	O
 
 
@@ -6126,8 +6125,8 @@ criei	O
 .	O
 Ela	O
 tem	O
-10	O
-anos	O
+10	VALOR
+anos	VALOR
 ,	O
 nasceu	O
 assim	O
@@ -7236,7 +7235,7 @@ referente	O
 ao	O
 ano	O
 de	O
-2001	O
+2001	TEMPO
 .	O
 
 Esperamos	O
@@ -7254,8 +7253,8 @@ anuidade	O
 continua	O
 congelada	O
 em	O
-60	O
-reais	O
+60	VALOR
+reais	VALOR
 .	O
 
 Sendo	O
@@ -7281,8 +7280,8 @@ e	O
 a	O
 desconto	O
 de	O
-50	O
-%	O
+50	VALOR
+%	VALOR
 em	O
 todas	O
 as	O
@@ -7315,8 +7314,8 @@ membros	O
 da	O
 SBPC	ORGANIZACAO
 por	O
-30	O
-reais	O
+30	VALOR
+reais	VALOR
 ,	O
 receber	O
 o	O
@@ -7329,8 +7328,8 @@ e	O
 ter	O
 desconto	O
 de	O
-50	O
-%	O
+50	VALOR
+%	VALOR
 nas	O
 reunioes	O
 anuais	O
@@ -7440,8 +7439,8 @@ IMPORTANTE	O
 Pagar	O
 anuidade	O
 de	O
-R$	O
-60,00	O
+R$	VALOR
+60,00	VALOR
 ,	O
 na	O
 conta	O
@@ -7471,7 +7470,8 @@ Selma	PESSOA
 Santiago	PESSOA
 :	O
 Telefax	O
-(21) 2750049	O
+(21)	O
+2750049	O
 ou	O
 Email	O
 para	O
@@ -8412,8 +8412,8 @@ nada	O
 menos	O
 do	O
 que	O
-0,04	O
-%	O
+0,04	VALOR
+%	VALOR
 ,	O
 é	O
 mais	O
@@ -8438,8 +8438,8 @@ a	O
 sua	O
 candidatura	O
 tem	O
-90	O
-%	O
+90	VALOR
+%	VALOR
 de	O
 probabilidades	O
 de	O
@@ -8449,8 +8449,8 @@ recusada	O
 pois	O
 nem	O
 sequer	O
-10	O
-%	O
+10	VALOR
+%	VALOR
 das	O
 candidaturas	O
 chegam	O
@@ -8722,11 +8722,11 @@ Roraima	O
 Diário	O
 de	O
 Bordo	O
-30	O
-de	O
-janeiro	O
-de	O
-1999	O
+30	TEMPO
+de	TEMPO
+janeiro	TEMPO
+de	TEMPO
+1999	TEMPO
 Boa	LOCAL
 Vista	LOCAL
 -	O
@@ -8789,7 +8789,7 @@ pé	O
 na	O
 estrada	O
 (	O
-9h55	O
+9h55	TEMPO
 )	O
 .	O
 
@@ -8828,8 +8828,8 @@ reserva	O
 Waimiri-Atroari	LOCAL
 (	O
 os	O
-120	O
-km	O
+120	VALOR
+km	VALOR
 de	O
 estrada	O
 que	O
@@ -8949,7 +8949,7 @@ a	O
 Presidente	LOCAL
 Figueiredo	LOCAL
 às	O
-19h30	O
+19h30	TEMPO
 e	O
 ,	O
 coincidentemente	O
@@ -9114,7 +9114,7 @@ da	ORGANIZACAO
 Vinci	ORGANIZACAO
 existe	O
 desde	O
-1952	O
+1952	TEMPO
 .	O
 
 Conforme	O
@@ -9169,7 +9169,7 @@ para	O
 o	O
 Brasil	LOCAL
 em	O
-1952	O
+1952	TEMPO
 acompanhando	O
 seu	O
 marido	O
@@ -9811,7 +9811,7 @@ levantamento	O
 ,	O
 realizado	O
 em	O
-1996	O
+1996	TEMPO
 pela	O
 Fundação	ORGANIZACAO
 Seade	ORGANIZACAO
@@ -9832,8 +9832,8 @@ Paep	O
 ,	O
 que	O
 ouviu	O
-400	O
-mil	O
+400	VALOR
+mil	VALOR
 empresas	O
 do	O
 estado	O
@@ -9891,7 +9891,7 @@ Análise	O
 da	O
 AcessoCom	ORGANIZACAO
 ,	O
-10/1/2000	O
+10/1/2000	TEMPO
 )	O
 
 
@@ -9909,7 +9909,7 @@ Mestrado	O
 -	O
 FOUSP	ORGANIZACAO
 -	O
-1998	O
+1998	TEMPO
 Orientador	O
 :	O
 Prof.	PESSOA
@@ -10153,7 +10153,7 @@ estudo	O
 ,	O
 foram	O
 utilizados	O
-36	O
+36	VALOR
 dentes	O
 terceiros	O
 molares	O
@@ -10163,7 +10163,7 @@ extraídos	O
 divididos	O
 igualmente	O
 em	O
-3	O
+3	VALOR
 grupos	O
 :	O
 grupo	O
@@ -10179,8 +10179,8 @@ com	O
 ácido	O
 fosfórico	O
 a	O
-35	O
-%	O
+35	VALOR
+%	VALOR
 ,	O
 grupo	O
 2	O
@@ -10198,8 +10198,8 @@ com	O
 ácido	O
 fosfórico	O
 a	O
-35	O
-%	O
+35	VALOR
+%	VALOR
 
 e	O
 grupo	O
@@ -10240,12 +10240,12 @@ Z100	O
 ,	O
 estocados	O
 a	O
-37ºC	O
+37ºC	VALOR
 em	O
 estufa	O
 por	O
-24	O
-horas	O
+24	VALOR
+horas	VALOR
 ,	O
 termociclados	O
 ,	O
@@ -10257,11 +10257,11 @@ nitrato	O
 de	O
 prata	O
 a	O
-50	O
-%	O
+50	VALOR
+%	VALOR
 por	O
-24	O
-horas	O
+24	VALOR
+horas	VALOR
 em	O
 total	O
 ausência	O
@@ -10276,8 +10276,8 @@ sob	O
 luz	O
 fluorescente	O
 por	O
-6	O
-horas	O
+6	VALOR
+horas	VALOR
 .	O
 
 Foram	O
@@ -10341,8 +10341,8 @@ com	O
 ácido	O
 fosfórico	O
 a	O
-35	O
-%	O
+35	VALOR
+%	VALOR
 (	O
 grupos	O
 1	O
@@ -10490,7 +10490,7 @@ deverá	O
 ser	O
 lançada	O
 em	O
-novembro	O
+novembro	TEMPO
 .	O
 
 O	O
@@ -10500,13 +10500,13 @@ adiado	O
 para	O
 os	O
 dias	O
-09	O
+09	TEMPO
 ,	O
-10	O
+10	TEMPO
 e	O
-11	O
-de	O
-outubro	O
+11	TEMPO
+de	TEMPO
+outubro	TEMPO
 .	O
 
 Mas	O
@@ -10708,7 +10708,8 @@ E-mail	O
 recivil@recivil.com.br	O
 Telefone	O
 :	O
-(031) 297-2141	O
+(031)	O
+297-2141	O
 
 
 
@@ -10717,7 +10718,7 @@ do	ORGANIZACAO
 Sagrado	ORGANIZACAO
 Coração	ORGANIZACAO
 
-1953	O
+1953	TEMPO
 .	O
 
 0	O
@@ -10787,7 +10788,7 @@ primeiro	O
 vestibular	O
 ocorre	O
 em	O
-1954	O
+1954	TEMPO
 .	O
 
 A	O
@@ -10796,9 +10797,9 @@ aula	O
 é	O
 proferida	O
 em	O
-7	O
-de	O
-março	O
+7	TEMPO
+de	TEMPO
+março	TEMPO
 do	O
 mesmo	O
 ano	O
@@ -10816,7 +10817,7 @@ primeira	O
 turma	O
 ,	O
 em	O
-1956	O
+1956	TEMPO
 .	O
 
 Faculdade	ORGANIZACAO
@@ -10824,8 +10825,8 @@ de	ORGANIZACAO
 Música	ORGANIZACAO
 .	O
 
-Dez	O
-anos	O
+Dez	VALOR
+anos	VALOR
 após	O
 a	O
 instalação	O
@@ -10854,7 +10855,7 @@ de	ORGANIZACAO
 Música	ORGANIZACAO
 .	O
 
-1967	O
+1967	TEMPO
 .	O
 
 Expansão	O
@@ -10890,7 +10891,7 @@ Estudos	O
 Sociais	O
 .	O
 
-1970	O
+1970	TEMPO
 .	O
 
 Novas	O
@@ -10926,7 +10927,7 @@ Sagrado	ORGANIZACAO
 Coração	ORGANIZACAO
 .	O
 
-1971	O
+1971	TEMPO
 .	O
 
 Instituição	O
@@ -10986,15 +10987,15 @@ Superiores	O
 .	O
 
 De	O
-1970	O
+1970	TEMPO
 a	O
-1999	O
+1999	TEMPO
 .	O
 
 Na	O
 década	O
 de	O
-70	O
+70	TEMPO
 são	O
 instalados	O
 os	O
@@ -11007,8 +11008,8 @@ e	O
 Enfermagem	O
 ,	O
 nos	O
-anos	O
-80	O
+anos	TEMPO
+80	TEMPO
 ,	O
 Farmácia	O
 ,	O
@@ -11075,14 +11076,14 @@ Garcia	PESSOA
 e	O
 contando	O
 com	O
-aproximadamente	O
-6.000	O
+aproximadamente	VALOR
+6.000	VALOR
 alunos	O
 ,	O
 distribuidos	O
 nos	O
 seus	O
-29	O
+29	VALOR
 cursos	O
 e	O
 suas	O
@@ -11092,7 +11093,7 @@ possuindo	O
 na	O
 sua	O
 docência	O
-350	O
+350	VALOR
 professores	O
 ,	O
 com	O
@@ -11106,7 +11107,7 @@ sob	O
 a	O
 responsabilidade	O
 de	O
-290	O
+290	VALOR
 funcionários	O
 ,	O
 a	O
@@ -11141,7 +11142,7 @@ cristão	O
 
 ©	O
 Copyright	O
-2000	O
+2000	TEMPO
 -	O
 IASCJ	ORGANIZACAO
 .	O
@@ -11163,11 +11164,11 @@ Vinci	PESSOA
 Leonardo	PESSOA
 nasceu	O
 a	O
-15	O
-de	O
-Abril	O
-de	O
-1452	O
+15	TEMPO
+de	TEMPO
+Abril	TEMPO
+de	TEMPO
+1452	TEMPO
 ,	O
 na	O
 pequena	O
@@ -11249,7 +11250,7 @@ seu	O
 aprendiz	O
 .	O
 Em	O
-1472	O
+1472	TEMPO
 ,	O
 com	O
 apenas	O
@@ -11326,9 +11327,9 @@ talento	O
 mais	O
 versátil	O
 da	O
-Itália	O
-do	O
-Renascimento	O
+Itália	TEMPO
+do	TEMPO
+Renascimento	TEMPO
 .	O
 Os	O
 seus	O
@@ -11472,7 +11473,7 @@ Divina	O
 Proportione	O
 ''	O
 
-1490	O
+1490	TEMPO
 
 Os	O
 pintores	O
@@ -11539,7 +11540,7 @@ A	O
 Ceia	O
 ''	O
 
-1495-1498	O
+1495-1498	TEMPO
 
 O	O
 ponto	O
@@ -12536,11 +12537,11 @@ Reboleira	LOCAL
 Ribeira	LOCAL
 ,	O
 a	O
-26	O
-de	O
-Novembro	O
-de	O
-1999	O
+26	TEMPO
+de	TEMPO
+Novembro	TEMPO
+de	TEMPO
+1999	TEMPO
 .	O
 Eu	O
 sou	O
@@ -12558,11 +12559,11 @@ nasceu	O
 
 Nasci	O
 a	O
-22	O
-de	O
-Dezembro	O
-de	O
-1946	O
+22	TEMPO
+de	TEMPO
+Dezembro	TEMPO
+de	TEMPO
+1946	TEMPO
 ,	O
 no	O
 Muro	LOCAL
@@ -12763,7 +12764,7 @@ a	O
 minha	O
 mãe	O
 teve	O
-22	O
+22	VALOR
 filhos	O
 .	O
 Agora	O
@@ -12955,10 +12956,10 @@ nem	O
 sei	O
 ,	O
 eram	O
-12	O
+12	VALOR
 ou	O
-13	O
-escudos	O
+13	VALOR
+escudos	VALOR
 .	O
 E	O
 então	O
@@ -13043,19 +13044,19 @@ parou	O
 Isto	O
 depois	O
 da	O
-Segunda	O
-Guerra	O
-Mundial	O
+Segunda	TEMPO
+Guerra	TEMPO
+Mundial	TEMPO
 ,	O
 por	O
 aí	O
 fora	O
 ,	O
 uns	O
-10	O
+10	VALOR
 ,	O
-15	O
-anos	O
+15	VALOR
+anos	VALOR
 ,	O
 toda	O
 a	O
@@ -13176,8 +13177,8 @@ falecida	O
 mãe	O
 morreu	O
 com	O
-48	O
-anos	O
+48	VALOR
+anos	VALOR
 devido	O
 a	O
 um	O
@@ -13442,7 +13443,7 @@ era	O
 tanta	O
 !	O
 No	O
-Inverno	O
+Inverno	TEMPO
 ,	O
 quando	O
 as	O
@@ -13497,7 +13498,7 @@ atirava-me	O
 ao	O
 rio	O
 no	O
-Inverno	O
+Inverno	TEMPO
 para	O
 ir	O
 às	O
@@ -13699,8 +13700,8 @@ D.	ORGANIZACAO
 Henrique	ORGANIZACAO
 que	O
 tem	O
-50	O
-anos	O
+50	VALOR
+anos	VALOR
 .	O
 Havia	O
 esses	O
@@ -13805,8 +13806,8 @@ comecei	O
 a	O
 trabalhar	O
 aos	O
-12	O
-anos	O
+12	VALOR
+anos	VALOR
 na	O
 José	ORGANIZACAO
 Rodrigues	ORGANIZACAO
@@ -13829,8 +13830,8 @@ Douro	LOCAL
 ,	O
 a	O
 ganhar	O
-50	O
-escudos	O
+50	VALOR
+escudos	VALOR
 por	O
 semana	O
 .	O
@@ -13883,8 +13884,8 @@ meus	O
 pais	O
 e	O
 dáva-me	O
-50	O
-escudos	O
+50	VALOR
+escudos	VALOR
 por	O
 semana	O
 .	O
@@ -13928,8 +13929,8 @@ vez	O
 
 Embarquei	O
 com	O
-14	O
-anos	O
+14	VALOR
+anos	VALOR
 ,	O
 andei	O
 num	O
@@ -13954,7 +13955,7 @@ moço	O
 e	O
 depois	O
 do	O
-Tiofol	O
+Tiofol	TEMPO
 saí	O
 para	O
 outros	O
@@ -14031,8 +14032,8 @@ casou	O
 Eu	O
 casei	O
 com	O
-16	O
-anos	O
+16	VALOR
+anos	VALOR
 ,	O
 ela	O
 era	O
@@ -14041,12 +14042,12 @@ velha	O
 do	O
 que	O
 eu	O
-2	O
-anos	O
+2	VALOR
+anos	VALOR
 ,	O
 tinha	O
-18	O
-anos	O
+18	VALOR
+anos	VALOR
 .	O
 Eu	O
 ganhava	O
@@ -14118,7 +14119,7 @@ estão	O
 zangados	O
 comigo	O
 .	O
-Dois	O
+Dois	VALOR
 estão	O
 em	O
 Lisboa	LOCAL
@@ -14280,10 +14281,10 @@ ia	O
 pelo	O
 canal	O
 Suês	LOCAL
--LSB-	O
+[	O
 mar	O
 mediterrâneo	O
--RSB-	O
+]	O
 ,	O
 porque	O
 se	O
@@ -14432,9 +14433,9 @@ ibérica	O
 talvez	O
 só	O
 em	O
-Janeiro	O
-de	O
-92	O
+Janeiro	TEMPO
+de	TEMPO
+92	TEMPO
 
 A	O
 cimeira	O
@@ -14540,9 +14541,9 @@ não	O
 diferente	O
 --	O
 entre	O
-1960	O
+1960	TEMPO
 e	O
-1991	O
+1991	TEMPO
 ,	O
 os	O
 valores	O
@@ -14552,13 +14553,13 @@ de	O
 fecundidade	O
 passaram	O
 de	O
-94,9	O
-por	O
-cento	O
+94,9	VALOR
+por	VALOR
+cento	VALOR
 para	O
-47	O
-por	O
-cento	O
+47	VALOR
+por	VALOR
+cento	VALOR
 .	O
 
 Quer	O
@@ -14989,7 +14990,7 @@ explica	O
 
 
 Em	O
-90	O
+90	TEMPO
 ele	O
 não	O
 pôde	O
@@ -15068,10 +15069,10 @@ imagem	O
 empresarial	O
 formada	O
 em	O
-mais	O
-de	O
-50	O
-anos	O
+mais	VALOR
+de	VALOR
+50	VALOR
+anos	VALOR
 .	O
 
 
@@ -15175,7 +15176,7 @@ Globo	ORGANIZACAO
 por	O
 volta	O
 de	O
-20h	O
+20h	TEMPO
 .	O
 
 De	O
@@ -15203,10 +15204,10 @@ um	O
 noticiário	O
 que	O
 atinge	O
-cerca	O
-de	O
-60	O
-milhões	O
+cerca	VALOR
+de	VALOR
+60	VALOR
+milhões	VALOR
 de	O
 pessoas	O
 ,	O
@@ -15477,8 +15478,8 @@ Joyce	PESSOA
 Carol	PESSOA
 
 (	O
-1938	O
--	O
+1938	TEMPO
+-	TEMPO
 )	O
 
 
@@ -15560,7 +15561,7 @@ comédia	O
 Unholy	O
 Loves	O
 (	O
-1979	O
+1979	TEMPO
 )	O
 ,	O
 o	O
@@ -15571,7 +15572,7 @@ A	O
 Bloodsmoor	O
 Romance	O
 (	O
-1982	O
+1982	TEMPO
 )	O
 e	O
 o	O
@@ -15579,13 +15580,13 @@ thriller	O
 Kindred	O
 Passions	O
 (	O
-1987	O
+1987	TEMPO
 )	O
 .	O
 
 
 Em	O
-1999	O
+1999	TEMPO
 ,	O
 a	O
 escritora	O
@@ -15608,9 +15609,9 @@ Marilyn	PESSOA
 Monroe	PESSOA
 .	O
 Entre	O
-1968	O
+1968	TEMPO
 e	O
-1978	O
+1978	TEMPO
 ,	O
 Oates	PESSOA
 leccionou	O
@@ -15661,7 +15662,7 @@ Unidos	LOCAL
 .	O
 
 Em	O
-1978	O
+1978	TEMPO
 ,	O
 mudou-se	O
 para	O
@@ -15693,7 +15694,7 @@ a	O
 obra	O
 Bellefleur	O
 (	O
-1980	O
+1980	TEMPO
 )	O
 ,	O
 o	O
@@ -15709,7 +15710,7 @@ góticos	O
 
 Publicados	O
 em	O
-1980	O
+1980	TEMPO
 ,	O
 estes	O
 romances	O
@@ -15736,7 +15737,7 @@ With	O
 Shuddering	O
 Fall	O
 (	O
-1964	O
+1964	TEMPO
 )	O
 ,	O
 A	O
@@ -15745,18 +15746,18 @@ of	O
 Earthly	O
 Delights	O
 (	O
-1967	O
+1967	TEMPO
 )	O
 ,	O
 Expensive	O
 People	O
 (	O
-1968	O
+1968	TEMPO
 )	O
 ,	O
 Them	O
 (	O
-1969	O
+1969	TEMPO
 )	O
 ,	O
 vencedor	O
@@ -15769,7 +15770,7 @@ Book	O
 ,	O
 Wonderland	O
 (	O
-1971	O
+1971	TEMPO
 )	O
 ,	O
 Do	O
@@ -15779,18 +15780,18 @@ What	O
 You	O
 Will	O
 (	O
-1973	O
+1973	TEMPO
 )	O
 ,	O
 The	O
 Assassins	O
 (	O
-1975	O
+1975	TEMPO
 )	O
 ,	O
 Childwold	O
 (	O
-1976	O
+1976	TEMPO
 )	O
 ,	O
 The	O
@@ -15800,7 +15801,7 @@ the	O
 Spider	O
 Monkey	O
 (	O
-1976	O
+1976	TEMPO
 )	O
 ,	O
 Son	O
@@ -15808,19 +15809,19 @@ of	O
 the	O
 Morning	O
 (	O
-1978	O
+1978	TEMPO
 )	O
 ,	O
 Mysteries	O
 of	O
 Winterburn	O
 (	O
-1984	O
+1984	TEMPO
 )	O
 ,	O
 Solstice	O
 (	O
-1985	O
+1985	TEMPO
 )	O
 ,	O
 Marya	O
@@ -15828,7 +15829,7 @@ Marya	O
 A	O
 Life	O
 (	O
-1986	O
+1986	TEMPO
 )	O
 ,	O
 You	O
@@ -15836,13 +15837,13 @@ Must	O
 Remember	O
 This	O
 (	O
-1987	O
+1987	TEMPO
 )	O
 ,	O
 American	O
 Appetites	O
 (	O
-1989	O
+1989	TEMPO
 )	O
 ,	O
 Because	O
@@ -15857,18 +15858,18 @@ Is	O
 My	O
 Heart	O
 (	O
-1990	O
+1990	TEMPO
 )	O
 ,	O
 Black	O
 Water	O
 (	O
-1992	O
+1992	TEMPO
 )	O
 ,	O
 Foxfire	O
 (	O
-1993	O
+1993	TEMPO
 )	O
 ,	O
 What	O
@@ -15876,13 +15877,13 @@ I	O
 Lived	O
 For	O
 (	O
-1993	O
+1993	TEMPO
 )	O
 ,	O
 First	O
 Love	O
 (	O
-1996	O
+1996	TEMPO
 )	O
 ,	O
 We	O
@@ -15890,18 +15891,18 @@ Were	O
 the	O
 Mulvaneys	O
 (	O
-1996	O
+1996	TEMPO
 )	O
 ,	O
 Zombie	O
 (	O
-1996	O
+1996	TEMPO
 )	O
 ,	O
 On	O
 Boxing	O
 (	O
-1997	O
+1997	TEMPO
 )	O
 ,	O
 Come	O
@@ -15909,14 +15910,14 @@ Meet	O
 Muffin	O
 !	O
 (	O
-1998	O
+1998	TEMPO
 )	O
 ,	O
 Broke	O
 Heart	O
 Blues	O
 (	O
-1999	O
+1999	TEMPO
 )	O
 ,	O
 My	O
@@ -15924,7 +15925,7 @@ Heart	O
 Laid	O
 Bare	O
 (	O
-1999	O
+1999	TEMPO
 )	O
 ,	O
 Starr	O
@@ -15935,18 +15936,18 @@ With	O
 You	O
 Soon	O
 (	O
-2000	O
+2000	TEMPO
 )	O
 ,	O
 The	O
 Barrens	O
 (	O
-2001	O
+2001	TEMPO
 )	O
 ,	O
 Beasts	O
 (	O
-2002	O
+2002	TEMPO
 )	O
 ,	O
 Big	O
@@ -15955,12 +15956,12 @@ and	O
 Ugly	O
 Girl	O
 (	O
-2002	O
+2002	TEMPO
 )	O
 e	O
 Middle-Age	O
 (	O
-2002	O
+2002	TEMPO
 )	O
 .	O
 
@@ -15981,11 +15982,11 @@ nº	O
 40	O
 Andradas	LOCAL
 ,	O
-07	O
-de	O
-Maio	O
-de	O
-2000	O
+07	TEMPO
+de	TEMPO
+Maio	TEMPO
+de	TEMPO
+2000	TEMPO
 Esportes	O
 Futebol	O
 -	O
@@ -16016,8 +16017,8 @@ deste	O
 domingo	O
 ,	O
 às	O
-17	O
-horas	O
+17	TEMPO
+horas	TEMPO
 ,	O
 no	O
 Estádio	LOCAL
@@ -16027,7 +16028,7 @@ América	LOCAL
 Mineiro	O
 está	O
 em	O
-3º	O
+3º	VALOR
 lugar	O
 e	O
 ainda	O
@@ -16054,7 +16055,7 @@ Mineiro	O
 ,	O
 que	O
 soma	O
-25	O
+25	VALOR
 pontos	O
 .	O
 
@@ -16065,7 +16066,7 @@ a	O
 seguir	O
 ,	O
 com	O
-15	O
+15	VALOR
 e	O
 o	O
 próprio	O
@@ -16074,7 +16075,7 @@ em	O
 seguida	O
 ,	O
 com	O
-13	O
+13	VALOR
 pontos	O
 .	O
 
@@ -16213,9 +16214,9 @@ do	O
 jogo	O
 .	O
 
-Quarta	O
--	O
-feira	O
+Quarta	TEMPO
+-	TEMPO
+feira	TEMPO
 tem	O
 Cruzeiro	O
 em	O
@@ -16230,7 +16231,7 @@ mineira	O
 até	O
 a	O
 próxima	O
-Quarta-feira	O
+Quarta-feira	TEMPO
 ,	O
 quando	O
 enfrentará	O
@@ -16243,10 +16244,10 @@ em	O
 partida	O
 válida	O
 pela	O
-3ª	O
+3ª	VALOR
 rodada	O
 do	O
-2º	O
+2º	VALOR
 turno	O
 .	O
 
@@ -16278,7 +16279,7 @@ do	O
 que	O
 aconteceu	O
 no	O
-1º	O
+1º	VALOR
 turno	O
 ,	O
 onde	O
@@ -16329,11 +16330,11 @@ Rio	O
 Branco	O
 e	O
 fez	O
-3	O
-X	O
-0	O
+3	VALOR
+X	VALOR
+0	VALOR
 no	O
-1º	O
+1º	VALOR
 tempo	O
 .	O
 
@@ -16356,8 +16357,8 @@ a	O
 má	O
 impressão	O
 dos	O
-45	O
-minutos	O
+45	VALOR
+minutos	VALOR
 iniciais	O
 e	O
 conseguiu	O
@@ -16401,10 +16402,10 @@ tempos	O
 .	O
 
 Aos	O
-27	O
-minutos	O
+27	VALOR
+minutos	VALOR
 do	O
-1º	O
+1º	VALOR
 tempo	O
 ,	O
 aconteceu	O
@@ -16440,9 +16441,9 @@ jogo	O
 ficou	O
 parado	O
 por	O
-quase	O
-1	O
-hora	O
+quase	VALOR
+1	VALOR
+hora	VALOR
 .	O
 
 Depois	O
@@ -16487,11 +16488,11 @@ Faria	PESSOA
 .	O
 Nasceu	O
 em	O
-17	O
-de	O
-fevereiro	O
-de	O
-1945	O
+17	TEMPO
+de	TEMPO
+fevereiro	TEMPO
+de	TEMPO
+1945	TEMPO
 em	O
 Mossoró	LOCAL
 ,	O
@@ -16582,7 +16583,7 @@ sua	O
 vida	O
 pública	O
 em	O
-1979	O
+1979	TEMPO
 ,	O
 quando	O
 foi	O
@@ -16622,7 +16623,7 @@ Sobrinho	PESSOA
 
 
 Em	O
-1983	O
+1983	TEMPO
 ,	O
 Wilma	PESSOA
 de	PESSOA
@@ -16642,9 +16643,9 @@ durante	O
 o	O
 governo	O
 de	O
-José	O
-Agripino	O
-Maia	O
+José	TEMPO
+Agripino	TEMPO
+Maia	TEMPO
 .	O
 Nesse	O
 mesmo	O
@@ -16685,7 +16686,7 @@ entre	O
 os	O
 deputados	O
 nota	O
-10	O
+10	VALOR
 ,	O
 distinção	O
 concedida	O
@@ -16702,7 +16703,7 @@ DIAP	ORGANIZACAO
 
 
 Em	O
-1988	O
+1988	TEMPO
 ,	O
 Wilma	PESSOA
 vence	O
@@ -16721,7 +16722,7 @@ de	O
 quatro	O
 anos	O
 até	O
-1992	O
+1992	TEMPO
 .	O
 Com	O
 a	O
@@ -16740,7 +16741,7 @@ Aldo	PESSOA
 Tinôco	PESSOA
 .	O
 Em	O
-1994	O
+1994	TEMPO
 ,	O
 perde	O
 a	O
@@ -16749,7 +16750,7 @@ para	O
 Governador	O
 .	O
 Em	O
-1996	O
+1996	TEMPO
 ,	O
 já	O
 rompida	O
@@ -16770,14 +16771,14 @@ novamente	O
 .	O
 No	O
 ano	O
-2000	O
+2000	TEMPO
 é	O
 reeleita	O
 .	O
 Em	O
-abril	O
-de	O
-2002	O
+abril	TEMPO
+de	TEMPO
+2002	TEMPO
 ,	O
 renuncia	O
 à	O
@@ -16792,13 +16793,13 @@ estado	O
 sendo	O
 eleita	O
 com	O
-820.541	O
+820.541	VALOR
 votos	O
 ,	O
 correspondentes	O
 a	O
-61,05	O
-%	O
+61,05	VALOR
+%	VALOR
 dos	O
 votos	O
 válidos	O
@@ -16821,27 +16822,27 @@ Janete	PESSOA
 Clair	PESSOA
 assinou	O
 entre	O
-junho	O
-de	O
-70	O
+junho	TEMPO
+de	TEMPO
+70	TEMPO
 e	O
-julho	O
-de	O
-71	O
+julho	TEMPO
+de	TEMPO
+71	TEMPO
 ganhará	O
 nova	O
 versão	O
 na	O
 Globo	O
 em	O
-95	O
+95	TEMPO
 
 O	O
 baiano	O
 Dias	PESSOA
 Gomes	PESSOA
 ,	O
-70	O
+70	VALOR
 ,	O
 está	O
 se	O
@@ -16879,13 +16880,13 @@ com	O
 enorme	O
 sucesso	O
 entre	O
-junho	O
-de	O
-70	O
+junho	TEMPO
+de	TEMPO
+70	TEMPO
 e	O
-julho	O
-de	O
-71	O
+julho	TEMPO
+de	TEMPO
+71	TEMPO
 .	O
 
 
@@ -16898,12 +16899,12 @@ o	O
 remake	O
 ''	O
 em	O
-janeiro	O
-de	O
-95	O
+janeiro	TEMPO
+de	TEMPO
+95	TEMPO
 ,	O
 às	O
-18h	O
+18h	TEMPO
 ,	O
 no	O
 lugar	O
@@ -17063,9 +17064,9 @@ a	O
 partir	O
 do	O
 dia	O
-22	O
-de	O
-setembro	O
+22	TEMPO
+de	TEMPO
+setembro	TEMPO
 ,	O
 a	O
 exposição	O
@@ -17095,7 +17096,7 @@ Rondelli	PESSOA
 .	O
 
 São	O
-49	O
+49	VALOR
 imagens	O
 que	O
 registram	O
@@ -17317,21 +17318,21 @@ milênio	O
 
 Durante	O
 exatos	O
-500	O
-dias	O
+500	VALOR
+dias	VALOR
 -	O
 de	O
-9	O
-de	O
-dezembro	O
-de	O
-1998	O
+9	TEMPO
+de	TEMPO
+dezembro	TEMPO
+de	TEMPO
+1998	TEMPO
 a	O
-22	O
-de	O
-abril	O
-de	O
-2000	O
+22	TEMPO
+de	TEMPO
+abril	TEMPO
+de	TEMPO
+2000	TEMPO
 -	O
 eles	O
 percorreram	O
@@ -17340,15 +17341,15 @@ os	O
 ecossistemas	O
 brasileiros	O
 totalizando	O
-86	O
-mil	O
-quilômetros	O
+86	VALOR
+mil	VALOR
+quilômetros	VALOR
 de	O
 carro	O
 e	O
-20	O
-mil	O
-quilômetros	O
+20	VALOR
+mil	VALOR
+quilômetros	VALOR
 de	O
 barco	O
 ,	O
@@ -17376,12 +17377,12 @@ durante	O
 a	O
 expedição	O
 -	O
-30	O
-mil	O
+30	VALOR
+mil	VALOR
 fotos	O
 e	O
-150	O
-horas	O
+150	VALOR
+horas	VALOR
 de	O
 vídeo	O
 -	O
@@ -17430,7 +17431,7 @@ aventuras	O
 que	O
 colecionam	O
 desde	O
-93	O
+93	TEMPO
 ,	O
 quando	O
 realizaram	O
@@ -17444,8 +17445,8 @@ percorrendo	O
 a	O
 pé	O
 os	O
-300	O
-quilômetros	O
+300	VALOR
+quilômetros	VALOR
 de	O
 praias	O
 entre	O
@@ -17540,11 +17541,11 @@ Giuliana	PESSOA
 São	LOCAL
 Paulo	LOCAL
 ,	O
-13	O
-de	O
-outubro	O
-de	O
-1992	O
+13	TEMPO
+de	TEMPO
+outubro	TEMPO
+de	TEMPO
+1992	TEMPO
 
 Realização	O
 Museu	ORGANIZACAO
@@ -17622,11 +17623,11 @@ província	O
 de	O
 ___________	O
 ,	O
-13	O
-de	O
-janeiro	O
-de	O
-1916	O
+13	TEMPO
+de	TEMPO
+janeiro	TEMPO
+de	TEMPO
+1916	TEMPO
 .	O
 E	O
 ,	O
@@ -17853,7 +17854,7 @@ mesmo	O
 Agora	O
 ,	O
 em	O
-56	O
+56	TEMPO
 ,	O
 infelizmente	O
 ,	O
@@ -17896,10 +17897,10 @@ E	O
 ,	O
 fiquei	O
 até	O
-60	O
+60	TEMPO
 .	O
 Em	O
-60	O
+60	TEMPO
 tive	O
 de	O
 ir	O
@@ -18044,7 +18045,7 @@ muito	O
 fácil	O
 .	O
 Até	O
-1936	O
+1936	TEMPO
 .	O
 E	O
 ,	O
@@ -18135,9 +18136,9 @@ israelitas	O
 Então	O
 ,	O
 até	O
-60	O
+60	TEMPO
 ,	O
-1960	O
+1960	TEMPO
 ,	O
 fiquei	O
 tentando	O
@@ -18522,7 +18523,7 @@ a	O
 O	O
 mês	O
 de	O
-Outubro	O
+Outubro	TEMPO
 é	O
 marcado	O
 pela	O
@@ -18601,7 +18602,9 @@ a	O
 Linha	O
 BPI	O
 Internet	O
-808 289 289	O
+808	O
+289	O
+289	O
 ou	O
 enviar	O
 um	O
@@ -18682,7 +18685,7 @@ tempo	O
 Werner	PESSOA
 Heisenberg	PESSOA
 em	O
-1926	O
+1926	TEMPO
 propôs	O
 substituirmos	O
 o	O
@@ -18719,7 +18722,7 @@ Schrödinger	PESSOA
 
 
 Em	O
-1927	O
+1927	TEMPO
 ,	O
 quando	O
 este	O
@@ -18874,8 +18877,8 @@ Elétrons	O
 Porém	O
 ,	O
 nos	O
-anos	O
-60	O
+anos	TEMPO
+60	TEMPO
 intensas	O
 pesquisas	O
 revelaram	O
@@ -18899,8 +18902,8 @@ Isto	O
 foi	O
 concluido	O
 nos	O
-anos	O
-80	O
+anos	TEMPO
+80	TEMPO
 ,	O
 as	O
 partículas	O
@@ -18932,7 +18935,7 @@ tem	O
 um	O
 spin	O
 de	O
-1/2	O
+1/2	VALOR
 a	O
 suportam	O
 uma	O
@@ -18952,7 +18955,7 @@ outras	O
 particulas	O
 .	O
 Existem	O
-6	O
+6	VALOR
 tipos	O
 de	O
 quarks	O
@@ -19013,7 +19016,7 @@ Hadrons	O
 que	O
 consistem	O
 de	O
-3	O
+3	VALOR
 quarks	O
 
 
@@ -19035,9 +19038,9 @@ as	O
 partículas	O
 com	O
 spin	O
-1/2	O
+1/2	VALOR
 ou	O
-3/2	O
+3/2	VALOR
 .	O
 Exemplos	O
 incluem	O
@@ -19309,11 +19312,11 @@ CARIBE	LOCAL
 
 Nos	O
 dias	O
-26	O
+26	TEMPO
 e	O
-27	O
-de	O
-outubro	O
+27	TEMPO
+de	TEMPO
+outubro	TEMPO
 será	O
 realizado	O
 no	O
@@ -19398,11 +19401,11 @@ em	O
 Paris	LOCAL
 ,	O
 de	O
-13	O
+13	TEMPO
 a	O
-15	O
-de	O
-novembro	O
+15	TEMPO
+de	TEMPO
+novembro	TEMPO
 .	O
 
 Promovido	O
@@ -19429,7 +19432,8 @@ Informacao	O
 )	O
 217.6332	O
 
-(61) 3211798	O
+(61)	O
+3211798	O
 
 
 
@@ -19468,7 +19472,7 @@ Edwards	PESSOA
 ,	O
 que	O
 em	O
-1958	O
+1958	TEMPO
 procurava	O
 um	O
 músico	O
@@ -19492,8 +19496,8 @@ Gunn	O
 O	O
 jovem	O
 (	O
-34	O
-anos	O
+34	VALOR
+anos	VALOR
 )	O
 ,	O
 talentoso	O
@@ -19686,23 +19690,23 @@ Municipal	ORGANIZACAO
 Maria	ORGANIZACAO
 Matos	ORGANIZACAO
 oferecem-lhe	O
-5	O
+5	VALOR
 bilhetes	O
 duplos	O
 para	O
 ,	O
 no	O
 dia	O
-4	O
-de	O
-Maio	O
+4	TEMPO
+de	TEMPO
+Maio	TEMPO
 (	O
-Sábado	O
+Sábado	TEMPO
 )	O
 ,	O
 às	O
-15	O
-horas	O
+15	TEMPO
+horas	TEMPO
 ,	O
 assistir	O
 ao	O
@@ -19938,7 +19942,9 @@ Maria	ORGANIZACAO
 Matos	ORGANIZACAO
 Tel	O
 :	O
-218 438 806	O
+218	O
+438	O
+806	O
 (	O
 reservas	O
 )	O
@@ -19954,13 +19960,13 @@ marcado	O
 por	O
 dúvidas	O
 
-Quinta-feira	O
-,	O
-7	O
-de	O
-janeiro	O
-de	O
-1999	O
+Quinta-feira	TEMPO
+,	TEMPO
+7	TEMPO
+de	TEMPO
+janeiro	TEMPO
+de	TEMPO
+1999	TEMPO
 O	ORGANIZACAO
 Estado	ORGANIZACAO
 de	ORGANIZACAO
@@ -19988,8 +19994,8 @@ matrículas	O
 das	O
 crianças	O
 com	O
-7	O
-anos	O
+7	VALOR
+anos	VALOR
 incompletos	O
 foi	O
 marcado	O
@@ -20084,7 +20090,7 @@ indicou	O
 a	O
 necessidade	O
 de	O
-168	O
+168	VALOR
 salas	O
 emergenciais	O
 ''	O
@@ -20099,7 +20105,7 @@ Vamos	O
 colocar	O
 à	O
 disposição	O
-680	O
+680	VALOR
 salas	O
 ''	O
 ,	O
@@ -20349,7 +20355,7 @@ inscreveram	O
 .	O
 
 Copyright	O
-1999	O
+1999	TEMPO
 -	O
 O	ORGANIZACAO
 Estado	ORGANIZACAO
@@ -20589,8 +20595,8 @@ megalómana	O
 No	O
 início	O
 do	O
-século	O
-XX	O
+século	TEMPO
+XX	TEMPO
 ,	O
 a	O
 situação	O
@@ -21563,7 +21569,7 @@ empréstimo	O
 em	O
 festas	O
 de	O
-Carnaval	O
+Carnaval	TEMPO
 ?	O
 E	O
 Schüssel	PESSOA
@@ -21655,7 +21661,7 @@ pombos	O
 
 Viena	LOCAL
 ,	O
-8/2/2000	O
+8/2/2000	TEMPO
 
 
 Tradução	O
@@ -21744,8 +21750,8 @@ de	O
 alguns	O
 dos	O
 seus	O
-6,5	O
-milhões	O
+6,5	VALOR
+milhões	VALOR
 de	O
 titulares	O
 de	O
@@ -21774,9 +21780,9 @@ escrupulosas	O
 .	O
 
 Em	O
-Janeiro	O
-de	O
-1994	O
+Janeiro	TEMPO
+de	TEMPO
+1994	TEMPO
 ,	O
 noticiava-se	O
 a	O
@@ -21877,7 +21883,7 @@ quase	O
 disco	O
 de	O
 prata	O
--LSB-	O
+[	O
 faltam	O
 seis	O
 mil	O
@@ -21888,7 +21894,7 @@ editora	O
 ,	O
 a	O
 BMG	ORGANIZACAO
--RSB-	O
+]	O
 !	O
 
 Comprar	O
@@ -22098,10 +22104,10 @@ banco	O
 de	O
 dados	O
 com	O
-mais	O
-de	O
-37	O
-milhões	O
+mais	VALOR
+de	VALOR
+37	VALOR
+milhões	VALOR
 de	O
 emails	O
 ,	O
@@ -22128,10 +22134,10 @@ sua	O
 publicidade	O
 
 São	O
-mais	O
-de	O
-37	O
-milhões	O
+mais	VALOR
+de	VALOR
+37	VALOR
+milhões	VALOR
 de	O
 endereços	O
 esperando	O
@@ -22142,8 +22148,8 @@ mensagem	O
 .	O
 
 Garantimos	O
-80	O
-%	O
+80	VALOR
+%	VALOR
 de	O
 recebimento	O
 dos	O
@@ -23188,10 +23194,10 @@ aqui	O
 ,	O
 cheguei	O
 em	O
-abril	O
+abril	TEMPO
 ,	O
 em	O
-maio	O
+maio	TEMPO
 já	O
 estava	O
 na	O
@@ -23202,7 +23208,7 @@ ITT	ORGANIZACAO
 e	O
 fiquei	O
 até	O
-84	O
+84	TEMPO
 .	O
 Tive	O
 oportunidade	O
@@ -23416,7 +23422,7 @@ fez	O
 em	O
 meados	O
 de	O
-93	O
+93	TEMPO
 para	O
 o	O
 ``	O
@@ -23475,8 +23481,8 @@ há	O
 liquidez	O
 diária	O
 após	O
-30	O
-dias	O
+30	VALOR
+dias	VALOR
 .	O
 
 
@@ -23599,7 +23605,7 @@ Tiracol	ORGANIZACAO
 Fort	ORGANIZACAO
 Heritage	ORGANIZACAO
 com	O
-10	O
+10	VALOR
 quartos	O
 e	O
 um	O
@@ -23657,11 +23663,11 @@ conquistada	O
 pelos	O
 portugueses	O
 em	O
-23	O
-de	O
-Novembro	O
-de	O
-1746	O
+23	TEMPO
+de	TEMPO
+Novembro	TEMPO
+de	TEMPO
+1746	TEMPO
 ,	O
 pelo	O
 vice-rei	O
@@ -23688,8 +23694,8 @@ uma	O
 capela	O
 que	O
 no	O
-século	O
-XIX	O
+século	TEMPO
+XIX	TEMPO
 foi	O
 elevada	O
 a	O
@@ -23702,7 +23708,7 @@ António	PESSOA
 .	O
 
 Em	O
-1835	O
+1835	TEMPO
 ,	O
 pouco	O
 depois	O
@@ -23767,11 +23773,11 @@ assassinados	O
 .	O
 
 Em	O
-17	O
-de	O
-Fevereiro	O
-de	O
-1819	O
+17	TEMPO
+de	TEMPO
+Fevereiro	TEMPO
+de	TEMPO
+1819	TEMPO
 o	O
 tratado	O
 assinado	O
@@ -23799,8 +23805,8 @@ Já	O
 nos	O
 finais	O
 dos	O
-anos	O
-50	O
+anos	TEMPO
+50	TEMPO
 o	O
 forte	O
 voltou	O
@@ -23869,7 +23875,7 @@ Neves	PESSOA
 Rui	PESSOA
 Lopes	PESSOA
 (	O
-2	O
+2	VALOR
 )	O
 ,	O
 Paulo	PESSOA
@@ -23878,7 +23884,7 @@ e	O
 António	PESSOA
 Ramalho	PESSOA
 (	O
-2	O
+2	VALOR
 )	O
 .	O
 
@@ -23914,7 +23920,7 @@ quanto	O
 aos	O
 resultados	O
 de	O
-1997	O
+1997	TEMPO
 .	O
 
 Para	O
@@ -24020,16 +24026,16 @@ bancário	O
 encerrou	O
 a	O
 ganhar	O
-3,41	O
-por	O
-cento	O
+3,41	VALOR
+por	VALOR
+cento	VALOR
 .	O
 
 Movimentaram-se	O
-cerca	O
-de	O
-285	O
-mil	O
+cerca	VALOR
+de	VALOR
+285	VALOR
+mil	VALOR
 títulos	O
 ,	O
 com	O
@@ -24040,8 +24046,8 @@ fecho	O
 a	O
 situar-se	O
 nos	O
-4359	O
-escudos	O
+4359	VALOR
+escudos	VALOR
 .	O
 
 ``	O
@@ -24248,9 +24254,9 @@ vigília	O
 do	O
 passado	O
 dia	O
-22	O
-de	O
-Junho	O
+22	TEMPO
+de	TEMPO
+Junho	TEMPO
 ,	O
 frente	O
 ao	O
@@ -24469,7 +24475,7 @@ do	O
 próximo	O
 mês	O
 de	O
-Maio	O
+Maio	TEMPO
 que	O
 vai	O
 proceder	O
@@ -25617,8 +25623,8 @@ via	O
 Como	O
 sabem	O
 ,	O
-50	O
-%	O
+50	VALOR
+%	VALOR
 dos	O
 projectos	O
 centralizados	O
@@ -25652,28 +25658,28 @@ Lumière	ORGANIZACAO
 |	O
 Hospedagem	O
 |	O
-4	O
+4	VALOR
 estrelas	O
 |	O
 Terrass	ORGANIZACAO
 Hotel	ORGANIZACAO
 
-26ºC	O
+26ºC	VALOR
 Météo	O
 France	LOCAL
 Brasília	LOCAL
 Paris	LOCAL
 -	O
-4	O
+4	VALOR
 estrelas	O
 -	O
-3	O
+3	VALOR
 estrelas	O
 -	O
-2	O
+2	VALOR
 estrelas	O
 -	O
-1	O
+1	VALOR
 estrela	O
 -	O
 Apart	O
@@ -25830,14 +25836,14 @@ França	O
 ''	O
 .	O
 
-88	O
+88	VALOR
 quartos	O
 com	O
 banheiro	O
 privativo	O
-13	O
+13	VALOR
 suítes	O
-7	O
+7	VALOR
 andares	O
 com	O
 elevador	O
@@ -25852,7 +25858,7 @@ ao	O
 vivo	O
 .	O
 
-8	O
+8	VALOR
 salas	O
 equipadas	O
 para	O
@@ -26027,62 +26033,62 @@ diretas	O
 Preços	O
 QUARTOS	O
 Simples	O
-1	O
+1	VALOR
 pessoa	O
-1110	O
-FF	O
+1110	VALOR
+FF	VALOR
 Simples	O
-2	O
+2	VALOR
 pessoas	O
-1320	O
-FF	O
+1320	VALOR
+FF	VALOR
 Superior	O
-1	O
+1	VALOR
 pessoa	O
-1320	O
-FF	O
+1320	VALOR
+FF	VALOR
 Superior	O
-2	O
+2	VALOR
 pessoas	O
-1540	O
-FF	O
+1540	VALOR
+FF	VALOR
 Triplo	O
 -	O
 Suíte	O
 Júnior	O
 
-1860	O
-FF	O
+1860	VALOR
+FF	VALOR
 Café	O
 da	O
 manhã	O
 -	O
-75	O
-FF	O
+75	VALOR
+FF	VALOR
 QUARTOS	O
 -	O
 Promoção	O
 Internautas	O
 Simples	O
-1	O
+1	VALOR
 ou	O
-2	O
+2	VALOR
 pessoas	O
-880	O
-FF	O
+880	VALOR
+FF	VALOR
 Superior	O
-1	O
+1	VALOR
 ou	O
-2	O
+2	VALOR
 pessoas	O
-1040	O
-FF	O
+1040	VALOR
+FF	VALOR
 Triplo	O
 -	O
 Suíte	O
 Júnior	O
-1400	O
-FF	O
+1400	VALOR
+FF	VALOR
 Café	O
 da	O
 manhã	O
@@ -26109,29 +26115,29 @@ Valores	O
 atuais	O
 Franco	O
 Francês	O
-1	O
-Real	O
+1	VALOR
+Real	VALOR
 =	O
-3.8466	O
-Francos	O
-1	O
-Franco	O
+3.8466	VALOR
+Francos	VALOR
+1	VALOR
+Franco	VALOR
 =	O
-0.2600	O
-Reais	O
+0.2600	VALOR
+Reais	VALOR
 Euro	O
 -	O
 CEE	LOCAL
-1	O
-Real	O
+1	VALOR
+Real	VALOR
 =	O
-0.5864	O
-Euros	O
-1	O
-Euro	O
+0.5864	VALOR
+Euros	VALOR
+1	VALOR
+Euro	VALOR
 =	O
-1,7053	O
-Reais	O
+1,7053	VALOR
+Reais	VALOR
 Serviços	O
 Elevador	O
 Estacionamento	O
@@ -26208,9 +26214,9 @@ completa	O
 de	O
 empilhadores	O
 com	O
-mais	O
-de	O
-70	O
+mais	VALOR
+de	VALOR
+70	VALOR
 modelos	O
 ,	O
 de	O
@@ -26250,12 +26256,12 @@ nível	O
 mundial	O
 ,	O
 com	O
-mais	O
-de	O
-27	O
-milhões	O
-de	O
-contos	O
+mais	VALOR
+de	VALOR
+27	VALOR
+milhões	VALOR
+de	VALOR
+contos	VALOR
 aplicados	O
 ,	O
 por	O
@@ -26266,16 +26272,16 @@ na	O
 de	O
 I&D	O
 .	O
-Mais	O
-de	O
-120	O
+Mais	VALOR
+de	VALOR
+120	VALOR
 pessoas	O
 ,	O
 das	O
 quais	O
-mais	O
-de	O
-70	O
+mais	VALOR
+de	VALOR
+70	VALOR
 técnicos	O
 ,	O
 dedicadas	O
@@ -26289,9 +26295,9 @@ cliente	O
 Uma	O
 frota	O
 de	O
-mais	O
-de	O
-30	O
+mais	VALOR
+de	VALOR
+30	VALOR
 ``	O
 carros	O
 oficina	O
@@ -26333,17 +26339,17 @@ de	O
 preparação	O
 para	O
 as	O
-cerca	O
-de	O
-400	O
+cerca	VALOR
+de	VALOR
+400	VALOR
 máquinas	O
 vendidas	O
 por	O
 ano	O
 .	O
 
-8500	O
-m2	O
+8500	VALOR
+m2	VALOR
 de	O
 área	O
 coberta	O
@@ -26358,9 +26364,9 @@ Loures	LOCAL
 e	O
 Benavente	LOCAL
 .	O
-Mais	O
-de	O
-30	O
+Mais	VALOR
+de	VALOR
+30	VALOR
 concessionários	O
 em	O
 todo	O
@@ -26372,21 +26378,21 @@ total	O
 cobertura	O
 nacional	O
 .	O
-36.000	O
+36.000	VALOR
 referências	O
 geradas	O
 de	O
 peças	O
 .	O
-Mais	O
-de	O
-8000	O
+Mais	VALOR
+de	VALOR
+8000	VALOR
 máquinas	O
 vendidas	O
 e	O
-mais	O
-de	O
-2000	O
+mais	VALOR
+de	VALOR
+2000	VALOR
 clientes	O
 activos	O
 .	O
@@ -26429,11 +26435,11 @@ Serviços	ORGANIZACAO
 Resolução	O
 mínima	O
 
-800x600	O
+800x600	VALOR
 Última	O
 actualização	O
 
-25/02/2000	O
+25/02/2000	TEMPO
 
 
 
@@ -26536,8 +26542,8 @@ já	O
 tinha	O
 dado	O
 os	O
-1095	O
-contos	O
+1095	VALOR
+contos	VALOR
 a	O
 Deolinda	PESSOA
 e	O
@@ -26642,13 +26648,13 @@ Judiciária	ORGANIZACAO
 
 APREENSÃO	O
 DE	O
-50	O
-MIL	O
+50	VALOR
+MIL	VALOR
 COMPRIMIDOS	O
 DE	O
 DROGAS	O
 SINTÉTICAS	O
-2002/06/21	O
+2002/06/21	TEMPO
 
 A	O
 Polícia	ORGANIZACAO
@@ -26717,7 +26723,7 @@ meados	O
 do	O
 ano	O
 de	O
-2001	O
+2001	TEMPO
 ,	O
 visando	O
 uma	O
@@ -26762,9 +26768,9 @@ droga	O
 era	O
 constituída	O
 por	O
-cerca	O
-de	O
-50.000	O
+cerca	VALOR
+de	VALOR
+50.000	VALOR
 comprimidos	O
 ,	O
 contendo	O
@@ -26862,10 +26868,10 @@ profissão	O
 com	O
 idades	O
 de	O
-24	O
+24	VALOR
 e	O
-25	O
-anos	O
+25	VALOR
+anos	VALOR
 e	O
 um	O
 deles	O
@@ -26903,16 +26909,16 @@ está	O
 pendente	O
 .	O
 
-21	O
-de	O
-Junho	O
-de	O
-2002	O
+21	TEMPO
+de	TEMPO
+Junho	TEMPO
+de	TEMPO
+2002	TEMPO
 
 
 
 CAPÍTULO	O
-VI	O
+VI	VALOR
 /	O
 TIO	PESSOA
 COSME	PESSOA
@@ -27584,8 +27590,8 @@ DVD	O
 Pânico	O
 2	O
 PRÉ-VENDA	O
-R$	O
-35,90	O
+R$	VALOR
+35,90	VALOR
 MIB	O
 Homens	O
 de	O
@@ -27594,15 +27600,15 @@ Preto	O
 
 Grátis	O
 Camiseta	O
-R$	O
-37,90	O
+R$	VALOR
+37,90	VALOR
 DVD	O
 O	O
 Exterminador	O
 do	O
 Futuro	O
-R$	O
-29,90	O
+R$	VALOR
+29,90	VALOR
 DVD	O
 News	O
 Jimi	O
@@ -27750,8 +27756,8 @@ Jimi	O
 Hendrix	O
 .	O
 
-Trinta	O
-anos	O
+Trinta	VALOR
+anos	VALOR
 depois	O
 da	O
 sua	O
@@ -27943,9 +27949,9 @@ surpresas	O
 DVDs	O
 para	O
 o	O
-Dia	O
-das	O
-Mães	O
+Dia	TEMPO
+das	TEMPO
+Mães	TEMPO
 Marina	PESSOA
 Person	PESSOA
 é	O
@@ -28021,13 +28027,13 @@ Riocine	O
 .	O
 
 topo	O
--LSB-	O
+[	O
 redação	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 fale	O
 com	O
--RSB-	O
+]	O
 
 
 
@@ -28041,7 +28047,7 @@ em	O
 Angola	LOCAL
 ,	O
 até	O
-1881	O
+1881	TEMPO
 ,	O
 antecedendo	O
 ,	O
@@ -28054,7 +28060,7 @@ noveleta	O
 Nga	O
 mutúri	O
 (	O
-1882	O
+1882	TEMPO
 )	O
 ,	O
 de	O
@@ -28251,12 +28257,12 @@ espraia	O
 pelas	O
 décadas	O
 de	O
-80	O
+80	TEMPO
 e	O
-90	O
+90	TEMPO
 do	O
-século	O
-XIX	O
+século	TEMPO
+XIX	TEMPO
 ,	O
 tanto	O
 em	O
@@ -28390,9 +28396,9 @@ africano	O
 até	O
 depois	O
 da	O
-Primeira	O
-Guerra	O
-Mundial	O
+Primeira	TEMPO
+Guerra	TEMPO
+Mundial	TEMPO
 ,	O
 esta	O
 fase	O
@@ -28401,7 +28407,7 @@ que	O
 vai	O
 sensivelmente	O
 até	O
-1900	O
+1900	TEMPO
 ,	O
 é	O
 co-natural	O
@@ -28569,11 +28575,11 @@ Africano	O
 No	O
 início	O
 do	O
-século	O
-XX	O
+século	TEMPO
+XX	TEMPO
 ,	O
 em	O
-1901	O
+1901	TEMPO
 ,	O
 em	O
 Angola	LOCAL
@@ -28609,7 +28615,7 @@ clamando	O
 no	O
 deserto	O
 (	O
-1901	O
+1901	TEMPO
 )	O
 ,	O
 abriu	O
@@ -28666,7 +28672,7 @@ de	O
 Regionalismo	O
 Africano	O
 (	O
-1901-194l	O
+1901-194l	TEMPO
 )	O
 ,	O
 seja	O
@@ -29151,20 +29157,20 @@ Gerais	O
 
 Data	O
 :	O
-01	O
-de	O
-setembro	O
-de	O
-2003	O
+01	TEMPO
+de	TEMPO
+setembro	TEMPO
+de	TEMPO
+2003	TEMPO
 
 
 
 Horário	O
 :	O
 das	O
-13h30	O
+13h30	TEMPO
 às	O
-17h30	O
+17h30	TEMPO
 
 
 
@@ -29351,9 +29357,9 @@ proposta	O
 
 No	O
 dia	O
-1º	O
-de	O
-março	O
+1º	TEMPO
+de	TEMPO
+março	TEMPO
 ,	O
 a	O
 fundação	O
@@ -29855,7 +29861,7 @@ o	O
 primeiro	O
 Flaubert	O
 em	O
-1941	O
+1941	TEMPO
 ,	O
 juntamente	O
 com	O
@@ -29939,15 +29945,15 @@ em	O
 condições	O
 ,	O
 com	O
-93	O
-por	O
-cento	O
+93	VALOR
+por	VALOR
+cento	VALOR
 de	O
 cobre	O
 e	O
-7	O
-por	O
-cento	O
+7	VALOR
+por	VALOR
+cento	VALOR
 de	O
 estanho	O
 :	O
@@ -30276,9 +30282,9 @@ assinatura	O
 a	O
 estátua	O
 com	O
-93	O
-por	O
-cento	O
+93	VALOR
+por	VALOR
+cento	VALOR
 de	O
 cobre	O
 e	O
@@ -30885,9 +30891,9 @@ encontra-se	O
 já	O
 agendada	O
 para	O
-Maio	O
-de	O
-2002	O
+Maio	TEMPO
+de	TEMPO
+2002	TEMPO
 e	O
 em	O
 fase	O
@@ -30956,9 +30962,9 @@ programa	O
 se	O
 encontra	O
 no	O
-3	O
-.	O
-º	O
+3	VALOR
+.	VALOR
+º	VALOR
 boletim	O
 ,	O
 disponível	O
@@ -30971,13 +30977,13 @@ ISEG	ORGANIZACAO
 no	O
 próximo	O
 dia	O
-9	O
-de	O
-Dezembro	O
+9	TEMPO
+de	TEMPO
+Dezembro	TEMPO
 ,	O
 às	O
-14	O
-horas	O
+14	TEMPO
+horas	TEMPO
 ,	O
 no	O
 Auditório	LOCAL
@@ -31274,25 +31280,25 @@ Ronald	PESSOA
 Wilson	PESSOA
 Reagan	PESSOA
 (	O
-6	O
-de	O
-Fevereiro	O
-,	O
-1911	O
+6	TEMPO
+de	TEMPO
+Fevereiro	TEMPO
+,	TEMPO
+1911	TEMPO
 -	O
-5	O
-de	O
-Junho	O
-,	O
-2004	O
+5	TEMPO
+de	TEMPO
+Junho	TEMPO
+,	TEMPO
+2004	TEMPO
 )	O
 foi	O
 o	O
-40	O
-.	O
-º	O
+40	VALOR
+.	VALOR
+º	VALOR
 (	O
-1981-1989	O
+1981-1989	TEMPO
 )	O
 Presidente	O
 dos	O
@@ -31302,9 +31308,9 @@ da	O
 América	O
 e	O
 o	O
-33	O
-.	O
-º	O
+33	VALOR
+.	VALOR
+º	VALOR
 Governador	O
 da	O
 Califórnia	O
@@ -31345,11 +31351,11 @@ teve	O
 maior	O
 longevidade	O
 (	O
-93	O
-anos	O
-,	O
-119	O
-dias	O
+93	VALOR
+anos	VALOR
+,	VALOR
+119	VALOR
+dias	VALOR
 )	O
 e	O
 o	O
@@ -31361,11 +31367,11 @@ idade	O
 mais	O
 avançada	O
 (	O
-69	O
-anos	O
-,	O
-349	O
-dias	O
+69	VALOR
+anos	VALOR
+,	VALOR
+349	VALOR
+dias	VALOR
 )	O
 .	O
 
@@ -31396,7 +31402,7 @@ Nelle	PESSOA
 Wilson	PESSOA
 .	O
 Em	O
-1920	O
+1920	TEMPO
 ,	O
 depois	O
 de	O
@@ -31420,11 +31426,11 @@ em	O
 Illinois	LOCAL
 .	O
 Em	O
-1921	O
+1921	TEMPO
 ,	O
 com	O
-11	O
-anos	O
+11	VALOR
+anos	VALOR
 de	O
 idade	O
 ,	O
@@ -31447,7 +31453,7 @@ Dixon	LOCAL
 ,	O
 e	O
 em	O
-1924	O
+1924	TEMPO
 ele	O
 começou	O
 a	O
@@ -31462,11 +31468,11 @@ School	ORGANIZACAO
 
 
 Em	O
-1926	O
+1926	TEMPO
 ,	O
 com	O
-15	O
-anos	O
+15	VALOR
+anos	VALOR
 de	O
 idade	O
 ,	O
@@ -31483,8 +31489,8 @@ Lowell	LOCAL
 Park	LOCAL
 ,	O
 a	O
-3	O
-Km	O
+3	VALOR
+Km	VALOR
 de	O
 Dixon	PESSOA
 na	O
@@ -31503,13 +31509,13 @@ em	O
 Rock	LOCAL
 River	LOCAL
 pelos	O
-7	O
-anos	O
+7	VALOR
+anos	VALOR
 seguintes	O
 ,	O
 tendo	O
 salvo	O
-77	O
+77	VALOR
 pessoas	O
 de	O
 afogamento	O
@@ -31523,11 +31529,11 @@ Povo	ORGANIZACAO
 Online	ORGANIZACAO
 -	O
 Especiais	O
-27-09-2000	O
+27-09-2000	TEMPO
 
 Edição	O
 de	O
-15/09/2000	O
+15/09/2000	TEMPO
 Olimpíadas	O
 Uma	O
 disputa	O
@@ -31547,7 +31553,7 @@ consulta	O
 nesse	O
 período	O
 de	O
-Olimpíada	O
+Olimpíada	TEMPO
 .	O
 
 Com	O
@@ -31647,9 +31653,9 @@ os	O
 sites	O
 nacionais	O
 existem	O
-mais	O
-de	O
-50	O
+mais	VALOR
+de	VALOR
+50	VALOR
 opções	O
 de	O
 páginas	O
@@ -31740,9 +31746,9 @@ Olimpíadas	O
 desde	O
 o	O
 dia	O
-9	O
-de	O
-setembro	O
+9	TEMPO
+de	TEMPO
+setembro	TEMPO
 até	O
 a	O
 data	O
@@ -31854,7 +31860,7 @@ de	O
 Berlim	O
 ,	O
 em	O
-1936	O
+1936	TEMPO
 .	O
 
 O	O
@@ -31869,7 +31875,7 @@ pleno	O
 período	O
 nazista	O
 de	O
-Hitler	O
+Hitler	TEMPO
 ,	O
 sem	O
 esquecer	O
@@ -31989,7 +31995,7 @@ TECNOLOGIAS	ORGANIZACAO
 Última	O
 atualização	O
 em	O
-27-09-2000	O
+27-09-2000	TEMPO
 0.40.22	O
 
 
@@ -32020,14 +32026,14 @@ Chicago	O
 Bulls	O
 ,	O
 por	O
-96-91	O
+96-91	VALOR
 ,	O
 passando	O
 a	O
 liderar	O
 ,	O
 por	O
-2-0	O
+2-0	VALOR
 ,	O
 a	O
 final	O
@@ -32451,7 +32457,7 @@ Pastori	PESSOA
 
 Entrevista	O
 número	O
-36	O
+36	VALOR
 
 
 
@@ -32470,7 +32476,7 @@ trabalho	O
 no	O
 BNDES	ORGANIZACAO
 desde	O
-1986	O
+1986	TEMPO
 ,	O
 na	O
 que	O
@@ -32481,12 +32487,12 @@ de	O
 análise	O
 de	O
 projetos	O
--LSB-	O
+[	O
 Área	ORGANIZACAO
 de	ORGANIZACAO
 Operações	ORGANIZACAO
 Industrias	ORGANIZACAO
--RSB-	O
+]	O
 .	O
 Eu	O
 sou	O
@@ -32496,20 +32502,20 @@ Petrópolis	LOCAL
 ,	O
 nasci	O
 em	O
-1953	O
+1953	TEMPO
 ,	O
 portanto	O
 estou	O
 com	O
-49	O
-anos	O
+49	VALOR
+anos	VALOR
 ,	O
 sendo	O
 que	O
 eu	O
 tenho	O
-16	O
-anos	O
+16	VALOR
+anos	VALOR
 de	O
 Banco	ORGANIZACAO
 .	O
@@ -32590,12 +32596,12 @@ Fiz	O
 concurso	O
 público	O
 em	O
-1984	O
+1984	TEMPO
 ,	O
 fui	O
 admitido	O
 em	O
-1986	O
+1986	TEMPO
 .	O
 
 
@@ -33091,8 +33097,8 @@ que	O
 eu	O
 trabalhei	O
 durante	O
-16	O
-anos	O
+16	VALOR
+anos	VALOR
 ,	O
 que	O
 foi	O
@@ -33285,8 +33291,8 @@ barco	O
 de	O
 metal	O
 de	O
-10	O
-metros	O
+10	VALOR
+metros	VALOR
 de	O
 comprimento	O
 ,	O
@@ -33557,8 +33563,8 @@ ou	O
 menos	O
 ,	O
 uns	O
-900	O
-metros	O
+900	VALOR
+metros	VALOR
 de	O
 largura	O
 .	O
@@ -33803,9 +33809,9 @@ empresa	O
 Isso	O
 foi	O
 em	O
-julho	O
-de	O
-1988	O
+julho	TEMPO
+de	TEMPO
+1988	TEMPO
 .	O
 
 
@@ -33925,7 +33931,7 @@ nº	LOCAL
 .	LOCAL
 302	LOCAL
 de	O
-30-12-99	O
+30-12-99	TEMPO
 ,	O
 aprovou	O
 a	O
@@ -33950,37 +33956,37 @@ R.T.P.	ORGANIZACAO
 -	ORGANIZACAO
 Radiotelevisão	ORGANIZACAO
 Portuguesa	ORGANIZACAO
-20.800	O
+20.800	VALOR
 CARRIS	ORGANIZACAO
-2.416	O
+2.416	VALOR
 STCP	ORGANIZACAO
-1.000	O
+1.000	VALOR
 CP	ORGANIZACAO
-1.750	O
+1.750	VALOR
 Metropolitano	ORGANIZACAO
 de	ORGANIZACAO
 Lisboa	ORGANIZACAO
-1.000	O
+1.000	VALOR
 REFER	ORGANIZACAO
 -	ORGANIZACAO
 Rede	ORGANIZACAO
 Ferroviária	ORGANIZACAO
-1.750	O
+1.750	VALOR
 ATA	ORGANIZACAO
 -	ORGANIZACAO
 Aerocondor	ORGANIZACAO
 Transportes	ORGANIZACAO
 Aéreos	ORGANIZACAO
-170	O
+170	VALOR
 SATA	ORGANIZACAO
-450	O
+450	VALOR
 SOFLUSA	ORGANIZACAO
-250	O
+250	VALOR
 TRANSTEJO	ORGANIZACAO
-350	O
+350	VALOR
 
 TOTAL	O
-29.936	O
+29.936	VALOR
 
 O	O
 leitor	O
@@ -34138,8 +34144,8 @@ marketing	O
 mantendo	O
 seu	O
 IP	O
-100	O
-%	O
+100	VALOR
+%	VALOR
 anônimo	O
 .	O
 
@@ -34247,7 +34253,7 @@ baseado	O
 no	O
 dicionário	O
 dos	O
-400.000	O
+400.000	VALOR
 usernames	O
 mais	O
 usados	O
@@ -34819,7 +34825,7 @@ suíço	O
 recusou	O
 ,	O
 em	O
-92	O
+92	TEMPO
 ,	O
 a	O
 adesão	O
@@ -34948,11 +34954,11 @@ Barbosa	PESSOA
 
 Araraquara	LOCAL
 ,	O
-16	O
-de	O
-setembro	O
-de	O
-1999	O
+16	TEMPO
+de	TEMPO
+setembro	TEMPO
+de	TEMPO
+1999	TEMPO
 
 
 Realização	O
@@ -34966,7 +34972,7 @@ Número	O
 da	O
 entrevista	O
 :	O
-007	O
+007	VALOR
 
 Transcrito	O
 por	O
@@ -35018,11 +35024,11 @@ Riso	O
 Eu	O
 nasci	O
 dia	O
-25	O
-de	O
-junho	O
-de	O
-1917	O
+25	TEMPO
+de	TEMPO
+junho	TEMPO
+de	TEMPO
+1917	TEMPO
 ,	O
 em	O
 Araraquara	LOCAL
@@ -35778,10 +35784,10 @@ Industrial	ORGANIZACAO
 (	O
 IDI	ORGANIZACAO
 )	O
-1968	O
+1968	TEMPO
 :	O
 :	O
-1986	O
+1986	TEMPO
 (	O
 ?	O
 
@@ -35862,11 +35868,11 @@ de	O
 Janeiro	O
 ''	O
 em	O
-1968	O
+1968	TEMPO
 ,	O
-1970	O
+1970	TEMPO
 e	O
-1972	O
+1972	TEMPO
 .	O
 
 A	O
@@ -36074,8 +36080,8 @@ desativado	O
 no	O
 fim	O
 dos	O
-anos	O
-80	O
+anos	TEMPO
+80	TEMPO
 ,	O
 quando	O
 o	O
@@ -36106,9 +36112,9 @@ Autor	O
 Tiago	PESSOA
 Teixeira	PESSOA
 Data	O
-agosto	O
-de	O
-1999	O
+agosto	TEMPO
+de	TEMPO
+1999	TEMPO
 Se	O
 você	O
 possui	O
@@ -36491,7 +36497,7 @@ Pais	O
 está	O
 entre	O
 as	O
-55	O
+55	VALOR
 nacoes	O
 que	O
 tem	O
@@ -36515,7 +36521,7 @@ Brasil	LOCAL
 está	O
 entre	O
 os	O
-55	O
+55	VALOR
 paises	O
 do	O
 mundo	O
@@ -36549,7 +36555,7 @@ Index	O
 ISS	O
 )	O
 de	O
-99	O
+99	TEMPO
 ,	O
 produzido	O
 há	O
@@ -36632,7 +36638,7 @@ anteriores	O
 tambem	O
 classifica	O
 os	O
-55	O
+55	VALOR
 paises	O
 com	O
 melhores	O
@@ -36694,7 +36700,7 @@ está	O
 na	O
 posicao	O
 numero	O
-41	O
+41	VALOR
 ,	O
 muito	O
 depois	O
@@ -37020,11 +37026,11 @@ social	O
 porcentual	O
 da	O
 populacao	O
-entre	O
-10	O
-e	O
-16	O
-anos	O
+entre	VALOR
+10	VALOR
+e	VALOR
+16	VALOR
+anos	VALOR
 que	O
 está	O
 efetivamente	O
@@ -37092,8 +37098,8 @@ mostraram	O
 um	O
 crescimento	O
 de	O
-166	O
-%	O
+166	VALOR
+%	VALOR
 da	O
 infra-estrutura	O
 de	O
@@ -37102,8 +37108,8 @@ Internet	O
 diante	O
 de	O
 apenas	O
-4	O
-%	O
+4	VALOR
+%	VALOR
 dos	O
 outros	O
 conjuntos	O
@@ -37124,7 +37130,7 @@ que	O
 se	O
 referem	O
 a	O
-97	O
+97	TEMPO
 foi	O
 obtida	O
 na	O
@@ -37328,8 +37334,8 @@ os	O
 EUA	LOCAL
 tem	O
 apenas	O
-4	O
-%	O
+4	VALOR
+%	VALOR
 de	O
 vantagem	O
 sobre	O
@@ -37344,14 +37350,14 @@ surpresa	O
 do	O
 relatorio	O
 de	O
-99	O
+99	TEMPO
 ,	O
 quando	O
 comparado	O
 com	O
 o	O
 de	O
-98	O
+98	TEMPO
 ,	O
 foi	O
 Cingapura	LOCAL
@@ -37359,7 +37365,7 @@ Cingapura	LOCAL
 que	O
 saltou	O
 do	O
-11º	O
+11º	VALOR
 para	O
 o	O
 quarto	O
@@ -37379,8 +37385,8 @@ sua	O
 vez	O
 ,	O
 cresceu	O
-7	O
-%	O
+7	VALOR
+%	VALOR
 ,	O
 mas	O
 caiu	O
@@ -37443,20 +37449,20 @@ social	O
 a	O
 coloca	O
 em	O
-34º	O
+34º	VALOR
 ;	O
 EUA	LOCAL
 ,	O
 em	O
-14º	O
+14º	VALOR
 ;	O
 e	O
 Canadá	LOCAL
 ,	O
 em	O
-11	O
-.	O
-º	O
+11	VALOR
+.	VALOR
+º	VALOR
 .	O
 
 (	O
@@ -37465,7 +37471,7 @@ Estado	ORGANIZACAO
 de	ORGANIZACAO
 SP	ORGANIZACAO
 ,	O
-13/12	O
+13/12	TEMPO
 )	O
 
 ==	O
@@ -37481,11 +37487,11 @@ UM	O
 
 UM	O
 FELIZ	O
-NATAL	O
+NATAL	TEMPO
 E	O
 UM	O
 OTIMO	O
-1999	O
+1999	TEMPO
 
 Lista	O
 de	O
@@ -37640,7 +37646,7 @@ funções	O
 desintoxicantes	O
 .	O
 Tomar	O
-3	O
+3	VALOR
 pastilhas	O
 por	O
 dia	O
@@ -37813,7 +37819,7 @@ assistiam	O
 impotentes	O
 ,	O
 em	O
-1992	O
+1992	TEMPO
 ,	O
 o	O
 País	ORGANIZACAO
@@ -37901,7 +37907,7 @@ de	O
 sangue	O
 realizadas	O
 em	O
-1986	O
+1986	TEMPO
 por	O
 onde	O
 passava	O
@@ -37937,7 +37943,7 @@ aparente	O
 do	O
 Brasil	LOCAL
 a	O
-8ª	O
+8ª	VALOR
 economia	O
 mundial	O
 ,	O
@@ -37958,7 +37964,7 @@ Terra	LOCAL
 .	O
 
 Em	O
-1992	O
+1992	TEMPO
 Betinho	PESSOA
 de	PESSOA
 Souza	PESSOA
@@ -38004,16 +38010,16 @@ quando	O
 o	O
 sociólogo	O
 mobilizou	O
-70	O
-%	O
+70	VALOR
+%	VALOR
 da	O
 população	O
 brasileira	O
 para	O
 salvar	O
 os	O
-30	O
-%	O
+30	VALOR
+%	VALOR
 de	O
 outros	O
 brasileiros	O
@@ -38069,20 +38075,20 @@ Betinho	PESSOA
 morreu	O
 no	O
 dia	O
-9	O
-de	O
-agosto	O
-de	O
-1995	O
+9	TEMPO
+de	TEMPO
+agosto	TEMPO
+de	TEMPO
+1995	TEMPO
 ,	O
 aos	O
-60	O
-anos	O
+60	VALOR
+anos	VALOR
 ,	O
 pesando	O
 apenas	O
-39	O
-quilos	O
+39	VALOR
+quilos	VALOR
 ,	O
 mas	O
 como	O
@@ -38336,7 +38342,7 @@ encontram-se	O
 vários	O
 Hóteis	ORGANIZACAO
 de	O
-5	O
+5	VALOR
 estrelas	O
 ,	O
 como	O
@@ -38424,7 +38430,7 @@ Começada	O
 a	O
 construção	O
 em	O
-1604	O
+1604	TEMPO
 ,	O
 foi	O
 finalizada	O
@@ -38432,7 +38438,7 @@ a	O
 parte	O
 principal	O
 em	O
-1812	O
+1812	TEMPO
 ,	O
 data	O
 que	O
@@ -38468,9 +38474,9 @@ FORTALEZA	O
 DO	O
 DINHEIRO	O
 DE	O
-UM	O
-POR	O
-CENTO	O
+UM	VALOR
+POR	VALOR
+CENTO	VALOR
 ,	O
 PARA	O
 GUARDA	O
@@ -38493,7 +38499,7 @@ PELOS	O
 VEREADORES	O
 DO	O
 ANNO	O
-1612	O
+1612	TEMPO
 ,	O
 SENDO	O
 VICE-REI	O
@@ -38520,8 +38526,8 @@ bloqueio	O
 dos	O
 holandeses	O
 no	O
-século	O
-XVII	O
+século	TEMPO
+XVII	TEMPO
 e	O
 nas	O
 diversas	O
@@ -38567,7 +38573,7 @@ Lopes	PESSOA
 de	PESSOA
 Lima	PESSOA
 em	O
-1841	O
+1841	TEMPO
 ,	O
 que	O
 incluía	O
@@ -38578,8 +38584,8 @@ e	O
 um	O
 sino	O
 de	O
-2250	O
-quilos	O
+2250	VALOR
+quilos	VALOR
 .	O
 Este	O
 sino	O
@@ -38653,15 +38659,15 @@ Porto	LOCAL
 foi	O
 criada	O
 em	O
-12	O
-de	O
-Outubro	O
+12	TEMPO
+de	TEMPO
+Outubro	TEMPO
 do	O
 ano	O
 da	O
 Graça	O
 de	O
-1994	O
+1994	TEMPO
 ,	O
 surgindo	O
 devido	O
@@ -38681,9 +38687,9 @@ UFP	O
 ,	O
 constituida	O
 por	O
-cerca	O
-de	O
-40	O
+cerca	VALOR
+de	VALOR
+40	VALOR
 elementos	O
 e	O
 apadrinhada	O
@@ -38711,10 +38717,10 @@ Serafim	PESSOA
 )	O
 no	O
 capítulo	O
-4º	O
+4º	VALOR
 ,	O
 versículo	O
-234º	O
+234º	VALOR
 ,	O
 alínea	O
 k	O
@@ -38818,7 +38824,7 @@ da	O
 música	O
 portuguesa	O
 pelos	O
-49	O
+49	VALOR
 cantos	O
 do	O
 mundo	O
@@ -38977,7 +38983,7 @@ século	O
 no	O
 mês	O
 de	O
-Junho	O
+Junho	TEMPO
 )	O
 .	O
 
@@ -39011,30 +39017,30 @@ Na	O
 última	O
 noite	O
 do	O
-Carnaval	O
+Carnaval	TEMPO
 ,	O
 que	O
 foi	O
 justamente	O
 aos	O
-8	O
-dias	O
+8	VALOR
+dias	VALOR
 do	O
 mês	O
 de	O
-Fevereiro	O
+Fevereiro	TEMPO
 ,	O
 do	O
 corrente	O
 ano	O
 ,	O
 pelas	O
-9	O
-horas	O
-e	O
-meia	O
-da	O
-noite	O
+9	TEMPO
+horas	TEMPO
+e	TEMPO
+meia	TEMPO
+da	TEMPO
+noite	TEMPO
 entrava	O
 no	O
 Teatro	LOCAL
@@ -39846,8 +39852,8 @@ voluptuoso	O
 como	O
 Voltaire	PESSOA
 aos	O
-60	O
-anos	O
+60	VALOR
+anos	VALOR
 .	O
 Imagina	O
 que	O
@@ -39891,7 +39897,7 @@ de	O
 um	O
 baile	O
 de	O
-Carnaval	O
+Carnaval	TEMPO
 .	O
 Imagina	O
 que	O
@@ -41360,9 +41366,9 @@ jogo	O
 montantes	O
 inferiores	O
 a	O
-20	O
-000	O
-euros	O
+20	VALOR
+000	VALOR
+euros	VALOR
 .	O
 De	O
 igual	O
@@ -41536,7 +41542,7 @@ colega	O
 Pack	PESSOA
 :	O
 em	O
-2004	O
+2004	TEMPO
 ,	O
 quando	O
 houver	O
@@ -41618,9 +41624,9 @@ espantoso	O
 
 
 Entre	O
-1995	O
+1995	TEMPO
 e	O
-1999	O
+1999	TEMPO
 tivemos	O
 o	O
 programa	O
@@ -41729,7 +41735,7 @@ II	O
 que	O
 vigorará	O
 até	O
-2006	O
+2006	TEMPO
 ,	O
 e	O
 apesar	O
@@ -42164,8 +42170,8 @@ anualmente	O
 neste	O
 programa	O
 ,	O
-460	O
-000	O
+460	VALOR
+000	VALOR
 ,	O
 viesse	O
 a	O
@@ -42961,23 +42967,23 @@ Na	O
 Europa	LOCAL
 ,	O
 gastamos	O
-2,5	O
-mil	O
-milhões	O
-de	O
-euros	O
+2,5	VALOR
+mil	VALOR
+milhões	VALOR
+de	VALOR
+euros	VALOR
 anualmente	O
 em	O
 azeitonas	O
 e	O
 gastámos	O
-menos	O
-de	O
-2	O
-mil	O
-milhões	O
-de	O
-euros	O
+menos	VALOR
+de	VALOR
+2	VALOR
+mil	VALOR
+milhões	VALOR
+de	VALOR
+euros	VALOR
 ,	O
 para	O
 um	O
@@ -43132,9 +43138,9 @@ atmosfera	O
 que	O
 reinava	O
 de	O
-56	O
+56	TEMPO
 até	O
-60	O
+60	TEMPO
 não	O
 era	O
 uma	O
@@ -43252,7 +43258,7 @@ trabalho	O
 R	O
 -	O
 Em	O
-57	O
+57	TEMPO
 ,	O
 depois	O
 da	O
@@ -43304,7 +43310,7 @@ E	O
 cheguei	O
 sozinho	O
 em	O
-60	O
+60	TEMPO
 .	O
 
 
@@ -43325,7 +43331,7 @@ R	O
 Eu	O
 cheguei	O
 em	O
-abril	O
+abril	TEMPO
 ,	O
 fiquei	O
 um	O
@@ -43353,7 +43359,7 @@ empregos	O
 E	O
 ,	O
 em	O
-maio	O
+maio	TEMPO
 ,	O
 eu	O
 vi	O
@@ -43392,8 +43398,8 @@ tinha	O
 uma	O
 fila	O
 de	O
-quase	O
-150	O
+quase	VALOR
+150	VALOR
 pessoas	O
 .	O
 Eu	O
@@ -43521,8 +43527,8 @@ do	O
 zero	O
 novamente	O
 aos	O
-44	O
-anos	O
+44	VALOR
+anos	VALOR
 ,	O
 agora	O
 vou	O
@@ -43581,10 +43587,10 @@ Comunications	ORGANIZACAO
 E	O
 continuei	O
 até	O
-84	O
+84	TEMPO
 .	O
 Em	O
-84	O
+84	TEMPO
 eu	O
 disse	O
 :	O
@@ -43820,10 +43826,10 @@ que	O
 ,	O
 quase	O
 ,	O
-30	O
+30	VALOR
 ,	O
-35	O
-anos	O
+35	VALOR
+anos	VALOR
 ,	O
 né	O
 ?	O
@@ -43833,10 +43839,10 @@ não	O
 era	O
 aquela	O
 juventude	O
-19	O
+19	VALOR
 ,	O
-20	O
-anos	O
+20	VALOR
+anos	VALOR
 é	O
 uma	O
 coisa	O
@@ -44057,9 +44063,9 @@ importante	O
 ,	O
 era	O
 em	O
-56	O
+56	TEMPO
 ,	O
-57	O
+57	TEMPO
 ,	O
 na	O
 minha	O
@@ -44302,7 +44308,7 @@ na	O
 Grécia	LOCAL
 .	O
 Em	O
-57	O
+57	TEMPO
 ,	O
 indo	O
 para	O
@@ -44473,8 +44479,8 @@ avantajado	O
 ,	O
 em	O
 média	O
-500	O
-gramas	O
+500	VALOR
+gramas	VALOR
 ,	O
 com	O
 alguns	O
@@ -44495,8 +44501,8 @@ uma	O
 vara	O
 lisa	O
 de	O
-4	O
-metros	O
+4	VALOR
+metros	VALOR
 (	O
 no	O
 mínimo	O
@@ -44556,8 +44562,8 @@ micro	O
 equipado	O
 com	O
 linha	O
-0,20	O
-mm	O
+0,20	VALOR
+mm	VALOR
 ,	O
 e	O
 anzol	O
@@ -44756,7 +44762,7 @@ local	O
 chegam	O
 a	O
 pegar	O
-3	O
+3	VALOR
 vezes	O
 mais	O
 tilápias	O
@@ -44770,9 +44776,9 @@ saindo	O
 de	O
 lá	O
 com	O
-150	O
-a	O
-200	O
+150	VALOR
+a	VALOR
+200	VALOR
 exemplares	O
 em	O
 um	O
@@ -45070,14 +45076,14 @@ mercado	O
 futuro	O
 caiu	O
 de	O
-3,76	O
-%	O
+3,76	VALOR
+%	VALOR
 no	O
 dia	O
 anterior	O
 para	O
-3,71	O
-%	O
+3,71	VALOR
+%	VALOR
 ontem	O
 .	O
 
@@ -45343,11 +45349,11 @@ que	O
 o	O
 cliente	O
 em	O
-2	O
-horas	O
+2	VALOR
+horas	VALOR
 ou	O
-3	O
-horas	O
+3	VALOR
+horas	VALOR
 ele	O
 fizesse	O
 um	O
@@ -45776,7 +45782,7 @@ fantasias	O
 etc.	O
 ;	O
 no	O
-Natal	O
+Natal	TEMPO
 você	O
 se	O
 especializa	O
@@ -46162,9 +46168,9 @@ posteriormente	O
 Energia	O
 Hidráulica	O
 
--LSB-	O
+[	O
 Volta	O
--RSB-	O
+]	O
 
 
 A	O
@@ -46206,8 +46212,8 @@ Foi	O
 porém	O
 ,	O
 no	O
-século	O
-XIX	O
+século	TEMPO
+XIX	TEMPO
 que	O
 o	O
 aproveitamento	O
@@ -46912,8 +46918,8 @@ Tempo	O
 
 4.1	O
 -	O
-Ano	O
-Hidrológico	O
+Ano	TEMPO
+Hidrológico	TEMPO
 -	O
 Período	O
 de	O
@@ -46933,8 +46939,8 @@ hidraulicidade	O
 
 4.2	O
 -	O
-Ano	O
-Médio	O
+Ano	TEMPO
+Médio	TEMPO
 -	O
 Ano	O
 (	O
@@ -46979,8 +46985,8 @@ caso	O
 
 4.3	O
 -	O
-Ano	O
-Úmido	O
+Ano	TEMPO
+Úmido	TEMPO
 -	O
 Ano	O
 baseado	O
@@ -47004,8 +47010,8 @@ média	O
 
 4.4	O
 -	O
-Ano	O
-Seco	O
+Ano	TEMPO
+Seco	TEMPO
 -	O
 Ano	O
 baseado	O
@@ -47029,9 +47035,9 @@ média	O
 
 4.5	O
 -	O
-Tempo	O
-de	O
-Exploração	O
+Tempo	TEMPO
+de	TEMPO
+Exploração	TEMPO
 -	O
 Número	O
 de	O
@@ -47798,9 +47804,9 @@ sua	O
 actividade	O
 editorial	O
 desde	O
-Outubro	O
-de	O
-1996	O
+Outubro	TEMPO
+de	TEMPO
+1996	TEMPO
 .	O
 
 Se	O
@@ -47841,9 +47847,11 @@ Linha	O
 directa	O
 do	O
 leitor	O
-+351 213174711	O
++351	O
+213174711	O
 Fax	O
-+351 213528574	O
++351	O
+213528574	O
 
 informações	O
 várias	O
@@ -47862,39 +47870,39 @@ editorial@climepsi.pt	O
 internet	O
 :	O
 webmaster@climepsi.pt	O
--LSB-	O
+[	O
 home	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 novidades	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 próximas	O
 edições	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 catálogo	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 promoções	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 apresentação	O
 da	O
 editora	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 comentários	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 contacte-nos	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 links	O
--RSB-	O
--LSB-	O
+]	O
+[	O
 eventos	O
--RSB-	O
+]	O
 
 
 
@@ -48169,7 +48177,7 @@ O	O
 ser	O
 humano	O
 tem	O
-12	O
+12	VALOR
 pares	O
 de	O
 nervos	O
@@ -48180,7 +48188,7 @@ partem	O
 do	O
 encéfalo	O
 ;	O
-31	O
+31	VALOR
 pares	O
 de	O
 nervos	O
@@ -48663,7 +48671,7 @@ foi	O
 preso	O
 ,	O
 em	O
-Dezembro	O
+Dezembro	TEMPO
 passado	O
 ,	O
 o	O
@@ -48671,8 +48679,8 @@ seu	O
 filho	O
 ,	O
 de	O
-26	O
-anos	O
+26	VALOR
+anos	VALOR
 ,	O
 está	O
 a	O
@@ -48798,8 +48806,8 @@ bisavô	O
 .	O
 
 são	O
-70	O
-megas	O
+70	VALOR
+megas	VALOR
 de	O
 informações	O
 super	O
@@ -48883,8 +48891,8 @@ pagar	O
 
 
 apenas	O
-R$	O
-19,90	O
+R$	VALOR
+19,90	VALOR
 
 reserve	O
 já	O
@@ -48894,7 +48902,7 @@ DO	O
 CRISTÃO	O
 ,	O
 indique	O
-5	O
+5	VALOR
 pessoas	O
 e	O
 ganhe	O
@@ -48969,8 +48977,8 @@ inicial	O
 que	O
 pode	O
 ser	O
-80	O
-%	O
+80	VALOR
+%	VALOR
 financiado	O
 pelo	O
 BNDES	ORGANIZACAO
@@ -48996,7 +49004,7 @@ Feira	O
 da	O
 Cosmética	O
 em	O
-Setembro	O
+Setembro	TEMPO
 em	O
 São	LOCAL
 Paulo	LOCAL
@@ -49013,7 +49021,8 @@ obrigada	O
 Cristiane	PESSOA
 -	O
 tel	O
-(11) 3645-3620	O
+(11)	O
+3645-3620	O
 
 
 Peço	O
@@ -49042,8 +49051,8 @@ página	O
 Ronda	LOCAL
 tem	O
 oficialmente	O
-45	O
-mil	O
+45	VALOR
+mil	VALOR
 habitantes	O
 mas	O
 ,	O
@@ -49072,14 +49081,14 @@ muito	O
 menos	O
 .	O
 Situada	O
-125	O
-quilómetros	O
+125	VALOR
+quilómetros	VALOR
 a	O
 sul	O
 de	O
 Sevilha	LOCAL
 e	O
-60	O
+60	VALOR
 a	O
 norte	O
 de	O
@@ -49106,8 +49115,8 @@ uma	O
 vertiginosa	O
 garganta	O
 de	O
-100	O
-metros	O
+100	VALOR
+metros	VALOR
 de	O
 altura	O
 ,	O
@@ -49151,7 +49160,7 @@ e	O
 Isabel	PESSOA
 ,	O
 em	O
-1485	O
+1485	TEMPO
 .	O
 Como	O
 se	O
@@ -49220,8 +49229,8 @@ Ptolomeu	PESSOA
 nos	O
 tempos	O
 do	O
-Império	O
-Romano	O
+Império	TEMPO
+Romano	TEMPO
 .	O
 Os	O
 sectores	O
@@ -49266,7 +49275,7 @@ Nuevo	O
 ,	O
 erguida	O
 em	O
-1735	O
+1735	TEMPO
 ,	O
 cujo	O
 panorama	O
@@ -49739,7 +49748,7 @@ datam	O
 do	O
 ano	O
 de	O
-1995	O
+1995	TEMPO
 ,	O
 tendo	O
 sido	O
@@ -49748,11 +49757,11 @@ ao	O
 Banco	ORGANIZACAO
 Mundial	ORGANIZACAO
 em	O
-28	O
-de	O
-dezembro	O
-de	O
-1995	O
+28	TEMPO
+de	TEMPO
+dezembro	TEMPO
+de	TEMPO
+1995	TEMPO
 ,	O
 sob	O
 o	O
@@ -49777,9 +49786,9 @@ aprovação	O
 no	O
 mês	O
 de	O
-julho	O
-de	O
-1996	O
+julho	TEMPO
+de	TEMPO
+1996	TEMPO
 ;	O
 
 a	O
@@ -49795,9 +49804,9 @@ do	O
 doador	O
 ,	O
 em	O
-dezembro	O
-de	O
-1996	O
+dezembro	TEMPO
+de	TEMPO
+1996	TEMPO
 .	O
 
 
@@ -50285,8 +50294,8 @@ Alencar	PESSOA
 na	O
 festa	O
 de	O
-50	O
-anos	O
+50	VALOR
+anos	VALOR
 de	O
 vida	O
 empresarial	O
@@ -50429,7 +50438,7 @@ eleições	O
 ao	O
 Senado	ORGANIZACAO
 de	O
-1974	O
+1974	TEMPO
 ,	O
 porque	O
 era	O
@@ -50525,8 +50534,8 @@ ganha	O
 vira	O
 governo	O
 de	O
-170	O
-milhões	O
+170	VALOR
+milhões	VALOR
 de	O
 brasileiros	O
 .	O
@@ -50800,7 +50809,7 @@ O	O
 grupo	O
 Pão-de-açúcar	ORGANIZACAO
 ,	O
-2ª	O
+2ª	VALOR
 maior	O
 rede	O
 de	O
@@ -50814,7 +50823,7 @@ para	O
 a	O
 aquisição	O
 das	O
-27	O
+27	VALOR
 lojas	O
 G.Aronson	ORGANIZACAO
 ,	O
@@ -51079,12 +51088,12 @@ veio	O
 aqui	O
 e	O
 liberou	O
-US$	O
-5	O
-milhões	O
+US$	VALOR
+5	VALOR
+milhões	VALOR
 ,	O
-1	O
-%	O
+1	VALOR
+%	VALOR
 do	O
 valor	O
 da	O
@@ -52077,7 +52086,7 @@ Generalidades	O
 
 Criado	O
 em	O
-1971	O
+1971	TEMPO
 ,	O
 o	O
 Parque	LOCAL
@@ -52100,10 +52109,10 @@ alonga	O
 em	O
 ferradura	O
 por	O
-cerca	O
-de	O
-72000	O
-hectares	O
+cerca	VALOR
+de	VALOR
+72000	VALOR
+hectares	VALOR
 .	O
 Na	O
 sua	O
@@ -52194,7 +52203,7 @@ Marinho	LOCAL
 vista	O
 panorâmica	O
 em	O
-270º	O
+270º	VALOR
 )	O
 .	O
 
@@ -52215,8 +52224,8 @@ cotas	O
 que	O
 ultrapassam	O
 os	O
-1500	O
-metros	O
+1500	VALOR
+metros	VALOR
 .	O
 A	O
 região	O
@@ -52261,7 +52270,7 @@ Bela	LOCAL
 vista	O
 panorâmica	O
 em	O
-360º	O
+360º	VALOR
 )	O
 .	O
 
@@ -52278,7 +52287,7 @@ pelo	O
 menos	O
 desde	O
 o	O
-Neolítico	O
+Neolítico	TEMPO
 e	O
 da	O
 invenção	O
@@ -52301,7 +52310,7 @@ Júnias	O
 vista	O
 panorâmica	O
 em	O
-360º	O
+360º	VALOR
 )	O
 .	O
 Actualmente	O
@@ -52311,16 +52320,16 @@ território	O
 do	O
 Parque	LOCAL
 comporta	O
-114	O
+114	VALOR
 aldeamentos	O
 ,	O
 onde	O
 vivem	O
 em	O
 permanência	O
-cerca	O
-de	O
-10000	O
+cerca	VALOR
+de	VALOR
+10000	VALOR
 residentes	O
 .	O
 Esta	O
@@ -52389,13 +52398,13 @@ realizado	O
 nos	O
 próximos	O
 dias	O
-18	O
+18	TEMPO
 ,	O
-19	O
+19	TEMPO
 e	O
-20	O
-de	O
-agosto	O
+20	TEMPO
+de	TEMPO
+agosto	TEMPO
 ,	O
 na	O
 sala	LOCAL
@@ -52462,15 +52471,15 @@ RESULTADOS	O
 E	O
 REFLEXÕES	O
 
-18	O
+18	TEMPO
 ,	O
-19	O
+19	TEMPO
 e	O
-20	O
-DE	O
-AGOSTO	O
-DE	O
-1999	O
+20	TEMPO
+DE	TEMPO
+AGOSTO	TEMPO
+DE	TEMPO
+1999	TEMPO
 
 BNDES	ORGANIZACAO
 .	O
@@ -52798,20 +52807,20 @@ PROGRAMA	O
 :	O
 
 Dia	O
-18	O
-de	O
-agosto	O
-de	O
-1999	O
+18	TEMPO
+de	TEMPO
+agosto	TEMPO
+de	TEMPO
+1999	TEMPO
 
 Manhã	O
 :	O
-9:30	O
+9:30	TEMPO
 -	O
-12:30	O
-hs	O
+12:30	TEMPO
+hs	TEMPO
 
-9:30	O
+9:30	TEMPO
 -	O
 ABERTURA	O
 
@@ -52915,11 +52924,11 @@ Debates	O
 
 Tarde	O
 :	O
-14	O
-hs	O
+14	TEMPO
+hs	TEMPO
 às	O
-17:30	O
-hs	O
+17:30	TEMPO
+hs	TEMPO
 
 Coordenador	O
 :	O
@@ -53036,18 +53045,18 @@ Grenoble	LOCAL
 Debates	O
 
 Dia	O
-19	O
-de	O
-agosto	O
-de	O
-1999	O
+19	TEMPO
+de	TEMPO
+agosto	TEMPO
+de	TEMPO
+1999	TEMPO
 
 Manhã	O
 :	O
-9:00	O
+9:00	TEMPO
 -	O
-12:30	O
-hs	O
+12:30	TEMPO
+hs	TEMPO
 
 Segunda	O
 sessão	O
@@ -53189,11 +53198,11 @@ Debates	O
 
 Tarde	O
 :	O
-14	O
-hs	O
+14	TEMPO
+hs	TEMPO
 às	O
-17:30	O
-hs	O
+17:30	TEMPO
+hs	TEMPO
 
 Coordenador	O
 :	O
@@ -53329,18 +53338,18 @@ Fiocruz	ORGANIZACAO
 Debates	O
 
 Dia	O
-20	O
-de	O
-agosto	O
-de	O
-1999	O
+20	TEMPO
+de	TEMPO
+agosto	TEMPO
+de	TEMPO
+1999	TEMPO
 
 Manhã	O
 :	O
-9:00	O
+9:00	TEMPO
 -	O
-12:30	O
-hs	O
+12:30	TEMPO
+hs	TEMPO
 
 Terceira	O
 Sessão	O
@@ -53572,7 +53581,7 @@ Tel	O
 77	O
 R	O
 :	O
-200	O
+200	VALOR
 
 
 
@@ -53621,8 +53630,8 @@ maioria	O
 dos	O
 consultados	O
 (	O
-86	O
-%	O
+86	VALOR
+%	VALOR
 )	O
 acredita	O
 que	O
@@ -53664,14 +53673,14 @@ posse	O
 
 São	O
 apenas	O
-2	O
-%	O
+2	VALOR
+%	VALOR
 .	O
 
 Para	O
 outros	O
-9	O
-%	O
+9	VALOR
+%	VALOR
 ,	O
 haverá	O
 resistências	O
@@ -53780,7 +53789,7 @@ partir	O
 
 
 CAPÍTULO	O
-III	O
+III	VALOR
 /	O
 A	O
 DENÚNCIA	O
@@ -53816,7 +53825,7 @@ Mata-cavalos	LOCAL
 ,	O
 o	O
 mês	O
-novembro	O
+novembro	TEMPO
 ,	O
 o	O
 ano	O
@@ -53853,7 +53862,7 @@ o	O
 ano	O
 era	O
 de	O
-1857	O
+1857	TEMPO
 .	O
 
 
@@ -54653,9 +54662,9 @@ amaríssimo	O
 
 HOSPEDAGEM	O
 SÓ	O
-R$	O
-29,99	O
-reais	O
+R$	VALOR
+29,99	VALOR
+reais	VALOR
 
 
 NA	O
@@ -54693,7 +54702,8 @@ nos	O
 ligue	O
 agora	O
 mesmo	O
-(92) 233-8157	O
+(92)	O
+233-8157	O
 /	O
 9148-0766	O
 
@@ -54702,11 +54712,11 @@ Super-promoção	O
 HOME	O
 PAGE	O
 só	O
-R$	O
-189,00	O
-reais	O
+R$	VALOR
+189,00	VALOR
+reais	VALOR
 (	O
-6	O
+6	VALOR
 links	O
 ou	O
 paginas	O
@@ -54723,13 +54733,13 @@ para	O
 amainfo@amainfo.com.br	O
 
 
-47	O
+47	VALOR
 Programas	O
 Comerciais	O
 por	O
 apenas	O
-R$	O
-49,90	O
+R$	VALOR
+49,90	VALOR
 
 
 Informatize	O
@@ -54744,13 +54754,13 @@ Mercado	O
 
 CD	O
 com	O
-47	O
+47	VALOR
 Programas	O
 Comerciais	O
 por	O
 apenas	O
-R$	O
-49,90	O
+R$	VALOR
+49,90	VALOR
 
 
 Com	O
@@ -54764,7 +54774,7 @@ o	O
 direito	O
 de	O
 usar	O
-47	O
+47	VALOR
 programas	O
 de	O
 grande	O
@@ -54784,8 +54794,8 @@ uma	O
 taxa	O
 adicional	O
 de	O
-R$	O
-19,90	O
+R$	VALOR
+19,90	VALOR
 você	O
 também	O
 obtém	O
@@ -54800,7 +54810,7 @@ Delphi	O
 de	O
 todos	O
 os	O
-47	O
+47	VALOR
 programas	O
 ,	O
 assim	O
@@ -55096,7 +55106,7 @@ par	O
 de	O
 joelheiras	O
 e	O
-45	O
+45	VALOR
 camisinhas	O
 !	O
 
@@ -55438,7 +55448,7 @@ mão	O
 Rarará	O
 !	O
 
-Carnaval	O
+Carnaval	TEMPO
 devia	O
 ser	O
 o	O
@@ -55446,8 +55456,8 @@ ano	O
 todo	O
 .	O
 
-Cinco	O
-dias	O
+Cinco	VALOR
+dias	VALOR
 é	O
 pra	O
 amador	O
@@ -55482,7 +55492,7 @@ uma	O
 encomenda	O
 para	O
 vender	O
-4000	O
+4000	VALOR
 blindados	O
 ao	O
 Iraque	ORGANIZACAO
@@ -55523,8 +55533,8 @@ com	O
 uma	O
 potência	O
 de	O
-440	O
-megawatts	O
+440	VALOR
+megawatts	VALOR
 ,	O
 para	O
 serem	O
@@ -55568,8 +55578,8 @@ local	O
 um	O
 reactor	O
 de	O
-1000	O
-megawattsz	O
+1000	VALOR
+megawattsz	VALOR
 ,	O
 num	O
 negócio	O
@@ -55608,7 +55618,7 @@ de	O
 uma	O
 encomenda	O
 de	O
-4000	O
+4000	VALOR
 carros	O
 de	O
 combate	O
@@ -55712,8 +55722,8 @@ bandeiras	O
 http://www.terravista.pt/Copacabana/1452	O
 Canudos	LOCAL
 -	O
-100	O
-Anos	O
+100	VALOR
+Anos	VALOR
 Site	O
 totalmente	O
 dedicado	O
@@ -55780,10 +55790,10 @@ do	O
 Brasil	O
 e	O
 o	O
-Período	O
-Imperial	O
+Período	TEMPO
+Imperial	TEMPO
 (	O
-1822-1889	O
+1822-1889	TEMPO
 )	O
 através	O
 de	O
@@ -55806,18 +55816,18 @@ os	O
 anos	O
 entre	O
 a	O
-Independência	O
-do	O
-Brasil	O
+Independência	TEMPO
+do	TEMPO
+Brasil	TEMPO
 em	O
-1822	O
+1822	TEMPO
 e	O
 a	O
-Proclamação	O
-da	O
-República	O
+Proclamação	TEMPO
+da	TEMPO
+República	TEMPO
 em	O
-1889	O
+1889	TEMPO
 .	O
 
 O	O
@@ -55894,10 +55904,10 @@ http://www.geocities.com/SoHo/3808/	O
 Regime	ORGANIZACAO
 Militar	ORGANIZACAO
 de	O
-1964	O
+1964	TEMPO
 Durante	O
-21	O
-anos	O
+21	VALOR
+anos	VALOR
 o	O
 país	O
 viveu	O
@@ -55964,7 +55974,7 @@ repressão	O
 http://www.geocities.com/CapitolHill/3038/	O
 Atualizado	O
 em	O
-17/02/98	O
+17/02/98	TEMPO
 
 
 
@@ -55994,10 +56004,10 @@ folclóricas	O
 
 Preço	O
 :	O
-cerca	O
-de	O
-US$	O
-43	O
+cerca	VALOR
+de	VALOR
+US$	VALOR
+43	VALOR
 .	O
 
 
@@ -56034,9 +56044,9 @@ visitas	O
 vão	O
 só	O
 de	O
-junho	O
+junho	TEMPO
 a	O
-setembro	O
+setembro	TEMPO
 .	O
 
 
@@ -56657,13 +56667,13 @@ em	O
 Barcelona	LOCAL
 ,	O
 em	O
-14	O
+14	TEMPO
 e	O
-15	O
-de	O
-março	O
-de	O
-1997	O
+15	TEMPO
+de	TEMPO
+março	TEMPO
+de	TEMPO
+1997	TEMPO
 .	O
 
 Dr.	PESSOA
@@ -56836,7 +56846,7 @@ com	O
 provas	O
 científicas	O
 desde	O
-1803	O
+1803	TEMPO
 ,	O
 com	O
 Dalton	PESSOA
@@ -56849,7 +56859,7 @@ proposto	O
 por	O
 Rutherford	PESSOA
 em	O
-1911	O
+1911	TEMPO
 ainda	O
 havia	O
 certas	O
@@ -57022,8 +57032,8 @@ Tem	O
 uma	O
 velocidade	O
 de	O
-300.000	O
-Km/s	O
+300.000	VALOR
+Km/s	VALOR
 
 É	O
 uma	O
@@ -57214,7 +57224,7 @@ teoria	O
 quântica	O
 surgiu	O
 em	O
-1900	O
+1900	TEMPO
 com	O
 Max	PESSOA
 Planck	PESSOA
@@ -57391,7 +57401,7 @@ a	O
 Einstein	PESSOA
 ,	O
 em	O
-1905	O
+1905	TEMPO
 ,	O
 a	O
 explicação	O
@@ -57640,7 +57650,7 @@ www.abola.pt	O
 -	O
 Destaques	O
 (	O
-01	O
+01	VALOR
 )	O
 (	O
 edição	O
@@ -57946,7 +57956,7 @@ ligadas	O
 campanha	O
 eleitoral	O
 de	O
-Setembro	O
+Setembro	TEMPO
 .	O
 
 Bush	PESSOA
@@ -58032,9 +58042,9 @@ de	O
 utilizacao	O
 ,	O
 recebeu	O
-US$	O
-7,5	O
-milhoes	O
+US$	VALOR
+7,5	VALOR
+milhoes	VALOR
 em	O
 recursos	O
 disponibilizados	O
@@ -58129,7 +58139,7 @@ governo	O
 federal	O
 estadunidense	O
 seja	O
-1.000	O
+1.000	VALOR
 vezes	O
 mais	O
 rapida	O
@@ -58272,9 +58282,9 @@ rede	O
 (	O
 Philadelphia	O
 Inquirer	O
-1	O
-Dez	O
-99	O
+1	TEMPO
+Dez	TEMPO
+99	TEMPO
 )	O
 (	O
 Edupage	LOCAL
@@ -58656,10 +58666,10 @@ Automático	O
 no	O
 valor	O
 de	O
-1,45	O
-milhões	O
-de	O
-Euros	O
+1,45	VALOR
+milhões	VALOR
+de	VALOR
+Euros	VALOR
 para	O
 a	O
 Continental	ORGANIZACAO
@@ -58699,10 +58709,10 @@ automática	O
 no	O
 valor	O
 de	O
-1,45	O
-milhões	O
-de	O
-Euros	O
+1,45	VALOR
+milhões	VALOR
+de	VALOR
+Euros	VALOR
 .	O
 
 A	O
@@ -58769,7 +58779,7 @@ automatizada	O
 .	O
 
 Em	O
-2001-2002	O
+2001-2002	TEMPO
 a	O
 Continental	ORGANIZACAO
 AG	ORGANIZACAO
@@ -58778,7 +58788,7 @@ fundada	O
 em	O
 Hannover	LOCAL
 em	O
-1871	O
+1871	TEMPO
 ,	O
 e	O
 detendo	O
@@ -58838,13 +58848,13 @@ nível	O
 de	O
 produção	O
 de	O
-cerca	O
-de	O
-33.000	O
+cerca	VALOR
+de	VALOR
+33.000	VALOR
 pneus/dia	O
 para	O
-aproximadamente	O
-44.000	O
+aproximadamente	VALOR
+44.000	VALOR
 pneus/dia	O
 .	O
 Dentro	O
@@ -59008,9 +59018,9 @@ de	O
 tempo	O
 ,	O
 de	O
-1926	O
+1926	TEMPO
 a	O
-1941	O
+1941	TEMPO
 ,	O
 atreito	O
 a	O
@@ -59273,7 +59283,7 @@ exemplo	O
 da	O
 Claridade	O
 (	O
-1936	O
+1936	TEMPO
 )	O
 cabo-verdiana	O
 )	O
@@ -59366,7 +59376,7 @@ fase	O
 do	O
 Casticismo	O
 (	O
-1942-1960	O
+1942-1960	TEMPO
 )	O
 ,	O
 surgiu	O
@@ -59435,7 +59445,7 @@ de	O
 nome	O
 santo	O
 (	O
-1942	O
+1942	TEMPO
 )	O
 ,	O
 integrado	O
@@ -59551,7 +59561,7 @@ vestes	O
 do	O
 Sócio-realismo	O
 (	O
-1942-1950/60	O
+1942-1950/60	TEMPO
 )	O
 baseado	O
 no	O
@@ -59896,14 +59906,14 @@ língua	O
 portuguesa	O
 ,	O
 nos	O
-anos	O
-50	O
+anos	TEMPO
+50	TEMPO
 ,	O
 assumiram	O
 a	O
 Negritude	O
 (	O
-1949-1959	O
+1949-1959	TEMPO
 )	O
 como	O
 realização	O
@@ -60040,7 +60050,7 @@ fase	O
 de	O
 Resistência	O
 (	O
-1961-1974	O
+1961-1974	TEMPO
 )	O
 ,	O
 com	O
@@ -60049,7 +60059,7 @@ entrada	O
 na	O
 década	O
 de	O
-60	O
+60	TEMPO
 e	O
 o	O
 início	O
@@ -60128,7 +60138,7 @@ também	O
 a	O
 partir	O
 de	O
-1969	O
+1969	TEMPO
 ,	O
 uma	O
 temática	O
@@ -60187,19 +60197,19 @@ R	O
 Ele	O
 casou	O
 em	O
-1920	O
+1920	TEMPO
 .	O
 Ele	O
 casou-se	O
 com	O
-40	O
-anos	O
+40	VALOR
+anos	VALOR
 e	O
 minha	O
 mãe	O
 tinha	O
-18	O
-anos	O
+18	VALOR
+anos	VALOR
 menos	O
 que	O
 ele	O
@@ -60207,11 +60217,11 @@ ele	O
 Minha	O
 mãe	O
 tinha	O
-22	O
+22	VALOR
 .	O
 Ele	O
 tinha	O
-40	O
+40	VALOR
 .	O
 
 
@@ -60337,8 +60347,8 @@ Bela	LOCAL
 Vista	LOCAL
 ,	O
 mas	O
-45	O
-dias	O
+45	VALOR
+dias	VALOR
 depois	O
 voltamos	O
 pra	O
@@ -61061,7 +61071,7 @@ tinha	O
 o	O
 que	O
 ?	O
-50	O
+50	VALOR
 alunos	O
 .	O
 Pequena	O
@@ -61292,7 +61302,7 @@ irmãos	O
 Maristas	O
 .	O
 Em	O
-1937	O
+1937	TEMPO
 eu	O
 fiquei	O
 interno	O
@@ -61326,14 +61336,14 @@ Então	O
 ,	O
 eu	O
 fiquei	O
-37	O
+37	TEMPO
 ,	O
-38	O
+38	TEMPO
 e	O
-39	O
+39	TEMPO
 .	O
 Em	O
-39	O
+39	TEMPO
 meu	O
 pai	O
 morreu	O
@@ -61922,7 +61932,7 @@ tomada	O
 em	O
 meados	O
 de	O
-1993	O
+1993	TEMPO
 e	O
 ,	O
 se	O
@@ -61947,7 +61957,7 @@ incentivos	O
 
 ``	O
 Em	O
-1993	O
+1993	TEMPO
 já	O
 estarão	O
 esgotadas	O
@@ -61959,9 +61969,9 @@ Quadro	O
 Comunitário	O
 de	O
 Apoio	O
--LSB-	O
+[	O
 QCA	O
--RSB-	O
+]	O
 e	O
 ainda	O
 não	O
@@ -62008,7 +62018,7 @@ seguinte	O
 
 
 CAPÍTULO	O
-VIII	O
+VIII	VALOR
 /	O
 E	O
 TEMPO	O
@@ -62973,9 +62983,9 @@ iniciado	O
 no	O
 passado	O
 dia	O
-14	O
-de	O
-Julho	O
+14	TEMPO
+de	TEMPO
+Julho	TEMPO
 ,	O
 como	O
 consequência	O
@@ -63007,7 +63017,7 @@ o	O
 ano	O
 lectivo	O
 de	O
-2001/2002	O
+2001/2002	TEMPO
 .	O
 
 Não	O
@@ -63468,11 +63478,11 @@ uma	O
 que	O
 dei	O
 ao	O
--LSB-	O
+[	O
 jornalista	O
 da	O
 RTP	ORGANIZACAO
--RSB-	O
+]	O
 Manuel	PESSOA
 Fernandes	PESSOA
 ,	O
@@ -63635,9 +63645,9 @@ carreira	O
 Agora	O
 histórias	O
 picantes	O
--LSB-	O
+[	O
 pausa	O
--RSB-	O
+]	O
 ...	O
 também	O
 não	O
@@ -63675,9 +63685,9 @@ livro	O
 as	O
 histórias	O
 picantes	O
--LSB-	O
+[	O
 risos	O
--RSB-	O
+]	O
 .	O
 
 
@@ -63817,9 +63827,9 @@ Institucional	ORGANIZACAO
 nas	O
 eleições	O
 de	O
-2	O
-de	O
-julho	O
+2	TEMPO
+de	TEMPO
+julho	TEMPO
 ,	O
 estará	O
 fazendo	O
@@ -64099,19 +64109,19 @@ Nos	O
 Estados	LOCAL
 Unidos	LOCAL
 moram	O
-7,2	O
-milhões	O
+7,2	VALOR
+milhões	VALOR
 de	O
 imigrantes	O
 mexicanos	O
 ,	O
 que	O
 representariam	O
-mais	O
-de	O
-10	O
-por	O
-cento	O
+mais	VALOR
+de	VALOR
+10	VALOR
+por	VALOR
+cento	VALOR
 do	O
 eleitorado	O
 mexicano	O
@@ -64159,8 +64169,8 @@ governa	O
 o	O
 país	O
 há	O
-71	O
-anos	O
+71	VALOR
+anos	VALOR
 seguidos	O
 .	O
 
@@ -64192,11 +64202,11 @@ Andrade	LOCAL
 São	LOCAL
 Paulo	LOCAL
 ,	O
-21	O
-de	O
-novembro	O
-de	O
-1994	O
+21	TEMPO
+de	TEMPO
+novembro	TEMPO
+de	TEMPO
+1994	TEMPO
 
 
 
@@ -64251,11 +64261,11 @@ Paulo	LOCAL
 e	O
 nascí	O
 em	O
-14	O
-de	O
-abril	O
-de	O
-1948	O
+14	TEMPO
+de	TEMPO
+abril	TEMPO
+de	TEMPO
+1948	TEMPO
 .	O
 
 
@@ -64294,7 +64304,7 @@ Homs	LOCAL
 na	O
 Síria	LOCAL
 em	O
-1915	O
+1915	TEMPO
 ,	O
 hoje	O
 ele	O
@@ -64403,9 +64413,9 @@ irmãos	O
 e	O
 quando	O
 adquiriu	O
-aproximadamente	O
-14/15	O
-anos	O
+aproximadamente	VALOR
+14/15	VALOR
+anos	VALOR
 ,	O
 começou	O
 a	O
@@ -64763,7 +64773,7 @@ irmãos	O
 ,	O
 dez	O
 ou	O
-11	O
+11	VALOR
 irmãos	O
 ,	O
 mais	O
@@ -65168,7 +65178,7 @@ computadores	O
 Um	O
 levantamento	O
 de	O
-1999	O
+1999	TEMPO
 realizado	O
 pela	O
 Milken	ORGANIZACAO
@@ -65232,8 +65242,8 @@ EUA	LOCAL
 revelou	O
 que	O
 somente	O
-20	O
-%	O
+20	VALOR
+%	VALOR
 dos	O
 professores	O
 confiam	O
@@ -65264,9 +65274,9 @@ Times	O
 Education	O
 Life	O
 ,	O
-09	O
-Jan	O
-2000	O
+09	TEMPO
+Jan	TEMPO
+2000	TEMPO
 )	O
 e	O
 (	O
@@ -65316,7 +65326,7 @@ recebe	O
 convite	O
 da	O
 Globo	ORGANIZACAO
-Três	O
+Três	VALOR
 municípios	O
 já	O
 têm	O
@@ -65351,10 +65361,10 @@ vacinar	O
 até	O
 quinta-feira	O
 ,	O
-cerca	O
-de	O
-33	O
-mil	O
+cerca	VALOR
+de	VALOR
+33	VALOR
+mil	VALOR
 alunos	O
 das	O
 faculdades	O
@@ -65376,7 +65386,7 @@ de	O
 casos	O
 suspeitos	O
 ,	O
-759	O
+759	VALOR
 ,	O
 pode-se	O
 falar	O
@@ -65408,7 +65418,7 @@ chega	O
 ao	O
 Brasil	LOCAL
 em	O
-dezembro	O
+dezembro	TEMPO
 para	O
 fazer	O
 alguns	O
@@ -65438,8 +65448,8 @@ aproveita	O
 para	O
 comemorar	O
 os	O
-16	O
-milhões	O
+16	VALOR
+milhões	VALOR
 de	O
 discos	O
 vendidos	O
@@ -65473,7 +65483,7 @@ di	PESSOA
 Caprio	PESSOA
 e	O
 sair	O
-20	O
+20	VALOR
 vezes	O
 como	O
 capa	O
@@ -65613,8 +65623,8 @@ eleições	O
 terão	O
 clima	O
 de	O
-século	O
-21	O
+século	TEMPO
+21	TEMPO
 .	O
 
 A	O
@@ -65633,8 +65643,8 @@ novidades	O
 :	O
 todas	O
 as	O
-354	O
-mil	O
+354	VALOR
+mil	VALOR
 urnas	O
 do	O
 país	O
@@ -65688,9 +65698,9 @@ www.tse.gov.br	O
 **	O
 Ultima	O
 atualização	O
-26/09/2000	O
+26/09/2000	TEMPO
 -	O
-11h45	O
+11h45	TEMPO
 Esse	O
 site	O
 deve	O
@@ -65702,14 +65712,14 @@ monitor	O
 ajustado	O
 na	O
 resolução	O
-800	O
-X	O
-600	O
+800	VALOR
+X	VALOR
+600	VALOR
 ©	O
 Fundação	ORGANIZACAO
 Cásper	ORGANIZACAO
 Líbero	ORGANIZACAO
-2000	O
+2000	TEMPO
 
 
 
