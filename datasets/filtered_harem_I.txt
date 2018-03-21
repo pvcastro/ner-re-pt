@@ -67417,7 +67417,7 @@ alarmam	O
 
 Desfile	O
 da	O
-Chanel	B-OBJECTO
+Chanel	B-ORGANIZACAO
 tem	O
 influência	O
 surrealista	O
@@ -86230,7 +86230,7 @@ moleque	O
 Na	O
 época	O
 do	O
-DKW	B-OBJECTO
+DKW	O
 ,	O
 existia	O
 o	O
